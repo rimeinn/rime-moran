@@ -9698,6 +9698,7 @@ checkerwork	checkerwork
 checklist	checklist
 checkmate	checkmate
 checkoff	checkoff
+checkout	checkout
 checkpoint	checkpoint
 checkrein	checkrein
 checkroom	checkroom
@@ -22355,6 +22356,19 @@ Gissing	Gissing
 gist	gist
 gists	gists
 git	git
+git add	gitadd
+git checkout	gitcheckout
+git cherry-pick	gitcherrypick
+git commit	gitcommit
+git commit -m	gitcommitm
+git commit --amend	gitcommitamend
+git diff	gitdiff
+git log	gitlog
+git push	gitpush
+git remote	gitremote
+git reset	gitreset
+git status	gitstatus
+git submodule	gitsubmodule
 GitBook	GitBook
 Gitea	Gitea
 Gitee	Gitee
@@ -51046,6 +51060,7 @@ Termius	Termius
 termless	termless
 termor	termor
 terms	terms
+Termux	Termux
 tern	tern
 ternary	ternary
 ternate	ternate
