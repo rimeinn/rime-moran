@@ -146,7 +146,7 @@ custom_phrase: # 自定義短語
   initial_quality: 1000
 
 english:
-  tag: english  # librime<=0.11 請在 custom 中置空
+  tag: english  # librime<=1.11 請在 custom 中置空
   dictionary: moran_english
   prism: moran_english
   enable_completion: true
