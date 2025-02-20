@@ -120,7 +120,7 @@ fixed:
   encode_commit_history: true
 
 english:
-  tag: english  # librime<=0.11 請在 custom 中置空
+  tag: english  # librime<=1.11 請在 custom 中置空
   dictionary: moran_english
   enable_user_dict: true
   enable_completion: true
