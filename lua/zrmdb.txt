@@ -8601,7 +8601,6 @@
 叡 yr
 叡 yo
 叢 yq
-叢 sd
 叢 yy
 口 aa
 古 uk
@@ -20609,7 +20608,6 @@
 离 wl
 禼 bd
 禼 br
-禼 sd
 禽 rl
 禾 pd
 禾 pm
@@ -22869,7 +22867,6 @@
 胒 on
 胓 op
 胔 rc
-胔 sd
 胕 of
 胖 ob
 胗 op
@@ -32183,7 +32180,6 @@
 黶 ih
 黷 hm
 黸 hl
-黹 sd
 黹 yb
 黺 fb
 黺 yf
