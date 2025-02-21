@@ -9,7 +9,7 @@ deploy:
   tab:
     tests:
       - send: 'lmjx{Tab}j{space}{space}'
-        assert: committed == '鏈接'
+        assert: commit == '鏈接'
 
   pin:
     tests:
