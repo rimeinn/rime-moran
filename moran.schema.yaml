@@ -65,6 +65,8 @@ engine:
     - matcher
     - matcher@recognizer_secondary
     - affix_segmentor@japanese_o
+    - affix_segmentor@force_trad
+    - affix_segmentor@force_simp
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
@@ -296,6 +298,14 @@ reverse_lookup:
     - reverse_cangjie5
     - reverse_zrlf
     - reverse_bopomofo
+
+force_simp:
+  suffix: '/j'
+  tag: force_simp
+
+force_trad:
+  suffix: '/f'
+  tag: force_trad
 
 punctuator:
   import_preset: symbols
