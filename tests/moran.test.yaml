@@ -93,15 +93,26 @@ deploy:
 
   force_segmentation:
     tests:
+      # input_len = 5
       - send: 'dafju'
         assert: eq(preedit, "da fju")
       - send: 'dafju{Control+l}'
         assert: eq(preedit, "daf'ju")
       - send: 'dafju{Control+l}{Control+l}'
         assert: eq(preedit, "da'fju")
+      # input_len = 6
       - send: 'dajwhk'
         assert: eq(preedit, 'da jw hk')
       - send: 'dajwhk{Control+l}'
         assert: eq(preedit, "daj'whk")
       - send: 'dajwhk{Control+l}{Control+l}'
         assert: eq(preedit, "da'jw'hk")
+      # input_len = 7
+      - send: 'dajwhkn'
+        assert: eq(preedit, 'da jw hkn')
+      - send: 'dajwhkn{Control+l}'
+        assert: eq(preedit, "da'jwh'kn")
+      - send: 'dajwhkn{Control+l}{Control+l}'
+        assert: eq(preedit, "daj'wh'kn")
+      - send: 'dajwhkn{Control+l}{Control+l}{Control+l}'
+        assert: eq(preedit, "da'jw'hkn")
