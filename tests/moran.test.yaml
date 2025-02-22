@@ -90,3 +90,18 @@ deploy:
         assert: eq(cand[1].text, '連接') and eq(cand[1].comment, "📌")
       - send: 'lmjx'
         assert: eq(cand[1].text, '連接') and eq(cand[1].comment, "📌")
+
+  force_segmentation:
+    tests:
+      - send: 'dafju'
+        assert: eq(preedit, "da fju")
+      - send: 'dafju{Control+l}'
+        assert: eq(preedit, "daf'ju")
+      - send: 'dafju{Control+l}{Control+l}'
+        assert: eq(preedit, "da'fju")
+      - send: 'dajwhk'
+        assert: eq(preedit, 'da jw hk')
+      - send: 'dajwhk{Control+l}'
+        assert: eq(preedit, "daj'whk")
+      - send: 'dajwhk{Control+l}{Control+l}'
+        assert: eq(preedit, "da'jw'hk")
