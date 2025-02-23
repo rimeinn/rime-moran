@@ -23,3 +23,5 @@ deploy:
         assert: cand[1].text == '連接' and cand[1].comment == "📌"
       - send: 'lmjx'
         assert: cand[1].text == '連接' and cand[1].comment == "📌"
+
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rimeinn/mira/refs/heads/master/spec/mira.schema.json

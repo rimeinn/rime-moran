@@ -116,3 +116,5 @@ deploy:
         assert: eq(preedit, "daj'wh'kn")
       - send: 'dajwhkn{Control+l}{Control+l}{Control+l}'
         assert: eq(preedit, "da'jw'hkn")
+
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rimeinn/mira/refs/heads/master/spec/mira.schema.json

@@ -1,5 +1,5 @@
 -- Moran Translator (for Express Editor)
--- Copyright (c) 2023, 2024 ksqsf
+-- Copyright (c) 2023, 2024, 2025 ksqsf
 --
 -- Ver: 0.7.3
 --
