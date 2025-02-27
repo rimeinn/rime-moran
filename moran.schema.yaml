@@ -194,6 +194,7 @@ chaifen:
   show_in_comment: true
   comment_form:
     - "xform/-/ /"
+    - "xform/〕〔/｜/"
 
 pinyinhint:
   option_name: pinyinhint

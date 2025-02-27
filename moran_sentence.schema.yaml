@@ -139,6 +139,7 @@ chaifen:
   show_in_comment: true
   comment_form:
     - "xform/-/ /"
+    - "xform/〕〔/｜/"
 
 emoji:
   opencc_config: moran_emoji.json

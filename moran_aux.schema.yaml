@@ -152,6 +152,7 @@ chaifen:
   inherit_comment: true
   comment_form:
     - "xform/-/ /"
+    - "xform/〕〔/｜/"
 
 std_hk:
   opencc_config: t2hk.json

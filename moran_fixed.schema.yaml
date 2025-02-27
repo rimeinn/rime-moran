@@ -162,6 +162,7 @@ chaifen:
   show_in_comment: true
   comment_form:
     - "xform/-/ /"
+    - "xform/〕〔/｜/"
 
 reverse_zrlf:
   tag: reverse_zrlf

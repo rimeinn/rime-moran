@@ -32684,6 +32684,7 @@
 𠂢 pp
 𠂣 px
 𠂤 vv
+𠂤 pk
 𠂥 pc
 𠂦 pa
 𠂧 ps
@@ -81508,6 +81509,9 @@
 𫜶 od
 𫜷 ue
 𫜸 kb
+𫜹 xt
+𫜹 aa
+𫜹 vh
 𫝁 ak
 𫝁 qk
 𫝂 aa
