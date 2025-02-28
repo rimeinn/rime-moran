@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20240616"
+version: "20250301"
 sort: by_weight
 columns:
   - text
@@ -17,7 +17,7 @@ encoder:
     - length_equal: 2
       formula: "AaAbBaBb"
     - length_equal: 3
-      formula: "AaBaCaCb"
+      formula: "AaBaCa"
     - length_in_range: [4, 32]
       formula: "AaBaCaZa"
 import_tables:
@@ -81653,6 +81653,7 @@ WiFi	wifi
 飼養員	syy
 掃一眼	syy
 撒丫子	syz
+三字詞	szc
 所在地	szd
 喪葬費	szf
 三字經	szj

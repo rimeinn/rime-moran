@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20241007"
+version: "20250301"
 sort: original
 columns:
   - text
@@ -18,7 +18,7 @@ encoder:
     - length_equal: 2
       formula: "AaAbBaBb"
     - length_equal: 3
-      formula: "AaBaCaCb"
+      formula: "AaBaCa"
     - length_in_range: [4, 32]
       formula: "AaBaCaZa"
 import_tables:
@@ -78709,6 +78709,7 @@ U盘	upj
 饲养员	syy
 扫一眼	syy
 撒丫子	syz
+三字词	szc
 所在地	szd
 丧葬费	szf
 三字经	szj
