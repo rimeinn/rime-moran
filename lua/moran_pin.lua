@@ -294,10 +294,13 @@ function pin_processor.func(key_event, env)
         local input = context.input
         local cand = context:get_selected_candidate()
         local text = cand.text
-        -- Special-case pure Chinese candidates: the text could be
+        -- 1) Special-case pure Chinese candidates: the text could be
         -- output from OpenCC, so pin the genuine candidate instead to
         -- preserve word frequency.
-        if moran.str_is_chinese(text) then
+        --
+        -- 2) If we know for sure this is a pinned candidate, always
+        -- retrieve the genuine candidate to correctly delete it.
+        if cand.type == 'pinned' or moran.str_is_chinese(text) then
             text = cand:get_genuine().text
         end
         user_db.toggle_pin_status(input, text)
