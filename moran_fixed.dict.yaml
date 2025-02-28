@@ -3012,6 +3012,7 @@ A4紙	asv
 遍佈	bmbu
 不蔓不枝	bmbv
 辨別	bmbx
+不眠不休	bmbx
 半夢半醒	bmbx
 苄	bmc
 萹	bmcb
@@ -9474,6 +9475,7 @@ C盤	cpj
 等米下鍋	dmxg
 點戲	dmxi
 電線	dmxm
+癲癇	dmxm
 電信	dmxn
 電訊	dmxp
 點穴	dmxt
@@ -12239,10 +12241,10 @@ E盤	epj
 奮勇	ffys
 沸反盈天	ffyt
 奮發有爲	ffyw
-風風雨雨	ffyy
-墳塋	ffyy
 沸沸揚揚	ffyy
+風風雨雨	ffyy
 紛紛揚揚	ffyy
+墳塋	ffyy
 紛雜	ffza
 分則	ffze
 分贓	ffzh
@@ -15773,6 +15775,7 @@ F盤	fpj
 告罪	gkzv
 高空作業	gkzy
 該	gl
+過來	gl
 丐	gla
 賅	glb
 歸裏包堆	glbd
@@ -15975,6 +15978,7 @@ F盤	fpj
 刮目相看	gmxk
 鬼迷心竅	gmxq
 革面洗心	gmxx
+光敏性癲癇	gmxx
 規模效益	gmxy
 哥們義氣	gmyq
 革命英雄主義	gmyy
@@ -22046,6 +22050,7 @@ H盤	hpj
 抽測	ibce
 籌措	ibco
 酬酢	ibcu
+差不多	ibd
 殠	ibd
 抽打	ibda
 抽斗	ibdb
@@ -23769,6 +23774,7 @@ H盤	hpj
 吵嘴	ikzv
 窗口作用	ikzy
 拆	il
+出來	il
 瘥	ilb
 出類拔萃	ilbc
 喫了豹子膽	ilbd
@@ -49686,8 +49692,9 @@ PC端	pcdr
 隨常	svih
 隋朝	svik
 隨處	sviu
-隨機	svji
+隨機	svj
 隨即	svji
+隨機	svji
 三貞九烈	svjl
 隨軍	svjp
 綏靖	svjy
@@ -55276,9 +55283,11 @@ PC端	pcdr
 市場價格	uijg
 實際	uiji
 世紀	uiji
+十幾	uijo
 時間	uijm
 實踐	uijm
 使勁	uijn
+十幾	uijo
 十九	uijq
 施救	uijq
 試卷	uijr
@@ -55493,6 +55502,7 @@ PC端	pcdr
 失準	uivp
 師專	uivr
 始終	uivs
+時鐘	uivs
 施主	uivu
 箷	uivu
 失主	uivu
@@ -66509,6 +66519,7 @@ WiFi	wifi
 宣教	xrjc
 宣講	xrjd
 玄機	xrji
+旋即	xrji
 選件	xrjm
 旋緊	xrjn
 鋗	xrjo
@@ -69863,6 +69874,7 @@ WiFi	wifi
 一愣	yilg
 伊朗	yilh
 毅力	yili
+迤邐	yili
 一覽	yilj
 遺老	yilk
 依賴	yill
@@ -72817,6 +72829,7 @@ WiFi	wifi
 飲食起居	yuqj
 魚羣	yuqp
 欲求	yuqq
+狱	yuqq
 餘缺	yuqt
 漁區	yuqu
 餘切	yuqx
@@ -80789,6 +80802,7 @@ WiFi	wifi
 跑龍套	plt
 潑冷水	plu
 鋪路石	plu
+普魯士	plu
 霹靂舞	plw
 破裂音	ply
 排名榜	pmb
@@ -83953,9 +83967,9 @@ WiFi	wifi
 有錢人	yqr
 一羣人	yqr
 邀請賽	yqs
-搖錢樹	yqu
 尤其是	yqu
 與其說	yqu
+搖錢樹	yqu
 有氣質	yqv
 一千五	yqw
 野薔薇	yqw
