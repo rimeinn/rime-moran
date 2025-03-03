@@ -383,12 +383,20 @@ function panacea_translator.init(env)
     local pattern = string.format("(.+)%s(.+)", env.escaped_infix)
     local function on_commit(ctx)
         local commit_text = ctx:get_commit_text()
+        if moran.str_is_chinese(commit_text) then
+            local segmentation = ctx.composition:toSegmentation()
+            local segs = segmentation:get_segments()
+            local genuine_text = ""
+            for _, seg in pairs(segs) do
+                local c = seg:get_selected_candidate()
+                local g = c:get_genuine()
+                genuine_text = genuine_text .. g.text
+            end
+            commit_text = genuine_text
+        end
         local selected_cand = ctx:get_selected_candidate()
         if selected_cand ~= nil then
             local gen_cand = selected_cand:get_genuine()
-            if moran.str_is_chinese(selected_cand.text) then
-                commit_text = gen_cand.text
-            end
             if env.freestyle and gen_cand.type == "pin_tip" then
                 if env.freestyle_state then
                     if env.freestyle_code and env.freestyle_code ~= "" and env.freestyle_text and env.freestyle_text ~= "" then
