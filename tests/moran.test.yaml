@@ -90,6 +90,8 @@ deploy:
         assert: eq(cand[1].text, '連接') and eq(cand[1].comment, "📌")
       - send: 'lmjx'
         assert: eq(cand[1].text, '連接') and eq(cand[1].comment, "📌")
+      - send: 'xad//xnraidg 2 xad'
+        assert: eq(cand[1].text, '信愛等')
 
   force_segmentation:
     tests:
