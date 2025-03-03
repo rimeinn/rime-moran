@@ -50,7 +50,7 @@ local function semicolon_processor(key_event, env)
    -- If it is not the first page, simply send 2.
    local selected_index = segment.selected_index
    if selected_index >= page_size then
-      local page_num = selected_index // page_size
+      local page_num = math.floor(selected_index / page_size)
       context:select(page_num * page_size + 1)
       return kAccepted
    end
