@@ -2,13 +2,15 @@
 -- Synopsis: 適用於魔然方案默認模式的按鍵處理器
 -- Author: ksqsf
 -- License: MIT license
--- Version: 0.2
+-- Version: 0.3
 
 -- 主要功能：
 -- 1. 選擇第二個首選項，但可用於跳過 emoji 濾鏡產生的候選
 -- 2. 快速切換強制切分
+-- 3. 快速取出/放回被吞掉的輔助碼
 
 -- ChangeLog:
+--  0.3.0: 增加取出/放回被吞掉的輔助碼的能力
 --  0.2.0: 增加快速切換切分的能力，因而從 moran_semicolon_processor 更名爲 moran_processor
 --  0.1.5: 修復獲取 candidate_count 的邏輯
 --  0.1.4: 數字也增加到條件裏
@@ -81,6 +83,44 @@ local function semicolon_processor(key_event, env)
    return kAccepted
 end
 
+--| 使用快捷鍵從前一段「偷」出輔助碼。
+--
+-- 例如，想輸入「沒法動」，鍵入 mz'fa'dsl，但輸出是「沒發動」。
+-- 此時若選了「沒法」二字，d 會被吞掉。按下該處理器的快捷鍵，可以把 d 再次偷出來。
+local function steal_auxcode_processor(key_event, env)
+   if not (key_event:ctrl() and key_event.keycode == 0x6c) then
+      return kNoop
+   end
+
+   local ctx = env.engine.context
+   local composition = ctx.composition
+   local segmentation = composition:toSegmentation()
+   local segs = segmentation:get_segments()
+   local n = #segs
+   if n <= 1 then
+      return kNoop
+   end
+
+   local stealer = segs[n]
+   local stealee = segs[n-1]
+   if stealee:has_tag("_moran_stealee") then
+      ctx.input = ctx.input:sub(1, stealer._start) .. ctx.input:sub(stealer._start + 2)
+      stealee.tags = stealee.tags - Set({"_moran_stealee"})
+      return kAccepted
+   end
+   if not (stealee.status == 'kSelected' or stealee.status == 'kConfirmed') then
+      return kNoop
+   end
+   local stealee_cand = stealee:get_selected_candidate()
+   local auxcode = stealee_cand.preedit:match("[a-z][a-z][ '][a-z][a-z]([a-z])")
+   if not auxcode then
+      return kNoop
+   end
+   ctx.input = ctx.input:sub(1, stealer._start) .. auxcode .. ctx.input:sub(stealer._start + 1)
+   stealee.tags = stealee.tags + Set({"_moran_stealee"})
+   return kAccepted
+end
+
 local function force_segmentation_processor(key_event, env)
    if not (key_event:ctrl() and key_event.keycode == 0x6c) then  -- ctrl+l
       return kNoop
@@ -126,6 +166,7 @@ return {
    init = function(env)
       env.processors = {
          semicolon_processor,
+         steal_auxcode_processor,
          force_segmentation_processor,
       }
    end,

@@ -119,4 +119,13 @@ deploy:
       - send: 'dajwhkn{Control+l}{Control+l}{Control+l}'
         assert: eq(preedit, "da'jw'hkn")
 
+  steal_auxcode:
+    tests:
+      - send: 'mzfadsl2'
+        assert: eq(cand[1].text, '賽')
+      - send: 'mzfadsl2{Control+l}'
+        assert: eq(cand[1].text, '動')
+      - send: 'mzfadsl2{Control+l}{Control+l}'
+        assert: eq(cand[1].text, '賽')
+
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rimeinn/mira/refs/heads/master/spec/mira.schema.json

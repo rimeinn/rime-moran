@@ -19326,6 +19326,7 @@
 疎 up
 疎 uv
 疏 pi
+疏 ai
 疏 ag
 疏 vg
 疏 vi
@@ -35871,6 +35872,7 @@
 𠮷 kt
 𠮸 kw
 𠮹 kc
+𠮺 kd
 𠮺 kp
 𠮻 kj
 𠮽 kc
