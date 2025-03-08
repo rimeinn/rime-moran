@@ -3101,6 +3101,7 @@ A4紙	asv
 不明就裏	bmjl
 邊檢	bmjm
 編劇	bmju
+邊界	bmjx
 便捷	bmjx
 辯解	bmjx
 邊境	bmjy
@@ -9869,8 +9870,8 @@ D盤	dpj
 剬	drd
 鍛打	drda
 短打	drda
-端的	drde
 斷檔	drdh
+端的	drdi
 短笛	drdi
 短刀	drdk
 斷代	drdl
@@ -23460,8 +23461,9 @@ H盤	hpj
 攙兌	ijdv
 禪定	ijdy
 穿金戴銀	ijdy
-酁	ije
+鄽	ije
 產兒	ijer
+酁	ijet
 摻	ijf
 闡發	ijfa
 摻	ijfc
@@ -38507,6 +38509,7 @@ I盤	ipj
 木屑	muxx
 木星	muxy
 霂	muy
+木有	muyb
 摩氏硬度表	muyb
 木業	muye
 牧業	muye
@@ -62611,6 +62614,7 @@ WiFi	wifi
 無利可圖	wlkt
 外快	wlky
 無路可走	wlkz
+竵	wll
 歪了	wlle
 外力	wlli
 外來	wlll
@@ -71745,6 +71749,7 @@ WiFi	wifi
 有情可原	yqky
 以強凌弱	yqlr
 有氣沒力	yqml
+元氣滿滿	yqmm
 以權謀私	yqms
 搖旗吶喊	yqnh
 有錢能使鬼推磨	yqnm
@@ -74393,6 +74398,7 @@ WiFi	wifi
 自毀前程	zhqi
 臟器	zhqi
 藏青	zhqy
+怎會如此	zhrc
 走火入魔	zhrm
 縱橫四海	zhsh
 葬送	zhss
@@ -76442,6 +76448,7 @@ WiFi	wifi
 筆記本	bjb
 保健操	bjc
 不見得	bjd
+不就是	bje
 不及格	bjg
 比較好	bjh
 北極狐	bjh
@@ -79284,6 +79291,7 @@ WiFi	wifi
 機靈鬼	jlg
 金蓮花	jlh
 教練機	jlj
+居留卡	jlk
 角落裏	jll
 積累率	jll
 捲簾門	jlm
@@ -79370,7 +79378,6 @@ WiFi	wifi
 簡體字	jtz
 記事本	jub
 健身房	juf
-就是個	jug
 幾十個	jug
 寄生蟲	jui
 急剎車	jui
@@ -80562,6 +80569,7 @@ WiFi	wifi
 農產品	nip
 農場主	niv
 能見度	njd
+那就是	nje
 拈鬮兒	nje
 農家肥	njf
 哪幾個	njg
@@ -80574,9 +80582,9 @@ WiFi	wifi
 凝聚力	njl
 南極圈	njq
 孃家人	njr
-那就是	njs
 那幾天	njt
-那就是	nju
+那件事	nju
+哪件事	nju
 哪幾種	njv
 南極洲	njv
 耐久性	njx
@@ -81710,6 +81718,7 @@ WiFi	wifi
 掃一眼	syy
 撒丫子	syz
 三字詞	szc
+四字詞	szc
 所在地	szd
 喪葬費	szf
 三字經	szj
@@ -82594,6 +82603,7 @@ WiFi	wifi
 主持人	vir
 裝甲兵	vjb
 助記詞	vjc
+這就是	vje
 芝加哥	vjg
 這句話	vjh
 證監會	vjh
@@ -82606,7 +82616,6 @@ WiFi	wifi
 召集人	vjr
 這幾天	vjt
 中間體	vjt
-這就是	vju
 這件事	vju
 浙江省	vju
 這幾種	vjv
@@ -83051,7 +83060,6 @@ WiFi	wifi
 網絡化	wlh
 烏龍茶	wli
 往來款	wlk
-烏溜溜	wll
 無理碼	wlm
 五六年	wln
 外來人	wlr
@@ -84298,8 +84306,6 @@ WiFi	wifi
 早幾年	zjn
 自決權	zjq
 自己人	zjr
-這就是	zjs
-這件事	zjs
 總決賽	zjs
 紫金山	zju
 自覺性	zjx
