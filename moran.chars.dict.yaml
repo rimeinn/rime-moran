@@ -101585,9 +101585,7 @@ use_preset_vocabulary: false
 𫭹	na;nt	0	# auto
 𫭹	na;tn	0	# auto
 𫮀	vb;tv	0	# auto
-𫮄	aa;at	0	# auto
 𫮄	aa;ta	0	# auto
-𫮄	ee;at	0	# auto
 𫮄	ee;ta	0	# auto
 𫮈	ij;tl	0	# auto
 𫮙	bg;tp	0	# auto
@@ -122065,6 +122063,8 @@ use_preset_vocabulary: false
 𠂤	dv;pk	0
 𠂤	ui;pk	0
 𠂤	vv;pk	0
+𠃓	yh;ap	0
+𠃓	yi;ap	0
 
 # 一些會對正常輸入造成干擾的字
 # 直接禁用掉

@@ -15,7 +15,7 @@ end
 function Top.func(t_input, env)
    local extended = env.engine.context:get_option("extended_charset")
 
-   if extended or env.charset == nil or Top.IsReverseLookup(env) then
+   if extended or env.charset == nil or Top.IsReverseLookup(env) or Top.IsUnicodeInput(env) then
       for cand in t_input:iter() do
          yield(cand)
       end
@@ -68,6 +68,14 @@ function Top.IsReverseLookup(env)
    --    end
    -- end
    -- return false
+end
+
+function Top.IsUnicodeInput(env)
+   local seg = env.engine.context.composition:back()
+   if not seg then
+      return false
+   end
+   return seg:has_tag("unicode")
 end
 
 return Top
