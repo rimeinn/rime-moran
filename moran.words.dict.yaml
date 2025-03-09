@@ -8957,6 +8957,17 @@ columns:
 畏威而不怀德	1
 么了	1
 开模	180
+巨能写	1
+德扑	1
+快艇骰子	10
+屈髋
+硬举
+卧推
+握力训练
+滑轮机
+皮拉提斯
+彼拉提斯
+动态壁纸
 
 # 中西混合词
 哆啦A梦	100	do;kd la;kl aa mg;cx
@@ -8971,4 +8982,7 @@ QQ群	100	qq qp;yj
 打call	10	da;fd kk
 
 # 整句可用的无理码
-几	0	jo;yd
+几	1	jo;yd
+几何	1	jo;yd he;rk
+几十	1	jo;yd ui;aa
+十几	1	ui;aa jo;yd
