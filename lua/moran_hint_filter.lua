@@ -1,3 +1,13 @@
+-- Moran Translator (for Express Editor)
+-- Copyright (c) 2023, 2024, 2025 ksqsf
+--
+-- Ver: 0.1.0
+--
+-- This file is part of Project Moran
+-- Licensed under GPLv3
+--
+-- 0.1.0: 合併原 moran_aux_hint 和 moran_quick_code_hint
+--
 local moran = require("moran")
 local Module = {}
 
