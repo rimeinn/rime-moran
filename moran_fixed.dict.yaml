@@ -1395,6 +1395,7 @@ A4紙	asv
 本週	bfvb
 百分之百	bfvb
 本着	bfve
+本真	bfvf
 本證	bfvg
 本章	bfvh
 本質	bfvi
@@ -12353,7 +12354,7 @@ E盤	epj
 飛鴿傳書	fgiu
 風吹	fgiv
 風錘	fgiv
-鳳	fgj
+鋒	fgj
 蜂膠	fgjc
 封疆	fgjd
 鋒	fgjf
@@ -12395,9 +12396,10 @@ E盤	epj
 風魔	fgmo
 奉命	fgmy
 豐美	fgmz
-犎	fgn
+鳳	fgn
 蜂鳥	fgnc
 發國難財	fgnc
+犎	fgnf
 妦	fgnf
 風能	fgng
 豐年	fgnm
@@ -13855,6 +13857,7 @@ F盤	fpj
 非我族類	fwzl
 風聞奏事	fwzu
 發現	fx
+分析	fx
 芳心暗許	fxax
 放心不下	fxbx
 繁星點點	fxdd
@@ -15484,6 +15487,7 @@ F盤	fpj
 肝腎	gjuf
 矸	gjug
 趕上	gjuh
+感傷	gjuh
 幹事	gjui
 趕盡殺絕	gjuj
 鋼筋水泥	gjun
@@ -22816,6 +22820,7 @@ H盤	hpj
 撐破	igpo
 承平	igpy
 城牆	igqd
+逞強	igqd
 撐起	igqi
 稱奇	igqi
 成千	igqm
@@ -37511,6 +37516,7 @@ I盤	ipj
 脈衝	mlis
 賣出	mliu
 邁出	mliu
+䥑	mlj
 麥角	mljc
 密鑼緊鼓	mljg
 麥季	mlji
@@ -40216,6 +40222,7 @@ I盤	ipj
 黏黏糊糊	nnhh
 您好	nnhk
 南南合作	nnhz
+裊裊炊煙	nniy
 難能可貴	nnkg
 男女老少	nnlu
 男女老幼	nnly
@@ -42685,6 +42692,7 @@ PC端	pcdr
 迫於	poyu
 迫	poz
 婆子	pozi
+批評	pp
 平平安安	ppaa
 蓬蓬勃勃	ppbb
 偏旁部首	ppbu
@@ -44845,8 +44853,8 @@ PC端	pcdr
 侵吞	qntp
 去年同期	qntq
 嶔	qnu
-禽獸	qnub
 親手	qnub
+禽獸	qnub
 禽舍	qnue
 親身	qnuf
 親生	qnug
@@ -44965,6 +44973,7 @@ PC端	pcdr
 踆	qpzj
 羣組	qpzu
 求	qq
+請求	qq
 蟗	qqa
 期期艾艾	qqaa
 求愛	qqai
@@ -50887,6 +50896,8 @@ PC端	pcdr
 統籌兼顧	tijg
 退出江湖	tijh
 體積	tiji
+提及	tiji
+題記	tiji
 同場競技	tijj
 體檢	tijm
 蹄筋	tijn
@@ -53718,6 +53729,7 @@ PC端	pcdr
 收車	ubie
 壽辰	ubif
 收成	ubig
+收場	ubih
 首場	ubih
 手持	ubii
 舌敝脣焦	ubij
@@ -54126,6 +54138,7 @@ PC端	pcdr
 雙薪	udxn
 雙休	udxq
 雙雄	udxs
+霜雪	udxt
 生動形象	udxx
 雙形	udxy
 雙星	udxy
@@ -64490,6 +64503,7 @@ WiFi	wifi
 踃	xczx
 踍	xczx
 想	xd
+詳	xd
 相愛	xdai
 香案	xdan
 相當不錯	xdbc
@@ -68183,6 +68197,7 @@ WiFi	wifi
 形體	xyti
 興嘆	xytj
 形態	xytl
+形託	xyto
 星團	xytr
 形同	xyts
 幸	xytu
@@ -69250,6 +69265,7 @@ WiFi	wifi
 葉子	yezi
 椰棗	yezk
 一分	yf
+一份	yf
 以防不測	yfbc
 原封不動	yfbd
 豔福不淺	yfbq
@@ -70160,6 +70176,7 @@ WiFi	wifi
 移轉	yivr
 一種	yivs
 倚重	yivs
+一種	yivs
 遺囑	yivu
 箷	yivu
 簃	yivy
@@ -70517,9 +70534,9 @@ WiFi	wifi
 閹	yjmd
 嚴密	yjmi
 閻	yjmj
-鹽	yjml
 掩埋	yjml
 燕麥	yjml
+鹽	yjml
 顏面	yjmm
 菸民	yjmn
 淹沒	yjmo
@@ -71435,6 +71452,7 @@ WiFi	wifi
 垽	yntj
 印臺	yntl
 陰天	yntm
+音託	ynto
 銀團	yntr
 隱痛	ynts
 堙	yntt
@@ -74615,6 +74633,7 @@ WiFi	wifi
 自謙	ziqm
 自求	ziqq
 自取	ziqu
+自洽	ziqw
 恣情	ziqy
 仔	zir
 胔	zirc
@@ -76268,11 +76287,9 @@ WiFi	wifi
 奧委會	awh
 艾窩窩	aww
 癌細胞	axb
-愛學習	axx
-安息香	axx
 奧運村	ayc
-哎呦呵	ayh
 奧運會	ayh
+哎呦呵	ayh
 愛牙日	ayr
 哎呦喂	ayw
 艾滋病	azb
@@ -76933,7 +76950,6 @@ WiFi	wifi
 參觀團	cgt
 磁共振	cgv
 磁感應	cgy
-擦黑兒	che
 催化劑	chj
 詞彙量	chl
 存活率	chl
@@ -78658,8 +78674,8 @@ WiFi	wifi
 花青素	hqs
 核潛艇	hqt
 換氣扇	hqu
-很慶幸	hqx
 好奇心	hqx
+很慶幸	hqx
 後勤組	hqz
 核燃料	hrl
 懷仁堂	hrt
@@ -80209,7 +80225,6 @@ WiFi	wifi
 獼猴桃	mht
 明後天	mht
 迷魂湯	mht
-猛回頭	mht
 沒話說	mhu
 迷魂陣	mhv
 梅花樁	mhv

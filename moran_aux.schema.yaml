@@ -68,13 +68,13 @@ engine:
     - lua_translator@*moran_aux_translator
     - lua_translator@*moran_pin*panacea_translator
   filters:
-    #- lua_filter@*moran_aux_hint           # 輔助碼提示需要去掉本行開頭的 # 符號
+    - lua_filter@*moran_hint_filter@auxfilter
     - lua_filter@*moran_charset_filter
     - lua_filter@*moran_fix_filter
     - lua_filter@*moran_pin*pin_filter
-    - simplifier
     - simplifier@emoji
     - simplifier@chaifen
+    - simplifier
     - simplifier@std_tw
     - simplifier@std_hk
     - simplifier@std_dzing
@@ -150,7 +150,7 @@ chaifen:
   tips: char
   show_in_comment: true
   inherit_comment: true
-  comment_form:
+  comment_format:
     - "xform/-/ /"
     - "xform/〕〔/｜/"
 
@@ -340,6 +340,11 @@ moran:
   # last：末字
   # any：任意字
   aux_position: any
+
+  # 輔助碼提示
+  # 格式爲：<匹配的輔助碼> ¦ <詞典中的輔助碼>
+  # 該功能不顯示拆分，建議使用 Ctrl+i 顯示單字拆分
+  enable_aux_hint: false
 
   # 「置頂」功能相關設置
   # 輸入時通過快捷鍵 Ctrl+t 可以將高亮顯示的候選置頂，被置頂的候選位置固定，不再參與調頻

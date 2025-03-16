@@ -184,7 +184,8 @@ function top.func(input, seg, env)
    end
 
    -- smart 在 fixed 之後輸出。
-   local smart_iter = top.raw_query_smart(env, input, seg, false)
+   -- 當需要詞輔時，保留 comment，以「提前」（用戶輸入詞輔前）提示輔助碼。
+   local smart_iter = top.raw_query_smart(env, input, seg, env.enable_word_filter)
    if smart_iter ~= nil then
       local ijrq_enabled = env.ijrq_enable
          and (env.engine.context.input == input)
@@ -253,6 +254,14 @@ end
 
 -- | 支持候選注入的 yield
 function top.output(env, cand)
+   if env.enable_word_filter then
+      -- 開啓詞輔時，2、3字詞會有輔助碼注釋，保留之。
+      -- 注意：單字 comment 也應該保留 quick_code_indicator！
+      local len = utf8.len(cand.text)
+      if len > 3 then
+         cand.comment = ""
+      end
+   end
    yield(cand)
    env.output_i = env.output_i + 1
    if env.output_i == 1 then

@@ -132,15 +132,15 @@ function Top.CandidateMatch(scand, fcand)
 end
 
 local function reorderable(cand)
-   return not (utf8.len(cand.text) > 1 and #cand.preedit <= 3)
+   local len = utf8.len(cand.text)
+   return (not (len > 1 and #cand.preedit <= 3)) or (len > 1 and #cand.preedit < 2 * len)
 end
 
 -- Return 2 if fixed_list is handled completely.
 -- Otherwise, return 1.
 function Top.DoPhase1(env, fixed_list, smart_list, cand)
    table.insert(smart_list, cand)
-   while #fixed_list > 0 and #smart_list > 0 do
-      local scand = smart_list[#smart_list]
+   while #fixed_list > 0 do
       local fcand = fixed_list[1]
       if not reorderable(fcand) then
          if fcand.comment == "`F" then
@@ -148,17 +148,21 @@ function Top.DoPhase1(env, fixed_list, smart_list, cand)
          end
          yield(fcand)
          table.remove(fixed_list, 1)
-      elseif Top.CandidateMatch(scand, fcand) then
-         if fcand.comment == "`F" then
-            scand.comment = env.quick_code_indicator
-         elseif fcand.type == "pinned" then
-            scand.comment = env.pin_indicator
-         end
-         yield(scand)
-         table.remove(smart_list, #smart_list)
-         table.remove(fixed_list, 1)
       else
-         break
+         local has_match = false
+         for si = #smart_list, 1, -1 do
+            local scand = smart_list[si]
+            if Top.CandidateMatch(scand, fcand) then
+               Top.YieldSmartInPlaceOfFixed(env, scand, fcand)
+               table.remove(smart_list, si)
+               table.remove(fixed_list, 1)
+               has_match = true
+               break
+            end
+         end
+         if not has_match then
+            break
+         end
       end
    end
    if #fixed_list == 0 then
@@ -168,6 +172,7 @@ function Top.DoPhase1(env, fixed_list, smart_list, cand)
       end
       return 2
    else
+      -- want more smart cands to check.
       return 1
    end
 end
@@ -191,6 +196,15 @@ function Top.ClearEntries(env, reorder_phase, fixed_list, smart_list, delay_slot
       yield(cand)
       smart_list[i] = nil
    end
+end
+
+function Top.YieldSmartInPlaceOfFixed(env, scand, fcand)
+   if fcand.comment == "`F" then
+      scand.comment = env.quick_code_indicator .. scand.comment
+   elseif fcand.type == "pinned" then
+      scand.comment = env.pin_indicator
+   end
+   yield(scand)
 end
 
 return Top

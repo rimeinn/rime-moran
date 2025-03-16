@@ -91,9 +91,8 @@ engine:
     - lua_filter@*moran_charset_filter
     - lua_filter@*moran_pin*pin_filter
     - lua_filter@*moran_reorder_filter
-    - lua_filter@*moran_quick_code_hint
-    - lua_filter@*moran_aux_hint
     - lua_filter@*moran_ijrq_filter
+    - lua_filter@*moran_hint_filter
     - simplifier@emoji
     - simplifier@chaifen
     - simplifier@pinyinhint
@@ -192,7 +191,7 @@ chaifen:
   opencc_config: moran_chaifen.json
   tips: char
   show_in_comment: true
-  comment_form:
+  comment_format:
     - "xform/-/ /"
     - "xform/〕〔/｜/"
 
@@ -312,6 +311,7 @@ key_binder:
       - moran:/key_bindings/moran_tab
       - moran:/key_bindings/moran_switches
       - moran:/key_bindings/moran_keypad
+      - moran:/key_bindings/moran_toggle_inflexible
       # 大寫字母追加輔助碼到上一音節
       # 該功能可使用 Shift-tab 替代
       # - moran:/key_bindings/moran_capital_for_last_syllable

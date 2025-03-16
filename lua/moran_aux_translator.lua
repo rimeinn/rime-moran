@@ -143,10 +143,13 @@ function Module.init(env)
             cand = gcand
          end
          if cand and cand.comment and cand.comment ~= "" then
-            local aux_length = #moran.rstrip(cand.comment, env.aux_priority_indicator)
-            input_sans_aux = ctx.input:sub(1, segment._start)
-               .. ctx.input:sub(segment._start + 1, segment._end - aux_length)
-               .. ctx.input:sub(segment._end + 1)
+            local aux_match = gcand.comment:match("^[a-z]+")
+            if aux_match then
+               local aux_length = #aux_match
+               input_sans_aux = ctx.input:sub(1, segment._start)
+                  .. ctx.input:sub(segment._start + 1, segment._end - aux_length)
+                  .. ctx.input:sub(segment._end + 1)
+            end
          end
       end
    end
@@ -420,7 +423,7 @@ function Module.aux_list(env, word)
       if any_use then
          local c_aux_list = env.aux_table[c]
          if c_aux_list then
-            for _, c_aux in pairs(c_aux_list) do
+            for c_aux in c_aux_list:gmatch("%S+") do
                table.insert(aux_list, c_aux:sub(1, 1))
                table.insert(aux_list, c_aux)
             end
@@ -432,14 +435,14 @@ function Module.aux_list(env, word)
    if utf8.len(word) > 1 then
       if not any_use and env.is_aux_for_first then
          local c_aux_list = env.aux_table[first]
-         for _, c_aux in pairs(c_aux_list) do
+         for c_aux in c_aux_list:gmatch("%S+") do
             table.insert(aux_list, c_aux:sub(1, 1))
             table.insert(aux_list, c_aux)
          end
       end
       if not any_use and env.is_aux_for_last then
          local c_aux_list = env.aux_table[last]
-         for _, c_aux in pairs(c_aux_list) do
+         for c_aux in c_aux_list:gmatch("%S+") do
             table.insert(aux_list, c_aux:sub(1, 1))
             table.insert(aux_list, c_aux)
          end

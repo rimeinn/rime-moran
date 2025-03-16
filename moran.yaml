@@ -113,6 +113,11 @@ key_bindings:
       - { when: composing, accept: KP_8, send: '8' }
       - { when: composing, accept: KP_9, send: '9' }
 
+  # 切換固詞
+  moran_toggle_inflexible:
+    __append:
+      - { when: has_menu, accept: Control+g, toggle: inflexible }
+
 octagram:
   disable:
     __patch:
