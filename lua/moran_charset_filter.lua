@@ -1,9 +1,10 @@
 local moran = require("moran")
 local Top = {}
+local __CACHE = {}
 
 function Top.init(env)
    env.charset = ReverseLookup("moran_charset")
-   env.memo = {}
+   env.memo = __CACHE  -- 不同 session 应该共享 cache
 end
 
 function Top.fini(env)
