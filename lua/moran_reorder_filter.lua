@@ -1,10 +1,12 @@
 -- Moran Reorder Filter
 -- Copyright (c) 2023, 2024 ksqsf
 --
--- Ver: 0.1.5
+-- Ver: 0.2.0
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.2.0: 修復諸多問題。
 --
 -- 0.1.5: 少許性能優化。
 --
@@ -133,7 +135,7 @@ end
 
 local function reorderable(cand)
    local len = utf8.len(cand.text)
-   return (not (len > 1 and #cand.preedit <= 3)) or (len > 1 and #cand.preedit < 2 * len)
+   return (len > 1 and #cand.preedit >= 2 * len) or (len == 1 and #cand.preedit <= 3)
 end
 
 -- Return 2 if fixed_list is handled completely.

@@ -1,10 +1,12 @@
 -- Moran Translator (for Express Editor)
 -- Copyright (c) 2023, 2024, 2025 ksqsf
 --
--- Ver: 0.7.2
+-- Ver: 0.8.0
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.8.0: 適配 hint_filter，支持詞輔提前提示。
 --
 -- 0.7.2: 修正詞輔在三字詞可能不生效的問題。
 --
