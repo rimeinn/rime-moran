@@ -382,18 +382,6 @@ function panacea_translator.init(env)
     user_db.acquire()
     local pattern = string.format("(.+)%s(.+)", env.escaped_infix)
     local function on_commit(ctx)
-        local commit_text = ctx:get_commit_text()
-        if moran.str_is_chinese(commit_text) then
-            local segmentation = ctx.composition:toSegmentation()
-            local segs = segmentation:get_segments()
-            local genuine_text = ""
-            for _, seg in pairs(segs) do
-                local c = seg:get_selected_candidate()
-                local g = c:get_genuine()
-                genuine_text = genuine_text .. g.text
-            end
-            commit_text = genuine_text
-        end
         local selected_cand = ctx:get_selected_candidate()
         if selected_cand ~= nil then
             local gen_cand = selected_cand:get_genuine()
@@ -417,6 +405,27 @@ function panacea_translator.init(env)
                 return
             end
         end
+
+        local commit_text = ctx:get_commit_text()
+        if moran.str_is_chinese(commit_text) then
+            local segmentation = ctx.composition:toSegmentation()
+            local segs = segmentation:get_segments()
+            local genuine_text = ""
+            local ok = true
+            for _, seg in pairs(segs) do
+                local c = seg:get_selected_candidate()
+                if c == nil then
+                    ok = false
+                    break
+                end
+                local g = c:get_genuine()
+                genuine_text = genuine_text .. g.text
+            end
+            if ok then
+                commit_text = genuine_text
+            end
+        end
+
         if env.freestyle_state then
             env.freestyle_text = env.freestyle_text .. commit_text
             return

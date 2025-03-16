@@ -160,7 +160,7 @@ chaifen:
   opencc_config: moran_chaifen.json
   tips: char
   show_in_comment: true
-  comment_form:
+  comment_format:
     - "xform/-/ /"
     - "xform/〕〔/｜/"
 
