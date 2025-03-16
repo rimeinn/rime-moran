@@ -70,6 +70,7 @@ function top.init(env)
    env.ijrq_hint = env.engine.schema.config:get_bool("moran/ijrq/show_hint")
    env.ijrq_suffix = env.engine.schema.config:get_string("moran/ijrq/suffix") or 'o'
    env.enable_word_filter = env.engine.schema.config:get_bool("moran/enable_word_filter")
+   env.enable_aux_hint = env.engine.schema.config:get_bool("moran/enable_aux_hint")
    env.show_chars_anyway = env.engine.schema.config:get_bool("moran/show_chars_anyway")
    env.show_words_anyway = env.engine.schema.config:get_bool("moran/show_words_anyway")
 
@@ -187,7 +188,7 @@ function top.func(input, seg, env)
 
    -- smart 在 fixed 之後輸出。
    -- 當需要詞輔時，保留 comment，以「提前」（用戶輸入詞輔前）提示輔助碼。
-   local smart_iter = top.raw_query_smart(env, input, seg, env.enable_word_filter)
+   local smart_iter = top.raw_query_smart(env, input, seg, env.enable_word_filter and env.enable_aux_hint)
    if smart_iter ~= nil then
       local ijrq_enabled = env.ijrq_enable
          and (env.engine.context.input == input)
@@ -256,14 +257,7 @@ end
 
 -- | 支持候選注入的 yield
 function top.output(env, cand)
-   if env.enable_word_filter then
-      -- 開啓詞輔時，2、3字詞會有輔助碼注釋，保留之。
-      -- 注意：單字 comment 也應該保留 quick_code_indicator！
-      local len = utf8.len(cand.text)
-      if len > 3 then
-         cand.comment = ""
-      end
-   end
+   -- 注意：需要保證 spelling hint 僅對 3 字以下詞開啓
    yield(cand)
    env.output_i = env.output_i + 1
    if env.output_i == 1 then
