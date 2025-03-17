@@ -1,10 +1,12 @@
 -- Moran Translator (for Express Editor)
 -- Copyright (c) 2023, 2024, 2025 ksqsf
 --
--- Ver: 0.8.0
+-- Ver: 0.8.1
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.8.1: 支持 word_filter_match_indicator。
 --
 -- 0.8.0: 適配 hint_filter，支持詞輔提前提示。
 --
@@ -70,6 +72,7 @@ function top.init(env)
    env.ijrq_hint = env.engine.schema.config:get_bool("moran/ijrq/show_hint")
    env.ijrq_suffix = env.engine.schema.config:get_string("moran/ijrq/suffix") or 'o'
    env.enable_word_filter = env.engine.schema.config:get_bool("moran/enable_word_filter")
+   env.word_filter_match_indicator = env.engine.schema.config:get_string("moran/word_filter_match_indicator")
    env.enable_aux_hint = env.engine.schema.config:get_bool("moran/enable_aux_hint")
    env.show_chars_anyway = env.engine.schema.config:get_bool("moran/show_chars_anyway")
    env.show_words_anyway = env.engine.schema.config:get_bool("moran/show_words_anyway")
@@ -178,6 +181,9 @@ function top.func(input, seg, env)
          if only_sp and idx then
             cand._end = cand._end + 1
             cand.preedit = input
+            if env.word_filter_match_indicator then
+               cand.comment = env.word_filter_match_indicator
+            end
             top.output(env, cand)
          end
          if #cand.preedit <= 2 then
