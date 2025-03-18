@@ -36,32 +36,32 @@ deploy:
   # 只有輔助碼提示
   auxhint:
     patch:
-      moran/enable_aux_code_hint: true
+      moran/enable_aux_hint: true
       moran/quick_code_indicator: "💥"
     tests:
       - send: a
         assert: cand[1].text == "啊" and eq(cand[1].comment, "ka💥")
       - send: aa{Control+t}
-        assert: cand[1].text == "啊" and eq(cand[1].comment, "📌 ¦ a")
+        assert: cand[1].text == "啊" and eq(cand[1].comment, "📌 ¦ ka")
       - send: yyteer
         assert: cand[1].text == "英特爾" and eq(cand[1].comment, "")
   # 只有輔助碼提示，關閉簡快碼提示符的情形
   auxhint-indicator:
     patch:
-      moran/enable_aux_code_hint: true
+      moran/enable_aux_hint: true
       moran/quick_code_indicator: ""
     tests:
       - send: a
         assert: cand[1].text == "啊" and eq(cand[1].comment, "ka💥")
       - send: aa{Control+t}
-        assert: cand[1].text == "啊" and eq(cand[1].comment, "📌 ¦ a")
+        assert: cand[1].text == "啊" and eq(cand[1].comment, "📌 ¦ ka")
       - send: yyteer
         assert: cand[1].text == "英特爾" and eq(cand[1].comment, "")
   # 只有輔助碼提示，開啓詞輔的情形
   auxhint+wordfilter:
     patch:
       moran/quick_code_indicator: "💥"
-      moran/enable_aux_code_hint: true
+      moran/enable_aux_hint: true
       moran/enable_word_filter: true
     tests:
       - send: lmjx
@@ -75,21 +75,21 @@ deploy:
       moran/quick_code_indicator: "💥"
       moran/word_filter_match_indicator: "🎯"
       moran/enable_quick_code_hint: true
-      moran/enable_aux_code_hint: true
+      moran/enable_aux_hint: true
       moran/enable_word_filter: true
     tests:
       - send: a
         assert: cand[1].text == "啊" and eq(cand[1].comment, "ka💥aa")
-      - send: aa
+      - send: aa{Control+t}
         assert: cand[1].text == "啊" and eq(cand[1].comment, "📌 ¦ ka💥a")
       - send: k
         assert: cand[1].text == "可" and eq(cand[1].comment, "dk💥")
       - send: rugo
         assert: cand[1].text == "如果" and eq(cand[1].comment, "na ¦ 💥rg")
       - send: lmjx
-        assert: cand[1].text == "鏈接" and eq(cand[1].comment, "lj ¦ 💥lj")
+        assert: cand[1].text == "鏈接" and eq(cand[1].comment, "jf ¦ 💥lj")
       - send: lmjxf
-        assert: cand[1].text == "鏈接" and eq(cand[1].comment, "🎯")
+        assert: cand[1].text == "鏈接" and eq(cand[1].comment, "🎯 ¦ 💥lj")
       - send: lmjxz
         assert: cand[1].text == "連接" and eq(cand[1].comment, "🎯")
   qchint+auxhint+wordfilter-indicator:
@@ -97,12 +97,12 @@ deploy:
       moran/quick_code_indicator: ""
       moran/word_filter_match_indicator: ""
       moran/enable_quick_code_hint: true
-      moran/enable_aux_code_hint: true
+      moran/enable_aux_hint: true
       moran/enable_word_filter: true
     tests:
       - send: a
         assert: cand[1].text == "啊" and eq(cand[1].comment, "ka⚡aa")
-      - send: aa
+      - send: aa{Control+t}
         assert: cand[1].text == "啊" and eq(cand[1].comment, "📌 ¦ ka⚡a")
       - send: k
         assert: cand[1].text == "可" and eq(cand[1].comment, "dk")
@@ -111,7 +111,7 @@ deploy:
       - send: rg
         assert: cand[1].text == "如果" and eq(cand[1].comment, "")
       - send: lmjx
-        assert: cand[1].text == "鏈接" and eq(cand[1].comment, "lj ¦ lj")
+        assert: cand[1].text == "鏈接" and eq(cand[1].comment, "jf ¦ lj")
       - send: lmjxf
         assert: cand[1].text == "鏈接" and eq(cand[1].comment, "lj")
       - send: lmjxz
