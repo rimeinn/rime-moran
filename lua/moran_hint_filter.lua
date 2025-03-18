@@ -155,8 +155,11 @@ function Module.func(translation, env)
             gcand.comment = gcand.comment .. major_sep .. auxhint
          end
       elseif qchint then
-         if #gcand.comment == 0 or gcand.comment == env.quick_code_indicator then
+         if #gcand.comment == 0 then
             gcand.comment = gcand.comment .. env.quick_code_indicator .. qchint
+         elseif gcand.comment == env.quick_code_indicator then
+            -- 已有 ⚡ ，不再加
+            gcand.comment = gcand.comment .. qchint
          else
             gcand.comment = gcand.comment .. major_sep .. env.quick_code_indicator .. qchint
          end
