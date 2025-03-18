@@ -72,9 +72,18 @@ deploy:
       moran/enable_word_filter: true
     tests:
       - send: lmjx
-        assert: eq(cand[1].text, "鏈接")
+        assert: eq(cand[1].text, "鏈接") and eq(cand[1].comment, "")
       - send: lmjxz
-        assert: eq(cand[1].text, "連接")
+        assert: eq(cand[1].text, "連接") and eq(cand[1].comment, "zf")
+  word_filter_match_indicator:
+    patch:
+      moran/enable_word_filter: true
+      moran/word_filter_match_indicator: "🎯"
+    tests:
+      - send: lmjx
+        assert: eq(cand[1].text, "鏈接") and eq(cand[1].comment, "")
+      - send: lmjxz
+        assert: eq(cand[1].text, "連接") and eq(cand[1].comment, "🎯")
 
   pin:
     options:
