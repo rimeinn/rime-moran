@@ -52,7 +52,7 @@ deploy:
       moran/quick_code_indicator: ""
     tests:
       - send: a
-        assert: cand[1].text == "啊" and eq(cand[1].comment, "ka💥")
+        assert: cand[1].text == "啊" and eq(cand[1].comment, "ka")
       - send: aa{Control+t}
         assert: cand[1].text == "啊" and eq(cand[1].comment, "📌 ¦ ka")
       - send: yyteer
