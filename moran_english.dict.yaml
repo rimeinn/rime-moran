@@ -22357,6 +22357,7 @@ Gissing	Gissing
 gist	gist
 gists	gists
 git	git
+git pull	gitpull
 git add	gitadd
 git checkout	gitcheckout
 git cherry-pick	gitcherrypick
