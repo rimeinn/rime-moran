@@ -19532,6 +19532,7 @@ FBI	FBI
 FCA	FCA
 FCC	FCC
 Fcitx	Fcitx
+fcitx5	fcitx
 FDA	FDA
 FDIC	FDIC
 feal	feal
@@ -57230,3 +57231,8 @@ EtherCAT	ethercat
 ethercat	ethercat
 rimeinn	rimeinn
 moran	moran
+crontab	crontab
+tailscale	tailscale
+wireshark	wireshark
+readme	readme
+README.md	readme
