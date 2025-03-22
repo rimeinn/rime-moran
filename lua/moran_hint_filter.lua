@@ -17,6 +17,8 @@ function Module.init(env)
       env.aux_table = moran.load_zrmdb()
       if not env.aux_table then
          env.enable_aux_hint = false
+      else
+         env.enable_word_filter = env.engine.schema.config:get_bool("moran/enable_word_filter")
       end
    else
       env.aux_table = nil
@@ -57,7 +59,7 @@ function Module.get_auxcode_hint(env, cand, gcand)
          return nil
       end
       return codes
-   elseif len ~= 1 and env.is_auxfilter and (gcand.type == "phrase" or gcand.type == "user_phrase") then
+   elseif len ~= 1 and (gcand.type == "phrase" or gcand.type == "user_phrase") then
       result = ""
       for i, cp in moran.codepoints(gcand.text) do
          local cpaux = env.aux_table[cp]
