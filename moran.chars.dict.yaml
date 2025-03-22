@@ -53969,8 +53969,10 @@ use_preset_vocabulary: false
 𩿤	va;nv	0	# auto
 𩿥	qu;ne	0	# auto
 𩿧	fu;nf	0	# auto
-𩿩	do;ni	0	# auto
-𩿩	qu;ni	0	# auto
+𩿩	do;ni	0
+𩿩	do;in	0
+𩿩	qu;ni	0
+𩿩	qu;in	0
 𩿪	ii;ni	0	# auto
 𩿬	yb;ny	0	# auto
 𩿷	ti;un	0	# auto
@@ -56393,13 +56395,11 @@ use_preset_vocabulary: false
 𦏤	vi;yk	0	# auto
 𠱞	rj;kz	0	# auto
 𡩳	mu;bt	0	# auto
-𩿩	qu;in	0	# auto
-𩿩	do;in	0	# auto
 𪮥	bj;fi	0	# auto
 𥛯	jt;uy	0	# auto
 𥰲	hs;vh	0	# auto
-𪁜	lh;ln	0	# auto
-𪁜	lh;dn	0	# auto
+𪁜	lh;nl	0
+𪁜	lh;ln	0
 𪳄	ld;ml	0	# auto
 𡤴	qi;nj	0	# auto
 𥫋	gs;il	0	# auto
