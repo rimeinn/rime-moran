@@ -26291,7 +26291,7 @@ use_preset_vocabulary: false
 躩	jt;zy	265
 躪	ln;zl	404
 躪	ln;zv	404
-身	jr;pp	0
+身	yr;pp	10
 身	uf;pp	6688
 躬	gs;ug	825
 躭	dj;ug	312
@@ -71876,7 +71876,8 @@ use_preset_vocabulary: false
 𠄋	qm;yr	0	# auto
 𠄒	iv;pc	0	# auto
 𠄒	ua;pc	0	# auto
-𠄔	hr;yy	0	# auto
+𠄔	hr;aa	0
+𠄔	hr;yu	0
 𠄕	nl;ll	0	# auto
 𠄘	ig;ld	0	# auto
 𠄙	vg;da	0	# auto

@@ -32785,7 +32785,8 @@
 𠄏 ll
 𠄑 jj
 𠄒 pc
-𠄔 yy
+𠄔 aa
+𠄔 yu
 𠄕 ll
 𠄖 ld
 𠄘 ld
