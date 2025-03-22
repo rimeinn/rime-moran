@@ -76169,8 +76169,8 @@
 𪁚 nb
 𪁛 ny
 𪁛 yn
+𪁜 nl
 𪁜 ln
-𪁜 dn
 𪁝 nk
 𪁝 un
 𪁞 nd
