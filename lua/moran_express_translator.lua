@@ -1,12 +1,10 @@
 -- Moran Translator (for Express Editor)
 -- Copyright (c) 2023, 2024, 2025 ksqsf
 --
--- Ver: 0.8.2
+-- Ver: 0.8.1
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
---
--- 0.8.2: 詞輔提示轉移到 hint_filter 中。
 --
 -- 0.8.1: 支持 word_filter_match_indicator。
 --
@@ -75,6 +73,7 @@ function top.init(env)
    env.ijrq_suffix = env.engine.schema.config:get_string("moran/ijrq/suffix") or 'o'
    env.enable_word_filter = env.engine.schema.config:get_bool("moran/enable_word_filter")
    env.word_filter_match_indicator = env.engine.schema.config:get_string("moran/word_filter_match_indicator")
+   env.enable_aux_hint = env.engine.schema.config:get_bool("moran/enable_aux_hint")
    env.show_chars_anyway = env.engine.schema.config:get_bool("moran/show_chars_anyway")
    env.show_words_anyway = env.engine.schema.config:get_bool("moran/show_words_anyway")
 
@@ -195,7 +194,7 @@ function top.func(input, seg, env)
 
    -- smart 在 fixed 之後輸出。
    -- 當需要詞輔時，保留 comment，以「提前」（用戶輸入詞輔前）提示輔助碼。
-   local smart_iter = top.raw_query_smart(env, input, seg, env.enable_word_filter)
+   local smart_iter = top.raw_query_smart(env, input, seg, env.enable_word_filter and env.enable_aux_hint)
    if smart_iter ~= nil then
       local ijrq_enabled = env.ijrq_enable
          and (env.engine.context.input == input)
