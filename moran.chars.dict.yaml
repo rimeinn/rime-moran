@@ -7389,15 +7389,14 @@ use_preset_vocabulary: false
 彚	hv;gb	316
 彚	hv;vg	316
 彚	hv;zd	316
-彛	yi;ac	397
 彛	yi;cf	397
-彛	yi;vc	397
+彛	yi;ac	397
+彜	yi;cf	358
 彜	yi;jc	358
-彝	yi;ac	770
 彝	yi;cs	770
 彝	yi;jc	770
-彝	yi;vc	770
-彞	yi;cf	0
+彝	yi;ac	770
+彞	yi;cs	0
 彟	ho;xh	0
 彟	ho;xy	0
 彠	ho;xh	415
@@ -84837,8 +84836,10 @@ use_preset_vocabulary: false
 𤴐	lz;th	0	# auto
 𤴑	lz;tl	0	# auto
 𤴒	lz;tt	0	# auto
-𤴓	vg;ab	0	# auto
-𤴓	ya;ab	0	# auto
+𤴓	vg;av	0
+𤴓	vg;ar	0
+𤴓	ya;av	0
+𤴓	ya;ar	0
 𤴔	pi;lb	0	# auto
 𤴔	uu;lb	0	# auto
 𤴔	ya;lb	0	# auto
