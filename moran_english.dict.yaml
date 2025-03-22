@@ -19532,6 +19532,7 @@ FBI	FBI
 FCA	FCA
 FCC	FCC
 Fcitx	Fcitx
+Fcitx5	Fcitx
 FDA	FDA
 FDIC	FDIC
 feal	feal
@@ -22356,6 +22357,7 @@ Gissing	Gissing
 gist	gist
 gists	gists
 git	git
+git pull	gitpull
 git add	gitadd
 git checkout	gitcheckout
 git cherry-pick	gitcherrypick
@@ -57226,3 +57228,14 @@ ingénue	ingenue
 vis-à-vis	visavis
 tête-à-tête	teteatete
 Škoda	Skoda
+EtherCAT	EtherCAT
+ethercat	ethercat
+rimeinn	rimeinn
+moran	moran
+crontab	crontab
+tailscale	tailscale
+Tailscale	Tailscale
+wireshark	wireshark
+Wireshark	Wireshark
+readme	readme
+README.md	READMEmd
