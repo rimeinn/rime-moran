@@ -1,10 +1,12 @@
 local moran = require("moran")
 local Top = {}
-local __CACHE = {}
+
+local MEMO = {}
 
 function Top.init(env)
    env.charset = ReverseLookup("moran_charset")
-   env.memo = __CACHE  -- 不同 session 应该共享 cache
+   env.memo = MEMO
+   env.memo_cap = 3000
 end
 
 function Top.fini(env)
@@ -45,6 +47,11 @@ end
 function Top.CodepointInCharset(env, codepoint)
    if env.memo[codepoint] ~= nil then
       return env.memo[codepoint]
+   end
+   if #env.memo > env.memo_cap then
+      for k, _ in pairs(env.memo) do
+         env.memo[k] = nil
+      end
    end
    local res = not moran.unicode_code_point_is_chinese(codepoint) or env.charset:lookup(utf8.char(codepoint)) ~= ""
    env.memo[codepoint] = res
