@@ -37468,7 +37468,7 @@
 𡇢 ko
 𡇣 kg
 𡇣 sg
-𡇤 kg
+𡇤 bg
 𡇥 kb
 𡇦 kn
 𡇧 kd

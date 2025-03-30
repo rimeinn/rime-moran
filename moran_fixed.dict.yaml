@@ -6281,8 +6281,8 @@ C盤	cpj
 踆	cpzj
 存在	cpzl
 村組	cpzu
-此前	cq
 從前	cq
+此前	cq
 此起彼伏	cqbf
 此起彼落	cqbl
 殘缺不全	cqbq
@@ -8214,9 +8214,10 @@ C盤	cpj
 滴灌	digr
 地宮	digs
 低估	digu
+低谷	digu
+嘀咕	digu
 鞮	digu
 靮	digu
-低谷	digu
 遞歸	digv
 地瓜	digw
 遞給	digz
@@ -15696,8 +15697,8 @@ F盤	fpj
 廣開門路	gkml
 槁木	gkmu
 高明	gkmy
-鷎	gkng
 高能	gkng
+鷎	gkng
 高難	gknj
 膏	gko
 膏	gkog
@@ -18838,8 +18839,8 @@ G盤	gpj
 渾渾噩噩	hhee
 哼哈二將	hhej
 緩緩而行	hhex
-斻	hhf
 宦海浮沉	hhfi
+斻	hhfj
 巷	hhg
 夯歌	hhge
 赫赫功績	hhgj
@@ -23068,6 +23069,7 @@ H盤	hpj
 菖蒲	ihpu
 昌平	ihpy
 猖	ihq
+長槍	ihqd
 唱腔	ihqd
 瞠乎其後	ihqh
 長期	ihqi
@@ -26796,8 +26798,8 @@ I盤	ipj
 加利福尼亞	jlfy
 精力	jlg
 接了個電話	jlgh
-嘰裏呱啦	jlgl
 嘰裏咕嚕	jlgl
+嘰裏呱啦	jlgl
 雞零狗碎	jlgs
 精力過剩	jlgu
 獎勵工資	jlgz
@@ -26825,6 +26827,7 @@ I盤	ipj
 既來之則安之	jlvv
 蕨類植物	jlvw
 經理	jlw
+嘰裏哇啦	jlwl
 價廉物美	jlwm
 精力旺盛	jlwu
 見利忘義	jlwy
@@ -27702,6 +27705,7 @@ I盤	ipj
 菌種	jpvs
 君主	jpvu
 郡主	jpvu
+珺	jpw
 君王	jpwh
 均無	jpwu
 軍務	jpwu
@@ -29371,6 +29375,7 @@ I盤	ipj
 解救	jxjq
 解決	jxjt
 結局	jxju
+拮据	jxju
 節假	jxjw
 結痂	jxjw
 姐姐	jxjx
@@ -30122,13 +30127,14 @@ I盤	ipj
 科班出身	kbiu
 釦	kbj
 扣繳	kbjc
+口角	kbjc
 可比價格	kbjg
 口技	kbji
 叩擊	kbji
 扣減	kbjm
 口緊	kbjn
-口角	kbjt
 口訣	kbjt
+口角	kbjt
 可不就是	kbju
 口徑	kbjy
 叩	kbk
@@ -38967,6 +38973,7 @@ I盤	ipj
 美德	mzde
 每當	mzdh
 殙	mzdh
+美的	mzdi
 每到	mzdk
 沒帶	mzdl
 沒電	mzdm
@@ -46724,6 +46731,7 @@ PC端	pcdr
 熱	re
 然而	re
 熱愛	reai
+熱榜 	rebh
 熱播	rebo
 熱補	rebu
 熱病	reby
@@ -53012,8 +53020,8 @@ PC端	pcdr
 退養	tvyh
 退役	tvyi
 推移	tvyi
-彈指一揮間	tvyj
 推演	tvyj
+彈指一揮間	tvyj
 退隱	tvyn
 特種郵票	tvyp
 褪	tvyt
@@ -69082,6 +69090,7 @@ WiFi	wifi
 有得有失	ydyu
 有膽有識	ydyu
 有多遠滾多遠	ydyy
+異地災備	ydzb
 一肚子火	ydzh
 一肚子氣	ydzq
 一肚子壞水	ydzu
@@ -71569,8 +71578,8 @@ WiFi	wifi
 姻緣	ynyr
 引用	ynys
 音樂	ynyt
-諲	ynyt
 隱約	ynyt
+諲	ynyt
 陰雨	ynyu
 延年益壽	ynyu
 音域	ynyu
@@ -78545,6 +78554,7 @@ WiFi	wifi
 黃褐斑	hhb
 黃花菜	hhc
 好好兒	hhe
+换行符	hhf
 哈哈哈	hhh
 好好好	hhh
 黑乎乎	hhh
@@ -80046,8 +80056,8 @@ WiFi	wifi
 愣頭青	ltq
 駱駝絨	ltr
 擂臺賽	lts
-立體圖	ltt
 老太太	ltt
+立體圖	ltt
 立體聲	ltu
 立陶宛	ltw
 老同學	ltx
@@ -82411,6 +82421,7 @@ WiFi	wifi
 耍態度	utd
 收攤兒	ute
 手推車	uti
+實體機	utj
 石炭紀	utj
 傷透了	utl
 受胎率	utl
@@ -83125,6 +83136,7 @@ WiFi	wifi
 烏拉圭	wlg
 網絡化	wlh
 烏龍茶	wli
+物理機	wlj
 往來款	wlk
 無理碼	wlm
 五六年	wln
@@ -83585,6 +83597,7 @@ WiFi	wifi
 小蠻腰	xmy
 小妞兒	xne
 小女孩	xnh
+虛擬機	xnj
 心內膜	xnm
 小年夜	xny
 新娘子	xnz
@@ -84258,6 +84271,7 @@ WiFi	wifi
 原則上	yzu
 有組織	yzv
 原則性	yzx
+源自於	yzy
 咬字眼	yzy
 一座座	yzz
 則安之	zav
