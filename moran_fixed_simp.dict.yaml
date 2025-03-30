@@ -6035,8 +6035,8 @@ C++	cpp
 存在	cpzl
 村组	cpzu
 蹲	cpzz
-此前	cq
 从前	cq
+此前	cq
 此起彼伏	cqbf
 此起彼落	cqbl
 残缺不全	cqbq
@@ -7897,6 +7897,7 @@ C语言	cyy
 地宫	digs
 低估	digu
 低谷	digu
+嘀咕	digu
 鞮	digu
 递归	digv
 地瓜	digw
@@ -22166,6 +22167,7 @@ H盘	hpj
 菖蒲	ihpu
 昌平	ihpy
 猖	ihq
+长枪	ihqd
 唱腔	ihqd
 瞠乎其后	ihqh
 长期	ihqi
@@ -25779,6 +25781,7 @@ I盘	ipj
 既来之则安之	jlvv
 蕨类植物	jlvw
 经理	jlw
+叽里哇啦	jlwl
 价廉物美	jlwm
 精力旺盛	jlwu
 见利忘义	jlwy
@@ -28210,6 +28213,7 @@ I盘	ipj
 解救	jxjq
 解决	jxjt
 结局	jxju
+拮据	jxju
 节假	jxjw
 结痂	jxjw
 姐姐	jxjx
@@ -28926,13 +28930,14 @@ I盘	ipj
 扣除	kbiu
 科班出身	kbiu
 扣缴	kbjc
+口角	kbjc
 可比价格	kbjg
 口技	kbji
 叩击	kbji
 扣减	kbjm
 口紧	kbjn
-口角	kbjt
 口诀	kbjt
+口角	kbjt
 可不就是	kbju
 口径	kbjy
 叩	kbk
@@ -37463,6 +37468,7 @@ I盘	ipj
 美	mzd
 美德	mzde
 每当	mzdh
+美的	mzdi
 每到	mzdk
 没带	mzdl
 没电	mzdm
@@ -44856,6 +44862,7 @@ I盘	ipj
 热	re
 然而	re
 热爱	reai
+热榜	rebh
 热播	rebo
 热补	rebu
 热病	reby
@@ -50910,8 +50917,8 @@ I盘	ipj
 退养	tvyh
 退役	tvyi
 推移	tvyi
-弹指一挥间	tvyj
 推演	tvyj
+弹指一挥间	tvyj
 退隐	tvyn
 特种邮票	tvyp
 颓	tvyt
@@ -66373,6 +66380,7 @@ U盘	upj
 有得有失	ydyu
 有胆有识	ydyu
 有多远滚多远	ydyy
+异地灾备	ydzb
 一肚子火	ydzh
 一肚子气	ydzq
 一肚子坏水	ydzu
@@ -75574,6 +75582,7 @@ U盘	upj
 黄褐斑	hhb
 黄花菜	hhc
 好好儿	hhe
+换行符	hhf
 哈哈哈	hhh
 黑乎乎	hhh
 好好好	hhh
@@ -79447,6 +79456,7 @@ U盘	upj
 耍态度	utd
 收摊儿	ute
 手推车	uti
+实体机	utj
 石炭纪	utj
 伤透了	utl
 受胎率	utl
@@ -80161,6 +80171,7 @@ U盘	upj
 乌拉圭	wlg
 网络化	wlh
 乌龙茶	wli
+物理机	wlj
 往来款	wlk
 无理码	wlm
 五六年	wln
@@ -80620,6 +80631,7 @@ U盘	upj
 小蛮腰	xmy
 小妞儿	xne
 小女孩	xnh
+虚拟机	xnj
 心内膜	xnm
 小年夜	xny
 新娘子	xnz
@@ -81294,6 +81306,7 @@ U盘	upj
 原则上	yzu
 有组织	yzv
 原则性	yzx
+源自于	yzy
 咬字眼	yzy
 一座座	yzz
 则安之	zav
