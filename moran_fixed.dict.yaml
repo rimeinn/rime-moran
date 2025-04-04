@@ -3044,6 +3044,7 @@ A4紙	asv
 貶低	bmdi
 扁擔	bmdj
 編導	bmdk
+變多	bmdo
 變短	bmdr
 變動	bmds
 編隊	bmdv
@@ -3209,6 +3210,7 @@ A4紙	asv
 編上	bmuh
 辨識	bmui
 便是	bmui
+變少	bmuk
 表面上看	bmuk
 不明事理	bmul
 辯說	bmuo
@@ -4753,12 +4755,13 @@ Bilibili	bvj
 郥	bzeb
 鄁	bzeb
 陂	bzep
-輩	bzf
+揹	bzf
 北伐	bzfa
 揹	bzfb
 備份	bzff
 北風	bzfg
 北方	bzfh
+輩	bzfi
 揹負	bzfu
 八字方針	bzfv
 不做鳳尾	bzfw
@@ -12622,6 +12625,7 @@ E盤	epj
 放出	fhiu
 紡錘	fhiv
 鈁	fhj
+非黑即白	fhjb
 方角	fhjc
 風華絕代	fhjd
 方劑	fhji
@@ -13582,6 +13586,7 @@ F盤	fpj
 鶝	funf
 鳺	funf
 鴔	funf
+賦能	fung
 拂逆	funi
 鳧	funj
 鳬	funj
@@ -14747,12 +14752,14 @@ F盤	fpj
 各色	gese
 哥嫂	gesk
 歌頌	gess
+圪	get
 個頭	getb
 感恩圖報	getb
 葛藤	getg
 個體	geti
 歌壇	getj
 隔天	getm
+圪	getq
 歌廳	gety
 硌	geu
 格殺	geua
@@ -15414,6 +15421,7 @@ F盤	fpj
 幹練	gjlm
 甘霖	gjln
 幹流	gjlq
+趕路	gjlu
 甘露	gjlu
 過街老鼠	gjlu
 乾裂	gjlx
@@ -20839,6 +20847,7 @@ H盤	hpj
 湖畔	hupj
 互派	hupl
 湖泊	hupo
+琥珀	hupo
 橫豎撇點折	hupv
 狐	huq
 糊牆	huqd
@@ -24527,6 +24536,7 @@ I盤	ipj
 充足	iszu
 重組	iszu
 衝突	it
+傳統	it
 醜態百出	itbi
 醜態畢露	itbl
 長痛不如短痛	itbt
@@ -25187,6 +25197,7 @@ I盤	ipj
 基本國策	jbgc
 絕不姑息	jbgx
 基本工資	jbgz
+煎餅餜子	jbgz
 基本貨幣	jbhb
 金碧輝煌	jbhh
 久別重逢	jbif
@@ -31566,6 +31577,7 @@ I盤	ipj
 快速入門	ksrm
 控訴	kssu
 堪薩斯州	kssv
+埪	kst
 空頭	kstb
 空投	kstb
 空調	kstc
@@ -55457,6 +55469,8 @@ PC端	pcdr
 師孃	uind
 姼	uind
 勢能	uing
+使能	uing
+失能	uing
 實乃	uinl
 十年	uinm
 侍弄	uins
@@ -60581,6 +60595,7 @@ U盤	upj
 盅	vsm
 種馬	vsma
 種苗	vsmc
+柊	vsmd
 指桑罵槐	vsmh
 蛛絲馬跡	vsmj
 終末	vsmo
@@ -76690,6 +76705,7 @@ WiFi	wifi
 不然呢	brn
 哺乳期	brq
 不饒人	brr
+比熱容	brr
 比如說	bru
 不如說	bru
 不認識	bru
@@ -78070,9 +78086,9 @@ WiFi	wifi
 港澳臺	gat
 孤哀子	gaz
 乾巴巴	gbb
-搞不定	gbd
-搞不懂	gbd
 怪不得	gbd
+搞不懂	gbd
+搞不定	gbd
 該不該	gbg
 夠不夠	gbg
 敢不敢	gbg
@@ -78605,6 +78621,7 @@ WiFi	wifi
 好幾回	hjh
 戶籍警	hjj
 好極了	hjl
+含金量	hjl
 好幾年	hjn
 火箭炮	hjp
 婚介所	hjs
@@ -84014,8 +84031,8 @@ WiFi	wifi
 一兩歲	yls
 一兩天	ylt
 葉綠體	ylt
-一路上	ylu
 原來是	ylu
+一路上	ylu
 閱覽室	ylu
 言論中	ylv
 意料中	ylv
@@ -84366,6 +84383,7 @@ WiFi	wifi
 載貨量	zhl
 走後門	zhm
 雜貨鋪	zhp
+組合拳	zhq
 棗紅色	zhs
 再回頭	zht
 縱橫談	zht

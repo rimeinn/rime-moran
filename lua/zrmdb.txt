@@ -761,6 +761,7 @@
 㜊 nv
 㜋 ny
 㜌 un
+㜌 nu
 㜍 nt
 㜎 nx
 㜏 ny
@@ -817,8 +818,8 @@
 㝂 zv
 㝃 zm
 㝄 xt
+㝅 uz
 㝅 zu
-㝅 tu
 㝆 zx
 㝇 xx
 㝈 lz
@@ -2180,12 +2181,14 @@
 㲂 uu
 㲃 bu
 㲃 ub
-㲄 uu
+㲄 uw
+㲄 wu
 㲅 uh
 㲆 kl
 㲇 ud
 㲈 kv
-㲉 uu
+㲉 ul
+㲉 lu
 㲊 ru
 㲊 ur
 㲋 db
@@ -2536,6 +2539,7 @@
 㷢 hi
 㷣 hn
 㷤 uh
+㷤 hu
 㷥 yi
 㷦 gh
 㷧 hy
@@ -2699,6 +2703,7 @@
 㺇 qq
 㺈 qi
 㺉 uq
+㺉 qu
 㺊 qy
 㺋 qw
 㺌 qj
@@ -3937,6 +3942,7 @@
 䍋 fi
 䍌 fp
 䍍 uf
+䍍 fu
 䍎 fj
 䍏 ka
 䍐 sg
@@ -4164,6 +4170,7 @@
 䐦 og
 䐧 og
 䐨 uo
+䐨 ou
 䐩 oq
 䐪 oj
 䐫 oc
@@ -9161,7 +9168,7 @@
 喾 gb
 喿 mp
 嗀 uk
-嗀 uu
+嗀 ku
 嗁 kh
 嗂 kf
 嗃 kg
@@ -15470,9 +15477,8 @@
 榓 mm
 榔 ml
 榕 mr
-榖 hu
-榖 uh
-榖 uu
+榖 mu
+榖 um
 榗 mj
 榘 mj
 榙 md
@@ -16186,6 +16192,7 @@
 殻 uj
 殻 uk
 殼 uj
+殼 ju
 殽 uy
 殾 uv
 殿 ug
@@ -18939,7 +18946,6 @@
 瑱 wv
 瑲 wc
 瑳 wi
-瑴 uu
 瑴 uw
 瑴 wu
 瑵 wi
@@ -19934,8 +19940,8 @@
 瞆 og
 瞇 om
 瞈 ow
-瞉 ou
 瞉 uo
+瞉 ou
 瞊 ot
 瞋 ov
 瞌 oh
@@ -20762,8 +20768,8 @@
 稽 hv
 稾 hg
 稿 hg
-穀 hu
 穀 uh
+穀 hu
 穁 hr
 穂 hh
 穂 hx
@@ -21628,8 +21634,8 @@
 糐 mf
 糑 mr
 糒 my
-糓 mu
 糓 um
+糓 mu
 糔 mz
 糕 mg
 糖 mt
@@ -22021,8 +22027,8 @@
 縝 sv
 縞 sg
 縟 sr
-縠 su
 縠 us
+縠 su
 縡 sz
 縢 os
 縣 xx
@@ -25741,8 +25747,8 @@
 觰 jv
 觱 jx
 觲 jn
-觳 ju
 觳 uj
+觳 ju
 觴 jw
 觴 jy
 觵 jh
@@ -27370,8 +27376,8 @@
 轀 im
 轀 iw
 轁 iy
-轂 iu
 轂 ui
+轂 iu
 轃 iq
 轄 ih
 轅 iy
@@ -31784,8 +31790,8 @@
 鷄 nx
 鷅 nl
 鷆 nv
-鷇 nu
 鷇 un
+鷇 nu
 鷈 nh
 鷉 nh
 鷊 ng
@@ -44119,8 +44125,7 @@
 𢢠 xz
 𢢡 ax
 𢢡 xa
-𢢢 tx
-𢢢 xt
+𢢢 ux
 𢢣 jx
 𢢣 xj
 𢢤 mx
@@ -44409,6 +44414,7 @@
 𢦎 jg
 𢦏 gu
 𢦑 yp
+𢦑 gp
 𢦒 ge
 𢦓 wd
 𢦔 gc
@@ -49241,7 +49247,6 @@
 𣪇 ug
 𣪇 gu
 𣪉 uk
-𣪊 tu
 𣪊 ua
 𣪋 qu
 𣪋 uq
@@ -49292,7 +49297,8 @@
 𣪧 bu
 𣪧 uf
 𣪨 ud
-𣪨 td
+𣪨 ut
+𣪨 du
 𣪩 um
 𣪩 yu
 𣪪 ub
@@ -49313,7 +49319,7 @@
 𣪱 uq
 𣪲 ug
 𣪲 yu
-𣪳 tq
+𣪳 qu
 𣪳 uq
 𣪴 ud
 𣪵 uv
@@ -49323,7 +49329,8 @@
 𣪷 ju
 𣪷 ut
 𣪸 uu
-𣪹 uu
+𣪹 ui
+𣪹 iu
 𣪺 uu
 𣪺 ux
 𣪻 uf
@@ -49337,8 +49344,8 @@
 𣪿 tu
 𣪿 ut
 𣫀 uu
+𣫀 ug
 𣫀 ku
-𣫀 tu
 𣫁 uy
 𣫁 yu
 𣫂 ui
@@ -49351,18 +49358,17 @@
 𣫅 uj
 𣫆 uv
 𣫇 uu
-𣫈 tu
 𣫈 uy
+𣫈 yu
 𣫉 un
 𣫉 tn
 𣫊 ug
 𣫋 bu
 𣫋 uc
-𣫌 uu
+𣫌 uf
 𣫍 uq
 𣫍 qu
 𣫎 uu
-𣫎 tu
 𣫏 ju
 𣫏 uy
 𣫐 uu
@@ -49370,10 +49376,10 @@
 𣫑 us
 𣫒 kj
 𣫒 ug
-𣫓 tl
 𣫓 ul
+𣫓 lu
 𣫔 ud
-𣫔 td
+𣫔 ui
 𣫖 uu
 𣫖 xu
 𣫗 tu
@@ -50341,7 +50347,6 @@
 𣹪 dm
 𣹫 dk
 𣹬 uu
-𣹬 tu
 𣹭 lu
 𣹭 ul
 𣹮 dp
@@ -52277,7 +52282,7 @@
 𤚯 ni
 𤚰 np
 𤚱 ng
-𤚲 tn
+𤚲 un
 𤚲 nu
 𤚳 nq
 𤚴 nm
@@ -54753,8 +54758,8 @@
 𥀋 pt
 𥀍 np
 𥀍 pn
+𥀎 up
 𥀎 pu
-𥀎 tp
 𥀏 wp
 𥀏 pm
 𥀐 pr
@@ -56209,7 +56214,6 @@
 𥔱 uu
 𥔲 ue
 𥔲 uk
-𥔳 tu
 𥔳 uu
 𥔴 uu
 𥔵 uz
@@ -59649,8 +59653,8 @@
 𦎬 yx
 𦎭 yf
 𦎮 yu
+𦎯 uy
 𦎯 yu
-𦎯 ty
 𦎰 yg
 𦎱 yh
 𦎲 yy
@@ -66212,6 +66216,7 @@
 𧯷 dd
 𧯸 uy
 𧯸 yu
+𧯸 du
 𧯹 yd
 𧯺 jq
 𧯻 df
@@ -66941,7 +66946,7 @@
 𧹭 it
 𧹮 id
 𧹯 ij
-𧹲 ti
+𧹲 ui
 𧹲 iu
 𧹳 ui
 𧹳 ir
@@ -71934,6 +71939,7 @@
 𩇓 yh
 𩇔 yy
 𩇕 qp
+𩇕 pq
 𩇖 qy
 𩇖 yq
 𩇛 qu
@@ -72259,8 +72265,8 @@
 𩌇 gy
 𩌈 gs
 𩌉 gt
+𩌊 ug
 𩌊 gu
-𩌊 tg
 𩌋 gy
 𩌌 gg
 𩌍 gg
@@ -76739,8 +76745,8 @@
 𪇂 nu
 𪇂 tn
 𪇃 pf
-𪇄 tn
 𪇄 nl
+𪇄 un
 𪇅 nv
 𪇆 nu
 𪇇 nj
@@ -77263,8 +77269,8 @@
 𪍝 mm
 𪍞 mb
 𪍟 ms
-𪍠 tm
 𪍠 mu
+𪍠 um
 𪍡 mf
 𪍢 mu
 𪍣 ml
@@ -77900,7 +77906,6 @@
 𪕶 uy
 𪕷 uu
 𪕷 tu
-𪕸 tu
 𪕸 uu
 𪕹 ut
 𪕺 ub
@@ -81614,7 +81619,8 @@
 𫜒 mt
 𫜓 mo
 𫜔 mb
-𫜕 tm
+𫜕 mu
+𫜕 um
 𫜖 mj
 𫜗 ml
 𫜘 hk
@@ -83738,10 +83744,10 @@
 𬆬 ug
 𬆭 tx
 𬆭 ux
-𬆮 nu
 𬆮 un
+𬆮 nu
 𬆯 ud
-𬆯 tu
+𬆯 du
 𬆰 ud
 𬆰 iu
 𬆱 mu
@@ -86208,7 +86214,8 @@
 𬸪 nf
 𬸪 fn
 𬸫 dn
-𬸬 tn
+𬸬 nl
+𬸬 un
 𬸭 gn
 𬸮 kn
 𬸯 pn
@@ -95312,7 +95319,8 @@
 𱋚 mb
 𱋜 mv
 𱋝 mk
-𱋞 tu
+𱋞 um
+𱋞 mu
 𱋟 mh
 𱋠 my
 𱋡 ml
