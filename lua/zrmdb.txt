@@ -15508,8 +15508,8 @@
 榫 mu
 榬 my
 榭 mu
-榮 hm
 榮 mb
+榮 hm
 榯 mu
 榰 mo
 榰 mq
@@ -31601,6 +31601,7 @@
 鴦 ny
 鴧 nj
 鴨 nj
+鴨 jn
 鴩 nu
 鴪 nx
 鴫 nt
@@ -32596,7 +32597,7 @@
 𠀹 at
 𠀺 ab
 𠀻 yd
-𠀼 ba
+𠀼 ai
 𠀽 ai
 𠀽 ud
 𠀾 bh
@@ -61069,7 +61070,8 @@
 𦣻 ao
 𦣻 az
 𦣼 de
-𦣽 ao
+𦣽 aa
+𦣽 kz
 𦣾 zw
 𦣿 zg
 𦤀 zd
