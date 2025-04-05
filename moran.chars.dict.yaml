@@ -11614,8 +11614,8 @@ use_preset_vocabulary: false
 榫	sp;mu	395
 榬	yr;my	0
 榭	xx;mu	5270
-榮	rs;hm	0
 榮	rs;mb	0
+榮	rs;hm	0
 榯	ui;mu	0
 榰	qi;mo	0
 榰	qi;mq	0
@@ -31631,6 +31631,7 @@ use_preset_vocabulary: false
 鴦	yh;ny	0
 鴧	yu;nj	0
 鴨	ya;nj	0
+鴨	ya;jn	0
 鴩	vi;nu	0
 鴩	yi;nu	0
 鴪	yu;nx	0
@@ -41068,8 +41069,8 @@ use_preset_vocabulary: false
 𠀱	mb;bf	0	# auto
 𠀷	ji;ac	0	# auto
 𠀸	ye;aq	0	# auto
-𠀼	qm;ba	0	# auto
-𠀼	xw;ba	0	# auto
+𠀼	qm;ai	0
+𠀼	xw;ai	0
 𠁉	iu;ah	0	# auto
 𠁷	ij;ii	0	# auto
 𠂄	hr;dh	0	# auto
@@ -89213,7 +89214,8 @@ use_preset_vocabulary: false
 𦣹	zi;ke	0	# auto
 𦣼	vi;de	0	# auto
 𦣼	zi;de	0	# auto
-𦣽	hv;ao	0	# auto
+𦣽	hv;aa	0
+𦣽	hv;kz	0
 𦣿	jy;zg	0	# auto
 𦤀	ib;zd	0	# auto
 𦤀	xq;zd	0	# auto
