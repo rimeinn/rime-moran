@@ -17297,6 +17297,7 @@ use_preset_vocabulary: false
 矌	gd;og	276
 矌	kd;og	276
 矍	jt;oy	542
+矍	jt;ov	542
 矍	jt;yq	542
 矎	qs;ow	174
 矎	qs;ox	174
@@ -21156,6 +21157,7 @@ use_preset_vocabulary: false
 膸	wz;os	340
 膹	ff;ob	249
 膺	yy;go	608
+膺	yy;ov	608
 膻	dj;od	439
 膻	tj;od	439
 膻	uj;od	439
@@ -57333,7 +57335,8 @@ use_preset_vocabulary: false
 𠓪	qi;ra	0	# auto
 𪺄	jc;hj	0	# auto
 𬫌	yt;jd	0	# auto
-𧀧	mg;cw	0	# auto
+𧀧	mg;cl	0
+𧀧	mg;cw	0
 𫦲	xu;lo	0	# auto
 𫦲	xu;kl	0	# auto
 𲅂	rb;im	0	# auto

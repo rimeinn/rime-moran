@@ -20027,6 +20027,7 @@
 矋 ow
 矌 og
 矍 oy
+矍 ov
 矍 yq
 矎 ow
 矎 ox
@@ -23149,6 +23150,7 @@
 膸 os
 膹 ob
 膺 go
+膺 ov
 膻 od
 膼 og
 膽 ov
@@ -62813,6 +62815,7 @@
 𧀤 ci
 𧀥 cy
 𧀦 cl
+𧀧 cl
 𧀧 cw
 𧀨 cl
 𧀩 cc
