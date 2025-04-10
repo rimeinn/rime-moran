@@ -293,8 +293,8 @@ A股	agu
 碍事	aiui
 毐	aium
 爱	aiv
-挨着	aive
 爱着	aive
+挨着	aive
 癌症	aivg
 癌肿	aivs
 哀	aiw
@@ -928,9 +928,11 @@ A4纸	asv
 跋	baz
 八字	bazi
 并不	bb
+不必	bb
 不比不知道	bbbd
 不卑不亢	bbbk
 褒贬不一	bbby
+不必	bbd
 斑斑点点	bbdd
 扳不倒儿	bbde
 并不多见	bbdj
@@ -1170,6 +1172,7 @@ A4纸	asv
 拔地而起	bdeq
 不得而知	bdev
 标点符号	bdfh
+表达方式	bdfu
 不得好死	bdhs
 不到黄河心不死	bdhs
 不到黄河不死心	bdhx
@@ -1231,6 +1234,7 @@ A4纸	asv
 巴尔扎克	bevk
 不二之选	bevx
 本	bf
+并非	bf
 本	bfa
 本案	bfan
 苯胺	bfan
@@ -8612,9 +8616,8 @@ C语言	cyy
 倒水	dkuv
 舠	dkv
 道砟	dkva
-待客之道	dkvd
-倒桩	dkvd
 倒装	dkvd
+待客之道	dkvd
 倒着	dkve
 到账	dkvh
 倒账	dkvh
@@ -10273,7 +10276,8 @@ D盘	dpj
 对应	dvyy
 对子	dvzi
 地址总线	dvzx
-嗲	dw
+单位	dw
+地位	dw
 大为不满	dwbm
 大为不同	dwbt
 断无此理	dwcl
@@ -13257,6 +13261,7 @@ F盘	fpj
 父债子还	fvzh
 发指眦裂	fvzl
 飞针走线	fvzx
+氛围	fw
 范围	fw
 分文不取	fwbq
 分文不值	fwbv
@@ -14263,6 +14268,7 @@ F盘	fpj
 孤芳自赏	gfzu
 高分子化合物	gfzw
 更	gg
+各个	gg
 亘	gga
 更爱	ggai
 公共安全	ggaq
@@ -16078,6 +16084,7 @@ G盘	gpj
 工区	gsqu
 各司其职	gsqv
 公顷	gsqy
+共情	gsqy
 供	gsr
 各色人等	gsrd
 供热	gsre
@@ -17361,6 +17368,7 @@ G盘	gpj
 后坐	hbzo
 还不足以	hbzy
 毫不在意	hbzy
+何曾	hc
 缓存	hc
 厚此薄彼	hcbb
 怀才不遇	hcby
@@ -21512,7 +21520,6 @@ H盘	hpj
 出尔反尔	iefe
 撤防	iefh
 车夫	iefu
-车伕	iefu
 扯	iefv
 撤	iefw
 车费	iefz
@@ -21639,6 +21646,7 @@ H盘	hpj
 陈放	iffh
 春风拂面	iffm
 沉浮	iffu
+臣服	iffu
 陈腐	iffu
 尘肺	iffz
 尘垢	ifgb
@@ -21785,6 +21793,7 @@ H盘	hpj
 冲锋在前	ifzq
 沉醉	ifzv
 成	ig
+成功	ig
 承	iga
 丞	igau
 宬	igb
@@ -23215,6 +23224,7 @@ I盘	ipj
 出去一下	iqyx
 出去走走	iqzz
 传	ir
+承认	ir
 串	ira
 传本	irbf
 穿帮	irbh
@@ -24176,6 +24186,7 @@ I盘	ipj
 持有异议	iyyy
 产业资本	iyzb
 搋子	iyzi
+创造	iz
 创作	iz
 车载斗量	izdl
 迟早的事	izdu
@@ -24487,9 +24498,9 @@ I盘	ipj
 角球	jcqq
 郊区	jcqu
 娇怯	jcqx
+矫情	jcqy
 交情	jcqy
 见财起意	jcqy
-矫情	jcqy
 侥	jcr
 娇柔	jcrb
 叫人	jcrf
@@ -29209,8 +29220,8 @@ I盘	ipj
 可否	kefb
 客房	kefh
 客饭	kefj
-客服	kefu
 克服	kefu
+客服	kefu
 髁	keg
 髁	kegg
 客观	kegr
@@ -29596,6 +29607,7 @@ I盘	ipj
 刊	kjd
 看打	kjda
 砍掉	kjdc
+看得	kjde
 刊登	kjdg
 堪当	kjdh
 看低	kjdi
@@ -30739,6 +30751,7 @@ I盘	ipj
 夸赞	kwzj
 夸嘴	kwzv
 课外作业	kwzy
+开心	kx
 科学	kx
 哭笑不得	kxbd
 可想而知	kxev
@@ -31800,6 +31813,7 @@ I盘	ipj
 踉	lhz
 浪子	lhzi
 里	li
+粒	li
 丽	lia
 隶	lia
 鬲	liaa
@@ -31975,7 +31989,6 @@ I盘	ipj
 厘米	limi
 良辰美景	limj
 礼貌	limk
-粒	liml
 梨	liml
 骊	liml
 栎	liml
@@ -33432,7 +33445,6 @@ I盘	ipj
 流觞	lquh
 流失	lqui
 流逝	lqui
-陆拾	lqui
 柳杉	lquj
 柳梢	lquk
 馏	lqul
@@ -38754,6 +38766,7 @@ I盘	ipj
 男怕入错行	nprh
 泥菩萨过河	npsh
 牛	nq
+年轻	nq
 纽埃	nqai
 牛扒	nqba
 南腔北调	nqbd
@@ -39507,6 +39520,7 @@ I盘	ipj
 呵	ookk
 喔	ookw
 嚄	ooky
+偶然	or
 欧	ou
 藕	ouc
 沤	oud
@@ -41088,6 +41102,7 @@ I盘	ipj
 朴素唯物主义	pswy
 菩萨心肠	psxi
 平台	pt
+普通	pt
 平头百姓	ptbx
 破土动工	ptdg
 泼天大祸	ptdh
@@ -41598,6 +41613,7 @@ I盘	ipj
 赔率	pzlv
 迫在眉睫	pzmj
 妃	pzn
+陪你	pzni
 胚	pzo
 配偶	pzou
 配平	pzpy
@@ -41634,6 +41650,7 @@ I盘	ipj
 配种	pzvs
 胚珠	pzvu
 珮	pzw
+陪我	pzwo
 配伍	pzwu
 衃	pzx
 赔笑	pzxc
@@ -42334,6 +42351,8 @@ I盘	ipj
 杞	qimj
 桤	qimj
 起锚	qimk
+汽贸	qimk
+七猫	qimk
 气脉	qiml
 器皿	qimn
 期末	qimo
@@ -42427,8 +42446,8 @@ I盘	ipj
 切齿痛恨	qith
 气体	qiti
 奇谈	qitj
-圻	qitj
 棋坛	qitj
+圻	qitj
 乞讨	qitk
 气态	qitl
 七天	qitm
@@ -42944,6 +42963,7 @@ I盘	ipj
 浅笑	qmxc
 钱箱	qmxd
 前夕	qmxi
+迁徙	qmxi
 悭	qmxj
 慊	qmxj
 前线	qmxm
@@ -43709,6 +43729,7 @@ I盘	ipj
 跫	qszg
 轻松自如	qszr
 却	qt
+其他	qt
 瘸	qtb
 雀斑	qtbj
 齐头并进	qtbj
@@ -45068,6 +45089,7 @@ I盘	ipj
 人参	rfuf
 人生	rfug
 认识	rfui
+人士	rfui
 认输	rfuu
 人数	rfuu
 人非圣贤	rfux
@@ -45138,16 +45160,19 @@ I盘	ipj
 人工免疫	rgmy
 仍能	rgng
 若干年后	rgnh
+如果你们	rgnm
 扔弃	rgqi
 仍	rgr
 仍然	rgrj
 如隔三秋	rgsq
+如果他们	rgtm
 仍是	rgui
 人工授精	rguj
 人鬼殊途	rgut
 热锅上的蚂蚁	rguy
 人工智能	rgvn
 入国问禁	rgwj
+如果我们	rgwm
 仍未	rgwz
 扔下	rgxw
 人工选择	rgxz
@@ -45414,6 +45439,7 @@ I盘	ipj
 绕组	rkzu
 绕嘴	rkzv
 日历	rl
+人类	rl
 如履薄冰	rlbb
 认理不认人	rlbr
 如临大敌	rldd
@@ -45499,6 +45525,7 @@ I盘	ipj
 茹毛饮血	rmyx
 人民医院	rmyy
 如芒在背	rmzb
+仍能	rn
 容纳	rn
 忍耐不住	rnbv
 如牛负重	rnfv
@@ -51319,6 +51346,7 @@ T恤衫	txuj
 听证	tyvg
 厅长	tyvh
 停止	tyvi
+停滞	tyvi
 停战	tyvj
 挺准	tyvp
 听众	tyvs
@@ -52144,6 +52172,7 @@ T恤衫	txuj
 射精	uejy
 舌	uek
 设卡	ueka
+社恐	ueks
 麝	uel
 设立	ueli
 社论	uelp
@@ -53091,6 +53120,7 @@ T恤衫	txuj
 上座	uhzo
 社会资源	uhzy
 事	ui
+时常	ui
 十	uia
 士	uiaa
 师	uiab
@@ -53125,7 +53155,7 @@ T恤衫	txuj
 诗词	uici
 食材	uicl
 适才	uicl
-失措	uico
+试错	uico
 蓍	uico
 市寸	uicp
 蓍	uicq
@@ -53169,10 +53199,13 @@ T恤衫	txuj
 时而	uier
 邿	uies
 拾	uif
+
 施法	uifa
 事发	uifa
 是否	uifb
 十分	uiff
+适逢	uifg
+侍奉	uifg
 释放	uifh
 示范	uifj
 师范	uifj
@@ -53708,6 +53741,7 @@ T恤衫	txuj
 膻	ujod
 晱	ujoy
 生机蓬勃	ujpb
+山旁	ujph
 山炮	ujpk
 山坡	ujpo
 闪屏	ujpy
@@ -56095,8 +56129,8 @@ U盘	upj
 这座	vezo
 真	vf
 针	vf
-珍爱	vfai
 真爱	vfai
+珍爱	vfai
 贞	vfb
 贞	vfbb
 真笨	vfbf
@@ -57045,6 +57079,7 @@ U盘	upj
 制品	vipn
 豸	vipp
 疐	vipt
+质朴	vipu
 只凭	vipy
 置评	vipy
 支配	vipz
@@ -58155,6 +58190,7 @@ U盘	upj
 专座	vrzo
 转租	vrzu
 中	vs
+正是	vs
 中	vsa
 钟爱	vsai
 冢	vsb
@@ -58410,6 +58446,7 @@ U盘	upj
 种族	vszu
 重罪	vszv
 状态	vt
+折腾	vt
 珠胎暗结	vtaj
 遮天蔽日	vtbr
 状态参数	vtcu
@@ -58792,6 +58829,7 @@ U盘	upj
 躅	vuzu
 住嘴	vuzv
 追	vv
+真正	vv
 赘	vvb
 惴惴不安	vvba
 皱皱巴巴	vvbb
@@ -59374,6 +59412,7 @@ U盘	upj
 无胆鼠辈	wdub
 五短身材	wduc
 五代十国	wdug
+我的世界	wduj
 未定之天	wdvt
 歪打正着	wdvv
 问鼎中原	wdvy
@@ -60445,6 +60484,7 @@ U盘	upj
 无名小卒	wmxz
 闻名于世	wmyu
 无名英雄	wmyx
+无奈	wn
 未能	wn
 万能	wn
 瓦努阿图	wnat
@@ -61258,6 +61298,7 @@ U盘	upj
 舞榭歌台	wxgt
 万象更新	wxgx
 闻弦歌而知雅意	wxgy
+我喜欢你	wxhn
 五星红旗	wxhq
 卧薪尝胆	wxid
 无心插柳	wxil
@@ -62038,6 +62079,7 @@ U盘	upj
 消音	xcyn
 校园	xcyr
 效用	xcys
+骁勇	xcys
 小月	xcyt
 小雨	xcyu
 小于	xcyu
@@ -63963,6 +64005,7 @@ U盘	upj
 袖子	xqzi
 修造	xqzk
 选	xr
+显然	xr
 亘	xra
 轩昂	xrah
 悬案	xran
@@ -65302,6 +65345,7 @@ U盘	upj
 亵玩	xxwj
 心向往之	xxwv
 𤫉	xxwx
+亵	xxwy
 纤悉无遗	xxwy
 些微	xxwz
 象形文字	xxwz
@@ -65914,8 +65958,8 @@ U盘	upj
 犹大	ybda
 又得	ybde
 有的	ybde
-油灯	ybdg
 优等	ybdg
+油灯	ybdg
 游荡	ybdh
 邮递	ybdi
 异步电动机	ybdj
@@ -66250,6 +66294,7 @@ U盘	upj
 优越	ybyt
 由于	ybyu
 犹豫	ybyu
+忧郁	ybyu
 言不由衷	ybyv
 诱	ybyx
 允不允许	ybyx
@@ -66745,6 +66790,7 @@ U盘	upj
 邀功请赏	ygqu
 衣冠禽兽	ygqu
 艺高人胆大	ygrd
+一个人的	ygrd
 月光如水	ygru
 一国三公	ygsg
 勇冠三军	ygsj
@@ -67488,8 +67534,8 @@ U盘	upj
 疑问	yiwf
 譯文	yiwf
 腰缠万贯	yiwg
-以往	yiwh
 遗忘	yiwh
+以往	yiwh
 一万	yiwj
 亿万	yiwj
 意外	yiwl
@@ -67503,6 +67549,7 @@ U盘	upj
 裛	yiwy
 以为	yiwz
 意味	yiwz
+依偎	yiwz
 意	yix
 悒	yixb
 一笑	yixc
@@ -68080,7 +68127,9 @@ U盘	upj
 揄	ykfy
 药费	ykfz
 耀	ykg
+遥感	ykgj
 腰杆	ykgj
+摇杆	ykgj
 药膏	ykgk
 腰果	ykgo
 摇滚	ykgp
@@ -68964,7 +69013,9 @@ U盘	upj
 有朋自远方来	ypzl
 孕	ypzn
 运作	ypzo
+以前	yq
 与其	yq
+尤其	yq
 燕雀安知鸿鹄之志	yqav
 阴晴不定	yqbd
 一去不返	yqbf
@@ -69361,6 +69412,7 @@ U盘	upj
 游刃有余	yryy
 羱	yryy
 远	yrz
+远走	yrzb
 悠然自得	yrzd
 一人做事一人当	yrzd
 原则	yrze
@@ -70425,6 +70477,7 @@ U盘	upj
 一望而知	ywev
 义无反顾	ywfg
 业务工作	ywgz
+以往	ywh
 与我何干	ywhg
 阎王好见	ywhj
 吆五喝六	ywhl
@@ -72528,6 +72581,7 @@ U盘	upj
 鳟鱼	zpyu
 遵	zpz
 增强	zq
+暂且	zq
 早期白话	zqbh
 暂且不论	zqbl
 自强不息	zqbx
@@ -73362,6 +73416,7 @@ U盘	upj
 奥特曼	atm
 阿托品	atp
 安徒生	atu
+爱上了	aul
 阿诗玛	aum
 爱谁谁	auu
 奥申委	auw
@@ -73603,6 +73658,7 @@ U盘	upj
 不可逆	bkn
 不靠谱	bkp
 不客气	bkq
+不科学	bkx
 不开心	bkx
 不可以	bky
 玻璃杯	blb
@@ -75511,7 +75567,6 @@ U盘	upj
 回不来	hbl
 花不了	hbl
 划不来	hbl
-回不来	hbl
 还不能	hbn
 很别扭	hbn
 黑白片	hbp
@@ -75530,6 +75585,8 @@ U盘	upj
 好榜样	hby
 黄灿灿	hcc
 黑材料	hcl
+何曾是	hcu
+何曾想	hcx
 喉擦音	hcy
 合订本	hdb
 喝倒彩	hdc
@@ -75663,7 +75720,6 @@ U盘	upj
 很可能	hkn
 很靠谱	hkp
 航空器	hkq
-航空信	hkx
 还可以	hky
 胡萝卜	hlb
 红绿灯	hld
@@ -77019,6 +77075,7 @@ U盘	upj
 灵敏度	lmd
 罗马法	lmf
 菱镁矿	lmk
+零门槛	lmk
 路漫漫	lmm
 老妈妈	lmm
 浪漫曲	lmq
@@ -77117,6 +77174,7 @@ U盘	upj
 临时工	lug
 落水狗	lug
 洛杉矶	luj
+罗生门	lum
 兰山区	luq
 老实人	lur
 历史学	lux
@@ -77289,6 +77347,7 @@ U盘	upj
 玫瑰红	mgh
 冒个泡	mgp
 每个人	mgr
+某个人	mgr
 玫瑰色	mgs
 没关系	mgx
 每个月	mgy
@@ -77747,6 +77806,7 @@ U盘	upj
 内蒙古	nmg
 那么高	nmg
 那么久	nmj
+你们家	nmj
 你们俩	nml
 农牧区	nmq
 柠檬酸	nms
@@ -78020,7 +78080,7 @@ U盘	upj
 凭什么	psm
 扑簌簌	pss
 排头兵	ptb
-骗他的	ptd
+普通的	ptd
 跑腿儿	pte
 普通法	ptf
 葡萄干	ptg
@@ -78265,11 +78325,13 @@ U盘	upj
 起死人	qsr
 起诉书	qsu
 墙头草	qtc
+其他的	qtd
 全天候	qth
 钱塘潮	qti
 钱塘江	qtj
 青铜器	qtq
 窃听器	qtq
+其他人	qtr
 擎天柱	qtv
 请稍等	qud
 七十二	que
@@ -78390,9 +78452,13 @@ U盘	upj
 软广告	rgg
 人工湖	rgh
 人工林	rgl
+如果你	rgn
 绕个圈	rgq
+如果他	rgt
+如果她	rgt
 软骨头	rgt
 如果说	rgu
+如果我	rgw
 热固性	rgx
 日光浴	rgy
 软化病	rhb
@@ -78724,6 +78790,7 @@ U盘	upj
 死难者	snv
 孙女婿	snx
 桑那浴	sny
+碎片化	sph
 撕破脸	spl
 算盘子	spz
 三七开	sqk
@@ -78869,6 +78936,7 @@ U盘	upj
 填补了	tbl
 天不怕	tbp
 听不清	tbq
+特别是	tbs
 疼不疼	tbt
 听不听	tbt
 痛不痛	tbt
@@ -78994,6 +79062,7 @@ U盘	upj
 挑毛病	tmb
 他妈的	tmd
 套马杆	tmg
+他们家	tmj
 太慢了	tml
 太忙了	tml
 土霉素	tms
@@ -80206,6 +80275,7 @@ U盘	upj
 维棉布	wmb
 我们的	wmd
 外蒙古	wmg
+我们家	wmj
 我没进	wmj
 误码率	wml
 雾蒙蒙	wmm
@@ -80317,6 +80387,7 @@ U盘	upj
 无线电	wxd
 无限大	wxd
 微血管	wxg
+我喜欢	wxh
 微循环	wxh
 维修厂	wxi
 胃下垂	wxi
@@ -80538,6 +80609,7 @@ U盘	upj
 西葫芦	xhl
 喜欢吗	xhm
 消化酶	xhm
+喜欢你	xhn
 瞎胡闹	xhn
 夏候鸟	xhn
 消耗品	xhp
@@ -80729,6 +80801,7 @@ U盘	upj
 谐振动	xvd
 下周二	xve
 线轴儿	xve
+休止符	xvf
 县政府	xvf
 乡政府	xvf
 新中国	xvg
