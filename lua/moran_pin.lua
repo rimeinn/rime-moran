@@ -293,6 +293,9 @@ function pin_processor.func(key_event, env)
         local context = env.engine.context
         local input = context.input
         local cand = context:get_selected_candidate()
+        if cand == nil then
+            return kNoop
+        end
         local text = cand.text
         -- 1) Special-case pure Chinese candidates: the text could be
         -- output from OpenCC, so pin the genuine candidate instead to

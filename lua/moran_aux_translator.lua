@@ -135,6 +135,9 @@ function Module.init(env)
          end
 
          local cand = segment:get_selected_candidate()
+         if cand == nil then
+            return
+         end
          local gcand = cand:get_genuine()
          if gcand.type == "pinned" then
             return
