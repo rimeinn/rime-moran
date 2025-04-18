@@ -1,7 +1,7 @@
 schema:
   schema_id: moran_aux
   name: 魔然·輔篩
-  version: "20250214"
+  version: "20250418"
   author:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
@@ -366,6 +366,14 @@ moran:
       # 自由加詞模式開關，開啓此模式後，輸入「編碼A」//並空格上屏後會進入加詞狀態，此時可以連續地、不受束縛地輸入，再次按下x//空格退出加詞狀態，期間輸入的內容將會被記錄爲「編碼A」的新置頂詞
       # 此模式適合造一些混合詞，如「A4紙」、「KOS-MOS」等
       freestyle: false
+
+  # 「通用」字符集設置
+  # 不影響「增廣」：增廣仍顯示*所有*字符
+  #
+  # both: 允許繁體和簡體同時顯示
+  # simp: 只顯示簡化字
+  # trad: 只顯示繁體字
+  charset: both
 
 # 默認啓用語言模型
 __include: moran:/octagram/enable_for_sentence
