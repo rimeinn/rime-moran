@@ -1,7 +1,7 @@
 schema:
   schema_id: moran_sentence
   name: 魔然·整句
-  version: "20241027"
+  version: "20250418"
   author:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
@@ -265,6 +265,15 @@ recognizer_secondary:
   patterns:
     # {4} 表示輸入長度達到 4 後開始輸出英語
     english: '^[A-Za-z]{4}[A-Za-z]*'
+
+moran:
+  # 「通用」字符集設置
+  # 不影響「增廣」：增廣仍顯示*所有*字符
+  #
+  # both: 允許繁體和簡體同時顯示
+  # simp: 只顯示簡化字
+  # trad: 只顯示繁體字
+  charset: both
 
 # 默認啓用語言模型
 __include: moran:/octagram/enable_for_sentence
