@@ -20760,9 +20760,13 @@ use_preset_vocabulary: false
 育	yu;os	1670
 育	yu;wo	1670
 肳	wf;ow	267
+肴	xc;iy	0
+肴	xc;iy	0
+肴	yk;iy	614
+肴	yk;iy	614
 肴	xc;ou	0
-肴	yk;ou	614
 肴	xc;oy	0
+肴	yk;ou	614
 肴	yk;oy	614
 肵	jn;oj	302
 肵	jy;oj	302
@@ -30323,6 +30327,7 @@ use_preset_vocabulary: false
 饦	to;uq	0
 饦	to;ut	0
 饧	xy;uy	0
+饨	dp;ut	0
 饨	tp;ut	0
 饩	xi;uq	0
 饪	rf;ur	0
@@ -34204,6 +34209,7 @@ use_preset_vocabulary: false
 龶	pp;qy	0
 龷	pp;nm	0
 龸	pp;ih	0
+㐅	pp;ia	0
 龺	pp;uz	0
 龻	pp;lm	0
 㐄	pp;fg	0
