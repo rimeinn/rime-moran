@@ -2385,13 +2385,13 @@ A4紙	asv
 擺個臭臉	bgil
 不改初衷	bgiv
 鏰	bgj
+不過就是	bgje
 不給機會	bgjh
 蹦極	bgji
 甭急	bgji
 百感交集	bgjj
 不甘寂寞	bgjm
 繃緊	bgjn
-不過就是	bgju
 不敢接受	bgju
 白骨教主	bgjv
 崩解	bgjx
@@ -3283,6 +3283,7 @@ A4紙	asv
 伴兒	bjer
 不教而殺	bjeu
 不教而誅	bjev
+不就是想	bjex
 比較而言	bjey
 不脛而走	bjez
 搬	bjf
@@ -3548,7 +3549,6 @@ A4紙	asv
 板刷	bjuw
 北京市委	bjuw
 北京師範大學	bjux
-不就是想	bjux
 邊際收益	bjuy
 畢竟是要	bjuy
 半截身子	bjuz
@@ -4275,6 +4275,7 @@ A4紙	asv
 白領階層	bljc
 兵來將擋	bljd
 敗將	bljd
+本來就是	blje
 敗績	blji
 瀕臨絕境	bljj
 標量計算機	bljj
@@ -4292,7 +4293,6 @@ A4紙	asv
 白卷	bljr
 臂力驚人	bljr
 敗局	blju
-本來就是	blju
 敗家	bljw
 撥亂濟危	bljw
 拜節	bljx
@@ -5990,6 +5990,7 @@ B盤	bpj
 鈽	bujb
 補角	bujc
 部將	bujd
+本身就是	buje
 辦事機構	bujg
 不說假話	bujh
 飽受飢寒	bujh
@@ -6008,7 +6009,6 @@ B盤	bpj
 不倦	bujr
 不覺	bujt
 佈局	buju
-本身就是	buju
 博施濟衆	bujv
 不佳	bujw
 不解	bujx
@@ -8526,6 +8526,7 @@ Bilibili	bvj
 財經大學	cjdx
 採菊東籬下	cjdx
 參訂	cjdy
+錯就是錯	cjec
 蠶蛾	cjee
 擦肩而過	cjeg
 摻	cjf
@@ -8629,7 +8630,6 @@ C++	cjj
 餐廳	cjty
 餐	cju
 殘殺	cjua
-錯就是錯	cjuc
 倉頡輸入法	cjuf
 曾經說過	cjug
 殘生	cjug
@@ -8920,6 +8920,7 @@ C++	cjj
 裁處	cliu
 菜窖	cljc
 材料檢測	cljc
+從來就是	clje
 採集	clji
 猜忌	clji
 裁剪	cljm
@@ -8930,7 +8931,6 @@ C++	cjj
 彩卷	cljr
 從來就不是	cljs
 裁決	cljt
-從來就是	clju
 才具	clju
 菜價	cljw
 財界	cljx
@@ -10308,6 +10308,7 @@ C盤	cpj
 大獎	dajd
 鎝	dajd
 鐽	dajd
+答案就是	daje
 打熬筋骨	dajg
 打擊	daji
 搭建	dajm
@@ -10317,7 +10318,6 @@ C盤	cpj
 答卷	dajr
 大覺	dajt
 大局	daju
-答案就是	daju
 大家	dajw
 打架	dajw
 大街	dajx
@@ -11672,6 +11672,7 @@ C盤	cpj
 等角	dgjc
 鐙	dgjd
 大概幾點	dgjd
+大概就是	dgje
 倒掛金鉤	dgjg
 等級	dgji
 登記	dgji
@@ -11680,7 +11681,6 @@ C盤	cpj
 大國崛起	dgjq
 大高加索	dgjs
 燈具	dgju
-大概就是	dgju
 倒掛金鐘	dgjv
 斷根絕種	dgjv
 等價	dgjw
@@ -12542,6 +12542,7 @@ C盤	cpj
 但丁	djdy
 耽	dje
 鄲	djed
+對就是對	djed
 待價而沽	djeg
 聃	djer
 擔	djf
@@ -12769,7 +12770,6 @@ C盤	cpj
 渡劫失敗	djub
 單雙	djud
 度假勝地	djud
-對就是對	djud
 單設	djue
 單身	djuf
 誕生	djug
@@ -21443,6 +21443,7 @@ F盤	fpj
 狗叫	gbjc
 宮保雞丁	gbjd
 宮爆雞丁	gbjd
+根本就是	gbje
 覯	gbjg
 廣播講話	gbjh
 鉤稽	gbji
@@ -21451,7 +21452,6 @@ F盤	fpj
 購進	gbjn
 根本就不能	gbjn
 根本就不是	gbjs
-根本就是	gbju
 構架	gbjw
 勾結	gbjx
 根本就不行	gbjx
@@ -31925,12 +31925,12 @@ H盤	hpj
 核心成員	hxiy
 呼吸急促	hxjc
 互相監督	hxjd
+或許就是	hxje
 化學結構	hxjg
 核心價值觀	hxjg
 或許就會	hxjh
 環形交叉	hxji
 含笑九泉	hxjq
-或許就是	hxju
 核心技術	hxju
 核心價值	hxjv
 火星救援	hxjy
@@ -32964,9 +32964,9 @@ H盤	hpj
 出錯處理	icil
 查錯程序	icix
 純粹出於	iciy
+純粹就是	icje
 趁此機會	icjh
 初次接觸	icji
-純粹就是	icju
 重操舊業	icjy
 陳詞濫調	icld
 諂詞令色	icls
@@ -38134,31 +38134,45 @@ I盤	ipj
 就是	je
 進而	je
 就是不好	jebh
+就是不能	jebn
 就是不行	jebx
 金額不限	jebx
 交而不泄	jebx
 雞兒梆硬	jeby
+就是不一樣	jeby
 鉅額財富	jecf
 鉅額財產	jeci
+就是等於	jedy
 剪惡除奸	jeij
 吉爾吉斯	jejs
 吉爾吉斯斯坦	jejt
 久而久之	jejv
 鉅額利潤	jelr
 接二連三	jels
+就是那個	jeng
+就是那麼	jenm
+就是那些	jenx
 就是那樣	jeny
 就是如此	jerc
 嫉惡如仇	jeri
 就是說啊	jeua
 驚諤失色	jeus
+就是說呀	jeuy
+就是直接	jevj
 就是這麼	jevm
 鉅額債務	jevw
+就是這些	jevx
 就是這樣	jevy
 驚愕萬分	jewf
+就是爲了	jewl
+就是現在	jexz
+就是一個	jeyg
 敬而遠之	jeyv
 簡而言之	jeyv
 兼而有之	jeyv
+就是一種	jeyv
 就是因爲	jeyw
+就是以爲	jeyw
 飢餓營銷	jeyx
 積分	jf
 甲方爸爸	jfbb
@@ -42003,7 +42017,6 @@ I盤	ipj
 鉅變	jubm
 精神飽滿	jubm
 見勢不妙	jubm
-就是不能	jubn
 鵙	jubn
 巨擘	jubo
 具	jubq
@@ -42022,7 +42035,6 @@ I盤	ipj
 兼收幷蓄	jubx
 精神病院	juby
 舉兵	juby
-就是不一樣	juby
 具備	jubz
 菊	juc
 金山詞霸	jucb
@@ -42081,7 +42093,6 @@ I盤	ipj
 九十點鐘	judv
 建設單位	judw
 介紹對象	judx
-就是等於	judy
 聚	jue
 鉅額	juee
 郹	jueq
@@ -42295,7 +42306,6 @@ I盤	ipj
 雞尸牛從	junc
 九十年代	jund
 技術難度	jund
-就是那個	jung
 幾十年後	junh
 精神內耗	junh
 拘泥	juni
@@ -42307,13 +42317,11 @@ I盤	ipj
 鶪	junj
 幾十年來	junl
 鑑賞能力	junl
-就是那麼	junm
 娵	junq
 幾十年前	junq
 九十年前	junq
 幾十年如一日	junr
 劫數難逃	junt
-就是那些	junx
 假聲男高音	juny
 懼內	junz
 局內	junz
@@ -42432,7 +42440,6 @@ I盤	ipj
 精神實質	juuv
 技術受限	juux
 建設事業	juuy
-就是說呀	juuy
 精神十足	juuz
 雎	juv
 技術指標	juvb
@@ -42450,7 +42457,6 @@ I盤	ipj
 舉止	juvi
 技術專家	juvj
 進身之階	juvj
-就是直接	juvj
 劇照	juvk
 接受治療	juvl
 舉債	juvl
@@ -42458,7 +42464,6 @@ I盤	ipj
 筥	juvl
 貗	juvl
 舉世矚目	juvm
-就是這麼	juvm
 九十週年	juvn
 瞿	juvo
 積善之家，必有餘慶	juvq
@@ -42471,7 +42476,6 @@ I盤	ipj
 居住	juvu
 即使只是	juvu
 精神支柱	juvv
-就是這些	juvx
 經世致用	juvy
 金石之言	juvy
 琚	juw
@@ -42480,7 +42484,6 @@ I盤	ipj
 絕世武功	juwg
 軍事委員會	juwh
 金石爲開	juwk
-就是爲了	juwl
 局外	juwl
 精神文明	juwm
 舉世聞名	juwm
@@ -42521,7 +42524,6 @@ I盤	ipj
 舉行	juxy
 矩形	juxy
 技術學院	juxy
-就是現在	juxz
 技術協作	juxz
 精神續作	juxz
 裾	juy
@@ -42530,7 +42532,6 @@ I盤	ipj
 盡收眼底	juyd
 九十月份	juyf
 江山易改	juyg
-就是一個	juyg
 建設銀行	juyh
 拘役	juyi
 詎	juyj
@@ -42556,10 +42557,7 @@ I盤	ipj
 金山銀山	juyu
 軍事援助	juyv
 金聲玉振	juyv
-就是一種	juyv
 精神一震	juyv
-就是因爲	juyw
-就是以爲	juyw
 解釋一下	juyx
 加深印象	juyx
 軍事演習	juyx
@@ -44492,6 +44490,7 @@ I盤	ipj
 扣繳	kbjc
 口角	kbjc
 看不見的	kbjd
+可不就是	kbje
 可比價格	kbjg
 口技	kbji
 叩擊	kbji
@@ -44499,7 +44498,6 @@ I盤	ipj
 口緊	kbjn
 口訣	kbjt
 口角	kbjt
-可不就是	kbju
 看不見摸不着	kbjv
 看不見，摸不着	kbjv
 口徑	kbjy
@@ -46138,8 +46136,8 @@ I盤	ipj
 可能成爲	kniw
 可能出現	knix
 可能就得	knjd
+可能就是	knje
 可能就會	knjh
-可能就是	knju
 扣你幾哇	knjw
 可能就要	knjy
 可能就在	knjz
@@ -46240,12 +46238,12 @@ I盤	ipj
 昆蟲	kpis
 錕	kpj
 睏覺	kpjc
+恐怕就是	kpje
 昆季	kpji
 睏倦	kpjr
 困窘	kpjs
 困局	kpju
 困居	kpju
-恐怕就是	kpju
 困境	kpjy
 科普教育	kpjy
 困	kpk
@@ -53353,11 +53351,11 @@ I盤	ipj
 矛盾衝突	mdit
 美得出水	mdiu
 買到就是賺到	mdjd
+目的就是	mdje
 矛盾激化	mdjh
 馬達加斯加	mdjj
 矛盾加劇	mdjj
 矛盾激烈	mdjl
-目的就是	mdju
 目瞪口呆	mdkd
 摸底考試	mdku
 馬丁路德金	mdlj
@@ -57587,9 +57585,9 @@ I盤	ipj
 南北差異	nbiy
 鎒	nbj
 你不覺得	nbjd
+那不就是	nbje
 那不就行了	nbjl
 內部交流	nbjl
-那不就是	nbju
 那不就行	nbjx
 怒不可遏	nbke
 內部空間	nbkj
@@ -58344,6 +58342,7 @@ I盤	ipj
 男丁	njdy
 年級第一	njdy
 男兒	njer
+那就是因爲	njew
 難分	njff
 南風	njfg
 南方	njfh
@@ -58476,7 +58475,6 @@ I盤	ipj
 那件事情	njuq
 哪件事情	njuq
 難屬	njuu
-那就是因爲	njuw
 年久失修	njux
 那就這樣吧	njvb
 男裝	njvd
@@ -58922,6 +58920,7 @@ I盤	ipj
 黏膠	nmjc
 你們覺得	nmjd
 那麼簡單	nmjd
+那麼就是	nmje
 那麼幾個	nmjg
 那麼就會	nmjh
 年紀	nmji
@@ -58938,7 +58937,6 @@ I盤	ipj
 農民家庭	nmjt
 那麼幾天	nmjt
 納米技術	nmju
-那麼就是	nmju
 年假	nmjw
 年節	nmjx
 粘結	nmjx
@@ -67114,6 +67112,7 @@ PC端	pcd
 覷	quj
 全世界的	qujd
 曲江	qujd
+其實就是	quje
 窮奢極侈	quji
 切實解決	qujj
 氣數將盡	qujj
@@ -67128,7 +67127,6 @@ PC端	pcd
 親上加親	qujq
 取決	qujt
 強身健體	qujt
-其實就是	quju
 前世今生	quju
 屈居	quju
 前世界紀錄保持者	qujv
@@ -69115,10 +69113,10 @@ PC端	pcd
 鬤	rhix
 嚷叫	rhjc
 如何見得	rhjd
+然後就是	rhje
 如何解決	rhjj
 然後就沒然後了	rhjl
 然後就沒有然後了	rhjl
-然後就是	rhju
 如何解釋	rhju
 讓價	rhjw
 任何建議	rhjy
@@ -79673,6 +79671,7 @@ T恤衫	txuj
 雙腳	udjc
 霜降	udjd
 說得簡單	udjd
+說的就是	udje
 時代俊峯	udjf
 輸得精光	udjg
 神盾局特工	udjg
@@ -79689,7 +79688,6 @@ T恤衫	txuj
 時代精神	udju
 孀居	udju
 十賭九輸	udju
-說的就是	udju
 術到極致	udjv
 雙頰	udjw
 聲東擊西	udjx
@@ -82741,12 +82739,12 @@ T恤衫	txuj
 十里長亭	ulit
 順理成章	uliv
 十六進制	ulj
+上來就是	ulje
 生理健康	uljk
 勝利結算	uljs
 水陸交通	uljt
 殺戮尖塔	uljt
 熟練技術	ulju
-上來就是	ulju
 十六進制	uljv
 神龍見首不見尾	uljw
 順利進行	uljx
@@ -85782,6 +85780,7 @@ U盤	upj
 驟降	vbjd
 真不簡單	vbjd
 逐步降低	vbjd
+這不就是	vbje
 驟不及防	vbjf
 豬八戒背媳婦	vbjf
 洲際	vbji
@@ -85795,7 +85794,6 @@ U盤	upj
 治病救人	vbjr
 戰敗結算	vbjs
 軸距	vbju
-這不就是	vbju
 這不僅是	vbju
 準備就緒	vbjx
 朝不及夕	vbjx
@@ -88149,7 +88147,10 @@ U盤	upj
 摘金奪銀	vjdy
 爭金奪銀	vjdy
 詹	vjdy
+這就是愛	vjea
 針尖兒對麥芒兒	vjee
+這就是個	vjeg
+這就是因爲	vjew
 旃	vjf
 戰法	vjfa
 綻放	vjfh
@@ -88326,7 +88327,6 @@ U盤	upj
 執劍天涯	vjty
 展	vju
 斬殺	vjua
-這就是愛	vjua
 斬首	vjub
 饘	vjud
 正經事兒	vjue
@@ -88334,7 +88334,6 @@ U盤	upj
 戰神	vjuf
 佔據上風	vjuf
 戰勝	vjug
-這就是個	vjug
 站上	vjuh
 展示	vjui
 戰士	vjui
@@ -88354,7 +88353,6 @@ U盤	upj
 嵁	vjuu
 蘸水	vjuv
 嶄	vjuv
-這就是因爲	vjuw
 餰	vjuy
 知己知彼	vjvb
 站樁	vjvd
@@ -92036,11 +92034,11 @@ U盤	upj
 武德充沛	wdip
 蚊叮蟲咬	wdiy
 無敵艦隊	wdjd
+爲的就是	wdje
 溫帶季風	wdjf
 萬道金光	wdjg
 五毒俱全	wdjq
 玩的就是心跳	wdjt
-爲的就是	wdju
 穩定局勢	wdju
 偉大精神	wdju
 無敵金身	wdju
@@ -92289,6 +92287,7 @@ U盤	upj
 文教	wfjc
 無法決定	wfjd
 違法金額	wfje
+無非就是	wfje
 微分幾何	wfjh
 文集	wfji
 無法解除	wfji
@@ -92309,7 +92308,6 @@ U盤	upj
 文具	wfju
 無法解釋	wfju
 無法接受	wfju
-無非就是	wfju
 無法集中	wfjv
 文靜	wfjy
 萬分景仰	wfjy
@@ -93956,6 +93954,7 @@ WiFi	wifi
 外貿出口	wmik
 文明城市	wmiu
 蛙鳴蟬噪	wmiz
+我們就是	wmje
 我們幾個	wmjg
 我們就會	wmjh
 我們將會	wmjh
@@ -93964,7 +93963,6 @@ WiFi	wifi
 完美解決	wmjj
 物美價廉	wmjl
 我們今天	wmjt
-我們就是	wmju
 我們就說	wmju
 我們將要	wmjy
 我們就要	wmjy
@@ -94324,8 +94322,8 @@ WiFi	wifi
 完全徹底	wqid
 無情嘲諷	wqif
 完全成爲	wqiw
+完全就是	wqje
 無窮級數	wqju
-完全就是	wqju
 我去看看	wqkk
 完全可能	wqkn
 完全可以	wqky
@@ -95421,10 +95419,10 @@ WiFi	wifi
 爲我高興	wwgx
 未聞花名	wwhm
 微微顫抖	wwid
+往往就是	wwje
 往往就會	wwjh
 文文靜靜	wwjj
 五味俱全	wwjq
-往往就是	wwju
 圍魏救趙	wwjv
 文物考古	wwkg
 五維空間	wwkj
@@ -96382,8 +96380,8 @@ WiFi	wifi
 夕避長蛇	xbiu
 下筆成章	xbiv
 下筆成文	xbiw
+想必就是	xbje
 學不進去	xbjq
-想必就是	xbju
 小本經營	xbjy
 下巴頦兒	xbke
 西部開發	xbkf
@@ -102607,8 +102605,8 @@ WiFi	wifi
 卸載重裝	xziv
 下自成蹊	xzix
 小組出線	xzix
+現在就是	xzje
 薪資結構	xzjg
-現在就是	xzju
 現在進行時	xzju
 行走江湖	xzjx
 想做就做	xzjz
@@ -103470,6 +103468,7 @@ WiFi	wifi
 一寸長，一寸強	yciq
 一層窗戶紙	yciv
 由此及彼	ycjb
+一猜就是	ycje
 有錯就改	ycjg
 一次機會	ycjh
 嚴詞拒絕	ycjj
@@ -103477,7 +103476,6 @@ WiFi	wifi
 言辭激烈	ycjl
 隱藏技能	ycjn
 隱藏劇情	ycjq
-一猜就是	ycju
 依次進行	ycjx
 由此可見一般	yckb
 由此可見一斑	yckb
@@ -103676,6 +103674,7 @@ WiFi	wifi
 應當成爲	ydiw
 遠渡重洋	ydiy
 一定階段	ydjd
+一定就是	ydje
 衣帶漸寬終不悔	ydjh
 一段佳話	ydjh
 原定計劃	ydjh
@@ -103694,7 +103693,6 @@ WiFi	wifi
 原地解散	ydjs
 一點就通	ydjt
 一點就透	ydjt
-一定就是	ydju
 緣定今生	ydju
 有點緊張	ydjv
 一點就着	ydjv
@@ -104409,13 +104407,13 @@ WiFi	wifi
 一個勁地	ygjd
 一個角度	ygjd
 一個勁兒	ygje
+應該就是	ygje
 一個接一個	ygjg
 一個機會	ygjh
 英國進口	ygjk
 嚴格紀律	ygjl
 壓根就沒	ygjm
 愚公精神	ygju
-應該就是	ygju
 嚴格教育	ygjy
 陽光開朗大男孩	ygkh
 油光可鑑	ygkj
@@ -105767,6 +105765,7 @@ WiFi	wifi
 隒	yjej
 郾	yjen
 沿兒	yjer
+也就是說	yjeu
 郔	yjey
 酀	yjey
 掩	yjf
@@ -106172,7 +106171,6 @@ WiFi	wifi
 一件事情	yjuq
 有件事情	yjuq
 巘	yjuq
-也就是說	yjuu
 眼熟	yjuu
 一介書生	yjuu
 巖	yjuu
@@ -106444,6 +106442,7 @@ WiFi	wifi
 有口皆碑	ykjb
 夭矯	ykjc
 一看就知道	ykjd
+一看就是	ykje
 一看就會	ykjh
 藥劑	ykji
 一看究竟	ykjj
@@ -106453,7 +106452,6 @@ WiFi	wifi
 雲開見日	ykjr
 要訣	ykjt
 藥具	ykju
-一看就是	ykju
 銚	ykjv
 一看就知	ykjv
 要價	ykjw
@@ -107084,13 +107082,13 @@ WiFi	wifi
 一名成員	ymiy
 幺母絞絲弓三匕	ymjb
 英明決策	ymjc
+要麼就是	ymje
 勇猛精進	ymjj
 圓滿解決	ymjj
 夜幕降臨	ymjl
 嚴明紀律	ymjl
 悅米機械鍵盤	ymjp
 一鳴驚人	ymjr
-要麼就是	ymju
 顏面盡失	ymju
 幽默機智	ymjv
 眼冒金星	ymjx
@@ -108653,6 +108651,7 @@ WiFi	wifi
 耶穌基督	ysjd
 勇將	ysjd
 有所降低	ysjd
+意思就是	ysje
 擁擠	ysji
 有所警覺	ysjj
 佣金	ysjn
@@ -108663,7 +108662,6 @@ WiFi	wifi
 要素集齊	ysjq
 一損俱損	ysjs
 永訣	ysjt
-意思就是	ysju
 用具	ysju
 有所建樹	ysju
 有所進展	ysjv
@@ -110560,6 +110558,7 @@ WiFi	wifi
 因小見大	yxjd
 研學基地	yxjd
 元兇巨惡	yxje
+也許就是	yxje
 嚴刑峻法	yxjf
 一學就廢	yxjf
 以下幾個	yxjg
@@ -110571,7 +110570,6 @@ WiFi	wifi
 英雄救美	yxjm
 有先見之明	yxjm
 遊戲鍵盤	yxjp
-也許就是	yxju
 遊戲結束	yxju
 優秀教師	yxju
 言行舉止	yxjv
@@ -112850,6 +112848,7 @@ WiFi	wifi
 自己動手	zjdu
 暫定	zjdy
 最佳的選擇	zjdz
+咱就是說	zjeu
 攢	zjf
 自己方便	zjfb
 最佳方法	zjff
@@ -112951,7 +112950,6 @@ WiFi	wifi
 嘴尖舌快	zjuk
 最具說服力	zjul
 增加收入	zjur
-咱就是說	zjuu
 自己手中	zjuv
 宗教事務	zjuw
 嘴角上揚	zjuy
@@ -113869,12 +113867,12 @@ WiFi	wifi
 遭人恥笑	zrix
 昨日重現	zrix
 鉆	zrj
+自然就是	zrje
 自然景觀	zrjg
 鑽機	zrji
 自然經濟	zrjj
 鑽進	zrjn
 自然交配	zrjp
-自然就是	zrju
 鑽戒	zrjx
 鑽井	zrjy
 早日康復	zrkf
@@ -114984,6 +114982,7 @@ WiFi	wifi
 自願加班	zyjb
 足以見得	zyjd
 最要緊的	zyjd
+作用就是	zyje
 左右夾攻	zyjg
 早有計劃	zyjh
 昨夜今晨	zyji
@@ -114992,7 +114991,6 @@ WiFi	wifi
 綜藝節目	zyjm
 縱有疾風起	zyjq
 尊嚴盡喪	zyjs
-作用就是	zyju
 早已經是	zyju
 自由競爭	zyjv
 資源節約	zyjy
