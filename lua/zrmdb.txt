@@ -61683,7 +61683,6 @@
 𬺽 qa
 𬺿 ad
 𬺿 ud
-𬻀 aa
 𬻂 aa
 𬻂 pa
 𬻃 aa
@@ -72419,6 +72418,11 @@
 𲎭 lu
 𢎧 ag
 𱹀 uj
+𭴈 hy
+𰟋 yy
+𬻀 ap
+𬻀 cc
+𢌽 ss
 〇 aa
 の aa
 凉 dj
