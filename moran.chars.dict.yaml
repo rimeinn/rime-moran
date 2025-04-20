@@ -104233,7 +104233,6 @@ use_preset_vocabulary: false
 𬺽	xi;qa	0	# auto
 𬺿	nh;ad	0	# auto
 𬺿	nh;ud	0	# auto
-𬻀	pu;aa	0	# auto
 𬻂	xi;aa	0	# auto
 𬻂	xi;pa	0	# auto
 𬻃	tm;aa	0	# auto
@@ -122014,6 +122013,11 @@ use_preset_vocabulary: false
 𠂤	vv;pk	0
 𠃓	yh;ap	0
 𠃓	yi;ap	0
+𭴈	yp;hy	0
+𰟋	yp;yy	0
+𬻀	puti;ap	0
+𬻀	puti;cc	0
+𢌽	nxpj;ss	0
 
 # 一些會對正常輸入造成干擾的字
 # 直接禁用掉
