@@ -80804,6 +80804,7 @@
 栔 md
 栕 mi
 栖 mx
+栗 mx
 栗 xm
 栘 md
 栙 mj
@@ -97981,13 +97982,13 @@
 黷 hm
 黸 hl
 黹 yb
-黺 fb
 黺 yf
-黻 bb
+黺 fb
 黻 yb
 黻 yy
-黼 fb
+黻 bb
 黼 yf
+黼 fb
 黽 kg
 黽 aa
 黾 kd
