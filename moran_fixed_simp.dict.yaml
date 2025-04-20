@@ -5471,6 +5471,7 @@ B盘	bpj
 不是任何	bsrh
 比死人多口气	bsrq
 不遂人愿	bsry
+不是时候	bssh
 不算什么	bssm
 不是特别	bstb
 拔丝土豆	bstd
@@ -7117,6 +7118,7 @@ B盘	bpj
 不以人废言	byry
 不以人的意志为转移	byry
 半夜三更	bysg
+必要时候	bysh
 病死	bysi
 必有所求	bysq
 别有所图	byst
@@ -8898,6 +8900,7 @@ C++	cjj
 艹你妈的	cnmd
 草你奶奶	cnnn
 操你奶奶	cnnn
+从那时候	cnsh
 从娘胎里	cntl
 从那天起	cntq
 从那时候	cnuh
@@ -9273,6 +9276,8 @@ C++	cpp
 丛密	csmi
 才思敏捷	csmj
 聪敏	csmn
+从什么时候起	csmq
+从什么时候开始	csmu
 从母	csmu
 骢	csmx
 聪明	csmy
@@ -12994,6 +12999,7 @@ C语言	cyy
 傣	dlrt
 代入	dlru
 怠	dls
+到了时候	dlsh
 冬练三九	dlsj
 独立思考	dlsk
 达累斯萨拉姆	dlsm
@@ -13501,6 +13507,7 @@ C语言	cyy
 大脑皮质	dnpv
 到哪去了	dnql
 电脑软件	dnrj
+到那时候	dnsh
 大年三十	dnsu
 丹尼斯吴	dnsw
 大闹天宫	dntg
@@ -14231,6 +14238,7 @@ D盘	dpj
 动火	dsho
 动换	dshr
 冬烘	dshs
+到时候再说	dshu
 动画	dshw
 洞察	dsia
 冻疮	dsid
@@ -54818,6 +54826,7 @@ I盘	ipj
 迷信权威	mxqw
 某些情况下	mxqx
 篾青	mxqy
+某些时候	mxsh
 慢性死亡	mxsw
 迷信思想	mxsx
 民心所向	mxsx
@@ -56296,6 +56305,8 @@ I盘	ipj
 那个人的	ngrd
 能人	ngrf
 能让	ngrh
+那个时候	ngsh
+哪个时候	ngsh
 你告诉她	ngst
 你告诉他	ngst
 年过三十	ngsu
@@ -58218,6 +58229,7 @@ I盘	ipj
 那些人的	nxrd
 嗫嚅	nxru
 那些日子	nxrz
+那些时候	nxsh
 捏碎	nxsv
 逆向思维	nxsw
 埝	nxt
@@ -67001,6 +67013,7 @@ I盘	ipj
 如火如荼	rhrt
 儴	rhrx
 如花似朵	rhsd
+任何时候	rhsh
 如花似锦	rhsj
 如花似玉	rhsy
 壤	rht
@@ -67009,8 +67022,8 @@ I盘	ipj
 禳	rhu
 如何使得	rhud
 人红事非多	rhud
-任何时候	rhuh
 如何是好	rhuh
+任何时候	rhuh
 任何时间	rhuj
 任何时刻	rhuk
 任何事情	rhuq
@@ -69285,6 +69298,7 @@ I盘	ipj
 丧	sh
 时候	sh
 桑巴	shba
+时候不到	shbd
 丝毫不差	shbi
 丝毫不减	shbj
 死活不肯	shbk
@@ -69298,6 +69312,7 @@ I盘	ipj
 四海鼎沸	shdf
 丧胆	shdj
 送货到家	shdj
+时候到了	shdl
 三和大神	shdu
 搡	shf
 死灰复燃	shfr
@@ -69354,6 +69369,7 @@ I盘	ipj
 散寒止痛	shvt
 三回五次	shwc
 三皇五帝	shwd
+时候未到	shwd
 丧亡	shwh
 四海为家	shwj
 撒花完结	shwj
@@ -80467,6 +80483,7 @@ T恤衫	txuj
 收买人心	umrx
 神秘色彩	umsc
 声名扫地	umsd
+甚么时候	umsh
 十目所视	umsu
 睡眠瘫痪	umth
 生命体征	umtv
@@ -81181,6 +81198,7 @@ U盘	upj
 少私寡欲	usgy
 神思恍惚	ushh
 世所罕见	ushj
+是时候了	ushl
 十四行诗	ushu
 神色慌张	ushv
 生死狙击	usjj
@@ -87653,6 +87671,7 @@ U盘	upj
 震慑人心	vurx
 纻	vus
 粥少僧多	vusd
+正是时候	vush
 蛛丝	vusi
 肇事司机	vusj
 这是什么	vusm
@@ -88037,6 +88056,7 @@ U盘	upj
 专职人员	vvry
 缀	vvs
 置之死地	vvsd
+这种时候	vvsh
 追思	vvsi
 置之死地而后快	vvsk
 追索	vvso
@@ -88421,6 +88441,7 @@ U盘	upj
 中心任务	vxrw
 支线任务	vxrw
 这些日子	vxrz
+这些时候	vxsh
 中心思想	vxsx
 哲学思想	vxsx
 这些天来	vxtl
@@ -92800,6 +92821,8 @@ U盘	upj
 维修人员	wxry
 威信扫地	wxsd
 无形损耗	wxsh
+晚些时候	wxsh
+我小时候	wxsh
 万象森罗	wxsl
 微信扫码	wxsm
 我笑他人看不穿	wxti
@@ -94225,6 +94248,8 @@ U盘	upj
 兄弟如手足	xdrz
 巷	xds
 相对速度	xdsd
+小的时候	xdsh
+许多时候	xdsh
 相似	xdsi
 相思	xdsi
 心都碎了	xdsl
@@ -100621,6 +100646,7 @@ U盘	upj
 一段日子	ydrz
 亚的斯亚贝巴	ydsb
 移动速度	ydsd
+有的时候	ydsh
 约定俗成	ydsi
 亚当斯密	ydsm
 缘定三生	ydsu
@@ -107264,6 +107290,7 @@ U盘	upj
 一些日子	yxrz
 养血润燥	yxrz
 有形损耗	yxsh
+一些时候	yxsh
 英雄碎片	yxsp
 意兴索然	yxsr
 英雄所见略同	yxst
@@ -111364,6 +111391,7 @@ U盘	upj
 再续前缘	zxqy
 仔细认真	zxrv
 咨询热线	zxrx
+早些时候	zxsh
 自寻死路	zxsl
 做些什么	zxsm
 仔细搜索	zxss
@@ -117872,6 +117900,7 @@ U盘	upj
 伸缩缝	usf
 生死观	usg
 啥时候	ush
+是时候	ush
 十三经	usj
 十三陵	usl
 是什么	usm
