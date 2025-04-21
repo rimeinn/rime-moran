@@ -308,6 +308,7 @@ A股	agu
 挨次	aici
 愛才	aicl
 捱打	aida
+愛豆	aidb
 挨鬥	aidb
 哀弔	aidc
 溰	aidd
@@ -6836,6 +6837,7 @@ Bilibili	bvj
 別跑	bxpk
 不消片刻	bxpk
 表現平平	bxpp
+冰雪拼音	bxpy
 憋氣	bxqi
 避凶趨吉	bxqj
 保險起見	bxqj
@@ -6853,7 +6855,6 @@ Bilibili	bvj
 病隙碎筆	bxsb
 憋死	bxsi
 癟三	bxsj
-冰雪四拼	bxsp
 不徇私情	bxsq
 不幸死亡	bxsw
 別提	bxti
@@ -10623,9 +10624,9 @@ C盤	cpj
 大部分時間	dbfj
 大部分地區	dbfq
 大部分人	dbfr
-大部分都是	dbfu
 豆腐	dbfu
 大部分是	dbfu
+大部分都是	dbfu
 對比分析	dbfx
 大比分領先	dbfx
 盜版光碟	dbgd
@@ -29224,6 +29225,7 @@ G盤	gpj
 海里	hlli
 海藍	hllj
 獲利了結	hllj
+還來	hlll
 回來了，都回來了	hlll
 海螺	hllo
 海輪	hllp
@@ -45589,6 +45591,7 @@ I盤	ipj
 可靠保證	kkbv
 空口白牙	kkby
 拷貝	kkbz
+靠背	kkbz
 薧	kkc
 咔咔嚓嚓	kkcc
 拷打	kkda
@@ -49918,6 +49921,7 @@ I盤	ipj
 戀舊	lmjq
 龍馬精神	lmju
 廉價	lmjw
+臉頰	lmjw
 連接	lmjx
 鏈接	lmjx
 臉孔	lmks
@@ -67127,10 +67131,10 @@ PC端	pcd
 趨勢	quui
 鼩	quuj
 情深深雨濛濛	quum
-全盛時期	quuq
 祛	quuq
 軀	quuq
 嶇	quuq
+全盛時期	quuq
 磲	quuq
 岨	quuq
 全勝時期	quuq
@@ -76576,7 +76580,6 @@ PC端	pcd
 天蓬元帥	tpyu
 屯子	tpzi
 天氣	tq
-聽起來	tq
 提前安排	tqap
 天氣不錯	tqbc
 特遣部隊	tqbd
@@ -80100,6 +80103,7 @@ T恤衫	txuj
 數風流人物	uflw
 神靈	ufly
 燊	ufm
+神馬	ufma
 是否明白	ufmb
 神廟	ufmc
 神妙	ufmc
@@ -88668,6 +88672,7 @@ U盤	upj
 真沒必要	vmby
 知命不憂	vmby
 專門從事	vmcu
+這麼大	vmda
 這麼多次	vmdc
 這麼多的	vmdd
 這麼大的	vmdd
@@ -88677,7 +88682,9 @@ U盤	upj
 中門對狙	vmdj
 致命打雞	vmdj
 爭名奪利	vmdl
+這麼點	vmdm
 這麼多年	vmdn
+這麼多	vmdo
 這麼多人	vmdr
 鐘鳴鼎食	vmds
 這麼多天	vmdt
@@ -106889,6 +106896,7 @@ WiFi	wifi
 頁面設計	ymuj
 轅門射戟	ymuj
 眼明手快	ymuk
+顏面受損	ymus
 沂蒙山小調	ymut
 隱瞞事實	ymuu
 野蠻生長	ymuv
@@ -109579,9 +109587,9 @@ WiFi	wifi
 有說有笑	yuyx
 豫	yuyx
 譽	yuyx
-鶯聲燕語	yuyy
 預	yuyy
 諭	yuyy
+鶯聲燕語	yuyy
 諛	yuyy
 褕	yuyy
 亦師亦友	yuyy
@@ -119987,6 +119995,7 @@ WiFi	wifi
 忍不住	rbv
 肉搏戰	rbv
 容不下	rbx
+容錯率	rcl
 人聰明	rcm
 容錯碼	rcm
 軟磁盤	rcp
