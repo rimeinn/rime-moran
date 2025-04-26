@@ -120,6 +120,7 @@ AA制	aav
 啊喲	aayo
 安安逸逸	aayy
 腌臢	aaza
+啊不	ab
 阿巴阿巴	abab
 安不安全	abaq
 哀兵必敗	abbb
@@ -13308,8 +13309,6 @@ C盤	cpj
 帶來	dlll
 獨樂樂不如衆樂樂	dlll
 帶練	dllm
-達賴喇嘛	dllm
-丟雷樓謀	dllm
 帶路	dllu
 代理律師	dllu
 地理老師	dllu
@@ -21265,7 +21264,7 @@ F盤	fpj
 飛賊	fzzz
 個	g	gerg
 感覺	g
-嘎	ga
+噶	ga
 嘎巴	gaba
 公安部隊	gabd
 嘎嘣	gabg
@@ -21286,7 +21285,7 @@ F盤	fpj
 公安機關	gajg
 釓	gajg
 公安局長	gajv
-噶	gak
+嘎	gak
 咖	gakj
 旮旯	gala
 咖喱	gali
@@ -23350,6 +23349,7 @@ F盤	fpj
 幹線	gjxm
 甘心	gjxn
 甘休	gjxq
+國際象棋	gjxq
 國際信託投資公司	gjxs
 國際形勢	gjxu
 國家興亡	gjxw
@@ -26370,6 +26370,7 @@ G盤	gpj
 共享資源	gxzy
 個性資源	gxzy
 怪	gy
+關於	gy
 夬	gya
 公益寶貝	gybb
 柺棒	gybh
@@ -31534,6 +31535,7 @@ H盤	hpj
 化工	hwgs
 花鼓	hwgu
 劃歸	hwgv
+滑跪	hwgv
 華貴	hwgv
 毫無關係	hwgx
 海外關係	hwgx
@@ -33244,6 +33246,7 @@ H盤	hpj
 醜惡嘴臉	iezl
 車組	iezu
 趁	if
+除非	if
 臣	ifa
 塵埃	ifai
 宸	ifb
@@ -40550,7 +40553,6 @@ I盤	ipj
 金條	jntc
 金湯	jnth
 今天	jntm
-雞你太美	jntm
 進退	jntv
 津貼	jntx
 禁	jnu
@@ -43278,6 +43280,8 @@ I盤	ipj
 鳩形鵠面	jxgm
 機械革命	jxgm
 結果	jxgo
+借過	jxgo
+揭鍋	jxgo
 接管	jxgr
 解僱	jxgu
 接軌	jxgv
@@ -49416,6 +49420,7 @@ I盤	ipj
 老舊	lkjq
 勞倦	lkjr
 老家	lkjw
+勞駕	lkjw
 落價	lkjw
 老姐	lkjx
 老街	lkjx
@@ -52604,8 +52609,9 @@ I盤	ipj
 令兄	lyxs
 流於形式	lyxu
 零下	lyxw
-利慾薰心	lyxx
+利欲熏心	lyxx
 靈異現象	lyxx
+利欲薰心	lyxx
 另行	lyxy
 零星	lyxy
 臨淵羨魚	lyxy
@@ -64375,8 +64381,8 @@ PC端	pcd
 契丹	qidj
 祈禱	qidk
 期待	qidl
-驅除韃虜	qidl
 泣	qidl
+驅除韃虜	qidl
 起點	qidm
 七點	qidm
 氣沖斗牛	qidn
@@ -78498,9 +78504,8 @@ T恤衫	txuj
 太乙神數	tyuu
 停水	tyuv
 同一事物	tyuw
-體育事業	tyuy
+挺帥	tyuy
 同樣適用	tyuy
-填鴨式教育	tyuy
 艇	tyv
 天淵之別	tyvb
 聽裝	tyvd
@@ -88627,7 +88632,7 @@ U盤	upj
 指令性計劃	vlxh
 擇席	vlxi
 銖兩悉稱	vlxi
-衆裏尋他千百度，暮然回首，那人卻在燈火闌珊處	vlxi
+衆裏尋他千百度，驀然回首，那人卻在燈火闌珊處	vlxi
 質量下降	vlxj
 指令性文件	vlxj
 摘選	vlxr
@@ -91015,6 +91020,7 @@ U盤	upj
 專項資金	vxzj
 珍稀資源	vxzy
 這樣	vy
+只要	vy
 注意安全	vyaq
 桌椅板凳	vybd
 這樣不對	vybd
@@ -102611,6 +102617,7 @@ WiFi	wifi
 有案在身	yazu
 孲	yazy
 有	yb
+一般	yb
 由	yba
 酉	ybaa
 尤	ybad
@@ -108977,11 +108984,11 @@ WiFi	wifi
 野生動物	yudw
 澞	yudw
 預定	yudy
-有傷大雅	yudy
-潏	yudy
 漁	yudy
 渝	yudy
 淤	yudy
+有傷大雅	yudy
+潏	yudy
 淯	yudy
 澦	yudy
 湡	yudy
@@ -110535,10 +110542,10 @@ WiFi	wifi
 猶豫不定	yybd
 以怨報德	yybd
 搖曳不定	yybd
-一夜暴富	yybf
 一言不發	yybf
-罌	yybf
 有一部分	yybf
+一夜暴富	yybf
+罌	yybf
 遠遠不夠	yybg
 陰陽八卦	yybg
 英鎊	yybh
@@ -116859,6 +116866,7 @@ WiFi	wifi
 國產化	gih
 工程車	gii
 歌唱家	gij
+工程機	gij
 滾出來	gil
 觀察力	gil
 趕潮流	gil
@@ -116866,6 +116874,7 @@ WiFi	wifi
 剛出去	giq
 滾出去	giq
 觀察所	gis
+git	git
 高產田	git
 工程師	giu
 過程中	giv
@@ -118415,8 +118424,8 @@ WiFi	wifi
 口水戰	kuv
 枯水位	kuw
 抗稅罪	kuz
-看着吧	kvb
 看着辦	kvb
+看着吧	kvb
 卡住了	kvl
 控制論	kvl
 空置率	kvl
@@ -118828,7 +118837,6 @@ WiFi	wifi
 老字號	lzh
 李自成	lzi
 零增長	lzv
-柳子戲	lzx
 老祖宗	lzz
 亂糟糟	lzz
 樂滋滋	lzz
@@ -119685,7 +119693,7 @@ WiFi	wifi
 偏振片	pvp
 批准書	pvu
 平展展	pvv
-披針形	pvx
+配置項	pvx
 偏重於	pvy
 騙我的	pwd
 評委會	pwh
@@ -120769,9 +120777,9 @@ WiFi	wifi
 體現出	txi
 通信處	txi
 退休金	txj
-同性戀	txl
-太小了	txl
 通訊錄	txl
+太小了	txl
+同性戀	txl
 透心涼	txl
 同學們	txm
 條形碼	txm
@@ -121338,8 +121346,8 @@ WiFi	wifi
 直勾勾	vgg
 中國城	vgi
 諸葛亮	vgl
-抓革命	vgm
-中國能	vgn
+中國夢	vgm
+知更鳥	vgn
 這個人	vgr
 撰稿人	vgr
 中國通	vgt
@@ -122416,6 +122424,7 @@ WiFi	wifi
 小心眼	xxy
 下一步	xyb
 下一次	xyc
+薰衣草	xyc
 下一代	xyd
 幸運兒	xye
 洗衣粉	xyf
@@ -122832,8 +122841,10 @@ WiFi	wifi
 硬着陸	yvl
 驗證碼	yvm
 意中人	yvr
-易中天	yvt
 一整天	yvt
+一整套	yvt
+摇着头	yvt
+易中天	yvt
 也只是	yvu
 一隻手	yvu
 一陣陣	yvv
