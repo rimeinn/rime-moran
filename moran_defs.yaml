@@ -63,3 +63,13 @@ fly:
 casefold:
   __append:
     - derive/([A-Z])/\L$1\E/
+
+# 英語化部分非字母編碼（用於英語混輸）
+englishify_nonletter:
+  __append:
+    # 數字，轉換爲對應的讀音縮寫
+    # 如 21 轉換爲 euy
+    - derive/10/u/                  # u, yl
+    - derive/1([1-9])/u$1/          # uy, ue, us, ...
+    - derive/([2-9])([0-9])/$1u$2/  # euy, eue, eus, ...
+    - xlit/0123456789/lyesswlqbj/
