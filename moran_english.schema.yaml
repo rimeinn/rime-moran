@@ -31,5 +31,6 @@ speller:
   algebra:
     __patch:
       - moran_defs:/casefold
+      - moran_defs:/englishify_nonletter
       - moran:/algebra/user_force_top?
       - moran:/algebra/user_force_bottom?
