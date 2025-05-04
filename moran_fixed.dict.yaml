@@ -3984,6 +3984,8 @@ A4紙	asv
 報亭	bkty
 不可同日而語	bkty
 飽	bku
+薄紗	bkua
+爆殺	bkua
 保守	bkub
 不可數名詞	bkuc
 報社	bkue
@@ -12401,6 +12403,7 @@ C盤	cpj
 地穴	dixt
 地下	dixw
 低下	dixw
+底下	dixw
 地形	dixy
 達成協議	dixy
 翟	diy
@@ -15508,7 +15511,7 @@ D盤	dpj
 大豬蹄子	dvtz
 碓	dvu
 對手	dvub
-鬥戰聖佛	dvuf
+鬥戰勝佛	dvuf
 斗轉參橫	dvuh
 對視	dvui
 大致說來	dvul
@@ -28692,6 +28695,7 @@ G盤	gpj
 寒腿	hjtv
 海角天涯	hjty
 韓	hju
+頷首	hjub
 函授	hjub
 黃金時代	hjud
 黃金時段	hjud
@@ -28884,8 +28888,8 @@ G盤	gpj
 號	hkh
 好喝	hkhe
 豪橫	hkhg
-好漢	hkhj
 浩瀚	hkhj
+好漢	hkhj
 好好	hkhk
 花開花落	hkhl
 秏	hkhm
@@ -34175,8 +34179,9 @@ H盤	hpj
 螭	iiil
 喫穿	iiir
 齝	iiit
-蝭	iiiu
 踟躕	iiiu
+彳亍	iiiu
+蝭	iiiu
 處處掣肘	iiiv
 斥	iij
 赤腳	iijc
@@ -37389,8 +37394,9 @@ I盤	ipj
 腳尖	jcjm
 矯健	jcjm
 精彩節目	jcjm
-較近	jcjn
 較勁	jcjn
+較近	jcjn
+驕矜	jcjn
 交卷	jcjr
 膠捲	jcjr
 叫絕	jcjt
@@ -38804,8 +38810,9 @@ I盤	ipj
 急劇	jiju
 基礎建設	jiju
 檢查機制	jijv
-計價	jijw
+機甲	jijw
 極佳	jijw
+計價	jijw
 季節	jijx
 結城結弦	jijx
 寂靜	jijy
@@ -39995,8 +40002,8 @@ I盤	ipj
 緊密結合	jmjh
 剪輯	jmji
 鑑	jmjj
-帴	jmjj
 鐧	jmjj
+帴	jmjj
 精美絕倫	jmjl
 鑒	jmjl
 漸漸	jmjm
@@ -41202,9 +41209,9 @@ I盤	ipj
 捲	jr
 見人矮三分	jraf
 眷愛	jrai
-兼容幷包	jrbb
-堅忍不拔	jrbb
+兼容并包	jrbb
 堅韌不拔	jrbb
+堅忍不拔	jrbb
 卷標	jrbc
 精銳部隊	jrbd
 絹本	jrbf
@@ -45195,7 +45202,7 @@ I盤	ipj
 開高走低	kgzd
 狂歌醉舞	kgzw
 空谷足音	kgzy
-扛	kh
+抗	kh
 抗癌	khai
 葵花寶典	khbd
 糠秕	khbi
@@ -45220,7 +45227,7 @@ I盤	ipj
 邟	khe
 阬	khek
 口惠而實不至	khev
-抗	khf
+扛	khf
 抗法	khfa
 亢奮	khff
 康復	khfu
@@ -50644,6 +50651,7 @@ I盤	ipj
 溜了	lqle
 流浪	lqlh
 流利	lqli
+琉璃	lqli
 瀏覽	lqlj
 聊起來了	lqll
 留戀	lqlm
@@ -54490,6 +54498,7 @@ I盤	ipj
 毛蚴	mkyb
 毛樣	mkyh
 貿易	mkyi
+毛衣	mkyi
 沒苦硬喫	mkyi
 冒煙	mkyj
 貓腰	mkyk
@@ -62194,6 +62203,7 @@ PC端	pcd
 騙術	pmuu
 篇	pmv
 扁舟	pmvb
+片面之詞	pmvc
 偏振	pmvf
 篇章	pmvh
 偏執	pmvi
@@ -81994,6 +82004,7 @@ T恤衫	txuj
 神機妙算	ujms
 社交媒體	ujmt
 騸	ujmu
+設計模式	ujmu
 神經末梢	ujmu
 世界名著	ujmv
 世界貿易組織	ujmv
@@ -83479,6 +83490,7 @@ U盤	upj
 受人尊敬	urzj
 山人自有妙計	urzj
 人生自古誰無死	urzs
+事實	us
 是啥	us
 誓死不從	usbc
 殊死搏鬥	usbd
@@ -83901,6 +83913,7 @@ U盤	upj
 輸了	uule
 疏朗	uulh
 樹立	uuli
+梳理	uuli
 姍姍來遲	uuli
 樹懶	uulj
 疏懶	uulj
@@ -86208,6 +86221,7 @@ U盤	upj
 正當要求	vdyq
 值得一去	vdyq
 狀元	vdyr
+莊園	vdyr
 諸多因素	vdys
 植黨營私	vdys
 值得一提	vdyt
@@ -89253,10 +89267,11 @@ U盤	upj
 轉回	vrhv
 轉會	vrhv
 轉化	vrhw
-蟤	vri
+轉	vri
 磚茶	vria
 真人出道	vrid
 專車	vrie
+蟤	vrig
 專程	vrig
 專長	vrih
 專場	vrih
@@ -91573,6 +91588,7 @@ U盤	upj
 娃子	wazi
 佤族	wazu
 微博	wb
+未必	wb
 無比	wbb
 歪比巴卜	wbbb
 萬般不好	wbbh
@@ -92761,9 +92777,9 @@ U盤	upj
 我很願意	whyy
 迋	whz
 玩火自焚	whzf
-爲虎作倀	whzi
 王子	whzi
 枉自	whzi
+爲虎作倀	whzi
 往左	whzo
 王座	whzo
 無後坐力炮	whzp
@@ -94923,8 +94939,8 @@ WiFi	wifi
 爲時晚矣	wuwy
 萬事無憂	wuwy
 衛生委員	wuwy
-無謂	wuwz
 無畏	wuwz
+無謂	wuwz
 無時無刻不在	wuwz
 惡	wux
 無效	wuxc
@@ -94956,8 +94972,9 @@ WiFi	wifi
 烏鴉	wuya
 無憂	wuyb
 午時已到	wuyd
-物業	wuye
 午夜	wuye
+嗚咽	wuye
+物業	wuye
 我是一個	wuyg
 吾誰與歸	wuyg
 無恙	wuyh
@@ -97654,7 +97671,6 @@ WiFi	wifi
 心回意轉	xhyv
 相互影響	xhyx
 小鶴音形	xhyx
-小隺鳥音開彡	xhyx
 協和醫院	xhyy
 新華字典	xhzd
 小孩子家	xhzj
@@ -102851,6 +102867,7 @@ WiFi	wifi
 遙不可及	ybkj
 愚不可及	ybkj
 永不空軍	ybkj
+也不可能	ybkn
 已不可能	ybkn
 一鼻孔出氣	ybkq
 一百塊錢	ybkq
@@ -106666,6 +106683,7 @@ WiFi	wifi
 一路終老	ylvl
 意料之內	ylvn
 葉落知秋	ylvq
+依賴注入	ylvr
 娛樂至死	ylvs
 優良傳統	ylvt
 原來只是	ylvu
@@ -115371,6 +115389,7 @@ WiFi	wifi
 版權頁	bqy
 百日草	brc
 不認得	brd
+別人的	brd
 不人道	brd
 不入耳	bre
 白熱化	brh
@@ -116155,6 +116174,7 @@ WiFi	wifi
 大使館	dug
 董事會	duh
 電視劇	duj
+電視機	duj
 大赦令	dul
 迪士尼	dun
 多少年	dun
@@ -117667,6 +117687,7 @@ git	git
 處理器	ilq
 常綠樹	ilu
 車輪戰	ilv
+車厘子	ilz
 出亂子	ilz
 出毛病	imb
 崇明島	imd
@@ -117735,7 +117756,8 @@ git	git
 穿堂門	itm
 出頭鳥	itn
 赤條條	itt
-重頭戲	itx
+長筒襪	itw
+長筒靴	itx
 超脫性	itx
 差太遠	ity
 炊事班	iub
@@ -121580,8 +121602,7 @@ git	git
 直挺挺	vtt
 招討使	vtu
 狀態值	vtv
-長筒襪	vtw
-長筒靴	vtx
+重頭戲	vtx
 正投影	vty
 摘桃子	vtz
 豬蹄子	vtz
@@ -121608,6 +121629,7 @@ git	git
 中專生	vvu
 執政者	vvv
 針織物	vvw
+中州韻	vvy
 指戰員	vvy
 這陣子	vvz
 中文版	vwb
@@ -122663,6 +122685,7 @@ git	git
 洋鬼子	ygz
 裕固族	ygz
 一會兒	yhe
+螢火蟲	yhi
 銀行卡	yhk
 一回來	yhl
 氧化鐵	yht
@@ -122815,6 +122838,7 @@ git	git
 有求於	yqy
 一起做	yqz
 一清早	yqz
+羽絨服	yrf
 愚人節	yrj
 易燃品	yrp
 羊絨衫	yru
