@@ -4,14 +4,16 @@
 
 <p align="center">
 <a href="https://github.com/rimeinn/rime-moran/issues"><img src="https://img.shields.io/badge/Make-Together-1dd3b0?style=for-the-badge&logo=github"/></a>
-<a href="https://my-rime.vercel.app/?plum=rimeinn/rime-moran:moran,moran_sentence,moran_fixed,moran_aux"><img src="https://img.shields.io/badge/MyRIME-Try%20Online-1dd3b0?style=for-the-badge&logo=github"/></a>
+<a href="https://zrmfans.cn/demo/"><img src="https://img.shields.io/badge/Fcitx5-Try%20Online-1dd3b0?style=for-the-badge&logo=github"/></a>
 </p>
 
 License: [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/), unless the file states otherwise.
 
 ---
 
-Plum: ℞ rimeinn/rime-moran ([Try Online](https://my-rime.vercel.app/?plum=rimeinn/rime-moran:moran,moran_sentence,moran_fixed))
+Plum Recipe: ℞ `rimeinn/rime-moran@trad` for Traditional Chinese ([Try Online](https://zrmfans.cn/demo/))
+
+Plum Recipe: ℞ `rimeinn/rime-moran@simp` for Simplified Chinese ([Try Online](https://zrmfans.cn/zh-Hans/demo/))
 
 Moran is an advanced Rime schema (based on Ziranma) for fast, precise, and intuitive Chinese typing.  The name "Moran" literally means "highly-customized Ziranma" in Chinese.
 
