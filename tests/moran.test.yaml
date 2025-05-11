@@ -24,10 +24,10 @@ deploy:
         assert: eq(cand[1].text, "級") and eq(cand[1].comment, "⚡️")
       - send: jisjo
         assert: eq(cand[1].text, "紀")
-      # 常見四碼字
       - send: ubbs
         assert: eq(cand[1].text, "瘦")
       - send: dmbd
+        assert: eq(cand[1].text, "癲")
       - send: vidt
         assert: eq(cand[1].text, "治")
       - send: lnyl
