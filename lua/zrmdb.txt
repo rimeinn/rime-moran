@@ -72414,6 +72414,7 @@
 𬻀 ap
 𬻀 cc
 𢌽 ss
+𠂆 pp
 𮯰 aa
 𮯱 pd
 𮯱 kd
@@ -72854,6 +72855,7 @@
 凉 dj
 ⺈ dk
 ⺋ ee
+⺁ px
 嗀 uk
 ⺌ xc
 ⺗ xn
