@@ -19,7 +19,7 @@ Moran is an advanced Rime schema (based on Ziranma) for fast, precise, and intui
 
 Moran emphasizes on the support for Traditional Chinese Characters, and is based on Ziranma's [double pinyin (or _shuangpin_)](https://en.wikipedia.org/wiki/Chinese_input_methods_for_computers#Shuangpin) and [shape-based](https://en.wikipedia.org/wiki/Chinese_input_methods_for_computers#Shape-based) auxiliary code.  Moran features [multiple input modes](https://github.com/rimeinn/rime-moran/wiki/%E5%90%84%E8%BC%B8%E5%85%A5%E6%A8%A1%E5%BC%8F%E8%AA%AA%E6%98%8E), [five ways to look up characters](https://github.com/rimeinn/rime-moran/wiki/%E6%95%99%E7%A8%8B#%E5%85%B6%E4%BA%94%E6%9B%B0%E4%BA%94%E9%87%8D%E5%8F%8D%E6%9F%A5), \~80,000 Chinese characters, \~1,000,000 words, and multiple quick input conveniences. Please refer to [our wiki](https://github.com/rimeinn/rime-moran/wiki) for details.
 
-Moran is an open, community-maintained project. Join us!
+Moran is an open, [community-maintained](https://zrmfans.cn/book/misc/acknowledgement.html) project. Join us!
 
 - [Learn more](https://zrmfans.cn)
 
@@ -30,19 +30,3 @@ Moran is an open, community-maintained project. Join us!
 Assisted Candidate Filtering
 
 https://github.com/user-attachments/assets/ca8a8c1f-d076-47de-94b0-4e935a99a516
-
-## Acknowledgments
-
-+ Thank Rime for its high-quality input method software and dictionaries;
-+ Original Ziranma data: [rime-zrm](https://github.com/bigshans/rime-zrm);
-+ Some of the Lua scripts: [98wubi team](https://98wb.github.io/), and [Tu's Tiger-code Rime schema](https://tiger-code.com/);
-+ Color schemes: [ssnhd/Rime](https://github.com/ssnhd/rime/), [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian/), Tu's Tiger-code and others;
-+ Other dictionaries: acknowledged in the dictionary files.
-
-This project cannot be in its current shape if not for the efforts of many people:
-
-- Schema design and Lua programming: 铁圈, 䑝曻, 蹄垫
-- Optimization of Quick Code for Simplified Characters: 呂奉先, SunShine, 小幽幽, sky
-- Data for Characters in Unicode CJK Extensions: 呂奉先, 吥捨洳楓, 聆竹聽風, SunShine
-
-Sincerely appreciated!
