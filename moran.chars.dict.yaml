@@ -34152,6 +34152,7 @@ use_preset_vocabulary: false
 曰	pp;yt	0
 月	pp;oy	0
 月	pp;yt	0
+⺼	pp;or	0
 水	pp;uv	0
 氵	pp;dm	0
 氺	pp;dm	0
@@ -122012,6 +122013,8 @@ use_preset_vocabulary: false
 𬻀	puti;cc	0
 𢌽	nxpj;ss	0
 𠂆	yi;pp	0
+⺼	rb;kd	0
+⺼	rb;pd	0
 
 # CJK Ext I
 𤚴	fj;nm	0
