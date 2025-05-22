@@ -38387,7 +38387,8 @@ use_preset_vocabulary: false
 䏹	if;oj	0	# auto
 䏹	xm;oj	0	# auto
 䏺	ph;of	0	# auto
-䏻	ng;yq	0	# auto
+䏻	ng;sq	0
+䏻	nl;sq	0
 䏼	cj;oj	0	# auto
 䏼	vj;oj	0	# auto
 䏽	bu;op	0	# auto
