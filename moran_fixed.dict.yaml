@@ -11211,7 +11211,7 @@ C盤	cpj
 點多面廣	ddmg
 弟弟妹妹	ddmm
 大屌萌妹	ddmm
-多多碼錶編輯器	ddmq
+多多碼表編輯器	ddmq
 電動摩托	ddmt
 多多美言	ddmy
 逗逗你的	ddnd
@@ -17299,6 +17299,7 @@ E盤	epj
 發	f	fadu
 非	f	fzaa
 法	fa
+方案	fa
 发	faa
 發暗	faan
 法案	faan
@@ -22201,7 +22202,7 @@ F盤	fpj
 概而言之	geyv
 莞爾一笑	geyx
 膈應	geyy
-狗耳月牙	geyy
+硌硬	geyy
 各自	gezi
 鴿子	gezi
 虼蚤	gezk
@@ -37206,6 +37207,7 @@ I盤	ipj
 基本理論	jbll
 進不了門	jblm
 腳步踉蹌	jblq
+絕不留情	jblq
 基本路線	jblx
 基本粒子	jblz
 基本矛盾	jbmd
@@ -45071,6 +45073,7 @@ I盤	ipj
 客座	kezo
 恪遵	kezp
 肯	kf
+開發	kf
 狂放不羈	kfbj
 克服不了	kfbl
 口福不淺	kfbq
@@ -55642,6 +55645,7 @@ I盤	ipj
 默認	mr
 沒人	mr
 每人	mr
+魔然	mr
 盲人按摩	mram
 美容按摩	mram
 默認安裝	mrav
@@ -55682,7 +55686,6 @@ I盤	ipj
 沒人理睬	mrlc
 沒人攔你	mrln
 末日樂園	mrly
-貓人碼錶	mrmb
 每人每次	mrmc
 美容美髮	mrmf
 每人每年	mrmn
@@ -78833,6 +78836,7 @@ T恤衫	txuj
 菨	uacq
 蔱	uacu
 沙	uad
+啥都	uadb
 殺掉	uadc
 傻等	uadg
 紗燈	uadg
@@ -79565,9 +79569,11 @@ T恤衫	txuj
 雙鬢	udbn
 傷得不輕	udbq
 傷敵八百，自損一千	udbq
+啥都不是	udbs
 說的比唱的還好聽	udbt
 說的比唱的好聽	udbt
 啥都別說	udbu
+啥都不是	udbu
 上帝保佑	udby
 蝨多不癢	udby
 雙倍	udbz
@@ -87588,7 +87594,6 @@ U盤	upj
 製定	vidy
 指定	vidy
 置頂	vidy
-職場得意	vidy
 職	vie
 陟	vieb
 酈	viel
@@ -88472,7 +88477,6 @@ U盤	upj
 衆口皆碑	vkjb
 着急	vkji
 張口就來	vkjl
-章口就萊	vkjl
 召見	vkjm
 照舊	vkjq
 張口結舌	vkju
@@ -101743,9 +101747,9 @@ WiFi	wifi
 血性漢子	xxhz
 蟹	xxi
 協查	xxia
+學習成本	xxib
 信息產業部	xxib
 血吸蟲病	xxib
-學習成本	xxib
 信息傳遞	xxid
 小心觸電	xxid
 卸車	xxie
@@ -114790,7 +114794,7 @@ WiFi	wifi
 宰相肚裏能撐船	zxdi
 宰相肚裏好撐船	zxdi
 自尋短見	zxdj
-扎西德勒	zxdl
+自新大陸	zxdl
 尊姓大名	zxdm
 自行代入	zxdr
 最新動態	zxdt
@@ -115527,6 +115531,7 @@ WiFi	wifi
 玻璃瓶	blp
 舶來品	blp
 保齡球	blq
+不留情	blq
 玻璃絲	bls
 不利索	bls
 柏拉圖	blt
@@ -117362,9 +117367,9 @@ git	git
 幹休所	gxs
 觀象臺	gxt
 更像是	gxu
-供銷社	gxu
-管閒事	gxu
 剛想說	gxu
+管閒事	gxu
+供銷社	gxu
 關係網	gxw
 共享下	gxx
 感謝信	gxx
@@ -118869,6 +118874,7 @@ git	git
 老掉牙	ldy
 兩分半	lfb
 亂紛紛	lff
+盧浮宮	lfg
 浪費了	lfl
 老父母	lfm
 兩方面	lfm
@@ -119625,6 +119631,7 @@ git	git
 能動性	ndx
 鬧肚子	ndz
 女兒國	neg
+你已經	nej
 孃兒倆	nel
 娘兒們	nem
 女兒牆	neq
@@ -119845,6 +119852,7 @@ git	git
 哪一回	nyh
 瘧原蟲	nyi
 農業局	nyj
+你已經	nyj
 那一刻	nyk
 哪一款	nyk
 哪一類	nyl
@@ -119913,6 +119921,7 @@ git	git
 跑掉了	pdl
 判斷力	pdl
 潘多拉	pdl
+拍大腿	pdt
 配得上	pdu
 偏導數	pdu
 平底鞋	pdx
@@ -120971,6 +120980,7 @@ SD卡	sdk
 聽話兒	the
 鈦合金	thj
 太好了	thl
+糖葫蘆	thl
 拖後腿	tht
 同花順	thu
 拓荒者	thv
@@ -121297,6 +121307,7 @@ SD卡	sdk
 煞風景	ufj
 扇風機	ufj
 說服力	ufl
+舒服了	ufl
 十分鐘	ufv
 身份證	ufv
 蛇根草	ugc
@@ -122156,6 +122167,7 @@ SD卡	sdk
 衛隊長	wdv
 穩定性	wdx
 微電子	wdz
+我已經	wej
 沃爾瑪	wem
 五分鐘	wfv
 五分制	wfv
@@ -122393,6 +122405,7 @@ SD卡	sdk
 望遠鏡	wyj
 無意間	wyj
 違約金	wyj
+我已經	wyj
 外語課	wyk
 無壓力	wyl
 無煙煤	wym
@@ -122487,10 +122500,11 @@ SD卡	sdk
 想得開	xdk
 想多了	xdl
 想到了	xdl
+學到了	xdl
+兄弟俩	xdl
+學到老	xdl
 新大陸	xdl
 新德里	xdl
-學到老	xdl
-學到了	xdl
 想得美	xdm
 想當年	xdn
 許多年	xdn
