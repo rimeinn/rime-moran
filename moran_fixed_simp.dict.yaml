@@ -155,6 +155,7 @@ AA制	aav
 爱财如命	acrm
 暗藏杀机	acuj
 暗藏玄机	acxj
+AC自动机	aczj
 啊对	ad
 爱答不理	adbl
 啊对对对	addd
@@ -1016,6 +1017,7 @@ A4纸	asv
 按照计划	avjh
 安装教程	avji
 按质论价	avlj
+AVL树	avlu
 安装目录	avml
 暗中摸索	avms
 安卓平板	avpb
@@ -7276,6 +7278,7 @@ B盘	bpj
 百亿影帝	byyd
 别有一番	byyf
 必有勇夫	byyf
+编译优化	byyh
 不亦说乎	byyh
 兵役	byyi
 备用钥匙	byyi
@@ -7905,6 +7908,7 @@ B盘	bpj
 参错	cfco
 涔	cfd
 磁放大器	cfdq
+词法分析	cffx
 岑寂	cfji
 粗放经营	cfjy
 餐风露宿	cfls
@@ -11483,6 +11487,7 @@ C语言	cyy
 达官显贵	dgxg
 达官显宦	dgxh
 倒戈卸甲	dgxj
+递归下降	dgxj
 等闲	dgxm
 灯芯	dgxn
 多管闲事多吃屁	dgxp
@@ -12572,6 +12577,7 @@ C语言	cyy
 低开低走	dkdz
 贷款额度	dked
 夺眶而出	dkei
+笛卡尔积	dkej
 敦刻尔克	dkek
 刀儿	dker
 捣	dkf
@@ -14481,6 +14487,7 @@ D盘	dpj
 对她来说	dtlu
 大体老师	dtlu
 登台亮相	dtlx
+动态类型	dtlz
 登徒浪子	dtlz
 动态模糊	dtmh
 对台贸易	dtmy
@@ -19828,6 +19835,7 @@ F盘	fpj
 肺朝百脉	fvbm
 反正不是	fvbs
 繁征博引	fvby
+分治策略	fvcl
 发展才是硬道理	fvcl
 风烛残年	fvcn
 防治措施	fvcu
@@ -26066,6 +26074,7 @@ G盘	gpj
 黑暗森林	hasl
 磺胺噻唑	hasz
 黑暗之魂	havh
+哈希	haxi
 哈腰	hayk
 后	hb
 厚爱	hbai
@@ -26591,6 +26600,7 @@ G盘	gpj
 蟥	hdih
 很大成绩	hdij
 皇朝	hdik
+滑动窗口	hdik
 换代产品	hdip
 蝗虫	hdis
 活动场所	hdis
@@ -29684,6 +29694,7 @@ H盘	hpj
 黑色人种	hsrv
 纮	hss
 红色	hsse
+回溯算法	hssf
 红松	hsss
 红糖	hsth
 红桃	hstk
@@ -31019,6 +31030,7 @@ H盘	hpj
 花谢花开	hxhk
 好戏还在后面	hxhm
 好戏还在后头	hxht
+哈希函数	hxhu
 活血化瘀	hxhy
 活学活用	hxhy
 互相合作	hxhz
@@ -40205,6 +40217,7 @@ I盘	ipj
 镌	jrj
 假日酒店	jrjd
 金融机构	jrjg
+卷积	jrji
 渐入佳境	jrjj
 锩	jrjj
 金融经济	jrjj
@@ -40646,6 +40659,7 @@ I盘	ipj
 绝路	jtlu
 具体来说	jtlu
 家庭联产承包责任制	jtlv
+静态类型	jtlx
 决裂	jtlx
 交通路线	jtlx
 集体利益	jtly
@@ -41101,6 +41115,7 @@ I盘	ipj
 军事路线	julx
 近水楼台先得月	july
 计深虑远	july
+聚类	julz
 橘	jum
 局麻	juma
 桔	jumj
@@ -41286,6 +41301,7 @@ I盘	ipj
 居住	juvu
 即使只是	juvu
 精神支柱	juvv
+解释执行	juvx
 经世致用	juvy
 金石之言	juvy
 琚	juw
@@ -50829,6 +50845,7 @@ I盘	ipj
 列席	lxxi
 流行性感冒	lxxm
 理想信念	lxxn
+类型系统	lxxt
 礼贤下士	lxxu
 流血牺牲	lxxu
 六畜兴旺	lxxw
@@ -54287,6 +54304,7 @@ I盘	ipj
 埋头苦干	mtkg
 漫天开价	mtkj
 美图看看	mtkk
+蒙特卡洛	mtkl
 明天开始	mtku
 蒙特利尔	mtle
 每天凌晨	mtli
@@ -54553,6 +54571,7 @@ I盘	ipj
 木牌	mupl
 木排	mupl
 木片	mupm
+模式匹配	mupp
 美术培训	mupx
 牟平	mupy
 没啥区别	muqb
@@ -54600,6 +54619,7 @@ I盘	ipj
 牧童	muts
 密室逃脱	mutt
 美食特写	mutx
+模式识别	muub
 目视	muui
 牧师	muui
 魔兽世界	muuj
@@ -56056,6 +56076,8 @@ I盘	ipj
 鸟笼	ncls
 尿路	nclu
 鸟类	nclz
+内存模型	ncmx
+内存模型	ncmx
 鸟鸣	ncmy
 鸟	ncn
 尿尿	ncnc
@@ -59053,6 +59075,7 @@ I盘	ipj
 喷薄而出	pbei
 扑鼻而来	pbel
 抔	pbf
+剖分	pbff
 掊	pbfk
 掊	pbfp
 剖腹	pbfu
@@ -59542,6 +59565,7 @@ I盘	ipj
 胖墩	phdp
 滂	phdp
 排行第一	phdy
+平衡二叉树	pheu
 庞	phg
 披红挂彩	phgc
 膀胱	phgd
@@ -60777,6 +60801,7 @@ I盘	ipj
 婆子	pozi
 批评	pp
 批判	pp
+匹配	pp
 平平安安	ppaa
 蓬蓬勃勃	ppbb
 琵琶别抱	ppbb
@@ -72219,6 +72244,7 @@ P图	ptu
 条桌	tcvo
 调准	tcvp
 跳转	tcvr
+推测执行	tcvx
 条	tcw
 条纹	tcwf
 条文	tcwf
@@ -75714,6 +75740,7 @@ P图	ptu
 颓唐	tvth
 推脱	tvto
 推托	tvto
+特征提取	tvtq
 退团	tvtr
 推土	tvtu
 退庭	tvty
@@ -76025,6 +76052,7 @@ P图	ptu
 天下攘攘皆为利往	txrw
 退休人员	txry
 谈性色变	txsb
+贪心算法	txsf
 铁丝	txsi
 忒修斯之船	txsi
 铁索	txso
@@ -79207,6 +79235,7 @@ T恤衫	txuj
 使唤	uihr
 视乎	uihu
 炻	uihu
+生成函数	uihu
 实惠	uihv
 石灰	uihv
 实话	uihw
@@ -82319,6 +82348,7 @@ U盘	upj
 谁谁	uvuv
 说着说着	uvuv
 神之使者	uvuv
+树状数组	uvuz
 水闸	uvva
 善战者无赫赫之功	uvvg
 水质	uvvi
@@ -84815,6 +84845,7 @@ U盘	upj
 征收	vgub
 这个时代	vgud
 中国少年先锋队	vgud
+中国剩余定理	vgud
 政审	vguf
 争胜	vgug
 这个时候	vguh
@@ -87519,6 +87550,7 @@ U盘	upj
 折腾折腾	vtvt
 朝堂之上	vtvu
 占统治地位	vtvw
+状态转移	vtvy
 诸天万界	vtwj
 周陶王林	vtwl
 这天晚上	vtwu
@@ -89166,6 +89198,7 @@ U盘	upj
 站在原地	vzyd
 站在一起	vzyq
 粘在一起	vzyq
+正则引擎	vzyq
 我	w	wopd
 为	w	wzdd
 挖	wa
@@ -100554,6 +100587,7 @@ U盘	upj
 由此而来	ycel
 异彩纷呈	ycfi
 一次方程	ycfi
+预测分析	ycfx
 一寸光阴一寸金	ycgj
 隐藏关卡	ycgk
 烟草公司	ycgs
@@ -100595,6 +100629,7 @@ U盘	upj
 隐藏属性	ycux
 忧从中来	ycvl
 一寸照片	ycvp
+预测执行	ycvx
 有才无德	ycwd
 与此无关	ycwg
 以此为基础	ycwi
@@ -101248,6 +101283,7 @@ U盘	upj
 一发而不可收拾	yfeu
 一份	yff
 一帆风顺	yffu
+语法分析	yffx
 诱发犯罪	yffz
 一份关爱	yfga
 有福共享有难同当	yfgd
@@ -102464,6 +102500,7 @@ U盘	upj
 矣	yis
 一色	yise
 绎	yisf
+遗传算法	yisf
 意思	yisi
 一扫	yisk
 义赛	yisl
@@ -109416,6 +109453,8 @@ U盘	upj
 资产	ziij
 自嘲	ziik
 做出承诺	ziin
+子串	ziir
+字串	ziir
 辎	ziit
 仔畜	ziiu
 自吹	ziiv
@@ -109501,6 +109540,7 @@ U盘	upj
 作出评价	zipj
 自拍	zipl
 字频	zipn
+子串匹配	zipp
 自评	zipy
 兹	ziq
 自强	ziqd
@@ -112803,6 +112843,7 @@ U盘	upj
 菜青虫	cqi
 磁倾角	cqj
 藏起来	cql
+词嵌入	cqr
 凑热闹	crn
 粗饲料	csl
 催吐剂	ctj
@@ -112837,6 +112878,7 @@ U盘	upj
 磁悬浮	cxf
 刺绣工	cxg
 雌小鬼	cxg
+词向量	cxl
 粗线条	cxt
 粗纤维	cxw
 磁效应	cxy
@@ -113428,6 +113470,7 @@ U盘	upj
 二婚头	eht
 二合一	ehy
 儿化音	ehy
+二叉树	eiu
 二传手	eiu
 二季度	ejd
 二极管	ejg
@@ -113544,6 +113587,7 @@ U盘	upj
 防盗锁	fds
 非导体	fdt
 反倒是	fdu
+浮点数	fdu
 放大率	fdu
 犯得上	fdu
 犯得着	fdv
@@ -113590,6 +113634,7 @@ U盘	upj
 放出来	fil
 反潮流	fil
 非常冷	fil
+范畴论	fil
 阜成门	fim
 非常慢	fim
 非常难	fin
@@ -114361,6 +114406,7 @@ git	git
 活化石	hhu
 挥挥手	hhu
 好好说	hhu
+红黑树	hhu
 化合物	hhw
 互换性	hhx
 后悔药	hhy
@@ -115134,6 +115180,7 @@ git	git
 九九歌	jjg
 几句话	jjh
 交际花	jjh
+卷积核	jjh
 竞技场	jji
 交界处	jji
 歼击机	jjj
@@ -115280,6 +115327,7 @@ git	git
 寄生虫	jui
 急刹车	jui
 几十年	jun
+解释器	juq
 精神头	jut
 嚼舌头	jut
 救世主	juv
@@ -115324,6 +115372,7 @@ git	git
 寄望于	jwy
 接下来	jxl
 教学片	jxp
+解析器	jxq
 交响曲	jxq
 阶下囚	jxq
 江西人	jxr
@@ -116470,6 +116519,7 @@ git	git
 霓虹灯	nhd
 那会儿	nhe
 女孩儿	nhe
+男孩儿	nhe
 闹哄哄	nhh
 黏糊糊	nhh
 那还好	nhh
@@ -117049,6 +117099,7 @@ git	git
 侵略者	qlv
 前列腺	qlx
 请联系	qlx
+强类型	qlx
 千里眼	qly
 清凉油	qly
 清明节	qmj
@@ -117280,6 +117331,7 @@ QQ群	qqq
 容量瓶	rlp
 揉了揉	rlr
 人类学	rlx
+弱类型	rlx
 燃料油	rly
 惹乱子	rlz
 人民币	rmb
@@ -117869,6 +117921,7 @@ SD卡	sdk
 太平梯	tpt
 体膨胀	tpv
 突破性	tpx
+拓扑学	tpx
 太平洋	tpy
 跆拳道	tqd
 淘气鬼	tqg
@@ -118992,6 +119045,7 @@ SD卡	sdk
 玩够了	wgl
 问过了	wgl
 亡国奴	wgn
+瓦格纳	wgn
 顽固派	wgp
 外国人	wgr
 文工团	wgt
@@ -120284,6 +120338,7 @@ SD卡	sdk
 自动机	zdj
 做到了	zdl
 走丢了	zdl
+最大流	zdl
 自动门	zdm
 紫貂皮	zdp
 坐地铁	zdt
@@ -120423,6 +120478,7 @@ SD卡	sdk
 怎能说	znu
 灾难性	znx
 走内线	znx
+自平衡	zph
 杂牌军	zpj
 左撇子	zpz
 足球队	zqd
@@ -120448,6 +120504,7 @@ SD卡	sdk
 做人情	zrq
 责任人	zrr
 责任田	zrt
+自然数	zru
 责任书	zru
 自认为	zrw
 总任务	zrw
@@ -120516,6 +120573,7 @@ SD卡	sdk
 最新版	zxb
 总协定	zxd
 左下方	zxf
+最小割	zxg
 最喜欢	zxh
 最小化	zxh
 自行车	zxi
