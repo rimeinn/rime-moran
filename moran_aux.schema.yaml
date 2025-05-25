@@ -11,6 +11,7 @@ schema:
     - tiger
     - moran_charset
     - moran_english
+    - moran_fixed
     #- moran_japanese
 
 switches:
