@@ -425,6 +425,18 @@ moran:
   # trad: 只顯示繁體字
   charset: both
 
+  # 重複略碼功能
+  # 一些輸入中存在字詞重複，如「好不好」「看了看」「想一想」。
+  # 略碼提供了替代的輸入方法，在輸入完一些字後，按對應 Shift+<對應鍵> 調用響應功能。
+  # 默認提供的略碼有：
+  # B: 輸入 hkB 直接上屏「好不好」。
+  # L: 輸入 kjL 直接上屏「看了看」。
+  # Y: 輸入 xdY 直接上屏「想一想」。
+  # V: 輸入 uoV 直接上屏「說着說着」。
+  # Q: 輸入 pkQ 直接上屏「跑來跑去」。
+  # （如需要自定義/增加/刪除略碼，請編輯 moran_processor.lua 中的 shorthands 定義。）
+  shorthands: false
+
 # 默認啓用語言模型
 __include: moran:/octagram/enable_for_sentence
 # 若要禁用，可直接刪掉上面的 __include，或在 custom 文件中寫入：

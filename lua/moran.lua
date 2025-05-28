@@ -419,4 +419,13 @@ function Module.rstrip(s, suffix)
    end
 end
 
+function Module.contains(list, item)
+   for i, v in ipairs(list) do
+      if v == item then
+         return true
+      end
+   end
+   return false
+end
+
 return Module
