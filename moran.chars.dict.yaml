@@ -2697,8 +2697,10 @@ use_preset_vocabulary: false
 变	bm;yy	1428820
 叙	xu;yy	51398
 叚	jw;ad	0
+叚	jw;ay	0
 叚	jw;jw	0
 叚	xw;ad	7
+叚	xw;ay	7
 叚	xw;jw	7
 叛	pj;fb	97192
 叜	sb;by	0
@@ -3999,8 +4001,10 @@ use_preset_vocabulary: false
 囧	js;kk	66666
 囨	pm;kb	0
 囩	yp;ky	0
+囪	cs;pd	0
 囪	cs;kd	0
 囪	cs;kp	0
+囪	id;pd	0
 囪	id;kd	0
 囪	id;kp	0
 囫	hu;kw	1691
@@ -11244,6 +11248,7 @@ use_preset_vocabulary: false
 梲	vo;md	0
 梳	uu;mi	39377
 梴	ij;my	3
+梵	fj;lf	17305
 梵	fj;fl	17305
 梵	fj;mf	17305
 梶	wz;mw	0
@@ -84733,7 +84738,7 @@ use_preset_vocabulary: false
 𤰯	ji;gy	0	# auto
 𤰯	ji;ty	0	# auto
 𤰰	wz;yv	0	# auto
-𤰱	hw;gt	0	# auto
+𤰱	hw;aa	0	# auto
 𤰱	hw;ta	0	# auto
 𤰲	wz;pv	0	# auto
 𤰲	wz;tv	0	# auto
@@ -104301,10 +104306,8 @@ use_preset_vocabulary: false
 𬻲	jq;jr	0	# auto
 𬻵	jm;ab	0	# auto
 𬻵	jm;pb	0	# auto
-𬻷	jw;aa	0	# auto
-𬻷	jw;ub	0	# auto
-𬻷	xw;aa	0	# auto
-𬻷	xw;ub	0	# auto
+𬻷	jw;ad	0	# auto
+𬻷	xw;ad	0	# auto
 𬻸	ih;aw	0	# auto
 𬻸	ih;vw	0	# auto
 𬻼	ly;dd	0	# auto
@@ -110523,7 +110526,8 @@ use_preset_vocabulary: false
 𰅱	qn;ux	0	# auto
 𰅱	qn;xu	0	# auto
 𰅲	bj;uu	0	# auto
-𰅴	vf;ud	0	# auto
+𰅴	vf;ub	0
+𰅴	vf;ud	0
 𰅶	jy;uy	0	# auto
 𰅷	nk;uv	0	# auto
 𰅸	vh;ui	0	# auto
@@ -110710,8 +110714,8 @@ use_preset_vocabulary: false
 𰉩	qc;tq	0	# auto
 𰉩	qt;tq	0	# auto
 𰉪	ye;th	0	# auto
-𰉰	tm;td	0	# auto
-𰉰	vf;td	0	# auto
+𰉰	tm;tv	0
+𰉰	vf;tv	0
 𰉱	jm;tq	0	# auto
 𰉳	ii;tk	0	# auto
 𰉵	kg;tw	0	# auto
@@ -111154,7 +111158,7 @@ use_preset_vocabulary: false
 𰑙	lq;xl	0	# auto
 𰑚	ub;xu	0	# auto
 𰑛	ia;xq	0	# auto
-𰑝	uf;xd	0	# auto
+𰑝	uf;xv	0
 𰑞	hj;xx	0	# auto
 𰑟	gs;gx	0	# auto
 𰑟	gs;xg	0	# auto
@@ -111784,7 +111788,7 @@ use_preset_vocabulary: false
 𰛪	lr;ud	0	# auto
 𰛪	lr;wu	0	# auto
 𰛫	ve;dp	0	# auto
-𰛬	dm;dd	0	# auto
+𰛬	dm;dv	0
 𰛭	bi;db	0	# auto
 𰛮	lu;dl	0	# auto
 𰛲	lm;dq	0	# auto
@@ -113790,7 +113794,7 @@ use_preset_vocabulary: false
 𰾀	bo;jb	0	# auto
 𰾁	gs;jg	0	# auto
 𰾁	hs;jg	0	# auto
-𰾂	vf;jd	0	# auto
+𰾂	vf;jv	0
 𰾃	io;jz	0	# auto
 𰾃	vo;jz	0	# auto
 𰾃	zu;jz	0	# auto
@@ -114129,7 +114133,7 @@ use_preset_vocabulary: false
 𱂥	ee;gy	0	# auto
 𱂦	py;by	0	# auto
 𱂧	lz;my	0	# auto
-𱂪	dm;uy	0	# auto
+𱂪	dm;yv	0
 𱂫	yj;qy	0	# auto
 𱂬	kv;py	0	# auto
 𱂭	iv;vy	0	# auto
@@ -122062,6 +122066,9 @@ use_preset_vocabulary: false
 𠂆	yi;pp	0
 ⺼	rb;kd	0
 ⺼	rb;pd	0
+𖿲	er;pg	0
+𖿳	er;ej	0
+𖿳	er;je	0
 
 # CJK Ext I
 𤚴	fj;nm	0
