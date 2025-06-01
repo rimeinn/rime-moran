@@ -2,14 +2,16 @@
 -- Synopsis: 適用於魔然方案默認模式的按鍵處理器
 -- Author: ksqsf
 -- License: MIT license
--- Version: 0.3
+-- Version: 0.4
 
 -- 主要功能：
 -- 1. 選擇第二個首選項，但可用於跳過 emoji 濾鏡產生的候選
 -- 2. 快速切換強制切分
 -- 3. 快速取出/放回被吞掉的輔助碼
+-- 4. shorthand 略碼
 
 -- ChangeLog:
+--  0.4.0：增加固定格式略碼功能
 --  0.3.0: 增加取出/放回被吞掉的輔助碼的能力
 --  0.2.0: 增加快速切換切分的能力，因而從 moran_semicolon_processor 更名爲 moran_processor
 --  0.1.5: 修復獲取 candidate_count 的邏輯
