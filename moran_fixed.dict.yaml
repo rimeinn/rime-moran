@@ -463,6 +463,7 @@ A股	agu
 愛子	aizi
 挨宰	aizl
 按鍵	aj
+安靜	aj
 挨家挨戶	ajah
 安靜安靜	ajaj
 挨肩擦背	ajcb
@@ -2567,6 +2568,7 @@ AVL樹	avlu
 不管怎樣	bgzy
 不管怎麼樣	bgzy
 幫	bh
+不會	bh
 保護安全	bhaq
 幫	bhb
 變化不定	bhbd
@@ -6266,6 +6268,8 @@ B盤	bpj
 不懈	buxx
 不實信息	buxx
 不行	buxy
+不幸	buxy
+步行	buxy
 不守信用	buxy
 補	buy
 不雅	buya
@@ -35979,6 +35983,7 @@ I盤	ipj
 忡	isxv
 重下	isxw
 重寫	isxx
+充血	isxx
 寵幸	isxy
 翀	isy
 蟲牙	isya
@@ -37749,7 +37754,7 @@ I盤	ipj
 繳租	jczu
 基層組織	jczv
 將	jd
-醬	jd
+簡單	jd
 江岸	jdan
 覺得不錯	jdbc
 膠東半島	jdbd
@@ -38116,6 +38121,7 @@ I盤	ipj
 機電學院	jdxy
 精雕細琢	jdxz
 講	jdy
+醬	jdy
 降壓	jdya
 醬油	jdyb
 簡單易懂	jdyd
@@ -38128,8 +38134,8 @@ I盤	ipj
 講義	jdyi
 經典永流傳	jdyi
 機電與信息工程	jdyi
-醬	jdyj
 講演	jdyj
+醬	jdyj
 將要	jdyk
 江陰	jdyn
 決定一切	jdyq
@@ -57967,6 +57973,7 @@ JK制服	jkvf
 年復一年	nfyn
 農夫與蛇	nfyu
 能	ng
+那個	ng
 能夠按照	ngav
 年過半百	ngbb
 那個不錯	ngbc
@@ -64867,6 +64874,7 @@ P圖	ptu
 磩	qiug
 其實	qiui
 歧視	qiui
+騎士	qiui
 啓示	qiui
 清除數據	qiuj
 祈	qiuj
@@ -81534,12 +81542,13 @@ T恤衫	txuj
 詩抄	uiik
 失傳	uiir
 失寵	uiis
-蝨	uiiu
 軾	uiiu
+實處	uiiu
 螫	uiiu
 螄	uiiu
 齛	uiiu
-實處	uiiu
+蝨	uiiu
+螫	uiiw
 殺出重圍	uiiw
 齥	uiiy
 虱	uiiy
@@ -86934,6 +86943,7 @@ U盤	upj
 政府組織	vfzv
 照方子抓藥	vfzy
 整	vg
+這個	vg
 正	vga
 治國安邦	vgab
 治國安民	vgam
@@ -87900,8 +87910,8 @@ U盤	upj
 正常渠道	viqd
 志氣	viqi
 咫尺千里	viql
-之前	viqm
 值錢	viqm
+之前	viqm
 執勤	viqn
 值勤	viqn
 只求	viqq
@@ -91263,6 +91273,7 @@ U盤	upj
 珍稀資源	vxzy
 這樣	vy
 只要	vy
+主要	vy
 注意安全	vyaq
 桌椅板凳	vybd
 這樣不對	vybd
@@ -97708,6 +97719,7 @@ WiFi	wifi
 小鬼遭殃	xgzy
 下崗再就業	xgzy
 喜歡	xh
+幸好	xh
 香火不斷	xhbd
 循環播放	xhbf
 心懷不軌	xhbg
@@ -119441,8 +119453,9 @@ git	git
 命名爲	mmw
 密碼學	mmx
 毛毛雨	mmy
-明明在	mmz
+萌妹子	mmz
 沒面子	mmz
+明明在	mmz
 沒那個	mng
 摩納哥	mng
 慕尼黑	mnh
@@ -122279,6 +122292,7 @@ SD卡	sdk
 文化層	whc
 未婚夫	whf
 違和感	whg
+無花果	whg
 外行話	whh
 文化局	whj
 晚婚率	whl
