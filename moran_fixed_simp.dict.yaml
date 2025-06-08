@@ -519,6 +519,7 @@ A股	agu
 暗流涌动	alyd
 阿里云盘	alyp
 安利一下	alyx
+暧昧	am
 阿猫阿狗	amag
 挨门挨户	amah
 按摩按摩	amam
@@ -10830,8 +10831,8 @@ C语言	cyy
 躲躲藏藏	ddcc
 大大促进	ddcj
 断点测试	ddcu
-单打独斗	dddd
 点点滴滴	dddd
+单打独斗	dddd
 懂的都懂	dddd
 地地道道	dddd
 大胆的想法	dddf
@@ -19597,8 +19598,8 @@ F盘	fpj
 抚弄	funs
 富农	funs
 覆水难收	funu
-父女	funv
 妇女	funv
+父女	funv
 凡是那些	funx
 腹	fuo
 肤	fuof
@@ -45804,6 +45805,8 @@ JK制服	jkvf
 可望而不可及	kwej
 挎	kwf
 课外辅导	kwfd
+跨服	kwfu
+夸父	kwfu
 跨国	kwgo
 跨过	kwgo
 胯骨	kwgu
@@ -48012,6 +48015,7 @@ JK制服	jkvf
 临界状态	ljvt
 拦住	ljvu
 劣迹昭著	ljvv
+立即执行	ljvx
 利己主义	ljvy
 斓	ljw
 零九五笔	ljwb
@@ -57065,6 +57069,7 @@ JK制服	jkvf
 你看怎么样	nkzy
 闹贼	nkzz
 耐	nl
+那里	nl
 南粮北调	nlbd
 能力不够	nlbg
 哪里不好	nlbh
@@ -70714,6 +70719,7 @@ P图	ptu
 酸辣	srla
 私人老板	srlb
 算了	srle
+算力	srli
 损人利己	srlj
 虽然离开	srlk
 算来	srll
@@ -81874,6 +81880,7 @@ U盘	upj
 婌	uunu
 淑女	uunv
 暑	uuo
+实时	uuo
 曙	uuou
 腧	uuoy
 疏	uup
@@ -86279,6 +86286,7 @@ U盘	upj
 照做	vkzo
 招租	vkzu
 宅	vl
+这里	vl
 寨	vlb
 质量不好	vlbh
 珠联璧合	vlbh
@@ -86529,8 +86537,10 @@ U盘	upj
 这么好的	vmhd
 照猫画虎	vmhh
 沾满灰尘	vmhi
+这么好	vmhk
 这么回事	vmhu
 这门婚事	vmhu
+这么坏	vmhy
 注明出处	vmii
 这么长时间	vmij
 桌面窗口	vmik
@@ -87774,6 +87784,7 @@ U盘	upj
 直属机关	vujg
 只是近黄昏	vujh
 主机	vuji
+珠玑	vuji
 知识经济	vujj
 终身监禁	vujj
 直抒己见	vujj
@@ -87853,6 +87864,7 @@ U盘	upj
 知识盲区	vumq
 朝生暮死	vums
 瞩目	vumu
+注目	vumu
 驻	vumv
 株	vumv
 掌上明珠	vumv
@@ -90697,6 +90709,7 @@ U盘	upj
 万户	wjhu
 玩忽	wjhu
 晚会	wjhv
+挽回	wjhv
 无机化合物	wjhw
 无机化学	wjhx
 蜿	wji
@@ -96587,14 +96600,14 @@ U盘	upj
 性能标准	xnbv
 性能表现	xnbx
 心病	xnby
-芯	xnc
+薪	xnc
 新词	xnci
 心裁	xncl
 心存	xncp
 信从	xncs
 性能参数	xncu
 性能测试	xncu
-薪	xncx
+芯	xncx
 莘	xncx
 心	xnd
 心得	xnde
@@ -108904,6 +108917,7 @@ U盘	upj
 自动停止	zdtv
 遭到失败	zdub
 早点睡吧	zdub
+自动生成	zdui
 早点睡觉	zduj
 最短时间	zduj
 子弹时间	zduj
@@ -112035,6 +112049,7 @@ U盘	upj
 总在最前	zzzq
 自作自受	zzzu
 自自在在	zzzz
+澄清	dgqy
 
 啊啊啊	aaa
 爱不爱	aba
@@ -113255,6 +113270,8 @@ U盘	upj
 得人心	drx
 电褥子	drz
 第三遍	dsb
+第三次	dsc
+第四次	dsc
 第三方	dsf
 第三个	dsg
 单色光	dsg
@@ -113341,6 +113358,7 @@ U盘	upj
 兜着走	dvz
 大制作	dvz
 稻瘟病	dwb
+第五次	dwc
 吊袜带	dwd
 等我到	dwd
 对味儿	dwe
@@ -115041,8 +115059,9 @@ git	git
 京白梨	jbl
 聚苯醚	jbm
 就不能	jbn
-几百年	jbn
 决不能	jbn
+绝不能	jbn
+几百年	jbn
 聚宝盆	jbp
 经不起	jbq
 记不清	jbq
@@ -115612,6 +115631,7 @@ git	git
 肯尼亚	kny
 开瓢儿	kpe
 堪培拉	kpl
+跨平台	kpt
 狂犬病	kqb
 哭去吧	kqb
 看清楚	kqi
@@ -116631,6 +116651,8 @@ git	git
 纳闷儿	nme
 内蒙古	nmg
 那么高	nmg
+那么好	nmh
+那么坏	nmh
 那么久	nmj
 你们家	nmj
 你们俩	nml
@@ -116712,11 +116734,14 @@ git	git
 那阵儿	nve
 农转非	nvf
 内掌柜	nvg
+女主角	nvj
+男主角	nvj
 年终奖	nvj
 黏着力	nvl
 内侄女	nvn
 奶制品	nvp
 女主人	nvr
+男主人	nvr
 闹着玩	nvw
 乃至于	nvy
 拿主意	nvy
@@ -118666,6 +118691,7 @@ SD卡	sdk
 中国梦	vgm
 知更鸟	vgn
 这个人	vgr
+整个人	vgr
 撰稿人	vgr
 中国人	vgr
 中国通	vgt
@@ -118750,8 +118776,8 @@ SD卡	sdk
 芝麻官	vmg
 这么怪	vmg
 这么好	vmh
-专门化	vmh
 这么坏	vmh
+专门化	vmh
 这么差	vmi
 种马场	vmi
 贮木场	vmi

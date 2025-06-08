@@ -538,6 +538,7 @@ A股	agu
 暗流湧動	alyd
 阿里雲盤	alyp
 安利一下	alyx
+曖昧	am
 阿貓阿狗	amag
 挨門挨戶	amah
 按摩按摩	amam
@@ -11139,8 +11140,8 @@ C盤	cpj
 躲躲藏藏	ddcc
 大大促進	ddcj
 斷點測試	ddcu
-單打獨鬥	dddd
 點點滴滴	dddd
+單打獨鬥	dddd
 懂的都懂	dddd
 地地道道	dddd
 大膽的想法	dddf
@@ -20197,8 +20198,8 @@ F盤	fpj
 撫弄	funs
 富農	funs
 覆水難收	funu
-父女	funv
 婦女	funv
+父女	funv
 凡是那些	funx
 腹	fuo
 脯	fuof
@@ -47136,6 +47137,8 @@ JK制服	jkvf
 可望而不可及	kwej
 挎	kwf
 課外輔導	kwfd
+跨服	kwfu
+夸父	kwfu
 骻	kwg
 跨國	kwgo
 跨過	kwgo
@@ -49411,6 +49414,7 @@ JK制服	jkvf
 臨界狀態	ljvt
 攔住	ljvu
 劣跡昭著	ljvv
+立即執行	ljvx
 利己主義	ljvy
 斕	ljw
 零九五筆	ljwb
@@ -58698,6 +58702,7 @@ JK制服	jkvf
 你看怎麼樣	nkzy
 鬧賊	nkzz
 乃	nl
+那裏	nl
 南糧北調	nlbd
 能力不夠	nlbg
 哪裏不好	nlbh
@@ -58881,6 +58886,7 @@ JK制服	jkvf
 奶嘴	nlzv
 年	nm
 你們	nm
+那麼	nm
 廿	nma
 蔫巴	nmba
 農民伯伯	nmbb
@@ -72769,6 +72775,7 @@ P圖	ptu
 酸辣	srla
 私人老闆	srlb
 算了	srle
+算力	srli
 損人利己	srlj
 雖然離開	srlk
 算來	srll
@@ -84180,6 +84187,7 @@ U盤	upj
 鶐	uunu
 淑女	uunv
 暑	uuo
+實時	uuo
 曙	uuou
 腧	uuoy
 疏	uup
@@ -88703,6 +88711,7 @@ U盤	upj
 照做	vkzo
 招租	vkzu
 摘	vl
+這裏	vl
 宅	vlb
 質量不好	vlbh
 珠聯璧合	vlbh
@@ -88954,8 +88963,10 @@ U盤	upj
 這麼好的	vmhd
 照貓畫虎	vmhh
 沾滿灰塵	vmhi
+這麼好	vmhk
 這麼回事	vmhu
 這門婚事	vmhu
+這麼壞	vmhy
 註明出處	vmii
 這麼長時間	vmij
 桌面窗口	vmik
@@ -90247,6 +90258,7 @@ U盤	upj
 直屬機關	vujg
 只是近黃昏	vujh
 主機	vuji
+珠璣	vuji
 知識經濟	vujj
 終身監禁	vujj
 直抒己見	vujj
@@ -90332,6 +90344,7 @@ U盤	upj
 知識盲區	vumq
 朝生暮死	vums
 矚目	vumu
+注目	vumu
 株	vumv
 柱	vumv
 掌上明珠	vumv
@@ -90392,6 +90405,7 @@ U盤	upj
 真是人才	vurc
 展示容錯	vurc
 主任	vurf
+主人	vurf
 逐日	vuri
 助燃	vurj
 掌聲如雷	vurl
@@ -93234,6 +93248,7 @@ WiFi	wifi
 萬戶	wjhu
 翫忽	wjhu
 晚會	wjhv
+挽回	wjhv
 無機化合物	wjhw
 無機化學	wjhx
 輓	wji
@@ -99331,14 +99346,14 @@ WiFi	wifi
 性能標準	xnbv
 性能表現	xnbx
 心病	xnby
-芯	xnc
+薪	xnc
 新詞	xnci
 心裁	xncl
 心存	xncp
 信從	xncs
 性能參數	xncu
 性能測試	xncu
-薪	xncx
+芯	xncx
 莘	xncx
 心	xnd
 心得	xnde
@@ -112057,6 +112072,7 @@ WiFi	wifi
 自動停止	zdtv
 遭到失敗	zdub
 早點睡吧	zdub
+自動生成	zdui
 早點睡覺	zduj
 最短時間	zduj
 子彈時間	zduj
@@ -115242,6 +115258,7 @@ WiFi	wifi
 總在最前	zzzq
 自作自受	zzzu
 自自在在	zzzz
+澄清	dgqy
 
 啊啊啊	aaa
 愛不愛	aba
@@ -116463,6 +116480,7 @@ WiFi	wifi
 得人心	drx
 電褥子	drz
 第三遍	dsb
+第四次	dsc
 第三方	dsf
 第三個	dsg
 單色光	dsg
@@ -116548,6 +116566,7 @@ WiFi	wifi
 大製作	dvz
 兜着走	dvz
 稻瘟病	dwb
+第五次	dwc
 等我到	dwd
 吊襪帶	dwd
 對味兒	dwe
@@ -116979,8 +116998,8 @@ WiFi	wifi
 番茄醬	fqj
 反潛機	fqj
 方鉛礦	fqk
-飛起來	fql
 放棄了	fql
+飛起來	fql
 番茄苗	fqm
 發起人	fqr
 肺氣腫	fqv
@@ -118243,8 +118262,9 @@ git	git
 京白梨	jbl
 聚苯醚	jbm
 就不能	jbn
-幾百年	jbn
 決不能	jbn
+絕不能	jbn
+幾百年	jbn
 聚寶盆	jbp
 就不去	jbq
 經不起	jbq
@@ -118813,6 +118833,7 @@ git	git
 肯尼亞	kny
 開瓢兒	kpe
 堪培拉	kpl
+跨平臺	kpt
 哭去吧	kqb
 狂犬病	kqb
 看清楚	kqi
@@ -119831,6 +119852,8 @@ git	git
 納悶兒	nme
 那麼高	nmg
 內蒙古	nmg
+那麼好	nmh
+那麼壞	nmh
 那麼久	nmj
 你們家	nmj
 你們倆	nml
@@ -119912,6 +119935,8 @@ git	git
 那陣兒	nve
 農轉非	nvf
 內掌櫃	nvg
+女主角	nvj
+男主角	nvj
 年終獎	nvj
 黏着力	nvl
 內侄女	nvn
@@ -121864,6 +121889,7 @@ SD卡	sdk
 中國夢	vgm
 知更鳥	vgn
 這個人	vgr
+整個人	vgr
 撰稿人	vgr
 中國人	vgr
 中國通	vgt
@@ -121947,8 +121973,8 @@ SD卡	sdk
 這麼怪	vmg
 這麼貴	vmg
 芝麻官	vmg
-這麼壞	vmh
 這麼好	vmh
+這麼壞	vmh
 專門化	vmh
 這麼醜	vmi
 這麼差	vmi
