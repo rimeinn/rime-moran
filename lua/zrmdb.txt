@@ -17923,11 +17923,7 @@
 焟 hx
 焠 hz
 無 rh
-無 ph
 無 ha
-無 da
-無 pd
-無 rd
 焢 hk
 焣 dq
 焣 hq
@@ -32654,7 +32650,7 @@
 𠁞 bh
 𠁠 aq
 𠁠 qq
-𠁣 uy
+𠁣 aa
 𠁤 ek
 𠁥 ra
 𠁥 ar
@@ -32767,7 +32763,7 @@
 𠃖 gg
 𠃘 yy
 𠃙 jj
-𠃛 ay
+𠃛 aa
 𠃜 ua
 𠃝 yx
 𠃞 ag
@@ -32852,7 +32848,7 @@
 𠄴 yf
 𠄵 aa
 𠄷 ea
-𠄸 yy
+𠄸 aa
 𠄹 aa
 𠄽 ep
 𠄾 eq
@@ -32863,10 +32859,10 @@
 𠅄 wb
 𠅅 wm
 𠅆 wp
-𠅇 bw
+𠅇 qw
 𠅈 wb
-𠅉 wy
-𠅊 wy
+𠅉 wq
+𠅊 wa
 𠅋 xu
 𠅌 wd
 𠅑 wd
