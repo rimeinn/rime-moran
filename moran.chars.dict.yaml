@@ -14644,17 +14644,9 @@ use_preset_vocabulary: false
 焟	xi;hx	337
 焠	cv;hz	385
 無	mo;rh	0
-無	mo;ph	0
 無	mo;ha	0
-無	mo;da	0
-無	mo;pd	0
-無	mo;rd	0
 無	wu;rh	33776
-無	wu;ph	33776
-無	wu;rd	33776
 無	wu;ha	33776
-無	wu;da	33776
-無	wu;pd	33776
 焢	hs;hk	315
 焢	ks;hk	315
 焣	ju;dq	211
@@ -58721,7 +58713,7 @@ use_preset_vocabulary: false
 𩒃	kj;wy	0	# auto
 𧚙	zu;yz	0	# auto
 𫒭	bk;jb	0	# auto
-𠁣	ji;uy	0	# auto
+𠁣	ji;aa	0
 𢁢	wu;jk	0	# auto
 𤥡	bm;wq	0	# auto
 𱑞	dl;id	0	# auto
@@ -58788,7 +58780,7 @@ use_preset_vocabulary: false
 𠋋	wz;rd	0	# auto
 𠋋	wz;ry	0	# auto
 𬲨	yu;uy	0	# auto
-𠄸	ji;yy	0	# auto
+𠄸	ji;aa	0
 𱆪	yr;xy	0	# auto
 𧣴	vj;jj	0	# auto
 𨛖	ky;be	0	# auto
@@ -67223,7 +67215,7 @@ use_preset_vocabulary: false
 𨉏	mi;um	0	# auto
 𥙙	di;ud	0	# auto
 𫱖	ro;rh	0	# auto
-𠅇	mh;bw	0	# auto
+𠅇	mh;qw	0
 𫿞	yj;yg	0	# auto
 𧻼	nx;zt	0	# auto
 𧽜	qi;zc	0	# auto
@@ -71022,7 +71014,7 @@ use_preset_vocabulary: false
 𪂒	hu;hn	0	# auto
 𧭪	ee;ya	0	# auto
 𬕥	wo;vw	0	# auto
-𠃛	ya;ay	0	# auto
+𠃛	ya;aa	0
 𢈋	xr;go	0	# auto
 𩒏	hv;hy	0	# auto
 𧼻	su;zt	0	# auto
@@ -71118,7 +71110,7 @@ use_preset_vocabulary: false
 𡒸	cg;tc	0	# auto
 𱽕	dk;cd	0	# auto
 𫱔	gs;ng	0	# auto
-𠅉	db;wy	0	# auto
+𠅉	db;wq	0
 𥣎	ji;hd	0	# auto
 𨱫	qi;ig	0	# auto
 𥊌	ik;oi	0	# auto
@@ -71137,7 +71129,7 @@ use_preset_vocabulary: false
 𩮅	na;iv	0	# auto
 𥤴	yj;xk	0	# auto
 𢗞	hs;xs	0	# auto
-𠅊	vs;wy	0	# auto
+𠅊	vs;wa	0
 𠙱	pi;pf	0	# auto
 𠙱	pi;jd	0	# auto
 𠲄	mk;ke	0	# auto
