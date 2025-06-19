@@ -2139,6 +2139,7 @@
 㱑 vx
 㱒 vk
 㱓 vl
+㱔 xc
 㱔 cx
 㱕 vj
 㱖 vz
@@ -20258,8 +20259,8 @@
 硾 ui
 硿 uk
 碀 uv
-碁 qu
 碁 uq
+碁 qu
 碂 uz
 碃 uq
 碄 ul

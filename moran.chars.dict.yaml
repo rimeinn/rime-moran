@@ -17575,10 +17575,10 @@ use_preset_vocabulary: false
 硾	vv;ui	0
 硿	ks;uk	14
 碀	cg;uv	0
-碁	ji;qu	0
 碁	ji;uq	0
-碁	qi;qu	0
+碁	ji;qu	0
 碁	qi;uq	0
+碁	qi;qu	0
 碂	cs;uz	0
 碂	zs;uz	0
 碃	qy;uq	32
@@ -27746,6 +27746,7 @@ use_preset_vocabulary: false
 鉹	ii;jd	0
 鉺	er;je	0
 鉻	ge;jg	0
+鉻	lo;jg	0
 鉼	by;jb	0
 鉽	ui;ju	0
 鉾	mb;jm	0
@@ -28613,6 +28614,7 @@ use_preset_vocabulary: false
 铫	dc;jv	102
 铫	yk;jv	102
 铬	ge;jg	753
+铬	lo;jg	0
 铭	my;jm	68150
 铮	vg;jv	29527
 铯	se;js	123
