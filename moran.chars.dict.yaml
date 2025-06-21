@@ -108609,7 +108609,7 @@ use_preset_vocabulary: false
 𮎼	il;ca	0	# auto
 𮎽	il;ci	0	# auto
 𮎾	pu;ct	0	# auto
-𮎿	qx;cq	0	# auto
+𮎿	qx;cr	0
 𮏀	ly;cm	0	# auto
 𮏁	ns;cm	0	# auto
 𮏂	jy;cx	0	# auto
@@ -109005,9 +109005,13 @@ use_preset_vocabulary: false
 𮖿	ly;xl	0	# auto
 𮗀	qm;xd	0	# auto
 𮗁	ly;xd	0	# auto
+𮗂	qn;xa	0	# auto
 𮗂	qn;xb	0	# auto
+𮗂	tj;xa	0	# auto
 𮗂	tj;xb	0	# auto
+𮗂	uj;xa	0	# auto
 𮗂	uj;xb	0	# auto
+𮗂	yj;xa	0	# auto
 𮗂	yj;xb	0	# auto
 𮗃	qm;xd	0	# auto
 𮗄	he;xf	0	# auto
@@ -122065,6 +122069,8 @@ use_preset_vocabulary: false
 𖿲	er;pg	1
 𖿳	er;ej	1
 𖿳	er;je	1
+𮍌	if;aa	0
+𮍌	if;kk	0
 
 # CJK Ext I
 𤚴	fj;nm	0
