@@ -89932,6 +89932,8 @@
 𮍆 ou
 𮍈 jo
 𮍈 oi
+𮍌 aa
+𮍌 kk
 𮍎 ii
 𮍏 iw
 𮍏 wi
@@ -90018,7 +90020,7 @@
 𮎼 ca
 𮎽 ci
 𮎾 ct
-𮎿 cq
+𮎿 cr
 𮏀 cm
 𮏁 cm
 𮏂 cx
@@ -90354,6 +90356,7 @@
 𮖿 xl
 𮗀 xd
 𮗁 xd
+𮗂 xa
 𮗂 xb
 𮗃 xd
 𮗄 xf
