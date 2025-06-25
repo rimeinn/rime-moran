@@ -1827,8 +1827,8 @@ AVL樹	avlu
 不得不承認	bdbr
 不得不低頭	bdbt
 棒打不回頭	bdbt
-不打不相識	bdbu
 不得不說	bdbu
+不打不相識	bdbu
 不當不正	bdbv
 不大不小	bdbx
 保大保小	bdbx
@@ -4848,8 +4848,9 @@ AVL樹	avlu
 辯證	bmvg
 部門主管	bmvg
 變長	bmvh
-編制	bmvi
 貶值	bmvi
+變質	bmvi
+編制	bmvi
 編織	bmvi
 不明之處	bmvi
 半面之交	bmvj
@@ -6316,6 +6317,7 @@ B盤	bpj
 不足	buzu
 表示尊重	buzv
 背水作戰	buzv
+不止	bv
 標準	bv
 爆炸案件	bvaj
 包治百病	bvbb
@@ -12186,8 +12188,8 @@ C盤	cpj
 滴灌	digr
 地宮	digs
 低估	digu
-低谷	digu
 嘀咕	digu
+低谷	digu
 達成共識	digu
 鞮	digu
 靮	digu
@@ -12305,6 +12307,7 @@ C盤	cpj
 低能	ding
 電車難題	dint
 睇	dio
+地偶	diou
 眱	dioy
 氐	dip
 地皮	dipi
@@ -19943,6 +19946,7 @@ F盤	fpj
 巿	fuaa
 甫	fuad
 父愛	fuai
+巿	fuaj
 伏案	fuan
 伏安	fuan
 富	fub
@@ -20081,6 +20085,7 @@ F盤	fpj
 孵化	fuhw
 腐化	fuhw
 腹式呼吸	fuhx
+腐壞	fuhy
 腹黑	fuhz
 輔	fui
 複查	fuia
@@ -25100,6 +25105,7 @@ G盤	gpj
 供	gsr
 各色人等	gsrd
 供熱	gsre
+公認	gsrf
 工人	gsrf
 拱讓	gsrh
 工日	gsri
@@ -25866,8 +25872,8 @@ G盤	gpj
 檜	gvmh
 根正苗紅	gvmh
 櫰	gvmh
-詭祕	gvmi
 閨蜜	gvmi
+詭祕	gvmi
 柜	gvmj
 朹	gvmj
 櫃面	gvmm
@@ -28277,6 +28283,7 @@ G盤	gpj
 黃花閨女	hhgn
 黃花姑娘	hhgn
 好好改造，重新做人	hhgr
+互惠共生	hhgu
 行規	hhgv
 花花公子	hhgz
 好好改造	hhgz
@@ -29228,6 +29235,7 @@ G盤	gpj
 昏了過去	hlgq
 海關	hlgr
 骸骨	hlgu
+互利共生	hlgu
 海龜	hlgv
 賄賂公行	hlgx
 駭怪	hlgy
@@ -29839,6 +29847,7 @@ G盤	gpj
 活字	hozi
 火災	hozl
 活在	hozl
+鍃鑽	hozr
 活罪	hozv
 獲罪	hozv
 混	hp
@@ -32165,6 +32174,7 @@ H盤	hpj
 忽隱忽現	hyhx
 壞壞	hyhy
 好言好語	hyhy
+回憶	hyi
 化雨春風	hyif
 黃鶯出谷	hyig
 滬爺衝擊	hyij
@@ -39978,6 +39988,7 @@ JK制服	jkvf
 救命稻草	jmdc
 洊	jmdc
 兼得	jmde
+殲	jmdg
 瀸	jmdg
 建黨	jmdh
 減低	jmdi
@@ -39988,7 +39999,6 @@ JK制服	jkvf
 剪刀	jmdk
 檢點	jmdm
 劍	jmdq
-殲	jmdq
 金門大橋	jmdq
 湔	jmdq
 剪	jmdq
@@ -43269,6 +43279,7 @@ JK制服	jkvf
 家族	jwzu
 家賊	jwzz
 解	jx
+就像	jx
 孑	jxa
 疌	jxad
 節哀	jxai
@@ -43936,6 +43947,7 @@ JK制服	jkvf
 家喻戶曉	jyhx
 蜻	jyi
 警察	jyia
+驚詫	jyia
 經營成本	jyib
 警車	jyie
 靚車	jyie
@@ -47358,7 +47370,6 @@ JK制服	jkvf
 科研經費	kyjf
 科研機構	kyjg
 會計	kyji
-括約肌鬆弛	kyji
 科研基金	kyjj
 口語交際	kyjj
 開源節流	kyjl
@@ -47374,11 +47385,9 @@ JK制服	jkvf
 可以看出	kyki
 快看	kykj
 可以看見	kykj
-開眼看世界	kykj
 可以考慮	kykl
-可鹽可甜	kykt
 科研課題	kykt
-可以肯定的是	kyku
+可鹽可甜	kykt
 可有可無	kykw
 快言快語	kyky
 可以可以	kyky
@@ -47386,7 +47395,6 @@ JK制服	jkvf
 快了	kyle
 可以理解	kylj
 快來	kyll
-可要了命了	kyll
 可以了嗎	kylm
 刻意練習	kylx
 可以燎原	kyly
@@ -52647,8 +52655,6 @@ JK制服	jkvf
 零上	lyuh
 零食	lyui
 靈異事件	lyuj
-老藝術家	lyuj
-零溢事件	lyuj
 磷	lyul
 祾	lyul
 裸眼視力	lyul
@@ -53156,6 +53162,7 @@ JK制服	jkvf
 明白了吧	mblb
 免不了的	mbld
 牟利	mbli
+謀利	mbli
 目標利潤	mblr
 謀略	mblt
 民不聊生	mblu
@@ -56422,8 +56429,8 @@ JK制服	jkvf
 矇住眼睛	mvyj
 名正言順	mvyu
 莫衷一是	mvyu
-某種原因	mvyy
 某種意義	mvyy
+某種原因	mvyy
 民主作風	mvzf
 迷之自信	mvzx
 蜜汁自信	mvzx
@@ -64195,6 +64202,7 @@ P圖	ptu
 強而有力	qeyl
 棄惡揚善	qeyu
 區分	qf
+氣氛	qf
 缺乏愛心	qfax
 起伏不定	qfbd
 氣憤不過	qfbg
@@ -64578,8 +64586,8 @@ P圖	ptu
 情仇恩怨	qiey
 旗	qif
 啓發	qifa
-氣氛	qiff
 氣憤	qiff
+氣氛	qiff
 啓封	qifg
 起風	qifg
 期房	qifh
@@ -65499,6 +65507,7 @@ P圖	ptu
 前進	qmjn
 千金	qmjn
 遷就	qmjq
+歉疚	qmjq
 全面兼容	qmjr
 阡陌交通	qmjt
 遷居	qmju
@@ -67646,8 +67655,7 @@ P圖	ptu
 全文鏈接	qwlj
 請勿模仿	qwmf
 權威媒體	qwmt
-情爲民所繫	qwmx
-權爲民所用	qwmy
+掐滅	qwmx
 期望能夠	qwng
 起舞弄清影	qwny
 袷袢	qwpj
@@ -73278,6 +73286,7 @@ P圖	ptu
 三十週年	suvn
 四十週年	suvn
 訴諸	suvu
+宿主	suvu
 素食主義者	suvv
 雖說這樣	suvy
 素食主義	suvy
@@ -75964,7 +75973,6 @@ P圖	ptu
 屯糧積草	tljc
 討論決定	tljd
 太極	tlji
-拖拉機廠	tlji
 涕淚交加	tljj
 通令嘉獎	tljj
 太垃圾了	tljl
@@ -76888,6 +76896,7 @@ P圖	ptu
 同期增長	tqzi
 聽其自然	tqzr
 團	tr
+突然	tr
 團拜	trbl
 團部	trbu
 彖辭	trci
@@ -80094,8 +80103,8 @@ T恤衫	txuj
 懾	uex
 慴	uexb
 賒銷	uexc
-攝像	uexd
 設想	uexd
+攝像	uexd
 社戲	uexi
 涉嫌	uexm
 十二小時	uexu
@@ -94645,6 +94654,7 @@ WiFi	wifi
 爲什麼不能	wsmn
 霧淞拼音	wspy
 無所牽掛	wsqg
+尾隨其後	wsqh
 五四青年節	wsqj
 萬歲千秋	wsqq
 文思泉湧	wsqy
@@ -95537,6 +95547,7 @@ WiFi	wifi
 微信	wx
 微笑	wx
 微小	wx
+危險	wx
 外興安嶺	wxal
 吳下阿蒙	wxam
 我想不到	wxbd
@@ -96910,6 +96921,7 @@ WiFi	wifi
 相待	xddl
 相對獨立	xddl
 想得倒美	xddm
+想多	xddo
 尋道大千	xddq
 小洞大人	xddr
 響動	xdds
@@ -112548,7 +112560,6 @@ WiFi	wifi
 資	zib
 自拔	ziba
 貲	zibc
-髭	zibc
 資本	zibf
 組成部分	zibf
 自閉	zibi
@@ -112634,6 +112645,7 @@ WiFi	wifi
 齜	zii
 自查	ziia
 自籌	ziib
+髭	ziic
 自創	ziid
 自稱	ziig
 字長	ziih
@@ -114463,6 +114475,7 @@ WiFi	wifi
 自始自終	zuzv
 再生資源	zuzy
 最	zv
+阻止	zv
 最愛	zvai
 罪案	zvan
 嘴巴	zvba
@@ -116352,6 +116365,7 @@ WiFi	wifi
 滴溜兒	dle
 代理費	dlf
 第六感	dlg
+低齡化	dlh
 度量衡	dlh
 獨輪車	dli
 鄧麗君	dlj
@@ -117006,7 +117020,6 @@ WiFi	wifi
 分水嶺	ful
 番石榴	ful
 放射性	fux
-封獸鵺	fuy
 放這吧	fvb
 紡織部	fvb
 分至點	fvd
@@ -118884,7 +118897,7 @@ git	git
 開小竈	kxz
 看一遍	kyb
 快一點	kyd
-開洋葷	kyh
+抗氧化	kyh
 開夜車	kyi
 擴音機	kyj
 看一看	kyk
@@ -121004,6 +121017,7 @@ SD卡	sdk
 痛不痛	tbt
 聽不聽	tbt
 疼不疼	tbt
+特別是	tbu
 談不上	tbu
 停不下	tbx
 體操隊	tcd
@@ -122508,9 +122522,8 @@ SD卡	sdk
 五月份	wyf
 無用功	wyg
 委員會	wyh
-玩一局	wyj
-望遠鏡	wyj
 無意間	wyj
+望遠鏡	wyj
 違約金	wyj
 我已經	wyj
 外語課	wyk
@@ -122789,6 +122802,7 @@ SD卡	sdk
 尋開心	xkx
 閒磕牙	xky
 行了吧	xlb
+小籠包	xlb
 訓練班	xlb
 下禮拜	xlb
 性冷淡	xld
@@ -123585,8 +123599,9 @@ SD卡	sdk
 最大化	zdh
 做得好	zdh
 自動機	zdj
-走丟了	zdl
 做到了	zdl
+遭到了	zdl
+走丢了	zdl
 最大流	zdl
 自動門	zdm
 紫貂皮	zdp
