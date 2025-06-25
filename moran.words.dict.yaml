@@ -9095,6 +9095,7 @@ columns:
 共變	10
 反變	10
 喌音	10
+瘋批	10
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0
@@ -10207,3 +10208,34 @@ OK	10	ou kz
 幾何	1	jo;yd he;rk
 幾十	1	jo;yd ui;aa
 十幾	1	ui;aa jo;yd
+未	1	we;ex
+並未	3193	by;qy we;ex
+從未	3193	cs;xv we;ex
+還未	2327	hl;zh we;ex
+均未	858	jp;ty we;ex
+仍未	1359	rg;rn we;ex
+雖未	737	sv;vs we;ex
+尚未	4460	uh;xk we;ex
+未按	788	we;ex an;fa
+未必	3584	we;ex bi;dd
+未便	407	we;ex bm;rg
+未曾	1409	we;ex cg;ob
+未定	960	we;ex dy;bp
+未付	508	we;ex fu;rc
+未婚	1452	we;ex hp;nh
+未嘗	876	we;ex ih;xv
+未見	1372	we;ex jm;oe
+未接	610	we;ex jx;fq
+未經	3160	we;ex jy;sg
+未可	544	we;ex ke;dk
+未開	1	we;ex kl;mk
+未了	674	we;ex lc;aa
+未來	16677	we;ex ll;ad
+未滿	877	we;ex mj;dr
+未免	1227	we;ex mm;de
+未能	3272	we;ex ng;sb
+未遂	892	we;ex sv;zu
+未知	2309	we;ex vi;uk
+未向	1	we;ex xd;pk
+未詳	479	we;ex xd;yy
+暫未	969	zj;ov we;ex

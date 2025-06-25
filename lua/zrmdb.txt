@@ -6757,7 +6757,6 @@
 丧 yy
 丨 aa
 丨 au
-丨 uu
 丩 aa
 丩 jc
 丩 vu
@@ -61665,7 +61664,6 @@
 𦫱 bs
 𦫱 sb
 𦫲 ss
-𦫳 gu
 𦫳 ca
 𦫶 cj
 𦫷 cg
@@ -70463,8 +70461,8 @@
 𨱔 jz
 𨱕 jj
 𨱖 jw
-𨱗 ka
-𨱗 ra
+𨱗 ad
+𨱗 id
 𨱘 ba
 𨱘 ib
 𨱙 ij
