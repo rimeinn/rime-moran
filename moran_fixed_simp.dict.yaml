@@ -1781,8 +1781,8 @@ AVL树	avlu
 不得不承认	bdbr
 不得不低头	bdbt
 棒打不回头	bdbt
-不打不相识	bdbu
 不得不说	bdbu
+不打不相识	bdbu
 不当不正	bdbv
 不大不小	bdbx
 保大保小	bdbx
@@ -4719,8 +4719,9 @@ AVL树	avlu
 辩证	bmvg
 部门主管	bmvg
 变长	bmvh
-编制	bmvi
 贬值	bmvi
+变质	bmvi
+编制	bmvi
 编织	bmvi
 不明之处	bmvi
 半面之交	bmvj
@@ -11859,8 +11860,8 @@ C语言	cyy
 滴灌	digr
 地宫	digs
 低估	digu
-低谷	digu
 嘀咕	digu
+低谷	digu
 达成共识	digu
 鞮	digu
 递归	digv
@@ -11966,6 +11967,7 @@ C语言	cyy
 低能	ding
 电车难题	dint
 睇	dio
+地偶	diou
 氐	dip
 地皮	dipi
 地痞	dipi
@@ -19489,6 +19491,7 @@ F盘	fpj
 孵化	fuhw
 腐化	fuhw
 腹式呼吸	fuhx
+腐坏	fuhy
 腹黑	fuhz
 辅	fui
 复查	fuia
@@ -24409,6 +24412,7 @@ G盘	gpj
 供	gsr
 各色人等	gsrd
 供热	gsre
+公认	gsrf
 工人	gsrf
 拱让	gsrh
 工日	gsri
@@ -25146,8 +25150,8 @@ G盘	gpj
 闺	gvmg
 根正苗红	gvmh
 桧	gvmh
-诡秘	gvmi
 闺蜜	gvmi
+诡秘	gvmi
 柜面	gvmm
 规勉	gvmm
 古装美女	gvmn
@@ -27512,6 +27516,7 @@ H股	hgu
 黄花闺女	hhgn
 黄花姑娘	hhgn
 好好改造，重新做人	hhgr
+互惠共生	hhgu
 行规	hhgv
 花花公子	hhgz
 好好改造	hhgz
@@ -28434,6 +28439,7 @@ H股	hgu
 昏了过去	hlgq
 海关	hlgr
 骸骨	hlgu
+互利共生	hlgu
 海龟	hlgv
 贿赂公行	hlgx
 骇怪	hlgy
@@ -29032,6 +29038,7 @@ H股	hgu
 活字	hozi
 火灾	hozl
 活在	hozl
+锪钻	hozr
 趏	hozu
 活罪	hozv
 获罪	hozv
@@ -31259,6 +31266,7 @@ H盘	hpj
 忽隐忽现	hyhx
 坏坏	hyhy
 好言好语	hyhy
+回忆	hyi
 化雨春风	hyif
 黄莺出谷	hyig
 沪爷冲击	hyij
@@ -42048,6 +42056,7 @@ JK制服	jkvf
 家族	jwzu
 家贼	jwzz
 接	jx
+就像	jx
 孑	jxa
 节哀	jxai
 结案	jxan
@@ -42671,6 +42680,7 @@ JK制服	jkvf
 寄予厚望	jyhw
 家喻户晓	jyhx
 警察	jyia
+惊诧	jyia
 经营成本	jyib
 警车	jyie
 靓车	jyie
@@ -46017,7 +46027,6 @@ JK制服	jkvf
 科研经费	kyjf
 科研机构	kyjg
 会计	kyji
-括约肌松弛	kyji
 科研基金	kyjj
 口语交际	kyjj
 开源节流	kyjl
@@ -46033,11 +46042,9 @@ JK制服	jkvf
 可以看出	kyki
 快看	kykj
 可以看见	kykj
-开眼看世界	kykj
 可以考虑	kykl
-可盐可甜	kykt
 科研课题	kykt
-可以肯定的是	kyku
+可盐可甜	kykt
 可有可无	kykw
 快言快语	kyky
 可以可以	kyky
@@ -46045,7 +46052,6 @@ JK制服	jkvf
 快了	kyle
 可以理解	kylj
 快来	kyll
-可要了命了	kyll
 可以了吗	kylm
 刻意练习	kylx
 可以燎原	kyly
@@ -51163,8 +51169,6 @@ JK制服	jkvf
 零上	lyuh
 零食	lyui
 灵异事件	lyuj
-老艺术家	lyuj
-零溢事件	lyuj
 磷	lyul
 祾	lyul
 裸眼视力	lyul
@@ -51663,6 +51667,7 @@ JK制服	jkvf
 明白了吧	mblb
 免不了的	mbld
 牟利	mbli
+谋利	mbli
 目标利润	mblr
 谋略	mblt
 民不聊生	mblu
@@ -54841,8 +54846,8 @@ JK制服	jkvf
 蒙住眼睛	mvyj
 名正言顺	mvyu
 莫衷一是	mvyu
-某种原因	mvyy
 某种意义	mvyy
+某种原因	mvyy
 民主作风	mvzf
 迷之自信	mvzx
 蜜汁自信	mvzx
@@ -62370,6 +62375,7 @@ P图	ptu
 强而有力	qeyl
 弃恶扬善	qeyu
 区分	qf
+气氛	qf
 缺乏爱心	qfax
 起伏不定	qfbd
 气愤不过	qfbg
@@ -62751,8 +62757,8 @@ P图	ptu
 情仇恩怨	qiey
 旗	qif
 启发	qifa
-气氛	qiff
 气愤	qiff
+气氛	qiff
 启封	qifg
 起风	qifg
 期房	qifh
@@ -63638,6 +63644,7 @@ P图	ptu
 千金	qmjn
 迁就	qmjq
 钎	qmjq
+歉疚	qmjq
 全面兼容	qmjr
 阡陌交通	qmjt
 迁居	qmju
@@ -65688,8 +65695,7 @@ P图	ptu
 全文链接	qwlj
 请勿模仿	qwmf
 权威媒体	qwmt
-情为民所系	qwmx
-权为民所用	qwmy
+掐灭	qwmx
 期望能够	qwng
 起舞弄清影	qwny
 袷袢	qwpj
@@ -71210,6 +71216,7 @@ P图	ptu
 四十周年	suvn
 簌	suvq
 诉诸	suvu
+宿主	suvu
 素食主义者	suvv
 虽说这样	suvy
 素食主义	suvy
@@ -73803,7 +73810,6 @@ P图	ptu
 屯粮积草	tljc
 讨论决定	tljd
 太极	tlji
-拖拉机厂	tlji
 涕泪交加	tljj
 通令嘉奖	tljj
 太垃圾了	tljl
@@ -74707,6 +74713,7 @@ P图	ptu
 同期增长	tqzi
 听其自然	tqzr
 团	tr
+突然	tr
 彖	tra
 团拜	trbl
 团部	trbu
@@ -77852,8 +77859,8 @@ T恤衫	txuj
 摄卫	uewz
 慑	uex
 赊销	uexc
-摄像	uexd
 设想	uexd
+摄像	uexd
 社戏	uexi
 涉嫌	uexm
 十二小时	uexu
@@ -92089,6 +92096,7 @@ U盘	upj
 为什么不能	wsmn
 雾淞拼音	wspy
 无所牵挂	wsqg
+尾随其后	wsqh
 五四青年节	wsqj
 万岁千秋	wsqq
 文思泉涌	wsqy
@@ -92959,6 +92967,7 @@ U盘	upj
 微信	wx
 微笑	wx
 微小	wx
+危险	wx
 外兴安岭	wxal
 吴下阿蒙	wxam
 我想不到	wxbd
@@ -94256,6 +94265,7 @@ U盘	upj
 相待	xddl
 相对独立	xddl
 想得倒美	xddm
+想多	xddo
 寻道大千	xddq
 小洞大人	xddr
 响动	xdds
@@ -111255,6 +111265,7 @@ U盘	upj
 自始自终	zuzv
 再生资源	zuzy
 最	zv
+阻止	zv
 最爱	zvai
 罪案	zvan
 嘴巴	zvba
@@ -113137,6 +113148,7 @@ U盘	upj
 滴溜儿	dle
 代理费	dlf
 第六感	dlg
+低龄化	dlh
 度量衡	dlh
 独轮车	dli
 邓丽君	dlj
@@ -113796,7 +113808,6 @@ U盘	upj
 分水岭	ful
 番石榴	ful
 放射性	fux
-封兽鵺	fuy
 纺织部	fvb
 放这吧	fvb
 分至点	fvd
@@ -115678,7 +115689,7 @@ git	git
 开小灶	kxz
 看一遍	kyb
 快一点	kyd
-开洋荤	kyh
+抗氧化	kyh
 开夜车	kyi
 扩音机	kyj
 看一看	kyk
@@ -117801,6 +117812,7 @@ SD卡	sdk
 疼不疼	tbt
 听不听	tbt
 痛不痛	tbt
+特别是	tbu
 谈不上	tbu
 停不下	tbx
 体操队	tcd
@@ -119306,10 +119318,9 @@ SD卡	sdk
 五月份	wyf
 无用功	wyg
 委员会	wyh
-望远镜	wyj
 无意间	wyj
+望远镜	wyj
 违约金	wyj
-玩一局	wyj
 我已经	wyj
 外语课	wyk
 无压力	wyl
@@ -119587,6 +119598,7 @@ SD卡	sdk
 寻开心	xkx
 闲磕牙	xky
 行了吧	xlb
+小笼包	xlb
 训练班	xlb
 下礼拜	xlb
 性冷淡	xld
@@ -120386,6 +120398,7 @@ SD卡	sdk
 做得好	zdh
 自动机	zdj
 做到了	zdl
+遭到了	zdl
 走丢了	zdl
 最大流	zdl
 自动门	zdm
