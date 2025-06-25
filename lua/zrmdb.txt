@@ -35554,6 +35554,7 @@
 𠨭 ie
 𠨮 ia
 𠨯 iz
+𠨰 ig
 𠨱 iy
 𠨲 ii
 𠨲 ic
@@ -57299,6 +57300,7 @@
 𥥷 xd
 𥥸 xy
 𥥹 xy
+𥥺 xk
 𥥻 xg
 𥥼 xe
 𥥽 xq
@@ -61851,6 +61853,7 @@
 𦯂 cd
 𦯃 cj
 𦯅 cx
+𦯆 ck
 𦯇 cx
 𦯈 cj
 𦯈 cy
@@ -66775,6 +66778,7 @@
 𧶸 bv
 𧶹 bj
 𧶺 bt
+𧶻 bk
 𧶼 bb
 𧶼 bg
 𧶽 bw
@@ -68056,6 +68060,7 @@
 𨌞 iq
 𨌟 ii
 𨌠 il
+𨌡 ik
 𨌢 iv
 𨌣 ir
 𨌤 iw
@@ -69375,6 +69380,7 @@
 𨞳 eb
 𨞳 be
 𨞴 ye
+𨞵 eb
 𨞶 ze
 𨞷 te
 𨞸 yy
@@ -73650,6 +73656,7 @@
 𩜓 uc
 𩜔 bu
 𩜔 ub
+𩜕 uk
 𩜖 ue
 𩜗 ub
 𩜘 uz
