@@ -49500,6 +49500,7 @@
 𣬚 bt
 𣬚 pt
 𣬛 ge
+𣬛 pg
 𣬜 me
 𣬝 ml
 𣬞 md
