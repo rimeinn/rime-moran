@@ -62119,8 +62119,10 @@ use_preset_vocabulary: false
 𤨗	lo;yy	0	# auto
 𨆘	ji;zq	0	# auto
 𤁒	ny;dy	0	# auto
-𣬛	sj;ge	0	# auto
-𣬛	uj;ge	0	# auto
+𣬛	sj;ge	0
+𣬛	uj;ge	0
+𣬛	sj;pg	0
+𣬛	uj;pg	0
 𪿿	kh;ug	0	# auto
 𤬙	hu;gg	0	# auto
 𠇘	iu;rd	0	# auto
