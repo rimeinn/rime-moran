@@ -108796,21 +108796,20 @@ use_preset_vocabulary: false
 𮓖	va;cq	0	# auto
 𮓖	zo;cq	0	# auto
 𮓗	hu;bt	0	# auto
-𮓘	nt;bb	0	# auto
-𮓙	he;bj	0	# auto
-𮓙	hu;bj	0	# auto
-𮓙	xw;bj	0	# auto
-𮓚	qm;by	0	# auto
+𮓘	nt;ab	0
+𮓙	he;aj	0
+𮓙	hu;aj	0
+𮓙	xw;aj	0
+𮓚	qm;ay	0
 𮓛	he;ht	0	# auto
 𮓛	hu;ht	0	# auto
 𮓛	xw;ht	0	# auto
-𮓜	he;bj	0	# auto
-𮓜	hu;bj	0	# auto
-𮓜	xw;bj	0	# auto
-𮓝	iu;bb	0	# auto
+𮓜	he;aj	0	# auto
+𮓜	hu;aj	0	# auto
+𮓜	xw;aj	0	# auto
 𮓝	iu;hb	0	# auto
-𮓞	is;ao	0	# auto
-𮓞	ys;ao	0	# auto
+𮓞	is;ao	0
+𮓞	ys;ao	0
 𮓟	xc;aj	0	# auto
 𮓟	xc;hj	0	# auto
 𮓡	wz;by	0	# auto
@@ -108818,7 +108817,7 @@ use_preset_vocabulary: false
 𮓢	rv;bo	0	# auto
 𮓢	rv;ob	0	# auto
 𮓣	hu;ha	0	# auto
-𮓥	yu;bw	0	# auto
+𮓥	yu;aw	0
 𮓦	go;hh	0	# auto
 𮓪	kv;xy	0	# auto
 𮓪	wu;xy	0	# auto
