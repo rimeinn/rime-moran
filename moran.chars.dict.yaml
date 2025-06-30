@@ -12486,8 +12486,8 @@ use_preset_vocabulary: false
 殾	xp;uv	245
 殿	dm;ug	1932
 毀	hv;ut	1784
-毁	hv;jy	90
 毁	hv;ug	90
+毁	hv;jy	90
 毂	gu;iu	0
 毂	gu;ui	0
 毃	qc;ug	317
@@ -77869,8 +77869,8 @@ use_preset_vocabulary: false
 𢏶	ii;gv	0	# auto
 𢏶	ji;gv	0	# auto
 𢏸	xm;gx	0	# auto
-𢏻	ro;gp	0	# auto
-𢏻	ro;pp	0	# auto
+𢏻	ro;gp	0
+𢏻	ro;dp	0
 𢏼	dx;gm	0	# auto
 𢏼	qx;gm	0	# auto
 𢏼	ue;gm	0	# auto
@@ -122075,6 +122075,15 @@ use_preset_vocabulary: false
 𨌡	lq;ik	0
 𨞵	mk;eb	0
 𩜕	bk;uk	0
+𠕄	na;ay	0
+𠕄	na;aa	0
+𠃚	jq;jg	0
+𠕏	wh;ka	0
+𠤬	fh;ay	0
+𠤶	ni;ka	0
+𢎗	nl;ag	0
+𡰴	yi;ag	0
+𡰴	yn;ag	0
 
 # CJK Ext I
 𤚴	fj;nm	0
