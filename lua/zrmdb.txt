@@ -82792,7 +82792,7 @@
 𫲦 zd
 𫲪 yz
 𫲪 zy
-𫲯 pz
+𫲯 jz
 𫲯 zk
 𫲱 sz
 𫲱 zs
@@ -84857,10 +84857,12 @@
 𬛷 vl
 𬛸 jg
 𬛹 jy
-𬛺 pk
-𬛻 pi
-𬛼 yi
-𬛽 pj
+𬛺 jk
+𬛺 ku
+𬛻 ji
+𬛼 ji
+𬛼 iy
+𬛽 jj
 𬛾 jm
 𬛾 mj
 𬜀 ax
