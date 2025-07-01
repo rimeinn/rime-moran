@@ -337,8 +337,12 @@ recognizer:
 
 recognizer_secondary:
   patterns:
-    # {4} 表示輸入長度達到 4 後開始輸出英語
-    english: '^[A-Za-z]{4}[A-Za-z]*'
+    # 1. 輸入長度達到 4 後開始輸出英語 *或* 前 4 字母中有大寫字母
+    english: '(^[A-Za-z]{4}[A-Za-z]*)|(^[A-Z][A-Za-z]*)|(^[a-z][A-Z][a-zA-Z]*)|(^[a-z][a-z][A-Z][a-zA-Z]*)'
+    # 2. 對任何輸入都輸出英語
+    # english: '.*'
+    # 3. 輸入長度達到 4 後開始輸出英語
+    # english: '^[A-Za-z]{4}[A-Za-z]*'
 
 moran:
   # 簡快碼提示符
