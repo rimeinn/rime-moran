@@ -16218,8 +16218,8 @@
 殾 uv
 殿 ug
 毀 ut
-毁 jy
 毁 ug
+毁 jy
 毂 iu
 毂 ui
 毃 ug
@@ -32763,6 +32763,7 @@
 𠃖 gg
 𠃘 yy
 𠃙 jj
+𠃚 jg
 𠃛 aa
 𠃜 ua
 𠃝 yx
@@ -33971,6 +33972,8 @@
 𠕂 aa
 𠕂 ka
 𠕃 kw
+𠕄 ay
+𠕄 aa
 𠕅 ae
 𠕅 ke
 𠕆 ky
@@ -33987,6 +33990,7 @@
 𠕍 ka
 𠕍 pa
 𠕎 kr
+𠕏 ka
 𠕐 ki
 𠕑 kk
 𠕒 ad
@@ -35262,6 +35266,7 @@
 𠤪 bo
 𠤫 ba
 𠤫 pb
+𠤬 ay
 𠤭 kr
 𠤮 kj
 𠤯 kb
@@ -35270,6 +35275,7 @@
 𠤳 kg
 𠤴 kv
 𠤵 ku
+𠤶 ka
 𠤷 ky
 𠤸 kf
 𠤹 kq
@@ -40507,6 +40513,7 @@
 𡰱 ug
 𡰲 uu
 𡰳 ux
+𡰴 ag
 𡰵 up
 𡰶 uo
 𡰷 ud
@@ -42594,6 +42601,7 @@
 𢎔 wh
 𢎕 yi
 𢎖 yq
+𢎗 ag
 𢎙 hh
 𢎚 gd
 𢎛 gd
