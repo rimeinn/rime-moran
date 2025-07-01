@@ -1171,6 +1171,7 @@ AVL樹	avlu
 不	b	buad
 吧	b
 把	ba
+拔	ba
 巴	baa
 犮	baad
 疤	bab
@@ -1200,8 +1201,8 @@ AVL樹	avlu
 北愛爾蘭	bael
 把兒	baer
 爸	baf
-拔	bafb
 扒	bafb
+拔	bafb
 捌	bafb
 把風	bafg
 八方	bafh
@@ -1887,7 +1888,6 @@ AVL樹	avlu
 不斷積累	bdjl
 被動技能	bdjn
 博大精深	bdju
-勃大莖深	bdju
 不懂就問	bdjw
 遍地開花	bdkh
 八度空間	bdkj
@@ -5104,6 +5104,7 @@ AVL樹	avlu
 不怒自威	bnzw
 不能自已	bnzy
 不能左右	bnzy
+播	bo
 撥	bo
 癶	boa
 博愛	boai
@@ -5143,12 +5144,13 @@ AVL樹	avlu
 郣	boe
 波恩	boen
 撥兒	boer
-播	bof
+搏	bof
 播發	bofa
 勃發	bofa
 缽	bofb
 挬	bofb
 搏	bofc
+撥	boff
 播	boff
 波峯	bofg
 播放	bofh
@@ -9223,7 +9225,7 @@ C++	cjj
 搓成	coig
 齹	coii
 錯處	coiu
-錯	coj
+銼	coj
 搓腳	cojc
 錯將	cojd
 撮箕	coji
@@ -9256,13 +9258,14 @@ C++	cjj
 錯填	cotm
 蹉跎	coto
 錯退	cotv
-磋	cou
+矬	cou
 錯殺	coua
 搓手	coub
 措手	coub
 磋商	couh
 措施	coui
 錯失	coui
+磋	coui
 嵯	coui
 矬	couz
 挫折	cove
@@ -49484,6 +49487,7 @@ JK制服	jkvf
 拉開比分	lkbf
 老闆	lkbj
 勞保	lkbk
+老鴇	lkbk
 癆	lkbl
 老伯	lkbo
 勞步	lkbu
@@ -51380,7 +51384,6 @@ JK制服	jkvf
 立體幾何	ltjh
 立體交叉	ltji
 聊天記錄	ltjl
-露頭就秒	ltjm
 略舉	ltju
 略加	ltjw
 蘭亭集序	ltjx
@@ -52565,6 +52568,7 @@ JK制服	jkvf
 令郎	lylh
 燎原烈火	lylh
 凌厲	lyli
+伶俐	lyli
 伶牙俐齒	lyli
 零落	lylo
 凌亂	lylr
@@ -77329,6 +77333,7 @@ P圖	ptu
 同組	tszu
 同族	tszu
 天天	tt
+偷偷	tt
 天天愛消除	ttai
 貪圖安逸	ttay
 忐忑不安	ttba
@@ -113666,6 +113671,7 @@ WiFi	wifi
 阼	zoe
 作惡	zoee
 昨兒	zoer
+撮	zof
 做法	zofa
 作風	zofg
 作坊	zofh
@@ -122575,9 +122581,9 @@ SD卡	sdk
 誤以爲	wyw
 文言文	wyw
 玩一玩	wyw
-聞一下	wyx
-玩遊戲	wyx
 問一下	wyx
+玩遊戲	wyx
+聞一下	wyx
 網易雲	wyy
 烏泱泱	wyy
 無意義	wyy
