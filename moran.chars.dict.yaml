@@ -101693,10 +101693,10 @@ use_preset_vocabulary: false
 𫲡	zi;zy	0	# auto
 𫲪	yb;yz	0	# auto
 𫲪	yb;zy	0	# auto
-𫲯	dv;pz	0	# auto
-𫲯	dv;zk	0	# auto
-𫲯	ig;pz	0	# auto
-𫲯	ig;zk	0	# auto
+𫲯	dv;jz	0
+𫲯	dv;zk	0
+𫲯	ig;jz	0
+𫲯	ig;zk	0
 𫲱	lr;sz	0	# auto
 𫲱	lr;zs	0	# auto
 𫲱	si;sz	0	# auto
@@ -103236,12 +103236,15 @@ use_preset_vocabulary: false
 𬛶	vi;vl	0	# auto
 𬛷	jn;vl	0	# auto
 𬛷	vi;vl	0	# auto
-𬛺	gw;pk	0	# auto
-𬛺	ko;pk	0	# auto
-𬛻	ig;pi	0	# auto
-𬛻	ug;pi	0	# auto
-𬛼	yu;yi	0	# auto
-𬛽	jw;pj	0	# auto
+𬛺	gw;jk	0
+𬛺	ko;jk	0
+𬛺	gw;ku	0
+𬛺	ko;ku	0
+𬛻	ig;ji	0
+𬛻	ug;ji	0
+𬛼	yu;ji	0
+𬛼	yu;iy	0
+𬛽	jw;jj	0
 𬛾	mz;jm	0	# auto
 𬛾	mz;mj	0	# auto
 𬜀	sb;ax	0	# auto
