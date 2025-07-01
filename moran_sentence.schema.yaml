@@ -263,8 +263,9 @@ recognizer:
 
 recognizer_secondary:
   patterns:
-    # {4} 表示輸入長度達到 4 後開始輸出英語
-    english: '^[A-Za-z]{4}[A-Za-z]*'
+    # 輸入長度達到 4 後開始輸出英語 *或* 前 4 字母中有大寫字母
+    english: '(^[A-Za-z]{4}[A-Za-z]*)|(^[A-Z][A-Za-z]*)|(^[a-z][A-Z][a-zA-Z]*)|(^[a-z][a-z][A-Z][a-zA-Z]*)'
+    # 其他可能的設置請參見 moran.schema.yaml
 
 moran:
   # 「通用」字符集設置
