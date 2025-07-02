@@ -7723,9 +7723,8 @@
 元 aw
 元 ee
 兄 ke
-充 dy
-充 es
 充 wy
+充 es
 兆 ed
 兆 dd
 兇 ex
@@ -10128,9 +10127,8 @@
 壂 tu
 壃 tj
 壄 tm
-壅 dt
-壅 tv
 壅 ty
+壅 tv
 壅 wt
 壆 jt
 壆 tb
@@ -12282,7 +12280,6 @@
 彤 pd
 彥 pi
 彥 wp
-彦 dp
 彦 ip
 彦 wp
 彧 kp
@@ -20558,9 +20555,8 @@
 祾 ul
 祿 ul
 祿 uu
-禀 du
-禀 uh
 禀 wu
+禀 uh
 禁 ul
 禂 uv
 禃 uv
@@ -32342,15 +32338,11 @@
 齌 hq
 齌 qh
 齌 wh
-齍 dm
 齍 qm
 齍 wm
-齎 db
-齎 dd
 齎 qb
 齎 wb
 齏 qj
-齏 da
 齏 wh
 齏 wj
 齐 wa
@@ -42704,7 +42696,7 @@
 𢏺 gg
 𢏺 gb
 𢏻 gp
-𢏻 pp
+𢏻 dp
 𢏼 gm
 𢏽 ad
 𢏽 gd
