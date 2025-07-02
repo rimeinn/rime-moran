@@ -200,6 +200,8 @@ pinyinhint:
   opencc_config: moran_pinyinhint.json
   tips: char
   show_in_comment: true
+  comment_format:
+    __include: :/chaifen/comment_format
 
 emoji:
   opencc_config: moran_emoji.json
