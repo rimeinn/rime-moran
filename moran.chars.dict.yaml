@@ -6873,6 +6873,7 @@ use_preset_vocabulary: false
 帩	qc;jx	0
 帪	vf;ji	0
 師	ui;vb	0
+師	ui;vj	0
 帬	jp;jj	0
 帬	qp;jj	0
 席	xi;jc	208395
@@ -12855,6 +12856,7 @@ use_preset_vocabulary: false
 沜	pj;dp	0
 沝	vv;uu	0
 沞	za;db	0
+沞	za;dj	0
 沟	gb;dg	80789
 沠	lq;dv	0
 没	mo;du	99019
@@ -29783,6 +29785,7 @@ use_preset_vocabulary: false
 韲	jq;wj	0
 音	yn;lo	1100301
 韴	za;yb	0
+韴	za;yj	0
 韵	yp;yy	65628
 韶	uk;yv	13303
 韷	le;yi	0
@@ -31573,6 +31576,7 @@ use_preset_vocabulary: false
 鳽	jm;nk	0
 鳽	yj;nk	0
 鳾	ui;nb	0
+鳾	ui;nj	0
 鳿	yu;nw	0
 鳿	yu;wn	0
 鴀	fb;nb	0
@@ -33702,6 +33706,7 @@ use_preset_vocabulary: false
 㺧	xc;qx	0
 㺯	ns;wd	0
 㺰	ui;wb	0
+㺰	ui;wj	0
 㺶	jq;wd	0
 㺻	fu;wf	0
 㺼	xr;wp	0
@@ -39343,7 +39348,8 @@ use_preset_vocabulary: false
 䞗	cl;zc	0	# auto
 䞗	il;zc	0	# auto
 䞘	qi;zq	0	# auto
-䞙	za;zz	0	# auto
+䞙	za;zb	0
+䞙	za;zj	0
 䞚	kv;zv	0	# auto
 䞚	qi;zv	0	# auto
 䞛	yj;zg	0	# auto
@@ -40879,7 +40885,8 @@ use_preset_vocabulary: false
 䴐	bk;nb	0	# auto
 䴑	dx;nd	0	# auto
 䴒	ly;nl	0	# auto
-䴓	ui;nz	0	# auto
+䴓	ui;nb	0
+䴓	ui;nj	0
 䴔	jc;nj	0	# auto
 䴕	lx;nl	0	# auto
 䴖	jy;nq	0	# auto
@@ -41793,9 +41800,11 @@ use_preset_vocabulary: false
 𠯑	gw;ku	0	# auto
 𠯓	ve;kj	0	# auto
 𠯔	pi;kp	0	# auto
-𠯗	za;kz	0	# auto
+𠯗	za;kb	0
+𠯗	za;kj	0
 𠯘	bj;kf	0	# auto
-𠯙	jx;kj	0	# auto
+𠯙	jx;ky	0
+𠯙	jx;kd	0
 𠯜	hb;kg	0	# auto
 𠯜	xu;kg	0	# auto
 𠯟	xm;kj	0	# auto
@@ -73585,9 +73594,10 @@ use_preset_vocabulary: false
 𠦤	uj;ka	0	# auto
 𠦨	lr;pu	0	# auto
 𠦨	lr;up	0	# auto
-𠦴	ie;ua	0	# auto
-𠦵	ui;du	0	# auto
-𠦵	ui;uu	0	# auto
+𠦴	ie;uu	0
+𠦵	ui;au	0
+𠦵	ui;du	0
+𠦵	ui;uu	0
 𠦶	ge;ca	0	# auto
 𠦷	gr;vb	0	# auto
 𠦷	wo;vb	0	# auto
@@ -83954,7 +83964,8 @@ use_preset_vocabulary: false
 𤜨	tp;qa	0	# auto
 𤜩	bk;qp	0	# auto
 𤜩	vo;qp	0	# auto
-𤜳	ui;qj	0	# auto
+𤜳	ui;qb	0
+𤜳	ui;qj	0
 𤜴	yb;qb	0	# auto
 𤜶	vk;qv	0	# auto
 𤜺	yj;qv	0	# auto
@@ -94511,7 +94522,8 @@ use_preset_vocabulary: false
 𨥒	jp;jy	0	# auto
 𨥒	jp;yj	0	# auto
 𨥘	yt;jd	0	# auto
-𨥚	za;jj	0	# auto
+𨥚	za;jb	0
+𨥚	za;jj	0
 𨥡	if;jj	0	# auto
 𨥢	qs;jy	0	# auto
 𨥢	qs;kj	0	# auto
@@ -96871,7 +96883,8 @@ use_preset_vocabulary: false
 𩡴	hj;mq	0	# auto
 𩡵	bk;mu	0	# auto
 𩡶	mu;mt	0	# auto
-𩡸	ui;mj	0	# auto
+𩡸	ui;mb	0
+𩡸	ui;mj	0
 𩡹	yi;mq	0	# auto
 𩡻	yk;my	0	# auto
 𩡼	pm;mb	0	# auto
@@ -97857,7 +97870,8 @@ use_preset_vocabulary: false
 𩿍	ii;nh	0	# auto
 𩿎	ya;ny	0	# auto
 𩿎	ya;yn	0	# auto
-𩿐	ui;nj	0	# auto
+𩿐	ui;nb	0
+𩿐	ui;nj	0
 𩿒	ii;an	0	# auto
 𩿒	ii;ny	0	# auto
 𩿖	he;ny	0	# auto
@@ -102486,8 +102500,9 @@ use_preset_vocabulary: false
 𬅷	se;vd	0	# auto
 𬅸	uh;uv	0	# auto
 𬅸	uh;vu	0	# auto
-𬅹	bi;av	0	# auto
-𬅹	bi;vj	0	# auto
+𬅹	bi;av	0
+𬅹	bi;vb	0
+𬅹	bi;vj	0
 𬅹	ci;av	0	# auto
 𬅹	ci;vj	0	# auto
 𬅹	yy;av	0	# auto
@@ -103896,7 +103911,8 @@ use_preset_vocabulary: false
 𬰤	vb;gv	0	# auto
 𬰥	ld;gl	0	# auto
 𬰧	sv;gu	0	# auto
-𬰪	za;wj	0	# auto
+𬰪	za;wb	0
+𬰪	za;wj	0
 𬰫	zi;gw	0	# auto
 𬰫	zi;wu	0	# auto
 𬰭	wz;wd	0	# auto
@@ -103964,7 +103980,8 @@ use_preset_vocabulary: false
 𬱻	sa;le	0	# auto
 𬱼	kl;qf	0	# auto
 𬲆	ru;fy	0	# auto
-𬲌	ci;uj	0	# auto
+𬲌	ci;ub	0
+𬲌	ci;uj	0
 𬲏	zl;gu	0	# auto
 𬲏	zl;uu	0	# auto
 𬲓	xq;uy	0	# auto
@@ -121894,6 +121911,7 @@ use_preset_vocabulary: false
 桚	za;mx	0
 沯	za;uu	0
 魳	za;yb	0
+魳	za;yj	0
 㞨	zl;uz	0
 㴓	zl;ds	0
 溨	zl;dz	0
