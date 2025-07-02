@@ -8668,8 +8668,9 @@ C++	cjj
 財經委員會	cjwh
 參悟	cjwu
 才兼文武	cjww
-慘	cjx
+慚	cjx
 慘笑	cjxc
+惨	cjxc
 參詳	cjxd
 慘象	cjxd
 憯	cjxo
@@ -20630,9 +20631,9 @@ F盤	fpj
 父債子還	fvzh
 髮指眥裂	fvzl
 飛針走線	fvzx
-服務	fw
 範圍	fw
 氛圍	fw
+服務	fw
 分文不取	fwbq
 防僞標識	fwbu
 分文不收	fwbu
@@ -20695,6 +20696,7 @@ F盤	fpj
 訪問調查	fwti
 服務投訴	fwts
 服務體系	fwtx
+服務	fwu
 奉爲上賓	fwub
 訪問深度	fwud
 服務時間	fwuj
@@ -39503,7 +39505,6 @@ I盤	ipj
 金雞納霜	jjnu
 絞盡腦汁	jjnv
 經久耐用	jjny
-金家坪村	jjpc
 經濟頻道	jjpd
 經濟評估	jjpg
 積極配合	jjph
@@ -40465,7 +40466,7 @@ JK制服	jkvf
 緊促	jncu
 緊蹙	jncu
 盡瘁	jncv
-津	jnd
+浸	jnd
 筋斗	jndb
 紀念大會	jndh
 禁地	jndi
@@ -40480,8 +40481,9 @@ JK制服	jkvf
 近東	jnds
 進度	jndu
 暨南大學	jndx
-浸	jndy
 緊盯	jndy
+津	jndy
+浸	jndy
 卺	jne
 金額	jnee
 九牛二虎	jneh
@@ -78054,7 +78056,7 @@ P圖	ptu
 推行	tvxy
 退行	tvxy
 停止響應	tvxy
-頹	tvy
+褪	tvy
 挺直腰板	tvyb
 挺重要的	tvyd
 添置衣服	tvyf
@@ -78069,8 +78071,9 @@ P圖	ptu
 特種郵票	tvyp
 通知要求	tvyq
 躺着也中槍	tvyq
-褪	tvyt
+頹	tvyt
 投之以桃	tvyt
+褪	tvyt
 通知一聲	tvyu
 天真幼稚	tvyv
 聽者有心	tvyx
@@ -82844,7 +82847,6 @@ T恤衫	txuj
 收攬人心	ulrx
 說來容易	ulry
 生離死別	ulsb
-石龍寺村	ulsc
 順利通過	ultg
 十里桃花	ulth
 數理統計	ultj
@@ -83778,6 +83780,7 @@ U盤	upj
 生死難料	usnl
 勢所難免	usnm
 神色凝重	usnv
+實時	uso
 聲色犬馬	usqm
 視死如歸	usrg
 神色如常	usri
@@ -89035,7 +89038,6 @@ U盤	upj
 知名人物	vmrw
 這麼容易	vmry
 衆目四望	vmsw
-中碼頭村	vmtc
 專門調查	vmti
 直面天命	vmtm
 殖民統治	vmtv
@@ -95504,6 +95506,7 @@ WiFi	wifi
 未聞花名	wwhm
 微微顫抖	wwid
 往往就是	wwje
+萬物競發	wwjf
 往往就會	wwjh
 文文靜靜	wwjj
 五味俱全	wwjq
@@ -98036,10 +98039,11 @@ WiFi	wifi
 潝	xidx
 新陳代謝	xidx
 隙	xie
-隰	xied
 喜惡	xiee
 郤	xieg
+隰	xieh
 酅	xiej
+隰	xies
 郗	xiex
 鄎	xiex
 郋	xiez
@@ -98539,7 +98543,6 @@ WiFi	wifi
 先進技術	xjju
 現金交易	xjjy
 先進經驗	xjjy
-下江口村	xjkc
 胸襟開闊	xjkk
 形跡可疑	xjky
 行跡可疑	xjky
@@ -100541,7 +100544,6 @@ WiFi	wifi
 協調溝通	xtgt
 行同狗彘	xtgv
 形態各異	xtgy
-斜灘河村	xthc
 血痕	xthf
 血汗	xthj
 學號	xthk
@@ -116764,6 +116766,7 @@ WiFi	wifi
 二極管	ejg
 已經是	eju
 二進制	ejv
+Excel	eks
 二老闆	elb
 鄂倫春	eli
 餓了麼	elm
@@ -118851,6 +118854,7 @@ git	git
 可能就	knj
 可能嗎	knm
 可能是	kns
+Keynote	knt
 可能是	knu
 可能性	knx
 康乃馨	knx
@@ -119342,6 +119346,7 @@ git	git
 沒保障	mbv
 明擺着	mbv
 摸不着	mbv
+麪包屑	mbx
 沒兵線	mbx
 沒必要	mby
 抹脖子	mbz
@@ -120033,6 +120038,7 @@ git	git
 娜茲玲	nzl
 農作物	nzw
 偶氮基	odj
+Office	ofs
 歐共體	ogt
 偶函數	ohu
 歐羅巴	olb
@@ -120153,7 +120159,8 @@ git	git
 批評家	ppj
 乒乓球	ppq
 飄飄然	ppr
-泡泡糖	ppt
+PPT	ppt
+PowerPoint	ppt
 評判員	ppy
 撇撇嘴	ppz
 爬牆虎	pqh
@@ -120856,6 +120863,7 @@ SD卡	sdk
 算了吧	slb
 塑料袋	sld
 三聯單	sld
+斯拉夫	slf
 賽璐玢	slf
 三連冠	slg
 司令官	slg
@@ -121269,6 +121277,7 @@ SD卡	sdk
 通通氣	ttq
 淘汰賽	tts
 團體賽	tts
+天梯圖	ttt
 提提神	ttu
 天台山	ttu
 團團轉	ttv
@@ -121677,6 +121686,7 @@ SD卡	sdk
 石炭酸	uts
 手提式	utu
 曬圖紙	utv
+生態位	utw
 豎條紋	utw
 試探性	utx
 滲透性	utx
@@ -121707,7 +121717,6 @@ SD卡	sdk
 雙週刊	uvk
 睡着了	uvl
 上中農	uvn
-少壯派	uvp
 水蒸氣	uvq
 生殖器	uvq
 生長期	uvq
@@ -122461,6 +122470,7 @@ SD卡	sdk
 五禽戲	wqx
 文曲星	wqx
 完全葉	wqy
+Word	wrd
 無人機	wrj
 萬人坑	wrk
 萬人迷	wrm
