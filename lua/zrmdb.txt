@@ -2752,6 +2752,7 @@
 㺮 wx
 㺯 wd
 㺰 wb
+㺰 wj
 㺱 ry
 㺲 wi
 㺳 ww
@@ -5097,7 +5098,8 @@
 䞖 zy
 䞗 zc
 䞘 zq
-䞙 zz
+䞙 zb
+䞙 zj
 䞚 zv
 䞛 zg
 䞜 zb
@@ -6515,7 +6517,8 @@
 䴐 nb
 䴑 nd
 䴒 nl
-䴓 nz
+䴓 nb
+䴓 nj
 䴔 nj
 䴕 nl
 䴖 nq
@@ -11842,6 +11845,7 @@
 帩 jx
 帪 ji
 師 vb
+師 vj
 帬 jj
 席 jc
 席 gj
@@ -16501,6 +16505,7 @@
 沜 dp
 沝 uu
 沞 db
+沞 dj
 沟 dg
 沠 dv
 没 du
@@ -30052,6 +30057,7 @@
 韲 wj
 音 lo
 韴 yb
+韴 yj
 韵 yy
 韶 yv
 韷 yi
@@ -31117,6 +31123,7 @@
 魱 yh
 魲 yh
 魳 yb
+魳 yj
 魴 yf
 魵 yf
 魶 yn
@@ -31563,6 +31570,7 @@
 鳼 nw
 鳽 nk
 鳾 nb
+鳾 nj
 鳿 nw
 鳿 wn
 鴀 nb
@@ -35410,7 +35418,8 @@
 𠦰 uq
 𠦱 ul
 𠦲 vu
-𠦴 ua
+𠦴 uu
+𠦵 au
 𠦵 du
 𠦵 uu
 𠦶 ca
@@ -36063,9 +36072,11 @@
 𠯔 kp
 𠯕 kp
 𠯖 kh
-𠯗 kz
+𠯗 kb
+𠯗 kj
 𠯘 kf
-𠯙 kj
+𠯙 ky
+𠯙 kd
 𠯚 ke
 𠯛 ku
 𠯛 pg
@@ -52454,6 +52465,7 @@
 𤜲 qu
 𤜲 qk
 𤜲 uq
+𤜳 qb
 𤜳 qj
 𤜴 qb
 𤜵 qj
@@ -69849,6 +69861,7 @@
 𨥗 uj
 𨥘 jd
 𨥙 jj
+𨥚 jb
 𨥚 jj
 𨥛 jh
 𨥜 jy
@@ -74033,6 +74046,7 @@
 𩡵 mu
 𩡶 mt
 𩡷 mq
+𩡸 mb
 𩡸 mj
 𩡹 mq
 𩡺 mj
@@ -76011,6 +76025,7 @@
 𩿎 yn
 𩿏 un
 𩿏 nu
+𩿐 nb
 𩿐 nj
 𩿑 nj
 𩿑 an
@@ -83737,6 +83752,7 @@
 𬅸 uv
 𬅸 vu
 𬅹 av
+𬅹 vb
 𬅹 vj
 𬅺 av
 𬅺 vo
@@ -85846,6 +85862,7 @@
 𬰥 gl
 𬰧 gu
 𬰩 gj
+𬰪 wb
 𬰪 wj
 𬰫 gw
 𬰫 wu
@@ -85930,6 +85947,7 @@
 𬲀 fh
 𬲅 fx
 𬲆 fy
+𬲌 ub
 𬲌 uj
 𬲍 uf
 𬲏 gu
