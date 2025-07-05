@@ -31931,7 +31931,6 @@ use_preset_vocabulary: false
 鷩	bi;nw	0
 鷩	bx;nb	0
 鷩	bx;nw	0
-鷪	yy;mn	0
 鷪	yy;nb	0
 鷪	yy;on	0
 鷫	su;ns	0
@@ -56047,8 +56046,8 @@ use_preset_vocabulary: false
 𪨢	xw;ux	0	# auto
 𡙑	vi;wj	0	# auto
 𡙑	vi;dx	0	# auto
-𡄝	xi;cg	0	# auto
-𡄝	xi;kg	0	# auto
+𡄝	xi;cg	0
+𡄝	xi;ck	0
 𬀯	ze;oh	0	# auto
 𡼢	xp;ux	0	# auto
 𪅂	vh;vn	0	# auto
@@ -60680,7 +60679,8 @@ use_preset_vocabulary: false
 𦏨	ml;yb	0	# auto
 𦴵	di;cd	0	# auto
 𠳜	ml;kd	0	# auto
-𪨌	wz;uq	0	# auto
+𪨌	wz;uq	0
+𪨌	wz;ug	0
 𪞭	jc;dy	0	# auto
 𡫠	ie;bi	0	# auto
 𬋡	cr;hd	0	# auto
@@ -68697,8 +68697,8 @@ use_preset_vocabulary: false
 𨤄	jm;yx	0	# auto
 𠘌	jd;dy	0	# auto
 𦷢	wu;cx	0	# auto
-𫬔	xi;kc	0	# auto
-𫬔	xi;vk	0	# auto
+𫬔	xi;uk	0
+𫬔	xi;kc	0
 𤛪	xs;nl	0	# auto
 𩒀	vf;yx	0	# auto
 𩒀	vf;ry	0	# auto
@@ -76635,8 +76635,10 @@ use_preset_vocabulary: false
 𡱒	tp;ug	0	# auto
 𡱓	wz;cj	0	# auto
 𡱓	yi;cj	0	# auto
-𡱕	wz;ua	0	# auto
-𡱕	yi;ua	0	# auto
+𡱕	wz;uq	0
+𡱕	yi;uq	0
+𡱕	wz;ug	0
+𡱕	yi;ug	0
 𡱞	ie;uc	0	# auto
 𡱞	ii;uc	0	# auto
 𡱟	yp;uz	0	# auto
