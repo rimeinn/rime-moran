@@ -104763,8 +104763,7 @@ use_preset_vocabulary: false
 𭄾	ju;lc	0	# auto
 𭄿	qr;cl	0	# auto
 𭄿	qr;lv	0	# auto
-𭅃	qr;la	0	# auto
-𭅃	qr;wl	0	# auto
+𭅃	qr;lv	0
 𭅄	xs;gy	0	# auto
 𭅅	xs;gy	0	# auto
 𭅊	tk;gv	0	# auto
@@ -109715,9 +109714,9 @@ use_preset_vocabulary: false
 𮥤	ts;et	0	# auto
 𮥯	ge;ek	0	# auto
 𮥲	yj;ex	0	# auto
-𮥴	by;ad	0	# auto
-𮥴	dl;ad	0	# auto
-𮥴	li;ad	0	# auto
+𮥴	by;al	0
+𮥴	dl;al	0
+𮥴	li;al	0
 𮥵	dl;lu	0	# auto
 𮥵	dl;vl	0	# auto
 𮥵	li;lu	0	# auto
@@ -109728,8 +109727,8 @@ use_preset_vocabulary: false
 𮥷	wf;wv	0	# auto
 𮥸	jp;rn	0	# auto
 𮥸	jp;vn	0	# auto
-𮥹	gr;wa	0	# auto
-𮥹	hr;wa	0	# auto
+𮥹	gr;wv	0
+𮥹	hr;wv	0
 𮥺	vi;vi	0	# auto
 𮥼	jp;vj	0	# auto
 𮥼	jr;vj	0	# auto
@@ -122092,6 +122091,7 @@ use_preset_vocabulary: false
 𢎗	nl;ag	0
 𡰴	yi;ag	0
 𡰴	yn;ag	0
+㐃	ma;sa	0
 
 # CJK Ext I
 𤚴	fj;nm	0
