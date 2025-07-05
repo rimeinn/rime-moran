@@ -17,6 +17,7 @@
 㐁 aa
 㐁 ak
 㐂 qq
+㐃 sa
 㐄 aa
 㐄 fg
 㐅 pd
@@ -86839,8 +86840,7 @@
 𭄾 lc
 𭄿 cl
 𭄿 lv
-𭅃 la
-𭅃 wl
+𭅃 lv
 𭅄 gy
 𭅅 gy
 𭅇 gv
@@ -90991,7 +90991,7 @@
 𮥯 ek
 𮥰 eq
 𮥲 ex
-𮥴 ad
+𮥴 al
 𮥵 lu
 𮥵 vl
 𮥶 ra
@@ -90999,7 +90999,7 @@
 𮥷 wv
 𮥸 rn
 𮥸 vn
-𮥹 wa
+𮥹 wv
 𮥺 vi
 𮥼 vj
 𮥽 vy
