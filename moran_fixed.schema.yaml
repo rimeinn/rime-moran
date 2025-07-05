@@ -63,8 +63,8 @@ engine:
     - simplifier@std_tw
     - simplifier@std_dzing
     - simplifier
+    #- lua_filter@*moran_hint_filter  # 簡碼提示功能，詳見文件末
     - simplifier@emoji
-    #- lua_filter@*moran_quick_code_hint  # 簡碼提示功能，詳見文件末
     - uniquifier
 
 speller:
