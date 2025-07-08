@@ -1,10 +1,16 @@
 -- Moran Translator (for Express Editor)
 -- Copyright (c) 2023, 2024, 2025 ksqsf
 --
--- Ver: 0.8.1
+-- Ver: 0.9.0
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.10.0: 增加 inject_prioritize 支持。
+--
+-- 0.9.0: show_words_anyway 和 show_chars_anyway 分別更名爲
+-- inject_fixed_words 和 inject_fixed_chars。爲保持兼容性，原名還可以
+-- 繼續使用（優先級高於新名），但未來可能被刪除。
 --
 -- 0.8.1: 支持 word_filter_match_indicator。
 --
@@ -59,6 +65,10 @@
 local moran = require("moran")
 local top = {}
 
+local kAny = 0
+local kChar = 1
+local kWord = 2
+
 function top.init(env)
    env.fixed = Component.Translator(env.engine, "", "table_translator@fixed")
    env.smart = Component.Translator(env.engine, "", "script_translator@translator")
@@ -74,8 +84,17 @@ function top.init(env)
    env.enable_word_filter = env.engine.schema.config:get_bool("moran/enable_word_filter")
    env.word_filter_match_indicator = env.engine.schema.config:get_string("moran/word_filter_match_indicator")
    env.enable_aux_hint = env.engine.schema.config:get_bool("moran/enable_aux_hint")
-   env.show_chars_anyway = env.engine.schema.config:get_bool("moran/show_chars_anyway")
-   env.show_words_anyway = env.engine.schema.config:get_bool("moran/show_words_anyway")
+   env.inject_fixed_chars = env.engine.schema.config:get_bool("moran/show_chars_anyway") or env.engine.schema.config:get_bool("moran/inject_fixed_chars")
+   env.inject_fixed_words = env.engine.schema.config:get_bool("moran/show_words_anyway") or env.engine.schema.config:get_bool("moran/inject_fixed_words")
+
+   local inject_prioritize = env.engine.schema.config:get_string("moran/inject_prioritize")
+   if inject_prioritize == 'word' then
+      env.inject_prioritize = kWord
+   elseif inject_prioritize == 'char' then
+      env.inject_prioritize = kChar
+   else
+      env.inject_prioritize = kAny
+   end
 
    -- quick_code_hint 開啓時出簡讓全不應該輸出 comment，簡碼會由 quick_code_hint 輸出。
    env.enable_quick_code_hint = env.engine.schema.config:get_bool("moran/enable_quick_code_hint") or false
@@ -111,19 +130,19 @@ function top.func(input, seg, env)
       -- 如果輸入長度爲 4，只輸出 2 字詞。
       if fixed_res ~= nil then
          if (input_len == 4) then
-            if inflexible and env.show_words_anyway and env.show_chars_anyway then
-               -- 如果固詞, show_words_anyway 和 show_words_anyway 同時打開，則理解爲掛接用法，直接輸出碼表。
+            if inflexible and env.inject_fixed_words and env.inject_fixed_chars then
+               -- 如果固詞, inject_fixed_words 和 inject_fixed_chars 同時打開，則理解爲掛接用法，直接輸出碼表。
                for cand in fixed_res:iter() do
                   top.output_from_fixed(env, cand)
                end
-            elseif inflexible and env.show_words_anyway then
+            elseif inflexible and env.inject_fixed_words then
                -- 固詞 + 長詞 = 只有詞
                for cand in fixed_res:iter() do
                   if utf8.len(cand.text) > 1 then
                      top.output_word_from_fixed(env, cand)
                   end
                end
-            elseif inflexible and env.show_chars_anyway then
+            elseif inflexible and env.inject_fixed_chars then
                -- 固詞 + 單字 = 只有單字和二字詞
                for cand in fixed_res:iter() do
                   local cand_len = utf8.len(cand.text)
@@ -155,17 +174,43 @@ function top.func(input, seg, env)
    local fixed_triggered = env.output_i > 0
 
    -- 注入到首選後的選項
-   -- 目前的用例：show_chars_anyway 爲真時，將簡碼碼表中的單字取出來
+   -- 目前的用例：在動詞模式下處理 inject_fixed_chars 和 inject_fixed_words
+   -- 注意，爲了提高常規情況（inject_prioritize = kAny）的性能，
+   -- (1) 在此種情況下，下面的代碼會直接修改 env.output_injected_secondary
+   -- (2) inject_prioritize != kAny 時會先把結果寄存在 inject_chars 和 inject_words 中
+   --     在遍歷完成後才得到 env.output_injected_secondary
    env.output_injected_secondary = {}
+   local inject_has_priority = env.inject_prioritize and (env.inject_prioritize ~= kAny)
+   local inject_chars = {}  -- valid only when inject_has_priority
+   local inject_words = {}  -- valid only when inject_has_priority
+   local num_injections = 0 -- valid only when inject_has_priority
    if (not fixed_triggered and input_len == 4) then
       for cand in moran.query_translation(env.fixed, input, seg, nil) do
          local cand_len = utf8.len(cand.text)
-         if (env.show_chars_anyway and cand_len == 1) or (env.show_words_anyway and cand_len > 2) then
+         if (env.inject_fixed_chars and cand_len == 1) or (env.inject_fixed_words and cand_len > 2) then
             if cand_len ~= 1 or (cand_len == 1 and not env.quick_code_indicator_skip_chars) then
                cand:get_genuine().comment = indicator
             end
-            table.insert(env.output_injected_secondary, cand)
+            if not inject_has_priority then
+               table.insert(env.output_injected_secondary, cand)
+            else
+               num_injections = num_injections + 1
+               if cand_len == 1 then
+                  inject_chars[num_injections] = cand
+               else
+                  inject_words[num_injections] = cand
+               end
+            end
          end
+      end
+   end
+   if inject_has_priority then
+      if env.inject_prioritize == kChar then
+         env.output_injected_secondary = top.append_lists(num_injections, inject_chars, inject_words)
+      elseif env.inject_prioritize == kWord then
+         env.output_injected_secondary = top.append_lists(num_injections, inject_words, inject_chars)
+      else
+         log.error("env.inject_prioritize has an invalid value: " .. tostring(env.inject_prioritize))
       end
    end
 
@@ -313,6 +358,22 @@ function top.raw_query_smart(env, input, seg, with_comment)
       return cand
    end
    return moran.query_translation(env.smart, input, seg, transform)
+end
+
+-- Merge non-nil values in l1 and l2 into a new list.
+function top.append_lists(max, l1, l2)
+   local result = {}
+   for i = 1, max do
+      if l1[i] ~= nil then
+         table.insert(result, l1[i])
+      end
+   end
+   for i = 1, max do
+      if l2[i] ~= nil then
+         table.insert(result, l2[i])
+      end
+   end
+   return result
 end
 
 return top
