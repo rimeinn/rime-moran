@@ -306,7 +306,8 @@ key_binder:
   import_preset: default
   custom_bindings:
     __append:
-      # 在這裏添加只在本方案中生效的按鍵綁定
+      # 在這裏添加只在本方案中生效的按鍵綁定，如
+      # - { when: has_menu, accept: apostrophe, send: '3' }  # 單引號3選
   bindings:
     __patch:
       - :/key_binder/custom_bindings?
@@ -399,8 +400,8 @@ moran:
   quick_code_hint_skip_chars: false
 
   # 輸入四碼時，如果簡碼碼表中含有對應條目，則放置在第二選項。
-  show_chars_anyway: false   # 是否輸出簡碼碼表單字，例：輸入 jwrg 時，次選爲「佳」
-  show_words_anyway: true   # 是否輸出簡碼碼表詞語，例：輸入 lmsd 時，次選爲「兩面三刀」
+  inject_fixed_chars: false   # 是否輸出簡碼碼表單字，例：輸入 jwrg 時，次選爲「佳」
+  inject_fixed_words: true    # 是否輸出簡碼碼表詞語，例：輸入 lmsd 時，次選爲「兩面三刀」
 
   # 「置頂」功能相關設置
   # 輸入時通過快捷鍵 Ctrl+t 可以將高亮顯示的候選置頂，被置頂的候選位置固定，不再參與調頻
