@@ -147,4 +147,29 @@ deploy:
       - send: 'mzfadsl2{Control+l}{Control+l}'
         assert: eq(cand[1].text, '賽')
 
+  inject_chars:
+    patch:
+      moran/inject_fixed_chars: true
+    tests:
+      - send: 'wuyw'
+        assert: eq(cand[1].text, '霧') and eq(cand[2].text, '誣') and eq(cand[3].text, '爲時已晚')
+
+  inject_words_first:
+    patch:
+      moran/inject_fixed_words: true
+      moran/inject_fixed_chars: true
+      moran/inject_prioritize: 'word'
+    tests:
+      - send: 'wuyw'
+        assert: eq(cand[1].text, '霧') and eq(cand[2].text, '爲時已晚') and eq(cand[3].text, '誣')
+
+  inject_chars_first:
+    patch:
+      moran/inject_fixed_words: true
+      moran/inject_fixed_chars: true
+      moran/inject_prioritize: 'char'
+    tests:
+      - send: 'wuyw'
+        assert: eq(cand[1].text, '霧') and eq(cand[2].text, '誣') and eq(cand[5].text, '爲時已晚')
+
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rimeinn/mira/refs/heads/master/spec/mira.schema.json
