@@ -10203,20 +10203,27 @@ MIDI鍵盤	1	midi jm;jj pj;mb
 總譜
 
 # 中西混合詞
+哆啦A夢	100	do;kd la;kl A mg;cx
 哆啦A夢	100	do;kd la;kl aa mg;cx
 哆啦A夢	100	do;kd la;kl ei mg;cx
-卡拉OK	100	ka;bx la;fl ok
+U盤	100	U pj;mb
 U盤	100	yb pj;mb
+T恤	100	T xu;xx
 T恤	100	ti xu;xx
 up主	100	up vu;dw
+QQ羣	100	QQ qp;yj
 QQ羣	100	qq qp;yj
 高ping	100	gk;wk ping
 高ping	100	gk;dk ping
 高ping	100	gk;wk py
 高ping	100	gk;dk py
 打call	10	da;fd kk
+K歌	10	K ge;qg
 K歌	10	kz ge;qg
+卡拉OK	10	ka;ux la;fl OK
+卡拉OK	100	ka;bx la;fl ok
 卡拉OK	10	ka;ux la;fl ou kz
+OK	10	OK
 OK	10	ou kz
 
 # 整句可用的無理碼
