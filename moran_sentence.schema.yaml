@@ -106,12 +106,12 @@ custom_phrase: # 自定義短語
   initial_quality: 10
 
 english:
-  # tag: english  # librime>=0.12 方可取消註釋
+  tag: english  # librime<=1.11 請在 custom 中置空
   dictionary: moran_english
   enable_completion: true
   enable_sentence: false
   enable_user_dict: true
-  initial_quality: 1
+  initial_quality: 0
   enable_encoder: false
   encode_commit_history: false
   comment_format:
