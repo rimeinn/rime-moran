@@ -332,14 +332,15 @@ recognizer:
     reverse_cangjie5: "^ocj[A-Za-z]*$"
     reverse_zrlf: "^olf[A-Za-z]*$"
     reverse_bopomofo: '^ovy[A-Za-z0-9,.;/\-]*$'
-    # CAVEAT: 排除 ^; 避免 ;d 無法自動上屏
-    # CAVEAT: ^o 只保留 ^ou 和 ^o$，避免反查被干擾
-    has_emoji: '(^[a-np-z][a-z/]*$)|(^[a-z]$)|(^ou[a-z/]*$)'
     # ojp 引導日語輸入
     japanese_o: '(^ojp[a-z]*$)'
 
 recognizer_secondary:
   patterns:
+    # CAVEAT: 排除 ^; 避免 ;d 無法自動上屏
+    # CAVEAT: ^o 只保留 ^ou 和 ^o$，避免反查被干擾
+    has_emoji: '(^[a-np-z][a-z/]*$)|(^[a-z]$)|(^ou[a-z/]*$)'
+
     # 1. 輸入長度達到 4 後開始輸出英語 *或* 前 4 字母中有大寫字母
     english: '(^[A-Za-z]{4}[A-Za-z]*)|(^[A-Z][A-Za-z]*)|(^[a-z][A-Z][a-zA-Z]*)|(^[a-z][a-z][A-Z][a-zA-Z]*)'
     # 2. 對任何輸入都輸出英語
