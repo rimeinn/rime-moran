@@ -5653,7 +5653,7 @@
 䦻 ez
 䦼 eg
 䦽 ey
-䦾 dy
+䦾 vy
 䦿 ev
 䧀 eh
 䧁 ej
@@ -15099,8 +15099,8 @@
 桅 mw
 框 mk
 桇 mr
-案 bm
 案 ma
+案 bm
 桉 ma
 桊 jm
 桊 mf
@@ -34446,18 +34446,23 @@
 𠛘 dd
 𠛙 db
 𠛚 yd
+𠛛 db
 𠛛 rd
 𠛜 jd
 𠛝 jr
 𠛞 db
 𠛞 dd
 𠛟 hd
+𠛠 de
 𠛠 xd
 𠛡 db
+𠛢 dv
 𠛢 vd
 𠛥 db
 𠛦 pd
+𠛧 dk
 𠛧 kd
+𠛨 dl
 𠛨 ld
 𠛩 ds
 𠛪 dv
@@ -34466,7 +34471,7 @@
 𠛬 dg
 𠛭 dy
 𠛮 dq
-𠛯 du
+𠛯 dj
 𠛰 dk
 𠛲 da
 𠛳 dh
@@ -34474,6 +34479,7 @@
 𠛵 dg
 𠛶 bd
 𠛷 dd
+𠛷 rd
 𠛸 vf
 𠛹 dc
 𠛹 da
@@ -40186,7 +40192,8 @@
 𡬛 bi
 𡬜 bh
 𡬜 hh
-𡬝 aa
+𡬝 ad
+𡬝 cd
 𡬟 hc
 𡬠 cd
 𡬠 sc
@@ -78384,6 +78391,7 @@
 𪛞 wr
 𪛟 ow
 𪜀 aa
+𪜀 ca
 𪜁 ya
 𪜂 yw
 𪜃 yy
@@ -94288,6 +94296,7 @@
 𰯹 jg
 𰯻 qj
 𰯻 zy
+𰯼 jx
 𰯾 ub
 𰰀 uy
 𰰂 vu

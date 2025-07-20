@@ -11098,8 +11098,8 @@ use_preset_vocabulary: false
 桅	wz;mw	594
 框	kd;mk	2631
 桇	ru;mr	268
-案	an;bm	5662
 案	an;ma	5662
+案	an;bm	5662
 桉	an;ma	642
 桊	jr;jm	368
 桊	jr;mf	368
@@ -39951,7 +39951,7 @@ use_preset_vocabulary: false
 䦼	jt;eg	0	# auto
 䦼	pi;eg	0	# auto
 䦽	xu;ey	0	# auto
-䦾	yr;dy	0	# auto
+䦾	yr;vy	0
 䧁	xu;ej	0	# auto
 䧂	dk;ev	0	# auto
 䧃	tm;et	0	# auto
@@ -72950,7 +72950,8 @@ use_preset_vocabulary: false
 𠛖	ir;ad	0	# auto
 𠛗	jx;dd	0	# auto
 𠛚	uw;yd	0	# auto
-𠛛	ge;rd	0	# auto
+𠛛	ge;db	0
+𠛛	ge;rd	0
 𠛜	xy;jd	0	# auto
 𠛝	gg;jr	0	# auto
 𠛞	bf;db	0	# auto
@@ -72958,20 +72959,26 @@ use_preset_vocabulary: false
 𠛞	hh;db	0	# auto
 𠛞	hh;dd	0	# auto
 𠛟	yi;hd	0	# auto
-𠛠	wj;xd	0	# auto
-𠛢	ge;vd	0	# auto
+𠛠	wj;de	0
+𠛠	wj;xd	0
+𠛢	ge;dv	0
+𠛢	ge;vd	0
 𠛦	li;pd	0	# auto
-𠛧	bk;kd	0	# auto
-𠛧	bo;kd	0	# auto
-𠛨	ii;ld	0	# auto
+𠛧	bk;dk	0
+𠛧	bk;kd	0
+𠛧	bo;dk	0
+𠛧	bo;kd	0
+𠛨	ii;dl	0
+𠛨	ii;ld	0
 𠛬	xy;dk	0	# auto
 𠛬	xy;dg	0	# auto
-𠛯	vi;du	0	# auto
+𠛯	vi;dj	0
 𠛰	bx;dk	0	# auto
 𠛲	id;da	0	# auto
 𠛴	ia;dx	0	# auto
 𠛴	ua;dx	0	# auto
-𠛷	ge;dd	0	# auto
+𠛷	ge;dd	0
+𠛷	ge;rd	0
 𠛹	uj;dc	0	# auto
 𠛹	uj;da	0	# auto
 𠛺	fu;da	0	# auto
@@ -76394,7 +76401,8 @@ use_preset_vocabulary: false
 𡬛	vu;bi	0	# auto
 𡬜	ln;bh	0	# auto
 𡬜	ln;hh	0	# auto
-𡬝	dg;aa	0	# auto
+𡬝	dg;ad	0
+𡬝	dg;cd	0
 𡬟	uu;hc	0	# auto
 𡬠	jt;cd	0	# auto
 𡬠	jt;sc	0	# auto
@@ -99193,7 +99201,8 @@ use_preset_vocabulary: false
 𪛔	ii;yh	0	# auto
 𪛕	xc;yg	0	# auto
 𪛖	xc;yh	0	# auto
-𪜀	dg;aa	0	# auto
+𪜀	dg;aa	0
+𪜀	dg;ca	0
 𪜅	uf;aj	0	# auto
 𪜅	uf;uj	0	# auto
 𪜆	lm;af	0	# auto
@@ -121907,7 +121916,7 @@ use_preset_vocabulary: false
 矱	yt;uy	0
 黦	yt;hw	0
 㾓	yp;by	0
-䦾	yp;dy	0
+䦾	yp;vy	0
 齫	yp;ik	0
 齳	yp;ij	0
 桚	za;mx	0
@@ -122093,6 +122102,7 @@ use_preset_vocabulary: false
 𡰴	yi;ag	0
 𡰴	yn;ag	0
 㐃	ma;sa	0
+𰯼	co;jx	0
 
 # CJK Ext I
 𤚴	fj;nm	0
