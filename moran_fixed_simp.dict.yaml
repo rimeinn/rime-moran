@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20250301"
+version: "20250724"
 sort: original
 columns:
   - text
@@ -24,38 +24,6 @@ encoder:
 import_tables:
   - moran_fixed.symbols
 ...
-
-#----------标点符号----------#
-# 第一排
-：“	;q
-？	;w
-（	;e
-）	;r
-~	;t
-·	;y
-『	;u
-』	;i
-〖	;o
-〗	;p
-# 第二排
-！	;a
-……	;s
-#重复上屏	;d
-“	;f
-”	;g
-‘	;h
-’	;j
-——	;k
-%	;l
-；	;;
-# 第三排
-。”	;z
-？”	;x
-！”	;c
-【	;v
-】	;b
-《	;n
-》	;m
 
 #----------词库----------#
 
