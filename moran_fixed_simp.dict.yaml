@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20250301"
+version: "20250724"
 sort: original
 columns:
   - text
@@ -24,38 +24,6 @@ encoder:
 import_tables:
   - moran_fixed.symbols
 ...
-
-#----------标点符号----------#
-# 第一排
-：“	;q
-？	;w
-（	;e
-）	;r
-~	;t
-·	;y
-『	;u
-』	;i
-〖	;o
-〗	;p
-# 第二排
-！	;a
-……	;s
-#重复上屏	;d
-“	;f
-”	;g
-‘	;h
-’	;j
-——	;k
-%	;l
-；	;;
-# 第三排
-。”	;z
-？”	;x
-！”	;c
-【	;v
-】	;b
-《	;n
-》	;m
 
 #----------词库----------#
 
@@ -4086,7 +4054,6 @@ AVL树	avlu
 并列第三	blds
 百度	bldu
 拜读	bldu
-不了多少	bldu
 薄利多销	bldx
 白丁	bldy
 并列第一	bldy
@@ -16321,6 +16288,7 @@ D盘	dpj
 二个小时	egxu
 二狗子你变了	egzl
 耳根子软	egzr
+欸	eh
 而后	eh
 二话不说	ehbu
 恶虎不食子	ehbz
@@ -84251,6 +84219,7 @@ U盘	upj
 这款	vekr
 啫	vekv
 这里	vekv
+者	vel
 这里	vel
 哲理	veli
 这里	veli
@@ -115321,7 +115290,7 @@ git	git
 金銮殿	jld
 节流阀	jlf
 机灵鬼	jlg
-金莲花	jlh
+交流会	jlh
 教练机	jlj
 居留卡	jlk
 角落里	jll
@@ -115334,7 +115303,8 @@ git	git
 居留权	jlq
 经理人	jlr
 降落伞	jls
-精馏塔	jlt
+交流团	jlt
+截了图	jlt
 吉林省	jlu
 军令状	jlv
 居留证	jlv
@@ -115458,6 +115428,7 @@ git	git
 健忘症	jwv
 基围虾	jwx
 寄望于	jwy
+进修班	jxb
 接下来	jxl
 教学片	jxp
 解析器	jxq
@@ -117185,8 +117156,8 @@ PowerPoint	ppt
 潜力股	qlg
 禽流感	qlg
 奇了怪	qlg
-秋老虎	qlh
 起来嗨	qlh
+秋老虎	qlh
 轻量级	qlj
 起来了	qll
 清凌凌	qll
@@ -117667,7 +117638,6 @@ SD卡	sdk
 赛璐玢	slf
 三连冠	slg
 司令官	slg
-死老虎	slh
 三轮车	sli
 三棱镜	slj
 赛璐珞	sll
@@ -120101,10 +120071,8 @@ Word	wrd
 医疗费	ylf
 一两个	ylg
 易拉罐	ylg
-一路货	ylh
-有理化	ylh
 一两回	ylh
-油老虎	ylh
+颜料盒	ylh
 一连串	yli
 游乐场	yli
 一两句	ylj
