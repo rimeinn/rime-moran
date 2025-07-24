@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20250301"
+version: "20250724"
 sort: by_weight
 columns:
   - text
@@ -23,38 +23,6 @@ encoder:
 import_tables:
   - moran_fixed.symbols
 ...
-
-#----------標點符號----------#
-# 第一排
-：“	;q
-？	;w
-（	;e
-）	;r
-~	;t
-·	;y
-『	;u
-』	;i
-〖	;o
-〗	;p
-# 第二排
-！	;a
-……	;s
-#重複上屏	;d
-“	;f
-”	;g
-‘	;h
-’	;j
-——	;k
-%	;l
-；	;;
-# 第三排
-。”	;z
-？”	;x
-！”	;c
-【	;v
-】	;b
-《	;n
-》	;m
 
 #----------詞庫----------#
 
@@ -4202,7 +4170,6 @@ AVL樹	avlu
 並列第三	blds
 百度	bldu
 拜讀	bldu
-不了多少	bldu
 薄利多銷	bldx
 白丁	bldy
 並列第一	bldy
@@ -16820,6 +16787,7 @@ D盤	dpj
 二個小時	egxu
 二狗子你變了	egzl
 耳根子軟	egzr
+欸	eh
 而後	eh
 二話不說	ehbu
 惡虎不食子	ehbz
@@ -86592,6 +86560,7 @@ U盤	upj
 折扣	vekb
 轉而看好	vekh
 這款	vekr
+者	vel
 這裏	veli
 哲理	veli
 遮攔	velj
@@ -118542,7 +118511,7 @@ git	git
 金鑾殿	jld
 節流閥	jlf
 機靈鬼	jlg
-金蓮花	jlh
+交流會	jlh
 教練機	jlj
 居留卡	jlk
 角落裏	jll
@@ -118555,7 +118524,8 @@ git	git
 居留權	jlq
 經理人	jlr
 降落傘	jls
-精餾塔	jlt
+交流團	jlt
+截了圖	jlt
 吉林省	jlu
 軍令狀	jlv
 居留證	jlv
@@ -118679,6 +118649,7 @@ git	git
 健忘症	jwv
 基圍蝦	jwx
 寄望於	jwy
+進修班	jxb
 接下來	jxl
 教學片	jxp
 解析器	jxq
@@ -120406,8 +120377,8 @@ PowerPoint	ppt
 潛力股	qlg
 禽流感	qlg
 奇了怪	qlg
-秋老虎	qlh
 起來嗨	qlh
+秋老虎	qlh
 輕量級	qlj
 起來了	qll
 清凌凌	qll
@@ -120885,7 +120856,6 @@ SD卡	sdk
 賽璐玢	slf
 三連冠	slg
 司令官	slg
-死老虎	slh
 三輪車	sli
 三棱鏡	slj
 賽璐珞	sll
@@ -123317,10 +123287,8 @@ Word	wrd
 醫療費	ylf
 一兩個	ylg
 易拉罐	ylg
-油老虎	ylh
-一路貨	ylh
-有理化	ylh
 一兩回	ylh
+顏料盒	ylh
 一連串	yli
 遊樂場	yli
 一兩句	ylj

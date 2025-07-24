@@ -11,13 +11,46 @@
 
 ---
 name: moran_fixed
-version: "20240824"
+version: "20250724"
 sort: original
 columns:
   - text
   - code
 ...
 
+#----------標點符號----------#
+# 第一排
+：“	;q
+？	;w
+（	;e
+）	;r
+~	;t
+·	;y
+『	;u
+』	;i
+〖	;o
+〗	;p
+# 第二排
+！	;a
+……	;s
+#重複上屏	;d
+“	;f
+”	;g
+‘	;h
+’	;j
+——	;k
+%	;l
+；	;;
+# 第三排
+。”	;z
+？”	;x
+！”	;c
+【	;v
+】	;b
+《	;n
+》	;m
+
+#----------o引導符號----------#
 ─	ob
 ━	ob
 │	ob
@@ -592,15 +625,15 @@ F3	ofsj
 F11	ofsy
 ！	oft
 ！	ofth
-》	ofu
 《	ofu
+》	ofu
 …	ofu
 〈	ofu
 〉	ofu
 F12	ofue
 …	oful
-》	ofum
 《	ofum
+》	ofum
 〈	ofum
 〉	ofum
 F11	ofuy
