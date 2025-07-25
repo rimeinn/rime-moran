@@ -2,7 +2,7 @@
 -- Synopsis: 適用於魔然方案默認模式的按鍵處理器
 -- Author: ksqsf
 -- License: MIT license
--- Version: 0.4
+-- Version: 0.4.1
 
 -- 主要功能：
 -- 1. 選擇第二個首選項，但可用於跳過 emoji 濾鏡產生的候選
@@ -11,7 +11,8 @@
 -- 4. shorthand 略碼
 
 -- ChangeLog:
---  0.4.0：增加固定格式略碼功能
+--  0.4.1: Ctrl+L 增加對 yyxxo 的支持
+--  0.4.0: 增加固定格式略碼功能
 --  0.3.0: 增加取出/放回被吞掉的輔助碼的能力
 --  0.2.0: 增加快速切換切分的能力，因而從 moran_semicolon_processor 更名爲 moran_processor
 --  0.1.5: 修復獲取 candidate_count 的邏輯
@@ -145,7 +146,9 @@ local function force_segmentation_processor(key_event, env)
 
    local raw = input:gsub("'", "")  -- 不帶 ' 分隔符的輸入
 
-   if preedit:match("^[a-z][a-z][ '][a-z][a-z][a-z]$") or input:match("^[a-z][a-z]'[a-z][a-z][a-z]$") then  -- 2-3
+   if input:match("^[a-z][a-z][a-z][a-z]o") then
+      ctx.input = ctx.input:sub(1, seg._start) .. raw:sub(1,2) .. "'" .. raw:sub(3,5) .. ctx.input:sub(seg._end + 1, -1)
+   elseif preedit:match("^[a-z][a-z][ '][a-z][a-z][a-z]$") or input:match("^[a-z][a-z]'[a-z][a-z][a-z]$") then  -- 2-3
       ctx.input = ctx.input:sub(1, seg._start) .. raw:sub(1,3) .. "'" .. raw:sub(4,5) .. ctx.input:sub(seg._end + 1, -1)
    elseif preedit:match("^[a-z][a-z][a-z][ '][a-z][a-z]$") or input:match("^[a-z][a-z][a-z]'[a-z][a-z]$") then  -- 3-2
       ctx.input = ctx.input:sub(1, seg._start) .. raw:sub(1,2) .. "'" .. raw:sub(3,5) .. ctx.input:sub(seg._end + 1, -1)
