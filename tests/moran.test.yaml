@@ -137,6 +137,9 @@ deploy:
         assert: eq(preedit, "daj'wh'kn")
       - send: 'dajwhkn{Control+l}{Control+l}{Control+l}'
         assert: eq(preedit, "da'jw'hkn")
+      # 單字
+      - send: 'mumho{Control+l}'
+        assert: eq(preedit, "mu'mho")
 
   steal_auxcode:
     tests:
