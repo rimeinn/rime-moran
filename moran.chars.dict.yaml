@@ -2266,7 +2266,10 @@ use_preset_vocabulary: false
 勾	gb;gs	105524
 勿	wu;gp	29378
 匀	yp;gd	19505
+匁	wf;gi	0
+匁	qm;gi	0
 匁	wf;gd	0
+匁	qm;gd	0
 匂	bi;gb	0
 匃	gw;ga	0
 匃	gw;gv	0
@@ -10346,6 +10349,7 @@ use_preset_vocabulary: false
 晜	di;od	0
 晜	kp;od	0
 晝	vb;yd	0
+晝	vb;oa	0
 晞	xi;ox	743
 晟	ig;oi	1
 晟	ug;oi	15923
@@ -16272,6 +16276,7 @@ use_preset_vocabulary: false
 町	dy;td	3824
 町	ty;td	0
 画	hw;ak	359784
+画	hw;tk	359784
 甼	ty;td	0
 甽	jp;ti	0
 甽	qr;ti	0
@@ -16366,6 +16371,7 @@ use_preset_vocabulary: false
 番	po;pt	0
 番	po;tm	0
 畫	hw;ya	0
+畫	hw;ta	0
 畬	ue;ty	0
 畬	yu;ty	23
 畭	ue;ty	0
@@ -16378,7 +16384,7 @@ use_preset_vocabulary: false
 畱	lq;at	0
 畱	lq;tk	0
 畲	ue;rt	890
-畲	ue;ty	890
+畲	ue;tu	890
 畳	dx;tq	0
 畴	ib;tu	11750
 畵	hw;yh	0
@@ -30889,6 +30895,7 @@ use_preset_vocabulary: false
 鬂	bn;ib	0
 鬃	zs;iz	3860
 鬄	ti;iy	0
+鬄	di;iy	0
 鬅	pg;ip	0
 鬆	ss;is	0
 鬇	vg;iv	0
