@@ -6374,6 +6374,7 @@ use_preset_vocabulary: false
 峞	wz;uw	0
 峟	yb;uy	0
 峠	qw;ux	0
+峠	ka;ux	0
 峡	xw;uj	33938
 峢	li;ul	0
 峣	yk;uy	74
@@ -11009,6 +11010,7 @@ use_preset_vocabulary: false
 栁	lq;me	0
 栂	mz;mm	0
 栃	li;ml	0
+栃	li;mw	0
 栄	rs;dm	0
 栄	rs;mb	0
 栅	uj;mc	1
@@ -19154,6 +19156,7 @@ use_preset_vocabulary: false
 籼	xm;mu	101
 籽	zi;mz	5088
 籾	ni;mr	0
+籾	rf;mr	0
 籿	cp;mc	0
 粀	vh;mv	0
 粁	qm;mq	0
@@ -122110,6 +122113,12 @@ use_preset_vocabulary: false
 𡰴	yn;ag	0
 㐃	ma;sa	0
 𰯼	co;jx	0
+匂	yp;gb	0
+凧	jn;jj	0
+枠	za;mu	0
+枠	za;mz	0
+笹	ui;vu	0
+槇	vf;mv	0
 
 # CJK Ext I
 𤚴	fj;nm	0
