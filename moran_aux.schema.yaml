@@ -101,6 +101,8 @@ translator:
   initial_quality: 5
   preedit_format:
     - xform/([a-z][a-z][a-z][a-z])o/$1°/
+  core_word_length: 4
+  max_word_length: 10
 
 custom_phrase: # 自定義短語
   dictionary: ""
