@@ -21593,7 +21593,6 @@
 粛 ma
 粛 vu
 粛 ya
-粛 zs
 粜 im
 粜 mi
 粝 ml
@@ -22812,7 +22811,6 @@
 肄 yu
 肅 aa
 肅 ya
-肅 zs
 肆 yi
 肆 ys
 肇 hy

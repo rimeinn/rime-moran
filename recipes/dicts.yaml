@@ -1,0 +1,10 @@
+# encoding: utf-8
+---
+recipe:
+  Rx: recipes/dicts
+  description: >-
+    僅魔然詞庫，包括 opencc
+
+install_files: >-
+  moran*.dict.yaml
+  opencc/moran*
