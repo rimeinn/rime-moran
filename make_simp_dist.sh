@@ -42,7 +42,6 @@ compact_dicts=(
     "moran.tencent.dict.yaml"
     "moran.moe.dict.yaml"
     "moran.computer.dict.yaml"
-    "moran.hanyu.dict.yaml"
     "moran.words.dict.yaml"
 )
 
