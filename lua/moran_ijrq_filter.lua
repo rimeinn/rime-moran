@@ -30,6 +30,8 @@ function Module.init(env)
 end
 
 function Module.fini(env)
+   env.last_input = nil
+   env.last_first_cand = nil
 end
 
 function Module.func(t_input, env)
