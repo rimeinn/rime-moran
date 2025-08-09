@@ -2,16 +2,36 @@
 --
 -- Part of Project Moran
 -- License: GPLv3
--- Version: 0.1.0
+-- Version: 0.2.0
+
+-- ChangeLog:
+--
+-- 0.2.0: 增加 enable_word_delay 選項。若用戶非常熟悉輔助碼，可能會在
+--        輸入時直接打出輔助碼，這時出簡讓全的效果反而不是用戶期望的。
+--
+-- 0.1.0: 實作
 
 local moran = require("moran")
 local Module = {}
 
 function Module.init(env)
    env.enabled = env.engine.schema.config:get_bool("moran/ijrq/enable_word")
+   env.delay = env.engine.schema.config:get_int("moran/ijrq/enable_word_delay") or 0
+
+   -- Debouncer
+   env.last_timestamp = 0
+   if rime_api.get_time_ms == nil then
+      env.get_time_ms = function()
+         return 0
+      end
+   else
+      env.get_time_ms = rime_api.get_time_ms
+   end
 end
 
 function Module.fini(env)
+   env.last_input = nil
+   env.last_first_cand = nil
 end
 
 function Module.func(t_input, env)
@@ -44,10 +64,18 @@ function Module.func(t_input, env)
       end
       env.last_input = input
       env.last_first_cand = first_cand:get_genuine().text
+      env.last_timestamp = env.get_time_ms()
       yield(first_cand)
       moran.yield_all(iter)
    elseif input_len == 5 or input_len == 7 or input_len == 9 then
       if input:sub(1,input_len-1) ~= env.last_input then
+         moran.yield_all(iter)
+         return
+      end
+
+      -- If the user types auxcode super fast, then we should NOT
+      -- attempt to postpone first cand.
+      if not Module.debounce(env) then
          moran.yield_all(iter)
          return
       end
@@ -87,6 +115,18 @@ function Module.func(t_input, env)
    else
       moran.yield_all(iter)
    end
+end
+
+--| Returns true if the current invocation is a new invocation
+-- (i.e. not too close to the last invocation).
+function Module.debounce(env)
+   if env.delay == nil or env.delay < 1 then
+      return true
+   end
+   local cur = env.get_time_ms()
+   local last = env.last_timestamp
+   env.last_timestamp = cur
+   return cur - last >= env.delay
 end
 
 return Module
