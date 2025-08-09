@@ -13845,8 +13845,8 @@
 摶 fv
 摷 fi
 摸 fm
-摹 cu
 摹 um
+摹 cu
 摺 fb
 摺 fx
 摻 fc
@@ -29684,8 +29684,8 @@
 雋 vg
 雌 vc
 雍 wv
-雎 qv
 雎 vq
+雎 qv
 雏 iv
 雏 vi
 雏 vx
