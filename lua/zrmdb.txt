@@ -13845,8 +13845,8 @@
 摶 fv
 摷 fi
 摸 fm
-摹 cu
 摹 um
+摹 cu
 摺 fb
 摺 fx
 摻 fc
