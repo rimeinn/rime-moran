@@ -829,7 +829,8 @@
 㝅 zu
 㝆 zx
 㝇 xx
-㝈 lz
+㝈 zs
+㝈 yz
 㝉 ba
 㝊 by
 㝋 bl
@@ -7977,8 +7978,8 @@
 凹 aa
 出 ck
 出 aa
-击 eu
 击 fk
+击 eu
 击 aa
 凼 ku
 凼 uk
@@ -87449,8 +87450,8 @@
 𭓘 zb
 𭓚 xg
 𭓜 ft
-𭓝 sm
-𭓝 zm
+𭓝 zs
+𭓝 yz
 𭓟 by
 𭓠 bw
 𭓢 by
