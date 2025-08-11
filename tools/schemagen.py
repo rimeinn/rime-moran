@@ -626,6 +626,21 @@ def handle_flykey_fixed():
         print('# 結束飛鍵')
 
 
+def handle_dict_to_py():
+    with open(args.rime_dict, 'r') as f:
+        for l in f:
+            l = l.rstrip('\n')
+            m = regex.match(r'^([^\t]+)\t([a-z; ]+)', l)
+            if not m:
+                continue
+            word = m[1]
+            code = m[2]
+            sps = [ spaux.split(';')[0] for spaux in code.split(' ') ]
+            pys = [ zrmify.unzrmify1(sp) for sp in sps ]
+            py = ' '.join(pys)
+            print(f'{word}\t{py}')
+
+
 ###############
 ### 程序入口 ###
 ###############
@@ -679,6 +694,9 @@ convert_fixed_sp = subparsers.add_parser('convert-fixed-sp', help='轉換雙拼�
 convert_fixed_sp.add_argument('--rime-dict', help='輸入rime格式詞庫', required=True)
 convert_fixed_sp.add_argument('--to', choices=double_pinyin_choices, help='目的雙拼方案', required=True)
 
+dict_to_py = subparsers.add_parser('dict-to-py', help='詞庫轉換爲全拼格式')
+dict_to_py.add_argument('--rime-dict', help='輸入rime格式詞庫', required=True)
+
 # flykey_fixed = subparsers.add_parser('flykey-fixed', help='碼表自動飛鍵')
 # flykey_fixed.add_argument('--pattern', help='輸入飛鍵', required=True, action='append')
 # flykey_fixed.add_argument('--rime-dict', help='碼表', required=True)
@@ -701,6 +719,8 @@ if __name__ == '__main__':
         handle_convert_sp()
     elif args.command == 'convert-fixed-sp':
         handle_convert_fixed_sp()
+    elif args.command == 'dict-to-py':
+        handle_dict_to_py()
     # elif args.command == 'flykey-fixed':
     #     handle_flykey_fixed()
 
