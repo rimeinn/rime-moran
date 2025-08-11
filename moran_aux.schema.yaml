@@ -215,7 +215,7 @@ reverse_zrlf:
   __include: reverse_format
 
 reverse_tick:
-  __include: reverse_tiger
+  __include: reverse_zrlf
   tag: reverse_tick
   prefix: "`"
 

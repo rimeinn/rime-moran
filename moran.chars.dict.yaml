@@ -1866,8 +1866,8 @@ use_preset_vocabulary: false
 凹	yk;aa	0
 出	iu;ck	2294943
 出	iu;aa	2294943
-击	ji;eu	1010628
 击	ji;fk	1010628
+击	ji;eu	1010628
 击	ji;aa	1010628
 凼	dh;ku	385
 凼	dh;uk	385
@@ -35040,7 +35040,8 @@ use_preset_vocabulary: false
 㝅	gb;uz	0
 㝅	gb;zu	0
 㝇	ip;xx	0	# auto
-㝈	lr;lz	0	# auto
+㝈	lr;zs	0
+㝈	lr;yz	0
 㝉	vu;ba	0	# auto
 㝊	ub;by	0	# auto
 㝋	lc;bl	0	# auto
@@ -105506,8 +105507,8 @@ use_preset_vocabulary: false
 𭓘	xt;zb	0	# auto
 𭓚	xt;xg	0	# auto
 𭓜	ds;ft	0	# auto
-𭓝	lr;sm	0	# auto
-𭓝	lr;zm	0	# auto
+𭓝	lr;zs	0
+𭓝	lr;yz	0
 𭓟	ya;by	0	# auto
 𭓠	bk;bw	0	# auto
 𭓢	qq;by	0	# auto
