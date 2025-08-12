@@ -44384,128 +44384,149 @@ use_preset_vocabulary: false
 𢻤	qc;vq	0	# auto
 𢻨	sa;zv	0	# auto
 𢻪	qi;vq	0	# auto
-𢻫	ui;wy	0	# auto
+𢻫	ui;py	0
 𢻮	fu;wj	0	# auto
 𢻮	jx;wj	0	# auto
-𢻵	bz;wu	0	# auto
-𢻵	lu;wu	0	# auto
-𢻶	bm;wj	0	# auto
-𢻷	ba;wb	0	# auto
-𢻸	jp;wy	0	# auto
-𢻹	pi;wb	0	# auto
-𢻼	dj;wy	0	# auto
-𢻿	th;wo	0	# auto
-𢼀	kv;wr	0	# auto
-𢼁	ku;wu	0	# auto
-𢼃	kb;wg	0	# auto
-𢼉	ui;wt	0	# auto
-𢼊	to;wt	0	# auto
-𢼊	ui;wt	0	# auto
-𢼌	bk;wb	0	# auto
-𢼑	kd;wj	0	# auto
-𢼙	lc;xw	0	# auto
-𢼚	ee;hw	0	# auto
-𢼛	ee;wg	0	# auto
-𢼛	ge;wg	0	# auto
-𢼛	go;wg	0	# auto
-𢼟	wh;wf	0	# auto
-𢼟	wh;wk	0	# auto
-𢼠	do;wb	0	# auto
-𢼣	qw;wj	0	# auto
-𢼤	hw;wu	0	# auto
-𢼦	hs;wg	0	# auto
-𢼩	pg;wb	0	# auto
-𢼫	jc;ww	0	# auto
-𢼰	qu;wq	0	# auto
-𢼲	vb;wv	0	# auto
-𢼳	kd;kw	0	# auto
-𢼵	ua;wh	0	# auto
-𢼷	ji;wy	0	# auto
-𢼹	bu;wf	0	# auto
-𢼹	pu;wf	0	# auto
-𢼺	xt;wv	0	# auto
-𢼼	uk;wx	0	# auto
-𢽂	lh;wl	0	# auto
-𢽃	vi;wu	0	# auto
-𢽄	ty;wt	0	# auto
-𢽇	da;wk	0	# auto
-𢽕	yh;wj	0	# auto
-𢽖	jn;jw	0	# auto
-𢽗	vi;wu	0	# auto
-𢽚	du;wi	0	# auto
-𢽚	vo;wi	0	# auto
-𢽜	za;wn	0	# auto
-𢽝	ij;wv	0	# auto
-𢽢	mk;wm	0	# auto
-𢽦	ks;wk	0	# auto
-𢽧	vb;wv	0	# auto
-𢽨	hu;wh	0	# auto
-𢽩	pg;wp	0	# auto
-𢽴	vo;iw	0	# auto
-𢽸	io;wb	0	# auto
-𢽹	mn;hw	0	# auto
-𢽾	xc;xw	0	# auto
-𢽾	xt;xw	0	# auto
-𢾀	du;wv	0	# auto
-𢾁	wz;ww	0	# auto
-𢾃	cj;wt	0	# auto
-𢾄	yu;wy	0	# auto
-𢾅	du;wd	0	# auto
-𢾆	kl;wj	0	# auto
-𢾇	pi;wf	0	# auto
-𢾊	ig;wt	0	# auto
-𢾎	ip;wi	0	# auto
-𢾐	uk;ws	0	# auto
-𢾑	yj;wy	0	# auto
-𢾔	yt;xg	0	# auto
-𢾦	qi;wi	0	# auto
-𢾧	vg;wv	0	# auto
-𢾩	ke;wg	0	# auto
-𢾪	qi;ws	0	# auto
-𢾫	vi;wi	0	# auto
-𢾱	pi;wp	0	# auto
-𢾲	no;wr	0	# auto
-𢾳	pk;wc	0	# auto
-𢾺	fz;wf	0	# auto
-𢾿	wf;gw	0	# auto
-𢿈	uj;wc	0	# auto
-𢿎	do;wg	0	# auto
-𢿏	bc;wp	0	# auto
-𢿏	pk;wp	0	# auto
-𢿚	yb;wx	0	# auto
-𢿜	mj;mw	0	# auto
-𢿞	lc;wl	0	# auto
-𢿢	lr;wl	0	# auto
-𢿣	qc;wy	0	# auto
-𢿤	dg;wd	0	# auto
-𢿦	ig;wi	0	# auto
-𢿧	ig;wt	0	# auto
-𢿸	ce;cw	0	# auto
-𣀀	lz;wl	0	# auto
-𣀁	vj;wv	0	# auto
-𣀂	li;wl	0	# auto
-𣀃	lm;wl	0	# auto
-𣀄	qp;wj	0	# auto
-𣀏	ig;wi	0	# auto
-𣀐	gu;wz	0	# auto
-𣀒	zs;wj	0	# auto
-𣀓	dk;wu	0	# auto
-𣀓	ib;wu	0	# auto
-𣀔	io;ws	0	# auto
-𣀔	ir;ws	0	# auto
-𣀜	lz;wl	0	# auto
-𣀝	uo;wl	0	# auto
-𣀞	lv;wl	0	# auto
-𣀣	fu;wb	0	# auto
-𣀥	li;wl	0	# auto
-𣀧	sj;wl	0	# auto
-𣀫	sj;gw	0	# auto
-𣀯	sa;wm	0	# auto
-𣀳	nx;wn	0	# auto
-𣀶	zr;wz	0	# auto
-𣀷	li;wl	0	# auto
-𣀻	uu;wu	0	# auto
-𣀻	vu;wu	0	# auto
+𢻵	bz;pu	0
+𢻵	lu;pu	0
+𢻶	bm;pj	0
+𢻷	ba;pb	0
+𢻸	jp;py	0
+𢻹	pi;wb	0
+𢻼	dj;pg	0
+𢻿	th;op	0
+𢻿	th;po	0
+𢼀	kv;pr	0
+𢼁	ku;wy	0
+𢼃	kb;wg	0
+𢼉	ui;wt	0
+𢼊	to;wt	0
+𢼊	ui;wt	0
+𢼌	bk;pb	0
+𢼑	kd;wj	0
+𢼙	lc;xw	0
+𢼚	ee;hw	0
+𢼛	ee;pg	0
+𢼛	ge;pg	0
+𢼛	go;pg	0
+𢼠	do;wg	0
+𢼠	do;we	0
+𢼣	qw;pj	0
+𢼤	hw;pu	0
+𢼦	hs;pg	0
+𢼩	pg;pb	0
+𢼫	jc;wi	0
+𢼫	jc;wy	0
+𢼰	qu;pq	0
+𢼲	vb;pv	0
+𢼳	kd;wk	0
+𢼳	kd;kw	0
+𢼵	ua;wh	0
+𢼷	ji;wy	0
+𢼹	bu;pf	0
+𢼹	pu;pf	0
+𢼺	xt;pv	0
+𢼼	uk;px	0
+𢽂	lh;pl	0
+𢽃	vi;pw	0
+𢽄	ty;pt	0
+𢽇	da;wd	0
+𢽕	yh;jp	0
+𢽕	yh;pj	0
+𢽖	jn;py	0
+𢽗	vi;wu	0
+𢽚	du;pd	0
+𢽚	du;pi	0
+𢽚	vo;pd	0
+𢽚	vo;pi	0
+𢽜	za;pn	0
+𢽝	ij;pv	0
+𢽢	mk;po	0
+𢽢	mk;pm	0
+𢽦	ks;pk	0
+𢽧	vb;pv	0
+𢽨	hu;ph	0
+𢽩	pg;pp	0
+𢽴	vo;wd	0
+𢽴	vo;wi	0
+𢽸	io;wy	0
+𢽹	mn;wh	0
+𢽾	xc;px	0
+𢽾	xt;px	0
+𢾀	du;pv	0
+𢾁	wz;pw	0
+𢾃	cj;pk	0
+𢾄	yu;wy	0
+𢾅	du;wd	0
+𢾆	kl;pj	0
+𢾇	pi;pt	0
+𢾇	pi;pf	0
+𢾊	ig;pt	0
+𢾎	ip;pi	0
+𢾐	uk;py	0
+𢾑	yj;py	0
+𢾔	yt;og	0
+𢾔	yt;gp	0
+𢾦	qi;pi	0
+𢾧	vg;pv	0
+𢾧	vg;ph	0
+𢾩	ke;ph	0
+𢾩	ke;pm	0
+𢾪	qi;ps	0
+𢾫	vi;pi	0
+𢾲	no;pr	0
+𢾳	pk;wc	0
+𢾺	fz;wf	0
+𢾿	wf;pg	0
+𢿈	uj;pc	0
+𢿏	bc;pp	0
+𢿏	pk;pp	0
+𢿚	yb;pu	0
+𢿜	mj;wm	0
+𢿞	lc;pl	0
+𢿞	lc;px	0
+𢿢	lr;py	0
+𢿢	lr;pl	0
+𢿣	qc;py	0
+𢿣	qc;pw	0
+𢿤	dg;pd	0
+𢿦	ig;pi	0
+𢿦	ig;py	0
+𢿧	ig;pt	0
+𢿧	ig;pm	0
+𢿸	ce;pc	0
+𣀀	lz;pl	0
+𣀁	vj;pv	0
+𣀂	li;pl	0
+𣀃	lm;pl	0
+𣀄	qp;pg	0
+𣀄	qp;pm	0
+𣀏	ig;pg	0
+𣀏	ig;pi	0
+𣀐	gu;wz	0
+𣀐	gu;wx	0
+𣀒	zs;pj	0
+𣀓	dk;pu	0
+𣀓	ib;pu	0
+𣀔	io;ps	0
+𣀔	ir;ps	0
+𣀜	lz;pl	0
+𣀜	lz;pt	0
+𣀝	uo;pl	0
+𣀞	lv;pl	0
+𣀣	fu;pj	0
+𣀣	fu;pb	0
+𣀥	li;pl	0
+𣀥	li;pv	0
+𣀧	sj;pv	0
+𣀫	sj;pg	0
+𣀯	sa;pe	0
+𣀳	nx;wn	0
+𣀳	nx;we	0
+𣀶	zr;pz	0
+𣀷	li;pl	0
+𣀻	uu;pu	0
+𣀻	vu;pu	0
 𣁉	bi;wb	0	# auto
 𣁗	tj;tw	0	# auto
 𣁜	mj;mw	0	# auto
@@ -67381,7 +67402,6 @@ use_preset_vocabulary: false
 𦻔	fz;cf	0	# auto
 𪟏	ug;qd	0	# auto
 𢱋	du;fd	0	# auto
-𢻼	dj;pb	0	# auto
 𬹔	qm;uy	0	# auto
 𬹔	qm;au	0	# auto
 𡉞	hs;ts	0	# auto
@@ -67555,7 +67575,8 @@ use_preset_vocabulary: false
 𣤩	ii;dq	0	# auto
 𣤩	ii;qd	0	# auto
 𤮭	ij;wt	0	# auto
-𣀴	bx;iy	0	# auto
+𣀴	bx;im	0
+𣀴	bx;ia	0
 𧌢	sv;si	0	# auto
 𧌢	sv;ir	0	# auto
 𡛻	ys;ny	0	# auto
@@ -67606,8 +67627,9 @@ use_preset_vocabulary: false
 𡞰	ci;nz	0	# auto
 𡯬	yk;yb	0	# auto
 𨉐	ee;uw	0	# auto
+𢿎	do;pg	0
+𢿎	do;pu	0
 𢿎	do;bp	0	# auto
-𢿎	do;py	0	# auto
 𬀿	kp;ol	0	# auto
 𬦹	tc;zt	0	# auto
 𩳔	yk;xg	0	# auto
