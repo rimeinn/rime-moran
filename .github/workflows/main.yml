@@ -20,7 +20,6 @@ jobs:
             dist/moran.tencent.dict.yaml
             dist/moran.moe.dict.yaml
             dist/moran.computer.dict.yaml
-            dist/moran.hanyu.dict.yaml
             dist/moran.words.dict.yaml
       - name: Deploy to branch
         uses: peaceiris/actions-gh-pages@v3
@@ -53,7 +52,6 @@ jobs:
             dist/moran.tencent.dict.yaml
             dist/moran.moe.dict.yaml
             dist/moran.computer.dict.yaml
-            dist/moran.hanyu.dict.yaml
             dist/moran.words.dict.yaml
       - name: Deploy to branch
         if: ${{ github.repository == 'rimeinn/rime-moran' }}
