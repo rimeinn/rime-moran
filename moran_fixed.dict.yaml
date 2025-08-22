@@ -10267,6 +10267,8 @@ C盤	cpj
 大紅	dahs
 大戶	dahu
 大會	dahv
+搭话	dahw
+答话	dahw
 大話	dahw
 打壞	dahy
 大黑	dahz
@@ -16287,8 +16289,6 @@ D盤	dpj
 德藝雙馨	dyux
 斷崖式領先	dyux
 第一實驗學校	dyux
-鬥魚直播	dyvb
-鬥魚主播	dyvb
 大醫治未病	dyvb
 頂撞	dyvd
 盯着	dyve
@@ -19051,8 +19051,8 @@ E盤	epj
 軬	fjid
 蠜	fjid
 翻車	fjie
-凡塵	fjif
 反襯	fjif
+凡塵	fjif
 軓	fjif
 返程	fjig
 泛稱	fjig
@@ -52777,7 +52777,7 @@ JK制服	jkvf
 靈	lyyw
 藍牙音箱	lyyx
 留意一下	lyyx
-魯豫有約	lyyy
+領英	lyyy
 另有原因	lyyy
 凌雜	lyza
 領走	lyzb
@@ -71877,6 +71877,7 @@ P站	pvj
 思想	sixd
 伺隙	sixi
 宿娼狎妓	sixj
+死線	sixm
 絲線	sixm
 死心	sixn
 私信	sixn
@@ -72362,7 +72363,6 @@ P站	pvj
 掃碼登陸	smdl
 蘇門答臘	smdl
 什麼東西	smdx
-死媽東西	smdx
 什麼都沒有	smdy
 什麼都有	smdy
 死馬當活馬醫	smdy
@@ -74037,7 +74037,6 @@ P站	pvj
 太不講究	tbjj
 太不講道理	tbjl
 特別節目	tbjm
-同胞姐妹	tbjm
 頭巾	tbjn
 天不假年	tbjn
 聽不進去	tbjq
@@ -74199,7 +74198,6 @@ P站	pvj
 投效	tbxc
 頭像	tbxd
 投降	tbxd
-同胞兄弟	tbxd
 特別效果	tbxg
 特別喜歡	tbxh
 太不像話	tbxh
@@ -87470,8 +87468,6 @@ U盤	upj
 蟑螂	vhlh
 張力	vhli
 長老	vhlk
-戰痕累累	vhll
-漲紅了臉	vhll
 長臉	vhlm
 這合理嗎	vhlm
 這河裏嗎	vhlm
@@ -93626,7 +93622,6 @@ WiFi	wifi
 歪風	wlfg
 外放	wlfh
 外方	wlfh
-無理方程	wlfi
 臥龍鳳雛	wlfi
 外翻	wlfj
 外敷	wlfu
@@ -98048,7 +98043,8 @@ WiFi	wifi
 郗	xiex
 鄎	xiex
 郋	xiez
-扢	xif
+攜	xif
+扢	xifq
 戲法	xifa
 先喫飯吧	xifb
 飁	xifb
@@ -106812,7 +106808,6 @@ WiFi	wifi
 閱歷豐富	ylff
 原路返回	ylfh
 一路風塵	ylfi
-有理方程	ylfi
 育齡婦女	ylfn
 月朗風清	ylfq
 以理服人	ylfr
@@ -115278,6 +115273,9 @@ WiFi	wifi
 總在最前	zzzq
 自作自受	zzzu
 自自在在	zzzz
+戰慄	vjli
+對標	dvbc
+人設	rfue
 
 啊啊啊	aaa
 愛不愛	aba
@@ -115417,7 +115415,6 @@ WiFi	wifi
 比不了	bbl
 巴比倫	bbl
 八百里	bbl
-白幫忙	bbm
 幫幫忙	bbm
 把把脈	bbm
 並不能	bbn
@@ -117437,7 +117434,8 @@ git	git
 共同性	gtx
 共同語	gty
 狗腿子	gtz
-更適合	guh
+格式化	guh
+公式化	guh
 過山車	gui
 過時了	gul
 幹什麼	gum
@@ -117642,6 +117640,8 @@ git	git
 揮發物	hfw
 揮發油	hfy
 壞分子	hfz
+好感度	hgd
+哈工大	hgd
 花骨朵	hgd
 黑格爾	hge
 換個兒	hge
@@ -118143,7 +118143,7 @@ git	git
 穿堂風	itf
 抽屜櫃	itg
 牀頭櫃	itg
-茶湯壺	ith
+常態化	ith
 鏟土機	itj
 赤鐵礦	itk
 沖天爐	itl
@@ -118536,7 +118536,6 @@ git	git
 景頗族	jpz
 剪切板	jqb
 家雀兒	jqe
-剪秋蘿	jql
 進去了	jql
 幾千年	jqn
 劇情片	jqp
@@ -121412,9 +121411,9 @@ SD卡	sdk
 說大話	udh
 瘮得慌	udh
 水電廠	udi
-水電局	udj
 聖誕節	udj
 睡大覺	udj
+水電局	udj
 聖誕卡	udk
 受得了	udl
 收到了	udl
@@ -121927,6 +121926,7 @@ SD卡	sdk
 中間派	vjp
 椎間盤	vjp
 重機槍	vjq
+中间人	vjr
 召集人	vjr
 這幾天	vjt
 中間體	vjt
@@ -123923,6 +123923,7 @@ Word	wrd
 早自習	zzx
 再怎樣	zzy
 嘖嘖嘖	zzz
+首選項	uxx
 
 # Some words for testing...
 八坂	babj
