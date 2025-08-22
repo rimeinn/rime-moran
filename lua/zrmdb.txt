@@ -6813,8 +6813,8 @@
 乄 gd
 久 pd
 久 dd
-乆 ap
-乆 vp
+乆 ar
+乆 vr
 乇 pq
 么 ps
 义 di
@@ -32775,7 +32775,8 @@
 𠃞 ag
 𠃟 cg
 𠃡 yg
-𠃢 pa
+𠃢 ke
+𠃢 aa
 𠃤 pe
 𠃦 yg
 𠃧 ff
@@ -94642,6 +94643,8 @@
 𰷃 ub
 𰷄 bq
 𰷄 qb
+𰷅 bk
+𰷅 by
 𰷆 bm
 𰷆 mb
 𰷈 bm
