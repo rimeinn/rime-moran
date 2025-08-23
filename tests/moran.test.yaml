@@ -187,5 +187,9 @@ deploy:
         assert: eq(cand[1].text, 'iPhone')
       - send: 'IPh'
         assert: "#cand == 0"
+      - send: 'nihkHello '
+        assert: eq(cand[1].text, 'Hello')
+      - send: 'U75'
+        assert: eq(cand[1].text, 'u')
 
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rimeinn/mira/refs/heads/master/spec/mira.schema.json
