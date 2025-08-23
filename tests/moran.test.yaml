@@ -175,4 +175,21 @@ deploy:
       - send: 'wuyw'
         assert: eq(cand[1].text, '霧') and eq(cand[2].text, '誣') and eq(cand[5].text, '爲時已晚')
 
+  english:
+    tests:
+      - send: 'monkey'
+        assert: eq(cand[1].text, 'monkey')
+      - send: 'Monke'
+        assert: eq(cand[1].text, 'Monkey')
+      - send: 'iphone'
+        assert: eq(cand[1].text, 'iPhone')
+      - send: 'iPho'
+        assert: eq(cand[1].text, 'iPhone')
+      - send: 'IPh'
+        assert: "#cand == 0"
+      - send: 'nihkHello '
+        assert: eq(cand[1].text, 'Hello')
+      - send: 'U75'
+        assert: eq(cand[1].text, 'u')
+
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rimeinn/mira/refs/heads/master/spec/mira.schema.json
