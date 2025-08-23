@@ -30,7 +30,8 @@ speller:
     "zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA"
   algebra:
     __patch:
-      - moran_defs:/casefold
-      - moran_defs:/englishify_nonletter
       - moran:/algebra/user_force_top?
+      - moran_defs:/englishify_nonletter
+      - moran_defs:/casefold
+      - moran_defs:/flexible_caps
       - moran:/algebra/user_force_bottom?
