@@ -35,6 +35,7 @@ algebra:
     __append:
       - derive|^(.+);(\w)(\w)$|$1$2$3o| # 全碼 YYXXo
       - derive|^(.+);(\w)(\w)$|$1$2$3/| # 全碼 YYXX/
+      - derive|^(.+);(\w)(\w)$|$1$2/|   # 三碼篩單字 YYX/ （實驗性）
       - abbrev/^(.+);(\w)(\w)$/$1$2$3/  # 降低 YYXX 優先級
       - derive/^(.+);(\w)(\w)$/$1$2/    # 構詞可以用 YYX
       - derive/^(.+);(\w)(\w)$/$1/      # 構詞可以用 YY
