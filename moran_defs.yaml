@@ -64,6 +64,11 @@ casefold:
   __append:
     - derive/([A-Z])/\L$1\E/
 
+# 大寫首字母可匹配小寫詞語
+flexible_caps:
+  __append:
+    - derive/^([a-z])/\U$1\E/
+
 # 英語化部分非字母編碼（用於英語混輸）
 englishify_nonletter:
   __append:

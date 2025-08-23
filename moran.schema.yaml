@@ -103,6 +103,7 @@ engine:
     - simplifier@simplifier
     - lua_filter@*moran_charset_comment_filter  # Unicode 區位提示
     - lua_filter@*moran_unicode_display_filter  # Unicode 編碼提示
+    - lua_filter@*moran_english_filter
     - uniquifier
 
 speller:
