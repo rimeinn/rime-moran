@@ -2714,6 +2714,7 @@ AVL树	avlu
 不会再有	bhzy
 白胡子老爷爷	bhzy
 比	bi
+变成	bi
 匕	bia
 保持安静	biaj
 彼岸	bian
@@ -6453,8 +6454,8 @@ B盘	bpj
 不无好处	bwhi
 保卫和平	bwhp
 不外乎是	bwhu
-半无产阶级	bwij
 霸王茶姬	bwij
+半无产阶级	bwij
 别无出路	bwil
 别无长物	bwiw
 不忘初心	bwix
@@ -6927,7 +6928,6 @@ B盘	bpj
 病根	bygf
 比翼高飞	bygf
 饼干	bygj
-便宜贵贱	bygj
 禀告	bygk
 不用管了	bygl
 冰棍	bygp
@@ -9200,6 +9200,7 @@ C++	cpp
 汆	crr
 窜扰	crrk
 窜入	crru
+篡	crs
 汆汤	crth
 灿若桃花	crth
 窜逃	crtk
@@ -15587,6 +15588,7 @@ D盘	dpj
 定语从句	dycj
 第一次工业革命	dycm
 第一次科技革命	dycm
+单元测试	dycu
 第一次世界大战	dycv
 第一次鸦片战争	dycv
 大摇大摆	dydb
@@ -23580,7 +23582,7 @@ F盘	fpj
 过奖	gojd
 帼	gojg
 国际	goji
-國籍	goji
+国籍	goji
 裹紧	gojn
 过劲	gojn
 国君	gojp
@@ -48564,6 +48566,7 @@ JK制服	jkvf
 理论最优	llzy
 林林总总	llzz
 连	lm
+里面	lm
 恋爱	lmai
 帘	lmb
 连绵不断	lmbd
@@ -53131,7 +53134,6 @@ JK制服	jkvf
 绵里藏针	mlcv
 名列第八	mldb
 卖掉	mldc
-名列第二	mlde
 麻辣豆腐	mldf
 卖底	mldi
 买单	mldj
@@ -61544,6 +61546,7 @@ P站	pvj
 平光	pygd
 漂洋过海	pygh
 飘洋过海	pygh
+便宜贵贱	pygj
 瓶盖	pygl
 苹果	pygo
 培养感情	pygq
@@ -79839,7 +79842,6 @@ T恤衫	txuj
 水解蛋白	ujdb
 删掉	ujdc
 时局动荡	ujdd
-世界第二	ujde
 少见多怪	ujdg
 伤筋动骨	ujdg
 世界大学生运动会	ujdh
@@ -90772,7 +90774,6 @@ U盘	upj
 碗底	wjdi
 顽敌	wjdi
 完蛋	wjdj
-无甲大狙	wjdj
 弯道	wjdk
 文件打开	wjdk
 忘记打卡	wjdk
@@ -91535,6 +91536,7 @@ U盘	upj
 无论怎样	wlzy
 外力作用	wlzy
 我们	wm
+外面	wm
 完美	wm
 顽冥不化	wmbh
 微妙变化	wmbh
@@ -98616,6 +98618,7 @@ U盘	upj
 小镇做题家	xvzj
 行止坐卧	xvzw
 下	xw
+希望	xw
 夏	xwa
 下	xwad
 狭隘	xwai
@@ -101350,7 +101353,8 @@ U盘	upj
 夜拍	yepl
 叶片	yepm
 野禽	yeqn
-野趣	yequ
+夜曲	yequ
+野区	yequ
 也请	yeqy
 倻	yer
 野人	yerf
@@ -105572,7 +105576,6 @@ U盘	upj
 一人之力	yrvl
 渔人之利	yrvl
 引人注目	yrvm
-引人瞩目	yrvm
 圆桌	yrvo
 圆转	yrvr
 原著	yrvu
@@ -106574,9 +106577,7 @@ U盘	upj
 鱼卵	yulr
 倚势凌人	yulr
 玉龙	yuls
-眼神拉丝	yuls
 优胜劣汰	yult
-优生劣汰	yult
 语录	yulu
 雨露	yulu
 伛偻	yulv
@@ -110926,6 +110927,7 @@ U盘	upj
 钻入	zrru
 责任人员	zrry
 缵	zrs
+纂	zrsd
 钻塔	zrta
 钻头	zrtb
 钻探	zrtj
@@ -116404,6 +116406,7 @@ Keynote	knt
 摸摸头	mmt
 明明是	mmu
 每秒钟	mmv
+冥冥中	mmv
 命名为	mmw
 密码学	mmx
 毛毛雨	mmy
@@ -117366,6 +117369,7 @@ QQ群	qqq
 区政府	qvf
 敲竹杠	qvg
 庆祝会	qvh
+千纸鹤	qvh
 球轴承	qvi
 驱逐舰	qvj
 起重机	qvj
