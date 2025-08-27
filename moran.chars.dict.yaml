@@ -18929,6 +18929,7 @@ use_preset_vocabulary: false
 篠	tc;vt	0
 篠	xc;vt	0
 篡	cr;vs	6922
+篡	cr;sd	6922
 篢	gs;vg	0
 篣	ph;vp	0
 篤	du;vm	0
@@ -19000,6 +19001,7 @@ use_preset_vocabulary: false
 簐	nm;vr	0
 簑	so;vu	0
 簒	cr;vs	0
+簒	cr;vm	0
 簓	dc;vd	0
 簓	dc;vp	0
 簔	so;vu	0
@@ -19929,7 +19931,9 @@ use_preset_vocabulary: false
 纀	pu;sp	0
 纁	xp;sx	0
 纂	cr;vs	0
+纂	cr;sd	0
 纂	zr;vs	2790
+纂	zr;sd	2790
 纃	qi;sq	0
 纄	pg;sp	0
 纅	li;sl	0
@@ -108707,7 +108711,8 @@ use_preset_vocabulary: false
 𮐇	jd;ck	0	# auto
 𮐉	cu;ca	0	# auto
 𮐊	mm;cm	0	# auto
-𮐋	cr;mm	0	# auto
+𮐋	cr;cm	0
+𮐋	cr;mm	0
 𮐎	zi;co	0	# auto
 𮐎	zl;co	0	# auto
 𮐏	dx;cu	0	# auto

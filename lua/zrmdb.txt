@@ -21367,6 +21367,7 @@
 篟 vq
 篠 vt
 篡 vs
+篡 sd
 篢 vg
 篣 vp
 篤 vm
@@ -21425,6 +21426,7 @@
 簐 vr
 簑 vu
 簒 vs
+簒 vm
 簓 vd
 簓 vp
 簔 vu
@@ -22171,6 +22173,7 @@
 纀 sp
 纁 sx
 纂 vs
+纂 sd
 纃 sq
 纄 sp
 纅 sl
@@ -90073,7 +90076,7 @@
 𮐇 ck
 𮐉 ca
 𮐊 cm
-𮐋 mm
+𮐋 cm
 𮐎 co
 𮐏 cu
 𮐐 cg
