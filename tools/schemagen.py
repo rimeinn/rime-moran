@@ -630,15 +630,16 @@ def handle_dict_to_py():
     with open(args.rime_dict, 'r') as f:
         for l in f:
             l = l.rstrip('\n')
-            m = regex.match(r'^([^\t]+)\t([a-z; ]+)', l)
+            m = regex.match(r'^([^\t]+)\t([a-z; ]+)(.*)$', l)
             if not m:
                 continue
             word = m[1]
             code = m[2]
+            rest = m[3]
             sps = [ spaux.split(';')[0] for spaux in code.split(' ') ]
             pys = [ zrmify.unzrmify1(sp) for sp in sps ]
             py = ' '.join(pys)
-            print(f'{word}\t{py}')
+            print(f'{word}\t{py}{rest}')
 
 
 ###############
