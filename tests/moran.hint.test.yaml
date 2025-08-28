@@ -85,7 +85,7 @@ deploy:
       - send: k
         assert: cand[1].text == "可" and eq(cand[1].comment, "dk💥")
       - send: rugo
-        assert: cand[1].text == "如果" and eq(cand[1].comment, "na ¦ 💥rg")
+        assert: cand[1].text == "如果" and eq(cand[1].comment, "nt ¦ 💥rg")
       - send: lmjx
         assert: cand[1].text == "鏈接" and eq(cand[1].comment, "jf ¦ 💥lj")
       - send: lmjxf
