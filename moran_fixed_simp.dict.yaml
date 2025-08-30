@@ -2813,7 +2813,7 @@ AVL树	avlu
 逼供	bigs
 八重宫司	bigs
 百尺竿头	bigt
-辟穀	bigu
+辟谷	bigu
 壁柜	bigv
 壁挂	bigw
 秘	bih
@@ -19003,7 +19003,7 @@ E盘	epj
 妇女儿童	fnet
 份内份外	fnfw
 富农分子	fnfz
-肥醲甘脆	fngc
+肥𬪩甘脆	fngc
 逢年过节	fngj
 父女关系	fngx
 飞鸟和蝉	fnhi
@@ -20072,7 +20072,7 @@ F盘	fpj
 访问调查	fwti
 服务投诉	fwts
 服务体系	fwtx
-服務	fwu
+服务	fwu
 奉为上宾	fwub
 访问深度	fwud
 服务时间	fwuj
@@ -22547,7 +22547,7 @@ F盘	fpj
 干流	gjlq
 国家领导人	gjlr
 干净利索	gjls
-趕路	gjlu
+赶路	gjlu
 甘露	gjlu
 过街老鼠	gjlu
 国际联网	gjlw
@@ -32536,7 +32536,7 @@ H盘	hpj
 春风满面	ifmm
 臣民	ifmn
 沉默	ifmo
-沉沒	ifmo
+沉没	ifmo
 榇	ifmq
 出发没有	ifmy
 陈酿	ifnd
@@ -40407,8 +40407,7 @@ JK制服	jkvf
 加人一等	jryd
 见人有份	jryf
 见人有分	jryf
-圈養	jryh
-卷扬	jryh
+圈养	jryh
 倦意	jryi
 卷烟	jryj
 既然已经	jryj
@@ -54566,6 +54565,7 @@ JK制服	jkvf
 面授机宜	mujy
 马上就走	mujz
 木刻	muke
+美式咖啡	mukf
 猫屎咖啡	mukf
 没事可干	mukg
 马上看花	mukh
@@ -56957,6 +56957,7 @@ JK制服	jkvf
 匿迹销声	njxu
 南下	njxw
 南极仙翁	njxw
+男鞋	njxx
 年纪小小	njxx
 男性	njxy
 农家小院	njxy
@@ -64820,7 +64821,6 @@ P站	pvj
 犬牙	qrya
 全优	qryb
 确认一遍	qryb
-圈养	qryh
 权益	qryi
 泉眼	qryj
 亲如一家	qryj
@@ -66960,7 +66960,7 @@ P站	pvj
 认出	rfiu
 人畜	rfiu
 任教	rfjc
-人機	rfji
+人机	rfji
 人际	rfji
 人间	rfjm
 韧劲	rfjn
@@ -77078,7 +77078,7 @@ T恤衫	txuj
 收车	ubie
 寿辰	ubif
 收成	ubig
-收場	ubih
+收场	ubih
 说不出话	ubih
 手持	ubii
 设备陈旧	ubij
@@ -112269,7 +112269,7 @@ U盘	upj
 澳门人	amr
 安眠药	amy
 爱面子	amz
-安排給	apg
+安排给	apg
 安培计	apj
 安排上	apu
 安全部	aqb
@@ -113235,6 +113235,7 @@ s把把脉	bbm
 大范围	dfw
 丢饭碗	dfw
 答复我	dfw
+大方向	dfx
 地方性	dfx
 丹凤眼	dfy
 大分子	dfz
@@ -114930,7 +114931,7 @@ git	git
 纯粹是	icu
 储藏室	icu
 吃错药	icy
-充電寶	idb
+充电宝	idb
 沉甸甸	idd
 传动带	idd
 差点儿	ide
@@ -116346,7 +116347,7 @@ Keynote	knt
 毛孩子	mhz
 秒出警	mij
 没出息	mix
-马齿苋	mix
+没承想	mix
 毛巾被	mjb
 名角儿	mje
 面积分	mjf
@@ -116434,6 +116435,7 @@ Keynote	knt
 孟婆汤	mpt
 煤气表	mqb
 马其顿	mqd
+玛奇朵	mqd
 没去过	mqg
 煤气罐	mqg
 磨漆画	mqh
@@ -117316,7 +117318,7 @@ PVP	pvp
 敲门砖	qmv
 青年宫	qng
 去哪了	qnl
-去哪裏	qnl
+去哪里	qnl
 取暖器	qnq
 前女友	qny
 前男友	qny
@@ -117942,7 +117944,7 @@ SD卡	sdk
 扫一眼	syy
 撒丫子	syz
 三字词	szc
-四字詞	szc
+四字词	szc
 所在地	szd
 丧葬费	szf
 三字经	szj
@@ -119292,8 +119294,9 @@ SD卡	sdk
 无重码	wim
 未成年	win
 无产者	wiv
-微程序	wix
+未承想	wix
 无衬线	wix
+微程序	wix
 文昌鱼	wiy
 微积分	wjf
 微架构	wjg
@@ -119898,7 +119901,6 @@ Word	wrd
 瞎指挥	xvh
 新专辑	xvj
 行政科	xvk
-涎着脸	xvl
 下周六	xvl
 西直门	xvm
 下周末	xvm
@@ -120051,7 +120053,7 @@ Word	wrd
 一大堆	ydd
 移动端	ydd
 一点儿	yde
-有点二	yde
+有点儿	yde
 一顿饭	ydf
 羊癫疯	ydf
 一等功	ydg

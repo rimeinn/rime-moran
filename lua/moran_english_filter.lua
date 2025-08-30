@@ -1,9 +1,10 @@
 -- moran_english_filter.lua
 --
--- Version: 0.1
+-- Version: 0.1.1
 -- Author:  ksqsf
 -- License: GPLv3
 --
+-- 0.1.1: Relax matching criteria.
 -- 0.1: Add.
 
 -- == Developer notes ==
@@ -54,18 +55,27 @@ end
 
 -- | Check if the common prefix of @a and @b are equal (case-sensitive).
 local function match_case(a, b)
-   local len = math.min(#a, #b)
-   return a:sub(1, len) == b:sub(1, len)
+   -- local len = math.min(#a, #b)
+   -- return a:sub(1, len) == b:sub(1, len)
+
+   -- Should be more relaxed, because we only fuzzy match on the first letter.
+   return a:sub(1,1) == b:sub(1,1)
 end
 
 -- | Fix the case of @str to match that of @std.
 local function fix_case(str, std)
-   if #std >= #str then
-      return std:sub(1, #str)
-   else
-      local len = math.min(#str, #std)
-      return std:sub(1, len) .. str:sub(len + 1, -1)
+   -- if #std >= #str then
+   --    return std:sub(1, #str)
+   -- else
+   --    local len = math.min(#str, #std)
+   --    return std:sub(1, len) .. str:sub(len + 1, -1)
+   -- end
+
+   -- Should be more relaxed, because we only fuzzy match on the first letter.
+   if not str or not std then
+      return ""
    end
+   return std:sub(1,1) .. str:sub(2, -1)
 end
 
 -- | A fast check on the first byte of the string.
@@ -108,8 +118,8 @@ function Module.func(t_input, env)
          yield(c)
       elseif not str_is_proper(c.text) then
          -- c is fixable.
-         local fixed = fix_case(c.text, input)
-         yield(Candidate("english", 0, #input, fixed, ""))
+         local fixed_text = fix_case(c.text, input)
+         yield(ShadowCandidate(c, "english", fixed_text, "", true))
       else
          -- c is proper. It cannot be changed.
          if match_case(c.text, input) then
