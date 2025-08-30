@@ -191,5 +191,7 @@ deploy:
         assert: eq(cand[1].text, 'Hello')
       - send: 'U75'
         assert: eq(cand[1].text, 'u')
+      - send: 'ArchL'
+        assert: eq(cand[1].text, 'Arch Linux')
 
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rimeinn/mira/refs/heads/master/spec/mira.schema.json
