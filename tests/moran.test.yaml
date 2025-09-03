@@ -95,6 +95,20 @@ deploy:
       - send: lmjxz
         assert: eq(cand[1].text, "連接") and eq(cand[1].comment, "🎯")
 
+  word_ijrq:
+    patch:
+      moran/ijrq/enable_word: true
+    tests:
+      - send: lmjxf
+        assert: eq(cand[1].text, "連接") and eq(cand[2].text, "鏈接")
+  word_ijrq_defer:
+    patch:
+      moran/ijrq/enable_word: true
+      moran/ijrq/enable_word_defer: 2
+    tests:
+      - send: lmjxf
+        assert: eq(cand[1].text, "連接") and eq(cand[2].text, "聯接") and eq(cand[3].text, "鏈接")
+
   pin:
     options:
       emoji: false

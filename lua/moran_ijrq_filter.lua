@@ -2,9 +2,12 @@
 --
 -- Part of Project Moran
 -- License: GPLv3
--- Version: 0.2.0
+-- Version: 0.3.0
 
 -- ChangeLog:
+--
+-- 0.3.0: 增加 enable_word_defer 選項，若首選應下沉，則移動首選到該數
+--        目個候選之後。
 --
 -- 0.2.0: 增加 enable_word_delay 選項。若用戶非常熟悉輔助碼，可能會在
 --        輸入時直接打出輔助碼，這時出簡讓全的效果反而不是用戶期望的。
@@ -17,6 +20,12 @@ local Module = {}
 function Module.init(env)
    env.enabled = env.engine.schema.config:get_bool("moran/ijrq/enable_word")
    env.delay = env.engine.schema.config:get_int("moran/ijrq/enable_word_delay") or 0
+   env.defer = env.engine.schema.config:get_int("moran/ijrq/enable_word_defer") or 1
+
+   if env.enabled and (type(env.defer) ~= "number" or env.defer % 1 ~= 0 or env.defer <= 0) then
+      log.error("moran/enable_word_defer is not an integer >= 1! ijrq_filter is automatically disabled.")
+      env.enabled = false
+   end
 
    -- Debouncer
    env.last_timestamp = 0
@@ -80,38 +89,62 @@ function Module.func(t_input, env)
          return
       end
 
+      -- FIXME: The code is a mess.
+      -- Extend Yielder to support "floating" defer.
       local postpone = false
+      local initset = {}
       local pset = {}
-      local real_first_cand = nil  -- actually, it is only REAL if it is in the same GROUP
+      local defer = env.defer - 1
       for c in iter do
          -- a genuine cand may generate multiple cands
          local g = c:get_genuine()
          if g.text == env.last_first_cand then
             table.insert(pset, c)
-         else
-            real_first_cand = c
+         elseif defer > 0 then
+            table.insert(initset, c)
+            defer = defer - 1
+         elseif defer == 0 then
+            table.insert(initset, c)
             break
          end
       end
 
-      if real_first_cand then
-         if utf8.len(real_first_cand.text) == utf8.len(env.last_first_cand) then
-            -- same group!
-            postpone = true
+      -- yield candidates in the same group as last_first_cand
+      local skipped = 0
+      for i, c in ipairs(initset) do
+         if utf8.len(c.text) == utf8.len(env.last_first_cand) then
+            -- same group, yield first
+            yield(c)
+            skipped = skipped + 1
+            initset[i] = nil
          else
-            postpone = false
+            break
          end
       end
 
-      if postpone then
-         if real_first_cand then yield(real_first_cand) end
-         for _,c in pairs(pset) do yield(c) end
-         for c in iter do yield(c) end
-      else
-         for _,c in pairs(pset) do yield(c) end
-         if real_first_cand then yield(real_first_cand) end
-         for c in iter do yield(c) end
+      -- yield deferred candidates
+      for _,c in pairs(pset) do
+         yield(c)
       end
+
+      -- yield other candidates
+      for i = skipped + 1, #initset do
+         yield(initset[i])
+      end
+      for c in iter do
+         yield(c)
+      end
+      
+
+      -- if postpone then
+      --    if real_first_cand then yield(real_first_cand) end
+      --    for _,c in pairs(pset) do yield(c) end
+      --    for c in iter do yield(c) end
+      -- else
+      --    for _,c in pairs(pset) do yield(c) end
+      --    if real_first_cand then yield(real_first_cand) end
+      --    for c in iter do yield(c) end
+      -- end
    else
       moran.yield_all(iter)
    end
