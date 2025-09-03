@@ -3659,9 +3659,7 @@ AVL树	avlu
 包	bkg
 不可改变	bkgb
 曝光	bkgd
-不肯过江东	bkgd
 暴光	bkgd
-不可告人的目的	bkgd
 饱嗝	bkge
 不可更换	bkgh
 不可更换电池	bkgi
@@ -6202,7 +6200,6 @@ B盘	bpj
 不知多久	bvdj
 不知当讲不当讲	bvdj
 不知道了	bvdl
-白专道路	bvdl
 不知道怎么样了	bvdl
 不知道为什么	bvdm
 不知道呢	bvdn
@@ -29719,7 +29716,7 @@ H盘	hpj
 红糖	hsth
 红桃	hstk
 洪涛	hstk
-哄擡	hstl
+哄抬	hstl
 烘托	hsto
 红铜	hsts
 宏图	hstu
@@ -29882,7 +29879,7 @@ H盘	hpj
 黑陶文化	htwh
 红头文件	htwj
 哄抬物价	htwj
-哄擡物价	htwj
+哄抬物价	htwj
 回天无力	htwl
 回头望去	htwq
 回天无术	htwu
@@ -30408,8 +30405,8 @@ H盘	hpj
 恢弘	hvhs
 秽	hvhs
 会徽	hvhv
-回话	hvhw
 绘画	hvhw
+回话	hvhw
 惠	hvhx
 毁坏	hvhy
 烠	hvhy
@@ -43090,6 +43087,7 @@ JK制服	jkvf
 减员增效	jyzx
 节约资源	jyzy
 教育资源	jyzy
+就在	jz
 讲座	jz
 君子爱财	jzac
 君子爱财，取之有道	jzad
@@ -46847,6 +46845,7 @@ JK制服	jkvf
 两篇	ldpm
 两瓶	ldpy
 量瓶	ldpy
+亮屏	ldpy
 靓	ldq
 踉跄	ldqd
 劳动强度	ldqd
@@ -51114,7 +51113,6 @@ JK制服	jkvf
 领路	lylu
 两眼泪汪汪	lylw
 冷言冷语	lyly
-蓝银领域	lyly
 另类	lylz
 棂	lym
 另谋	lymb
@@ -52168,6 +52166,7 @@ JK制服	jkvf
 满分作文	mfzw
 模范作用	mfzy
 梦	mg
+每個	mg
 尨	mga
 盟邦	mgbh
 蒙蔽	mgbi
@@ -53909,6 +53908,7 @@ JK制服	jkvf
 墨镜	mojy
 嘿	mok
 墨客	moke
+模考	mokk
 魔窟	moku
 模块	moky
 耱	mol
@@ -72937,6 +72937,7 @@ P站	pvj
 膛	tho
 汤盆	thpf
 通货膨胀	thpv
+躺平	thpy
 汤泉	thqr
 倘	thr
 傥	thrd
@@ -73886,9 +73887,7 @@ P站	pvj
 铁路公安	tlga
 太广	tlgd
 天雷滚滚	tlgg
-擡杠	tlgh
-天雷勾地火	tlgh
-天雷勾动地火	tlgh
+抬杠	tlgh
 铁路工程	tlgi
 太高	tlgk
 抬高	tlgk
@@ -73928,7 +73927,7 @@ P站	pvj
 同类产品	tlip
 体力充沛	tlip
 逃了出去	tliq
-擡出	tliu
+抬出	tliu
 贪婪成性	tlix
 钛	tlj
 胎教	tljc
@@ -73946,7 +73945,7 @@ P站	pvj
 铁路交通	tljt
 抬举	tlju
 铁路建设	tlju
-擡价	tljw
+抬价	tljw
 台阶	tljx
 涕泪俱下	tljx
 呔	tlk
@@ -78800,7 +78799,7 @@ T恤衫	txuj
 盛赞	ugzj
 生造	ugzk
 上	uh
-上海	uh
+伤害	uh
 上	uha
 社会安定	uhad
 上岸	uhan
@@ -82728,6 +82727,7 @@ U盘	upj
 圣文森特和格林纳丁斯	uwss
 刷头	uwtb
 失望透顶	uwtd
+刷題	uwti
 深恶痛绝	uwtj
 商务谈判	uwtp
 水文特征	uwtv
@@ -85782,6 +85782,8 @@ U盘	upj
 窒息	vixi
 知悉	vixi
 直线	vixm
+支线	vixm
+知县	vixm
 知心	vixn
 质询	vixp
 之选	vixr
@@ -90251,6 +90253,7 @@ U盘	upj
 网关超时	wgiu
 我刚吃完	wgiw
 玩个锤子	wgiz
+𬭩	wgj
 万贯家财	wgjc
 我感觉到	wgjd
 武功尽废	wgjf
@@ -95684,6 +95687,7 @@ U盘	upj
 心潮澎湃	xipp
 系谱	xipu
 戏评	xipy
+熄屏	xipy
 歙	xiq
 细巧	xiqc
 笑出强大	xiqd
@@ -113043,6 +113047,8 @@ s把把脉	bbm
 词嵌入	cqr
 凑热闹	crn
 粗饲料	csl
+错题本	ctb
+错题集	ctj
 催吐剂	ctj
 磁铁矿	ctk
 磁通量	ctl
@@ -115371,6 +115377,7 @@ git	git
 肩胛骨	jjg
 九九歌	jjg
 几句话	jjh
+基金会	jjh
 交际花	jjh
 卷积核	jjh
 竞技场	jji
@@ -119277,7 +119284,6 @@ SD卡	sdk
 无花果	whg
 外行话	whh
 文化局	whj
-晚婚率	whl
 未婚妻	whq
 外行人	whr
 五花肉	whr

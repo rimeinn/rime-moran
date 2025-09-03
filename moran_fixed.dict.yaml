@@ -3758,9 +3758,7 @@ AVL樹	avlu
 包	bkg
 不可改變	bkgb
 曝光	bkgd
-不肯過江東	bkgd
 暴光	bkgd
-不可告人的目的	bkgd
 飽嗝	bkge
 不可更換	bkgh
 不可更換電池	bkgi
@@ -6335,7 +6333,6 @@ B盤	bpj
 不知多久	bvdj
 不知當講不當講	bvdj
 不知道了	bvdl
-白專道路	bvdl
 不知道怎麼樣了	bvdl
 不知道爲什麼	bvdm
 不知道呢	bvdn
@@ -30547,7 +30544,7 @@ H盤	hpj
 紅糖	hsth
 紅桃	hstk
 洪濤	hstk
-哄擡	hstl
+哄抬	hstl
 烘托	hsto
 紅銅	hsts
 宏圖	hstu
@@ -30707,7 +30704,7 @@ H盤	hpj
 昏頭轉向	htvx
 黑陶文化	htwh
 紅頭文件	htwj
-哄擡物價	htwj
+哄抬物價	htwj
 迴天無力	htwl
 回頭望去	htwq
 迴天無術	htwu
@@ -31270,8 +31267,8 @@ H盤	hpj
 恢弘	hvhs
 穢	hvhs
 會徽	hvhv
-回話	hvhw
 繪畫	hvhw
+回話	hvhw
 毀壞	hvhy
 蛔	hvi
 回茬	hvia
@@ -44329,6 +44326,7 @@ JK制服	jkvf
 減員增效	jyzx
 節約資源	jyzy
 教育資源	jyzy
+就在	jz
 講座	jz
 君子愛財	jzac
 君子愛財，取之有道	jzad
@@ -48178,6 +48176,7 @@ JK制服	jkvf
 兩篇	ldpm
 兩瓶	ldpy
 量瓶	ldpy
+亮屏	ldpy
 踉蹌	ldqd
 勞動強度	ldqd
 亮起	ldqi
@@ -52564,7 +52563,6 @@ JK制服	jkvf
 領路	lylu
 兩眼淚汪汪	lylw
 冷言冷語	lyly
-藍銀領域	lyly
 另類	lylz
 棱	lym
 另謀	lymb
@@ -53634,6 +53632,7 @@ JK制服	jkvf
 滿分作文	mfzw
 模範作用	mfzy
 夢	mg
+每個	mg
 尨	mga
 盟邦	mgbh
 矇蔽	mgbi
@@ -55446,6 +55445,7 @@ JK制服	jkvf
 墨鏡	mojy
 嚜	mok
 墨客	moke
+模考	mokk
 嗼	mokm
 魔窟	moku
 模塊	moky
@@ -74946,6 +74946,7 @@ P站	pvj
 曭	thod
 湯盆	thpf
 通貨膨脹	thpv
+躺平	thpy
 湯泉	thqr
 倘	thr
 儻	thrd
@@ -75941,10 +75942,7 @@ P站	pvj
 鐵路公安	tlga
 太廣	tlgd
 天雷滾滾	tlgg
-擡槓	tlgh
 抬槓	tlgh
-天雷勾地火	tlgh
-天雷勾動地火	tlgh
 鐵路工程	tlgi
 太高	tlgk
 抬高	tlgk
@@ -75984,7 +75982,7 @@ P站	pvj
 同類產品	tlip
 體力充沛	tlip
 逃了出去	tliq
-擡出	tliu
+抬出	tliu
 貪婪成性	tlix
 鈦	tlj
 胎教	tljc
@@ -76002,7 +76000,7 @@ P站	pvj
 鐵路交通	tljt
 抬舉	tlju
 鐵路建設	tlju
-擡價	tljw
+抬價	tljw
 臺階	tljx
 涕淚俱下	tljx
 太卡	tlka
@@ -80953,7 +80951,7 @@ T恤衫	txuj
 盛讚	ugzj
 生造	ugzk
 上	uh
-上海	uh
+傷害	uh
 上	uha
 社會安定	uhad
 上岸	uhan
@@ -84943,6 +84941,7 @@ U盤	upj
 聖文森特和格林納丁斯	uwss
 刷頭	uwtb
 失望透頂	uwtd
+刷題	uwti
 深惡痛絕	uwtj
 商務談判	uwtp
 水文特徵	uwtv
@@ -88067,6 +88066,8 @@ U盤	upj
 窒息	vixi
 知悉	vixi
 直線	vixm
+支線	vixm
+知縣	vixm
 知心	vixn
 質詢	vixp
 懥	vixp
@@ -92667,6 +92668,7 @@ U盤	upj
 網關超時	wgiu
 我剛喫完	wgiw
 玩個錘子	wgiz
+鎓	wgj
 萬貫家財	wgjc
 我感覺到	wgjd
 武功盡廢	wgjf
@@ -98261,6 +98263,7 @@ WiFi	wifi
 心潮澎湃	xipp
 系譜	xipu
 戲評	xipy
+熄屏	xipy
 歙	xiq
 細巧	xiqc
 笑出強大	xiqd
@@ -116131,6 +116134,8 @@ WiFi	wifi
 詞嵌入	cqr
 湊熱鬧	crn
 粗飼料	csl
+錯題本	ctb
+錯題集	ctj
 催吐劑	ctj
 磁鐵礦	ctk
 磁通量	ctl
@@ -118447,8 +118452,9 @@ git	git
 激將法	jjf
 肩胛骨	jjg
 九九歌	jjg
-交際花	jjh
 幾句話	jjh
+基金會	jjh
+交際花	jjh
 卷積核	jjh
 競技場	jji
 交界處	jji
@@ -122348,7 +122354,6 @@ SD卡	sdk
 無花果	whg
 外行話	whh
 文化局	whj
-晚婚率	whl
 未婚妻	whq
 外行人	whr
 五花肉	whr
@@ -123097,8 +123102,8 @@ Word	wrd
 又不是	ybs
 也不算	ybs
 也不太	ybt
-用不上	ybux
 一把手	ybu
+用不上	ybux
 用不着	ybv
 用不完	ybw
 也不晚	ybw
