@@ -32571,6 +32571,7 @@ use_preset_vocabulary: false
 齰	co;ix	0
 齰	ze;ix	0
 齱	zb;iq	0
+齱	io;iq	0
 齲	qu;iy	0
 齲	yu;iy	0
 齳	yr;ij	0
@@ -77476,7 +77477,8 @@ use_preset_vocabulary: false
 𢆩	by;jb	0	# auto
 𢆬	jm;gg	0	# auto
 𢆬	jm;uk	0	# auto
-𢆲	yb;yl	0	# auto
+𢆲	yb;ly	0
+𢆲	yb;yl	0
 𢆳	dc;yl	0	# auto
 𢆼	ji;yy	0	# auto
 𢆾	yb;py	0	# auto
