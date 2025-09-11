@@ -11,6 +11,7 @@ local charset = {
    ["[扩G]"] = { first = 0x30000, last = 0x3134f },
    ["[扩H]"] = { first = 0x31350, last = 0x323af },
    ["[扩I]"] = { first = 0x2ebf0, last = 0x2ee5f },
+   ["[扩J]"] = { first = 0x323B0, last = 0x3347f },
    ["[笔画]"] = { first = 0x31c0, last = 0x31ef },
    ["[部首补充]"] = { first = 0x2e80, last = 0x2eff },
    ["[康熙部首]"] = { first = 0x2f00, last = 0x2fdf },
@@ -19,7 +20,7 @@ local charset = {
    ["[汉字结构]"] = { first = 0x2ff0, last = 0x2fff },
    ["[注音]"] = { first = 0x3100, last = 0x312f },
    ["[注音扩展]"] = { first = 0x31a0, last = 0x31bf },
----汉字部分↑
+---汉字部分↑
    ["[拉丁文]"] = { first = 0x0000, last = 0x007f },
    ["[拉丁文补充]"] = { first = 0x0080, last = 0x00ff },
    ["[拉丁语扩展-A]"] = { first = 0x0100, last = 0x017f },
