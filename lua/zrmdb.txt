@@ -31374,8 +31374,8 @@
 鱝 yb
 鱞 yh
 鱞 yy
-鱟 jy
 鱟 yb
+鱟 jy
 鱠 yh
 鱡 yz
 鱢 yz
@@ -31428,8 +31428,8 @@
 鲋 yf
 鲌 yb
 鲍 yb
-鲎 dy
 鲎 yb
+鲎 dy
 鲏 yp
 鲐 yt
 鲑 yg
