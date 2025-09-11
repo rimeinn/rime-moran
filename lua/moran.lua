@@ -106,7 +106,7 @@ function Module.drain_translation(translator, input, seg, transform)
    return results
 end
 
----Check if a Unicode codepoint is a Chinese character. Up to Unicode 15.1.
+---Check if a Unicode codepoint is a Chinese character. Up to Unicode 17.
 ---@param codepoint integer
 ---@return boolean
 function Module.unicode_code_point_is_chinese(codepoint)
@@ -120,6 +120,7 @@ function Module.unicode_code_point_is_chinese(codepoint)
       or (codepoint >= 0x30000 and codepoint <= 0x3134A)  -- ext g
       or (codepoint >= 0x31350 and codepoint <= 0x323AF)  -- ext h
       or (codepoint >= 0x2EBF0 and codepoint <= 0x2EE5F)  -- ext i
+      or (codepoint >= 0x323B0 and codepoint <= 0x3347f)  -- ext j
 end
 
 ---Get a stateful iterator of each unicode character in a string.

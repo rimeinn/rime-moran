@@ -148,3 +148,70 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+def is_valid_pinyin(s):
+    """
+    判断字符串是否由声母和韵母组成的有效拼音音节
+    """
+    if not s:
+        return False
+    
+    # 声母列表（包括零声母情况）
+    initials = [
+        'b', 'p', 'm', 'f',
+        'd', 't', 'n', 'l', 
+        'g', 'k', 'h',
+        'j', 'q', 'x',
+        'zh', 'ch', 'sh', 'r',
+        'z', 'c', 's',
+        'y', 'w'
+    ]
+    
+    # 韵母列表
+    finals = [
+        # 单韵母
+        'a', 'o', 'e', 'i', 'u', 'v',
+        # 复韵母
+        'ai', 'ei', 'ao', 'ou',
+        'ia', 'ie', 'iao', 'iou', 'ua', 'uo', 'uai', 'ui',
+        've', 'ue',
+        # 鼻韵母
+        'an', 'en', 'in', 'un', 'vn',
+        'ang', 'eng', 'ing', 'ong',
+        'ian', 'uan', 'van',
+        'iang', 'uang', 'iong',
+        # 特殊韵母
+        'er'
+    ]
+    
+    # 尝试匹配声母+韵母的组合
+    for initial in sorted(initials, key=len, reverse=True):
+        if s.startswith(initial):
+            remaining = s[len(initial):]
+            if remaining in finals:
+                return True
+    
+    # 检查零声母情况（直接以韵母开头）
+    if s in finals:
+        return True
+        
+    # 检查一些特殊的韵母变化规则
+    # 如 iou -> iu, uei -> ui, uen -> un
+    special_mappings = {
+        'iu': 'iou',
+        'ui': 'uei', 
+        'un': 'uen'
+    }
+    
+    for initial in sorted(initials, key=len, reverse=True):
+        if s.startswith(initial):
+            remaining = s[len(initial):]
+            if remaining in special_mappings and special_mappings[remaining] in finals:
+                return True
+    
+    # 检查直接的特殊韵母
+    for special in special_mappings:
+        if s == special:
+            return True
+    
+    return False
