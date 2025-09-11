@@ -219,15 +219,6 @@ reverse_tick:
   tag: reverse_tick
   prefix: "`"
 
-reverse_lookup:
-  extra_tags:
-    - reverse_tiger
-    - reverse_universal
-    - reverse_stroke
-    - reverse_cangjie5
-    - reverse_zrlf
-    - reverse_tick
-
 punctuator:
   import_preset: symbols
 
