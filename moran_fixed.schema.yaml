@@ -21,6 +21,8 @@ switches:
     states: [ 🈚, 🈶 ]
   - name: chaifen
     states: [ 不拆, 扌斥 ]
+  - name: pinyinhint
+    states: [ 🔇, 🔊 ]
   - name: unicode_comment
     states: [ U關, U開 ]
   - options: [ std_opencc,  std_tw, std_hk, std_dzing ]
@@ -59,6 +61,7 @@ engine:
   filters:
     - lua_filter@*moran_pin*pin_filter
     - simplifier@chaifen
+    - simplifier@pinyinhint
     - simplifier@std_hk
     - simplifier@std_tw
     - simplifier@std_dzing
@@ -134,6 +137,14 @@ quick_repeat:  # 快速重複上屏
 simplifier:
   option_name: simplification
   opencc_config: moran_t2s.json
+
+pinyinhint:
+  option_name: pinyinhint
+  opencc_config: moran_pinyinhint.json
+  tips: char
+  show_in_comment: true
+  comment_format:
+    __include: :/chaifen/comment_format
 
 std_hk:
   opencc_config: t2hk.json

@@ -227,7 +227,7 @@ reverse_tick:
   __include: reverse_zrlf
   tag: reverse_tick
   prefix: "`"
- 
+
 punctuator:
   import_preset: symbols
 
