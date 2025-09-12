@@ -29,11 +29,11 @@ switches:
     states: [ 🈚, 🈶 ]
   - name: chaifen
     states: [ 不拆, 扌斥 ]
+  - name: pinyinhint
+    states: [ 🔇, 🔊 ]
   - name: unicode_comment
     states: [ U關, U開 ]
-  - name: dzing
-    states: [ 通, 寍 ]
-  - options: [ std_opencc,  std_tw, std_hk, std_dzing ]
+  - options: [ std_opencc, std_tw, std_hk, std_dzing ]
     states: [ 通, 臺, 港, 寍 ]
 
 engine:
@@ -75,6 +75,7 @@ engine:
     - lua_filter@*moran_pin*pin_filter
     - simplifier@emoji
     - simplifier@chaifen
+    - simplifier@pinyinhint
     - simplifier
     - simplifier@std_tw
     - simplifier@std_hk
@@ -157,6 +158,14 @@ chaifen:
     - "xform/-/ /"
     - "xform/〕〔/｜/"
 
+pinyinhint:
+  option_name: pinyinhint
+  opencc_config: moran_pinyinhint.json
+  tips: char
+  show_in_comment: true
+  comment_format:
+    __include: :/chaifen/comment_format
+
 std_hk:
   opencc_config: t2hk.json
   option_name: std_hk
@@ -218,7 +227,7 @@ reverse_tick:
   __include: reverse_zrlf
   tag: reverse_tick
   prefix: "`"
-
+ 
 punctuator:
   import_preset: symbols
 
