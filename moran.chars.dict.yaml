@@ -123226,10 +123226,7 @@ use_preset_vocabulary: false
 𲛑	ba;ns	0	# auto
 𲛒	jm;nj	0	# auto
 𲛓	jr;nq	0	# auto
-𲛔	xh;un	0	# auto
-𲛔	xh;nu	0	# auto
-𲛔	nh;un	0	# auto
-𲛔	nh;nu	0	# auto
+𲛔	uh;nu	0	# auto
 𲛖	ai;nu	0	# auto
 𲛗	gy;ng	0	# auto
 𲛗	yk;ng	0	# auto
@@ -123251,7 +123248,7 @@ use_preset_vocabulary: false
 𲛥	mu;nm	0	# auto
 𲛥	yk;nm	0	# auto
 𲛥	mo;nm	0	# auto
-𲛧	nh;nn	0	# auto
+𲛧	ng;nn	0
 𲛨	qu;nq	0	# auto
 𲛩	yj;ny	0	# auto
 𲛪	di;nq	0	# auto
