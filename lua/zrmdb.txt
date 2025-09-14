@@ -39827,6 +39827,7 @@
 𡦵 zl
 𡦷 zm
 𡦸 hx
+𡦹 da
 𡦻 bj
 𡦼 br
 𡦽 bw
@@ -41526,6 +41527,8 @@
 𢀍 jy
 𢀐 sj
 𢀒 gg
+𢀓 aa
+𢀓 ga
 𢀕 gg
 𢀖 gd
 𢀗 gg
@@ -86411,6 +86414,8 @@
 𬻸 vw
 𬻼 dd
 𬻼 sd
+𬻿 dd
+𬼂 pd
 𬼃 pj
 𬼈 pk
 𬼈 qk
@@ -87297,6 +87302,8 @@
 𭑃 dy
 𭑅 dk
 𭑈 tt
+𭑊 jd
+𭑊 df
 𭑋 dd
 𭑋 du
 𭑌 fj
@@ -87702,6 +87709,7 @@
 𭚣 gj
 𭚣 yj
 𭚤 gg
+𭚥 dg
 𭚦 gg
 𭚧 gu
 𭚨 gl
