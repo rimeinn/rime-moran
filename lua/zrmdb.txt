@@ -99071,7 +99071,6 @@
 𲚷 dy
 𲚸 ud
 𲚺 db
-𲚻 dx
 𲚽 do
 𲚾 do
 𲚿 tb
@@ -99301,7 +99300,6 @@
 𲠓 xw
 𲠕 xq
 𲠕 jx
-𲠖 dj
 𲠙 hx
 𲠙 xo
 𲠚 jx
@@ -99519,7 +99517,6 @@
 𲥕 gj
 𲥘 vo
 𲥘 ov
-𲥙 oy
 𲥚 ox
 𲥛 oq
 𲥝 of
@@ -100323,7 +100320,6 @@
 𲷲 sq
 𲷳 sj
 𲷴 sv
-𲷶 sj
 𲷷 sq
 𲷺 sk
 𲷾 ws
@@ -100383,7 +100379,6 @@
 𲹖 ym
 𲹞 dp
 𲹞 yp
-𲹡 vl
 𲹧 lg
 𲹨 ea
 𲹩 eg
@@ -101269,7 +101264,6 @@
 𳎲 nv
 𳎵 gn
 𳎵 ng
-𳎶 nl
 𳎷 yn
 𳎷 ny
 𳎹 ni
