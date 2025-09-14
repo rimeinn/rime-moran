@@ -129,6 +129,11 @@ ALL_PINYIN = ["a", "ai", "an", "ang", "ao", "ba", "bai", "ban", "bang", "bao", "
 
 ALL_ZRMSP = [zrmify1(py) for py in ALL_PINYIN]
 
+import string
+import itertools
+
+ALL_NON_SP = sorted(list(set(a+b for (a,b) in itertools.product(string.ascii_lowercase, string.ascii_lowercase)) - set(ALL_ZRMSP)))
+
 def _test_roundtrip():
     for py in ALL_PINYIN:
         sp = zrmify1(py)

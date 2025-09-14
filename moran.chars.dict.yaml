@@ -123034,7 +123034,7 @@ use_preset_vocabulary: false
 𲖞	cv;kc	0	# auto
 𲖢	sl;ku	0	# auto
 𲖣	fj;kf	0	# auto
-𲖪	bv;kb	0	# auto
+𲖪	bz;kb	0	# auto
 𲖫	xi;kx	0	# auto
 𲖯	yj;km	0	# auto
 𲖷	ye;km	0	# auto
@@ -123051,7 +123051,7 @@ use_preset_vocabulary: false
 𲗋	uu;kd	0	# auto
 𲗌	hu;km	0	# auto
 𲗗	ya;ky	0	# auto
-𲗘	bq;kb	0	# auto
+𲗘	bc;kb	0	# auto
 𲗞	pn;ky	0	# auto
 𲗟	mu;km	0	# auto
 𲗡	jc;kc	0	# auto
@@ -123212,7 +123212,6 @@ use_preset_vocabulary: false
 𲚷	no;dy	0	# auto
 𲚸	yj;ud	0	# auto
 𲚺	yj;db	0	# auto
-𲚻	hi;dx	0	# auto
 𲚽	vi;do	0	# auto
 𲚽	zi;do	0	# auto
 𲚾	da;do	0	# auto
@@ -123511,7 +123510,6 @@ use_preset_vocabulary: false
 𲠓	wo;xw	0	# auto
 𲠕	qt;xq	0	# auto
 𲠕	qt;jx	0	# auto
-𲠖	gi;dj	0	# auto
 𲠙	jr;hx	0	# auto
 𲠙	jr;xo	0	# auto
 𲠚	ji;jx	0	# auto
@@ -123576,8 +123574,9 @@ use_preset_vocabulary: false
 𲡟	nl;uk	0	# auto
 𲡟	nl;ku	0	# auto
 𲡠	hv;fh	0	# auto
-𲡠	fy;fh	0	# auto
 𲡠	nx;fh	0	# auto
+𲡠	fy;fh	0	# auto
+𲡠	fh;fh	0	# auto
 𲡡	li;fl	0	# auto
 𲡡	ll;fl	0	# auto
 𲡡	lx;fl	0	# auto
@@ -123780,7 +123779,6 @@ use_preset_vocabulary: false
 𲥘	ii;ov	0	# auto
 𲥘	di;vo	0	# auto
 𲥘	di;ov	0	# auto
-𲥙	gi;oy	0	# auto
 𲥚	xd;ox	0	# auto
 𲥛	qr;oq	0	# auto
 𲥝	fh;of	0	# auto
@@ -124440,7 +124438,7 @@ use_preset_vocabulary: false
 𲱡	bo;bb	0	# auto
 𲱢	vf;bv	0	# auto
 𲱣	yi;by	0	# auto
-𲱥	bv;bb	0	# auto
+𲱥	bz;bb	0	# auto
 𲱩	na;bu	0	# auto
 𲱪	jx;bj	0	# auto
 𲱬	lw;bl	0	# auto
@@ -124637,6 +124635,7 @@ use_preset_vocabulary: false
 𲵛	hk;hg	0	# auto
 𲵜	ji;hj	0	# auto
 𲵝	iw;hm	0	# auto
+𲵝	kh;hm	0	# auto
 𲵞	ku;xu	0	# auto
 𲵟	id;xt	0	# auto
 𲵠	fh;xf	0	# auto
@@ -124766,7 +124765,6 @@ use_preset_vocabulary: false
 𲷲	qu;sq	0	# auto
 𲷳	pz;sj	0	# auto
 𲷴	ia;sv	0	# auto
-𲷶	gi;sj	0	# auto
 𲷷	xi;sq	0	# auto
 𲷺	rf;sk	0	# auto
 𲷾	jn;ws	0	# auto
@@ -124844,8 +124842,6 @@ use_preset_vocabulary: false
 𲹖	bk;ym	0	# auto
 𲹞	vf;dp	0	# auto
 𲹞	vf;yp	0	# auto
-𲹡	dz;vl	0	# auto
-𲹡	de;vl	0	# auto
 𲹧	gw;lg	0	# auto
 𲹨	qu;ea	0	# auto
 𲹩	gs;eg	0	# auto
@@ -125902,7 +125898,6 @@ use_preset_vocabulary: false
 𳎲	vi;nv	0	# auto
 𳎵	vi;gn	0	# auto
 𳎵	vi;ng	0	# auto
-𳎶	gi;nl	0	# auto
 𳎷	si;yn	0	# auto
 𳎷	si;ny	0	# auto
 𳎹	ig;ni	0	# auto
