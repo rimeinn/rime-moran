@@ -126108,6 +126108,7 @@ use_preset_vocabulary: false
 𳑲	yu;vh	0	# auto
 𳑳	ls;as	0	# auto
 𳑶	ls;ly	0	# auto
+𲰼	ta;ny	0
 
 # 一些會對正常輸入造成干擾的字
 # 直接禁用掉
