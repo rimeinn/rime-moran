@@ -8,10 +8,13 @@ jobs:
         schema: [moran, moran_aux, moran.hint, moran.charset]
     steps:
       - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
       - name: Set up Mira
         run: |
           wget https://github.com/rimeinn/mira/releases/download/latest/mira
           chmod +x mira
+      - name: Build
+        run: cd tools && sudo apt-get install -y opencc && uv run make quick
       - name: Test ${{ matrix.schema }}
         run: ./mira -C cache tests/${{ matrix.schema }}.test.yaml
 

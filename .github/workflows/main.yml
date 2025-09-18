@@ -35,10 +35,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: |
+      - name: Build
+        run: |
+          sudo apt install -y opencc
           git archive HEAD -o archive.tar
           mkdir -p dist
           tar xf archive.tar -C dist
+          ( cd dist/tools; make opencc )
           rm -rf dist/tools dist/.git dist/.github dist/make_simp_dist.sh dist/tests
       - uses: actions/upload-artifact@v4
         with:

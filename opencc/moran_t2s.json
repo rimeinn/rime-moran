@@ -3,22 +3,19 @@
   "segmentation": {
     "type": "mmseg",
     "dict": {
-      "type": "ocd2",
-      "file": "moran_TSPhrases.ocd2"
+      "type": "text",
+      "file": "moran_TSPhrases.txt"
     }
   },
   "conversion_chain": [{
     "dict": {
       "type": "group",
       "dicts": [{
+        "type": "text",
+        "file": "moran_TSPhrases.txt"
+      }, {
         "type": "ocd2",
-        "file": "moran_TSPhrases.ocd2"
-      }, {
-        "type": "text",
-        "file": "moran_TSCharacters.txt"
-      }, {
-        "type": "text",
-        "file": "moran_t2s_fix.txt"
+        "file": "moran_TSCharacters.ocd2"
       }]
     }
   }]

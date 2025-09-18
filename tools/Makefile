@@ -1,12 +1,12 @@
-quick: gen-zrmdb gen-chai-filter
+quick: gen-zrmdb gen-chai-filter opencc
 
-all: gen-zrmdb gen-chai-filter update-compact-dicts
+all: gen-zrmdb gen-chai-filter update-compact-dicts opencc
 
 gen-zrmdb:
 	python3 gen_zrmdb.py > data/zrmdb.txt
 
 gen-chai-filter:
-	python3 gen_chaifen_filter.py > ../opencc/moran_chaifen.txt
+	python3 gen_chaifen_filter.py > ./data/opencc/moran_chaifen.txt
 
 dict: update-compact-dicts
 
@@ -21,4 +21,7 @@ dazhu:
 sync-essay:
 	python3 sync_essay.py
 
-.PHONY: quick all dict gen-zrmdb gen-chai-filter update-compact-dicts dazhu sync-essay
+opencc:
+	bash update_opencc.sh
+
+.PHONY: quick all dict gen-zrmdb gen-chai-filter update-compact-dicts dazhu sync-essay opencc

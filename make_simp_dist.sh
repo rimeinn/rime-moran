@@ -19,7 +19,6 @@ tar xf archive.tar -C dist
 rm archive.tar
 cd dist
 
-
 ########################################################################
 # 更新单字字频
 # 这一步把 moran.chars.dict.yaml 中的字频替换成 data/pinyin_simp.txt 中
@@ -47,7 +46,7 @@ compact_dicts=(
 
 simplifyDict() {  # 将 $1 中的所有汉字繁转简
     cp $1 $1.bak
-    opencc -c opencc/moran_t2s.json -i $1.bak -o $1
+    opencc -c t2s.json -i $1.bak -o $1
     rm $1.bak
 }
 
@@ -106,9 +105,9 @@ sedi 's|(env.engine.context:get_option("simplification") == true)|(env.engine.co
 ########################################################################
 # 替换 emoji 用字为简体字
 ########################################################################
-simplifyDict opencc/moran_emoji.txt
-sort -k 1,1 -u opencc/moran_emoji.txt > /tmp/moran_emoji.txt
-mv /tmp/moran_emoji.txt opencc/moran_emoji.txt
+simplifyDict tools/data/opencc/moran_emoji.txt
+sort -k 1,1 -u tools/data/opencc/moran_emoji.txt > /tmp/moran_emoji.txt
+mv /tmp/moran_emoji.txt tools/data/opencc/moran_emoji.txt
 
 
 ########################################################################
@@ -118,6 +117,12 @@ simplifyDict lua/moran_shijian.lua
 simplifyDict lua/moran_charset_comment_filter.lua
 simplifyDict lua/moran_pin.lua
 simplifyDict moran_custom_phrases.txt
+
+
+########################################################################
+# opencc data
+########################################################################
+(cd tools; bash update_opencc.sh)
 
 ########################################################################
 # 打包
