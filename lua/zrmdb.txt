@@ -44461,6 +44461,8 @@
 𢦎 gj
 𢦎 jg
 𢦏 gu
+𢦐 gx
+𢦐 gk
 𢦑 yp
 𢦑 gp
 𢦒 ge
@@ -99641,7 +99643,6 @@
 𲧰 xq
 𲧱 vk
 𲧱 kv
-𲧲 vj
 𲧳 vg
 𲧶 va
 𲧶 bv
