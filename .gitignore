@@ -20,3 +20,4 @@ pinyin_simp*
 sync/
 .env
 .pdm-python
+opencc/*.ocd2
