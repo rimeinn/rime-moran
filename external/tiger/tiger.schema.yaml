@@ -1,0 +1,85 @@
+schema:
+  author:
+    - {}
+  description: |
+    虎码官方单字
+    敲 ` 鍵進入拼音反查
+  name: "虎码官方单字"
+  schema_id: tiger
+  version: 0.9
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+  # - options: [ gbk+emoji, utf8 ]
+  #   states: [ GBK, UTF-8 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - reverse_lookup_translator
+    - table_translator
+  filters:
+    # - charset_filter@gbk+emoji
+    # - charset_filter@utf8
+    - uniquifier
+
+speller:
+  auto_clear: max_length
+  auto_select: true
+  max_code_length: 4
+
+
+translator:
+  dictionary: tiger
+  enable_charset_filter: false
+  enable_encoder: true
+  enable_sentence: false
+  encode_commit_history: true
+  max_phrase_length: 4
+  enable_user_dict: false
+  enable_completion: false
+
+reverse_lookup:
+  dictionary: moran.chars
+  prefix: "`"
+  suffix: "'"
+  tips: "〔魔然〕"
+
+punctuator:
+  import_preset: symbols
+
+key_binder:
+#  import_preset: default
+  bindings:
+    - {accept: semicolon, send: 2, when: has_menu}
+
+recognizer:
+  import_preset: default
+  patterns:
+    punct: '^/([0-9]0?|[A-Za-z]+)$'
+    reverse_lookup: "^`[a-z]*'?$"
+
+
+#menu:
+#  page_size: 3

@@ -22,6 +22,7 @@ from pypinyin import lazy_pinyin
 from operator import *
 import re
 import regex
+from fileutils import *
 
 
 double_pinyin_choices = ['zrm', 'flypy']
@@ -124,8 +125,8 @@ def iter_char_codes(char, pinyin):
         yield from iter([])
 
 
-def char_codes(char, pinyin):
-    if 'compact' in args and args.compact:
+def char_codes(char, pinyin, compact=False):
+    if compact:
         try:
             return [next(iter_char_codes(char, pinyin))]
         except StopIteration:
@@ -166,16 +167,18 @@ def word_to_pinyin(word):
         return ' '.join(lazy_pinyin(word))
 
 
-def iter_word_codes(word, pinyin=None):
+def iter_word_codes(word, pinyin=None, strict=False, compact=False):
     # filter out special symbols
     word = ''.join(regex.findall(r'\p{Han}', word))
-    if not pinyin:
+    if not pinyin and not strict:
         pinyin = word_to_pinyin(word)
-    yield from (' '.join(tuple) for tuple in product(*[char_codes(c, p) for (c, p) in zip(word, pinyin.split())]))
+    elif not pinyin and strict:
+        raise RuntimeError('want strict and no pinyin')
+    yield from (' '.join(tuple) for tuple in product(*[char_codes(c, p, compact=compact) for (c, p) in zip(word, pinyin.split())]))
 
 
-def word_codes(word, pinyin=None):
-    return list(iter_word_codes(word, pinyin))
+def word_codes(word, pinyin=None, strict=False, compact=False):
+    return list(iter_word_codes(word, pinyin, compact=compact, strict=strict))
 
 
 def read_input_dict():
@@ -213,7 +216,7 @@ def handle_gen_dict():
                 opencc_for_output = opencc.OpenCC(args.opencc_for_output)
             output_word = opencc_for_output.convert(word)
 
-        for code in iter_word_codes(output_word, pinyin):
+        for code in iter_word_codes(output_word, pinyin, 'compact' in args and args.compact):
             if 'no_freq' in args and args.no_freq:
                 print(f'{output_word}\t{code}')
             else:
@@ -632,6 +635,7 @@ def handle_dict_to_py():
             l = l.rstrip('\n')
             m = regex.match(r'^([^\t]+)\t([a-z; ]+)(.*)$', l)
             if not m:
+                print(l)
                 continue
             word = m[1]
             code = m[2]
@@ -640,6 +644,26 @@ def handle_dict_to_py():
             pys = [ zrmify.unzrmify1(sp) for sp in sps ]
             py = ' '.join(pys)
             print(f'{word}\t{py}{rest}')
+
+
+def handle_dict_from_py():
+    for is_data, l in lines_split_header(args.rime_dict):
+        if not is_data or l.startswith('#'):
+            print(l)
+            continue
+        [text, *rest] = l.split('\t')
+        if len(rest) >= 1:
+            [py, *other] = rest
+            if len(py) == 0:
+                code = ""
+            else:
+                code = word_codes(text, py, strict=True, compact=True)[0]
+            if other:
+                print(f"{text}\t{code}\t{'\t'.join(other)}")
+            else:
+                print(f"{text}\t{code}")
+        else:
+            print(f"{text}")
 
 
 ###############
@@ -698,6 +722,9 @@ convert_fixed_sp.add_argument('--to', choices=double_pinyin_choices, help='目�
 dict_to_py = subparsers.add_parser('dict-to-py', help='詞庫轉換爲全拼格式')
 dict_to_py.add_argument('--rime-dict', help='輸入rime格式詞庫', required=True)
 
+dict_from_py = subparsers.add_parser('dict-from-py', help='將全拼詞庫轉換爲魔然格式')
+dict_from_py.add_argument('--rime-dict', help='輸入rime格式詞庫', required=True)
+
 # flykey_fixed = subparsers.add_parser('flykey-fixed', help='碼表自動飛鍵')
 # flykey_fixed.add_argument('--pattern', help='輸入飛鍵', required=True, action='append')
 # flykey_fixed.add_argument('--rime-dict', help='碼表', required=True)
@@ -722,6 +749,8 @@ if __name__ == '__main__':
         handle_convert_fixed_sp()
     elif args.command == 'dict-to-py':
         handle_dict_to_py()
+    elif args.command == 'dict-from-py':
+        handle_dict_from_py()
     # elif args.command == 'flykey-fixed':
     #     handle_flykey_fixed()
 

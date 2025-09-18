@@ -1,168 +1,122 @@
-on: [push]
+on:
+  push:
+  workflow_dispatch:
+    inputs:
+      enable_tmate:
+        description: 'Enable tmate debugging'
+        required: false
+        default: false
+        type: boolean
+
 jobs:
-  simplified-moran:
+  build:
+    runs-on: ubuntu-24.04
+    strategy:
+      matrix:
+        variant: [trad, simp]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup uv
+        uses: astral-sh/setup-uv@v5
+      - name: Install dependencies
+        run: sudo apt-get install -y opencc p7zip-full cmake
+      - name: Build variant ${{ matrix.variant }}
+        run: |
+          uv venv && uv pip install -e .
+          cmake -S. -Bbuild -DMORAN_VARIANT=${{ matrix.variant }} && cmake --build build && cmake --install build
+      - name: Upload full pack (${{ matrix.variant }})
+        uses: actions/upload-artifact@v4
+        with:
+          name: "${{ matrix.variant == 'trad' && 'Trad' || 'Simp' }}-FullPack"
+          path: dist/**
+      - name: Upload dicts (${{ matrix.variant }})
+        uses: actions/upload-artifact@v4
+        with:
+          name: "${{ matrix.variant == 'trad' && 'Trad' || 'Simp' }}-DictsOnly"
+          path: |
+            dist/moran.base.dict.yaml
+            dist/moran.tencent.dict.yaml
+            dist/moran.moe.dict.yaml
+            dist/moran.computer.dict.yaml
+            dist/moran.words.dict.yaml
+      - name: Deploy to branch ${{ matrix.variant }}
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.ref }} == "refs/heads/master"
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: ${{ matrix.variant }}
+      - name: Setup tmate session
+        if: ${{ github.event.inputs.enable_tmate == 'true' }}
+        uses: mxschmitt/action-tmate@v3
+
+  test:
     if: ${{ github.repository == 'rimeinn/rime-moran' }}
-    runs-on: ubuntu-latest
+    needs: [build]
+    runs-on: ubuntu-24.04
+    strategy:
+      matrix:
+        schema: [moran, moran_aux, moran.hint, moran.charset]
     steps:
       - uses: actions/checkout@v4
       - uses: astral-sh/setup-uv@v5
-      - run: sudo apt install opencc p7zip-full
-      - run: uv run --project tools -- ./make_simp_dist.sh github
-      - uses: actions/upload-artifact@v4
+      - name: Download full pack (trad)
+        uses: actions/download-artifact@v4
         with:
-          name: "Simp-FullPack"
-          path: dist/**
-      - uses: actions/upload-artifact@v4
-        with:
-          name: "Simp-DictsOnly"
-          path: |
-            dist/moran.base.dict.yaml
-            dist/moran.tencent.dict.yaml
-            dist/moran.moe.dict.yaml
-            dist/moran.computer.dict.yaml
-            dist/moran.words.dict.yaml
-      - name: Deploy to branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          publish_branch: simp
+          name: "Trad-FullPack"
+      - name: Set up Mira
+        run: |
+          wget https://github.com/rimeinn/mira/releases/download/latest/mira
+          chmod +x mira
+      - name: Test ${{ matrix.schema }}
+        run: ./mira -C cache tests/${{ matrix.schema }}.test.yaml
       - name: Setup tmate session
         if: ${{ failure() }}
         uses: mxschmitt/action-tmate@v3
-  traditional-moran:
+
+  demo:
     if: ${{ github.repository == 'rimeinn/rime-moran' }}
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
+    needs: [build]
+    strategy:
+      matrix:
+        variant: [trad, simp]
+    steps:
+      - name: Download full pack (${{ matrix.variant }})
+        uses: actions/download-artifact@v4
+        with:
+          name: "${{ matrix.variant == 'trad' && 'Trad' || 'Simp' }}-FullPack"
+      - name: Build demo ${{ matrix.variant }}
+        run: |
+          sudo apt install -y librime-data librime-bin
+          rm -f *.gram
+          cat >moran.extended.dict.yaml <<EOF
+          ---
+          name: moran.extended
+          version: "mini"
+          sort: by_weight
+          use_preset_vocabulary: false
+          import_tables: [moran.chars, moran.base, moran.words]
+          ...
+          EOF
+
+          rime_deployer --build . /usr/share/rime-data ./build
+          rm -rf ./*.yaml
+
+      - name: Upload demo ${{ matrix.variant }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: "${{ matrix.variant == 'trad' && 'Trad' || 'Simp' }}-Demo"
+          path: |
+            build/
+            lua/
+            opencc/
+
+  dict_qa:
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
-      - name: Build
-        run: |
-          sudo apt install -y opencc
-          git archive HEAD -o archive.tar
-          mkdir -p dist
-          tar xf archive.tar -C dist
-          ( cd dist/tools; make opencc )
-          rm -rf dist/tools dist/.git dist/.github dist/make_simp_dist.sh dist/tests
-      - uses: actions/upload-artifact@v4
-        with:
-          name: "Trad-FullPack"
-          path: dist/**
-      - uses: actions/upload-artifact@v4
-        with:
-          name: "Trad-DictsOnly"
-          path: |
-            dist/moran.base.dict.yaml
-            dist/moran.tencent.dict.yaml
-            dist/moran.moe.dict.yaml
-            dist/moran.computer.dict.yaml
-            dist/moran.words.dict.yaml
-      - name: Deploy to branch
-        if: ${{ github.repository == 'rimeinn/rime-moran' }}
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          publish_branch: trad
-
-  demo-simp:
-    if: ${{ github.repository == 'rimeinn/rime-moran' }}
-    runs-on: ubuntu-24.04
-    needs: [simplified-moran]
-    steps:
-      - uses: actions/download-artifact@v4
-        with:
-          name: Simp-FullPack
-      - name: Build
-        run: |
-          sudo apt install -y librime-data librime-bin
-
-          rm -f *.gram
-          cat >moran.extended.dict.yaml <<EOF
-          ---
-          name: moran.extended
-          version: "mini"
-          sort: by_weight
-          use_preset_vocabulary: false
-          import_tables: [moran.chars, moran.base, moran.words]
-          ...
-          EOF
-
-          rime_deployer --build . /usr/share/rime-data ./build
-          rm -rf ./*.yaml
-      - uses: actions/upload-artifact@v4
-        with:
-          name: Simp-Demo
-          path: |
-            build/
-            lua/
-            opencc/
-
-  demo-trad:
-    if: ${{ github.repository == 'rimeinn/rime-moran' }}
-    runs-on: ubuntu-24.04
-    needs: [traditional-moran]
-    steps:
-      - uses: actions/download-artifact@v4
-        with:
-          name: Trad-FullPack
-      - name: Build
-        run: |
-          sudo apt install -y librime-data librime-bin
-
-          rm -f *.gram
-          cat >moran.extended.dict.yaml <<EOF
-          ---
-          name: moran.extended
-          version: "mini"
-          sort: by_weight
-          use_preset_vocabulary: false
-          import_tables: [moran.chars, moran.base, moran.words]
-          ...
-          EOF
-
-          rime_deployer --build . /usr/share/rime-data ./build
-          rm -rf ./*.yaml
-      - uses: actions/upload-artifact@v4
-        with:
-          name: Trad-Demo
-          path: |
-            build/
-            lua/
-            opencc/
-
-  # upload-to-hamster:
-  #   needs: [simplified-moran, traditional-moran]
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #     - name: Checkout code
-  #       uses: actions/checkout@v4
-
-  #     - name: Download Simplified Moran Artifact
-  #       uses: actions/download-artifact@v3
-  #       with:
-  #         name: "简体完整配置包"
-  #         path: simplified_artifact
-
-  #     - name: Archive Simplified Moran Artifact
-  #       run: ( cd simplified_artifact/ && zip -r ../simplified_artifact.zip . )
-
-  #     - name: Download Traditional Moran Artifact
-  #       uses: actions/download-artifact@v3
-  #       with:
-  #         name: "繁體完整配置包"
-  #         path: traditional_artifact
-
-  #     - name: Archive Traditional Moran Artifact
-  #       run: ( cd traditional_artifact/ && zip -r ../traditional_artifact.zip . )
-
-  #     - name: Upload artifacts to Hamster
-  #       env:
-  #         HTTP_AUTHORIZATION: ${{ secrets.HTTP_AUTHORIZATION }}
-  #         HTTP_HAMSTER_USERID: ${{ secrets.HTTP_HAMSTER_USERID }}
-  #       run: |
-  #         pip3 install -r tools/requirements.txt
-  #         # 魔然【简】
-  #         python3 tools/hamsterUpload.py 0AD56D4E-010E-4961-B6AB-4FFDEA4AA5BF simplified_artifact.zip --variant 简体
-  #         # 魔然【繁】
-  #         python3 tools/hamsterUpload.py D5C8710C-DF74-4004-B5C6-742344BCDC69 traditional_artifact.zip --variant 繁體
-
+      - uses: astral-sh/setup-uv@v5
+      - name: Check if the simplified table contains traditional words by mistake
+        run: cd tools && uv run check_simp_table.py
