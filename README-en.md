@@ -40,6 +40,7 @@ make quick                           # Quickly update character information
 make dict                            # Update auxiliary code in dicts
 make dist                            # Produce a distribution under ./dist
 make dist DESTDIR=~/Library/Rime     # Install the distribution to DESTDIR
+make test                            # Unit testing
 ./make_simp_dist.sh                  # Produce a simplified distribution under ./dist
 ```
 

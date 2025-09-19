@@ -38,6 +38,7 @@ make quick                           # 快速更新單字信息
 make dict                            # 更新詞庫中的輔助碼
 make dist                            # 產生純淨方案到 ./dist 目錄下
 make dist DESTDIR=~/Library/Rime     # 將方案拷貝到 DESTDIR
+make test                            # 執行單元測試
 ./make_simp_dist.sh                  # 產生簡體版方案到 ./dist 目錄下
 ```
 
