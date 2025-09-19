@@ -1,9 +1,0 @@
-schema:
-  schema_id: moran_charset
-  name: 勿用·工具方案
-  version: "1.0"
-
-engine:
-
-translator:
-  dictionary: moran_charset

@@ -1,9 +1,0 @@
-# encoding: utf-8
----
-recipe:
-  Rx: recipes/zrlf
-  description: >-
-    自然兩分配方
-
-install_files: >-
-  zrlf*
