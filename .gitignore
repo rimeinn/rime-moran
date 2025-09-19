@@ -1,22 +1,31 @@
-.DS_Store
-build/
-trash/
+#######################
+# Generated artifacts #
+#######################
+moran.chars.dict.yaml
+opencc/*.ocd2
+lua/zrmdb.txt
+dist/
+dazhu*.txt
+
+##############
+# Rime stuff #
+##############
+sync/
+*.txt
+!moran_custom_phrases.txt
 *.userdb/
+*.custom.yaml
 installation.yaml
 user.yaml
-input.txt
-output.txt
-moran_fixed.txt
-moran_fixed_aabc.txt
-moran_fixed_simp.txt
-njerchet.*
-zrm6.*
-make_dist.sh
-dist/
-default.custom.yaml
-*.custom.*
-pinyin_simp*
+
+###############
+# Development #
+###############
 .venv/
-sync/
-.env
-.pdm-python
+
+###########
+# Garbage #
+###########
+**/.DS_Store
+build/
+trash/

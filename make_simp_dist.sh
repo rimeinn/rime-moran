@@ -3,20 +3,17 @@
 set -e
 set -x
 
-PYTHON=${PYTHON:-python3}
-
 # 若 BUILD_TYPE 为 github，则在准备完内容后直接退出，由 GitHub 负责 zip 打包。
 # 否则调用 7z 产生 7z 包。
 BUILD_TYPE="$1"
 
+TOPDIR=$(realpath .)
+
 ########################################################################
 # 从 git HEAD 中产生 dist 目录
 ########################################################################
-rm -rf dist/
-git archive HEAD -o archive.tar
-mkdir -p dist
-tar xf archive.tar -C dist
-rm archive.tar
+make dist
+cp -a tools dist
 cd dist
 
 ########################################################################
@@ -25,11 +22,11 @@ cd dist
 # 的频率信息，使得简体字排在繁体字之前。
 ########################################################################
 echo 更新单字字频...
-cd tools
-$PYTHON schemagen.py --pinyin-table=./data/pinyin_simp.txt  update-char-weight --rime-dict=../moran.chars.dict.yaml > ../moran.chars.dict.yaml.bak
-mv ../moran.chars.dict.yaml{.bak,}
-cd ..
-
+uv run tools/schemagen.py \
+   --pinyin-table=tools/data/pinyin_simp.txt \
+   update-char-weight --rime-dict=moran.chars.dict.yaml \
+   > moran.chars.dict.yaml.bak
+mv moran.chars.dict.yaml{.bak,}
 
 ########################################################################
 # 替换辅助码
@@ -46,20 +43,16 @@ compact_dicts=(
 
 simplifyDict() {  # 将 $1 中的所有汉字繁转简
     cp $1 $1.bak
-    opencc -c t2s.json -i $1.bak -o $1
+    opencc -c opencc/moran_t2s.json -i $1.bak -o $1
     rm $1.bak
 }
 
 for dict in "${compact_dicts[@]}"; do
-    simplifyDict $dict
+    simplifyDict $dict &
 done
+wait
 
-(cd tools/ && ./update_compact_dicts.sh)
-
-darwin=false;
-case "`uname`" in
-  Darwin*) darwin=true ;;
-esac
+uv run tools/update_compact_dicts.sh yes
 
 sedi () {
     case $(uname -s) in
@@ -118,29 +111,11 @@ simplifyDict lua/moran_charset_comment_filter.lua
 simplifyDict lua/moran_pin.lua
 simplifyDict moran_custom_phrases.txt
 
-
-########################################################################
-# opencc data
-########################################################################
-(cd tools; bash update_opencc.sh)
-
 ########################################################################
 # 打包
 ########################################################################
 cd ..
 echo 打包...
 
-if [ x$BUILD_TYPE = x"github" ]; then
-    # GitHub Actions will take over the tarball creation.
-    rm -rf dist/tools dist/.git dist/.github dist/make_simp_dist.sh
-    exit 0
-fi
-
+# 清除工具
 rm -rf dist/tools
-rm -rf dist/.git dist/.github dist/.gitignore
-rm -rf dist/make_simp_dist.sh
-cp 下载与安装说明.txt 更新纪要.txt dist
-sedi 's/MORAN_VARIANT/简体/' dist/下载与安装说明.txt
-
-7z a -t7z -m0=lzma -mx=9 -mfb=64 -md=32m -ms=on "MoranSimplified-$(date +%Y%m%d).7z" dist
-rm -rf dist

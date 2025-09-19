@@ -28,3 +28,17 @@
 **輔助碼篩選模式**
 
 https://github.com/user-attachments/assets/ca8a8c1f-d076-47de-94b0-4e935a99a516
+
+# 方案維護
+
+master 分支可使用如下命令進行日常維護：
+
+```bash
+make quick                           # 快速更新單字信息
+make dict                            # 更新詞庫中的輔助碼
+make dist                            # 產生純淨方案到 ./dist 目錄下
+make dist DESTDIR=~/Library/Rime     # 將方案拷貝到 DESTDIR
+./make_simp_dist.sh                  # 產生簡體版方案到 ./dist 目錄下
+```
+
+注意：master 分支必須首先 `make quick` 後才能部署。

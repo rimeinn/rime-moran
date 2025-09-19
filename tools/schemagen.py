@@ -85,9 +85,9 @@ def to_auxiliary_codes(char):
     if not auxiliary_table:
         match args.auxiliary_code:
             case 'zrm':
-                auxiliary_table = read_txt_table('data/zrmdb.txt')
+                auxiliary_table = read_txt_table('tools/data/zrmdb.txt')
             case 'user':
-                auxiliary_table = read_txt_table('data/userdb.txt')
+                auxiliary_table = read_txt_table('tools/data/userdb.txt')
             case _:
                 raise ValueError('Unknown auxiliary code ' + args.auxiliary_code)
     return auxiliary_table[char]
@@ -438,7 +438,7 @@ def handle_update_compact_dict():
                 except:
                     pass
             if len(acs) != len(sps):
-                print('# BAD2:', l)
+                print('# BAD2:', l, f' {acs=} {sps=}')
                 continue
 
             # Now we just generate the new code
