@@ -1,0 +1,47 @@
+schema: moran
+source_dir: ..
+script: |
+  function has(text)
+    for _, c in pairs(cand) do
+      if c.text == text then
+        return true
+      end
+    end
+    print("want " .. text ", but it's not found")
+    return false
+  end
+  function has_no(text)
+    for _, c in pairs(cand) do
+      if c.text == text then
+        print("want not " .. text ", but it's found")
+        return false
+      end
+    end
+    return true
+  end
+
+deploy:
+  default:
+    tests:
+      - send: le
+        assert: has("樂") and has("乐")
+      - send: lkl
+        assert: has("勞") and has("劳")
+  only_simp:
+    patch:
+      moran/charset: simp
+    tests:
+      - send: le
+        assert: has("乐") and has_no("樂")
+      - send: lkl
+        assert: has_no("勞") and has("劳")
+  only_trad:
+    patch:
+      moran/charset: trad
+    tests:
+      - send: le
+        assert: has_no("乐")
+      - send: lkl
+        assert: has("勞") and has_no("劳")
+
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rimeinn/mira/refs/heads/master/spec/mira.schema.json

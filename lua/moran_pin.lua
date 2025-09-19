@@ -374,7 +374,7 @@ function panacea_translator.init(env)
     end
     env.infix = env.engine.schema.config:get_string("moran/pin/panacea/infix") or '//'
     env.escaped_infix = string.gsub(env.infix, "([%^%$%(%)%%%.%[%]%*%+%-%?])", "%%%1")
-    env.prompt = env.engine.schema.config:get_string("moran/pin/panacea/prompt") or "〔加詞〕"
+    env.prompt = env.engine.schema.config:get_string("moran/pin/panacea/prompt") or "〔加词〕"
     env.indicator = env.engine.schema.config:get_string("moran/pin/indicator") or "📌"
     env.freestyle = env.engine.schema.config:get_bool("moran/pin/panacea/freestyle") or false
 
@@ -489,9 +489,9 @@ function panacea_translator.func(input, seg, env)
         local comment = "➕" .. env.indicator
         if env.freestyle then
             if env.freestyle_state then
-                comment = "完成加詞" .. comment
+                comment = "完成加词" .. comment
             else
-                comment = "開始加詞" .. comment
+                comment = "开始加词" .. comment
             end
         end
         local tip_cand = Candidate("pin_tip", 0, #match, "", comment)

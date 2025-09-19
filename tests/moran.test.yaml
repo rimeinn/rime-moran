@@ -1,0 +1,211 @@
+schema: moran
+source_dir: ..
+script: |
+  function eq(left, right)
+    print('Left  = ' .. tostring(left))
+    print('Right = ' .. tostring(right))
+    return left == right
+  end
+
+deploy:
+  default:
+    tests:
+      - send: l
+        assert: eq(cand[1].text, '了') and eq(cand[1].comment, "⚡️")
+      - send: le
+        assert: eq(cand[1].text, "樂") and eq(cand[1].comment, "⚡️")
+      - send: lem
+        assert: eq(cand[1].text, "樂") and eq(cand[1].comment, "⚡️")
+      - send: lemd
+        assert: eq(cand[1].text, "楽") and eq(cand[1].comment, "")
+      - send: hello
+        assert: eq(cand[1].text, "hello")
+      - send: jis
+        assert: eq(cand[1].text, "級") and eq(cand[1].comment, "⚡️")
+      - send: jisjo
+        assert: eq(cand[1].text, "紀")
+      - send: ubbs
+        assert: eq(cand[1].text, "瘦")
+      - send: dmbd
+        assert: eq(cand[1].text, "癲")
+      - send: vidt
+        assert: eq(cand[1].text, "治")
+      - send: lnyl
+        assert: eq(cand[1].text, "霖")
+      - send: hodd
+        assert: eq(cand[1].text, "火")
+
+  emoji:
+    options:
+      emoji: true
+    tests:
+      - send: hk
+        assert: eq(cand[2].text, "👌")
+      - send: o
+        assert: eq(cand[2].text, "😯")
+      - send: ou
+        assert: eq(cand[2].text, "€")
+      - send: mzgo
+        assert: eq(cand[2].text, "🇺🇸")
+      - send: vsgo
+        assert: eq(cand[2].text, "🇨🇳")
+      - send: y
+        assert: eq(cand[2].text, "1️⃣")
+      - send: 'e;'
+        assert: eq(commit, '兒')
+      - send: 'y;'
+        assert: eq(commit, "又")
+      - send: 'sd;'
+        assert: eq(commit, "3D")
+
+  quick_code_indicator_empty:
+    patch:
+      moran/quick_code_indicator: ""
+    tests:
+      - send: l
+        assert: eq(cand[1].text, "了") and eq(cand[1].comment, "")
+  quick_code_indicator_other:
+    patch:
+      moran/quick_code_indicator: "💥"
+    tests:
+      - send: l
+        assert: eq(cand[1].text, "了") and eq(cand[1].comment, "💥")
+      - send: le
+        assert: eq(cand[1].text, "樂") and eq(cand[1].comment, "💥")
+      - send: lem
+        assert: eq(cand[1].text, "樂") and eq(cand[1].comment, "💥")
+      - send: lemd
+        assert: eq(cand[1].text, "楽") and eq(cand[1].comment, "")
+
+  word_filter:
+    patch:
+      moran/enable_word_filter: true
+    tests:
+      - send: lmjx
+        assert: eq(cand[1].text, "鏈接") and eq(cand[1].comment, "")
+      - send: lmjxz
+        assert: eq(cand[1].text, "連接") and eq(cand[1].comment, "zf")
+  word_filter_match_indicator:
+    patch:
+      moran/enable_word_filter: true
+      moran/word_filter_match_indicator: "🎯"
+    tests:
+      - send: lmjx
+        assert: eq(cand[1].text, "鏈接") and eq(cand[1].comment, "")
+      - send: lmjxz
+        assert: eq(cand[1].text, "連接") and eq(cand[1].comment, "🎯")
+
+  word_ijrq:
+    patch:
+      moran/ijrq/enable_word: true
+    tests:
+      - send: lmjxf
+        assert: eq(cand[1].text, "連接") and eq(cand[2].text, "鏈接")
+  word_ijrq_defer:
+    patch:
+      moran/ijrq/enable_word: true
+      moran/ijrq/enable_word_defer: 2
+    tests:
+      - send: lmjxf
+        assert: eq(cand[1].text, "連接") and eq(cand[2].text, "聯接") and eq(cand[3].text, "鏈接")
+
+  pin:
+    options:
+      emoji: false
+    tests:
+      - send: 'lmjx'
+        assert: eq(cand[1].text, '鏈接') and eq(cand[2].text, '連接')
+      - send: 'lmjx{Control+t}'
+        assert: eq(cand[1].comment, "📌")
+      - send: 'lmjx{Control+t}'
+        assert: eq(cand[1].comment, "")
+      - send: 'lmjx{Down}{Control+t}'
+        assert: eq(cand[1].text, '連接') and eq(cand[1].comment, "📌")
+      - send: 'lmjx'
+        assert: eq(cand[1].text, '連接') and eq(cand[1].comment, "📌")
+      - send: 'xad//xnraidg 2 xad'
+        assert: eq(cand[1].text, '信愛等')
+
+  force_segmentation:
+    tests:
+      # input_len = 5
+      - send: 'dafju'
+        assert: eq(preedit, "da fju")
+      - send: 'dafju{Control+l}'
+        assert: eq(preedit, "daf'ju")
+      - send: 'dafju{Control+l}{Control+l}'
+        assert: eq(preedit, "da'fju")
+      # input_len = 6
+      - send: 'dajwhk'
+        assert: eq(preedit, 'da jw hk')
+      - send: 'dajwhk{Control+l}'
+        assert: eq(preedit, "daj'whk")
+      - send: 'dajwhk{Control+l}{Control+l}'
+        assert: eq(preedit, "da'jw'hk")
+      # input_len = 7
+      - send: 'dajwhkn'
+        assert: eq(preedit, 'da jw hkn')
+      - send: 'dajwhkn{Control+l}'
+        assert: eq(preedit, "da'jwh'kn")
+      - send: 'dajwhkn{Control+l}{Control+l}'
+        assert: eq(preedit, "daj'wh'kn")
+      - send: 'dajwhkn{Control+l}{Control+l}{Control+l}'
+        assert: eq(preedit, "da'jw'hkn")
+      # 單字
+      - send: 'mumho{Control+l}'
+        assert: eq(preedit, "mu'mho")
+
+  steal_auxcode:
+    tests:
+      - send: 'mzfadsl2'
+        assert: eq(cand[1].text, '賽')
+      - send: 'mzfadsl2{Control+l}'
+        assert: eq(cand[1].text, '動')
+      - send: 'mzfadsl2{Control+l}{Control+l}'
+        assert: eq(cand[1].text, '賽')
+
+  inject_chars:
+    patch:
+      moran/inject_fixed_chars: true
+    tests:
+      - send: 'wuyw'
+        assert: eq(cand[1].text, '霧') and eq(cand[2].text, '誣') and eq(cand[3].text, '爲時已晚')
+
+  inject_words_first:
+    patch:
+      moran/inject_fixed_words: true
+      moran/inject_fixed_chars: true
+      moran/inject_prioritize: 'word'
+    tests:
+      - send: 'wuyw'
+        assert: eq(cand[1].text, '霧') and eq(cand[2].text, '爲時已晚') and eq(cand[3].text, '誣')
+
+  inject_chars_first:
+    patch:
+      moran/inject_fixed_words: true
+      moran/inject_fixed_chars: true
+      moran/inject_prioritize: 'char'
+    tests:
+      - send: 'wuyw'
+        assert: eq(cand[1].text, '霧') and eq(cand[2].text, '誣') and eq(cand[5].text, '爲時已晚')
+
+  english:
+    tests:
+      - send: 'monkey'
+        assert: eq(cand[1].text, 'monkey')
+      - send: 'Monke'
+        assert: eq(cand[1].text, 'Monkey')
+      - send: 'iphone'
+        assert: eq(cand[1].text, 'iPhone')
+      - send: 'iPho'
+        assert: eq(cand[1].text, 'iPhone')
+      - send: 'IPh'
+        assert: "#cand == 0"
+      - send: 'nihkHello '
+        assert: eq(cand[1].text, 'Hello')
+      - send: 'U75'
+        assert: eq(cand[1].text, 'u')
+      - send: 'ArchL'
+        assert: eq(cand[1].text, 'Arch Linux')
+
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rimeinn/mira/refs/heads/master/spec/mira.schema.json

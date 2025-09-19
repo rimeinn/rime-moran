@@ -22,7 +22,7 @@ switches:
     states: [ Chi, Eng ]
   - name: full_shape
     states: [ Half, Full ]
-  - name: simplification
+  - name: traditionalization
     states: [ Trad, Simp ]
 
 engine:
