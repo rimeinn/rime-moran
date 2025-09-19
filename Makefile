@@ -51,6 +51,7 @@ clean:
 	make -C opencc clean
 
 dist: quick
+	rm -rf $(DESTDIR)
 	mkdir -p $(DESTDIR)
 	cp -a README*.md LICENSE etc $(DESTDIR)
 	cp -a moran* $(DESTDIR)
@@ -67,7 +68,10 @@ dist: quick
 	cp -a opencc/*.ocd2 opencc/*.json $(DESTDIR)/opencc
 	cp -a opencc/moran_TSPhrases.txt $(DESTDIR)/opencc
 
-########
-# 簡化 #
-########
+test: dist
+	mira -C /tmp/mira-cache tests/moran.test.yaml
+	mira -C /tmp/mira-cache tests/moran.hint.test.yaml
+	mira -C /tmp/mira-cache tests/moran.charset.test.yaml
+	mira -C /tmp/mira-cache tests/moran_aux.test.yaml
+
 .PHONY: quick all dict chars zrmdb chaifen update-compact-dicts sync-essay dazhu opencc
