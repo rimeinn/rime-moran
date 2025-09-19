@@ -16,7 +16,7 @@ jobs:
       - name: Build
         run: |
           if [ ${{ matrix.variant }} == trad ]; then
-            make
+            make dist
           else
             ./make_simp_dist.sh
           fi
