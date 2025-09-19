@@ -12,7 +12,7 @@ jobs:
       - name: Setup uv
         uses: astral-sh/setup-uv@v5
       - name: Install dependencies
-        uses: sudo apt install opencc p7zip-full
+        run: sudo apt install opencc p7zip-full
       - name: Build
         run: |
           if [ ${{ matrix.variant }} == trad ]; then
