@@ -26,7 +26,7 @@ switches:
   - name: full_shape
     states: [ 半角, 全角 ]
   - name: traditionalization
-    states: [ 汉字, 漢字 ]
+    states: [ 汉字 , 漢字 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
   - name: extended_charset
@@ -132,7 +132,7 @@ translator:    # 整句輸入模式設置，在 top_translator 中被調用
   max_word_length: 10
 
 fixed:         # 固頂輸入模式設置，在 top_translator 中被調用
-  dictionary: moran_fixed_simp
+  dictionary: moran_fixed
   initial_quality: 100
   enable_completion: false
   enable_sentence: false

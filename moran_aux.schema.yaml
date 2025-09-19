@@ -20,7 +20,7 @@ switches:
   - name: full_shape
     states: [ 半角, 全角 ]
   - name: traditionalization
-    states: [ 汉字, 漢字 ]
+    states: [ 汉字 , 漢字 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
   - name: extended_charset
@@ -115,7 +115,7 @@ custom_phrase: # 自定義短語
 
 # 掛接用法，需解除 translators 中對應的註釋
 fixed:
-  dictionary: moran_fixed_simp
+  dictionary: moran_fixed
   initial_quality: 10
   enable_completion: false
   enable_sentence: false
