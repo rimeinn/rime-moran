@@ -71,7 +71,7 @@ def make_opencc(config):
     if not config:
         return FakeOpenCC()
     cwd = os.getcwd()
-    os.chdir('../opencc/')
+    os.chdir('opencc')
     cc = opencc.OpenCC(config)
     os.chdir(cwd)
     return cc
@@ -107,7 +107,7 @@ def main(args):
             table.add(word, stem)
 
     # additional symbols
-    with open('../moran_fixed.symbols.dict.yaml', 'r') as f:
+    with open('moran_fixed.symbols.dict.yaml', 'r') as f:
         for l in f:
             matches = re.findall(r'(.*)\t(o[a-z]+)', l)
             if not matches: continue
@@ -115,7 +115,7 @@ def main(args):
             table.add(char, code)
 
     # additional chars
-    with open('../moran.chars.dict.yaml', 'r') as f:
+    with open('moran.chars.dict.yaml', 'r') as f:
         for l in f:
             matches = re.findall(r'^([^\t]+)\t([a-z]+;[a-z]+)\t(\d+)', l)
             if not matches: continue
@@ -124,7 +124,7 @@ def main(args):
             table.add(char, ''.join(code.split(';')) + 'o', w)
 
     # liangfen
-    with open('../zrlf.dict.yaml', 'r') as f:
+    with open('zrlf.dict.yaml', 'r') as f:
         for l in f:
             matches = re.findall(r'([^\t]+)\t([a-z]+)', l)
             if not matches: continue
@@ -140,7 +140,7 @@ def main(args):
     #         table.add(char, 'obh' + code)
 
     # 拆分表
-    with open('../opencc/moran_chaifen.txt', 'r') as f:
+    with open('opencc/moran_chaifen.txt', 'r') as f:
         for l in f:
             [zi, chai] = l.strip().split('\t')
             table.add(zi, '拆分：' + chai.replace('.', ''))
@@ -149,7 +149,7 @@ def main(args):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--dict', default='../moran_fixed.dict.yaml', help='簡碼碼表文件')
+    parser.add_argument('--dict', default='moran_fixed.dict.yaml', help='簡碼碼表文件')
     parser.add_argument('--opencc', '-c',
                         default='moran_t2s.json',
                         help='轉換詞表（空表示不轉換）')

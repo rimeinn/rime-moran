@@ -1,5 +1,5 @@
 schema: moran_aux
-source_dir: ..
+source_dir: ../dist
 deploy:
   default:
     tests:

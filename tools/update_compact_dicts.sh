@@ -4,14 +4,10 @@ STRICT="$1"
 
 echo Strict about errors? $STRICT
 
-if [ -d ../.venv ]; then
-    source ../.venv/bin/activate
-fi
-
 compact_dicts=(
-    "../moran.base.dict.yaml"
-    "../moran.tencent.dict.yaml"
-    "../moran.moe.dict.yaml"
+    "moran.base.dict.yaml"
+    "moran.tencent.dict.yaml"
+    "moran.moe.dict.yaml"
 )
 
 UPDATE_LINE_RE=$'^.+\t'
@@ -24,7 +20,7 @@ update_compact_dict() {
     OUTPUT_FILE="${DICT_FILE%.dict.yaml}.out"
 
     cp $DICT_FILE $INPUT_FILE
-    python3 schemagen.py update-compact-dict --rime-dict="$INPUT_FILE" > "$OUTPUT_FILE"
+    uv run tools/schemagen.py update-compact-dict --rime-dict="$INPUT_FILE" > "$OUTPUT_FILE"
 
     if grep '^# BAD' "$OUTPUT_FILE"
     then

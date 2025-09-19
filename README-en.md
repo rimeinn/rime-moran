@@ -30,3 +30,18 @@ Moran is an open, [community-maintained](https://zrmfans.cn/book/misc/acknowledg
 Assisted Candidate Filtering
 
 https://github.com/user-attachments/assets/ca8a8c1f-d076-47de-94b0-4e935a99a516
+
+# Schema Maintenance
+
+You may use the following commands to do daily maintenance on the `master` branch:
+
+```bash
+make quick                           # Quickly update character information
+make dict                            # Update auxiliary code in dicts
+make dist                            # Produce a distribution under ./dist
+make dist DESTDIR=~/Library/Rime     # Install the distribution to DESTDIR
+make test                            # Unit testing
+./make_simp_dist.sh                  # Produce a simplified distribution under ./dist
+```
+
+Note: You MUST first `make quick` before deploying the `master` branch.

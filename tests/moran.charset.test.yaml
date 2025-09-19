@@ -1,5 +1,5 @@
 schema: moran
-source_dir: ..
+source_dir: ../dist
 script: |
   function has(text)
     for _, c in pairs(cand) do

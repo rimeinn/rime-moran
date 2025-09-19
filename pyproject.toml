@@ -1,0 +1,21 @@
+[project]
+name = "moran"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "ksqsf", email = "i@ksqsf.moe"},
+]
+dependencies = [
+    "OpenCC==1.1.7",
+    "pypinyin==0.50.0",
+    "regex==2023.12.25",
+    "pandas",
+    "python-dotenv",
+    "requests",
+]
+requires-python = "==3.12.*"
+readme = "README.md"
+license = {text = "GPLv3"}
+
+[tool.pdm]
+distribution = false
