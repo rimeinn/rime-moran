@@ -1,5 +1,4 @@
 DESTDIR ?= $(abspath ./dist)
-VARIANT ?= trad
 
 quick: chars zrmdb chaifen opencc
 dict: update-compact-dicts
@@ -31,7 +30,7 @@ opencc: chaifen
 # 詞庫 #
 ########
 update-compact-dicts:
-	./tools/update_compact_dicts.sh $(VARIANT)
+	uv run ./tools/update_compact_dicts.sh
 
 sync-essay:
 	uv run tools/sync_essay.py

@@ -100051,7 +100051,7 @@
 𲰶	ta	田一	auto
 𲰸	td	田刀	auto
 𲰸	dt	刀田	auto
-𲰹	pj	丿甲	auto
+𲰹	nj	{鸟}甲	auto
 𲰺	tg	田勾	auto
 𲰻	tf	田乏	auto
 𲰼	ny	男也	
