@@ -1,0 +1,22 @@
+{
+  "name": "Traditional Chinese to Simplified Chinese with Some Patches",
+  "segmentation": {
+    "type": "mmseg",
+    "dict": {
+      "type": "text",
+      "file": "moran_TSPhrases.txt"
+    }
+  },
+  "conversion_chain": [{
+    "dict": {
+      "type": "group",
+      "dicts": [{
+        "type": "text",
+        "file": "moran_TSPhrases.txt"
+      }, {
+        "type": "ocd2",
+        "file": "moran_TSCharacters.ocd2"
+      }]
+    }
+  }]
+}

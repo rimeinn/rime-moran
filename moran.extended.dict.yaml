@@ -1,0 +1,19 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: moran.extended
+version: "20240616"
+sort: by_weight
+use_preset_vocabulary: false
+import_tables:
+  - moran.chars      # 自然碼單字表
+  - moran.base       # 基礎詞庫
+  - moran.words      # 本方案補充詞
+  - moran.tencent    # 騰訊詞庫
+  - moran.computer   # 計算機術語
+  - moran.moe
+...
+
+# 用戶自定義詞庫
+# 此處可無碼加詞

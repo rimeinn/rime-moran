@@ -1,0 +1,9 @@
+# encoding: utf-8
+---
+recipe:
+  Rx: recipes/squirrel
+  description: >-
+    魔然定製版鼠鬚管配置，包含更多主題
+
+install_files: >-
+  squirrel.yaml
