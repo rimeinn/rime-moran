@@ -73,5 +73,6 @@ test: dist
 	mira -C /tmp/mira-cache tests/moran.hint.test.yaml
 	mira -C /tmp/mira-cache tests/moran.charset.test.yaml
 	mira -C /tmp/mira-cache tests/moran_aux.test.yaml
+	rm -rf /tmp/mira-cache
 
 .PHONY: quick all dict chars zrmdb chaifen update-compact-dicts sync-essay dazhu opencc
