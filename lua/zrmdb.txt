@@ -124,7 +124,7 @@
 㒃 re
 㒄 rr
 㒅 ri
-㒆 rh
+㒆 ry
 㒇 rw
 㒈 rg
 㒉 rt
@@ -132,6 +132,8 @@
 㒋 rs
 㒌 rq
 㒍 rl
+㒍 rs
+㒎 rf
 㒎 rz
 㒏 rh
 㒐 rs
@@ -32502,7 +32504,7 @@
 鿬 ut
 鿭 je
 鿮 gd
-鿯 wc
+鿯 wm
 鿰 dh
 鿱 wb
 鿲 dl
@@ -32523,7 +32525,6 @@
 郎 el
 凉 dj
 秊 hq
-裏 dy
 裏 wy
 裏 yl
 隣 el
@@ -98880,7 +98881,6 @@
 𲔅 xy
 𲔅 yx
 𲔇 yq
-𲔈 yp
 𲔈 af
 𲔊 zf
 𲔋 fv
