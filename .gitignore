@@ -11,7 +11,7 @@ dazhu*.txt
 # Rime stuff #
 ##############
 sync/
-*.txt
+/*.txt
 !moran_custom_phrases.txt
 *.userdb/
 *.custom.yaml
@@ -22,6 +22,7 @@ user.yaml
 # Development #
 ###############
 .venv/
+__pycache__/
 
 ###########
 # Garbage #
