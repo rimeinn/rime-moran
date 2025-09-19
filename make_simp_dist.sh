@@ -12,6 +12,7 @@ TOPDIR=$(realpath .)
 ########################################################################
 # 从 git HEAD 中产生 dist 目录
 ########################################################################
+rm -rf dist
 make dist
 cp -a tools dist
 cd dist
@@ -77,9 +78,10 @@ sedi 's/dictionary: moran_fixed/dictionary: moran_fixed_simp/' moran.schema.yaml
 # 简体版中首选使用简体八股文模型
 ########################################################################
 echo 替换简体语法模型...
-wget 'https://github.com/lotem/rime-octagram-data/raw/hans/zh-hans-t-essay-bgc.gram' -O zh-hans-t-essay-bgc.gram
-wget 'https://github.com/lotem/rime-octagram-data/raw/hans/zh-hans-t-essay-bgw.gram' -O zh-hans-t-essay-bgw.gram
 rm zh-hant-t-essay-bg{c,w}.gram
+wget 'https://github.com/lotem/rime-octagram-data/raw/hans/zh-hans-t-essay-bgc.gram' -O zh-hans-t-essay-bgc.gram &
+wget 'https://github.com/lotem/rime-octagram-data/raw/hans/zh-hans-t-essay-bgw.gram' -O zh-hans-t-essay-bgw.gram &
+wait
 sedi 's/zh-hant-t-essay-bgw/zh-hans-t-essay-bgw/' moran.yaml
 sedi 's/zh-hant-t-essay-bgc/zh-hans-t-essay-bgc/' moran.yaml
 
@@ -98,10 +100,12 @@ sedi 's|(env.engine.context:get_option("simplification") == true)|(env.engine.co
 ########################################################################
 # 替换 emoji 用字为简体字
 ########################################################################
-simplifyDict tools/data/opencc/moran_emoji.txt
-sort -k 1,1 -u tools/data/opencc/moran_emoji.txt > /tmp/moran_emoji.txt
-mv /tmp/moran_emoji.txt tools/data/opencc/moran_emoji.txt
-
+opencc_dict -i opencc/moran_emoji.ocd2 -o opencc/moran_emoji.txt -f ocd2 -t text
+simplifyDict opencc/moran_emoji.txt
+sort -k 1,1 -u opencc/moran_emoji.txt > /tmp/moran_emoji.txt
+mv /tmp/moran_emoji.txt opencc/moran_emoji.txt
+opencc_dict -i opencc/moran_emoji.txt -o opencc/moran_emoji.ocd2 -f text -t ocd2
+rm -f opencc/moran_emoji.txt
 
 ########################################################################
 # 部分 lua 中输出繁体字，也做转换

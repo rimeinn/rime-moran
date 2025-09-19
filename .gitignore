@@ -3,6 +3,7 @@
 #######################
 moran.chars.dict.yaml
 opencc/*.ocd2
+opencc/moran_chaifen.txt
 lua/zrmdb.txt
 dist/
 dazhu*.txt
