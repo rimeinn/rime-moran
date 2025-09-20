@@ -7,7 +7,6 @@ all: quick dict
 ############
 # 單字信息 #
 ############
-chars_input := 
 chars_output := moran.chars.dict.yaml opencc/moran_chaifen.txt lua/zrmdb.txt
 chars: moran.chars.dict.yaml
 zrmdb: lua/zrmdb.txt
@@ -50,7 +49,6 @@ clean:
 	make -C opencc clean
 
 dist: quick
-	rm -rf $(DESTDIR)
 	mkdir -p $(DESTDIR)
 	cp -a README*.md LICENSE etc $(DESTDIR)
 	cp -a moran* $(DESTDIR)
