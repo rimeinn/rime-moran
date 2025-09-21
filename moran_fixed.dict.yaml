@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20250724"
+version: "20250921"
 sort: by_weight
 columns:
   - text
@@ -14362,6 +14362,7 @@ D盤	dpj
 大權在握	dqzw
 大秋作物	dqzw
 短	dr
+當然	dr
 墮入愛河	drah
 斷案	dran
 大人不記小人過	drbg
@@ -17216,6 +17217,7 @@ E盤	epj
 二者之間	evvj
 爾詐我虞	evwy
 惡之慾其死	evys
+額外	ew
 而我	ew
 耳聞不如一見	ewbj
 恩威並施	ewbu
@@ -19954,12 +19956,12 @@ F盤	fpj
 芙	fuc
 芣	fucb
 輻輳	fucb
-芾	fucf
-菔	fucf
 苻	fucf
-莩	fucf
+芾	fucf
 茯	fucf
+菔	fucf
 茀	fucf
+莩	fucf
 萉	fucf
 葍	fucf
 萯	fucf
@@ -37733,7 +37735,8 @@ I盤	ipj
 交雜	jcza
 就此作罷	jczb
 餃子	jczi
-驕子	jczi
+轎子	jczi
+教資	jczi
 趭	jczj
 焦躁	jczk
 叫做	jczo
@@ -38642,6 +38645,7 @@ I盤	ipj
 結合在一起	jhzq
 經合組織	jhzv
 極	ji
+經常	ji
 己	jia
 亟	jiaa
 激昂	jiah
@@ -39276,6 +39280,7 @@ I盤	ipj
 蹟	jizz
 解決	jj
 漸漸	jj
+拒絕	jj
 計將安出	jjai
 緊急安排	jjap
 經濟安全	jjaq
@@ -40121,6 +40126,7 @@ JK制服	jkvf
 減虧	jmkv
 鹼	jml
 簡陋	jmlb
+撿漏	jmlb
 見諒	jmld
 見了	jmle
 麉	jmlg
@@ -64795,6 +64801,7 @@ P站	pvj
 期票	qipc
 漆皮	qipi
 期盼	qipj
+棋盤	qipj
 旗袍	qipk
 氣泡	qipk
 氣派	qipl
@@ -65008,6 +65015,7 @@ P站	pvj
 啓奏	qizb
 起贓	qizh
 妻子	qizi
+棋子	qizi
 全場最佳	qizj
 起早	qizk
 騎在	qizl
@@ -71114,7 +71122,6 @@ P站	pvj
 藪	sbcu
 溲	sbd
 三八大蓋	sbdg
-散步的鶴	sbdh
 搜到	sbdk
 斯巴達克	sbdk
 死不帶去	sbdq
@@ -88914,6 +88921,7 @@ U盤	upj
 質量效應	vlxy
 戰略協議	vlxy
 戰略協作	vlxz
+翟	vly
 佔了一半	vlyb
 戰略要地	vlyd
 戰略眼光	vlyg
@@ -90609,8 +90617,6 @@ U盤	upj
 諸	vuyv
 誅	vuyv
 褚	vuyv
-這是一種	vuyv
-只是一種	vuyv
 翥	vuyv
 袾	vuyv
 鱁	vuyv
@@ -99814,7 +99820,6 @@ WiFi	wifi
 修編	xqbm
 修補	xqbu
 心情不爽	xqbu
-髹	xqbx
 相去不遠	xqby
 鏽病	xqby
 性情暴躁	xqbz
@@ -99873,6 +99878,7 @@ WiFi	wifi
 修車	xqie
 修長	xqih
 羞恥	xqii
+髹	xqix
 鏽	xqj
 修腳	xqjc
 鏽跡	xqji
@@ -115212,7 +115218,6 @@ WiFi	wifi
 坐在地上	zzdu
 在座的各位	zzdw
 在座的有	zzdy
-自在飛揚	zzfy
 總座高見	zzgj
 賊走關門	zzgm
 咋咋呼呼	zzhh
@@ -116804,6 +116809,7 @@ Excel	eks
 鵝掌風	evf
 二指禪	evi
 耳墜子	evz
+額外的	ewd
 二維碼	ewm
 耳挖勺	ewu
 二五眼	ewy
@@ -118599,7 +118605,8 @@ git	git
 救世主	juv
 駕駛員	juy
 就知道	jvd
-雞爪瘋	jvf
+駕照分	jvf
+軍政府	jvf
 價值觀	jvg
 金針菇	jvg
 九寨溝	jvg
@@ -119191,7 +119198,6 @@ Keynote	knt
 露天礦	ltk
 鍊鐵爐	ltl
 兩條路	ltl
-柳條帽	ltm
 老太婆	ltp
 樂天派	ltp
 亂彈琴	ltq
@@ -120915,7 +120921,6 @@ SD卡	sdk
 訴訟法	ssf
 聳聳肩	ssj
 三色堇	ssj
-說說看	ssk
 三四年	ssn
 碎碎念	ssn
 三四歲	sss
@@ -124307,7 +124312,6 @@ Word	wrd
 朽敗	xobl
 修編	xobm
 修補	xobu
-髹	xobx
 鏽病	xoby
 茠	xoc
 修辭	xoci
@@ -124339,6 +124343,7 @@ Word	wrd
 修車	xoie
 修長	xoih
 羞恥	xoii
+髹	xoix
 鏽	xoj
 修腳	xojc
 鏽跡	xoji

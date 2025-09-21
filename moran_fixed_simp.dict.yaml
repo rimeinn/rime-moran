@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20250724"
+version: "20250921"
 sort: original
 columns:
   - text
@@ -13962,6 +13962,7 @@ D盘	dpj
 大权在握	dqzw
 大秋作物	dqzw
 短	dr
+当然	dr
 堕入爱河	drah
 断案	dran
 大人不记小人过	drbg
@@ -16713,6 +16714,7 @@ E盘	epj
 二者之间	evvj
 尔诈我虞	evwy
 恶之欲其死	evys
+额外	ew
 而我	ew
 耳闻不如一见	ewbj
 恩威并施	ewbu
@@ -19380,8 +19382,8 @@ F盘	fpj
 父辈	fubz
 芙	fuc
 辐辏	fucb
-芾	fucf
 苻	fucf
+芾	fucf
 茯	fucf
 菔	fucf
 茀	fucf
@@ -36711,7 +36713,8 @@ I盘	ipj
 交杂	jcza
 就此作罢	jczb
 饺子	jczi
-骄子	jczi
+轿子	jczi
+教资	jczi
 焦躁	jczk
 叫做	jczo
 骄纵	jczs
@@ -37621,6 +37624,7 @@ I盘	ipj
 经合组织	jhzv
 极	ji
 及	ji
+经常	ji
 己	jia
 亟	jiaa
 戢	jiad
@@ -38200,6 +38204,7 @@ I盘	ipj
 鸡贼	jizz
 解决	jj
 渐渐	jj
+拒绝	jj
 计将安出	jjai
 紧急安排	jjap
 经济安全	jjaq
@@ -39022,6 +39027,7 @@ JK制服	jkvf
 减亏	jmkv
 囝	jmkz
 简陋	jmlb
+捡漏	jmlb
 见谅	jmld
 见了	jmle
 健朗	jmlh
@@ -62992,6 +62998,7 @@ P站	pvj
 期票	qipc
 漆皮	qipi
 期盼	qipj
+棋盘	qipj
 旗袍	qipk
 气泡	qipk
 气派	qipl
@@ -63200,6 +63207,7 @@ P站	pvj
 启奏	qizb
 起赃	qizh
 妻子	qizi
+棋子	qizi
 全场最佳	qizj
 起早	qizk
 骑在	qizl
@@ -69137,7 +69145,6 @@ P站	pvj
 艘次	sbci
 溲	sbd
 三八大盖	sbdg
-散步的鹤	sbdh
 搜到	sbdk
 斯巴达克	sbdk
 死不带去	sbdq
@@ -71855,6 +71862,7 @@ P站	pvj
 嗓子眼儿	szye
 四则运算	szys
 他	t	tary
+它	t	tabb
 她	ta
 它	tab
 拓本	tabf
@@ -78276,6 +78284,7 @@ T恤衫	txuj
 十分热闹	ufrn
 参茸	ufrs
 深入	ufru
+什	ufru
 世风日下	ufrx
 侁	ufrx
 十分荣幸	ufrx
@@ -88222,8 +88231,6 @@ U盘	upj
 主语	vuyu
 诛	vuyv
 褚	vuyv
-这是一种	vuyv
-只是一种	vuyv
 翥	vuyv
 这是因为	vuyw
 只是因为	vuyw
@@ -112129,7 +112136,6 @@ U盘	upj
 坐在地上	zzdu
 在座的各位	zzdw
 在座的有	zzdy
-自在飞扬	zzfy
 总座高见	zzgj
 贼走关门	zzgm
 咋咋呼呼	zzhh
@@ -113724,6 +113730,7 @@ Excel	eks
 鹅掌风	evf
 二指禅	evi
 耳坠子	evz
+额外的	ewm
 二维码	ewm
 耳挖勺	ewu
 二五眼	ewy
@@ -115525,7 +115532,8 @@ git	git
 救世主	juv
 驾驶员	juy
 就知道	jvd
-鸡爪疯	jvf
+驾照分	jvf
+军政府	jvf
 价值观	jvg
 金针菇	jvg
 九寨沟	jvg
@@ -116118,7 +116126,6 @@ Keynote	knt
 露天矿	ltk
 炼铁炉	ltl
 两条路	ltl
-柳条帽	ltm
 老太婆	ltp
 乐天派	ltp
 愣头青	ltq
@@ -117845,7 +117852,6 @@ SD卡	sdk
 诉讼法	ssf
 耸耸肩	ssj
 三色堇	ssj
-说说看	ssk
 三四年	ssn
 碎碎念	ssn
 三四岁	sss
