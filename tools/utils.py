@@ -30,6 +30,11 @@ def read_tsv(path, key_indices, value_index):
     for parts in tsv_reader(path):
         keys = get_keys(parts, key_indices)
         value = parts[value_index]
+        try:
+            assert keys not in res
+        except:
+            print(f'Duplicate keys: {keys=}, {value=}')
+            raise
         res[keys] = value
 
     return res
