@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20250921"
+version: "20250923"
 sort: original
 columns:
   - text
@@ -29790,6 +29790,7 @@ H盘	hpj
 洪灾	hszl
 挥洒自如	hszr
 话题	ht
+后天	ht
 还挺不错	htbc
 好铁不打钉	htbd
 恨铁不成钢	htbg
@@ -33440,7 +33441,7 @@ H盘	hpj
 敕	iiuw
 漦	iiuw
 长城守望	iiuw
-尺	iiv
+齿	iiv
 叱咤	iiva
 唇齿之邦	iivb
 处处针对	iivd
@@ -58116,7 +58117,6 @@ JK制服	jkvf
 溺水身亡	nuuw
 凝视深渊	nuuy
 笯	nuv
-内射中出	nuvi
 难受之极	nuvj
 你是真的皮	nuvp
 逆时针方向	nuvx
@@ -69612,7 +69612,6 @@ P站	pvj
 岁寒三友	shsy
 丧	sht
 桑田	shtm
-丧	shu
 桑葚	shuf
 桑椹	shuf
 丧生	shug
@@ -74458,7 +74457,6 @@ P站	pvj
 同年同月同日生	tntu
 同年同月	tnty
 体内水分	tnuf
-体内射精	tnuj
 太难受了	tnul
 太那啥了	tnul
 鸵鸟政策	tnvc
@@ -78821,6 +78819,7 @@ T恤衫	txuj
 生活不能自理	uhbl
 上边	uhbm
 上宾	uhbn
+上播	uhbo
 生活必需品	uhbp
 水火不侵	uhbq
 水火不容	uhbr
@@ -92341,7 +92340,6 @@ U盘	upj
 委托投资	wttz
 委托手续	wtux
 卧榻之侧	wtvc
-无套中出	wtvi
 卧榻之旁	wtvp
 卧榻之上	wtvu
 文韬武略	wtwl
@@ -92702,7 +92700,6 @@ U盘	upj
 务实	wuui
 误删	wuuj
 巫山	wuuj
-无手射精	wuuj
 无声手枪	wuuq
 午	wuur
 万事顺遂	wuus
@@ -98643,6 +98640,7 @@ U盘	upj
 瞎掰	xwbl
 下拜	xwbl
 下边	xwbm
+下播	xwbo
 下拨	xwbo
 新闻标题	xwbt
 下部	xwbu
@@ -107290,8 +107288,9 @@ U盘	upj
 有问必答	ywbd
 英文标点	ywbd
 言无不尽	ywbj
-业务部门	ywbm
 一文不名	ywbm
+业务部门	ywbm
+意味不明	ywbm
 也未必能	ywbn
 言无不听	ywbt
 一文不值	ywbv
@@ -115789,9 +115788,7 @@ Keynote	knt
 苦肉计	krj
 看热闹	krn
 可溶性	krx
-哭丧棒	ksb
 坑死了	ksl
-开司米	ksm
 喀斯特	kst
 科索沃	ksw
 可塑性	ksx
@@ -116988,6 +116985,7 @@ Office	ofs
 跑滴滴	pdd
 胖墩儿	pde
 屁颠儿	pde
+PDF	pdf
 破大防	pdf
 平底锅	pdg
 彭德怀	pdh
@@ -119382,15 +119380,13 @@ SD卡	sdk
 万能药	wny
 外胚层	wpc
 乌篷船	wpi
-文凭热	wpr
+WPS	wps
 无穷大	wqd
 挖墙脚	wqj
 武器库	wqk
 完全体	wqt
 为前提	wqt
-五禽戏	wqx
 文曲星	wqx
-完全叶	wqy
 Word	wrd
 无人机	wrj
 万人坑	wrk
@@ -119404,17 +119400,16 @@ Word	wrd
 未遂犯	wsf
 为什么	wsm
 外孙女	wsn
-我是谁	wss
+我是谁	wsu
 无所谓	wsw
 外孙子	wsz
 无头案	wta
 乌托邦	wtb
-外听道	wtd
 渥太华	wth
 无条件	wtj
 挖土机	wtj
-我他妈	wtm
 维他命	wtm
+我他妈	wtm
 委托人	wtr
 雾腾腾	wtt
 问题是	wtu
@@ -119444,7 +119439,6 @@ Word	wrd
 文绉绉	wvv
 完整性	wvx
 无助于	wvy
-吴茱萸	wvy
 慰问电	wwd
 维吾尔	wwe
 无外乎	wwh
@@ -119453,7 +119447,6 @@ Word	wrd
 娃娃脸	wwl
 唯物论	wwl
 玩完了	wwl
-五味瓶	wwp
 娃娃亲	wwq
 弯弯绕	wwr
 外围赛	wws
@@ -119462,7 +119455,6 @@ Word	wrd
 万维网	www
 慰问信	wwx
 娃娃鱼	wwy
-五味子	wwz
 无线电	wxd
 无限大	wxd
 微血管	wxg
@@ -119475,9 +119467,9 @@ Word	wrd
 唯心论	wxl
 五线谱	wxp
 武侠片	wxp
+微信群	wxq
 无限期	wxq
 危险期	wxq
-微信群	wxq
 外星人	wxr
 文学史	wxu
 无形中	wxv
@@ -119527,8 +119519,8 @@ Word	wrd
 晚自习	wzx
 兴安岭	xal
 西安市	xau
-香饽饽	xbb
 凶巴巴	xbb
+香饽饽	xbb
 象拔蚌	xbb
 西北部	xbb
 小白菜	xbc
