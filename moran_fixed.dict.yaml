@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20250921"
+version: "20250923"
 sort: by_weight
 columns:
   - text
@@ -30616,6 +30616,7 @@ H盤	hpj
 洪災	hszl
 揮灑自如	hszr
 話題	ht
+後天	ht
 還挺不錯	htbc
 好鐵不打釘	htbd
 恨鐵不成鋼	htbg
@@ -36574,7 +36575,7 @@ I盤	ipj
 吹滅	ivmx
 陳芝麻爛穀子	ivmz
 純真年代	ivnd
-喫齋唸佛	ivnf
+喫齋念佛	ivnf
 吹牛	ivnq
 趁着年輕	ivnq
 腄	ivo
@@ -58929,7 +58930,7 @@ JK制服	jkvf
 年飯	nmfj
 捻	nmfn
 攆	nmfn
-唸佛	nmfo
+念佛	nmfo
 撚	nmfr
 黏附	nmfu
 年費	nmfz
@@ -59732,7 +59733,6 @@ JK制服	jkvf
 溺水身亡	nuuw
 凝視深淵	nuuy
 笯	nuv
-內射中出	nuvi
 難受之極	nuvj
 你是真的皮	nuvp
 逆時針方向	nuvx
@@ -76517,7 +76517,6 @@ P站	pvj
 同年同月同日生	tntu
 同年同月	tnty
 體內水分	tnuf
-體內射精	tnuj
 太難受了	tnul
 太那啥了	tnul
 鴕鳥政策	tnvc
@@ -80969,6 +80968,7 @@ T恤衫	txuj
 生活不能自理	uhbl
 上邊	uhbm
 上賓	uhbn
+上播	uhbo
 生活必需品	uhbp
 水火不侵	uhbq
 水火不容	uhbr
@@ -87900,7 +87900,6 @@ U盤	upj
 支農	vins
 鶨	vint
 制怒	vinu
-中出內射	vinu
 侄女	vinv
 犆	vinv
 姪	vinv
@@ -95156,7 +95155,6 @@ WiFi	wifi
 務實	wuui
 誤刪	wuuj
 巫山	wuuj
-無手射精	wuuj
 無聲手槍	wuuq
 萬事順遂	wuus
 無數	wuuu
@@ -101336,6 +101334,7 @@ WiFi	wifi
 瞎掰	xwbl
 下拜	xwbl
 下邊	xwbm
+下播	xwbo
 下撥	xwbo
 新聞標題	xwbt
 下部	xwbu
@@ -110291,8 +110290,9 @@ WiFi	wifi
 有問必答	ywbd
 英文標點	ywbd
 言無不盡	ywbj
-業務部門	ywbm
 一文不名	ywbm
+業務部門	ywbm
+意味不明	ywbm
 也未必能	ywbn
 言無不聽	ywbt
 一文不值	ywbv
@@ -118862,9 +118862,7 @@ Keynote	knt
 苦肉計	krj
 看熱鬧	krn
 可溶性	krx
-哭喪棒	ksb
 坑死了	ksl
-開司米	ksm
 喀斯特	kst
 科索沃	ksw
 可塑性	ksx
@@ -120057,6 +120055,7 @@ Office	ofs
 跑滴滴	pdd
 胖墩兒	pde
 屁顛兒	pde
+PDF	pdf
 破大防	pdf
 平底鍋	pdg
 彭德懷	pdh
@@ -122448,15 +122447,13 @@ SD卡	sdk
 萬能藥	wny
 外胚層	wpc
 烏篷船	wpi
-文憑熱	wpr
+WPS	wps
 無窮大	wqd
 挖牆腳	wqj
 武器庫	wqk
 完全體	wqt
 爲前提	wqt
-五禽戲	wqx
 文曲星	wqx
-完全葉	wqy
 Word	wrd
 無人機	wrj
 萬人坑	wrk
@@ -122470,17 +122467,16 @@ Word	wrd
 未遂犯	wsf
 爲什麼	wsm
 外孫女	wsn
-我是誰	wss
+我是誰	wsu
 無所謂	wsw
 外孫子	wsz
 無頭案	wta
 烏托邦	wtb
-外聽道	wtd
 渥太華	wth
 無條件	wtj
 挖土機	wtj
-我他媽	wtm
 維他命	wtm
+我他媽	wtm
 委託人	wtr
 霧騰騰	wtt
 問題是	wtu
@@ -122510,7 +122506,6 @@ Word	wrd
 文縐縐	wvv
 完整性	wvx
 無助於	wvy
-吳茱萸	wvy
 慰問電	wwd
 維吾爾	wwe
 無外乎	wwh
@@ -122520,7 +122515,6 @@ Word	wrd
 娃娃臉	wwl
 唯物論	wwl
 玩完了	wwl
-五味瓶	wwp
 娃娃親	wwq
 彎彎繞	wwr
 外圍賽	wws
@@ -122529,7 +122523,6 @@ Word	wrd
 萬維網	www
 慰問信	wwx
 娃娃魚	wwy
-五味子	wwz
 無線電	wxd
 無限大	wxd
 微血管	wxg
@@ -122542,9 +122535,9 @@ Word	wrd
 唯心論	wxl
 五線譜	wxp
 武俠片	wxp
+微信羣	wxq
 無限期	wxq
 危險期	wxq
-微信羣	wxq
 外星人	wxr
 文學史	wxu
 無形中	wxv
@@ -122594,8 +122587,8 @@ Word	wrd
 晚自習	wzx
 興安嶺	xal
 西安市	xau
-香餑餑	xbb
 兇巴巴	xbb
+香餑餑	xbb
 象拔蚌	xbb
 西北部	xbb
 小白菜	xbc
