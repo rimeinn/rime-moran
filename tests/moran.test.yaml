@@ -163,6 +163,14 @@ deploy:
         assert: eq(cand[1].text, '動')
       - send: 'mzfadsl2{Control+l}{Control+l}'
         assert: eq(cand[1].text, '賽')
+      - send: 'ljflkr'
+        assert: eq(cand[1].text, '攔款')
+      - send: 'ljflkr2'
+        assert: eq(cand[1].text, '款')
+      - send: 'ljflkr2{Control+l}'
+        assert: eq(cand[1].text, '佬')
+      - send: 'ljflkr2{Control+l}{Control+l}'
+        assert: eq(cand[1].text, '款')
 
   inject_chars:
     patch:
