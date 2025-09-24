@@ -11,6 +11,7 @@
 -- 4. shorthand 略碼
 
 -- ChangeLog:
+--  0.4.2: 放鬆取出輔助碼的條件，增加 Ctrl+Shift+L 用於強制輪換切分
 --  0.4.1: Ctrl+L 增加對 yyxxo 的支持
 --  0.4.0: 增加固定格式略碼功能
 --  0.3.0: 增加取出/放回被吞掉的輔助碼的能力
@@ -91,6 +92,7 @@ end
 -- 例如，想輸入「沒法動」，鍵入 mz'fa'dsl，但輸出是「沒發動」。
 -- 此時若選了「沒法」二字，d 會被吞掉。按下該處理器的快捷鍵，可以把 d 再次偷出來。
 local function steal_auxcode_processor(key_event, env)
+   -- ctrl+l
    if not (key_event:ctrl() and key_event.keycode == 0x6c) then
       return kNoop
    end
@@ -115,7 +117,7 @@ local function steal_auxcode_processor(key_event, env)
       return kNoop
    end
    local stealee_cand = stealee:get_selected_candidate()
-   local auxcode = stealee_cand.preedit:match("[a-z][a-z][ '][a-z][a-z]([a-z])")
+   local auxcode = stealee_cand.preedit:match("[a-z][a-z][a-z]?([a-z])$")
    if not auxcode then
       return kNoop
    end
@@ -125,7 +127,7 @@ local function steal_auxcode_processor(key_event, env)
 end
 
 local function force_segmentation_processor(key_event, env)
-   if not (key_event:ctrl() and key_event.keycode == 0x6c) then  -- ctrl+l
+   if not (key_event:ctrl() and (key_event.keycode == 0x6c or key_event.keycode == 0x4c)) then  -- ctrl+l or ctrl+L
       return kNoop
    end
 
