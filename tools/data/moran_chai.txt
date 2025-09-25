@@ -4895,8 +4895,8 @@
 䘗	xs	行糸	
 䘘	xi	彳亍	
 䘘	xs	行素	
-䘙	xi	彳亍	
 䘙	xj	行巾	
+䘙	xi	彳亍	
 䘚	yu	衣十	
 䘚	uy	十衣	
 䘛	yj	衤几	
@@ -5032,8 +5032,8 @@
 䚕	jl	見麗	auto
 䚖	jl	見靈	auto
 䚗	jg	角公	auto
-䚘	xi	彳亍	
 䚘	xj	行角	
+䚘	xi	彳亍	
 䚙	jg	角亘	auto
 䚚	jx	角先	auto
 䚛	jg	角告	auto
@@ -12101,7 +12101,7 @@
 幏	jj	巾家	
 幐	oj	月巾	
 幑	xw	彳攵	
-幑	xj	行巾	
+幑	xj	{行}巾	
 幒	jc	巾悤	
 幒	jx	巾心	
 幓	jc	巾參	
@@ -25360,52 +25360,53 @@
 衊	xm	血蔑	
 衋	xb	血皕	
 衋	yx	聿血	
-行	xd	彳丁	
 行	xi	彳亍	
+行	xd	彳丁	
+衍	xd	行氵	
 衍	xi	彳亍	
-衍	xd	彳丁	
 衎	xg	行干	
 衎	xi	彳亍	
-衏	xi	彳亍	
 衏	xy	行元	
-衐	xi	彳亍	
+衏	xi	彳亍	
 衐	xj	行巨	
-衑	xi	彳亍	
+衐	xi	彳亍	
 衑	xl	行令	
-衒	xi	彳亍	
+衑	xi	彳亍	
 衒	xx	行玄	
-術	xi	彳亍	
+衒	xi	彳亍	
 術	xu	行术	
-衔	xi	彳亍	
+術	xi	彳亍	
 衔	xj	行钅	
-衕	xi	彳亍	
+衔	xi	彳亍	
 衕	xt	行同	
-衖	xg	行共	
+衕	xi	彳亍	
 衖	xi	彳亍	
+衖	xg	行共	
 街	xg	行圭	
 街	xi	彳亍	
-衘	xi	彳亍	
 衘	xx	行{卸左}	
-衙	xi	彳亍	
+衘	xv	行止	
+衘	xi	彳亍	
 衙	xw	行吾	
+衙	xi	彳亍	
 衚	xh	行胡	
 衚	xi	彳亍	
-衛	xi	彳亍	
 衛	xw	行韋	
-衜	xi	彳亍	
+衛	xi	彳亍	
 衜	xu	行首	
-衝	xi	彳亍	
+衜	xi	彳亍	
 衝	xv	行重	
-衞	xi	彳亍	
+衝	xi	彳亍	
 衞	xb	行{币}	
-衟	xi	彳亍	
+衞	xi	彳亍	
 衟	xu	行𩠐	
-衠	xi	彳亍	
+衟	xi	彳亍	
 衠	xv	行真	
-衡	xi	彳亍	
+衠	xi	彳亍	
 衡	xd	行大	
-衢	xi	彳亍	
+衡	xi	彳亍	
 衢	xq	行瞿	
+衢	xi	彳亍	
 衣	dd	丶丶	
 衤	yi	{衤}	
 补	yb	衤卜	
@@ -28544,9 +28545,9 @@
 銙	jk	金夸	
 銚	jv	金兆	
 銛	ju	金舌	
-銜	jx	金行	
-銜	xi	彳亍	
 銜	xj	行金	
+銜	xi	彳亍	
+銜	jx	金行	
 銝	jx	金休	
 銞	jx	金旬	
 銟	jj	金巾	
@@ -31781,9 +31782,9 @@
 鵃	vn	舟鳥	
 鵄	nv	鳥至	
 鵅	ng	鳥各	
-鵆	xi	行亍	
 鵆	xn	行鳥	
-鵆	ni	鳥亍	
+鵆	xi	彳亍	
+鵆	nx	鳥行	
 鵇	nn	年鳥	
 鵈	en	耳鳥	
 鵈	ne	鳥耳	
@@ -40035,8 +40036,8 @@
 𡭏	uc	十寸	auto
 𡭐	cs	寸厶	auto
 𡭐	pv	𠂆專	auto
-𡭑	co	寸目	auto
-𡭑	xc	行寸	auto
+𡭑	ci	寸亍	
+𡭑	xc	彳寸	
 𡭒	vs	爫司	auto
 𡭓	cm	寸灭	auto
 𡭓	pc	𠂆寸	auto
@@ -43059,7 +43060,7 @@
 𢙟	xr	心刃	auto
 𢙠	xy	心伊	auto
 𢙠	yx	伊心	auto
-𢙡	xx	行心	auto
+𢙡	xx	心行	
 𢙢	gx	工心	auto
 𢙢	xk	心口	auto
 𢙣	xx	覀心	auto
@@ -63171,7 +63172,8 @@
 𧗩	xb	行不	auto
 𧗩	bx	不行	auto
 𧗪	vi	征亍	auto
-𧗫	xs	行厶	auto
+𧗫	xh	行厷	
+𧗫	xs	行厶	
 𧗬	xj	行几	auto
 𧗭	xc	行屮	auto
 𧗮	xk	行口	auto
@@ -63197,7 +63199,8 @@
 𧘃	xm	行買	auto
 𧘄	xc	行寸	auto
 𧘅	xi	彳亍	auto
-𧘆	xa	行一	auto
+𧘆	xx	行{卸左}	
+𧘆	xv	行止	
 𧘈	yl	衤了	auto
 𧘉	yk	衣冂	auto
 𧘊	yj	衣几	auto
@@ -83197,9 +83200,10 @@
 𬠹	hi	合虫	auto
 𬠹	ii	虫虫	auto
 𬠽	xd	行丶	auto
-𬠿	xi	彳亍	auto
+𬠿	xi	行止	
 𬡀	xk	行口	auto
-𬡁	xk	行口	auto
+𬡁	xu	行嘼	
+𬡁	xk	行口	
 𬡂	yr	衤入	auto
 𬡄	lp	六丿	auto
 𬡅	ye	衤阝	auto
