@@ -83200,7 +83200,7 @@
 𬠹	hi	合虫	auto
 𬠹	ii	虫虫	auto
 𬠽	xd	行丶	auto
-𬠿	xi	行止	
+𬠿	xv	行止	
 𬡀	xk	行口	auto
 𬡁	xu	行嘼	
 𬡁	xk	行口	
