@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20250923"
+version: "20250925"
 sort: original
 columns:
   - text
@@ -25167,6 +25167,7 @@ G盘	gpj
 妫	gvn
 归纳	gvna
 归鸟	gvnc
+龟男	gvnj
 孤枕难眠	gvnm
 孤掌难鸣	gvnm
 闺女	gvnv
@@ -33466,6 +33467,7 @@ H盘	hpj
 吃完	iiwj
 传承文明	iiwm
 察察为明	iiwm
+离	iiws
 迟误	iiwu
 敕	iiwu
 漦	iiwu
@@ -53363,6 +53365,8 @@ JK制服	jkvf
 卖座	mlzo
 买醉	mlzv
 面	mm
+明明	mm
+命名	mm
 丏	mma
 面案	mman
 棉袄	mmao
