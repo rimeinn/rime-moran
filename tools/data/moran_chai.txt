@@ -164,7 +164,7 @@
 㒝	rm	亻蔑	auto
 㒞	rj	亻嶲	
 㒞	rg	亻𠃌	
-㒟	rn	亻{衣}	
+㒟	rn	亻𧘇	
 㒠	rj	亻韭	auto
 㒡	ry	亻繇	auto
 㒢	ry	亻龠	
@@ -1002,7 +1002,7 @@
 㞞	uc	尸從	auto
 㞟	ud	尸奠	auto
 㞠	ul	尸尞	
-㞡	uy	尸{衣}	
+㞡	uy	尸𧘇	
 㞢	ca	屮一	
 㞣	cf	屮分	
 㞤	ur	山人	auto
@@ -1845,7 +1845,7 @@
 㪭	lp	盧攴	auto
 㪮	pk	攴口	auto
 㪮	yp	雨攴	auto
-㪯	we	文二	auto
+㪯	wf	文𰀁	
 㪰	wm	文米	
 㪱	wh	文奂	auto
 㪴	dy	斗元	auto
@@ -4921,7 +4921,7 @@
 䘮	ty	土{衣}	
 䘯	yx	衤肖	
 䘰	yy	衤延	auto
-䘱	wy	亠{衣}	
+䘱	wy	亠𧘇	
 䘱	yg	衣谷	
 䘲	yy	衤又	
 䘳	yj	衤金	auto
@@ -4966,7 +4966,7 @@
 䙚	yn	衣鳥	auto
 䙛	yg	衤衮	auto
 䙜	yf	衤逢	auto
-䙝	wy	亠{衣}	
+䙝	wy	亠𧘇	
 䙝	yv	衣執	
 䙞	yd	衤登	auto
 䙟	yw	衤圍	auto
@@ -6964,7 +6964,7 @@
 丒	ar	一刃	
 丒	ra	刃一	
 专	ad	一丶	
-专	fs	{丰}龴	
+专	fs	𰀁龴	
 且	aa	丨一	
 丕	ab	一不	
 丕	ba	不一	
@@ -7030,8 +7030,8 @@
 主	dw	丶王	
 丼	jd	井丶	
 丽	ad	一丶	
-举	df	丶{丰}	
-举	xf	兴{丰}	
+举	df	丶𰀁	
+举	xf	兴𰀁	
 丿	px	{丿}	
 乀	dd	{乀}	
 乁	aa	{乁}	
@@ -8201,7 +8201,7 @@
 凹	aa	丨一	
 出	aa	丨丨	
 出	ck	屮凵	
-击	fk	{丰}凵	
+击	fk	𰀁凵	
 击	eu	二山	
 击	aa	一丨	
 凼	ku	凵水	
@@ -9168,6 +9168,7 @@
 哴	kl	口良	
 哵	kb	口别	
 哶	kg	口干	
+哶	kf	口𰀁	
 哷	kc	口寸	
 哷	kl	口寽	
 哸	kt	口妥	
@@ -9629,7 +9630,7 @@
 噭	kj	口敫	
 噭	kw	口攵	
 噮	kh	口睘	
-噮	ky	口{衣}	
+噮	ky	口𧘇	
 噯	ka	口愛	
 噰	ky	口雍	
 噰	kv	口隹	
@@ -9693,7 +9694,7 @@
 嚟	kl	口黎	
 嚠	kl	口劉	
 嚡	kx	口鞋	
-嚢	ay	𰀉{衣}	
+嚢	ay	𰀉𧘇	
 嚣	kk	口口	
 嚣	yk	页口	
 嚤	km	口摩	
@@ -10359,7 +10360,7 @@
 壉	tu	土豕	
 壊	ty	土衣	
 壋	td	土當	
-壌	ty	土{衣}	
+壌	ty	土𧘇	
 壍	tj	土漸	
 壎	tx	土熏	
 壏	tj	土監	
@@ -12429,7 +12430,7 @@
 彉	gh	弓黄	
 彊	gj	弓畺	
 彋	gh	弓睘	
-彋	gy	弓{衣}	
+彋	gy	弓𧘇	
 彌	ge	弓爾	
 彍	gg	弓廣	
 彎	gs	弓糸	
@@ -12589,7 +12590,7 @@
 徾	xw	彳攵	
 徿	xl	彳龍	
 忀	xx	彳襄	
-忀	xy	彳{衣}	
+忀	xy	彳𧘇	
 忁	xu	彳氺	
 忂	xq	彳瞿	
 忂	xv	彳隹	
@@ -12734,7 +12735,7 @@
 怼	xd	心对	
 怽	xw	心未	
 怾	xv	心只	
-怿	xf	忄{丰}	
+怿	xf	忄𰀁	
 恀	xd	心多	
 恁	xr	心任	
 恂	xx	忄旬	
@@ -13568,7 +13569,7 @@
 拦	fl	扌兰	
 拧	fn	扌宁	
 拨	ff	扌发	
-择	ff	扌{丰}	
+择	ff	扌𰀁	
 拪	fx	扌西	
 拫	fg	扌艮	
 括	fu	扌舌	
@@ -14904,8 +14905,8 @@
 朆	wc	勿曾	
 朆	cw	曾勿	
 朇	hb	會卑	
-月	oy	{月}	
 月	pa	丿丨	
+月	oy	{月}	
 月	yt	{月}	
 有	ou	月十	
 有	uo	ナ月	
@@ -15917,7 +15918,7 @@
 橞	mh	木惠	
 機	mj	木幾	
 橠	mi	木袲	
-橠	my	木{衣}	
+橠	my	木𧘇	
 橡	mx	木象	
 橢	mo	木日	
 橢	ms	木隋	
@@ -15972,7 +15973,7 @@
 檇	mj	木雋	
 檇	mg	木𠃌	
 檈	mh	木睘	
-檈	my	木{衣}	
+檈	my	木𧘇	
 檉	mu	木聖	
 檉	mw	木王	
 檊	mg	木幹	
@@ -16112,7 +16113,7 @@
 櫯	ms	木穌	
 櫯	mh	木禾	
 櫰	mh	木褱	
-櫰	my	木{衣}	
+櫰	my	木𧘇	
 櫱	mx	木辛	
 櫲	my	木豫	
 櫳	ml	木龍	
@@ -16179,7 +16180,7 @@
 欚	ml	木蠡	
 欛	mb	木霸	
 欜	mn	木囊	
-欜	my	木{衣}	
+欜	my	木𧘇	
 欝	mc	木寸	
 欞	ml	木靈	
 欞	mw	木巫	
@@ -16768,7 +16769,7 @@
 泺	dy	氵乐	
 泻	dx	氵写	
 泼	df	氵发	
-泽	df	氵{丰}	
+泽	df	氵𰀁	
 泾	dg	氵工	
 泿	dg	氵艮	
 洀	dv	氵舟	
@@ -17759,7 +17760,7 @@
 瀣	dj	氵韭	
 瀣	dx	氵韰	
 瀤	dh	氵褱	
-瀤	dy	氵{衣}	
+瀤	dy	氵𧘇	
 瀥	dh	氵翯	
 瀥	dg	氵高	
 瀦	dv	氵豬	
@@ -18710,6 +18711,7 @@
 猞	qu	犭舍	
 猟	qu	犭鼡	
 猟	qy	犭{用}	
+猟	qf	犭𰀁	
 猠	qd	犭典	
 猡	ql	犭罗	
 猢	qh	犭胡	
@@ -18803,7 +18805,7 @@
 獥	qw	犭攵	
 獦	qg	犭葛	
 獧	qh	犭睘	
-獧	qy	犭{衣}	
+獧	qy	犭𧘇	
 獨	qu	犭蜀	
 獩	qs	犭歲	
 獪	qh	犭會	
@@ -19712,7 +19714,7 @@
 癍	bb	疒斑	
 癎	bj	疒間	
 癏	bh	疒睘	
-癏	by	疒{衣}	
+癏	by	疒𧘇	
 癐	bh	疒會	
 癑	bn	疒農	
 癒	by	疒愈	
@@ -20046,7 +20048,7 @@
 睕	ow	目宛	
 睖	ol	目夌	
 睗	oy	目易	
-睘	sy	罒{衣}	
+睘	sy	罒𧘇	
 睙	ol	目戾	
 睙	oq	目犬	
 睚	oy	月厓	
@@ -20974,7 +20976,7 @@
 穡	hh	禾回	
 穡	hs	禾嗇	
 穢	hs	禾歲	
-穣	hy	禾{衣}	
+穣	hy	禾𧘇	
 穤	hx	禾需	
 穥	hy	禾與	
 穦	hb	禾賓	
@@ -21826,7 +21828,7 @@
 糪	mb	米辟	
 糪	mx	米辛	
 糫	mh	米睘	
-糫	my	米{衣}	
+糫	my	米𧘇	
 糬	mu	米署	
 糭	mw	米夂	
 糮	mj	米監	
@@ -22403,7 +22405,7 @@
 绋	sf	纟弗	
 绌	si	纟出	
 绍	sv	纟召	
-绎	sf	纟{丰}	
+绎	sf	纟𰀁	
 经	sg	纟工	
 绐	st	纟台	
 绑	sb	纟邦	
@@ -22416,7 +22418,7 @@
 绘	sh	纟会	
 给	sh	纟合	
 绚	sx	纟旬	
-绛	sf	纟{丰}	
+绛	sf	纟𰀁	
 绛	sj	纟夅	
 络	sg	纟各	
 绝	ss	纟色	
@@ -22837,7 +22839,7 @@
 耰	ly	耒憂	
 耱	lm	耒磨	
 耲	lh	耒褱	
-耲	ly	耒{衣}	
+耲	ly	耒𧘇	
 耳	aa	一一	
 耴	eg	耳乚	
 耵	ed	耳丁	
@@ -24255,7 +24257,7 @@
 蓖	cb	艹比	
 蓗	ct	艹徒	
 蓘	cg	艹衮	
-蓘	cy	艹{衣}	
+蓘	cy	艹𧘇	
 蓙	cz	艹座	
 蓚	cx	艹修	
 蓛	cw	艹攵	
@@ -24314,7 +24316,7 @@
 蔇	cj	艹既	
 蔈	cp	艹票	
 蔉	cg	艹衮	
-蔉	cy	艹{衣}	
+蔉	cy	艹𧘇	
 蔊	ch	艹焊	
 蔋	cu	艹淑	
 蔌	cq	艹欠	
@@ -25038,7 +25040,8 @@
 蝉	id	虫单	
 蝊	id	虫定	
 蝋	iu	虫鼠	
-蝋	iy	虫用	
+蝋	iy	虫{用}	
+蝋	if	虫𰀁	
 蝌	ik	虫科	
 蝍	ij	虫即	
 蝎	ih	虫曷	
@@ -25269,7 +25272,7 @@
 蠇	iw	虫萬	
 蠈	iz	虫賊	
 蠉	ih	虫睘	
-蠉	iy	虫{衣}	
+蠉	iy	虫𧘇	
 蠊	il	虫廉	
 蠋	iu	虫蜀	
 蠌	ix	虫幸	
@@ -25457,7 +25460,7 @@
 袉	yt	衤它	
 袊	yl	衤令	
 袋	yd	衣代	
-袌	wy	亠{衣}	
+袌	wy	亠𧘇	
 袌	yb	衣包	
 袍	yb	衤包	
 袎	yy	衤幼	
@@ -25494,7 +25497,7 @@
 袩	yv	衤占	
 袪	yq	衤去	
 被	yp	衤皮	
-袬	wy	亠{衣}	
+袬	wy	亠𧘇	
 袬	yk	衣口	
 袬	yt	衣台	
 袭	ly	龙衣	
@@ -25504,7 +25507,7 @@
 袰	my	母衣	
 袰	ym	衣母	
 袱	yf	衤伏	
-袲	wy	亠{衣}	
+袲	wy	亠𧘇	
 袲	yd	衣多	
 袳	yd	衤多	
 袴	yk	衤夸	
@@ -25565,7 +25568,7 @@
 裣	yq	衤佥	
 裤	yk	衤库	
 裥	yj	衤间	
-裦	wy	亠{衣}	
+裦	wy	亠𧘇	
 裦	ym	衣矛	
 裧	yy	衤炎	
 裨	yb	衤卑	
@@ -25600,7 +25603,7 @@
 裾	yj	衤居	
 裿	yq	衤奇	
 褀	yq	衤其	
-褁	gy	果{衣}	
+褁	gy	果𧘇	
 褁	yg	衣果	
 褂	yg	衤卦	
 褃	yk	衤肯	
@@ -25614,9 +25617,9 @@
 褋	ym	衤木	
 褌	yj	衤軍	
 褍	ye	衤而	
-褎	wy	亠{衣}	
+褎	wy	亠𧘇	
 褎	yh	衣禾	
-褏	wy	亠{衣}	
+褏	wy	亠𧘇	
 褏	yy	衣由	
 褐	yh	衤曷	
 褑	yy	衤爰	
@@ -25641,7 +25644,7 @@
 褠	yg	衤冓	
 褡	yd	衤荅	
 褡	yh	衤合	
-褢	wy	亠{衣}	
+褢	wy	亠𧘇	
 褢	yg	衣鬼	
 褣	yr	衤容	
 褤	yy	衤袁	
@@ -25683,7 +25686,7 @@
 襀	yz	衤責	
 襁	yq	衤強	
 襂	yc	衤參	
-襃	wy	亠{衣}	
+襃	wy	亠𧘇	
 襃	yd	衣呆	
 襄	wy	亠𧘇	
 襄	ya	衣一	
@@ -26336,7 +26339,7 @@
 譯	yx	言幸	
 議	yy	言義	
 譱	yy	羊言	
-譲	yy	言{衣}	
+譲	yy	言𧘇	
 譳	yx	言需	
 譴	yq	言遣	
 譵	yd	言對	
@@ -26454,7 +26457,7 @@
 诎	yi	言出	
 诏	yv	言召	
 诐	yp	讠皮	
-译	yf	讠{丰}	
+译	yf	讠𰀁	
 诒	yt	言台	
 诓	yk	言匡	
 诔	yl	言耒	
@@ -26574,6 +26577,7 @@
 谹	gh	谷厷	
 谹	gs	谷厶	
 谺	gy	谷牙	
+谻	gf	谷𰀁	
 谻	gp	谷丿	
 谼	gg	谷共	
 谽	gh	谷含	
@@ -28290,7 +28294,7 @@
 醶	yq	酉僉	
 醷	yy	酉意	
 醸	yx	酉{襄}	
-醸	yy	酉{衣}	
+醸	yy	酉𧘇	
 醹	yx	酉需	
 醺	yx	酉熏	
 醻	yu	酉壽	
@@ -28317,8 +28321,8 @@
 釈	bi	釆尺	
 釉	py	丿由	
 釉	by	釆由	
-释	pf	丿{丰}	
-释	bf	釆{丰}	
+释	pf	丿𰀁	
+释	bf	釆𰀁	
 釋	px	丿幸	
 釋	bx	釆幸	
 里	aa	丨一	
@@ -29191,7 +29195,7 @@
 铋	jb	金必	
 铌	jn	钅尼	
 铍	jp	钅皮	
-铎	jf	钅{丰}	
+铎	jf	钅𰀁	
 铏	jx	钅刑	
 铐	jk	钅考	
 铑	jl	金老	
@@ -29514,7 +29518,7 @@
 闢	mx	門辟	
 闣	md	門當	
 闤	mh	門睘	
-闤	my	門{衣}	
+闤	my	門𧘇	
 闥	md	門達	
 闦	md	門豆	
 闦	ml	門豊	
@@ -29583,7 +29587,7 @@
 阙	mq	门欠	
 阚	mg	门敢	
 阛	mh	门睘	
-阛	my	门{衣}	
+阛	my	门𧘇	
 阜	pu	丿十	
 阜	uk	十口	
 阜	vu	𠂤十	
@@ -31501,7 +31505,7 @@
 鱜	yx	魚鄉	
 鱝	yb	魚賁	
 鱞	yh	魚睘	
-鱞	yy	魚{衣}	
+鱞	yy	魚𧘇	
 鱟	yb	魚冖	
 鱟	jy	𦥑魚	
 鱠	yh	魚會	
@@ -32160,7 +32164,7 @@
 鹬	ny	鸟矞	
 鹭	nl	鸟路	
 鹮	nh	鸟睘	
-鹮	ny	鸟{衣}	
+鹮	ny	鸟𧘇	
 鹯	nd	鸟亶	
 鹰	gn	广鸟	
 鹰	nv	鸟隹	
@@ -32403,6 +32407,7 @@
 鼟	gd	鼓登	
 鼠	ju	臼{鼠下}	
 鼡	dy	丶用	
+鼡	df	丶𰀁	
 鼢	uf	鼠分	
 鼣	uq	鼠犬	
 鼤	uw	鼠文	
@@ -32641,7 +32646,7 @@
 郎	el	阝良	
 凉	dj	冫京	
 秊	hq	禾千	
-裏	wy	亠{衣}	
+裏	wy	亠𧘇	
 裏	yl	衣里	
 隣	el	阝粦	
 嗀	uk	殳口	
@@ -33124,8 +33129,8 @@
 𠇧	jj	介久	auto
 𠇨	rg	人干	auto
 𠇩	rm	亻卯	auto
-𠇪	re	亻二	auto
-𠇫	re	亻二	auto
+𠇪	rf	亻𰀁	
+𠇫	rf	亻𰀁	
 𠇬	ar	一人	auto
 𠇬	ra	人一	auto
 𠇭	rv	人中	auto
@@ -33985,7 +33990,7 @@
 𠔋	bi	八乂	auto
 𠔌	bk	八口	auto
 𠔍	by	八由	auto
-𠔎	be	八二	auto
+𠔎	bf	八𰀁	
 𠔏	ba	八一	auto
 𠔏	cb	廿八	auto
 𠔐	ab	一八	auto
@@ -34396,7 +34401,7 @@
 𠙶	kl	凵了	auto
 𠙷	ku	凵十	auto
 𠙸	ks	凵厶	auto
-𠙹	ka	凵一	auto
+𠙹	kf	凵𰀁	
 𠙺	kq	凵千	auto
 𠙻	gk	干凵	auto
 𠙻	kg	凵干	auto
@@ -34418,7 +34423,7 @@
 𠚈	ku	凵石	auto
 𠚉	kh	凵禾	auto
 𠚊	kb	凵必	auto
-𠚋	ka	凵一	auto
+𠚋	if	巛𰀁	
 𠚌	kj	凵吉	auto
 𠚍	kd	凵丶	auto
 𠚎	kj	口井	auto
@@ -34620,8 +34625,8 @@
 𠝄	vd	爫刂	auto
 𠝅	do	刀日	auto
 𠝅	bd	卜刀	auto
-𠝈	de	刀二	auto
-𠝈	me	卯二	auto
+𠝈	my	卯{用}	
+𠝈	mf	卯𰀁	
 𠝊	yx	友刑	auto
 𠝋	ud	尸刀	auto
 𠝋	du	刀示	auto
@@ -35479,7 +35484,7 @@
 𠨫	ed	卩丶	auto
 𠨫	sl	糸卵	auto
 𠨬	ib	厂匕	auto
-𠨭	ie	厂二	auto
+𠨭	if	厂𰀁	
 𠨮	ia	厂一	auto
 𠨯	iz	厂子	auto
 𠨰	ig	厂乚	
@@ -35968,7 +35973,7 @@
 𠯌	iy	乂右	auto
 𠯌	yy	乂右	auto
 𠯍	ke	口二	auto
-𠯎	ke	口二	auto
+𠯎	kf	口𰀁	auto
 𠯏	kq	口气	auto
 𠯐	ko	口日	auto
 𠯑	ku	口氏	auto
@@ -36752,8 +36757,8 @@
 𠼤	kj	口堅	auto
 𠼥	kc	口匆	auto
 𠼦	km	口曼	auto
-𠼧	ka	口一	auto
-𠼧	pa	品一	auto
+𠼧	kf	口𰀁	
+𠼧	pf	品𰀁	
 𠼨	kk	口凵	auto
 𠼨	lk	吕凵	auto
 𠼩	kl	口侖	auto
@@ -37351,7 +37356,7 @@
 𡇱	kk	囗口	
 𡇲	kr	囗乳	
 𡇳	km	囗命	
-𡇴	kp	囗{衣}	
+𡇴	kp	囗𧘇	
 𡇵	kd	囗宕	
 𡇶	sh	龴合	
 𡇷	bg	丷各	
@@ -40340,7 +40345,7 @@
 𡲂	kq	凵且	auto
 𡲂	uq	尸且	auto
 𡲃	uv	尸至	auto
-𡲄	ue	尸二	auto
+𡲄	uf	尸𰀁	
 𡲅	uv	尸枝	auto
 𡲆	uv	尸支	auto
 𡲇	ud	尸丶	auto
@@ -42057,7 +42062,7 @@
 𢌙	zq	廴千	auto
 𢌚	zu	廴山	auto
 𢌛	zv	廴正	auto
-𢌜	ze	廴二	auto
+𢌜	zf	廴𰀁	
 𢌝	zp	廴彡	auto
 𢌞	zh	廴回	auto
 𢌟	zy	廴羽	auto
@@ -43935,7 +43940,7 @@
 𢤨	xy	忄螢	auto
 𢤩	xl	心歷	auto
 𢤪	xu	忄豕	auto
-𢤫	xj	忄舉	auto
+𢤫	xj	忄舉	
 𢤬	xf	忄奮	auto
 𢤭	xl	忄廪	auto
 𢤮	xx	忄嶲	auto
@@ -44055,7 +44060,8 @@
 𢦐	gk	戈コ	
 𢦑	yp	弋彡	auto
 𢦑	gp	戈丿	auto
-𢦒	ge	戈二	auto
+𢦒	gf	戈𰀁	
+𢦒	fg	𰀁戈	
 𢦓	wd	戊刀	auto
 𢦔	gc	戈才	auto
 𢦕	gj	戈几	auto
@@ -44949,7 +44955,10 @@
 𢴨	fi	扌啻	auto
 𢴩	fb	扌筆	auto
 𢴪	fk	扌款	auto
-𢴫	fu	扌氺	auto
+𢴫	fl	扌{巤}	
+𢴫	fy	扌{用}	
+𢴫	ff	扌𰀁	
+𢴫	fu	扌氺	
 𢴬	fb	扌斑	auto
 𢴭	us	手色	auto
 𢴭	su	糸手	auto
@@ -46367,8 +46376,8 @@
 𣆣	oi	日虫	auto
 𣆦	ov	日朱	auto
 𣆧	ow	日兀	auto
-𣆨	je	旧二	auto
-𣆨	oe	日二	auto
+𣆨	jy	旧{用}	
+𣆨	jf	旧𰀁	
 𣆩	ko	冂日	auto
 𣆩	oe	日二	auto
 𣆪	oa	日亅	auto
@@ -49576,7 +49585,9 @@
 𣶷	uh	水火	auto
 𣶽	dy	氵芸	auto
 𣶾	dx	氵心	auto
-𣶿	dm	氵羋	auto
+𣶿	dm	氵羋	
+𣶿	df	氵𰀁	
+𣶿	dg	氵干	
 𣷀	dd	氵店	auto
 𣷃	dl	氵力	auto
 𣷄	dg	氵庚	auto
@@ -51165,6 +51176,7 @@
 𤔂	vy	爫又	auto
 𤔄	vk	爫可	auto
 𤔅	vu	爪失	auto
+𤔆	vy	爫{用}	auto
 𤔆	vf	爫𰀁	auto
 𤔇	va	爫一	auto
 𤔈	vq	爪且	auto
@@ -51286,6 +51298,7 @@
 𤕿	pt	爿土	auto
 𤖀	pf	爿丰	auto
 𤖁	pf	爿𰀁	auto
+𤖁	pg	爿干	auto
 𤖄	pq	爿丌	auto
 𤖅	pu	爿水	auto
 𤖆	pj	爿戔	auto
@@ -53349,7 +53362,9 @@
 𤶧	by	疒员	auto
 𤶨	bb	疒匕	auto
 𤶩	bq	疒求	auto
-𤶪	be	疒二	auto
+𤶪	bm	疒芈	
+𤶪	bf	疒𰀁	
+𤶪	bg	疒干	
 𤶫	bt	疒条	auto
 𤶬	bu	疒束	auto
 𤶭	bd	疒呆	auto
@@ -54517,8 +54532,8 @@
 𥇠	wo	夂目	auto
 𥇡	sg	罒干	auto
 𥇢	ov	目斩	auto
-𥇤	mj	目届	auto
-𥇤	oa	目一	auto
+𥇤	mj	目届	
+𥇤	of	目𰀁	
 𥇥	ok	目口	auto
 𥇦	ox	目析	auto
 𥇨	bo	卜目	auto
@@ -57084,7 +57099,7 @@
 𥴉	vo	𥫗日	auto
 𥴊	vg	𥫗敢	auto
 𥴌	vm	𥫗木	auto
-𥴍	ve	𥫗二	auto
+𥴍	vf	𥫗𰀁	
 𥴎	vu	𥫗豕	auto
 𥴏	vh	𥫗灬	auto
 𥴐	vg	竹工	auto
@@ -58603,7 +58618,7 @@
 𦎥	yj	羊皆	auto
 𦎦	yw	羊攵	auto
 𦎦	my	矛羊	auto
-𦎧	we	亠二	auto
+𦎧	wf	亠𰀁	
 𦎨	ym	羊眉	auto
 𦎨	my	眉羊	auto
 𦎩	yk	羊口	auto
@@ -59778,7 +59793,10 @@
 𦠹	vv	炙炙	auto
 𦠺	vk	炙昆	auto
 𦠻	of	月費	auto
-𦠼	ou	月氺	auto
+𦠼	ol	月{巤}	
+𦠼	oy	月{用}	
+𦠼	of	月𰀁	
+𦠼	ou	月氺	
 𦠾	oj	月戢	auto
 𦠿	oj	月韭	auto
 𦡀	ou	月氺	auto
@@ -63697,7 +63715,7 @@
 𧟬	xq	覀丘	auto
 𧟭	gx	戈西	auto
 𧟭	xu	西十	auto
-𧟮	xe	覀二	auto
+𧟮	xf	覀𰀁	
 𧟯	xx	覀兮	auto
 𧟰	wy	勿要	auto
 𧟱	xf	覀服	auto
@@ -69358,7 +69376,8 @@
 𨸳	ey	阝孕	auto
 𨸴	ek	阝冂	auto
 𨸷	py	丿乙	auto
-𨸸	ea	阝一	auto
+𨸸	ey	阝{由}	
+𨸸	ef	阝𰀁	
 𨸹	ep	阝丕	auto
 𨸺	ej	阝甲	auto
 𨸻	es	阝厶	auto
@@ -73199,6 +73218,9 @@
 𩯐	io	镸日	auto
 𩯑	ix	镸心	auto
 𩯒	ib	镸贝	auto
+𩯓	il	镸{巤}	
+𩯓	iy	镸{用}	
+𩯓	if	镸𰀁	
 𩯓	iu	镸氺	auto
 𩯗	ih	镸黑	auto
 𩯘	iq	髟喬	auto
@@ -77636,7 +77658,7 @@
 𪲈	ax	丨相	auto
 𪲉	mh	木后	auto
 𪲊	mf	木凡	auto
-𪲋	me	木二	auto
+𪲋	mf	木𰀁	
 𪲌	md	木丹	auto
 𪲎	mq	木齐	auto
 𪲏	mw	木夊	auto
@@ -79033,7 +79055,7 @@
 𫍻	yx	讠喜	auto
 𫍼	yt	讠童	auto
 𫍽	yh	讠睘	
-𫍽	yy	讠{衣}	
+𫍽	yy	讠𧘇	
 𫍾	yn	讠寧	auto
 𫍿	yj	讠翦	auto
 𫎀	gr	谷人	auto
@@ -79145,7 +79167,8 @@
 𫏶	ij	車夾	auto
 𫏷	it	車土	auto
 𫏸	is	車巳	auto
-𫏹	ie	車二	auto
+𫏹	iu	車手	
+𫏹	if	車𰀁	
 𫏺	iy	車爰	auto
 𫏼	ib	車冖	auto
 𫏼	fj	夫軍	auto
@@ -84097,7 +84120,7 @@
 𬲰	uy	饣𠃓	auto
 𬲱	ut	食它	
 𬲲	un	饣宁	auto
-𬲳	ue	食二	auto
+𬲳	uf	食𰀁	
 𬲴	uk	饣口	auto
 𬲵	uu	饣殳	auto
 𬲶	uq	饣齐	auto
@@ -84860,7 +84883,7 @@
 𭂻	kk	凵凵	auto
 𭂾	an	一女	auto
 𭂾	kn	凵女	auto
-𭃂	de	刀二	auto
+𭃂	df	刀𰀁	
 𭃄	ud	十刀	auto
 𭃄	du	刀十	auto
 𭃅	rd	刃刂	auto
@@ -85335,7 +85358,8 @@
 𭎽	jt	巾土	auto
 𭎽	ty	土有	auto
 𭎿	tp	土彡	auto
-𭏁	tf	土𰀁	auto
+𭏁	ty	土{用}	
+𭏁	tf	土𰀁	
 𭏅	td	土帝	auto
 𭏆	tv	土兆	auto
 𭏉	tt	土田	auto
@@ -85462,7 +85486,6 @@
 𭑚	yp	夭朋	auto
 𭑛	tf	头否	auto
 𭑜	af	一𰀁	auto
-𭑜	df	大𰀁	auto
 𭑞	dd	氵大	auto
 𭑞	dt	大田	auto
 𭑟	ds	大三	auto
@@ -88809,7 +88832,7 @@
 𮝷	ib	车贲	auto
 𮝸	id	车盾	auto
 𮝹	ih	车睘	
-𮝹	iy	车{衣}	
+𮝹	iy	车𧘇	
 𮝺	ig	车葛	auto
 𮝻	uf	尸𰀁	auto
 𮝼	lx	立辛	auto
@@ -89341,7 +89364,8 @@
 𮫅	is	镸糸	auto
 𮫇	ic	镸寸	auto
 𮫉	iw	镸万	auto
-𮫋	if	镸𰀁	auto
+𮫋	iu	镸鼡	
+𮫋	if	镸𰀁	
 𮫍	if	镸封	auto
 𮫏	ip	镸丿	auto
 𮫑	iu	镸黍	auto
@@ -89665,7 +89689,7 @@
 𮱡	xz	小子	auto
 𮱢	xu	小石	auto
 𮱣	wg	兀貴	auto
-𮱥	uf	山𰀁	auto
+𮱥	uf	山𰀁	
 𮱦	uf	山凤	auto
 𮱧	ud	山代	auto
 𮱨	ue	山耳	auto
@@ -89913,7 +89937,7 @@
 𮷚	vi	壮车	auto
 𮷛	ii	车车	auto
 𮷝	iy	车舀	auto
-𮷞	zf	辶𰀁	auto
+𮷞	zf	辶𰀁	
 𮷟	zh	辶禾	auto
 𮷠	zu	辵圣	auto
 𮷡	zq	辵犬	auto
@@ -90004,8 +90028,8 @@
 𮹜	ny	鸟燕	auto
 𮹜	yn	燕鸟	auto
 𮹝	ll	龙龙	auto
-𰀁	aa	一一	auto
-𰀁	ae	丨二	auto
+𰀁	aa	一丨	
+𰀁	ae	二丨	
 𰀂	ak	一匚	auto
 𰀂	ka	匚一	auto
 𰀃	ak	一冂	auto
@@ -91122,7 +91146,7 @@
 𰗘	md	木丶	auto
 𰗙	mi	木刍	auto
 𰗚	mx	木写	auto
-𰗛	me	木二	auto
+𰗛	mf	木𰀁	
 𰗜	my	木厌	auto
 𰗜	ym	厌木	auto
 𰗝	ma	木丨	auto
@@ -93354,7 +93378,7 @@
 𱁯	fc	非毳	auto
 𱁱	gy	革𠃓	auto
 𱁲	gr	革冗	auto
-𱁳	gf	革𰀁	auto
+𱁳	gf	革𰀁	
 𱁴	gb	革毕	auto
 𱁶	gq	革迁	auto
 𱁷	gm	革卖	auto
@@ -94208,7 +94232,7 @@
 𱑋	kh	匚浛	auto
 𱑎	uy	十亦	auto
 𱑎	yu	亦十	auto
-𱑏	af	丨𰀁	auto
+𱑏	af	丨𰀁	
 𱑓	gb	古畢	auto
 𱑔	pw	辟午	auto
 𱑘	ey	卩弋	auto
@@ -94725,7 +94749,7 @@
 𱠁	fs	扌巳	auto
 𱠂	fu	扌氺	auto
 𱠄	fh	扌罕	auto
-𱠆	ff	扌𰀁	auto
+𱠆	ff	扌𰀁	
 𱠎	fb	扌八	auto
 𱠏	fw	扌兀	auto
 𱠐	fc	扌廾	auto
@@ -95082,7 +95106,8 @@
 𱨞	dm	氵皿	auto
 𱨟	da	氵丨	auto
 𱨠	do	氵月	auto
-𱨡	df	氵𰀁	auto
+𱨡	dy	氵{用}	
+𱨡	df	氵𰀁	
 𱨢	dg	氵圭	auto
 𱨣	dx	氵先	auto
 𱨤	dx	氵小	auto
@@ -95412,8 +95437,8 @@
 𱯜	ws	王啬	auto
 𱯠	wp	王丿	auto
 𱯡	yx	玉夕	auto
-𱯢	uf	尸𰀁	auto
-𱯢	yf	玉𰀁	auto
+𱯢	uf	尸𰀁	
+𱯢	yf	玉𰀁	
 𱯥	wx	王羡	auto
 𱯧	wf	王富	auto
 𱯨	wg	王敢	auto
@@ -95581,7 +95606,7 @@
 𱲨	px	丿小	auto
 𱲩	od	目丶	auto
 𱲭	oy	目于	auto
-𱲮	oe	目二	auto
+𱲮	of	目𰀁	
 𱲯	ob	目八	auto
 𱲯	uo	尸目	auto
 𱲲	bo	卜目	auto
@@ -95776,7 +95801,8 @@
 𱶕	ho	禾月	auto
 𱶖	hy	禾友	auto
 𱶘	hd	禾丶	auto
-𱶙	hf	禾𰀁	auto
+𱶙	hy	禾{用}	
+𱶙	hf	禾𰀁	
 𱶛	he	禾二	auto
 𱶝	hj	禾巾	auto
 𱶞	hl	禾郎	auto
@@ -95814,7 +95840,8 @@
 𱷈	xb	穴卑	auto
 𱷉	xj	穴糾	auto
 𱷊	xy	穴又	auto
-𱷌	xf	穴𰀁	auto
+𱷌	xy	穴{用}	
+𱷌	xf	穴𰀁	
 𱷍	xw	穴未	auto
 𱷎	xg	穴圭	auto
 𱷏	xw	穴攵	auto
@@ -97454,6 +97481,7 @@
 𲠜	xq	忄欠	auto
 𲠝	xw	心攵	auto
 𲠝	lx	来心	auto
+𲠞	xj	心𱑏	
 𲠞	xf	心𰀁	auto
 𲠠	xj	心竟	auto
 𲠢	xi	忄超	auto
@@ -99119,7 +99147,8 @@
 𳇉	jv	金隹	auto
 𳇊	jq	金禽	auto
 𳇋	jp	金溥	auto
-𳇌	jf	金𰀁	auto
+𳇌	ju	金䑕	
+𳇌	jf	金𰀁	
 𳇎	dj	殿金	auto
 𳇎	jd	金殿	auto
 𳇏	jb	金駁	auto
@@ -102015,7 +102044,7 @@
 #𣮇	wm	吴毛	
 #𣮘	mj	毛京	
 #𣮙	mf	毛放	
-#𣮚	mf	毛𰀁	
+𣮚	mf	毛𰀁	
 #𣮜	mu	毛尚	
 #𣮞	mu	毛舍	
 #𣮶	mx	毛星	
@@ -102075,7 +102104,7 @@
 #𣴂	du	氵殳	
 #𣴃	dh	氵亥	
 #𣴄	dj	氵及	
-#𣴅	df	氵𰀁	
+𣴅	df	氵𰀁	
 #𣴇	dy	氵厌	
 #𣴋	da	氵一	
 #𣴏	yy	永永	
@@ -105518,7 +105547,7 @@
 #𨯷	jd	金登	
 #𨯸	jy	金頁	
 #𨯹	jd	金篤	
-#𨯾	jj	金舉	
+𨯾	jj	金舉	
 #𨰇	jq	金欠	
 #𨰈	jq	金擎	
 #𨰔	jh	金灬	
@@ -105575,7 +105604,7 @@
 #𨷣	mv	門徵	
 #𨷧	mj	門静	
 #𨷨	mj	門冀	
-#𨷯	mj	門舉	
+𨷯	mj	門舉	
 #𨷶	jm	舉門	
 #𨷶	mj	門舉	
 #𨸈	mm	门美	
@@ -106395,7 +106424,8 @@
 #𪡷	ki	口除	
 #𪡻	cg	艹古	
 #𪡻	ku	口十	
-#𪡽	kf	口𰀁	
+𪡽	kj	口𱑏	
+𪡽	kf	口𰀁	
 #𪡾	ku	口笙	
 #𪢀	kw	口攵	
 #𪢂	kv	口着	
@@ -106673,7 +106703,8 @@
 #𪭕	gu	戈甚	
 #𪭖	gg	貫戈	
 #𪭘	hj	户巨	
-#𪭚	hf	户𰀁	
+𪭚	hj	户𱑏	
+𪭚	hf	户𰀁	
 #𪭡	fu	扌什	
 #𪭣	fb	扌卜	
 #𪭩	ud	手代	
@@ -107363,7 +107394,8 @@
 #𫐲	zd	辶定	
 #𫐵	zq	辶秋	
 #𫐹	zm	辶眉	
-#𫑀	zf	辶𰀁	
+𫑀	zj	辶𱑏	
+𫑀	zf	辶𰀁	
 #𫑃	zm	辶木	
 #𫑆	zy	辶又	
 #𫑉	zt	辶同	
@@ -107412,11 +107444,11 @@
 #𫔙	gm	工門	
 #𫔙	mg	門工	
 #𫔞	my	門由	
-#𫔤	mf	門𰀁	
+𫔤	mf	門𰀁	
 #𫔦	wk	午開	
 #𫔪	my	門意	
 #𫔬	wm	万门	
-#𫔳	mf	门𰀁	
+𫔳	mf	门𰀁	
 #𫔸	am	丨门	
 #𫔹	nm	闹皿	
 #𫔺	ed	阝大	
@@ -107664,7 +107696,7 @@
 #𫢊	ra	人丨	
 #𫢍	jr	斤人	
 #𫢍	rj	人斤	
-#𫢐	rf	亻𰀁	
+𫢐	rf	亻𰀁	
 #𫢖	ra	仍亅	
 #𫢚	rp	人丿	
 #𫢠	ru	亻尸	
@@ -107983,7 +108015,7 @@
 #𫭛	tt	土天	
 #𫭣	pt	丿土	
 #𫭣	td	土丶	
-#𫭤	tf	土𰀁	
+𫭤	tf	土𰀁	
 #𫭧	ty	土孕	
 #𫭩	dt	地土	
 #𫭩	td	土地	
@@ -108138,7 +108170,7 @@
 #𫳊	bt	宀土	
 #𫳍	bm	宀木	
 #𫳎	bq	宀欠	
-#𫳏	bf	宀𰀁	
+𫳏	bf	宀𰀁	
 #𫳒	bd	宀東	
 #𫳗	bz	宀甾	
 #𫳙	by	宀玉	
@@ -108247,7 +108279,7 @@
 #𫷑	jd	巾當	
 #𫷒	jt	巾頭	
 #𫷓	il	常侖	
-#𫷖	gf	干𰀁	
+𫷖	gf	干𰀁	
 #𫷗	nn	年奴	
 #𫷚	pp	平朋	
 #𫷛	gb	干八	
@@ -108512,7 +108544,8 @@
 #𬂇	ob	月班	
 #𬂋	oe	月二	
 #𬂋	yo	幺月	
-#𬂍	of	月𰀁	
+𬂍	oj	月𱑏	
+𬂍	of	月𰀁	
 #𬂐	oi	月虫	
 #𬂑	ou	月生	
 #𬂑	yu	有生	
@@ -108851,7 +108884,7 @@
 #𬐒	bp	巴皮	
 #𬐒	pb	皮巴	
 #𬐕	pf	皮孚	
-#𬐙	mf	皿𰀁	
+𬐙	mf	皿𰀁	
 #𬐡	mw	皿我	
 #𬐡	wm	我皿	
 #𬐤	fm	非皿	
@@ -108915,7 +108948,7 @@
 #𬒩	yp	硬旁	
 #𬒬	ug	示工	
 #𬒭	uj	示巾	
-#𬒯	uf	示𰀁	
+𬒯	uf	示𰀁	
 #𬒰	ui	示丑	
 #𬒸	lg	礼共	
 #𬒼	ld	礼多	
@@ -109084,7 +109117,7 @@
 #𬛝	ty	胎彦	
 #𬛠	yn	育餒	
 #𬛢	ii	臣丑	
-#𬛣	if	臣𰀁	
+𬛣	if	臣𰀁	
 #𬛦	wl	卧立	
 #𬛧	iz	臣子	
 #𬛨	ib	臣比	
@@ -109261,7 +109294,7 @@
 #𬢘	jb	角卜	
 #𬢜	yy	言弋	
 #𬢞	ya	言亅	
-#𬢠	yf	言𰀁	
+𬢠	yf	言𰀁	
 #𬢡	yu	言示	
 #𬢩	yd	言凼	
 #𬢫	yc	言寸	
@@ -109501,7 +109534,8 @@
 #𬮞	mj	门今	
 #𬮫	mw	门午	
 #𬮶	mx	门希	
-#𬮷	mf	门𰀁	
+𬮷	mj	门𱑏	
+𬮷	mf	门𰀁	
 #𬯁	ex	阝辛	
 #𬯃	eq	阝欠	
 #𬯄	et	阝土	
@@ -110667,7 +110701,7 @@
 #𭕔	uk	尸冂	
 #𭕕	ub	尸本	
 #𭕖	ud	尸丶	
-#𭕙	uf	尸𰀁	
+𭕙	uf	尸𰀁	
 #𭕟	wy	尾也	
 #𭕢	ii	尺赤	
 #𭕤	uz	尸則	
@@ -115164,7 +115198,7 @@
 #𱎢	rl	亻了	
 #𱎤	re	亻二	
 #𱎥	rj	人斤	
-#𱎪	rf	亻𰀁	
+𱎪	rf	亻𰀁	
 #𱎭	rh	亻好	
 #𱎰	rt	亻土	
 #𱎱	rw	亻忘	
@@ -115938,7 +115972,8 @@
 #𱢟	ol	日利	
 #𱢠	oi	日除	
 #𱢢	ov	日莊	
-#𱢣	of	日𰀁	
+𱢣	oj	日𱑏	
+𱢣	of	日𰀁	
 #𱢤	ob	日閉	
 #𱢧	zy	昃迎	
 #𱢨	ow	日攵	
@@ -116893,9 +116928,10 @@
 #𲈦	mw	門万	
 #𲈦	wm	万門	
 #𲈧	mv	門爫	
-#𲈫	mf	門𰀁	
+𲈫	mf	門𰀁	
 #𲈭	ml	門录	
-#𲈳	mf	門𰀁	
+𲈳	mj	門𱑏	
+𲈳	mf	門𰀁	
 #𲈴	am	丨門	
 #𲈴	mf	門𰀁	
 #𲈺	mg	门光	
@@ -118282,7 +118318,7 @@
 #𲯌	ql	犭黎	
 #𲯍	qm	犭木	
 #𲯎	qu	犭瘦	
-#𲯑	qj	犭舉	
+𲯑	qj	犭舉	
 #𲯒	ql	犭斂	
 #𲯖	qi	犭觸	
 #𲯜	wh	王户	
@@ -118974,7 +119010,7 @@
 #𳈃	md	門耑	
 #𳈄	ym	員門	
 #𳈈	bb	閉彼	
-#𳈉	mf	門𰀁	
+𳈉	mf	門𰀁	
 #𳈊	ml	門离	
 #𳈎	jh	及闔	
 #𳈒	mw	门午	
