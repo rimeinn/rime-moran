@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20250923"
+version: "20250926"
 sort: by_weight
 columns:
   - text
@@ -118060,7 +118060,7 @@ git	git
 出國熱	igr
 車管所	igs
 喫官司	igs
-車行道	ihd
+闖紅燈	ihd
 創匯額	ihe
 臭烘烘	ihh
 茶話會	ihh
