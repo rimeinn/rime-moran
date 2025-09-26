@@ -13115,8 +13115,11 @@ use_preset_vocabulary: false
 哴	ld;kl	0
 哵	ba;kb	313
 哶	mx;kg	490
+哶	mx;kf	490
 哶	xd;kg	490
+哶	xd;kf	490
 哶	yh;kg	490
+哶	yh;kf	490
 哷	le;kc	305
 哷	le;kl	305
 哷	lx;kc	0
@@ -48381,7 +48384,7 @@ use_preset_vocabulary: false
 𠨫	lr;ed	0
 𠨫	lr;sl	0
 𠨬	vi;ib	0
-𠨭	ju;ie	0
+𠨭	ju;if	0
 𠨮	ze;ia	0
 𠨯	yu;iz	0
 𠨰	nv;ig	0

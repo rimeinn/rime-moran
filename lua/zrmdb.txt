@@ -9159,6 +9159,7 @@
 哴 kl
 哵 kb
 哶 kg
+哶 kf
 哷 kc
 哷 kl
 哸 kt
@@ -35470,7 +35471,7 @@
 𠨫 ed
 𠨫 sl
 𠨬 ib
-𠨭 ie
+𠨭 if
 𠨮 ia
 𠨯 iz
 𠨰 ig
