@@ -47937,7 +47937,9 @@
 𣡊 my
 𣡋 me
 𣡌 mx
+𣡍 cc
 𣡍 zz
+𣡍 jj
 𣡎 mq
 𣡏 mx
 𣡏 um
@@ -87004,9 +87006,9 @@
 𭴹 hh
 𭴺 ah
 𭴻 hq
-𭴾 ph
+𭴾 dh
 𭴿 ha
-𭴿 rm
+𭴿 rh
 𭵀 fh
 𭵀 hf
 𭵁 hf
