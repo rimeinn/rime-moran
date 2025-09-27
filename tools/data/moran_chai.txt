@@ -47946,7 +47946,9 @@
 𣡊	my	木藝	auto
 𣡋	me	木爾	auto
 𣡌	mx	木獻	auto
-𣡍	zz	棗棗	auto
+𣡍	cc	朿朿	
+𣡍	zz	棗棗	
+𣡍	jj	棘棘	
 𣡎	mq	木秦	auto
 𣡏	mx	木夕	auto
 𣡏	um	十木	auto
@@ -87013,9 +87015,9 @@
 𭴹	hh	火灬	auto
 𭴺	ah	丆灬	auto
 𭴻	hq	火取	auto
-𭴾	ph	丿灬	auto
-𭴿	ha	火一	auto
-𭴿	rm	𠂉灭	auto
+𭴾	dh	丿灬	
+𭴿	ha	火一	
+𭴿	rh	𠂉火	
 𭵀	fh	肥火	auto
 𭵀	hf	火肥	auto
 𭵁	hf	火肥	auto
