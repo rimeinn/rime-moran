@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20250928"
+version: "20251003"
 sort: by_weight
 columns:
   - text
@@ -3525,6 +3525,7 @@ AVL樹	avlu
 班上	bjuh
 半晌	bjuh
 辦事	bjui
+版式	bjui
 半山	bjuj
 北京時間	bjuj
 不忌生冷	bjul
@@ -4036,7 +4037,7 @@ AVL樹	avlu
 保衛	bkwz
 報銷	bkxc
 包廂	bkxd
-不可懈怠	bkxd
+寶箱	bkxd
 不可向邇	bkxe
 報喜	bkxi
 不可泄露天機	bkxj
@@ -12206,11 +12207,14 @@ C盤	cpj
 遞降	dijd
 調查結果	dijg
 低級	diji
+地基	diji
+第几	diji
 獨出己見	dijj
 得出結論	dijl
 遞減	dijm
 覿	dijm
 遞進	dijn
+第幾	dijo
 敵軍	dijp
 第九	dijq
 低就	dijq
@@ -14443,6 +14447,7 @@ D盤	dpj
 斷絕	drjt
 斷句	drju
 短句	drju
+短劇	drju
 待人接物	drjw
 端節	drjx
 大人君子	drjz
@@ -19195,6 +19200,7 @@ E盤	epj
 飯糰	fjtr
 飯桶	fjts
 翻土	fjtu
+反推	fjtv
 封建統治	fjtv
 富甲天下	fjtx
 飯廳	fjty
@@ -22143,6 +22149,7 @@ F盤	fpj
 割肉	gerb
 隔熱	gere
 各人	gerf
+個人	gerf
 個	gerg
 割讓	gerh
 隔日	geri
@@ -24598,6 +24605,7 @@ G盤	gpj
 國情諮文	gqzw
 高清雜誌網	gqzw
 關	gr
+果然	gr
 個人	gr
 毌	gra
 丱	graa
@@ -27055,6 +27063,7 @@ G盤	gpj
 何必強求	hbqq
 火遍全球	hbqq
 猴拳	hbqr
+後驅	hbqu
 火遍全網	hbqw
 火爆全網	hbqw
 毫不起眼	hbqy
@@ -28037,6 +28046,7 @@ G盤	gpj
 橫標	hgbc
 好狗不擋道	hgbd
 橫比	hgbi
+橫版	hgbj
 厚古薄今	hgbj
 橫暴	hgbk
 好狗不擋路	hgbl
@@ -37353,7 +37363,7 @@ I盤	ipj
 決策部門	jcbm
 腳脖	jcbo
 腳步	jcbu
-就此罷手	jcbu
+膠布	jcbu
 就此罷休	jcbx
 交兵	jcby
 精彩表演	jcby
@@ -37375,6 +37385,7 @@ I盤	ipj
 灂	jcdj
 教導	jcdk
 交代	jcdl
+膠帶	jcdl
 焦點	jcdm
 較多	jcdo
 湫	jcdq
@@ -37521,6 +37532,8 @@ I盤	ipj
 腳踩兩隻船	jcli
 勦	jcli
 就此了結	jclj
+較老	jclk
+膠佬	jclk
 叫來	jcll
 狡賴	jcll
 教練	jclm
@@ -39257,8 +39270,9 @@ I盤	ipj
 集約	jiyt
 計	jiyu
 機遇	jiyu
-給予	jiyu
 覬覦	jiyu
+基於	jiyu
+給予	jiyu
 諔	jiyu
 裚	jiyv
 檢查一下	jiyx
@@ -39966,7 +39980,9 @@ JK制服	jkvf
 監測	jmce
 菅	jmcg
 虃	jmcg
+剪藏	jmch
 建倉	jmch
+減倉	jmch
 薦	jmch
 繭	jmci
 簡詞	jmci
@@ -49170,6 +49186,8 @@ JK制服	jkvf
 鯬	liyd
 立業	liye
 利益	liyi
+禮儀	liyi
+离异	liyi
 立言	liyj
 力邀	liyk
 鯉	liyl
@@ -65627,6 +65645,7 @@ P站	pvj
 繾綣	qmqr
 欠缺	qmqt
 前去	qmqu
+前驅	qmqu
 前情	qmqy
 倩	qmr
 僉	qmrc
@@ -71817,6 +71836,7 @@ P站	pvj
 思親	siqn
 死囚	siqq
 死去	siqu
+四驅	siqu
 私情	siqy
 似	sir
 私人	sirf
@@ -73182,6 +73202,7 @@ P站	pvj
 速查	suia
 宿仇	suib
 俗稱	suig
+速成	suig
 宿娼	suih
 三十出頭	suit
 四十出頭	suit
@@ -76244,6 +76265,7 @@ P站	pvj
 添	tmd
 天大	tmda
 天地	tmdi
+天敵	tmdi
 填單	tmdj
 恬淡	tmdj
 天道	tmdk
@@ -78531,6 +78553,7 @@ T恤衫	txuj
 同業公會	tygh
 體育廣場	tygi
 體育過程	tygi
+聽感	tygj
 挺高	tygk
 統一管理	tygl
 特異功能	tygn
@@ -79100,6 +79123,7 @@ T恤衫	txuj
 守財	ubcl
 恕不從命	ubcm
 受挫	ubco
+手搓	ubco
 收存	ubcp
 手粗	ubcu
 十八層地獄	ubcy
@@ -92424,6 +92448,7 @@ U盤	upj
 無法領取	wflq
 紊亂	wflr
 紋路	wflu
+文旅	wflv
 紋縷	wflv
 無法領悟	wflw
 無法利用	wfly
@@ -93043,6 +93068,7 @@ U盤	upj
 文化遺產	whyi
 網眼	whyj
 網銀	whyn
+網癮	whyn
 望月	whyt
 妄語	whyu
 文化藝術	whyu
@@ -94912,6 +94938,7 @@ WiFi	wifi
 鎢鋼	wugh
 武鋼	wugh
 無感	wugj
+五感	wugj
 誣告	wugk
 網上購買	wugm
 無果	wugo
@@ -96630,6 +96657,7 @@ WiFi	wifi
 效法	xcfa
 校風	xcfg
 消防	xcfh
+效仿	xcfh
 小販	xcfj
 校服	xcfu
 小腹	xcfu
@@ -103113,6 +103141,7 @@ WiFi	wifi
 一把好手	ybhu
 優惠	ybhv
 優化	ybhw
+油畫	ybhw
 黝	ybhy
 黝黑	ybhz
 蝣	ybi
@@ -104177,6 +104206,7 @@ WiFi	wifi
 業者	yeve
 業障	yevh
 液汁	yevi
+椰汁	yevi
 野戰	yevj
 野種	yevs
 業主	yevu
@@ -108631,6 +108661,7 @@ WiFi	wifi
 原罪	yrzv
 庸人自擾之	yrzv
 用	ys
+意思	ys
 有所安排	ysap
 癰	ysb
 有所不便	ysbb
@@ -108947,6 +108978,7 @@ WiFi	wifi
 有所作爲	yszw
 踊	yszy
 月	yt
+越	yt
 曰	yta
 樂	ytb
 牙疼不是病	ytbb
@@ -109236,7 +109268,7 @@ WiFi	wifi
 有圖有真相	ytyx
 有條有序	ytyx
 一天一夜	ytyy
-越	ytz
+躍	ytz
 躍	ytzd
 趯	ytzd
 月子	ytzi
@@ -109971,7 +110003,7 @@ WiFi	wifi
 玉簪	yuzj
 咬舌自盡	yuzj
 遹	yuzk
-也是醉了	yuzl
+預載	yuzl
 野生字幕	yuzm
 影視作品	yuzp
 藝術作品	yuzp
@@ -111590,6 +111622,7 @@ WiFi	wifi
 有約在先	yyzx
 原因在於	yyzy
 意義在於	yyzy
+樣子	yz
 睚眥必報	yzbb
 英姿勃發	yzbf
 驗資報告	yzbg
@@ -112852,6 +112885,7 @@ WiFi	wifi
 資政	zivg
 滋長	zivh
 資質	zivi
+自製	zivi
 自找	zivk
 自傳	zivr
 自轉	zivr
@@ -116321,6 +116355,7 @@ WiFi	wifi
 大哥哥	dgg
 頂呱呱	dgg
 膽固醇	dgi
+地鍋雞	dgj
 大概率	dgl
 大功率	dgl
 大規模	dgm
@@ -120828,6 +120863,7 @@ SD卡	sdk
 死亡線	swx
 三文魚	swy
 孫媳婦	sxf
+死循環	sxh
 思想家	sxj
 四星級	sxj
 三星級	sxj
@@ -121967,6 +122003,7 @@ SD卡	sdk
 轉彎子	vwz
 遮羞布	vxb
 中心詞	vxc
+中性詞	vxc
 準信兒	vxe
 正相反	vxf
 侄媳婦	vxf
@@ -121998,6 +122035,7 @@ SD卡	sdk
 直性子	vxz
 這下子	vxz
 追星族	vxz
+這一步	vyb
 職業病	vyb
 志願兵	vyb
 這一次	vyc
@@ -122903,7 +122941,7 @@ Word	wrd
 一大口	ydk
 有道理	ydl
 意大利	ydl
-一大摞	ydl
+一定量	ydl
 源代碼	ydm
 一定能	ydn
 雅典娜	ydn
@@ -124338,7 +124376,6 @@ Word	wrd
 
 ##隨心碼
 #（本質上是無理碼）
-越	yz		#手感強於ytz
 莊	vdg		#來自簡化字寫法 庄；以空碼加
 豬	vuq		#來自簡化字寫法 猪；以空碼加
 議	yiyw		#取末尾的「我」

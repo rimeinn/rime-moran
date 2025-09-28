@@ -3,7 +3,7 @@
 
 ---
 name: moran_charset
-version: 1.1
+version: 1.1.1
 sort: original
 ...
 
@@ -18343,7 +18343,7 @@ sort: original
 篝	t
 篞	t
 篟	t
-篠	f
+篠	t
 篡	t
 篢	f
 篣	t
