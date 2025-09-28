@@ -42053,7 +42053,7 @@
 𢌙 zq
 𢌚 zu
 𢌛 zv
-𢌜 zf
+𢌜 zu
 𢌝 zp
 𢌞 zh
 𢌟 zy
@@ -67031,7 +67031,7 @@
 𨓊 zg
 𨓋 zq
 𨓌 zz
-𨓍 zf
+𨓍 zu
 𨓎 zz
 𨓏 zw
 𨓒 zr
