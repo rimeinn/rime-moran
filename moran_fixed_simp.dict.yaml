@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20250927"
+version: "20250928"
 sort: original
 columns:
   - text
@@ -9542,7 +9542,7 @@ C++	cpp
 蹙	cuzq
 蹙	cuzx
 此生足矣	cuzy
-摧	cv
+催	cv
 瘁	cvb
 辞职报告	cvbg
 辞职不干	cvbg
@@ -72160,7 +72160,6 @@ P站	pvj
 听不太懂	tbtd
 妥不妥当	tbtd
 头疼	tbtg
-同比提高	tbtg
 天兵天将	tbtj
 头套	tbtk
 偷逃	tbtk

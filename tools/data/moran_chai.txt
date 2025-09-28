@@ -42062,7 +42062,7 @@
 𢌙	zq	廴千	auto
 𢌚	zu	廴山	auto
 𢌛	zv	廴正	auto
-𢌜	zf	廴𰀁	
+𢌜	zu	廴龵	
 𢌝	zp	廴彡	auto
 𢌞	zh	廴回	auto
 𢌟	zy	廴羽	auto
@@ -67040,7 +67040,7 @@
 𨓊	zg	辶乚	auto
 𨓋	zq	辶弃	auto
 𨓌	zz	辶災	auto
-𨓍	zf	辶𰀁	auto
+𨓍	zu	辶龵	
 𨓎	zz	辶子	auto
 𨓏	zw	辶王	auto
 𨓒	zr	辶壬	auto
