@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20250927"
+version: "20250928"
 sort: by_weight
 columns:
   - text
@@ -74150,7 +74150,6 @@ P站	pvj
 聽不太懂	tbtd
 妥不妥當	tbtd
 頭疼	tbtg
-同比提高	tbtg
 天兵天將	tbtj
 頭套	tbtk
 偷逃	tbtk
