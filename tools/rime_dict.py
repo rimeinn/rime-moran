@@ -22,13 +22,13 @@ def read_compact_dict(filename):
 
 
 def base_dict():
-    return read_compact_dict('../moran.base.dict.yaml')
+    return read_compact_dict('moran.base.dict.yaml')
 
 
 def base_dict_freq() -> dict[str, int]:
     RE_COMPACT_DICT_LINE = re.compile(r"^(.+)\t([ ;a-z]+)\t(\d*)$")
     ret: dict[str, int] = defaultdict(int)
-    with open('../moran.base.dict.yaml', 'r') as f:
+    with open('moran.base.dict.yaml', 'r') as f:
         for l in f:
             l = l.rstrip()
             matches = RE_COMPACT_DICT_LINE.findall(l)
@@ -43,7 +43,7 @@ def base_dict_freq_normalized() -> dict[str, int]:
     cc = OpenCC('t2s.json')
     RE_COMPACT_DICT_LINE = re.compile(r"^(.+)\t([ ;a-z]+)\t(\d*)$")
     ret: dict[str, int] = defaultdict(int)
-    with open('../moran.base.dict.yaml', 'r') as f:
+    with open('moran.base.dict.yaml', 'r') as f:
         for l in f:
             l = l.rstrip()
             matches = RE_COMPACT_DICT_LINE.findall(l)
@@ -56,11 +56,11 @@ def base_dict_freq_normalized() -> dict[str, int]:
 
 
 def moe_dict():
-    return read_compact_dict('../moran.moe.dict.yaml')
+    return read_compact_dict('moran.moe.dict.yaml')
 
 
 def tencent_dict():
-    return read_compact_dict('../moran.tencent.dict.yaml')
+    return read_compact_dict('moran.tencent.dict.yaml')
 
 
 def read_fixed(path: str) -> pd.DataFrame:
@@ -78,11 +78,11 @@ def read_fixed(path: str) -> pd.DataFrame:
 
 
 def fixed_trad_dict() -> pd.DataFrame:
-    return read_fixed('../moran_fixed.dict.yaml')
+    return read_fixed('moran_fixed.dict.yaml')
 
 
 def fixed_simp_dict() -> pd.DataFrame:
-    return read_fixed('../moran_fixed_simp.dict.yaml')
+    return read_fixed('moran_fixed_simp.dict.yaml')
 
 
 def latest_essay() -> pd.DataFrame:
@@ -102,7 +102,7 @@ def latest_essay() -> pd.DataFrame:
 def charset():
     RE_LINE = re.compile(r"^(.*)\tt$")
     ret = set()
-    with open('../moran_charset.dict.yaml', 'r') as f:
+    with open('moran_charset.dict.yaml', 'r') as f:
         for l in f:
             l = l.rstrip()
             matches = RE_LINE.findall(l)
