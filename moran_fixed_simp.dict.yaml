@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20250928"
+version: "20251003"
 sort: original
 columns:
   - text
@@ -3427,6 +3427,7 @@ AVL树	avlu
 班上	bjuh
 半晌	bjuh
 办事	bjui
+版式	bjui
 半山	bjuj
 北京时间	bjuj
 不忌生冷	bjul
@@ -3924,7 +3925,7 @@ AVL树	avlu
 保卫	bkwz
 报销	bkxc
 包厢	bkxd
-不可懈怠	bkxd
+宝箱	bkxd
 不可向迩	bkxe
 报喜	bkxi
 不可泄露天机	bkxj
@@ -11872,11 +11873,14 @@ C语言	cyy
 镝	dijg
 调查结果	dijg
 低级	diji
+地基	diji
+第几	diji
 独出己见	dijj
 得出结论	dijl
 递减	dijm
 觌	dijm
 递进	dijn
+第几	dijo
 敌军	dijp
 第九	dijq
 低就	dijq
@@ -14042,6 +14046,7 @@ D盘	dpj
 断绝	drjt
 断句	drju
 短句	drju
+短剧	drju
 待人接物	drjw
 端节	drjx
 大人君子	drjz
@@ -18626,6 +18631,7 @@ E盘	epj
 饭团	fjtr
 饭桶	fjts
 翻土	fjtu
+反推	fjtv
 封建统治	fjtv
 富甲天下	fjtx
 饭厅	fjty
@@ -21503,6 +21509,7 @@ F盘	fpj
 割肉	gerb
 隔热	gere
 各人	gerf
+个人	gerf
 割让	gerh
 隔日	geri
 仡	gerq
@@ -23919,6 +23926,7 @@ G盘	gpj
 国情咨文	gqzw
 高清杂志网	gqzw
 关	gr
+果然	gr
 个人	gr
 毌	gra
 个人爱好	grah
@@ -26316,6 +26324,7 @@ G盘	gpj
 何必强求	hbqq
 火遍全球	hbqq
 猴拳	hbqr
+后驱	hbqu
 火遍全网	hbqw
 火爆全网	hbqw
 毫不起眼	hbqy
@@ -27288,6 +27297,7 @@ G盘	gpj
 横标	hgbc
 好狗不挡道	hgbd
 横比	hgbi
+横版	hgbj
 厚古薄今	hgbj
 横暴	hgbk
 好狗不挡路	hgbl
@@ -36348,7 +36358,7 @@ I盘	ipj
 决策部门	jcbm
 脚脖	jcbo
 脚步	jcbu
-就此罢手	jcbu
+胶布	jcbu
 皦	jcbw
 就此罢休	jcbx
 交兵	jcby
@@ -36374,6 +36384,7 @@ I盘	ipj
 教导	jcdk
 滘	jcdk
 交代	jcdl
+胶带	jcdl
 焦点	jcdm
 较多	jcdo
 湫	jcdq
@@ -36512,6 +36523,8 @@ I盘	ipj
 脚力	jcli
 脚踩两只船	jcli
 就此了结	jclj
+较老	jclk
+胶佬	jclk
 叫来	jcll
 狡赖	jcll
 教练	jclm
@@ -38187,8 +38200,9 @@ I盘	ipj
 集约	jiyt
 计	jiyu
 机遇	jiyu
-给予	jiyu
 觊觎	jiyu
+基于	jiyu
+给予	jiyu
 检查一下	jiyx
 迹	jiz
 鸡杂	jiza
@@ -38885,7 +38899,9 @@ JK制服	jkvf
 检测	jmce
 监测	jmce
 菅	jmcg
+剪藏	jmch
 建仓	jmch
+减仓	jmch
 茧	jmci
 简词	jmci
 蒹	jmcj
@@ -47808,6 +47824,8 @@ JK制服	jkvf
 鳢	liyd
 立业	liye
 利益	liyi
+礼仪	liyi
+离异	liyi
 立言	liyj
 力邀	liyk
 鲤	liyl
@@ -63807,6 +63825,7 @@ P站	pvj
 缱绻	qmqr
 欠缺	qmqt
 前去	qmqu
+前驱	qmqu
 前情	qmqy
 倩	qmr
 佥	qmra
@@ -69824,6 +69843,7 @@ P站	pvj
 思亲	siqn
 死囚	siqq
 死去	siqu
+四驱	siqu
 私情	siqy
 似	sir
 私人	sirf
@@ -71219,6 +71239,7 @@ P站	pvj
 速查	suia
 宿仇	suib
 俗称	suig
+速成	suig
 宿娼	suih
 三十出头	suit
 四十出头	suit
@@ -74189,6 +74210,7 @@ P站	pvj
 天大	tmda
 淟	tmdd
 天地	tmdi
+天敌	tmdi
 填单	tmdj
 恬淡	tmdj
 天道	tmdk
@@ -76411,6 +76433,7 @@ T恤衫	txuj
 同业公会	tygh
 体育广场	tygi
 体育过程	tygi
+听感	tygj
 挺高	tygk
 统一管理	tygl
 特异功能	tygn
@@ -76965,6 +76988,7 @@ T恤衫	txuj
 收操	ubck
 守财	ubcl
 恕不从命	ubcm
+手搓	ubco
 受挫	ubco
 收存	ubcp
 手粗	ubcu
@@ -90018,6 +90042,7 @@ U盘	upj
 无法领取	wflq
 紊乱	wflr
 纹路	wflu
+文旅	wflv
 纹缕	wflv
 无法领悟	wflw
 无法利用	wfly
@@ -90624,6 +90649,7 @@ U盘	upj
 文化遗产	whyi
 网眼	whyj
 网银	whyn
+网瘾	whyn
 望月	whyt
 妄语	whyu
 文化艺术	whyu
@@ -92464,6 +92490,7 @@ U盘	upj
 钨钢	wugh
 武钢	wugh
 无感	wugj
+五感	wugj
 诬告	wugk
 网上购买	wugm
 无果	wugo
@@ -94113,6 +94140,7 @@ U盘	upj
 效法	xcfa
 校风	xcfg
 消防	xcfh
+效仿	xcfh
 小贩	xcfj
 校服	xcfu
 小腹	xcfu
@@ -100356,6 +100384,7 @@ U盘	upj
 一把好手	ybhu
 优惠	ybhv
 优化	ybhw
+油画	ybhw
 黝	ybhy
 黝黑	ybhz
 蚴	ybi
@@ -101410,6 +101439,7 @@ U盘	upj
 业者	yeve
 业障	yevh
 液汁	yevi
+椰汁	yevi
 野战	yevj
 野种	yevs
 业主	yevu
@@ -105686,6 +105716,7 @@ U盘	upj
 原罪	yrzv
 庸人自扰之	yrzv
 用	ys
+意思	ys
 有所安排	ysap
 痈	ysb
 有所不便	ysbb
@@ -105998,6 +106029,7 @@ U盘	upj
 用作	yszo
 有所作为	yszw
 月	yt
+越	yt
 曰	yta
 牙疼不是病	ytbb
 一天不差	ytbi
@@ -106279,7 +106311,7 @@ U盘	upj
 有图有真相	ytyx
 有条有序	ytyx
 一天一夜	ytyy
-越	ytz
+跃	ytz
 趯	ytzd
 月子	ytzi
 一拖再拖	ytzt
@@ -109801,6 +109833,7 @@ U盘	upj
 资政	zivg
 滋长	zivh
 资质	zivi
+自制	zivi
 自找	zivk
 自传	zivr
 自转	zivr
@@ -113229,6 +113262,7 @@ U盘	upj
 大哥哥	dgg
 顶呱呱	dgg
 胆固醇	dgi
+地锅鸡	dgj
 大概率	dgl
 大功率	dgl
 大规模	dgm
@@ -118886,6 +118920,7 @@ SD卡	sdk
 转弯子	vwz
 遮羞布	vxb
 中心词	vxc
+中性词	vxc
 准信儿	vxe
 正相反	vxf
 侄媳妇	vxf
@@ -118917,6 +118952,7 @@ SD卡	sdk
 这下子	vxz
 追星族	vxz
 直性子	vxz
+这一步	vyb
 职业病	vyb
 志愿兵	vyb
 这一次	vyc
@@ -119821,9 +119857,9 @@ Word	wrd
 一大块	ydk
 一道坎	ydk
 一大口	ydk
-意大利	ydl
 有道理	ydl
-一大摞	ydl
+意大利	ydl
+一定量	ydl
 源代码	ydm
 一定能	ydn
 雅典娜	ydn
