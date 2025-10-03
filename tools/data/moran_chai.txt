@@ -84885,7 +84885,8 @@
 𭂻	kk	凵凵	auto
 𭂾	an	一女	auto
 𭂾	kn	凵女	auto
-𭃂	df	刀𰀁	
+𭃂	gf	𠃌𰀁	
+𭃂	de	刀二	
 𭃄	ud	十刀	auto
 𭃄	du	刀十	auto
 𭃅	rd	刃刂	auto
@@ -89691,6 +89692,7 @@
 𮱡	xz	小子	auto
 𮱢	xu	小石	auto
 𮱣	wg	兀貴	auto
+𮱥	ul	山𭃂	
 𮱥	uf	山𰀁	
 𮱦	uf	山凤	auto
 𮱧	ud	山代	auto
@@ -99619,6 +99621,181 @@
 𳑲	vh	止或	auto
 𳑳	as	一三	auto
 𳑶	ly	龍魚	auto
+㜽	iz	巛子	
+㢂	gv	广𠂤	
+㦮	ad	一丶	
+㦽	yi	有巛	
+㯿	ml	木巤	
+㱙	dk	歹丂	
+㽕	yg	由𠃌	
+㽲	bk	疒丂	
+䀎	ok	目丂	
+䀻	ok	目丂	
+䁽	ol	目巤	
+䂫	uj	石夅	
+䂫	uf	石㐄	
+䃳	ul	石巤	
+䉭	vl	𥫗巤	
+䏨	yv	月𠂤	
+䒓	ck	艹丂	
+䛄	yy	言夘	
+䛄	ye	言⺋	
+䛣	yk	言丂	
+䛣	yp	言甹	
+䪉	gl	革巤	
+䱖	ym	魚戼	
+䱖	yk	魚コ	
+䳃	ny	鳥夘	
+䳃	ne	鳥⺋	
+𠀅	ap	一丿	
+𠂈	ap	𠃊丿	
+𠄑	ag	丨乚	
+𠔃	bk	丷丂	
+𠔃	qg	䒑𠃌	
+𠚴	di	刂巛	
+𠜘	dy	刂又	
+𠠗	dl	刂巤	
+𠥿	eu	⺋十	
+𠦗	ug	十㠯	
+𠧠	ak	𠃊コ	
+𠨎	ee	⺋⺋	
+𠨕	ee	⺋⺋	
+𠭋	eu	⺋双	
+𠮰	ki	口巛	
+𠲓	kj	口夅	
+𠲓	kf	口㐄	
+𠽱	ke	口⺋	
+𡂏	kl	口巤	
+𡍡	ty	土夘	
+𡍡	te	土卩	
+𡑈	iv	垂𠂤	
+𡓍	tl	土巤	
+𡖣	dk	多コ	
+𡖣	xk	夕コ	
+𡙀	db	大㡀	
+𡜥	nv	女𠂤	
+𡟠	ni	女巛	
+𡦻	be	宀⺋	
+𡧥	bg	宀𠃌	
+𡴱	ue	山⺋	
+𡶫	uv	山𠂤	
+𡺇	uv	山𠂤	
+𡿧	ia	巛一	
+𡿩	ia	巛一	
+𡿯	oi	日巛	
+𡿺	ix	巛囟	
+𡿺	ii	巛㐅	
+𡿾	iv	巛隹	
+𡿾	vi	隹巛	
+𡿿	ih	巛或	
+𡿿	gi	戈巛	
+𢀁	ib	巛{犮}	
+𢀕	gg	工𠃌	
+𢇇	ya	幺丨	
+𢌕	ga	广丨	
+𢎙	mm	{马}{马}	
+𢎡	gd	弓丶	
+𢕖	xe	彳⺋	
+𢖊	xk	彳丂	
+𢖊	xp	彳䛣	
+𢗂	xk	心丂	
+𢘸	xj	忄夅	
+𢘸	xf	忄㐄	
+𢩨	fk	扌丂	
+𢪍	fd	扌丶	
+𢬬	ei	⺋承	
+𢭎	fj	扌夅	
+𢭎	ff	扌㐄	
+𣋲	ol	日巤	
+𣑂	mk	木丂	
+𣔮	mg	木戈	
+𣘝	me	木⺋	
+𣧄	id	巛歹	
+𣧄	di	歹巛	
+𣧖	dd	歹丶	
+𣨇	dm	歹戼	
+𣨇	dk	歹コ	
+𣲂	iu	巛水	
+𣲂	ui	水巛	
+𣲡	dd	氵丶	
+𤁯	dl	氵巤	
+𤝷	qj	犭夅	
+𤝷	qf	犭㐄	
+𤤷	wv	王𠂤	
+𤥗	wm	王戼	
+𤥗	wk	王コ	
+𤪍	wn	王牛	
+𤪎	yq	玉欠	
+𤰝	ti	田巛	
+𤵸	bj	疒夅	
+𤵸	bk	疒㐄	
+𤼮	dk	癶丂	
+𥀰	pl	皮巤	
+𥅑	og	目㠯	
+𥑵	uv	石𠂤	
+𥝑	hk	禾丂	
+𥞜	hj	禾夅	
+𥞜	hf	禾㐄	
+𥥹	xm	穴戼	
+𥥹	xk	穴コ	
+𥪁	lk	立丂	
+𥪁	lp	立甹	
+𥪴	vj	章夅	
+𥪴	vf	章㐄	
+𥸥	gm	𠃌米	
+𥸥	mg	米𠃌	
+𥻫	kk	ユユ	
+𥿎	sy	糹夘	
+𥿎	se	糹⺋	
+𦀔	sk	糹丂	
+𦀔	sp	糹甹	
+𦆻	sl	糹巤	
+𦊿	sm	罒戼	
+𦊿	sk	罒コ	
+𦒦	yl	羽巤	
+𧀨	cl	艹巤	
+𧈞	ia	虫𠃊	
+𧈞	ai	𠃊虫	
+𧉍	id	虫丶	
+𧖨	xk	血丂	
+𧞪	yl	衤巤	
+𧢵	jk	角丂	
+𧥟	yg	言𠃌	
+𧥯	yd	言丶	
+𧧆	yv	言𠂤	
+𧪯	yg	言㠯	
+𧭞	yl	言巤	
+𧰠	ul	士巤	
+𧴲	ib	巛貝	
+𨕕	zg	辶㠯	
+𨦰	jm	金戼	
+𨦰	jk	金コ	
+𨨴	ji	金巛	
+𨳉	md	門丶	
+𨸑	ek	阝丂	
+𨹅	ev	阝𠂤	
+𩂾	yk	雨丂	
+𩂾	yp	雨甹	
+𩈜	mv	面𠂤	
+𩊁	ge	革⺋	
+𩐨	yj	音夅	
+𩐨	yf	音㐄	
+𩙑	fl	風巤	
+𩧆	ml	馬巤	
+𩨐	ml	马巤	
+𩨽	gv	骨𠂤	
+𩩍	gk	骨丂	
+𩩍	gp	骨甹	
+𩷄	yj	魚夅	
+𩷄	yf	魚㐄	
+𪇹	nl	鳥巤	
+𪌤	mv	麥𠂤	
+𪎛	me	麻⺋	
+𪎛	ge	广⺋	
+𪐿	hj	黑夅	
+𪐿	hf	黑㐄	
+𪔔	gj	鼓夅	
+𪔔	gf	鼓㐄	
 
 # 待考
 
