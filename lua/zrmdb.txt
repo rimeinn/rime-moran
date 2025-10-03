@@ -84876,7 +84876,8 @@
 𭂻 kk
 𭂾 an
 𭂾 kn
-𭃂 df
+𭃂 gf
+𭃂 de
 𭃄 ud
 𭃄 du
 𭃅 rd
@@ -89682,6 +89683,7 @@
 𮱡 xz
 𮱢 xu
 𮱣 wg
+𮱥 ul
 𮱥 uf
 𮱦 uf
 𮱧 ud
