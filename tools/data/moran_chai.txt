@@ -27954,6 +27954,7 @@
 邡	ef	耳方	
 邢	ek	耳开	
 那	el	阝𭃂	
+那	ef	阝𰀁	
 邤	ej	耳斤	
 邤	je	斤阝	
 邥	eg	阝乚	
@@ -94468,7 +94469,8 @@
 𱙅	nm	女门	auto
 𱙆	nf	女飞	auto
 𱙇	nl	女仑	auto
-𱙊	nf	女𰀁	auto
+𱙊	nl	女𭃂	
+𱙊	nf	女𰀁	
 𱙍	nu	女圣	auto
 𱙏	nn	女囡	auto
 𱙑	nq	女齐	auto
@@ -99797,6 +99799,7 @@
 𪐿	hf	黑㐄	
 𪔔	gj	鼓夅	
 𪔔	gf	鼓㐄	
+𥸨	km	ユ米	
 
 # 待考
 
