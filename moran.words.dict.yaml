@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20250922"
+version: "20250928"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9170,7 +9170,7 @@ columns:
 宏偉水渠	0
 肥啾	100
 龜男	10
-
+預載	100
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0
