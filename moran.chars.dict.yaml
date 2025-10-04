@@ -18432,8 +18432,8 @@ use_preset_vocabulary: false
 惶	hd;xh	712
 惷	ip;xi	167
 惸	qs;xz	299
-惹	re;cx	2933
 惹	re;xr	2933
+惹	re;cx	2933
 惺	xy;xx	674
 惻	ce;xz	604
 惼	bm;xb	256
@@ -100172,9 +100172,7 @@ use_preset_vocabulary: false
 𫝯	xt;zb	0
 𫝰	zk;bo	0
 𫝱	ny;bd	0
-𫝱	ny;md	0
 𫝱	vu;bd	0
-𫝱	vu;md	0
 𫝲	kk;ud	0
 𫝳	hu;ug	0
 𫝴	hb;uh	0
@@ -106251,6 +106249,8 @@ use_preset_vocabulary: false
 𭄇	fu;vd	0
 𭄈	dv;yd	0
 𭄊	ys;yd	0
+𭄏	ju;dc	0
+𭄏	ju;dd	0
 𭄏	ju;ad	0
 𭄒	lq;dd	0
 𭄒	lq;pd	0
@@ -106327,8 +106327,7 @@ use_preset_vocabulary: false
 𭅊	yk;gv	0
 𭅋	fu;gd	0
 𭅌	vo;qu	0
-𭅍	iu;bd	0
-𭅍	iu;gd	0
+𭅍	iu;ad	0
 𭅐	wz;bb	0
 𭅐	wz;bi	0
 𭅑	jr;be	0
@@ -106499,8 +106498,7 @@ use_preset_vocabulary: false
 𭇡	qi;kd	0
 𭇡	su;kd	0
 𭇡	yt;kd	0
-𭇢	qi;bk	0
-𭇢	qi;ku	0
+𭇢	qi;ak	0
 𭇣	vi;kv	0
 𭇥	hj;kv	0
 𭇥	hj;rk	0
@@ -107725,7 +107723,7 @@ use_preset_vocabulary: false
 𭞍	qi;gx	0
 𭞍	qi;xu	0
 𭞎	ni;xa	0
-𭞐	lv;bs	0
+𭞐	lv;as	0
 𭞐	lv;xt	0
 𭞑	fu;fx	0
 𭞑	fu;xw	0
@@ -107822,10 +107820,10 @@ use_preset_vocabulary: false
 𭟼	hu;hg	0
 𭟼	xi;gq	0
 𭟼	xi;hg	0
-𭟾	hu;bg	0
 𭟾	hu;gd	0
-𭟾	xi;bg	0
+𭟾	hu;ag	0
 𭟾	xi;gd	0
+𭟾	xi;ag	0
 𭠀	ee;hg	0
 𭠃	li;hd	0
 𭠄	dm;hg	0
@@ -109154,15 +109152,15 @@ use_preset_vocabulary: false
 𭸠	jm;qj	0
 𭸡	lc;qx	0
 𭸢	na;qn	0
-𭸣	xm;bq	0
 𭸣	xm;qy	0
+𭸣	xm;aq	0
 𭸥	bj;qx	0
 𭸨	ui;qs	0
 𭸪	fu;qv	0
 𭸪	fu;vq	0
 𭸭	tu;qu	0
-𭸮	xm;bq	0
 𭸮	xm;qy	0
+𭸮	xm;aq	0
 𭸰	lo;qb	0
 𭸱	mo;qm	0
 𭸳	xp;qx	0
@@ -109470,7 +109468,7 @@ use_preset_vocabulary: false
 𭾎	wf;mw	0
 𭾎	wf;wm	0
 𭾏	gu;mg	0
-𭾐	lu;bm	0
+𭾐	lu;am	0
 𭾐	lu;mt	0
 𭾑	gu;im	0
 𭾑	gu;mu	0
@@ -110591,6 +110589,7 @@ use_preset_vocabulary: false
 𮓙	hu;aj	0
 𮓙	xw;aj	0
 𮓚	qm;ay	0
+𮓚	qm;by	0
 𮓛	he;ht	0
 𮓛	hu;ht	0
 𮓛	xw;ht	0
@@ -110603,8 +110602,8 @@ use_preset_vocabulary: false
 𮓟	xc;aj	0
 𮓟	xc;hj	0
 𮓠	xu;aa	0
-𮓡	wz;by	0
-𮓡	xu;by	0
+𮓡	wz;ay	0
+𮓡	xu;ay	0
 𮓢	rv;bo	0
 𮓢	rv;ob	0
 𮓣	hu;ha	0
@@ -110951,8 +110950,7 @@ use_preset_vocabulary: false
 𮙛	tr;up	0
 𮙝	xd;rd	0
 𮙞	xd;bd	0
-𮙟	ju;bu	0
-𮙟	ju;uu	0
+𮙟	ju;au	0
 𮙠	xd;rd	0
 𮙢	py;dd	0
 𮙣	jm;um	0
@@ -119209,7 +119207,7 @@ use_preset_vocabulary: false
 𱮨	hy;qi	0
 𱮨	ho;qi	0
 𱮩	ub;sd	0
-𱮫	xm;bd	0
+𱮫	xm;ab	0
 𱮭	hy;qi	0
 𱮭	ho;qi	0
 𱮳	ri;wo	0
