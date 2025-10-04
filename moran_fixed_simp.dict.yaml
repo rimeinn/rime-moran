@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251004"
+version: "20251005"
 sort: original
 columns:
   - text
@@ -412,8 +412,8 @@ A股	agu
 矮子	aizi
 爱子	aizi
 挨宰	aizl
-按键	aj
 安静	aj
+按键	aj
 挨家挨户	ajah
 安静安静	ajaj
 挨肩擦背	ajcb
@@ -93355,8 +93355,8 @@ U盘	upj
 无须再忍	wxzr
 我现在是	wxzu
 无限钻石	wxzu
-我也	wy
 唯一	wy
+我也	wy
 唯一爱好	wyah
 无一不备	wybb
 握有把柄	wybb
