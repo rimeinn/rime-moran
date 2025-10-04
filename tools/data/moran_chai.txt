@@ -8567,7 +8567,7 @@
 匔	gg	勹躳	
 匕	pg	丿乚	
 化	rb	人匕	
-北	ap	一丿	
+北	ag	一乚	
 北	bj	匕丬	
 匘	bi	匕㐅	
 匘	bx	匕囟	
@@ -12957,8 +12957,8 @@
 惶	xh	心皇	
 惷	xi	心春	
 惸	xz	忄子	
-惹	cx	艹心	
 惹	xr	心若	
+惹	cx	艹心	
 惺	xx	心星	
 惻	xz	心則	
 惼	xb	心扁	
@@ -79909,8 +79909,7 @@
 𫝯	pz	𠂆子	auto
 𫝯	zb	子冖	auto
 𫝰	bo	宀日	auto
-𫝱	bd	宀丁	auto
-𫝱	md	宓丁	auto
+𫝱	bd	宀丁	
 𫝲	ud	尸丶	auto
 𫝳	ug	山弓	auto
 𫝴	uh	山后	auto
@@ -80088,8 +80087,9 @@
 𫠛	ix	齒星	auto
 𫠜	ie	齿兒	
 𫠡	ag	一个	auto
-𫠤	fg	𰀁勹	auto
-𫠤	tf	土方	auto
+𫠤	fg	龶勹	
+𫠤	fw	𰀁万	
+𫠤	tf	土方	
 𫠥	an	一内	auto
 𫠦	aa	一亅	auto
 𫠨	pa	丿一	auto
@@ -80218,10 +80218,9 @@
 𫣘	hf	合丰	auto
 𫣛	qq	佥佥	auto
 𫣜	rx	亻心	auto
-𫣟	rq	人䒑	auto
 𫣟	rj	亻菊	auto
-𫣠	ro	人日	auto
 𫣠	rv	亻智	auto
+𫣠	ro	人日	auto
 𫣡	rf	亻富	auto
 𫣣	ra	亻碍	auto
 𫣤	rw	亻葦	auto
@@ -80255,7 +80254,8 @@
 𫤃	rb	亻壁	auto
 𫤇	rh	亻還	auto
 𫤉	ql	傾吕	auto
-𫤊	at	一田	auto
+𫤊	ff	畐畐	
+𫤊	at	一田	
 𫤌	rg	亻敢	auto
 𫤎	qv	傾征	auto
 𫤐	rc	人从	auto
@@ -80265,7 +80265,8 @@
 𫤖	ry	亻巖	auto
 𫤗	ea	儿一	auto
 𫤗	ae	丨儿	auto
-𫤘	es	儿罒	auto
+𫤘	pe	丿儿	
+𫤘	es	儿罒	
 𫤚	gl	光令	auto
 𫤛	df	兑丰	auto
 𫤞	yu	元首	auto
@@ -84927,7 +84928,9 @@
 𭄇	vd	斬刀	auto
 𭄈	yd	业刂	auto
 𭄊	yd	庸刂	auto
-𭄏	ad	一刂	auto
+𭄏	dc	一匆	
+𭄏	dd	一丶	
+𭄏	ad	一刂	
 𭄒	dd	刀刂	auto
 𭄒	pd	丿刂	auto
 𭄔	hd	禾刂	auto
@@ -84989,8 +84992,7 @@
 𭅊	gv	勹止	auto
 𭅋	gd	勹豆	auto
 𭅌	qu	其勺	auto
-𭅍	bd	卜丶	auto
-𭅍	gd	勹丶	auto
+𭅍	ad	卜丶	
 𭅐	bb	丷匕	auto
 𭅐	bi	匕厂	auto
 𭅑	be	匕二	auto
@@ -85099,8 +85101,7 @@
 𭇛	kp	口丿	auto
 𭇜	kf	口发	auto
 𭇡	kd	口夺	auto
-𭇢	bk	卜口	auto
-𭇢	ku	口十	auto
+𭇢	ak	一口	
 𭇣	kv	口旨	auto
 𭇥	kv	口爫	auto
 𭇥	rk	人口	auto
@@ -86053,8 +86054,8 @@
 𭞍	gx	甘心	auto
 𭞍	xu	心舌	auto
 𭞎	xa	忄一	auto
-𭞐	bs	卜思	auto
-𭞐	xt	心田	auto
+𭞐	as	一思	
+𭞐	xt	心田	
 𭞑	fx	甫心	auto
 𭞑	xw	心攵	auto
 𭞒	xb	忄扁	auto
@@ -86071,7 +86072,7 @@
 𭞞	xa	忄一	auto
 𭞟	xd	忄第	auto
 𭞡	xu	忄商	auto
-𭞥	xc	忄匆	auto
+𭞥	xc	忄匆	
 𭞦	ax	一心	auto
 𭞧	jx	棘心	auto
 𭞧	xj	心棘	auto
@@ -86139,8 +86140,8 @@
 𭟻	hi	或呈	auto
 𭟼	gq	戈丘	auto
 𭟼	hg	虍戈	auto
-𭟾	bg	卜戈	auto
-𭟾	gd	戈豆	auto
+𭟾	gd	戈豆	
+𭟾	ag	一戈	
 𭠀	hg	户工	auto
 𭠃	hd	户丶	auto
 𭠄	hg	户古	auto
@@ -87176,15 +87177,15 @@
 𭸠	qj	犭建	auto
 𭸡	qx	犭小	auto
 𭸢	qn	犭匿	auto
-𭸣	bq	卜犬	auto
-𭸣	qy	犬用	auto
+𭸣	qy	犬用	
+𭸣	aq	一犬	
 𭸥	qx	犭小	auto
 𭸨	qs	犭斯	auto
 𭸪	qv	犬黹	auto
 𭸪	vq	黹犬	auto
 𭸭	qu	犭署	auto
-𭸮	bq	卜犬	auto
-𭸮	qy	犬用	auto
+𭸮	qy	犬用	
+𭸮	aq	一犬	
 𭸰	qb	犭罷	auto
 𭸱	qm	犭罵	auto
 𭸳	qx	犭薰	auto
@@ -87446,8 +87447,8 @@
 𭾎	mw	皿紋	auto
 𭾎	wm	紋皿	auto
 𭾏	mg	皿古	auto
-𭾐	bm	卜皿	auto
-𭾐	mt	皿田	auto
+𭾐	am	一皿	
+𭾐	mt	皿田	
 𭾑	im	臣皿	auto
 𭾑	mu	皿舌	auto
 𭾒	mg	皿艮	auto
@@ -87900,7 +87901,7 @@
 𮉑	sy	糸衣	auto
 𮉔	rs	若絲	auto
 𮉖	sj	糸冏	auto
-𮉗	sm	糸皿	auto
+𮉗	sm	糸皿	
 𮉙	si	糸遲	auto
 𮉚	sl	糸闌	auto
 𮉛	sq	糸瞿	auto
@@ -88162,7 +88163,7 @@
 𮎎	vl	舟吕	auto
 𮎐	vg	舟谷	auto
 𮎑	vv	舟之	auto
-𮎗	vm	舟皿	auto
+𮎗	vm	舟皿	
 𮎙	gx	艮幸	auto
 𮎙	xg	幸艮	auto
 𮎚	gx	艮喜	auto
@@ -88362,14 +88363,15 @@
 𮓘	ab	一匕	
 𮓙	aj	一几	
 𮓚	ay	一又	
+𮓚	by	卜又	
 𮓛	ht	虍土	auto
-𮓜	aj	一巾	auto
+𮓜	aj	一巾	
 𮓝	hb	虍卜	auto
 𮓞	ao	一月	
 𮓟	aj	一几	auto
 𮓟	hj	虎几	auto
 𮓠	aa	一一	
-𮓡	by	卜业	auto
+𮓡	ay	一业	
 𮓢	bo	卜月	auto
 𮓢	ob	月八	auto
 𮓣	ha	虍一	auto
@@ -88645,8 +88647,7 @@
 𮙛	up	豕丿	auto
 𮙝	rd	𠂉丶	auto
 𮙞	bd	丷丶	auto
-𮙟	bu	卜豕	auto
-𮙟	uu	豕十	auto
+𮙟	au	一豕	
 𮙠	rd	𠂉丶	auto
 𮙢	dd	冫丶	auto
 𮙣	um	豕眉	auto
@@ -89428,7 +89429,7 @@
 𮬒	yz	魚紫	auto
 𮬓	yw	魚攵	auto
 𮬖	yb	魚貝	auto
-𮬗	ym	魚皿	auto
+𮬗	ym	魚皿	
 𮬘	yc	魚廾	auto
 𮬙	yd	魚段	auto
 𮬚	ym	魚彌	auto
@@ -95403,7 +95404,7 @@
 𱮧	qx	犭侠	auto
 𱮨	qi	犭乂	auto
 𱮩	sd	厶丶	auto
-𱮫	bd	卜丶	auto
+𱮫	ab	一{犮}	
 𱮭	qi	犭乂	auto
 𱮳	wo	王日	auto
 𱮴	wg	王冈	auto

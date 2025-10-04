@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251003"
+version: "20251005"
 sort: original
 columns:
   - text
@@ -412,8 +412,8 @@ A股	agu
 矮子	aizi
 爱子	aizi
 挨宰	aizl
-按键	aj
 安静	aj
+按键	aj
 挨家挨户	ajah
 安静安静	ajaj
 挨肩擦背	ajcb
@@ -2223,7 +2223,6 @@ AVL树	avlu
 笔锋一转	bfyv
 并非因为	bfyw
 本应	bfyy
-暴风影音	bfyy
 不发一言	bfyy
 不发一语	bfyy
 不费一兵一卒	bfyz
@@ -20433,6 +20432,7 @@ F盘	fpj
 非	fza
 肺癌	fzai
 犯罪案件	fzaj
+废案	fzan
 费	fzb
 烦躁不安	fzba
 飞镖	fzbc
@@ -22344,6 +22344,7 @@ F盘	fpj
 感觉不好	gjbh
 国际博览会	gjbh
 感激不尽	gjbj
+干拌	gjbj
 光讲不练	gjbl
 恭敬不如从命	gjbm
 感觉不如	gjbr
@@ -33629,7 +33630,6 @@ H盘	hpj
 铲	ijj
 超级加倍	ijjb
 超级加辈	ijjb
-超级街霸	ijjb
 初级阶段	ijjd
 成交金额	ijje
 禅机	ijji
@@ -59002,6 +59002,8 @@ JK制服	jkvf
 呵	ookk
 喔	ookw
 嚄	ooky
+噢耶	ooye
+哦耶	ooye
 偶然	or
 偶然的机会	ordh
 偶然发现	orfx
@@ -59071,6 +59073,7 @@ JK制服	jkvf
 呕血	ouxt
 讴	ouy
 欧亚	ouya
+欧耶	ouye
 欧阳	ouyh
 偶一	ouyi
 欧元	ouyr
@@ -59334,6 +59337,7 @@ JK制服	jkvf
 飘走	pczb
 票子	pczi
 片段	pd
+派对	pd
 屁都不放一个	pdbg
 贫道不孤	pdbg
 普渡慈航	pdch
@@ -60324,6 +60328,7 @@ JK制服	jkvf
 普罗丢撒	plds
 排毒	pldu
 排队	pldv
+派对	pldv
 普罗大众	pldv
 排定	pldy
 佩雷尔曼	plem
@@ -60388,10 +60393,8 @@ JK制服	jkvf
 拼了命地	plmd
 婆罗门教	plmj
 拍卖	plml
-牌面	plmm
 排面	plmm
-漂亮妹妹	plmm
-漂亮美眉	plmm
+牌面	plmm
 普利茅斯	plms
 普罗米修斯	plms
 暴力美学	plmx
@@ -87789,6 +87792,7 @@ U盘	upj
 瘃	vubi
 主办	vubj
 珠宝	vubk
+主包	vubk
 终身伴侣	vubl
 主编	vubm
 主播	vubo
@@ -93355,8 +93359,8 @@ U盘	upj
 无须再忍	wxzr
 我现在是	wxzu
 无限钻石	wxzu
-我也	wy
 唯一	wy
+我也	wy
 唯一爱好	wyah
 无一不备	wybb
 握有把柄	wybb
@@ -94746,7 +94750,7 @@ U盘	upj
 小的时候	xduh
 许多时候	xduh
 相识	xdui
-行到水穷处	xdui
+翔实	xdui
 心荡神驰	xdui
 心底深处	xdui
 香山	xduj
@@ -100548,6 +100552,7 @@ U盘	upj
 邮品	ybpn
 也不怕你	ybpn
 诱迫	ybpo
+油泼	ybpo
 用不抛弃	ybpq
 有谱	ybpu
 油瓶	ybpy
@@ -111153,13 +111158,14 @@ U盘	upj
 子孙万代	zswd
 在死亡的边缘疯狂试探	zswt
 总务	zswu
-总	zsx
+惣	zsx
 总校	zsxc
 纵向	zsxd
 总想	zsxd
 总线	zsxm
 棕熊	zsxs
 在思想上	zsxu
+惾	zsxw
 总行	zsxy
 总有	zsyb
 纵有	zsyb
@@ -112465,7 +112471,7 @@ U盘	upj
 暴风雨	bfy
 不负责	bfz
 并购案	bga
-曝光表	bgb
+不敢不	bgb
 巴格达	bgd
 不敢当	bgd
 冰棍儿	bge
@@ -112609,7 +112615,7 @@ U盘	upj
 芭蕾舞	blw
 宝莱坞	blw
 不理想	blx
-病理学	blx
+玻璃心	blx
 波浪形	blx
 不利于	bly
 半拉子	blz
@@ -113990,6 +113996,7 @@ Excel	eks
 纺织部	fvb
 放这吧	fvb
 分至点	fvd
+分之二	fve
 反政府	fvf
 反证法	fvf
 发展观	fvg
@@ -114006,7 +114013,8 @@ Excel	eks
 纺织娘	fvn
 纺织品	fvp
 负债人	fvr
-腐殖酸	fvs
+分之三	fvs
+分之四	fvs
 反正是	fvu
 发展史	fvu
 发展中	fvv
@@ -114140,6 +114148,7 @@ Excel	eks
 构词法	gcf
 搞错了	gcl
 各层面	gcm
+干脆面	gcm
 高材生	gcu
 高才生	gcu
 观测站	gcv
@@ -114220,6 +114229,7 @@ Excel	eks
 观察力	gil
 滚出来	gil
 赶潮流	gil
+干吃面	gim
 观潮派	gip
 滚出去	giq
 刚出去	giq
@@ -115986,8 +115996,10 @@ Keynote	knt
 龙卷风	ljf
 两句话	ljh
 老江湖	ljh
-拉家常	lji
 龙井茶	lji
+零基础	lji
+垃圾场	lji
+垃圾车	lji
 辣椒酱	ljj
 亮晶晶	ljj
 理解力	ljl
@@ -118013,8 +118025,8 @@ SD卡	sdk
 天球仪	tqy
 天琴座	tqz
 天然呆	trd
+突然间	trj
 唐人街	trj
-天然碱	trj
 天然林	trl
 甜如蜜	trm
 天然萌	trm
@@ -118505,6 +118517,7 @@ SD卡	sdk
 爽歪歪	uww
 水汪汪	uww
 生物学	uwx
+啥玩意	uwy
 朔望月	uwy
 上下班	uxb
 双下巴	uxb

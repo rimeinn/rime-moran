@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251003"
+version: "20251005"
 sort: by_weight
 columns:
   - text
@@ -431,8 +431,8 @@ A股	agu
 矮子	aizi
 愛子	aizi
 挨宰	aizl
-按鍵	aj
 安靜	aj
+按鍵	aj
 挨家挨戶	ajah
 安靜安靜	ajaj
 挨肩擦背	ajcb
@@ -2274,7 +2274,6 @@ AVL樹	avlu
 筆鋒一轉	bfyv
 並非因爲	bfyw
 本應	bfyy
-暴風影音	bfyy
 不發一言	bfyy
 不發一語	bfyy
 不費一兵一卒	bfyz
@@ -21032,6 +21031,7 @@ F盤	fpj
 非	fzaa
 肺癌	fzai
 犯罪案件	fzaj
+廢案	fzan
 費	fzb
 煩躁不安	fzba
 飛鏢	fzbc
@@ -22997,6 +22997,7 @@ F盤	fpj
 感覺不好	gjbh
 國際博覽會	gjbh
 感激不盡	gjbj
+乾拌	gjbj
 光講不練	gjbl
 恭敬不如從命	gjbm
 感覺不如	gjbr
@@ -34591,7 +34592,6 @@ H盤	hpj
 鏟	ijj
 超級加倍	ijjb
 超級加輩	ijjb
-超級街霸	ijjb
 初級階段	ijjd
 幝	ijjd
 成交金額	ijje
@@ -59112,7 +59112,7 @@ JK制服	jkvf
 匿名消息	nmxx
 黏性	nmxy
 牛毛細雨	nmxy
-鯰	nmy
+鮎	nmy
 碾壓	nmya
 年幼	nmyb
 那麼一次	nmyc
@@ -59121,6 +59121,7 @@ JK制服	jkvf
 黏液	nmye
 粘液	nmye
 那麼一個	nmyg
+鯰	nmyn
 年月	nmyt
 鮎魚	nmyu
 年逾	nmyu
@@ -60735,6 +60736,8 @@ JK制服	jkvf
 嚄	ookh
 喔	ookw
 哦	ookw
+噢耶	ooye
+哦耶	ooye
 偶然	or
 偶然的機會	ordh
 偶然發現	orfx
@@ -60806,6 +60809,7 @@ JK制服	jkvf
 嘔血	ouxt
 謳	ouy
 歐亞	ouya
+歐耶	ouye
 歐陽	ouyh
 偶一	ouyi
 醧	ouyq
@@ -61077,6 +61081,7 @@ PC端	pcd
 飄走	pczb
 票子	pczi
 片段	pd
+派對	pd
 屁都不放一個	pdbg
 貧道不孤	pdbg
 普渡慈航	pdch
@@ -62089,6 +62094,7 @@ PC端	pcd
 普羅丟撒	plds
 排毒	pldu
 排隊	pldv
+派對	pldv
 普羅大衆	pldv
 排定	pldy
 佩雷爾曼	plem
@@ -62152,10 +62158,8 @@ PC端	pcd
 拼了命地	plmd
 婆羅門教	plmj
 拍賣	plml
-牌面	plmm
 排面	plmm
-漂亮妹妹	plmm
-漂亮美眉	plmm
+牌面	plmm
 普利茅斯	plms
 普羅米修斯	plms
 暴力美學	plmx
@@ -68861,6 +68865,7 @@ P站	pvj
 熱望	rewh
 熱舞	rewu
 人而無信	rewx
+惹	rex
 熱銷	rexc
 熱線	rexm
 熱心	rexn
@@ -90144,6 +90149,7 @@ U盤	upj
 主筆	vubi
 主辦	vubj
 珠寶	vubk
+主包	vubk
 終身伴侶	vubl
 主編	vubm
 主播	vubo
@@ -95820,8 +95826,8 @@ WiFi	wifi
 無須再忍	wxzr
 我現在是	wxzu
 無限鑽石	wxzu
-我也	wy
 唯一	wy
+我也	wy
 唯一愛好	wyah
 無一不備	wybb
 握有把柄	wybb
@@ -97295,7 +97301,7 @@ WiFi	wifi
 小的時候	xduh
 許多時候	xduh
 相識	xdui
-行到水窮處	xdui
+翔實	xdui
 心蕩神馳	xdui
 心底深處	xdui
 香山	xduj
@@ -103311,6 +103317,7 @@ WiFi	wifi
 郵品	ybpn
 也不怕你	ybpn
 誘迫	ybpo
+油潑	ybpo
 用不拋棄	ybpq
 有譜	ybpu
 油瓶	ybpy
@@ -114235,13 +114242,14 @@ WiFi	wifi
 子孫萬代	zswd
 在死亡的邊緣瘋狂試探	zswt
 總務	zswu
-惾	zsx
+惣	zsx
 總校	zsxc
 縱向	zsxd
 總想	zsxd
 總線	zsxm
 棕熊	zsxs
 在思想上	zsxu
+惾	zsxw
 總行	zsxy
 翪	zsy
 總有	zsyb
@@ -115554,7 +115562,7 @@ WiFi	wifi
 暴風雨	bfy
 不負責	bfz
 併購案	bga
-曝光表	bgb
+不敢不	bgb
 巴格達	bgd
 不敢當	bgd
 冰棍兒	bge
@@ -115697,9 +115705,9 @@ WiFi	wifi
 避雷針	blv
 芭蕾舞	blw
 宝莱坞	blw
-波浪形	blx
 不理想	blx
-病理學	blx
+玻璃心	blx
+波浪形	blx
 不利於	bly
 半拉子	blz
 冰溜子	blz
@@ -117081,6 +117089,7 @@ Excel	eks
 放這吧	fvb
 紡織部	fvb
 分至點	fvd
+分之二	fve
 反政府	fvf
 反證法	fvf
 發展觀	fvg
@@ -117097,7 +117106,8 @@ Excel	eks
 紡織娘	fvn
 紡織品	fvp
 負債人	fvr
-腐殖酸	fvs
+分之三	fvs
+分之四	fvs
 反正是	fvu
 發展史	fvu
 發展中	fvv
@@ -117231,6 +117241,7 @@ Excel	eks
 構詞法	gcf
 搞錯了	gcl
 各層面	gcm
+乾脆麪	gcm
 高材生	gcu
 高才生	gcu
 觀測站	gcv
@@ -117311,6 +117322,7 @@ Excel	eks
 滾出來	gil
 觀察力	gil
 趕潮流	gil
+乾喫麪	gim
 觀潮派	gip
 剛出去	giq
 滾出去	giq
@@ -119074,8 +119086,10 @@ Keynote	knt
 龍捲風	ljf
 兩句話	ljh
 老江湖	ljh
-拉家常	lji
 龍井茶	lji
+零基礎	lji
+垃圾場	lji
+垃圾車	lji
 辣椒醬	ljj
 亮晶晶	ljj
 理解力	ljl
@@ -121095,8 +121109,8 @@ SD卡	sdk
 天球儀	tqy
 天琴座	tqz
 天然呆	trd
+突然間	trj
 唐人街	trj
-天然鹼	trj
 天然林	trl
 甜如蜜	trm
 天然萌	trm
@@ -121587,6 +121601,7 @@ SD卡	sdk
 爽歪歪	uww
 水汪汪	uww
 生物學	uwx
+啥玩意	uwy
 朔望月	uwy
 手寫板	uxb
 上下班	uxb

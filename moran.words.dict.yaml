@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20251003"
+version: "20251005"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9172,6 +9172,15 @@ columns:
 龜男	10
 預載	100
 膠佬	100
+淤堵	100
+格羅滕迪克	100
+歐耶	100
+油潑	100
+乾拌	100
+前肘
+後肘
+後蹄
+血脖
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0
