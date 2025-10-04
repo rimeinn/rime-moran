@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251003"
+version: "20251005"
 sort: by_weight
 columns:
   - text
@@ -68861,6 +68861,7 @@ P站	pvj
 熱望	rewh
 熱舞	rewu
 人而無信	rewx
+惹	rex
 熱銷	rexc
 熱線	rexm
 熱心	rexn
@@ -121095,8 +121096,8 @@ SD卡	sdk
 天球儀	tqy
 天琴座	tqz
 天然呆	trd
+突然間	trj
 唐人街	trj
-天然鹼	trj
 天然林	trl
 甜如蜜	trm
 天然萌	trm

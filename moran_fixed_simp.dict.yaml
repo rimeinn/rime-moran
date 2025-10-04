@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251003"
+version: "20251004"
 sort: original
 columns:
   - text
@@ -118013,8 +118013,8 @@ SD卡	sdk
 天球仪	tqy
 天琴座	tqz
 天然呆	trd
+突然间	trj
 唐人街	trj
-天然碱	trj
 天然林	trl
 甜如蜜	trm
 天然萌	trm
