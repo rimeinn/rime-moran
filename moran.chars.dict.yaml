@@ -12220,9 +12220,9 @@ use_preset_vocabulary: false
 匔	ju;gg	192
 匕	bi;pg	667
 化	hw;rb	12825
-北	bz;ap	7350
+北	bz;ag	7350
 北	bz;bj	7350
-北	bo;ap	0
+北	bo;ag	0
 北	bo;bj	0
 匘	nk;bi	254
 匘	nk;bx	254
@@ -100572,10 +100572,9 @@ use_preset_vocabulary: false
 𫣛	qm;qq	0
 𫣜	de;rx	0
 𫣜	vi;rx	0
-𫣟	ju;rq	0
 𫣟	ju;rj	0
-𫣠	vi;ro	0
 𫣠	vi;rv	0
+𫣠	vi;ro	0
 𫣡	bi;rf	0
 𫣣	de;ra	0
 𫣣	dz;ra	0
@@ -100611,7 +100610,9 @@ use_preset_vocabulary: false
 𫤃	bi;rb	0
 𫤇	xr;rh	0
 𫤉	gy;ql	0
+𫤊	fu;ff	0
 𫤊	fu;at	0
+𫤊	pi;ff	0
 𫤊	pi;at	0
 𫤌	yj;rg	0
 𫤎	jy;qv	0
@@ -100622,6 +100623,7 @@ use_preset_vocabulary: false
 𫤖	yj;ry	0
 𫤗	er;ea	0
 𫤗	er;ae	0
+𫤘	er;pe	0
 𫤘	er;es	0
 𫤚	ly;gl	0
 𫤛	rv;df	0

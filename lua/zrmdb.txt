@@ -8558,7 +8558,7 @@
 匔 gg
 匕 pg
 化 rb
-北 ap
+北 ag
 北 bj
 匘 bi
 匘 bx
@@ -80209,10 +80209,9 @@
 𫣘 hf
 𫣛 qq
 𫣜 rx
-𫣟 rq
 𫣟 rj
-𫣠 ro
 𫣠 rv
+𫣠 ro
 𫣡 rf
 𫣣 ra
 𫣤 rw
@@ -80246,6 +80245,7 @@
 𫤃 rb
 𫤇 rh
 𫤉 ql
+𫤊 ff
 𫤊 at
 𫤌 rg
 𫤎 qv
@@ -80256,6 +80256,7 @@
 𫤖 ry
 𫤗 ea
 𫤗 ae
+𫤘 pe
 𫤘 es
 𫤚 gl
 𫤛 df
