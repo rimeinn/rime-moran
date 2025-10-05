@@ -80079,6 +80079,7 @@
 𫠜 ie
 𫠡 ag
 𫠤 fg
+𫠤 fw
 𫠤 tf
 𫠥 an
 𫠦 aa
