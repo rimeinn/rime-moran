@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20251003"
+version: "20251005"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9172,6 +9172,7 @@ columns:
 龟男	10
 预载	100
 胶佬	100
+淤堵	100
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0
