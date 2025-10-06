@@ -27945,6 +27945,7 @@
 邡 ef
 邢 ek
 那 el
+那 ef
 邤 ej
 邤 je
 邥 eg
@@ -94459,6 +94460,7 @@
 𱙅 nm
 𱙆 nf
 𱙇 nl
+𱙊 nl
 𱙊 nf
 𱙍 nu
 𱙏 nn
@@ -99788,6 +99790,7 @@
 𪐿 hf
 𪔔 gj
 𪔔 gf
+𥸨 km
 𣮚 mf
 𣴅 df
 𨯾 jj
