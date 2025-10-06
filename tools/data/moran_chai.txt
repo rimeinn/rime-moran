@@ -32768,10 +32768,12 @@
 𠁤	ek	儿口	auto
 𠁥	ra	入丨	auto
 𠁥	ar	丨人	auto
-𠁦	ve	中二	auto
+𠁦	aa	丨一	
+𠁦	ve	中二	
 𠁨	xv	习中	auto
-𠁩	ae	丨二	auto
-𠁩	ve	中二	auto
+𠁩	ae	丨二	
+𠁩	ve	中二	
+𠁩	ee	二二	
 𠁫	ax	丨休	auto
 𠁫	jx	丩休	auto
 𠁬	ai	丨厂	auto
@@ -37464,17 +37466,18 @@
 𡉚	ta	土一	auto
 𡉚	cw	屮王	auto
 𡉛	tq	土气	auto
-𡉝	qt	亓土	auto
 𡉝	tq	土亓	auto
+𡉝	qt	亓土	auto
 𡉞	ts	土厶	auto
 𡉟	pt	爿土	auto
 𡉟	tp	土爿	auto
 𡉠	tw	土王	auto
-𡉡	aa	丨一	auto
-𡉢	pt	丿土	auto
+𡉡	tr	土人	
+𡉡	st	{厶}土	
 𡉢	ty	土又	auto
-𡉣	mt	木土	auto
+𡉢	pt	丿土	auto
 𡉣	tm	土木	auto
+𡉣	mt	木土	auto
 𡉤	bt	不土	auto
 𡉤	tb	土不	auto
 𡉥	tv	土中	auto
@@ -78091,7 +78094,8 @@
 𪺔	pj	丿角	auto
 𪺕	vy	爫幺	auto
 𪺗	vw	争完	auto
-𪺙	vf	爫甫	auto
+𪺙	vd	爫丶	
+𪺙	vf	爫甫	
 𪺚	vy	爫魚	auto
 𪺛	ff	父缶	auto
 𪺜	fj	父即	auto
@@ -83707,7 +83711,7 @@
 𬪵	yh	酉浩	auto
 𬪶	yw	酉望	auto
 𬪸	yv	酉照	auto
-𬪹	pa	丿一	auto
+𬪹	dy	⺈酉	
 𬪺	pg	丿广	auto
 𬫁	ul	赦厘	auto
 𬫂	jl	金历	auto
@@ -85794,8 +85798,8 @@
 𭘡	ji	巾呈	auto
 𭘣	jw	巾吾	auto
 𭘣	wj	吾巾	auto
-𭘧	jb	巾冖	auto
-𭘧	kj	凵巾	auto
+𭘧	jb	巾冖	
+𭘧	kj	一巾	
 𭘩	jw	巾勿	auto
 𭘫	jw	巾勿	auto
 𭘭	jt	巾亭	auto
@@ -95029,7 +95033,8 @@
 𱦸	dx	氵小	auto
 𱦹	dc	氵寸	auto
 𱦺	da	氵丨	auto
-𱦻	da	氵一	auto
+𱦻	aa	丨一	
+𱦻	da	氵一	
 𱦾	hh	沪火	auto
 𱦿	dl	氵力	auto
 𱧀	df	氵府	auto
@@ -99800,6 +99805,21 @@
 𪔔	gj	鼓夅	
 𪔔	gf	鼓㐄	
 𥸨	km	ユ米	
+𦏲	gp	𠃌彡	
+𪔂	oa	目乛	
+𱭕	jk	{丬}凵	
+𱭕	pk	{爿}凵	
+𡖈	ka	コ丨	
+𲉒	gp	㠯丿	
+𠁽	yr	⺄人	
+𪟭	ki	匚{臣}	
+𪟭	ka	匚丨	
+𫜾	bo	冖月	
+𫜾	oa	月一	
+𬺭	xk	行口	
+𬺭	xi	彳亍	
+𠁧	aa	丨丨	
+𠁧	vk	中コ	
 
 # 待考
 
