@@ -39028,9 +39028,13 @@ use_preset_vocabulary: false
 邡	fh;ef	186
 邢	xy;ek	16955
 那	na;el	9929703
+那	na;ef	9929703
 那	ne;el	0
+那	ne;ef	0
 那	nz;el	0
+那	nz;ef	0
 那	no;el	0
+那	no;ef	0
 邤	xn;ej	0
 邤	xn;je	0
 邥	uf;eg	0
@@ -74155,6 +74159,8 @@ use_preset_vocabulary: false
 𥸥	bo;gm	0
 𥸥	bo;mg	0
 𥸧	dy;md	0
+𥸨	fj;km	0
+𥸨	bo;km	0
 𥸩	mi;my	0
 𥸪	yu;mr	0
 𥸫	su;mj	0
@@ -118082,6 +118088,7 @@ use_preset_vocabulary: false
 𱙅	mn;nm	0
 𱙆	fz;nf	0
 𱙇	lp;nl	0
+𱙊	ru;nl	0
 𱙊	ru;nf	0
 𱙍	ig;nu	0
 𱙏	nj;nn	0
