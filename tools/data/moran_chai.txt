@@ -47772,10 +47772,10 @@
 𣞆	ml	木林	auto
 𣞇	yy	言言	auto
 𣞇	my	木言	auto
-𣞈	mf	木缶	auto
-𣞈	um	十木	auto
-𣞉	ma	木一	auto
-𣞉	um	十木	auto
+𣞈	mf	木缶	
+𣞈	am	𰀉木	
+𣞉	ma	木一	
+𣞉	am	𰀉木	
 𣞋	mh	木回	auto
 𣞌	mf	木方	auto
 𣞐	mx	木寫	auto
@@ -47947,8 +47947,8 @@
 𣡍	zz	棗棗	
 𣡍	jj	棘棘	
 𣡎	mq	木秦	auto
-𣡏	mx	木夕	auto
-𣡏	um	十木	auto
+𣡏	mx	木夕	
+𣡏	am	𰀉木	
 𣡐	mj	木冏	auto
 𣡑	mj	木即	auto
 𣡒	mq	木勸	auto
@@ -47968,8 +47968,8 @@
 𣡡	lc	林寸	auto
 𣡡	mc	木寸	auto
 𣡣	ma	木丨	auto
-𣡦	my	木爻	auto
-𣡦	um	十木	auto
+𣡦	my	木爻	
+𣡦	um	𰀉木	
 𣡧	ml	木罍	auto
 𣡨	me	木阝	auto
 𣡨	ue	杉阝	auto
@@ -99817,6 +99817,7 @@
 𬺭	xi	彳亍	
 𠁧	aa	丨丨	
 𠁧	vk	中コ	
+𢇭	gd	广丶	
 
 # 待考
 

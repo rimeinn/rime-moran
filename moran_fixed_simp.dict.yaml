@@ -31723,7 +31723,7 @@ H盘	hpj
 差了	iale
 岔流	ialq
 岔路	ialu
-差旅	ialv
+差旅	illv
 查	iam
 杈	iami
 槎	iami
@@ -48681,8 +48681,9 @@ JK制服	jkvf
 楝	lmm
 联盟	lmmg
 连忙	lmmh
-鲁莽灭裂	lmml
+连麦	lmml
 梿	lmml
+鲁莽灭裂	lmml
 脸面	lmmm
 怜悯	lmmn
 帘幕	lmmu
@@ -68692,6 +68693,8 @@ P站	pvj
 枘凿	rvzk
 认真仔细	rvzx
 认为	rw
+人物	rw
+任务	rw
 攘外安内	rwan
 任务安排	rwap
 攘外必先安内	rwbn
@@ -68702,6 +68705,7 @@ P站	pvj
 人为刀俎，我为鱼肉	rwdr
 让我独享经验	rwdy
 人为刀俎	rwdz
+挼	rwf
 任务繁重	rwfv
 让我访问	rwfw
 人文关怀	rwgh
@@ -71279,7 +71283,6 @@ P站	pvj
 素	sus
 随时随地	susd
 素色	suse
-三生三世十里桃花	sush
 缩手缩脚	susj
 速算	susr
 诉讼	suss
@@ -86102,7 +86105,6 @@ U盘	upj
 站桩	vjvd
 站着	vjve
 战阵	vjvf
-准静止锋	vjvf
 战争	vjvg
 站长	vjvh
 粘滞	vjvi
@@ -102899,7 +102901,6 @@ U盘	upj
 宴	yjb
 盐巴	yjba
 永久保存	yjbc
-一九八二	yjbe
 赝本	yjbf
 永劫不复	yjbf
 研究报告	yjbg
@@ -102907,8 +102908,6 @@ U盘	upj
 也就不会	yjbh
 岩壁	yjbi
 严办	yjbj
-一九八九	yjbj
-拥挤不堪	yjbk
 眼白	yjbl
 有机玻璃	yjbl
 也就罢了	yjbl
@@ -102918,10 +102917,7 @@ U盘	upj
 研究表明	yjbm
 演播	yjbo
 玉洁冰清	yjbq
-一九八七	yjbq
 一见不日	yjbr
-一九八四	yjbs
-一九八三	yjbs
 已经不是	yjbs
 意见不同	yjbt
 月经不调	yjbt
@@ -102931,11 +102927,9 @@ U盘	upj
 一蹶不振	yjbv
 有禁不止	yjbv
 一击不中	yjbv
-一九八五	yjbw
 应接不暇	yjbx
 眼病	yjby
 殷鉴不远	yjby
-一九八一	yjby
 赝	yjby
 已经不再	yjbz
 有几把刷子	yjbz
@@ -103137,13 +103131,11 @@ U盘	upj
 演讲	yjjd
 引经据典	yjjd
 研究决定	yjjd
-一九九二	yjje
 研究机构	yjjg
 远交近攻	yjjg
 有机结合	yjjh
 演技	yjji
 一骑绝尘	yjji
-一九九九	yjjj
 义结金兰	yjjl
 引颈就戮	yjjl
 眼见	yjjm
@@ -103158,7 +103150,6 @@ U盘	upj
 烟具	yjju
 一击即中	yjjv
 研究价值	yjjv
-一九九五	yjjw
 眼界	yjjx
 圆角矩形	yjjx
 眼睛	yjjy
@@ -115559,8 +115550,8 @@ git	git
 剧作者	jzv
 节奏性	jzx
 就在于	jzy
-看不到	kbd
 看不懂	kbd
+看不到	kbd
 看不惯	kbg
 看不过	kbg
 看不出	kbi
