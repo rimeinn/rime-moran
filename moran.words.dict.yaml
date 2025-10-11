@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20251005"
+version: "20251010"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9184,6 +9184,16 @@ columns:
 干禄	1
 干禄字书	100
 智驾	500
+亚比	10
+古着	100
+盯鞋
+瞪鞋
+数摇
+锐舞
+鞑靼利亚
+碣石
+文能提笔安天下
+武能上马定乾坤
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0
@@ -24337,6 +24347,8 @@ T恤	100	ti xu;xx
 up主	100	up vu;dw
 QQ群	100	QQ qp;yj
 QQ群	100	qq qp;yj
+QQ号	100	QQ hk;hk
+QQ号	100	qq hk;hk
 高ping	100	gk;wk ping
 高ping	100	gk;dk ping
 高ping	100	gk;wk py
@@ -24349,6 +24361,7 @@ K歌	10	kz ge;qg
 卡拉OK	10	ka;ux la;fl ou kz
 OK	10	OK
 OK	10	ou kz
+CoCo都可	10	coco du;ev ke;dk
 
 # 整句可用的无理码
 几	1	jo;yd

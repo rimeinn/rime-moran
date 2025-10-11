@@ -6,7 +6,7 @@
 
 ---
 name: moran_english
-version: "20241019"
+version: "20251008"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -57271,3 +57271,4 @@ Excel	Excel
 Roam Research	RoamResearch
 Typst	Typst
 LLVM	LLVM
+CoCo	CoCo

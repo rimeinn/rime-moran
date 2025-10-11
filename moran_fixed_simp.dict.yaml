@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251005"
+version: "20251011"
 sort: original
 columns:
   - text
@@ -1957,7 +1957,6 @@ AVL树	avlu
 不二法则	befz
 比尔盖茨	begc
 巴尔干半岛	begd
-北京	bej
 巴尔喀什湖	bekh
 巴尔喀什	beku
 白俄罗斯	bels
@@ -2456,7 +2455,6 @@ AVL树	avlu
 宝贵意见	bgyj
 八格牙路	bgyl
 倍感压力	bgyl
-办公用品	bgyp
 不顾一切	bgyq
 半个月前	bgyq
 不够意思	bgys
@@ -6823,6 +6821,7 @@ B盘	bpj
 憋足	bxzu
 不幸遭遇	bxzy
 并	by
+不要	by
 丙	bya
 并案	byan
 病案	byan
@@ -6958,6 +6957,7 @@ B盘	bpj
 必有回响	byhx
 不要灰心	byhx
 蛃	byi
+冰茶	byia
 冰碴	byia
 病床	byid
 兵车	byie
@@ -10800,7 +10800,6 @@ C语言	cyy
 多多保重	ddbv
 喋喋不休	ddbx
 吊带背心	ddbx
-大到暴雨	ddby
 躲躲藏藏	ddcc
 大大促进	ddcj
 断点测试	ddcu
@@ -11474,7 +11473,6 @@ C语言	cyy
 等闲	dgxm
 灯芯	dgxn
 多管闲事多吃屁	dgxp
-弹冠相庆	dgxq
 多管闲事	dgxu
 东郭先生	dgxu
 等下	dgxw
@@ -13553,6 +13551,7 @@ C语言	cyy
 多年以来	dnyl
 东南亚国家联盟	dnym
 多年以前	dnyq
+懂你意思	dnys
 电脑游戏	dnyx
 电脑应用	dnyy
 当牛做马	dnzm
@@ -16657,7 +16656,6 @@ E盘	epj
 耳听为虚，眼见为实	etwu
 儿童文学	etwx
 耳听为虚	etwx
-儿童用品	etyp
 儿童医院	etyy
 儿童座椅	etzy
 恩同再造	etzz
@@ -30369,6 +30367,7 @@ H盘	hpj
 灰分	hvff
 汇丰	hvfg
 会风	hvfg
+回放	hvfh
 回访	hvfh
 回返	hvfj
 回复	hvfu
@@ -30983,7 +30982,6 @@ H盘	hpj
 毫无压力	hwyl
 毫无鸭梨	hwyl
 话音	hwyn
-户外用品	hwyp
 和我一起	hwyq
 花园	hwyr
 混为一谈	hwyt
@@ -33085,7 +33083,7 @@ H盘	hpj
 除害灭病	ihmb
 长门	ihmf
 阊	ihmi
-长毛	ihmk
+长矛	ihmk
 场面	ihmm
 氅	ihmw
 偿命	ihmy
@@ -35479,7 +35477,6 @@ I盘	ipj
 纯属娱乐	iuyl
 出师有名	iuym
 储运	iuyp
-床上用品	iuyp
 出院	iuyr
 出月	iuyt
 处于	iuyu
@@ -36994,7 +36991,7 @@ I盘	ipj
 讲求	jdqq
 角度清奇	jdqq
 奖券	jdqr
-绝地求生	jdqu
+鹣鲽情深	jdqu
 剑胆琴心	jdqx
 讲情	jdqy
 经得起考验	jdqy
@@ -40027,12 +40024,9 @@ JK制服	jkvf
 鸠	jqn
 酒酿	jqnd
 就能	jqng
-几千年后	jqnh
 鹫	jqnj
-几千年来	jqnl
 九年	jqnm
 旧年	jqnm
-几千年前	jqnq
 腱鞘囊肿	jqnv
 九	jqp
 久	jqp
@@ -41424,7 +41418,6 @@ JK制服	jkvf
 既生瑜何生亮	juyl
 技术移民	juym
 见上一面	juym
-计生用品	juyp
 精神药品	juyp
 剧院	juyr
 教书育人	juyr
@@ -51666,6 +51659,8 @@ JK制服	jkvf
 马贼	mazz
 某	mb
 明白	mb
+明褒暗贬	mbab
+明贬暗褒	mbab
 面部表情	mbbq
 某部	mbbu
 某次	mbci
@@ -52313,8 +52308,8 @@ JK制服	jkvf
 卖国求荣	mgqr
 名过其实	mgqu
 命该如此	mgrc
-目光如豆	mgrd
 每个人都	mgrd
+目光如豆	mgrd
 蒙人	mgrf
 猛然	mgrj
 目光如炬	mgrj
@@ -55587,7 +55582,6 @@ JK制服	jkvf
 明耀	myyk
 没有压力	myyl
 命运	myyp
-母婴用品	myyp
 没有勇气	myyq
 名媛	myyr
 鸣冤	myyr
@@ -63391,7 +63385,6 @@ P站	pvj
 取精用弘	qjyh
 千金一刻	qjyk
 千金一诺	qjyn
-清洁用品	qjyp
 奇技淫巧	qjyq
 强加于人	qjyr
 齐聚一堂	qjyt
@@ -63869,8 +63862,8 @@ P站	pvj
 前腿	qmtv
 潜艇	qmty
 嵌	qmu
-签收	qmub
 牵手	qmub
+签收	qmub
 搴	qmub
 牵涉	qmue
 前身	qmuf
@@ -63983,6 +63976,7 @@ P站	pvj
 阡陌纵横	qmzh
 签字	qmzi
 潜在	qmzl
+千载	qmzl
 浅棕	qmzs
 欠租	qmzu
 亲	qn
@@ -64580,7 +64574,6 @@ P站	pvj
 求医	qqyi
 穷且益坚	qqyj
 蚯蚓	qqyn
-情趣用品	qqyp
 鳅	qqyq
 球员	qqyr
 秋月	qqyt
@@ -66906,7 +66899,6 @@ P站	pvj
 热闹	renk
 惹恼	renk
 惹怒	renu
-亻尔女子	renz
 热盼	repj
 热评	repy
 热气	reqi
@@ -67413,7 +67405,7 @@ P站	pvj
 润肠通便	ritb
 日坛	ritj
 日托	rito
-忍唱挑战	ritv
+日推	ritv
 如潮水般	riub
 日常生活	riuh
 日食	riui
@@ -67437,7 +67429,6 @@ P站	pvj
 人潮汹涌	rixy
 日夜	riye
 日益	riyi
-日常用品	riyp
 日晕	riyp
 日元	riyr
 日用	riys
@@ -68642,6 +68633,8 @@ P站	pvj
 乳首自慰	ruzw
 人身自由	ruzy
 瑞	rv
+认真	rv
+忍着	rv
 仁者爱人	rvar
 仁者爱山	rvau
 睿	rvb
@@ -70562,7 +70555,6 @@ P站	pvj
 索尼大法好	sndh
 算你倒霉	sndm
 算你倒楣	sndm
-上海	snh
 塞纳河畔	snhp
 塞内加尔	snje
 思念家乡	snjx
@@ -76724,7 +76716,6 @@ T恤衫	txuj
 太阳眼镜	tyyj
 听音	tyyn
 停运	tyyp
-体育用品	tyyp
 庭院	tyyr
 挺远	tyyr
 脱衣有肉	tyyr
@@ -78959,8 +78950,8 @@ T恤衫	txuj
 伤寒	uhhj
 上好	uhhk
 商号	uhhk
-伤害	uhhl
 上海	uhhl
+伤害	uhhl
 上火	uhho
 商户	uhhu
 上回	uhhv
@@ -79243,7 +79234,6 @@ T恤衫	txuj
 生活压力	uhyl
 社会舆论	uhyl
 上瘾	uhyn
-生活用品	uhyp
 树活一张皮	uhyp
 上元	uhyr
 伤员	uhyr
@@ -83974,7 +83964,7 @@ U盘	upj
 重点大学	vddx
 指东道西	vddx
 装订	vddy
-中到大雨	vddy
+壮丁	vddy
 撞	vdf
 战斗方法	vdff
 装疯	vdfg
@@ -85172,6 +85162,7 @@ U盘	upj
 正宗	vgzs
 争嘴	vgzv
 长	vh
+只会	vh
 丈	vha
 障碍	vhai
 账	vhb
@@ -85277,6 +85268,7 @@ U盘	upj
 账户名称	vhmi
 长满	vhmj
 追悔莫及	vhmj
+长毛	vhmk
 账面	vhmm
 账号密码	vhmm
 找回密码	vhmm
@@ -91096,7 +91088,6 @@ U盘	upj
 弯腰	wjyk
 微机原理	wjyl
 我见犹怜	wjyl
-文具用品	wjyp
 万元	wjyr
 外界因素	wjys
 婉约	wjyt
@@ -91818,8 +91809,11 @@ U盘	upj
 未能如愿	wnry
 维纳斯的断臂	wnsb
 威尼斯人	wnsr
+文能提笔安天下，武能上马定乾坤	wntk
+文能提笔安天下	wntx
 皖南事变	wnub
 无脑输出	wnui
+武能上马定乾坤	wnuk
 唯你是问	wnuw
 无能之辈	wnvb
 忘年之交	wnvj
@@ -92017,7 +92011,6 @@ U盘	upj
 歪七扭八	wqnb
 舞枪弄棒	wqnb
 完全能够	wqng
-五千年来	wqnl
 我去你妈	wqnm
 我劝你们	wqnm
 我去你妹	wqnm
@@ -94786,7 +94779,6 @@ U盘	upj
 相助	xdvu
 现代战争	xdvv
 相对主义	xdvy
-小到中雨	xdvy
 享	xdw
 相对稳定	xdwd
 想问	xdwf
@@ -95441,7 +95433,6 @@ U盘	upj
 相互依靠	xhyk
 心灰意冷	xhyl
 心慌意乱	xhyl
-洗护用品	xhyp
 虚晃一枪	xhyq
 显赫一时	xhyu
 烜赫一时	xhyu
@@ -98493,7 +98484,6 @@ U盘	upj
 需要	xuyk
 欣赏音乐	xuyl
 血手幽灵	xuyl
-洗漱用品	xuyp
 嘘声一片	xuyp
 许愿	xuyr
 需用	xuys
@@ -99479,7 +99469,6 @@ U盘	upj
 宣泄压力	xxyl
 鲜虾鱼板面	xxym
 谐音	xxyn
-学习用品	xxyp
 挟怨	xxyr
 喜形于色	xxys
 晓行夜宿	xxys
@@ -99929,7 +99918,6 @@ U盘	upj
 心猿意马	xyym
 新鸳鸯蝴蝶梦	xyym
 幸运	xyyp
-洗浴用品	xyyp
 吸引眼球	xyyq
 行员	xyyr
 稀有元素	xyys
@@ -100059,6 +100047,7 @@ U盘	upj
 丫	yab
 哑巴	yaba
 崖壁	yabi
+亚比	yabi
 压板	yabj
 押宝	yabk
 牙白	yabl
@@ -101479,7 +101468,6 @@ U盘	upj
 也要	yeyk
 野	yeyl
 养儿育女	yeyn
-婴儿用品	yeyp
 也用	yeys
 业余	yeyu
 揶揄	yeyu
@@ -101490,8 +101478,8 @@ U盘	upj
 椰枣	yezk
 一而再再而三	yezs
 一而再，再而三	yezs
-一分	yf
 一份	yf
+一分	yf
 一份爱心	yfax
 以防不测	yfbc
 原封不动	yfbd
@@ -103955,9 +103943,6 @@ U盘	upj
 一两点钟	yldv
 医疗单位	yldw
 由里到外	yldw
-耶鲁大学	yldx
-一流大学	yldx
-月亮代表我的心	yldx
 一掠而过	yleg
 一来二去	yleq
 扬了二正	ylev
@@ -103985,7 +103970,6 @@ U盘	upj
 一两个钟	ylgv
 与狼共舞	ylgw
 一两个月	ylgy
-羊了个羊	ylgy
 一两个字	ylgz
 一礼还一拜	ylhb
 娱乐活动	ylhd
@@ -105215,7 +105199,6 @@ U盘	upj
 有钱能使磨推鬼	yqng
 摇旗呐喊	yqnh
 有钱能使鬼推磨	yqnm
-一千年前	yqnq
 有钱难买老来瘦	yqnu
 以前那样	yqny
 眼浅皮薄	yqpb
@@ -108560,7 +108543,6 @@ U盘	upj
 影音	yyyn
 营运	yyyp
 应允	yyyp
-婴幼用品	yyyp
 月有阴晴圆缺	yyyq
 影院	yyyr
 一月一日	yyyr
@@ -113232,7 +113214,6 @@ U盘	upj
 大而全	deq
 第二天	det
 德尔塔	det
-第二审	deu
 开发者	dev
 第二种	dev
 第二位	dew
@@ -113956,6 +113937,7 @@ Excel	eks
 番茄酱	fqj
 反潜机	fqj
 发请柬	fqj
+父亲节	fqj
 放弃了	fql
 飞起来	fql
 发起人	fqr
@@ -114256,7 +114238,6 @@ git	git
 公积金	gjj
 高精尖	gjj
 攻击力	gjl
-管家婆	gjp
 工具人	gjr
 关节炎	gjy
 关键字	gjz
@@ -115476,7 +115457,6 @@ git	git
 景颇族	jpz
 剪切板	jqb
 进去了	jql
-几千年	jqn
 剧情片	jqp
 静悄悄	jqq
 机器人	jqr
@@ -116072,7 +116052,6 @@ Keynote	knt
 冷启动	lqd
 连起来	lql
 了起来	lql
-六七年	lqn
 录取线	lqx
 两栖型	lqx
 老人斑	lrb
@@ -117275,7 +117254,7 @@ PVP	pvp
 蛐蛐儿	qqe
 亲切感	qqg
 全球化	qqh
-QQ群	qqq
+氢气球	qqq
 全球性	qqx
 情人节	qrj
 去死吧	qsb
@@ -118403,11 +118382,10 @@ SD卡	sdk
 说起来	uql
 沙琪玛	uqm
 双曲面	uqm
-数千年	uqn
-上千年	uqn
 申请人	uqr
 十七岁	uqs
 申请书	uqu
+手牵手	uqu
 神枪手	uqu
 双曲线	uqx
 杀人案	ura
@@ -118616,8 +118594,6 @@ SD卡	sdk
 枕边风	vbf
 只不过	vbg
 准备好	vbh
-真不会	vbh
-治保会	vbh
 直播间	vbj
 猪八戒	vbj
 转不了	vbl
@@ -120124,7 +120100,6 @@ Word	wrd
 用起来	yql
 一起来	yql
 引起来	yql
-一千年	yqn
 氧气瓶	yqp
 雨凄凄	yqq
 一群人	yqr

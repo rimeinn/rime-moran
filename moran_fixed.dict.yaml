@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251005"
+version: "20251011"
 sort: by_weight
 columns:
   - text
@@ -2516,7 +2516,6 @@ AVL樹	avlu
 寶貴意見	bgyj
 八格牙路	bgyl
 倍感壓力	bgyl
-辦公用品	bgyp
 不顧一切	bgyq
 半個月前	bgyq
 不夠意思	bgys
@@ -6967,6 +6966,7 @@ Bilibili	bvj
 憋足	bxzu
 不幸遭遇	bxzy
 並	by
+不要	by
 丙	bya
 併案	byan
 病案	byan
@@ -7106,6 +7106,7 @@ Bilibili	bvj
 必有迴響	byhx
 不要灰心	byhx
 蛃	byi
+冰茶	byia
 冰碴	byia
 病牀	byid
 兵車	byie
@@ -11109,7 +11110,6 @@ C盤	cpj
 多多保重	ddbv
 喋喋不休	ddbx
 吊帶背心	ddbx
-大到暴雨	ddby
 躲躲藏藏	ddcc
 大大促進	ddcj
 斷點測試	ddcu
@@ -11788,7 +11788,6 @@ C盤	cpj
 等閒	dgxm
 燈芯	dgxn
 多管閒事多喫屁	dgxp
-彈冠相慶	dgxq
 多管閒事	dgxu
 東郭先生	dgxu
 等下	dgxw
@@ -13937,6 +13936,7 @@ C盤	cpj
 多年以來	dnyl
 東南亞國家聯盟	dnym
 多年以前	dnyq
+懂你意思	dnys
 電腦遊戲	dnyx
 電腦應用	dnyy
 當牛做馬	dnzm
@@ -17160,7 +17160,6 @@ E盤	epj
 耳聽爲虛，眼見爲實	etwu
 兒童文學	etwx
 耳聽爲虛	etwx
-兒童用品	etyp
 兒童醫院	etyy
 兒童座椅	etzy
 恩同再造	etzz
@@ -31230,6 +31229,7 @@ H盤	hpj
 灰分	hvff
 滙豐	hvfg
 會風	hvfg
+回放	hvfh
 回訪	hvfh
 回返	hvfj
 回覆	hvfu
@@ -31871,7 +31871,6 @@ H盤	hpj
 毫無壓力	hwyl
 毫無鴨梨	hwyl
 話音	hwyn
-戶外用品	hwyp
 和我一起	hwyq
 花園	hwyr
 混爲一談	hwyt
@@ -34011,7 +34010,7 @@ H盤	hpj
 除害滅病	ihmb
 長門	ihmf
 閶	ihmi
-長毛	ihmk
+長矛	ihmk
 場面	ihmm
 闛	ihmt
 償命	ihmy
@@ -35857,6 +35856,7 @@ I盤	ipj
 重疊	isdx
 衝頂	isdy
 寵兒	iser
+舂	isf
 充分	isff
 衝鋒	isfg
 重逢	isfg
@@ -36481,7 +36481,6 @@ I盤	ipj
 純屬娛樂	iuyl
 出師有名	iuym
 儲運	iuyp
-牀上用品	iuyp
 出院	iuyr
 出月	iuyt
 處於	iuyu
@@ -38018,7 +38017,7 @@ I盤	ipj
 講求	jdqq
 角度清奇	jdqq
 獎券	jdqr
-絕地求生	jdqu
+鶼鰈情深	jdqu
 劍膽琴心	jdqx
 講情	jdqy
 經得起考驗	jdqy
@@ -41151,12 +41150,9 @@ JK制服	jkvf
 鳩	jqn
 酒釀	jqnd
 就能	jqng
-幾千年後	jqnh
 鷲	jqnj
-幾千年來	jqnl
 九年	jqnm
 舊年	jqnm
-幾千年前	jqnq
 腱鞘囊腫	jqnv
 久	jqp
 臼	jqpa
@@ -42604,7 +42600,6 @@ JK制服	jkvf
 既生瑜何生亮	juyl
 技術移民	juym
 見上一面	juym
-計生用品	juyp
 精神藥品	juyp
 劇院	juyr
 教書育人	juyr
@@ -53128,6 +53123,8 @@ JK制服	jkvf
 麻醉	mazv
 馬賊	mazz
 某	mb
+明褒暗貶	mbab
+明貶暗褒	mbab
 面部表情	mbbq
 某部	mbbu
 某次	mbci
@@ -53787,8 +53784,8 @@ JK制服	jkvf
 賣國求榮	mgqr
 名過其實	mgqu
 命該如此	mgrc
-目光如豆	mgrd
 每個人都	mgrd
+目光如豆	mgrd
 蒙人	mgrf
 猛然	mgrj
 目光如炬	mgrj
@@ -57142,7 +57139,6 @@ JK制服	jkvf
 明耀	myyk
 沒有壓力	myyl
 命運	myyp
-母嬰用品	myyp
 沒有勇氣	myyq
 名媛	myyr
 鳴冤	myyr
@@ -64869,10 +64865,10 @@ P站	pvj
 僛	qirq
 倛	qirq
 欺辱	qiru
-俟	qiru
 清澈如水	qiru
 伎	qirv
 乞	qiry
+俟	qiry
 綺	qis
 氣色	qise
 起色	qise
@@ -65202,7 +65198,6 @@ P站	pvj
 取精用弘	qjyh
 千金一刻	qjyk
 千金一諾	qjyn
-清潔用品	qjyp
 奇技淫巧	qjyq
 強加於人	qjyr
 齊聚一堂	qjyt
@@ -65693,8 +65688,8 @@ P站	pvj
 前腿	qmtv
 潛艇	qmty
 嵌	qmu
-簽收	qmub
 牽手	qmub
+簽收	qmub
 搴	qmub
 牽涉	qmue
 前身	qmuf
@@ -65815,6 +65810,7 @@ P站	pvj
 阡陌縱橫	qmzh
 簽字	qmzi
 潛在	qmzl
+千載	qmzl
 淺棕	qmzs
 欠租	qmzu
 親	qn
@@ -66451,7 +66447,6 @@ P站	pvj
 求醫	qqyi
 窮且益堅	qqyj
 蚯蚓	qqyn
-情趣用品	qqyp
 鰍	qqyq
 鮂	qqyq
 鰌	qqyq
@@ -67238,12 +67233,12 @@ P站	pvj
 曲率	qulv
 牆上蘆葦	qulw
 切身利益	quly
-麴	qum
+驅	qum
 去嗎	quma
 取碼	quma
 渠	qumj
-闃	qumj
 麴	qumj
+闃	qumj
 巧施妙計	qumj
 曲面	qumm
 驅	qumq
@@ -68837,7 +68832,6 @@ P站	pvj
 熱鬧	renk
 惹惱	renk
 惹怒	renu
-亻爾女子	renz
 熱盼	repj
 熱評	repy
 熱氣	reqi
@@ -69351,7 +69345,7 @@ P站	pvj
 潤腸通便	ritb
 日壇	ritj
 日託	rito
-忍唱挑戰	ritv
+日推	ritv
 如潮水般	riub
 日常生活	riuh
 日食	riui
@@ -69376,7 +69370,6 @@ P站	pvj
 衵	riy
 日夜	riye
 日益	riyi
-日常用品	riyp
 日暈	riyp
 日元	riyr
 日用	riys
@@ -70612,6 +70605,8 @@ P站	pvj
 乳首自慰	ruzw
 人身自由	ruzy
 瑞	rv
+認真	rv
+忍着	rv
 仁者愛人	rvar
 仁者愛山	rvau
 入站必刷	rvbu
@@ -71851,7 +71846,7 @@ P站	pvj
 肆擾	sirk
 伺	sirs
 絲絨	sirs
-俟	siru
+俟	siry
 絲	sis
 嗣	sisc
 死死	sisi
@@ -78844,7 +78839,6 @@ T恤衫	txuj
 太陽眼鏡	tyyj
 聽音	tyyn
 停運	tyyp
-體育用品	tyyp
 庭院	tyyr
 挺遠	tyyr
 脫衣有肉	tyyr
@@ -81110,8 +81104,8 @@ T恤衫	txuj
 傷寒	uhhj
 上好	uhhk
 商號	uhhk
-傷害	uhhl
 上海	uhhl
+傷害	uhhl
 上火	uhho
 商戶	uhhu
 上回	uhhv
@@ -81395,7 +81389,6 @@ T恤衫	txuj
 生活壓力	uhyl
 社會輿論	uhyl
 上癮	uhyn
-生活用品	uhyp
 樹活一張皮	uhyp
 上元	uhyr
 傷員	uhyr
@@ -86200,7 +86193,7 @@ U盤	upj
 重點大學	vddx
 指東道西	vddx
 裝訂	vddy
-中到大雨	vddy
+壯丁	vddy
 撞	vdf
 戰鬥方法	vdff
 裝瘋	vdfg
@@ -87416,6 +87409,7 @@ U盤	upj
 正宗	vgzs
 爭嘴	vgzv
 長	vh
+只會	vh
 丈	vha
 丈	vhad
 障礙	vhai
@@ -87523,6 +87517,7 @@ U盤	upj
 粻	vhmi
 長滿	vhmj
 追悔莫及	vhmj
+長毛	vhmk
 賬面	vhmm
 賬號密碼	vhmm
 找回密碼	vhmm
@@ -93532,7 +93527,6 @@ WiFi	wifi
 彎腰	wjyk
 微機原理	wjyl
 我見猶憐	wjyl
-文具用品	wjyp
 萬元	wjyr
 外界因素	wjys
 婉約	wjyt
@@ -94254,8 +94248,11 @@ WiFi	wifi
 未能如願	wnry
 維納斯的斷臂	wnsb
 威尼斯人	wnsr
+文能提筆安天下，武能上馬定乾坤	wntk
+文能提筆安天下	wntx
 皖南事變	wnub
 無腦輸出	wnui
+武能上馬定乾坤	wnuk
 唯你是問	wnuw
 無能之輩	wnvb
 忘年之交	wnvj
@@ -94461,7 +94458,6 @@ WiFi	wifi
 歪七扭八	wqnb
 舞槍弄棒	wqnb
 完全能夠	wqng
-五千年來	wqnl
 我去你媽	wqnm
 我勸你們	wqnm
 我去你妹	wqnm
@@ -97336,7 +97332,6 @@ WiFi	wifi
 相助	xdvu
 現代戰爭	xdvv
 相對主義	xdvy
-小到中雨	xdvy
 享	xdw
 相對穩定	xdwd
 想問	xdwf
@@ -97991,7 +97986,6 @@ WiFi	wifi
 相互依靠	xhyk
 心灰意冷	xhyl
 心慌意亂	xhyl
-洗護用品	xhyp
 虛晃一槍	xhyq
 顯赫一時	xhyu
 烜赫一時	xhyu
@@ -101191,7 +101185,6 @@ WiFi	wifi
 謣	xuyk
 欣賞音樂	xuyl
 血手幽靈	xuyl
-洗漱用品	xuyp
 噓聲一片	xuyp
 須	xuyp
 許願	xuyr
@@ -102220,7 +102213,6 @@ WiFi	wifi
 宣泄壓力	xxyl
 鮮蝦魚板面	xxym
 諧音	xxyn
-學習用品	xxyp
 挾怨	xxyr
 喜形於色	xxys
 曉行夜宿	xxys
@@ -102670,7 +102662,6 @@ WiFi	wifi
 心猿意馬	xyym
 新鴛鴦蝴蝶夢	xyym
 幸運	xyyp
-洗浴用品	xyyp
 吸引眼球	xyyq
 行員	xyyr
 稀有元素	xyys
@@ -102800,6 +102791,7 @@ WiFi	wifi
 丫	yab
 啞巴	yaba
 崖壁	yabi
+亞比	yabi
 壓板	yabj
 押寶	yabk
 牙白	yabl
@@ -104250,7 +104242,6 @@ WiFi	wifi
 也要	yeyk
 野	yeyl
 養兒育女	yeyn
-嬰兒用品	yeyp
 也用	yeys
 業餘	yeyu
 揶揄	yeyu
@@ -104261,8 +104252,8 @@ WiFi	wifi
 椰棗	yezk
 一而再再而三	yezs
 一而再，再而三	yezs
-一分	yf
 一份	yf
+一分	yf
 一份愛心	yfax
 以防不測	yfbc
 原封不動	yfbd
@@ -106855,9 +106846,6 @@ WiFi	wifi
 一兩點鐘	yldv
 醫療單位	yldw
 由裏到外	yldw
-耶魯大學	yldx
-一流大學	yldx
-月亮代表我的心	yldx
 一掠而過	yleg
 一來二去	yleq
 揚了二正	ylev
@@ -106885,7 +106873,6 @@ WiFi	wifi
 一兩個鍾	ylgv
 與狼共舞	ylgw
 一兩個月	ylgy
-羊了個羊	ylgy
 一兩個字	ylgz
 一禮還一拜	ylhb
 娛樂活動	ylhd
@@ -108148,7 +108135,6 @@ WiFi	wifi
 有錢能使磨推鬼	yqng
 搖旗吶喊	yqnh
 有錢能使鬼推磨	yqnm
-一千年前	yqnq
 有錢難買老來瘦	yqnu
 以前那樣	yqny
 眼淺皮薄	yqpb
@@ -111588,7 +111574,6 @@ WiFi	wifi
 影音	yyyn
 營運	yyyp
 應允	yyyp
-嬰幼用品	yyyp
 月有陰晴圓缺	yyyq
 影院	yyyr
 一月一日	yyyr
@@ -116327,7 +116312,6 @@ WiFi	wifi
 大而全	deq
 第二天	det
 德爾塔	det
-第二審	deu
 開發者	dev
 第二種	dev
 第二位	dew
@@ -117048,6 +117032,7 @@ Excel	eks
 發請柬	fqj
 番茄醬	fqj
 反潛機	fqj
+父親節	fqj
 放棄了	fql
 飛起來	fql
 發起人	fqr
@@ -117349,7 +117334,6 @@ git	git
 公積金	gjj
 高精尖	gjj
 攻擊力	gjl
-管家婆	gjp
 工具人	gjr
 關節炎	gjy
 關鍵字	gjz
@@ -118568,7 +118552,6 @@ git	git
 剪切板	jqb
 家雀兒	jqe
 進去了	jql
-幾千年	jqn
 劇情片	jqp
 靜悄悄	jqq
 機器人	jqr
@@ -119162,7 +119145,6 @@ Keynote	knt
 冷啓動	lqd
 了起來	lql
 連起來	lql
-六七年	lqn
 錄取線	lqx
 老人斑	lrb
 老人家	lrj
@@ -120360,7 +120342,7 @@ PVP	pvp
 蛐蛐兒	qqe
 親切感	qqg
 全球化	qqh
-QQ羣	qqq
+氫氣球	qqq
 全球性	qqx
 情人節	qrj
 去死吧	qsb
@@ -121487,11 +121469,10 @@ SD卡	sdk
 失去了	uql
 沙琪瑪	uqm
 雙曲面	uqm
-上千年	uqn
-數千年	uqn
 申請人	uqr
 十七歲	uqs
 神槍手	uqu
+手牽手	uqu
 申請書	uqu
 雙曲線	uqx
 殺人案	ura
@@ -121700,9 +121681,7 @@ SD卡	sdk
 長不大	vbd
 枕邊風	vbf
 只不過	vbg
-真不會	vbh
 準備好	vbh
-治保會	vbh
 直播間	vbj
 豬八戒	vbj
 轉不了	vbl
@@ -123206,7 +123185,6 @@ Word	wrd
 一起來	yql
 用起來	yql
 引起來	yql
-一千年	yqn
 氧氣瓶	yqp
 雨悽悽	yqq
 有錢人	yqr
