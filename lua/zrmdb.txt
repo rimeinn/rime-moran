@@ -4886,6 +4886,7 @@
 䘗 xs
 䘘 xi
 䘘 xs
+䘙 xb
 䘙 xj
 䘙 xi
 䘚 yu
@@ -25389,6 +25390,7 @@
 衝 xv
 衝 xi
 衞 xb
+衞 xj
 衞 xi
 衟 xu
 衟 xi
