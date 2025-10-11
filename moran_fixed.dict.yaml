@@ -32641,7 +32641,6 @@ H盤	hpj
 差了	iale
 岔流	ialq
 岔路	ialu
-差旅	ialv
 查	iam
 槎	iami
 杈	iami
@@ -35088,6 +35087,7 @@ H盤	hpj
 豺狼	illh
 處理邏輯	illj
 出來了嗎	illm
+差旅	illv
 拆零	illy
 出來了沒有	illy
 柴	ilm
@@ -50094,6 +50094,7 @@ JK制服	jkvf
 楝	lmm
 聯盟	lmmg
 連忙	lmmh
+連麥	lmml
 槤	lmml
 魯莽滅裂	lmml
 臉面	lmmm
@@ -70708,6 +70709,8 @@ P站	pvj
 枘鑿	rvzk
 認真仔細	rvzx
 認爲	rw
+人物	rw
+任務	rw
 攘外安內	rwan
 任務安排	rwap
 攘外必先安內	rwbn
@@ -73292,7 +73295,6 @@ P站	pvj
 素	sus
 隨時隨地	susd
 素色	suse
-三生三世十里桃花	sush
 縮手縮腳	susj
 速算	susr
 訴訟	suss
@@ -88454,7 +88456,6 @@ U盤	upj
 站樁	vjvd
 站着	vjve
 戰陣	vjvf
-準靜止鋒	vjvf
 戰爭	vjvg
 站長	vjvh
 粘滯	vjvi
@@ -105792,7 +105793,6 @@ WiFi	wifi
 宴	yjb
 鹽巴	yjba
 永久保存	yjbc
-一九八二	yjbe
 贗本	yjbf
 永劫不復	yjbf
 研究報告	yjbg
@@ -105800,8 +105800,6 @@ WiFi	wifi
 也就不會	yjbh
 巖壁	yjbi
 嚴辦	yjbj
-一九八九	yjbj
-擁擠不堪	yjbk
 眼白	yjbl
 有機玻璃	yjbl
 也就罷了	yjbl
@@ -105812,10 +105810,7 @@ WiFi	wifi
 贗	yjbn
 演播	yjbo
 玉潔冰清	yjbq
-一九八七	yjbq
 一見不日	yjbr
-一九八四	yjbs
-一九八三	yjbs
 已經不是	yjbs
 意見不同	yjbt
 月經不調	yjbt
@@ -105825,11 +105820,9 @@ WiFi	wifi
 一蹶不振	yjbv
 有禁不止	yjbv
 一擊不中	yjbv
-一九八五	yjbw
 應接不暇	yjbx
 眼病	yjby
 殷鑑不遠	yjby
-一九八一	yjby
 贗	yjby
 已經不再	yjbz
 有幾把刷子	yjbz
@@ -106040,14 +106033,12 @@ WiFi	wifi
 演講	yjjd
 引經據典	yjjd
 研究決定	yjjd
-一九九二	yjje
 研究機構	yjjg
 遠交近攻	yjjg
 鈆	yjjg
 有機結合	yjjh
 演技	yjji
 一騎絕塵	yjji
-一九九九	yjjj
 義結金蘭	yjjl
 引頸就戮	yjjl
 眼見	yjjm
@@ -106062,7 +106053,6 @@ WiFi	wifi
 煙具	yjju
 一擊即中	yjjv
 研究價值	yjjv
-一九九五	yjjw
 眼界	yjjx
 圓角矩形	yjjx
 眼睛	yjjy
@@ -106175,6 +106165,7 @@ WiFi	wifi
 眼	yjo
 晏	yjoa
 晻	yjod
+腌	yjod
 胭	yjoy
 臙	yjoy
 曮	yjoy
@@ -118693,8 +118684,8 @@ git	git
 劇作者	jzv
 節奏性	jzx
 就在於	jzy
-看不到	kbd
 看不懂	kbd
+看不到	kbd
 看不慣	kbg
 看不過	kbg
 看不出	kbi

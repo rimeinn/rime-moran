@@ -47764,9 +47764,9 @@
 𣞇 yy
 𣞇 my
 𣞈 mf
-𣞈 um
+𣞈 am
 𣞉 ma
-𣞉 um
+𣞉 am
 𣞋 mh
 𣞌 mf
 𣞐 mx
@@ -47939,7 +47939,7 @@
 𣡍 jj
 𣡎 mq
 𣡏 mx
-𣡏 um
+𣡏 am
 𣡐 mj
 𣡑 mj
 𣡒 mq
@@ -99808,6 +99808,7 @@
 𬺭 xi
 𠁧 aa
 𠁧 vk
+𢇭 gd
 𣮚 mf
 𣴅 df
 𨯾 jj

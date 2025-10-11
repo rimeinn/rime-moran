@@ -155,7 +155,7 @@ english:
   enable_completion: true
   enable_sentence: false
   enable_user_dict: true
-  initial_quality: 0
+  initial_quality: 1
   enable_encoder: false
   encode_commit_history: false
   comment_format:

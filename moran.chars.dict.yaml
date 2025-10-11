@@ -11769,6 +11769,7 @@ use_preset_vocabulary: false
 切	qx;dq	900592
 切	qx;qd	900592
 刈	yi;di	410
+刈	gw;di	0
 刉	ji;dq	0
 刉	qi;dq	0
 刊	kj;dg	44631
@@ -62902,9 +62903,9 @@ use_preset_vocabulary: false
 𣞇	dp;yy	0
 𣞇	dp;my	0
 𣞈	pk;mf	0
-𣞈	pk;um	0
+𣞈	pk;am	0
 𣞉	pk;ma	0
-𣞉	pk;um	0
+𣞉	pk;am	0
 𣞋	qd;mh	0
 𣞌	bi;mf	0
 𣞐	xx;mx	0
@@ -63099,7 +63100,7 @@ use_preset_vocabulary: false
 𣡍	ji;jj	0
 𣡎	cf;mq	0
 𣡏	nh;mx	0
-𣡏	nh;um	0
+𣡏	nh;am	0
 𣡐	su;mj	0
 𣡑	ju;mj	0
 𣡒	qu;mq	0
@@ -124399,3 +124400,4 @@ use_preset_vocabulary: false
 𬺭	gj;xi	0
 𠁧	vs;aa	0
 𠁧	vs;vk	0
+𢇭	yy;gd	0
