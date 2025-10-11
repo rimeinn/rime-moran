@@ -22,6 +22,7 @@ s2t = opencc.OpenCC('s2t.json')
 MOEDICT_RELEASE_DATES = [
     '20240709',
     '20250909',
+    '20251009',
 ]
 
 class MDict:
@@ -41,7 +42,7 @@ class MDict:
         result.words = self.words - other.words
         for w in result.words:
             result.word2pinyin[w] = self.word2pinyin[w]
-        return self
+        return result
 
     def fix_pinyin(self, standard):
         """
