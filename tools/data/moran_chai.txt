@@ -46282,7 +46282,7 @@
 𣅑	qo	䒑日	auto
 𣅒	oq	日七	auto
 𣅓	on	日女	auto
-𣅔	oa	日一	auto
+𣅔	od	日大	
 𣅕	oi	日川	auto
 𣅖	ow	日亡	auto
 𣅘	ok	日亏	auto
@@ -58311,7 +58311,8 @@
 𦉪	ke	冂儿	auto
 𦉫	ka	冂丨	auto
 𦉬	sd	罒丁	auto
-𦉭	ea	儿一	auto
+𦉭	ke	冂儿	
+𦉭	ea	儿一	
 𦉮	gb	冈匕	auto
 𦉯	wa	网一	auto
 𦉰	kq	冂䒑	auto

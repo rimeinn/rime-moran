@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251011"
+version: "20251012"
 sort: original
 columns:
   - text
@@ -14277,8 +14277,8 @@ D盘	dpj
 东家	dsjw
 冻结	dsjx
 倒三角形	dsjx
-动静	dsjy
 东京	dsjy
+动静	dsjy
 咚	dsk
 洞口	dskb
 洞开	dskl
@@ -31721,7 +31721,6 @@ H盘	hpj
 差了	iale
 岔流	ialq
 岔路	ialu
-差旅	illv
 查	iam
 杈	iami
 槎	iami
@@ -34092,6 +34091,7 @@ H盘	hpj
 豺狼	illh
 处理逻辑	illj
 出来了吗	illm
+差旅	illv
 拆零	illy
 出来了没有	illy
 柴	ilm
@@ -40385,7 +40385,6 @@ JK制服	jkvf
 截然相反	jrxf
 揪人心肺	jrxf
 急如星火	jrxh
-嘉然小姐	jrxj
 捐献	jrxm
 娟秀	jrxq
 金融系统	jrxt
@@ -44893,6 +44892,7 @@ JK制服	jkvf
 抗美援朝	kmyv
 抗美援越	kmyy
 可能	kn
+困难	kn
 可能不会	knbh
 可能不是	knbs
 可能不行	knbx
@@ -63564,6 +63564,7 @@ P站	pvj
 棋类游戏	qlyx
 琼楼玉宇	qlyy
 齐鲁医院	qlyy
+千里走單騎	qlzj
 千里走单骑	qlzq
 妻离子散	qlzs
 氢离子浓度指数	qlzu
@@ -80601,15 +80602,10 @@ T恤衫	txuj
 十聋九哑	uljy
 史料记载	uljz
 数量可观	ulkg
-史莱克七怪	ulkg
 筛糠	ulkh
 舒了口气	ulkq
 顺利开展	ulkv
 胜利凯旋	ulkx
-神里绫华的狗	ullg
-山里灵活的狗	ullg
-神里绫华	ullh
-山里灵活	ullh
 数理逻辑	ullj
 水里来火里去	ullq
 圣劳伦斯	ulls
@@ -80623,8 +80619,6 @@ T恤衫	txuj
 十里坡剑神	ulpu
 手里捧着	ulpv
 身临其境	ulqj
-神乐七奈	ulqn
-神楽七奈	ulqn
 十六七岁	ulqs
 石榴裙下	ulqx
 收揽人心	ulrx
@@ -104427,10 +104421,9 @@ U盘	upj
 引得	ynde
 淫荡	yndh
 阴蒂	yndi
+银弹	yndj
 饮弹	yndj
 沂	yndj
-油腻的师姐	yndj
-有你的世界	yndj
 引导	yndk
 音带	yndl
 一年多来	yndl
@@ -113383,6 +113376,7 @@ U盘	upj
 第三种	dsv
 第三者	dsv
 大嫂子	dsz
+大头兵	dtb
 跌停板	dtb
 大踏步	dtb
 大头菜	dtc
