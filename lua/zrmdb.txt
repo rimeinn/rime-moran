@@ -46273,7 +46273,7 @@
 𣅑 qo
 𣅒 oq
 𣅓 on
-𣅔 oa
+𣅔 od
 𣅕 oi
 𣅖 ow
 𣅘 ok
@@ -58302,6 +58302,7 @@
 𦉪 ke
 𦉫 ka
 𦉬 sd
+𦉭 ke
 𦉭 ea
 𦉮 gb
 𦉯 wa
