@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251012"
+version: "20251013"
 sort: by_weight
 columns:
   - text
@@ -5304,7 +5304,6 @@ B盤	bpj
 幫派體系	bptx
 不怕失敗	bpub
 半瓶水響叮噹	bpud
-包皮手術	bpuu
 抱朴守拙	bpuv
 白跑一趟	bpyt
 不怕一萬	bpyw
@@ -8355,6 +8354,7 @@ Bilibili	bvj
 糍	cim
 粢	cimc
 祠廟	cimc
+此門	cimf
 刺毛	cimk
 慈母	cimu
 刺梅	cimz
@@ -13161,7 +13161,6 @@ C盤	cpj
 道路安全	dlaq
 貸	dlb
 帶來不便	dlbb
-達拉崩吧	dlbb
 代表	dlbc
 呆笨	dlbf
 得了便宜賣乖	dlbg
@@ -15454,8 +15453,7 @@ D盤	dpj
 對家	dvjw
 對接	dvjx
 錞	dvjx
-多種經營	dvjy
-大智近妖	dvjy
+對鏡	dvjy
 地主家的傻兒子	dvjz
 啍	dvk
 對口	dvkb
@@ -17961,6 +17959,7 @@ E盤	epj
 分泌	ffmi
 分娩	ffmm
 方方面面	ffmm
+粉面	ffmm
 粉末	ffmo
 墳墓	ffmu
 付費模式	ffmu
@@ -22658,6 +22657,7 @@ F盤	fpj
 更有	ggyb
 哽咽	ggye
 哽噎	ggye
+鯁	ggyg
 耿耿於懷	ggyh
 更衣	ggyi
 更易	ggyi
@@ -30166,6 +30166,7 @@ H盤	hpj
 還耕	hrgg
 換崗	hrgh
 緩過	hrgo
+換過	hrgo
 宦官	hrgr
 換工	hrgs
 恨入骨髓	hrgs
@@ -35904,6 +35905,7 @@ I盤	ipj
 重開	iskl
 沖擴	isko
 沖垮	iskw
+重樓	islb
 沖涼	isld
 衝浪	islh
 衝力	isli
@@ -35939,6 +35941,7 @@ I盤	ipj
 重孫	issp
 重塑	issu
 沖塌	ista
+重頭	istb
 重提	isti
 重彈	istj
 沖天	istm
@@ -58066,6 +58069,7 @@ JK制服	jkvf
 能夠離開	nglk
 尼古拉特斯拉	ngll
 鬧夠了沒	nglm
+能留	nglq
 尼古拉斯	ngls
 能夠連續	nglx
 你幹嘛啊	ngma
@@ -59852,7 +59856,6 @@ JK制服	jkvf
 扭轉局勢	nvju
 女家	nvjw
 女警	nvjy
-你指尖躍動的電光，是我此生不滅的信仰	nvjy
 女客	nvke
 女郎	nvlh
 女籃	nvlj
@@ -61722,6 +61725,7 @@ PC端	pcd
 排成一行	piyh
 排除隱患	piyh
 皮衣	piyi
+披衣	piyi
 皮炎	piyj
 排除異己	piyj
 闢謠	piyk
@@ -68287,6 +68291,7 @@ P站	pvj
 清爽	qyud
 輕易上當	qyud
 輕奢	qyue
+情深	qyuf
 輕聲	qyug
 輕傷	qyuh
 情商	qyuh
@@ -87869,6 +87874,7 @@ U盤	upj
 支鏈	vilm
 直落	vilo
 滯留	vilq
+只留	vilq
 中超聯賽	vils
 智略	vilt
 之路	vilu
@@ -94975,6 +94981,7 @@ WiFi	wifi
 蜈	wui
 誤差	wuia
 無儔	wuib
+誤闖	wuid
 誤車	wuie
 戊辰	wuif
 五成	wuig
@@ -96397,6 +96404,7 @@ WiFi	wifi
 威信	wzxn
 微信	wzxn
 違心	wzxn
+微醺	wzxp
 維修	wzxq
 爲兄	wzxs
 我在線上	wzxu
@@ -102258,9 +102266,9 @@ WiFi	wifi
 西一棒槌	xybi
 興辦	xybj
 學藝不精	xybj
-校園暴力	xybl
 形影不離	xybl
 校園霸凌	xybl
+校園暴力	xybl
 形變	xybm
 薰蕕不同器	xybq
 心有不忍	xybr
@@ -103524,7 +103532,6 @@ WiFi	wifi
 由於	ybyu
 猶豫	ybyu
 憂鬱	ybyu
-閱兵儀式	ybyu
 言不由衷	ybyv
 言必有中	ybyv
 意不意外	ybyw
@@ -105276,6 +105283,7 @@ WiFi	wifi
 已過	yigo
 異國	yigo
 一貫	yigr
+衣冠	yigr
 一共	yigs
 一股	yigu
 已故	yigu
@@ -106318,6 +106326,7 @@ WiFi	wifi
 煙瘴	yjvh
 顏值	yjvi
 研製	yjvi
+胭脂	yjvi
 一技之長	yjvi
 延展	yjvj
 眼罩	yjvk
@@ -107942,6 +107951,7 @@ WiFi	wifi
 一批又一批	ypyp
 應聘要求	ypyq
 運用	ypys
+雲湧	ypys
 孕育	ypyu
 有賠有賺	ypyv
 褞	ypyw
@@ -109597,6 +109607,7 @@ WiFi	wifi
 藝術魅力	yuml
 也是沒誰了	yuml
 漁民	yumn
+鬱	yump
 有聲沒氣	yumq
 榆木	yumu
 有事沒事	yumu
@@ -113301,6 +113312,7 @@ WiFi	wifi
 坐立不安	zlba
 坐冷板凳	zlbd
 再版	zlbj
+再拜	zlbl
 在編	zlbm
 載波	zlbo
 再不	zlbu

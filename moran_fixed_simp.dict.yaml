@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251012"
+version: "20251013"
 sort: original
 columns:
   - text
@@ -5164,7 +5164,6 @@ B盘	bpj
 帮派体系	bptx
 不怕失败	bpub
 半瓶水响叮当	bpud
-包皮手术	bpuu
 抱朴守拙	bpuv
 白跑一趟	bpyt
 不怕一万	bpyw
@@ -8151,6 +8150,7 @@ B盘	bpj
 糍	cim
 祠庙	cimc
 粢	cimc
+此门	cimf
 刺毛	cimk
 慈母	cimu
 刺梅	cimz
@@ -12787,7 +12787,6 @@ C语言	cyy
 道路安全	dlaq
 贷	dlb
 带来不便	dlbb
-达拉崩吧	dlbb
 代表	dlbc
 呆笨	dlbf
 得了便宜卖乖	dlbg
@@ -15009,8 +15008,7 @@ D盘	dpj
 对局	dvju
 对家	dvjw
 对接	dvjx
-多种经营	dvjy
-大智近妖	dvjy
+对镜	dvjy
 地主家的傻儿子	dvjz
 对口	dvkb
 对抗	dvkh
@@ -17423,6 +17421,7 @@ E盘	epj
 分泌	ffmi
 分娩	ffmm
 方方面面	ffmm
+粉面	ffmm
 粉末	ffmo
 坟墓	ffmu
 付费模式	ffmu
@@ -29344,6 +29343,7 @@ H盘	hpj
 还耕	hrgg
 换岗	hrgh
 缓过	hrgo
+换过	hrgo
 宦官	hrgr
 换工	hrgs
 恨入骨髓	hrgs
@@ -34888,6 +34888,7 @@ I盘	ipj
 重开	iskl
 冲扩	isko
 冲垮	iskw
+重楼	islb
 冲凉	isld
 冲浪	islh
 冲力	isli
@@ -34923,6 +34924,7 @@ I盘	ipj
 重塑	issu
 埫	ist
 冲塌	ista
+重头	istb
 重提	isti
 重弹	istj
 冲天	istm
@@ -56459,6 +56461,7 @@ JK制服	jkvf
 能够离开	nglk
 尼古拉特斯拉	ngll
 闹够了没	nglm
+能留	nglq
 尼古拉斯	ngls
 能够连续	nglx
 你干嘛啊	ngma
@@ -58197,7 +58200,6 @@ JK制服	jkvf
 扭转局势	nvju
 女家	nvjw
 女警	nvjy
-你指尖跃动的电光，是我此生不灭的信仰	nvjy
 女客	nvke
 女郎	nvlh
 女篮	nvlj
@@ -59921,6 +59923,7 @@ JK制服	jkvf
 排成一行	piyh
 排除隐患	piyh
 皮衣	piyi
+披衣	piyi
 皮炎	piyj
 排除异己	piyj
 辟谣	piyk
@@ -66321,6 +66324,7 @@ P站	pvj
 清爽	qyud
 轻易上当	qyud
 轻奢	qyue
+情深	qyuf
 轻声	qyug
 轻伤	qyuh
 情商	qyuh
@@ -85556,6 +85560,7 @@ U盘	upj
 支链	vilm
 直落	vilo
 滞留	vilq
+只留	vilq
 中超联赛	vils
 智略	vilt
 之路	vilu
@@ -92475,6 +92480,7 @@ U盘	upj
 蜈	wui
 误差	wuia
 无俦	wuib
+误闯	wuid
 误车	wuie
 戊辰	wuif
 五成	wuig
@@ -93836,6 +93842,7 @@ U盘	upj
 威信	wzxn
 违心	wzxn
 微信	wzxn
+微醺	wzxp
 维修	wzxq
 为兄	wzxs
 我在线上	wzxu
@@ -99466,8 +99473,8 @@ U盘	upj
 西一棒槌	xybi
 兴办	xybj
 学艺不精	xybj
-校园暴力	xybl
 形影不离	xybl
+校园暴力	xybl
 校园霸凌	xybl
 形变	xybm
 薰莸不同器	xybq
@@ -100700,7 +100707,6 @@ U盘	upj
 由于	ybyu
 犹豫	ybyu
 忧郁	ybyu
-阅兵仪式	ybyu
 言不由衷	ybyv
 言必有中	ybyv
 意不意外	ybyw
@@ -102436,6 +102442,7 @@ U盘	upj
 已过	yigo
 异国	yigo
 一贯	yigr
+衣冠	yigr
 一共	yigs
 一股	yigu
 已故	yigu
@@ -103377,6 +103384,7 @@ U盘	upj
 烟瘴	yjvh
 颜值	yjvi
 研制	yjvi
+胭脂	yjvi
 一技之长	yjvi
 延展	yjvj
 眼罩	yjvk
@@ -104955,6 +104963,7 @@ U盘	upj
 一批又一批	ypyp
 应聘要求	ypyq
 运用	ypys
+云涌	ypys
 孕育	ypyu
 有赔有赚	ypyv
 一颦一笑	ypyx
@@ -110180,6 +110189,7 @@ U盘	upj
 坐立不安	zlba
 坐冷板凳	zlbd
 再版	zlbj
+再拜	zlbl
 在编	zlbm
 载波	zlbo
 再不	zlbu
