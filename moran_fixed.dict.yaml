@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251011"
+version: "20251012"
 sort: by_weight
 columns:
   - text
@@ -14698,8 +14698,8 @@ D盤	dpj
 東家	dsjw
 凍結	dsjx
 倒三角形	dsjx
-動靜	dsjy
 東京	dsjy
+動靜	dsjy
 咚	dsk
 洞口	dskb
 洞開	dskl
@@ -41547,7 +41547,6 @@ JK制服	jkvf
 截然相反	jrxf
 揪人心肺	jrxf
 急如星火	jrxh
-嘉然小姐	jrxj
 捐獻	jrxm
 悁	jrxo
 娟秀	jrxq
@@ -46184,6 +46183,7 @@ JK制服	jkvf
 抗美援朝	kmyv
 抗美援越	kmyy
 可能	kn
+困難	kn
 可能不會	knbh
 可能不是	knbs
 可能不行	knbx
@@ -60169,7 +60169,7 @@ JK制服	jkvf
 奴顏婢膝	nybx
 哪有不溼鞋	nybx
 甯	nyby
-苧	nyc
+薴	nyc
 那樣纔會	nych
 薴	nycn
 匿影藏形	nycx
@@ -65417,6 +65417,7 @@ P站	pvj
 棋類遊戲	qlyx
 瓊樓玉宇	qlyy
 齊魯醫院	qlyy
+千里走單騎	qlzj
 千里走單騎	qlzq
 妻離子散	qlzs
 氫離子濃度指數	qlzu
@@ -82837,15 +82838,10 @@ T恤衫	txuj
 十聾九啞	uljy
 史料記載	uljz
 數量可觀	ulkg
-史萊克七怪	ulkg
 篩糠	ulkh
 舒了口氣	ulkq
 順利開展	ulkv
 勝利凱旋	ulkx
-神里綾華的狗	ullg
-山裏靈活的狗	ullg
-神里綾華	ullh
-山裏靈活	ullh
 數理邏輯	ullj
 水裏來火裏去	ullq
 聖勞倫斯	ulls
@@ -82859,8 +82855,6 @@ T恤衫	txuj
 十里坡劍神	ulpu
 手裏捧着	ulpv
 身臨其境	ulqj
-神樂七奈	ulqn
-神楽七奈	ulqn
 十六七歲	ulqs
 石榴裙下	ulqx
 收攬人心	ulrx
@@ -107388,10 +107382,9 @@ WiFi	wifi
 冘	yndg
 淫蕩	yndh
 陰蒂	yndi
+銀彈	yndj
 飲彈	yndj
 沂	yndj
-油膩的師姐	yndj
-有你的世界	yndj
 濦	yndj
 引導	yndk
 音帶	yndl
@@ -116521,6 +116514,7 @@ WiFi	wifi
 第三者	dsv
 第三種	dsv
 大嫂子	dsz
+大頭兵	dtb
 跌停板	dtb
 大踏步	dtb
 大頭菜	dtc
