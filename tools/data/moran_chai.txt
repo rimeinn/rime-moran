@@ -80798,12 +80798,12 @@
 𫯙	dj	多兼	auto
 𫯙	xj	夕兼	auto
 𫯚	dn	多囊	auto
-𫯛	pa	𠂆一	auto
+𫯛	pd	𠂆大	
 𫯜	dj	大巾	auto
 𫯝	ut	上天	auto
 𫯟	da	大丨	auto
 𫯡	dp	大平	auto
-𫯢	dd	大丶	auto
+𫯢	dy	大戉	
 𫯤	fg	夫古	auto
 𫯥	ds	大岁	auto
 𫯦	du	大豕	auto
