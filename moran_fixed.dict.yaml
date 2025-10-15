@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251013"
+version: "20251015"
 sort: by_weight
 columns:
   - text
@@ -47128,6 +47128,7 @@ JK制服	jkvf
 課外作業	kwzy
 科學	kx
 開心	kx
+可惜	kx
 哭笑不得	kxbd
 開學報道	kxbd
 可惜不是你	kxbn
@@ -60950,6 +60951,8 @@ PC端	pcd
 飄雨	pcyu
 飄走	pczb
 票子	pczi
+判斷	pd
+碰到	pd
 片段	pd
 派對	pd
 屁都不放一個	pdbg
@@ -108997,6 +109000,7 @@ WiFi	wifi
 一拖再拖	ytzt
 月租	ytzu
 與	yu
+於是	yu
 于	yua
 聿	yuaa
 与	yuaa
@@ -117057,6 +117061,7 @@ git	git
 高精尖	gjj
 攻擊力	gjl
 工具人	gjr
+工具箱	gjx
 關節炎	gjy
 關鍵字	gjz
 高科技	gkj
