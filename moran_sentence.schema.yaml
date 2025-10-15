@@ -6,7 +6,7 @@ schema:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
   description: |
-    無簡快碼的輸入純粹整句輸入模式。
+    無簡快碼的純粹整句輸入方案。
   dependencies:
     - tiger
     - moran_charset

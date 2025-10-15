@@ -3,7 +3,7 @@ schema:
     - {}
   description: |
     虎码官方单字
-    敲 ` 鍵進入拼音反查
+    敲 ` 鍵進入魔然反查
   name: "虎码官方单字"
   schema_id: tiger
   version: 0.9
