@@ -6,7 +6,7 @@ schema:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
   description: |
-    在輸入完畢雙拼碼後，可以輸入輔助碼篩選候選項，與「魔然」方案不同。
+    在輸入完畢完整一句的雙拼碼後，可以輸入輔助碼篩選候選項。
   dependencies:
     - tiger
     - moran_charset
