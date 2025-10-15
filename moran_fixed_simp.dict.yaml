@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251013"
+version: "20251015"
 sort: original
 columns:
   - text
@@ -45793,6 +45793,7 @@ JK制服	jkvf
 课外作业	kwzy
 开心	kx
 科学	kx
+可惜	kx
 哭笑不得	kxbd
 开学报道	kxbd
 可惜不是你	kxbn
@@ -59167,6 +59168,8 @@ JK制服	jkvf
 飘雨	pcyu
 飘走	pczb
 票子	pczi
+判断	pd
+碰到	pd
 片段	pd
 派对	pd
 屁都不放一个	pdbg
@@ -105986,6 +105989,7 @@ U盘	upj
 跃	ytzy
 与	yu
 御	yu
+于是	yu
 于	yua
 聿	yuaa
 雨	yuad
@@ -113923,6 +113927,7 @@ git	git
 高精尖	gjj
 攻击力	gjl
 工具人	gjr
+工具箱	gjx
 关节炎	gjy
 关键字	gjz
 高科技	gkj
