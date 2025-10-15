@@ -6,7 +6,7 @@ schema:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
   description: |
-    爲傳承字設計的自然碼及輔助碼智能整句輸入方案。
+    基於自然碼和輔助碼的智能整句輸入方案，該方案含有固頂簡快碼。
   dependencies:
     - moran_fixed
     - moran_sentence
