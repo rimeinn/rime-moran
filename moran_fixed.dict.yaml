@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251015"
+version: "20251016"
 sort: by_weight
 columns:
   - text
@@ -47297,6 +47297,7 @@ JK制服	jkvf
 開雲見日	kyjr
 快捷	kyjx
 塊莖	kyjy
+噲	kyk
 可以看到	kykd
 可以肯定	kykd
 可以克服	kykf
@@ -87446,12 +87447,10 @@ U盤	upj
 痔	vibs
 止步	vibu
 支部	vibu
-支持不住	vibv
-忠臣不事二主	vibv
 痣	vibv
-窒	vibv
-贄	vibv
+支持不住	vibv
 支撐不住	vibv
+贄	vibv
 寘	vibv
 疻	vibv
 爭吵不休	vibx
@@ -122055,8 +122054,8 @@ Word	wrd
 外委會	wwh
 未完成	wwi
 玩玩看	wwk
-娃娃臉	wwl
 唯物論	wwl
+娃娃臉	wwl
 玩完了	wwl
 娃娃親	wwq
 彎彎繞	wwr

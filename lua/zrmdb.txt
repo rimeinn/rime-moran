@@ -8189,6 +8189,7 @@
 凶 ik
 凶 ki
 凷 kt
+凷 tk
 凸 aa
 凹 aa
 出 aa
@@ -99813,6 +99814,7 @@
 𠁧 vk
 𢇭 gd
 𮏛 cg
+𫜻 wd
 𣮚 mf
 𣴅 df
 𨯾 jj
