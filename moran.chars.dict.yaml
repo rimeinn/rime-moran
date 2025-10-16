@@ -11739,6 +11739,7 @@ use_preset_vocabulary: false
 凶	xs;ik	182557
 凶	xs;ki	182557
 凷	ky;kt	0
+凷	ky;tk	0
 凸	dx;aa	0
 凸	gu;aa	0
 凸	tu;aa	22455
@@ -93886,6 +93887,7 @@ use_preset_vocabulary: false
 𪀊	gb;nj	0
 𪀊	qu;nj	0
 𪀋	ya;nj	0
+𪀋	nw;nj	0
 𪀌	ya;nj	0
 𪀍	qi;nd	0
 𪀏	jq;nj	0
@@ -122689,6 +122691,7 @@ use_preset_vocabulary: false
 𲰸	lq;dt	0
 𲰹	lw;nj	0
 𲰹	ya;nj	0
+𲰹	nw;nj	0
 𲰺	gb;tg	0
 𲰺	qu;tg	0
 𲰻	fj;tf	0
@@ -124405,3 +124408,4 @@ use_preset_vocabulary: false
 𠁧	vs;vk	0
 𢇭	yy;gd	0
 𮏛	gb;cg	0
+𫜻	dy;wd	0
