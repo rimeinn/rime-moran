@@ -117,7 +117,7 @@ key_bindings:
   # 切換固詞
   moran_toggle_inflexible:
     __append:
-      - { when: has_menu, accept: Control+g, toggle: inflexible }
+      - { when: has_menu, accept: Control+Shift+G, toggle: inflexible }
 
 octagram:
   disable:
