@@ -8071,9 +8071,10 @@
 再	at	一土	
 冎	kk	冂冂	
 冏	kk	冂口	
-冐	oo	日月	
-冑	yo	由月	
-冒	oo	曰目	
+冑	oy	冃由	
+冑	yo	由冃	
+冐	oo	冃月	
+冒	oo	冃目	
 冓	aa	一一	
 冓	jr	井冉	
 冔	oy	日于	
@@ -98890,8 +98891,9 @@
 𳁔	wj	勿見	auto
 𳁔	jw	見勿	auto
 𳁕	jw	見未	auto
-𳁖	aj	丨見	auto
-𳁖	jd	見丶	auto
+𳁖	aj	丨見	
+𳁖	jv	見{竹}	
+𳁖	jd	見丶	
 𳁘	jw	見攵	auto
 𳁙	hj	虍見	auto
 𳁙	jv	見隹	auto
@@ -99824,6 +99826,7 @@
 𢇭	gd	广丶	
 𮏛	cg	艹狗	
 𫜻	wd	王丁	
+𮐼	cg	艹戈	
 
 # 待考
 

@@ -104576,3 +104576,5 @@
 𢇭	ying	0	0
 𮏛	gou	0	0
 𫜻	ding	0	0
+𮐼	cang	0	0
+𮐼	zang	0	0

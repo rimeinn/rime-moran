@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251016"
+version: "20251018"
 sort: original
 columns:
   - text
@@ -30373,6 +30373,7 @@ H盘	hpj
 回	hvk
 回扣	hvkb
 会客	hvke
+回坑	hvkg
 咴	hvkh
 回看	hvkj
 会刊	hvkj
@@ -91263,8 +91264,8 @@ U盘	upj
 外语	wlyu
 武林夜市	wlyu
 五里云雾	wlyw
-网络游戏	wlyx
 问了一下	wlyx
+网络游戏	wlyx
 望了一眼	wlyy
 物理意义	wlyy
 网络用语	wlyy

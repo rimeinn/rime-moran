@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251016"
+version: "20251018"
 sort: by_weight
 columns:
   - text
@@ -31255,6 +31255,7 @@ H盤	hpj
 回	hvk
 回扣	hvkb
 會客	hvke
+回坑	hvkg
 匯	hvkh
 嘒	hvkh
 回看	hvkj
@@ -93750,8 +93751,8 @@ WiFi	wifi
 外語	wlyu
 武林夜市	wlyu
 五里雲霧	wlyw
-網絡遊戲	wlyx
 問了一下	wlyx
+網絡遊戲	wlyx
 望了一眼	wlyy
 物理意義	wlyy
 網絡用語	wlyy

@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20251012"
+version: "20251018"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9206,6 +9206,15 @@ columns:
 星象館
 淇淋
 麥淇淋
+聞弦歌
+聞弦音
+知雅意
+聞弦歌而知雅意
+聞弦音而知雅意
+睹遠物
+知情意
+睹遠物而知情意
+回坑
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0
