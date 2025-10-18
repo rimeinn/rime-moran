@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251016"
+version: "20251018"
 sort: by_weight
 columns:
   - text
