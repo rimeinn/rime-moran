@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20251017"
+version: "20251018"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9214,6 +9214,7 @@ columns:
 睹远物
 知情意
 睹远物而知情意
+回坑
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0

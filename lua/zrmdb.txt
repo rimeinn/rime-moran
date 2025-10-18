@@ -98883,6 +98883,7 @@
 𳁔 jw
 𳁕 jw
 𳁖 aj
+𳁖 jv
 𳁖 jd
 𳁘 jw
 𳁙 hj
@@ -99816,6 +99817,7 @@
 𢇭 gd
 𮏛 cg
 𫜻 wd
+𮐼 cg
 𣮚 mf
 𣴅 df
 𨯾 jj
