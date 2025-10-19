@@ -37437,8 +37437,8 @@
 𡉂	lt	力土	auto
 𡉂	tl	土力	auto
 𡉃	ti	土厂	auto
-𡉄	ta	土一	auto
-𡉄	pt	丿土	auto
+𡉄	ta	土一	
+𡉄	pt	十土	
 𡉅	tk	土冂	auto
 𡉆	tk	土凵	auto
 𡉇	tr	土人	auto
@@ -60120,7 +60120,8 @@
 𦥹	yu	臾手	auto
 𦥺	px	丿𫜹	auto
 𦥻	ji	臼垂	auto
-𦥼	ai	丨乂	auto
+𦥼	ki	冂乂	
+𦥼	ai	丨乂	
 𦥽	jy	臼又	auto
 𦥽	wj	午臼	auto
 𦥾	be	八二	auto
@@ -99827,6 +99828,8 @@
 𮏛	cg	艹狗	
 𫜻	wd	王丁	
 𮐼	cg	艹戈	
+𮮡	ky	冂又	
+𮮡	ay	丨又	
 
 # 待考
 
