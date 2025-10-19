@@ -60111,6 +60111,7 @@
 𦥹 yu
 𦥺 px
 𦥻 ji
+𦥼 ki
 𦥼 ai
 𦥽 jy
 𦥽 wj
@@ -99818,6 +99819,8 @@
 𮏛 cg
 𫜻 wd
 𮐼 cg
+𮮡 ky
+𮮡 ay
 𣮚 mf
 𣴅 df
 𨯾 jj

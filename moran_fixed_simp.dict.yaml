@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251018"
+version: "20251019"
 sort: original
 columns:
   - text
@@ -7003,7 +7003,8 @@ B盘	bpj
 不予考虑	bykl
 不用客气	bykq
 不要客气	bykq
-毕业考试	byku
+冰窟	byku
+冰库	byku
 边缘科学	bykx
 冰块	byky
 不亦快哉	bykz
@@ -7322,6 +7323,8 @@ B盘	bpj
 悲	bzf
 北伐	bzfa
 备份	bzff
+悲愤	bzff
+辈份	bzff
 北风	bzfg
 北方	bzfh
 不曾放弃	bzfq
@@ -16915,6 +16918,7 @@ E盘	epj
 发射	faue
 法身	fauf
 发生	faug
+发声	faug
 发誓	faui
 伐善	fauj
 发烧	fauk
@@ -18108,6 +18112,7 @@ E盘	epj
 放学	fhxt
 放血	fhxt
 放下	fhxw
+仿写	fhxx
 发挥想象	fhxx
 放行	fhxy
 风花雪月	fhxy
@@ -18378,6 +18383,7 @@ E盘	epj
 分斤掰两	fjbl
 反驳	fjbo
 封建把头	fjbt
+反哺	fjbu
 帆布	fjbu
 附加保险	fjbx
 犯病	fjby
@@ -20794,6 +20800,7 @@ F盘	fpj
 沟壕	gbhk
 敢把皇帝拉下马	gbhm
 篝火	gbho
+苟活	gbho
 勾魂	gbhp
 赶不回去	gbhq
 狗獾	gbhr
@@ -30237,6 +30244,7 @@ H盘	hpj
 贿	hvb
 徽标	hvbc
 回本	hvbf
+绘本	hvbf
 毁谤	hvbh
 回执编号	hvbh
 回避	hvbi
@@ -32856,8 +32864,7 @@ H盘	hpj
 撑腰	igyk
 牚	igyk
 成因	igyn
-春光旖旎	igyn
-冲冠一怒	igyn
+成瘾	igyn
 承运	igyp
 常规要求	igyq
 成员	igyr
@@ -33767,6 +33774,7 @@ H盘	hpj
 朝服	ikfu
 弨	ikg
 炒更	ikgg
+超纲	ikgh
 朝纲	ikgh
 炒肝	ikgj
 沉疴痼疾	ikgj
@@ -35292,6 +35300,7 @@ I盘	ipj
 畜生	iuug
 承受伤害	iuuh
 厨师	iuui
+初始	iuui
 出示	iuui
 础	iuui
 出山	iuuj
@@ -38853,6 +38862,8 @@ JK制服	jkvf
 拣	jmfj
 搛	jmfj
 肩负	jmfu
+减负	jmfu
+减幅	jmfu
 经贸发展	jmfv
 减肥	jmfz
 戋	jmg
@@ -39202,6 +39213,8 @@ JK制服	jkvf
 军民一致	jmyv
 极目远望	jmyw
 坚硬	jmyy
+剪映	jmyy
+剪影	jmyy
 建	jmz
 间杂	jmza
 蹇	jmzb
@@ -42010,6 +42023,7 @@ JK制服	jkvf
 江心补漏	jxbl
 街边	jxbm
 敬谢不敏	jxbm
+接驳	jxbo
 精心编排	jxbp
 酒香不怕巷子深	jxbu
 将心比心	jxbx
@@ -42438,6 +42452,8 @@ JK制服	jkvf
 借用	jxys
 尽显英雄本色	jxys
 节约	jxyt
+借阅	jxyt
+解约	jxyt
 介于	jxyu
 金相玉质	jxyv
 九霄云外	jxyw
@@ -48996,6 +49012,7 @@ JK制服	jkvf
 落山	louj
 螺栓	lour
 落水	louv
+裸睡	louv
 箩	lov
 罗庄	lovd
 雒	lovg
@@ -52826,8 +52843,8 @@ JK制服	jkvf
 冒渎	mkdu
 猫科动物	mkdw
 耄耋	mkdx
+锚定	mkdy
 铆钉	mkdy
-满口答应	mkdy
 卯	mke
 梅开二度	mked
 迈克尔杰克逊	mkex
@@ -53884,6 +53901,7 @@ JK制服	jkvf
 磨削	moxt
 默许	moxu
 默写	moxx
+摹写	moxx
 模型	moxy
 谟	moy
 磨牙	moya
@@ -58654,7 +58672,7 @@ JK制服	jkvf
 牛仔很忙	nzhm
 内患	nzhr
 内讧	nzhs
-内画	nzhw
+内化	nzhw
 内衬	nzif
 内臣	nzif
 内城	nzig
@@ -72972,6 +72990,7 @@ P站	pvj
 提拉	tila
 体疗	tilc
 体谅	tild
+体量	tild
 踢了	tile
 体力	tili
 提篮	tilj
@@ -77238,6 +77257,7 @@ T恤衫	txuj
 守约	ubyt
 生搬硬套	ubyt
 授予	ubyu
+手语	ubyu
 身不由主	ubyv
 食不厌精，脍不厌细	ubyx
 首映	ubyy
@@ -79499,6 +79519,8 @@ T恤衫	txuj
 实现	uixm
 视线	uixm
 失信	uixn
+时薪	uixn
+实心	uixn
 师训	uixp
 失修	uixq
 市场需求	uixq
@@ -95246,10 +95268,12 @@ U盘	upj
 矽钢	xigh
 喜感	xigj
 细高	xigk
+洗稿	xigk
 膝盖	xigl
 学成归来	xigl
 洗过	xigo
 习惯	xigr
+吸管	xigr
 西贡	xigs
 溪谷	xigu
 硒鼓	xigu
@@ -99182,8 +99206,8 @@ U盘	upj
 欣欣自得	xxzd
 卸责	xxze
 学习作风	xxzf
-鞋子	xxzi
 写字	xxzi
+鞋子	xxzi
 相信自己	xxzj
 学习总结	xxzj
 休息在家	xxzj
@@ -100043,6 +100067,8 @@ U盘	upj
 油锅	ybgo
 一般过得去	ybgq
 有关	ybgr
+油管	ybgr
+攸关	ybgr
 有功	ybgs
 夜不归宿	ybgs
 幽谷	ybgu
@@ -102409,6 +102435,7 @@ U盘	upj
 绎	yisf
 遗传算法	yisf
 意思	yisi
+疑似	yisi
 延长时间	yisj
 一扫	yisk
 义赛	yisl
@@ -109484,6 +109511,8 @@ U盘	upj
 坐吃山空	ziuk
 增长势头	ziut
 字数	ziuu
+自述	ziuu
+紫薯	ziuu
 渍水	ziuv
 笫	ziv
 自证	zivg
@@ -110981,6 +111010,7 @@ U盘	upj
 遵守纪律	zujl
 走上绝路	zujl
 组建	zujm
+组件	zujm
 租金	zujn
 祖居	zuju
 在实践中	zujv
@@ -113533,6 +113563,7 @@ Excel	eks
 副产物	fiw
 翻车鱼	fiy
 方程组	fiz
+飞机场	fji
 风景区	fjq
 福建人	fjr
 福建省	fju
@@ -114839,6 +114870,7 @@ git	git
 超音速	iys
 倡议书	iyu
 创业者	iyv
+成瘾性	iyx
 出洋相	iyx
 炒鱿鱼	iyy
 常用字	iyz
@@ -117968,6 +118000,7 @@ SD卡	sdk
 手机上	uju
 石家庄	ujv
 十进制	ujv
+数据线	ujx
 上进心	ujx
 世界性	ujx
 时刻表	ukb
@@ -120016,6 +120049,7 @@ Word	wrd
 自白书	zbu
 坐不住	zbv
 座标轴	zbv
+自闭症	zbv
 再不行	zbx
 座标系	zbx
 赞比亚	zby
