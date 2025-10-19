@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251018"
+version: "20251019"
 sort: by_weight
 columns:
   - text
@@ -7157,7 +7157,8 @@ Bilibili	bvj
 不予考慮	bykl
 不用客氣	bykq
 不要客氣	bykq
-畢業考試	byku
+冰窟	byku
+冰庫	byku
 邊緣科學	bykx
 冰塊	byky
 不亦快哉	bykz
@@ -7486,6 +7487,8 @@ Bilibili	bvj
 北伐	bzfa
 揹	bzfb
 備份	bzff
+悲憤	bzff
+輩份	bzff
 北風	bzfg
 北方	bzfh
 輩	bzfi
@@ -17435,6 +17438,7 @@ E盤	epj
 發射	faue
 法身	fauf
 發生	faug
+發聲	faug
 發誓	faui
 伐善	fauj
 發燒	fauk
@@ -18673,6 +18677,7 @@ E盤	epj
 放學	fhxt
 放血	fhxt
 放下	fhxw
+仿寫	fhxx
 發揮想象	fhxx
 放行	fhxy
 風花雪月	fhxy
@@ -18945,6 +18950,7 @@ E盤	epj
 分斤掰兩	fjbl
 反駁	fjbo
 封建把頭	fjbt
+反哺	fjbu
 帆布	fjbu
 附加保險	fjbx
 犯病	fjby
@@ -21426,6 +21432,7 @@ F盤	fpj
 溝壕	gbhk
 敢把皇帝拉下馬	gbhm
 篝火	gbho
+苟活	gbho
 勾魂	gbhp
 趕不回去	gbhq
 狗獾	gbhr
@@ -31104,6 +31111,7 @@ H盤	hpj
 賄	hvb
 徽標	hvbc
 回本	hvbf
+繪本	hvbf
 瘣	hvbg
 毀謗	hvbh
 回執編號	hvbh
@@ -33800,8 +33808,7 @@ H盤	hpj
 酲	igyi
 撐腰	igyk
 成因	igyn
-春光旖旎	igyn
-衝冠一怒	igyn
+成癮	igyn
 承運	igyp
 常規要求	igyq
 成員	igyr
@@ -34755,6 +34762,7 @@ H盤	hpj
 朝服	ikfu
 弨	ikg
 炒更	ikgg
+超綱	ikgh
 朝綱	ikgh
 炒肝	ikgj
 沉痾痼疾	ikgj
@@ -36320,6 +36328,7 @@ I盤	ipj
 畜生	iuug
 承受傷害	iuuh
 廚師	iuui
+初始	iuui
 出示	iuui
 出山	iuuj
 城市社區	iuuq
@@ -39968,6 +39977,8 @@ JK制服	jkvf
 揵	jmfj
 揃	jmfq
 肩負	jmfu
+減負	jmfu
+減幅	jmfu
 經貿發展	jmfv
 減肥	jmfz
 艱	jmg
@@ -40337,6 +40348,8 @@ JK制服	jkvf
 軍民一致	jmyv
 極目遠望	jmyw
 堅硬	jmyy
+剪映	jmyy
+剪影	jmyy
 譾	jmyy
 建	jmz
 間雜	jmza
@@ -43229,6 +43242,7 @@ JK制服	jkvf
 江心補漏	jxbl
 街邊	jxbm
 敬謝不敏	jxbm
+接駁	jxbo
 精心編排	jxbp
 酒香不怕巷子深	jxbu
 將心比心	jxbx
@@ -43690,6 +43704,8 @@ JK制服	jkvf
 借用	jxys
 盡顯英雄本色	jxys
 節約	jxyt
+借閱	jxyt
+解約	jxyt
 介於	jxyu
 金相玉質	jxyv
 九霄雲外	jxyw
@@ -46914,6 +46930,7 @@ JK制服	jkvf
 愧悔	kvhv
 葵花	kvhw
 空中花園	kvhy
+蝰	kvi
 窺察	kvia
 控制成本	kvib
 開張喫三年	kvin
@@ -50415,6 +50432,7 @@ JK制服	jkvf
 落山	louj
 螺栓	lour
 落水	louv
+裸睡	louv
 雒	lov
 羅莊	lovd
 落賬	lovh
@@ -54380,8 +54398,8 @@ JK制服	jkvf
 冒瀆	mkdu
 貓科動物	mkdw
 耄耋	mkdx
+錨定	mkdy
 鉚釘	mkdy
-滿口答應	mkdy
 卯	mke
 梅開二度	mked
 鄮	mkem
@@ -55452,6 +55470,7 @@ JK制服	jkvf
 磨削	moxt
 默許	moxu
 默寫	moxx
+摹寫	moxx
 模型	moxy
 謨	moy
 磨牙	moya
@@ -60328,7 +60347,7 @@ JK制服	jkvf
 牛仔很忙	nzhm
 內患	nzhr
 內訌	nzhs
-內畫	nzhw
+內化	nzhw
 內襯	nzif
 內臣	nzif
 內城	nzig
@@ -75031,6 +75050,7 @@ P站	pvj
 提拉	tila
 體療	tilc
 體諒	tild
+體量	tild
 踢了	tile
 體力	tili
 提籃	tilj
@@ -79415,6 +79435,7 @@ T恤衫	txuj
 守約	ubyt
 生搬硬套	ubyt
 授予	ubyu
+手語	ubyu
 身不由主	ubyv
 食不厭精，膾不厭細	ubyx
 首映	ubyy
@@ -81706,6 +81727,8 @@ T恤衫	txuj
 實現	uixm
 視線	uixm
 失信	uixn
+時薪	uixn
+實心	uixn
 師訓	uixp
 失修	uixq
 市場需求	uixq
@@ -97860,10 +97883,12 @@ WiFi	wifi
 喜感	xigj
 席	xigj
 細高	xigk
+洗稿	xigk
 膝蓋	xigl
 學成歸來	xigl
 洗過	xigo
 習慣	xigr
+吸管	xigr
 西貢	xigs
 溪谷	xigu
 硒鼓	xigu
@@ -101975,8 +102000,8 @@ WiFi	wifi
 欣欣自得	xxzd
 卸責	xxze
 學習作風	xxzf
-鞋子	xxzi
 寫字	xxzi
+鞋子	xxzi
 相信自己	xxzj
 學習總結	xxzj
 休息在家	xxzj
@@ -102854,6 +102879,8 @@ WiFi	wifi
 油鍋	ybgo
 一般過得去	ybgq
 有關	ybgr
+油管	ybgr
+攸關	ybgr
 有功	ybgs
 夜不歸宿	ybgs
 幽谷	ybgu
@@ -105277,6 +105304,7 @@ WiFi	wifi
 一色	yise
 遺傳算法	yisf
 意思	yisi
+疑似	yisi
 一掃	yisk
 義賽	yisl
 一所	yiso
@@ -112593,6 +112621,8 @@ WiFi	wifi
 增長勢頭	ziut
 崰	ziut
 字數	ziuu
+自述	ziuu
+紫薯	ziuu
 漬水	ziuv
 笫	ziv
 自證	zivg
@@ -114121,6 +114151,7 @@ WiFi	wifi
 遵守紀律	zujl
 走上絕路	zujl
 組建	zujm
+組件	zujm
 租金	zujn
 祖居	zuju
 在實踐中	zujv
@@ -116665,6 +116696,7 @@ Excel	eks
 副產物	fiw
 翻車魚	fiy
 方程組	fiz
+飛機場	fji
 風景區	fjq
 福建人	fjr
 福建省	fju
@@ -117969,6 +118001,7 @@ git	git
 超音速	iys
 倡議書	iyu
 創業者	iyv
+成癮性	iyx
 出洋相	iyx
 炒魷魚	iyy
 常用字	iyz
@@ -121093,6 +121126,7 @@ SD卡	sdk
 試金石	uju
 石家莊	ujv
 十進制	ujv
+數據線	ujx
 上進心	ujx
 世界性	ujx
 時刻表	ukb
@@ -123136,6 +123170,7 @@ Word	wrd
 自白書	zbu
 坐不住	zbv
 座標軸	zbv
+自閉症	zbv
 再不行	zbx
 座標系	zbx
 贊比亞	zby

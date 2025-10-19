@@ -50799,8 +50799,8 @@ use_preset_vocabulary: false
 𡉅	ga;tk	0
 𡉆	la;tk	0
 𡉇	ky;tr	0
-𡉈	cl;ft	0
-𡉈	cl;tf	0
+𡉈	zl;ft	0
+𡉈	zl;tf	0
 𡉉	qt;ta	0
 𡉊	ji;at	0
 𡉊	ji;tw	0
@@ -77443,6 +77443,7 @@ use_preset_vocabulary: false
 𦥹	yu;yu	0
 𦥺	yk;px	0
 𦥻	vv;ji	0
+𦥼	yk;ki	0
 𦥼	yk;ai	0
 𦥽	is;jy	0
 𦥽	is;wj	0
@@ -124411,3 +124412,5 @@ use_preset_vocabulary: false
 𫜻	dy;wd	0
 𮐼	ch;cg	0
 𮐼	zh;cg	0
+𮮡	yk;ky	0
+𮮡	yk;ay	0
