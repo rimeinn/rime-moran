@@ -1,5 +1,5 @@
 -- moran_pin.lua
--- version: 0.1.3
+-- version: 0.1.4
 -- author: kuroame
 -- license: GPLv3
 -- You may copy, distribute and modify the software as long as you track
@@ -8,6 +8,7 @@
 -- along with build & install instructions.
 
 -- changelog
+-- 0.1.4: fix the commit counter of the first pinned cand before rearrangement
 -- 0.1.3: use C-- and C-= (C-+) to reorder candidates
 -- 0.1.2: add freestyle mode, add switch to enable/disable pin
 -- 0.1.1: simple configuration
@@ -160,7 +161,7 @@ function user_db.toggle_pin_status(input, cand_text)
     local pinned_res = pin_db:query(input .. sep_t)
     if pinned_res ~= nil then
         local key = input .. sep_t .. cand_text
-        local max_commits = 0
+        local max_commits = -1
         for k, v in pinned_res:iter() do
             local unpacked = user_db.unpack_entry(k, v)
             if unpacked then
