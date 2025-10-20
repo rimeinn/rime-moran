@@ -1,5 +1,5 @@
 -- moran_pin.lua
--- version: 0.1.3
+-- version: 0.1.4
 -- author: kuroame
 -- license: GPLv3
 -- You may copy, distribute and modify the software as long as you track
@@ -8,6 +8,7 @@
 -- along with build & install instructions.
 
 -- changelog
+-- 0.1.4: make commit counter always start from 0
 -- 0.1.3: use C-- and C-= (C-+) to reorder candidates
 -- 0.1.2: add freestyle mode, add switch to enable/disable pin
 -- 0.1.1: simple configuration
@@ -160,14 +161,14 @@ function user_db.toggle_pin_status(input, cand_text)
     local pinned_res = pin_db:query(input .. sep_t)
     if pinned_res ~= nil then
         local key = input .. sep_t .. cand_text
-        local max_commits = 0
+        local max_commits = -1
         for k, v in pinned_res:iter() do
             local unpacked = user_db.unpack_entry(k, v)
             if unpacked then
                 -- found existing entry here
                 if key == k then
                     -- if it's an active one, set its commit counter to -1 to tombstone it
-                    if unpacked.commits > 0 then
+                    if unpacked.commits >= 0 then
                         user_db.tombstone(key)
                         -- good to leave now
                         return
