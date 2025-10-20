@@ -34,6 +34,12 @@ deploy:
         assert: eq(cand[1].text, "霖")
       - send: hodd
         assert: eq(cand[1].text, "火")
+      - send: N2000
+        assert: eq(cand[1].text, "2000年01月01日")
+      - send: U8888
+        assert: eq(cand[1].text, '袈')
+      - send: S114514
+        assert: eq(cand[1].text, '十一万四千五百一十四')
 
   emoji:
     options:
@@ -125,6 +131,10 @@ deploy:
         assert: eq(cand[1].text, '連接') and eq(cand[1].comment, "📌")
       - send: 'xad//xnraidg 2 xad'
         assert: eq(cand[1].text, '信愛等')
+      - send: 'a{Control+t}{Down}{Control+t}{Control+equal}'
+        assert: eq(cand[1].text, '啊') and eq(cand[2].text, '愛') and eq(cand[1].comment, "📌") and eq(cand[2].comment, "📌")
+      - send: 'ai{Control+t}{Down}{Control+t}{Down}{Control+minus}'
+        assert: eq(cand[1].text, '愛') and eq(cand[2].text, '唉') and eq(cand[1].comment, "📌") and eq(cand[2].comment, "📌")
 
   force_segmentation:
     tests:
