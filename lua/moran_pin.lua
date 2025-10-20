@@ -1,5 +1,5 @@
 -- moran_pin.lua
--- version: 0.1.2
+-- version: 0.1.3
 -- author: kuroame
 -- license: GPLv3
 -- You may copy, distribute and modify the software as long as you track
@@ -8,6 +8,7 @@
 -- along with build & install instructions.
 
 -- changelog
+-- 0.1.3: use C-- and C-= (C-+) to reorder candidates
 -- 0.1.2: add freestyle mode, add switch to enable/disable pin
 -- 0.1.1: simple configuration
 -- 0.1.0: init
@@ -67,6 +68,18 @@ function user_db.query_and_unpack(input)
         end
     end
     return iter()
+end
+
+function user_db.query_and_unpack_as_list(input)
+    local res = user_db.query_and_unpack(input)
+    if res == nil then
+        return {}
+    end
+    local ret = {}
+    for entry in res do
+        table.insert(ret, entry)
+    end
+    return ret
 end
 
 function user_db.timestamp_now()
@@ -255,12 +268,60 @@ function user_db.upsert(key, output_commits)
     pin_db:update(key, "c=" .. encoded_commit .. " d=0 t=1")
 end
 
+function user_db.upsert_many(entries)
+    local max_commit = #entries
+    for i = 1, max_commit do
+        local key = entries[i].code .. sep_t .. entries[i].phrase
+        user_db.upsert(key, max_commit - i)
+    end
+end
+
 function user_db.tombstone(key)
     user_db.upsert(key, -1)
 end
 
+-- | returns the index to the first element in @entries whose text is equal to @cand_text.
+function user_db.find(entries, input, cand_text)
+    for i = 1, #entries do
+        if entries[i].phrase == cand_text then
+            return i
+        end
+    end
+    return nil
+end
+
+-- | returns the new position of the moved pinned candidate, or nil if no pinned candidate is found
+function user_db.move_pin_up(input, cand_text)
+    local entries = user_db.query_and_unpack_as_list(input)
+    table.sort(entries, function(a, b) return a.commits > b.commits end)
+    local j = user_db.find(entries, input, cand_text)
+    if j == nil or j == 1 then
+        return nil
+    elseif j == 1 then
+        return j
+    end
+    entries[j-1], entries[j] = entries[j], entries[j-1]
+    user_db.upsert_many(entries)
+    return j-1
+end
+
+-- | returns the new position of the moved pinned candidate, or nil if no pinned candidate is found
+function user_db.move_pin_down(input, cand_text)
+    local entries = user_db.query_and_unpack_as_list(input)
+    table.sort(entries, function(a, b) return a.commits > b.commits end)
+    local j = user_db.find(entries, input, cand_text)
+    if j == nil then
+        return nil
+    elseif j == #entries then
+        return j
+    end
+    entries[j], entries[j+1] = entries[j+1], entries[j]
+    user_db.upsert_many(entries)
+    return j+1
+end
+
 -- pin_processor
--- 处理ctrl+t
+-- 处理ctrl+t, ctrl+-, ctrl+=, ctrl++
 local kAccepted = 1
 local kNoop = 2
 local pin_processor = {}
@@ -280,6 +341,12 @@ function pin_processor.fini(env)
     user_db.release()
 end
 
+-- Highlight the candidate at position @index.
+function pin_processor.highlight_index(env, index)
+    local comp = env.engine.context.composition
+    comp:back().selected_index = index
+end
+
 function pin_processor.func(key_event, env)
     if not env.pin_enable then
         return kNoop
@@ -288,27 +355,45 @@ function pin_processor.func(key_event, env)
     if not key_event:ctrl() or key_event:release() then
         return kNoop
     end
+
+    local context = env.engine.context
+    local input = context.input
+    local cand = context:get_selected_candidate()
+    if cand == nil then
+        return kNoop
+    end
+    local text = cand.text
+    -- 1) Special-case pure Chinese candidates: the text could be
+    -- output from OpenCC, so pin the genuine candidate instead to
+    -- preserve word frequency.
+    --
+    -- 2) If we know for sure this is a pinned candidate, always
+    -- retrieve the genuine candidate to correctly delete it.
+    if cand.type == 'pinned' or moran.str_is_chinese(text) then
+        text = cand:get_genuine().text
+    end
+
     -- + t
     if key_event.keycode == 0x74 then
-        local context = env.engine.context
-        local input = context.input
-        local cand = context:get_selected_candidate()
-        if cand == nil then
-            return kNoop
-        end
-        local text = cand.text
-        -- 1) Special-case pure Chinese candidates: the text could be
-        -- output from OpenCC, so pin the genuine candidate instead to
-        -- preserve word frequency.
-        --
-        -- 2) If we know for sure this is a pinned candidate, always
-        -- retrieve the genuine candidate to correctly delete it.
-        if cand.type == 'pinned' or moran.str_is_chinese(text) then
-            text = cand:get_genuine().text
-        end
         user_db.toggle_pin_status(input, text)
         context:refresh_non_confirmed_composition()
-        -- + a
+    -- + -, prioritize the current pinned candidate
+    elseif key_event.keycode == 0x2d then
+        -- If text is not from a pinned candidate, do nothing.
+        local idx = user_db.move_pin_up(input, text)
+        context:refresh_non_confirmed_composition()
+        if idx ~= nil then
+            pin_processor.highlight_index(env, idx-1)
+        end
+    -- + =, + +, deprioritize the current pinned candidate
+    elseif key_event.keycode == 0x3d or key_event.keycode == 0x2b then
+        -- If text is not from a pinned candidate, do nothing.
+        local idx = user_db.move_pin_down(input, text)
+        context:refresh_non_confirmed_composition()
+        if idx ~= nil then
+            pin_processor.highlight_index(env, idx-1)
+        end
+    -- + a
     elseif key_event.keycode == 0x61 then
         -- todo: add quick code
         return kNoop
