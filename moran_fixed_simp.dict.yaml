@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251019"
+version: "20251021"
 sort: original
 columns:
   - text
@@ -41818,6 +41818,7 @@ JK制服	jkvf
 戛纳	jwna
 加纳	jwna
 佳酿	jwnd
+佳能	jwng
 极为难看	jwnk
 就问你怕不怕	jwnp
 就问你气不气	jwnq

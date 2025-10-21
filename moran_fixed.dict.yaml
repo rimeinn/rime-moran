@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251019"
+version: "20251021"
 sort: by_weight
 columns:
   - text
@@ -43025,6 +43025,7 @@ JK制服	jkvf
 戛納	jwna
 加納	jwna
 佳釀	jwnd
+佳能	jwng
 犌	jwnj
 鴐	jwnj
 鵊	jwnj
