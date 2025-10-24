@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251021"
+version: "20251024"
 sort: by_weight
 columns:
   - text
@@ -8130,6 +8130,7 @@ Bilibili	bvj
 蹭	cgz
 曾在	cgzl
 藏	ch
+才會	ch
 賶	chb
 藏寶	chbk
 蒼白	chbl
@@ -23454,6 +23455,7 @@ F盤	fpj
 高大	gkda
 高調	gkdc
 搞得	gkde
+高德	gkde
 高等	gkdg
 高檔	gkdh
 高低	gkdi
@@ -36093,8 +36095,9 @@ I盤	ipj
 初二	iuer
 乘勢而上	iueu
 搐	iuf
-出發	iufa
+觸發	iufa
 處罰	iufa
+出發	iufa
 處分	iuff
 處事方法	iuff
 廚房	iufh
@@ -42409,10 +42412,10 @@ JK制服	jkvf
 局勢	juui
 精神失常	juui
 舉雙手雙腳支持	juui
+矩	juuj
 精神世界	juuj
 節省時間	juuj
 江山社稷	juuj
-矩	juuj
 岠	juuj
 崌	juuj
 鼳	juuj
@@ -43182,7 +43185,6 @@ JK制服	jkvf
 頰	jwy
 加壓	jwya
 加油	jwyb
-絕味鴨脖	jwyb
 舉無遺策	jwyc
 救亡運動	jwyd
 家業	jwye
@@ -99423,7 +99425,6 @@ WiFi	wifi
 新芽	xnya
 信友	xnyb
 信仰	xnyh
-小鳥遊六花	xnyh
 心意	xnyi
 心儀	xnyi
 心眼	xnyj
@@ -115710,6 +115711,7 @@ WiFi	wifi
 不嫌煩	bxf
 不習慣	bxg
 不相干	bxg
+不鏽鋼	bxg
 百香果	bxg
 不喜歡	bxh
 不像話	bxh
@@ -116183,7 +116185,7 @@ WiFi	wifi
 對立面	dlm
 地拉那	dln
 多了去	dlq
-打冷槍	dlq
+打籃球	dlq
 代理人	dlr
 大冷天	dlt
 大樂透	dlt
@@ -116372,6 +116374,7 @@ WiFi	wifi
 吊胃口	dwk
 都完了	dwl
 都忘了	dwl
+對我們	dwm
 電蚊拍	dwp
 電位器	dwq
 毒瓦斯	dws
@@ -116650,6 +116653,7 @@ Excel	eks
 凡爾賽	fes
 伏爾泰	fet
 防腐劑	ffj
+方法論	ffl
 分分鐘	ffv
 風滾草	fgc
 腹股溝	fgg
@@ -117146,7 +117150,9 @@ git	git
 乾女兒	gne
 歸納法	gnf
 高能耗	gnh
-姑娘家	gnj
+功能鍵	gnj
+功能機	gnj
+跟你講	gnj
 歸你了	gnl
 給你了	gnl
 姑奶奶	gnn
@@ -118445,7 +118451,6 @@ git	git
 鏡子裏	jzl
 君子蘭	jzl
 就怎麼	jzm
-江澤民	jzm
 間奏曲	jzq
 盡責任	jzr
 金字塔	jzt
@@ -119563,6 +119568,7 @@ Keynote	knt
 鬧饑荒	njh
 牛角尖	njj
 凝聚力	njl
+農家樂	njl
 南極圈	njq
 孃家人	njr
 那幾天	njt
@@ -119778,7 +119784,6 @@ Office	ofs
 PDF	pdf
 破大防	pdf
 平底鍋	pdg
-彭德懷	pdh
 判斷句	pdj
 跑掉了	pdl
 判斷力	pdl
@@ -123027,7 +123032,6 @@ Word	wrd
 一整天	yvt
 一整套	yvt
 摇着头	yvt
-易中天	yvt
 也只是	yvu
 一隻手	yvu
 一陣陣	yvv

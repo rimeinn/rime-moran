@@ -19257,7 +19257,6 @@
 瓧 wu
 瓨 gw
 瓨 wg
-瓩 wa
 瓩 wq
 瓪 wf
 瓫 wf
@@ -79840,7 +79839,7 @@
 𫜭 is
 𫜮 iy
 𫜯 ih
-𫜰 xi
+𫜰 ix
 𫜲 yl
 𫜳 gr
 𫜳 rg

@@ -1,10 +1,12 @@
 -- Moran Translator (for Express Editor)
 -- Copyright (c) 2023, 2024, 2025 ksqsf
 --
--- Ver: 0.9.0
+-- Ver: 0.10.1
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.10.1: 配合主方案變更的次要修改。
 --
 -- 0.10.0: 增加 inject_prioritize 支持。
 --
@@ -71,7 +73,7 @@ local kWord = 2
 
 function top.init(env)
    env.fixed = Component.Translator(env.engine, "", "table_translator@fixed")
-   env.smart = Component.Translator(env.engine, "", "script_translator@translator")
+   env.smart = Component.Translator(env.engine, "", "script_translator@smart")
    env.rfixed = ReverseLookup(env.engine.schema.config:get_string("fixed/dictionary") or "moran_fixed")
    env.quick_code_indicator = env.engine.schema.config:get_string("moran/quick_code_indicator") or "⚡️"
    if env.name_space == 'with_reorder' then
