@@ -1,5 +1,5 @@
 -- Moran Reorder Filter
--- Copyright (c) 2023, 2024 ksqsf
+-- Copyright (c) 2023, 2024, 2025 ksqsf
 --
 -- Ver: 0.2.1
 --
