@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251021"
+version: "20251024"
 sort: original
 columns:
   - text
@@ -7945,6 +7945,7 @@ B盘	bpj
 蹭	cgz
 曾在	cgzl
 藏	ch
+才会	ch
 藏宝	chbk
 苍白	chbl
 残花败柳	chbl
@@ -16364,12 +16365,15 @@ D盘	dpj
 二零一零	elyl
 恶劣影响	elyx
 耳聋眼瞎	elyx
+唔	em
 二门不迈	embm
 耳目闭塞	embs
 鹅毛大雪	emdx
 耳鸣耳聋	emel
 耳目喉舌	emhu
 噩梦降临	emjl
+呣	emk
+呒	emkw
 耳鸣目眩	emmx
 阿弥陀佛	emtf
 二码上屏	emup
@@ -22776,6 +22780,7 @@ F盘	fpj
 高大	gkda
 高调	gkdc
 搞得	gkde
+高德	gkde
 高等	gkdg
 高档	gkdh
 高低	gkdi
@@ -35075,8 +35080,9 @@ I盘	ipj
 初二	iuer
 乘势而上	iueu
 搐	iuf
-出发	iufa
+触发	iufa
 处罚	iufa
+出发	iufa
 处分	iuff
 处事方法	iuff
 厨房	iufh
@@ -41212,10 +41218,10 @@ JK制服	jkvf
 局势	juui
 精神失常	juui
 举双手双脚支持	juui
+矩	juuj
 精神世界	juuj
 节省时间	juuj
 江山社稷	juuj
-矩	juuj
 岠	juuj
 崌	juuj
 精神食粮	juul
@@ -41966,7 +41972,6 @@ JK制服	jkvf
 颊	jwy
 加压	jwya
 加油	jwyb
-绝味鸭脖	jwyb
 举无遗策	jwyc
 救亡运动	jwyd
 家业	jwye
@@ -96724,7 +96729,6 @@ U盘	upj
 新芽	xnya
 信友	xnyb
 信仰	xnyh
-小鸟游六花	xnyh
 心意	xnyi
 心仪	xnyi
 心眼	xnyj
@@ -112576,6 +112580,7 @@ U盘	upj
 不嫌烦	bxf
 不习惯	bxg
 不相干	bxg
+不锈钢	bxg
 百香果	bxg
 不喜欢	bxh
 不像话	bxh
@@ -113046,7 +113051,7 @@ U盘	upj
 对立面	dlm
 地拉那	dln
 多了去	dlq
-打冷枪	dlq
+打篮球	dlq
 代理人	dlr
 大冷天	dlt
 大乐透	dlt
@@ -113237,6 +113242,7 @@ U盘	upj
 吊胃口	dwk
 都忘了	dwl
 都完了	dwl
+对我们	dwm
 电蚊拍	dwp
 电位器	dwq
 毒瓦斯	dws
@@ -113517,6 +113523,7 @@ Excel	eks
 凡尔赛	fes
 伏尔泰	fet
 防腐剂	ffj
+方法论	ffl
 分分钟	ffv
 风滚草	fgc
 腹股沟	fgg
@@ -114013,7 +114020,9 @@ git	git
 干女儿	gne
 归纳法	gnf
 高能耗	gnh
-姑娘家	gnj
+功能键	gnj
+功能机	gnj
+跟你讲	gnj
 归你了	gnl
 给你了	gnl
 姑奶奶	gnn
@@ -115313,7 +115322,6 @@ git	git
 镜子里	jzl
 君子兰	jzl
 就怎么	jzm
-江泽民	jzm
 间奏曲	jzq
 尽责任	jzr
 金字塔	jzt
@@ -116434,6 +116442,7 @@ Keynote	knt
 闹饥荒	njh
 牛角尖	njj
 凝聚力	njl
+农家乐	njl
 南极圈	njq
 娘家人	njr
 那就算	njs
@@ -116653,7 +116662,6 @@ Office	ofs
 PDF	pdf
 破大防	pdf
 平底锅	pdg
-彭德怀	pdh
 判断句	pdj
 判断力	pdl
 潘多拉	pdl
@@ -119906,7 +119914,6 @@ Word	wrd
 一整天	yvt
 一整套	yvt
 摇着头	yvt
-易中天	yvt
 也只是	yvu
 一只手	yvu
 一阵阵	yvv
