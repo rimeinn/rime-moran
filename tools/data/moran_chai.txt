@@ -13341,7 +13341,7 @@
 戠	og	日戈	
 戠	yg	音戈	
 戡	gu	戈甚	
-戢	ge	戈二	
+戢	ge	戈耳	
 戢	gq	戈咠	
 戢	kg	口戈	
 戢	ad	丨丶	
@@ -19266,7 +19266,6 @@
 瓧	wu	瓦十	
 瓨	gw	工瓦	
 瓨	wg	瓦工	
-瓩	wa	瓦千	
 瓩	wq	瓦千	
 瓪	wf	瓦反	
 瓫	wf	瓦分	
@@ -79849,7 +79848,7 @@
 𫜭	is	齿所	auto
 𫜮	iy	齿彦	auto
 𫜯	ih	齿害	auto
-𫜰	xi	献齿	auto
+𫜰	ix	齿献	
 𫜲	yl	有龙	auto
 𫜳	gr	龟冉	auto
 𫜳	rg	冉龟	auto
