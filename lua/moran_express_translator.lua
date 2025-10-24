@@ -1,10 +1,15 @@
 -- Moran Translator (for Express Editor)
 -- Copyright (c) 2023, 2024, 2025 ksqsf
 --
--- Ver: 0.10.1
+-- Ver: 0.11.0
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.11.0: 引入 quick_code_in_sentence_making 配置項。
+-- 該配置項改進了魔然最初的一項設計（造詞時禁止輸出固定選項）以維持造詞能力，
+-- 但事實上配合 reorder_filter 可以取消這一限制。
+-- (輔篩模式此前的 fix/use_dict 已經實現該功能。)
 --
 -- 0.10.1: 配合主方案變更的次要修改。
 --
@@ -72,13 +77,23 @@ local kChar = 1
 local kWord = 2
 
 function top.init(env)
+   -- Rime 組件
    env.fixed = Component.Translator(env.engine, "", "table_translator@fixed")
    env.smart = Component.Translator(env.engine, "", "script_translator@smart")
    env.rfixed = ReverseLookup(env.engine.schema.config:get_string("fixed/dictionary") or "moran_fixed")
+
+   -- 簡快碼相關配置項
    env.quick_code_indicator = env.engine.schema.config:get_string("moran/quick_code_indicator") or "⚡️"
+   env.quick_code_in_sentence_making = env.engine.schema.config:get_bool("moran/quick_code_in_sentence_making") or true
    if env.name_space == 'with_reorder' then
+      -- `F 表示碼表輸出，會被 reorder_filter 重排
       env.quick_code_indicator = '`F'
+   else
+      -- 若不啓用 reorder_filter，則不允許造句時產生碼表輸出
+      env.quick_code_in_sentence_making = false
    end
+
+   -- 出簡讓全相關配置項
    env.ijrq_enable = env.engine.schema.config:get_bool("moran/ijrq/enable")
    env.ijrq_defer = env.engine.schema.config:get_int("moran/ijrq/defer") or env.engine.schema.config:get_int("menu/page_size") or 5
    env.ijrq_hint = env.engine.schema.config:get_bool("moran/ijrq/show_hint")
@@ -127,7 +142,8 @@ function top.func(input, seg, env)
    local indicator = env.quick_code_indicator
 
    -- 用戶尚未選過字時，調用碼表。
-   if (env.engine.context.input == input) then
+   local is_sentence_making = not (env.engine.context.input == input)
+   if not is_sentence_making or env.quick_code_in_sentence_making then
       local fixed_res = env.fixed:query(input, seg)
       -- 如果輸入長度爲 4，只輸出 2 字詞。
       if fixed_res ~= nil then
@@ -165,7 +181,13 @@ function top.func(input, seg, env)
             else
                -- 否則，什麼都不輸出。
             end
-         else
+         elseif input_len < 4 then          -- 非造句模式下，不使用
+            for cand in fixed_res:iter() do
+               if not is_sentence_making or utf8.len(cand.text) == 1 then
+                  top.output_from_fixed(env, cand)
+               end
+            end
+         elseif not is_sentence_making then  -- input_len > 4
             for cand in fixed_res:iter() do
                top.output_from_fixed(env, cand)
             end
