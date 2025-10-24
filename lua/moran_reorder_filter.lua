@@ -155,10 +155,6 @@ function Top.DoPhase1(env, fixed_list, smart_list, cand)
          local has_match = false
          for si = #smart_list, 1, -1 do
             local scand = smart_list[si]
-            if scand.text == fcand.text then
-               print('')
-               print('preedit = ' .. scand.preedit .. ' vs ' .. fcand.preedit)
-            end
             if Top.CandidateMatch(scand, fcand) then
                Top.YieldSmartInPlaceOfFixed(env, scand, fcand)
                table.remove(smart_list, si)
