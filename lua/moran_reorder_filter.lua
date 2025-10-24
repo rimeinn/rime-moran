@@ -1,10 +1,12 @@
 -- Moran Reorder Filter
 -- Copyright (c) 2023, 2024 ksqsf
 --
--- Ver: 0.2.0
+-- Ver: 0.2.1
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.2.1: 放寬匹配條件，允許帶輔的候選也被重排。
 --
 -- 0.2.0: 修復諸多問題。
 --
@@ -128,9 +130,8 @@ function Top.CandidateMatch(scand, fcand)
    -- example, only "qt" is translated by the script translator when
    -- the input is actually "qty".)
    return scand.text == fcand.text and
-      ((#scand.preedit == #fcand.preedit and scand.preedit == fcand.preedit)
-         -- Special-case two-char word
-         or (#scand.preedit == 5 and #fcand.preedit == 4 and (scand.preedit:sub(1,2) .. scand.preedit:sub(4,5)) == fcand.preedit))
+      ((#scand.preedit == #fcand.preedit and scand.preedit == fcand.preedit) or
+       (#scand.preedit == #fcand.preedit + 1 and scand.preedit:gsub('%s', '') == fcand.preedit))
 end
 
 local function reorderable(cand)
@@ -154,6 +155,10 @@ function Top.DoPhase1(env, fixed_list, smart_list, cand)
          local has_match = false
          for si = #smart_list, 1, -1 do
             local scand = smart_list[si]
+            if scand.text == fcand.text then
+               print('')
+               print('preedit = ' .. scand.preedit .. ' vs ' .. fcand.preedit)
+            end
             if Top.CandidateMatch(scand, fcand) then
                Top.YieldSmartInPlaceOfFixed(env, scand, fcand)
                table.remove(smart_list, si)

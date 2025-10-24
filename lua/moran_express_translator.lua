@@ -181,13 +181,13 @@ function top.func(input, seg, env)
             else
                -- 否則，什麼都不輸出。
             end
-         elseif input_len < 4 then          -- 非造句模式下，不使用
+         elseif input_len < 4 then          -- 造句模式下，只使用固定單字（詞語無法固定）
             for cand in fixed_res:iter() do
                if not is_sentence_making or utf8.len(cand.text) == 1 then
                   top.output_from_fixed(env, cand)
                end
             end
-         elseif not is_sentence_making then  -- input_len > 4
+         elseif not is_sentence_making then  -- input_len > 4，輸出所有
             for cand in fixed_res:iter() do
                top.output_from_fixed(env, cand)
             end
@@ -318,8 +318,10 @@ function top.func(input, seg, env)
    -- 最后：如果 smart 輸出爲空，並且 fixed 之前沒有調用過，此時再嘗試調用一下
    if env.output_i == 0 then
       for cand in moran.query_translation(env.fixed, input, seg, nil) do
-         cand.comment = indicator
-         yield(cand)
+         if not is_sentence_making or utf8.len(cand.text) == 1 then
+            cand.comment = indicator
+            yield(cand)
+         end
       end
    end
 end
