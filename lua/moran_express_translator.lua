@@ -84,7 +84,7 @@ function top.init(env)
 
    -- 簡快碼相關配置項
    env.quick_code_indicator = env.engine.schema.config:get_string("moran/quick_code_indicator") or "⚡️"
-   env.quick_code_in_sentence_making = env.engine.schema.config:get_bool("moran/quick_code_in_sentence_making") or true
+   env.quick_code_in_sentence_making = moran.get_config_bool(env, "moran/quick_code_in_sentence_making", true)
    if env.name_space == 'with_reorder' then
       -- `F 表示碼表輸出，會被 reorder_filter 重排
       env.quick_code_indicator = '`F'
