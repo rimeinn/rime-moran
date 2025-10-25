@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251024"
+version: "20251025"
 sort: by_weight
 columns:
   - text
@@ -3198,6 +3198,8 @@ AVL樹	avlu
 閉嘴	bizv
 本初子午線	bizx
 半	bj
+比較	bj
+背景	bj
 辦案	bjan
 保潔阿姨	bjay
 瘢	bjbb
@@ -10422,6 +10424,7 @@ C盤	cpj
 墶	dat
 打他	data
 大頭	datb
+打透	datb
 大堂	dath
 答題	dati
 大體	dati
@@ -11052,6 +11055,7 @@ C盤	cpj
 調序	dcxu
 掉下	dcxw
 凋謝	dcxx
+調性	dcxy
 大材小用	dcxy
 大才小用	dcxy
 調	dcy
@@ -15110,6 +15114,7 @@ D盤	dpj
 毒辣	dula
 髑髏	dulb
 肚量	duld
+度量	duld
 讀了	dule
 獨立	duli
 獨攬	dulj
@@ -16338,8 +16343,8 @@ D盤	dpj
 大有希望	dyxw
 釘鞋	dyxx
 的影響下	dyxx
+定性	dyxy
 定型	dyxy
-電影學院	dyxy
 大約需要	dyxy
 頂	dyy
 頂芽	dyya
@@ -18041,6 +18046,7 @@ E盤	epj
 非法生意	ffuy
 泛泛之輩	ffvb
 非分之財	ffvc
+分裝	ffvd
 粉狀	ffvd
 分針	ffvf
 紛爭	ffvg
@@ -20378,6 +20384,7 @@ F盤	fpj
 復原	fuyr
 幅員	fuyr
 服用	fuys
+復用	fuys
 赴約	fuyt
 賦予	fuyu
 富裕	fuyu
@@ -25989,6 +25996,7 @@ G盤	gpj
 鱖	gvyj
 公衆輿論	gvyl
 歸隱	gvyn
+歸因	gvyn
 桂圓	gvyr
 櫃員	gvyr
 各種因素	gvys
@@ -27660,6 +27668,7 @@ G盤	gpj
 何苦	heku
 劾	hel
 合理	heli
+合力	heli
 荷蘭	helj
 何來	hell
 賀聯	helm
@@ -31751,6 +31760,7 @@ H盤	hpj
 毫無生氣	hwuq
 毫無勝算	hwus
 花束	hwuu
+話術	hwuu
 划水	hwuv
 滑水	hwuv
 話未說完	hwuw
@@ -35017,7 +35027,7 @@ H盤	hpj
 車力巨人	iljr
 茶樓酒肆	iljs
 查理九世	ilju
-拆借	iljx
+拆解	iljx
 乘龍佳婿	iljx
 喍	ilk
 囆	ilki
@@ -44192,7 +44202,7 @@ JK制服	jkvf
 鏡像	jyxd
 加以修改	jyxg
 驚喜	jyxi
-記憶消除	jyxi
+精細	jyxi
 憬	jyxj
 教育學家	jyxj
 九曜星君	jyxj
@@ -47551,6 +47561,7 @@ JK制服	jkvf
 拉套	latk
 拉抬	latl
 蠟臺	latl
+拉通	lats
 兩岸統一	laty
 砬	lau
 拉手	laub
@@ -89737,6 +89748,7 @@ U盤	upj
 重頭	vstb
 鐘頭	vstb
 中堂	vsth
+中臺	vstl
 種田	vstm
 中天	vstm
 重託	vsto
@@ -99302,6 +99314,7 @@ WiFi	wifi
 新郎	xnlh
 心裏	xnli
 心理	xnli
+心力	xnli
 辛勞	xnlk
 信賴	xnll
 仙女落淚	xnll
@@ -116231,6 +116244,7 @@ WiFi	wifi
 的旁邊	dpb
 大排檔	dpd
 電瓶車	dpi
+短平快	dpk
 得票率	dpl
 大屏幕	dpm
 肚皮舞	dpw
@@ -116404,6 +116418,7 @@ WiFi	wifi
 掉下來	dxl
 大熊貓	dxm
 刀削麪	dxm
+點線面	dxm
 掉下去	dxq
 單相思	dxs
 大學生	dxu

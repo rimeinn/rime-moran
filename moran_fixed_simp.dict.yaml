@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251024"
+version: "20251025"
 sort: original
 columns:
   - text
@@ -3103,6 +3103,7 @@ AVL树	avlu
 避	bizx
 半	bj
 比较	bj
+背景	bj
 办案	bjan
 保洁阿姨	bjay
 瘢	bjbb
@@ -10127,6 +10128,7 @@ C语言	cyy
 垯	dat
 打他	data
 大头	datb
+打透	datb
 垯	datd
 大堂	dath
 答题	dati
@@ -10737,6 +10739,7 @@ C语言	cyy
 调序	dcxu
 掉下	dcxw
 凋谢	dcxx
+调性	dcxy
 大材小用	dcxy
 大才小用	dcxy
 调	dcy
@@ -14678,6 +14681,7 @@ D盘	dpj
 毒辣	dula
 髑髅	dulb
 肚量	duld
+度量	duld
 读了	dule
 独立	duli
 独揽	dulj
@@ -15863,8 +15867,8 @@ D盘	dpj
 大有希望	dyxw
 钉鞋	dyxx
 的影响下	dyxx
+定性	dyxy
 定型	dyxy
-电影学院	dyxy
 大约需要	dyxy
 顶	dyy
 顶芽	dyya
@@ -17501,6 +17505,7 @@ E盘	epj
 非法生意	ffuy
 泛泛之辈	ffvb
 非分之财	ffvc
+分装	ffvd
 粉状	ffvd
 分针	ffvf
 纷争	ffvg
@@ -19772,6 +19777,7 @@ F盘	fpj
 复原	fuyr
 幅员	fuyr
 服用	fuys
+复用	fuys
 赴约	fuyt
 赋予	fuyu
 富裕	fuyu
@@ -25248,6 +25254,7 @@ G盘	gpj
 鳜	gvyj
 公众舆论	gvyl
 归隐	gvyn
+归因	gvyn
 鳜	gvyq
 桂圆	gvyr
 柜员	gvyr
@@ -26900,6 +26907,7 @@ G盘	gpj
 吓	hekx
 劾	hel
 合理	heli
+合力	heli
 荷兰	helj
 何来	hell
 贺联	helm
@@ -30847,6 +30855,7 @@ H盘	hpj
 毫无生气	hwuq
 毫无胜算	hwus
 花束	hwuu
+话术	hwuu
 划水	hwuv
 滑水	hwuv
 话未说完	hwuw
@@ -34029,7 +34038,7 @@ H盘	hpj
 车力巨人	iljr
 茶楼酒肆	iljs
 查理九世	ilju
-拆借	iljx
+拆解	iljx
 乘龙佳婿	iljx
 拆开	ilkl
 出了口气	ilkq
@@ -42931,7 +42940,7 @@ JK制服	jkvf
 径	jyxg
 加以修改	jyxg
 惊喜	jyxi
-记忆消除	jyxi
+精细	jyxi
 憬	jyxj
 教育学家	jyxj
 九曜星君	jyxj
@@ -46216,6 +46225,7 @@ JK制服	jkvf
 拉套	latk
 拉抬	latl
 蜡台	latl
+拉通	lats
 两岸统一	laty
 砬	lau
 拉手	laub
@@ -87339,6 +87349,7 @@ U盘	upj
 重头	vstb
 钟头	vstb
 中堂	vsth
+中台	vstl
 种田	vstm
 中天	vstm
 重托	vsto
@@ -96604,6 +96615,7 @@ U盘	upj
 新浪	xnlh
 心里	xnli
 心理	xnli
+心力	xnli
 辛劳	xnlk
 信赖	xnll
 仙女落泪	xnll
@@ -113097,6 +113109,7 @@ U盘	upj
 的旁边	dpb
 大排档	dpd
 电瓶车	dpi
+短平快	dpk
 得票率	dpl
 大屏幕	dpm
 肚皮舞	dpw
@@ -113272,6 +113285,7 @@ U盘	upj
 掉下来	dxl
 大熊猫	dxm
 刀削面	dxm
+点线面	dxm
 掉下去	dxq
 单相思	dxs
 大学生	dxu
