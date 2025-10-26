@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251025"
+version: "20251026"
 sort: original
 columns:
   - text
@@ -7388,8 +7388,8 @@ B盘	bpj
 卑贱	bzjm
 悲剧	bzju
 倍加	bzjw
-背景	bzjy
 北京	bzjy
+背景	bzjy
 呗	bzk
 被扣	bzkb
 哱	bzkb
@@ -106414,7 +106414,6 @@ U盘	upj
 有啥区别	yuqb
 以示清白	yuqb
 野兽前辈	yuqb
-原神启动	yuqd
 饮食清淡	yuqd
 已识乾坤大	yuqd
 预期	yuqi
@@ -113456,6 +113455,7 @@ Excel	eks
 二世祖	euz
 二傻子	euz
 二指禅	evi
+二周目	evm
 耳坠子	evz
 额外的	ewd
 二维码	ewm
@@ -119922,6 +119922,7 @@ Word	wrd
 圆周率	yvl
 硬着陆	yvl
 验证码	yvm
+一周目	yvm
 异装癖	yvp
 意中人	yvr
 宇宙人	yvr
