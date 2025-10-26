@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251025"
+version: "20251026"
 sort: by_weight
 columns:
   - text
@@ -109454,7 +109454,6 @@ WiFi	wifi
 有啥區別	yuqb
 以示清白	yuqb
 野獸前輩	yuqb
-原神啓動	yuqd
 飲食清淡	yuqd
 已識乾坤大	yuqd
 預期	yuqi
@@ -116587,6 +116586,7 @@ Excel	eks
 二世祖	euz
 二傻子	euz
 二指禪	evi
+二週目	evm
 耳墜子	evz
 額外的	ewd
 二維碼	ewm
@@ -123041,6 +123041,7 @@ Word	wrd
 圓周率	yvl
 硬着陸	yvl
 驗證碼	yvm
+一週目	yvm
 異裝癖	yvp
 意中人	yvr
 宇宙人	yvr
