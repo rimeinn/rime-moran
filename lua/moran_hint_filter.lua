@@ -1,10 +1,12 @@
 -- Moran Translator (for Express Editor)
 -- Copyright (c) 2023, 2024, 2025 ksqsf
 --
--- Ver: 0.1.0
+-- Ver: 0.2.0
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.2.0: 若開啓 inject_fixed_words ，則提示長詞
 --
 -- 0.1.0: 合併原 moran_aux_hint 和 moran_quick_code_hint
 --
@@ -34,6 +36,10 @@ function Module.init(env)
       env.quick_code_hint_reverse = nil
    end
    env.quick_code_indicator = env.engine.schema.config:get_string("moran/quick_code_indicator") or "⚡"
+
+   -- 若開啓 inject_fixed_words，則可以提示長詞（>=3）
+   env.inject_fixed_words = env.engine.schema.config:get_bool("moran/inject_fixed_words") or false
+   -- NOTE: 暫不提示二字詞
 end
 
 function Module.fini(env)
@@ -86,7 +92,8 @@ function Module.get_quickcode_hint(env, cand, gcand)
       return nil
    end
    local text = gcand.text
-   if utf8.len(text) == 1 and env.quick_code_hint_skip_chars then
+   local len = utf8.len(text)
+   if len == 1 and env.quick_code_hint_skip_chars then
       return nil
    end
    local all_codes = env.quick_code_hint_reverse:lookup(text)
@@ -96,7 +103,7 @@ function Module.get_quickcode_hint(env, cand, gcand)
    local in_use = false
    local codes = {}
    for code in all_codes:gmatch("%S+") do
-      if #code < 4 then
+      if #code < 4 or (env.inject_fixed_words and len >= 3) then
          if code == cand.preedit then
             in_use = true
          else

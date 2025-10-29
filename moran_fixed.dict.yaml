@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251026"
+version: "20251029"
 sort: by_weight
 columns:
   - text
@@ -6186,8 +6186,8 @@ B盤	bpj
 白首之盟	buvm
 八十週年	buvn
 捕捉	buvo
+不准	buvp
 不準	buvp
-不受支配	buvp
 畢生追求	buvq
 飽食終日	buvr
 補種	buvs
@@ -31751,6 +31751,9 @@ H盤	hpj
 花生	hwug
 畫上	hwuh
 化石	hwui
+花式	hwui
+画师	hwui
+画室	hwui
 華山	hwuj
 花哨	hwuk
 和我說了	hwul
@@ -33773,6 +33776,8 @@ H盤	hpj
 蟾宮折桂	igvg
 成長	igvh
 誠摯	igvi
+橙汁	igvi
+懲治	igvi
 誠招	igvk
 成功之路	igvl
 承轉	igvr
@@ -41485,6 +41490,7 @@ JK制服	jkvf
 既然這樣	jrvy
 驚人之語	jrvy
 琄	jrw
+蒟蒻問答	jrwd
 卷王	jrwh
 近日無仇	jrwi
 金融危機	jrwj
@@ -44043,6 +44049,8 @@ JK制服	jkvf
 京派	jypl
 鏡片	jypm
 精品	jypn
+競品	jypn
+競聘	jypn
 景頗	jypo
 假一賠三	jypo
 假一賠三	jyps
@@ -48356,7 +48364,6 @@ JK制服	jkvf
 浪費青春	lfqi
 戀父情結	lfqj
 兩份	lfr
-洛夫斯基	lfsj
 了凡四訓	lfsx
 浪費時間	lfuj
 浪費生命	lfum
@@ -56790,7 +56797,6 @@ JK制服	jkvf
 沒有看錯的話	mykh
 沒有看出	myki
 沒有看見	mykj
-馬雅可夫斯基	mykj
 蔓延開來	mykl
 沒有可能	mykn
 沒有困難	mykn
@@ -63664,6 +63670,7 @@ P站	pvj
 情不自已	qbzy
 區別在於	qbzy
 敲	qc
+其次	qc
 峭拔	qcba
 撬棒	qcbh
 峭壁	qcbi
@@ -75997,7 +76004,6 @@ P站	pvj
 泰拉瑞亞	tlry
 徒亂人意	tlry
 台	tls
-托洛斯基	tlsj
 泰勒斯威夫特	tlst
 太歲	tlsv
 抬頭	tltb
@@ -81650,6 +81656,7 @@ T恤衫	txuj
 埶	uitw
 市場體系	uitx
 視聽	uity
+試聽	uity
 市場調研	uity
 蝕	uiu
 士	uiua
@@ -81733,6 +81740,7 @@ T恤衫	txuj
 市委	uiwz
 恃	uix
 失效	uixc
+時效	uixc
 事項	uixd
 上傳下達	uixd
 忕	uixd
@@ -85791,7 +85799,6 @@ U盤	upj
 這不是個辦法	vbsf
 真不是個	vbsg
 週四	vbsi
-這不是去幼兒園的車	vbsi
 週三	vbsj
 中飽私囊	vbsn
 真不是人	vbsr
@@ -100700,8 +100707,8 @@ WiFi	wifi
 銷售合同	xuht
 斜升函數	xuhu
 學生會長	xuhv
+虛化	xuhw
 敘話	xuhw
-相識恨晚	xuhw
 煦	xuhx
 學生會主席	xuhx
 稰	xuhx
@@ -109438,6 +109445,7 @@ WiFi	wifi
 一生平安	yupa
 魚漂	yupc
 浴盆	yupf
+彧	yuph
 雨披	yupi
 預判	yupj
 一審判決	yupj
@@ -111242,7 +111250,7 @@ WiFi	wifi
 音樂製作	yyvz
 有一陣子	yyvz
 語音轉文字	yyvz
-嬴	yyw
+瑛	yyw
 引以爲傲	yywa
 一眼望不到邊	yywb
 一言爲定	yywd
@@ -113193,7 +113201,6 @@ WiFi	wifi
 載入	zlru
 縡	zls
 再三	zlsj
-澤連斯基	zlsj
 甾	zlt
 載體	zlti
 在逃	zltk
@@ -115085,6 +115092,8 @@ WiFi	wifi
 總在最前	zzzq
 自作自受	zzzu
 自自在在	zzzz
+彧	yuph
+蒟蒻問答	jrwd
 
 啊啊啊	aaa
 愛不愛	aba
@@ -116389,6 +116398,7 @@ WiFi	wifi
 都忘了	dwl
 對我們	dwm
 電蚊拍	dwp
+大灣區	dwq
 電位器	dwq
 毒瓦斯	dws
 等問題	dwt
@@ -116703,6 +116713,9 @@ Excel	eks
 非常冷	fil
 範疇論	fil
 非常慢	fim
+非常忙	fim
+防沉迷	fim
+反差萌	fim
 非常難	fin
 副產品	fip
 非常強	fiq
