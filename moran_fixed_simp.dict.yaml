@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251026"
+version: "20251029"
 sort: original
 columns:
   - text
@@ -6046,7 +6046,6 @@ B盘	bpj
 八十周年	buvn
 捕捉	buvo
 不准	buvp
-不受支配	buvp
 毕生追求	buvq
 饱食终日	buvr
 补种	buvs
@@ -30846,6 +30845,9 @@ H盘	hpj
 花生	hwug
 画上	hwuh
 化石	hwui
+花式	hwui
+画师	hwui
+画室	hwui
 华山	hwuj
 花哨	hwuk
 和我说了	hwul
@@ -32830,6 +32832,8 @@ H盘	hpj
 蟾宫折桂	igvg
 成长	igvh
 诚挚	igvi
+橙汁	igvi
+惩治	igvi
 诚招	igvk
 成功之路	igvl
 承转	igvr
@@ -42780,6 +42784,8 @@ JK制服	jkvf
 京派	jypl
 镜片	jypm
 精品	jypn
+竞品	jypn
+竞聘	jypn
 景颇	jypo
 假一赔三	jypo
 假一赔三	jyps
@@ -47000,7 +47006,6 @@ JK制服	jkvf
 浪费青春	lfqi
 恋父情结	lfqj
 两份	lfr
-洛夫斯基	lfsj
 浪费时间	lfsj
 了凡四训	lfsx
 浪费时间	lfuj
@@ -55206,7 +55211,6 @@ JK制服	jkvf
 没有看错的话	mykh
 没有看出	myki
 没有看见	mykj
-马雅可夫斯基	mykj
 蔓延开来	mykl
 没有可能	mykn
 没有困难	mykn
@@ -61869,6 +61873,7 @@ P站	pvj
 情不自已	qbzy
 区别在于	qbzy
 敲	qc
+其次	qc
 峭拔	qcba
 撬棒	qcbh
 峭壁	qcbi
@@ -73900,7 +73905,6 @@ P站	pvj
 徒乱人意	tlry
 台	tls
 炱	tlsh
-托洛斯基	tlsj
 停留时间	tlsj
 泰勒斯威夫特	tlst
 太岁	tlsv
@@ -79452,6 +79456,7 @@ T恤衫	txuj
 师徒	uitu
 市场体系	uitx
 视听	uity
+试听	uity
 市场调研	uity
 蚀	uiu
 失手	uiub
@@ -79530,6 +79535,7 @@ T恤衫	txuj
 市委	uiwz
 恃	uix
 失效	uixc
+时效	uixc
 事项	uixd
 上传下达	uixd
 输出信号	uixh
@@ -97968,8 +97974,8 @@ U盘	upj
 销售合同	xuht
 斜升函数	xuhu
 学生会长	xuhv
+虚化	xuhw
 叙话	xuhw
-相识恨晚	xuhw
 煦	xuhx
 学生会主席	xuhx
 学术会议	xuhy
@@ -108166,7 +108172,7 @@ U盘	upj
 音乐制作	yyvz
 有一阵子	yyvz
 语音转文字	yyvz
-赢	yyw
+瑛	yyw
 引以为傲	yywa
 一眼望不到边	yywb
 一言为定	yywd
@@ -110077,7 +110083,6 @@ U盘	upj
 再让	zlrh
 载入	zlru
 再三	zlsj
-泽连斯基	zlsj
 甾	zlt
 载体	zlti
 在逃	zltk
@@ -111945,6 +111950,8 @@ U盘	upj
 总在最前	zzzq
 自作自受	zzzu
 自自在在	zzzz
+彧	yuph
+蒟蒻问答	jrwd
 
 # 特殊单字
 味	wk
@@ -113258,6 +113265,7 @@ U盘	upj
 都完了	dwl
 对我们	dwm
 电蚊拍	dwp
+大湾区	dwq
 电位器	dwq
 毒瓦斯	dws
 等问题	dwt
@@ -113574,6 +113582,9 @@ Excel	eks
 非常冷	fil
 范畴论	fil
 非常慢	fim
+非常忙	fim
+防沉迷	fim
+反差萌	fim
 非常难	fin
 副产品	fip
 非常强	fiq
@@ -117432,8 +117443,8 @@ SD卡	sdk
 什么梗	smg
 什么话	smh
 赛马场	smi
-萨满教	smj
 什么叫	smj
+萨满教	smj
 索马里	sml
 宿命论	sml
 色眯眯	smm
@@ -118475,13 +118486,13 @@ SD卡	sdk
 这么惨	vmc
 捉迷藏	vmc
 这么菜	vmc
+这么的	vmd
+这么点	vmd
 这么多	vmd
 这么大	vmd
 知名度	vmd
 殖民地	vmd
 专卖店	vmd
-这么的	vmd
-这么点	vmd
 照面儿	vme
 找麻烦	vmf
 这么贵	vmg
