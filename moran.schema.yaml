@@ -232,6 +232,7 @@ std_dzing:
   tags: [abc]
 
 reverse_format:
+  target: smart
   comment_format:
     - xform/(\w\w);(\w\w)/$1[$2]/
   preedit_format:

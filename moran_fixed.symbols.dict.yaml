@@ -11,7 +11,7 @@
 
 ---
 name: moran_fixed
-version: "20250724"
+version: "20251029"
 sort: original
 columns:
   - text
@@ -592,6 +592,7 @@ F2	ofer
 ·	ofj
 ．	ofjd
 ·	ofjd
+・	ofjd
 。	ofjh
 F9	ofjq
 　	ofk
@@ -1665,6 +1666,7 @@ F11	ofyy
 ╨	ovcz
 ╩	ovcz
 ·	ovd
+・	ovd
 ╪	ovd
 ╫	ovd
 ╬	ovd
@@ -1820,7 +1822,9 @@ F11	ofyy
 ╙	ovxz
 ╚	ovxz
 ·	ovy
+・	ovy
 ·	ovyd
+・	ovyd
 ║	ovz
 ║	ovzz
 ？	ow

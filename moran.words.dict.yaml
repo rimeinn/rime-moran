@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20251018"
+version: "20251029"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -3518,7 +3518,6 @@ columns:
 暴恐	1
 晓之以理	1
 晓岚	1
-曱甴	10000	ga;aa za;aa
 曲种	1
 曲线救国	1
 曲里八拐	1
