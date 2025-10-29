@@ -20,6 +20,8 @@ deploy:
         assert: cand[1].text == "啊" and eq(cand[1].comment, "📌 ¦ 💥a")
       - send: yyteer
         assert: cand[1].text == "英特爾" and eq(cand[1].comment, "💥yte")
+      - send: sjxneryi
+        assert: cand[1].text == '三心二意' and eq(cand[1].comment, "💥sxey")
   # 只有簡快碼提示，關閉簡快碼提示符的情形
   qchint-indicator:
     patch:
@@ -32,6 +34,8 @@ deploy:
         assert: cand[1].text == "啊" and eq(cand[1].comment, "📌 ¦ a")
       - send: yyteer
         assert: cand[1].text == "英特爾" and eq(cand[1].comment, "yte")
+      - send: sjxneryi
+        assert: cand[1].text == "三心二意" and eq(cand[1].comment, "sxey")
 
   # 只有輔助碼提示
   auxhint:
@@ -45,6 +49,8 @@ deploy:
         assert: cand[1].text == "啊" and eq(cand[1].comment, "📌 ¦ ka")
       - send: yyteer
         assert: cand[1].text == "英特爾" and eq(cand[1].comment, "")
+      - send: sjxneryi
+        assert: cand[1].text == "三心二意" and eq(cand[1].comment, "")
   # 只有輔助碼提示，關閉簡快碼提示符的情形
   auxhint-indicator:
     patch:
@@ -57,6 +63,8 @@ deploy:
         assert: cand[1].text == "啊" and eq(cand[1].comment, "📌 ¦ ka")
       - send: yyteer
         assert: cand[1].text == "英特爾" and eq(cand[1].comment, "")
+      - send: sjxneryi
+        assert: cand[1].text == "三心二意" and eq(cand[1].comment, "")
   # 只有輔助碼提示，開啓詞輔的情形
   auxhint+wordfilter:
     patch:
