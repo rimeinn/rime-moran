@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20251029"
+version: "20251031"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9223,6 +9223,7 @@ columns:
 多重詭計
 身份置換
 分飾身份
+樂不思	100
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0
