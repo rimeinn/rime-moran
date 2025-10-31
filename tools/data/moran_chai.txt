@@ -6959,7 +6959,7 @@
 与	aa	一一	
 丏	ag	一㇉	
 丐	ag	一㇉	
-丑	aa	一丨	
+丑	aa	乛丨	
 丑	at	乛土	
 丑	vt	乛土	
 丒	ar	一刃	
@@ -30929,7 +30929,7 @@
 驩	mv	馬隹	
 驪	ml	馬麗	
 驫	mm	馬馬	
-马	aa	一一	
+马	aa	乛一	
 马	vh	乛一	
 驭	my	马又	
 驮	md	马大	
@@ -32962,7 +32962,8 @@
 𠄲	wd	五电	auto
 𠄴	yf	云弗	auto
 𠄵	aa	一一	auto
-𠄷	ea	二亅	auto
+𠄷	ka	口一	
+𠄷	ea	二亅	
 𠄸	aa	一一	
 𠄹	aa	一一	auto
 𠄽	ep	二排	auto
