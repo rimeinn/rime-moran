@@ -28588,12 +28588,10 @@ use_preset_vocabulary: false
 瞽	gu;og	561
 瞾	vk;ko	425
 瞾	vk;ok	425
-瞿	ju;vo	0
 瞿	ju;ov	0
-瞿	ju;vm	0
-瞿	qu;vo	934
+瞿	ju;vo	0
 瞿	qu;ov	934
-瞿	qu;vm	934
+瞿	qu;vo	934
 矀	wz;ow	234
 矁	ib;oi	364
 矁	qq;oi	364
@@ -33789,9 +33787,9 @@ use_preset_vocabulary: false
 萙	vf;cv	0
 萚	to;cz	0
 萛	jq;cc	295
-萛	jq;cm	295
+萛	jq;co	295
 萛	sr;cc	295
-萛	sr;cm	295
+萛	sr;co	295
 萜	tx;ct	621
 萝	lo;cl	0
 萞	bi;cb	0
@@ -62465,7 +62463,7 @@ use_preset_vocabulary: false
 𣗩	ia;ml	0
 𣗪	ia;mi	0
 𣗬	qq;mi	0
-𣗭	yu;ma	0
+𣗭	yt;ma	0
 𣗲	gj;mg	0
 𣗲	gj;qm	0
 𣗳	uu;mc	0
@@ -63700,7 +63698,6 @@ use_preset_vocabulary: false
 𣦤	vg;dv	0
 𣦥	qi;vy	0
 𣦦	gv;so	0
-𣦦	gv;sm	0
 𣦧	vv;si	0
 𣦨	gv;pl	0
 𣦨	gv;vl	0
@@ -70827,7 +70824,7 @@ use_preset_vocabulary: false
 𥇡	yi;sg	0
 𥇡	ze;sg	0
 𥇢	vj;ov	0
-𥇤	jx;mj	0
+𥇤	jx;oj	0
 𥇤	jx;of	0
 𥇥	jm;ok	0
 𥇦	xi;ox	0
@@ -100481,7 +100478,7 @@ use_preset_vocabulary: false
 𫡹	jq;aa	0
 𫡹	jq;ea	0
 𫡺	sv;wu	0
-𫡼	ck;mm	0
+𫡼	ck;wo	0
 𫡼	ck;mo	0
 𫡿	by;wm	0
 𫡿	ln;wm	0
