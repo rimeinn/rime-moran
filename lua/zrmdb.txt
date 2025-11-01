@@ -20165,9 +20165,8 @@
 瞽 og
 瞾 ko
 瞾 ok
-瞿 vo
 瞿 ov
-瞿 vm
+瞿 vo
 矀 ow
 矁 oi
 矂 oz
@@ -24019,7 +24018,7 @@
 萙 cv
 萚 cz
 萛 cc
-萛 cm
+萛 co
 萜 ct
 萝 cl
 萞 cb
@@ -48443,7 +48442,6 @@
 𣦤 dv
 𣦥 vy
 𣦦 so
-𣦦 sm
 𣦧 si
 𣦨 pl
 𣦨 vl
@@ -54526,7 +54524,7 @@
 𥇠 wo
 𥇡 sg
 𥇢 ov
-𥇤 mj
+𥇤 oj
 𥇤 of
 𥇥 ok
 𥇦 ox
@@ -80140,7 +80138,7 @@
 𫡹 aa
 𫡹 ea
 𫡺 wu
-𫡼 mm
+𫡼 wo
 𫡼 mo
 𫡿 wm
 𫢀 wi
@@ -99821,6 +99819,7 @@
 𮐼 cg
 𮮡 ky
 𮮡 ay
+𥌷 ox
 𣮚 mf
 𣴅 df
 𨯾 jj
