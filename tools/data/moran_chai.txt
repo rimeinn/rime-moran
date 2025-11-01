@@ -8829,9 +8829,9 @@
 叏	ya	又一	
 叏	fy	𰀁又	
 叐	py	丿友	
-发	ay	𠃋又	
+发	ay	𠃊又	
 发	fd	{发去点}丶	
-发	vy	乛又	
+发	vy	𠃊又	
 发	yd	又丶	
 叒	yu	又双	
 叓	yv	又中	
@@ -20174,9 +20174,8 @@
 瞽	og	目鼓	
 瞾	ko	空目	
 瞾	ok	目空	
-瞿	vo	隹目	
 瞿	ov	目隹	
-瞿	vm	隹目	
+瞿	vo	隹目	
 矀	ow	目微	
 矁	oi	目愁	
 矂	oz	目喿	
@@ -24028,7 +24027,7 @@
 萙	cv	艹枕	
 萚	cz	艹择	
 萛	cc	艹廾	
-萛	cm	廾目	
+萛	co	廾目	
 萜	ct	艹帖	
 萝	cl	艹罗	
 萞	cb	艹比	
@@ -48452,7 +48451,6 @@
 𣦤	dv	敦正	auto
 𣦥	vy	正堯	auto
 𣦦	so	歲目	auto
-𣦦	sm	歲目	auto
 𣦧	si	歲出	auto
 𣦨	pl	丿來	auto
 𣦨	vl	止來	auto
@@ -54535,7 +54533,7 @@
 𥇠	wo	夂目	auto
 𥇡	sg	罒干	auto
 𥇢	ov	目斩	auto
-𥇤	mj	目届	
+𥇤	oj	目届	
 𥇤	of	目𰀁	
 𥇥	ok	目口	auto
 𥇦	ox	目析	auto
@@ -59081,7 +59079,7 @@
 𦕈	eu	耳少	auto
 𦕉	eu	耳少	auto
 𦕉	ue	少耳	auto
-𦕊	ek	耳口	auto
+𦕊	eg	耳㇉	
 𦕋	ey	耳又	auto
 𦕌	eu	耳氏	auto
 𦕌	ue	氏耳	auto
@@ -80149,8 +80147,8 @@
 𫡹	aa	一一	auto
 𫡹	ea	二一	auto
 𫡺	wu	亠士	auto
-𫡼	mm	亩目	auto
-𫡼	mo	亩目	auto
+𫡼	wo	亠目	
+𫡼	mo	亩目	
 𫡿	wm	亠米	auto
 𫢀	wi	亠虫	auto
 𫢁	wj	亠京	auto
@@ -96929,7 +96927,7 @@
 𲐗	ra	人一	auto
 𲐘	rq	亻切	auto
 𲐙	rm	人木	auto
-𲐛	rg	亻㇉	auto
+𲐛	rk	亻丂	
 𲐜	rq	亻欠	auto
 𲐜	rd	人⺈	auto
 𲐝	rd	亻丁	auto
@@ -99830,6 +99828,10 @@
 𮐼	cg	艹戈	
 𮮡	ky	冂又	
 𮮡	ay	丨又	
+𥌷	ox	目憲	
+𩢆	mk	馬丂	
+𰀊	kk	冂丂	
+𰀊	ag	丨㇉	
 
 # 待考
 
@@ -103443,8 +103445,6 @@
 #𥌧	ol	目魯	
 #𥌫	ov	目篆	
 #𥌬	oi	目廛	
-#𥌷	mx	目憲	
-#𥌷	ox	目心	
 #𥌸	oy	目閻	
 #𥌹	oj	目錦	
 #𥍍	ol	目藍	
@@ -108850,7 +108850,6 @@
 #𬅡	qc	欠册	
 #𬅦	fq	孚欠	
 #𬅦	qf	欠孚	
-#𬅧	cm	次目	
 #𬅧	co	次目	
 #𬅨	cq	屮欠	
 #𬅨	qk	欠口	
@@ -116569,7 +116568,6 @@
 #𱲰	on	目奴	
 #𱲱	oj	目尖	
 #𱲳	oh	目伙	
-#𱲶	lm	礼目	
 #𱲶	lo	礼目	
 #𱲹	oz	目足	
 #𱲼	wm	亡眉	

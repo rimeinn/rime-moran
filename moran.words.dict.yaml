@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20251031"
+version: "20251101"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9224,6 +9224,7 @@ columns:
 身份置換
 分飾身份
 樂不思	100
+暈碳	100
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0
@@ -19455,7 +19456,6 @@ MIDI鍵盤	1	midi jm;jj pj;mb
 的引導
 的形狀
 的彩虹
-的彼岸
 的彼方
 的彼端
 的律
