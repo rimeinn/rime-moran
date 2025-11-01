@@ -59070,7 +59070,7 @@
 𦕈 eu
 𦕉 eu
 𦕉 ue
-𦕊 ek
+𦕊 eg
 𦕋 ey
 𦕌 eu
 𦕌 ue
@@ -96918,7 +96918,7 @@
 𲐗 ra
 𲐘 rq
 𲐙 rm
-𲐛 rg
+𲐛 rk
 𲐜 rq
 𲐜 rd
 𲐝 rd
@@ -99820,6 +99820,9 @@
 𮮡 ky
 𮮡 ay
 𥌷 ox
+𩢆 mk
+𰀊 kk
+𰀊 ag
 𣮚 mf
 𣴅 df
 𨯾 jj
