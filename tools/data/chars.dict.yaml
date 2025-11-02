@@ -4,7 +4,7 @@
 
 ---
 name: moran.chars
-version: "20250918"
+version: "20251102"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -166,6 +166,7 @@ use_preset_vocabulary: false
 𠒐	wjke;kw	0
 圕	tuuugr;ku	0
 𱕸	tuuugr;ku	0
+𲒅	hets;kk	0
 
 # 一些會對正常輸入造成干擾的字, 直接禁用掉
 #𱍒	dd;dy	0
