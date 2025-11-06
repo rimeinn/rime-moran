@@ -6,6 +6,7 @@
 config_version: '1.6'
 
 punctuator:
+  digit_separators: ".:'"
   full_shape:
     ' ' : { commit: '　' }
     ',' : { commit: ， }
