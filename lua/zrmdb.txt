@@ -7156,7 +7156,7 @@
 亓 ed
 五 aa
 井 aa
-井 ep
+井 ed
 亖 ee
 亗 ue
 亘 aa
@@ -67457,6 +67457,7 @@
 𨚚 by
 𨚚 yb
 𨚛 be
+𨚜 ef
 𨚜 be
 𨚟 de
 𨚠 gy
@@ -96905,7 +96906,7 @@
 𲏿 rs
 𲐀 ru
 𲐂 eu
-𲐃 sb
+𲐃 eb
 𲐄 yb
 𲐆 ef
 𲐈 ey
