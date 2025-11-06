@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251101"
+version: "20251106"
 sort: by_weight
 columns:
   - text
@@ -12908,7 +12908,6 @@ C盤	cpj
 導讀	dkdu
 到頂	dkdy
 大快朵頤	dkdy
-大塊朵頤	dkdy
 低開低走	dkdz
 貸款額度	dked
 奪眶而出	dkei
@@ -21268,7 +21267,6 @@ F盤	fpj
 返祖現象	fzxx
 犯罪現象	fzxx
 飛行	fzxy
-犯罪嫌疑	fzxy
 霏	fzy
 費油	fzyb
 廢油	fzyb
@@ -33846,6 +33844,7 @@ H盤	hpj
 長	ih
 厂	iha
 腸癌	ihai
+長按	ihan
 長安	ihan
 鬯	ihb
 唱本	ihbf
@@ -38904,6 +38903,7 @@ I盤	ipj
 激勵	jili
 極力	jili
 吉利	jili
+蒺藜	jili
 記牢	jilk
 交叉路口	jilk
 寄來	jill
@@ -53223,6 +53223,7 @@ JK制服	jkvf
 妙法	mcfa
 妙方	mcfh
 廟	mcg
+描改	mcgl
 莫測高深	mcgu
 秒	mch
 廟號	mchk
@@ -70109,6 +70110,7 @@ P站	pvj
 蠑螈	rsyr
 冗員	rsyr
 榮譽	rsyu
+冗餘	rsyu
 日思夜想	rsyx
 榮膺	rsyy
 冗雜	rsza
@@ -70459,7 +70461,9 @@ P站	pvj
 乳油	ruyb
 人手一本	ruyb
 人手一冊	ruyc
+乳液	ruye
 入夜	ruye
+乳業	ruye
 人手一份	ruyf
 人身依附	ruyf
 日升月恆	ruyh
@@ -85274,6 +85278,7 @@ U盤	upj
 勝友如雲	uyry
 失業人員	uyry
 縗	uys
+啥意思	uys
 是藥三分毒	uysd
 摔死	uysi
 食用色素	uyss
@@ -95949,6 +95954,7 @@ WiFi	wifi
 物資供應	wzgy
 委	wzh
 爲何	wzhe
+違和	wzhe
 烓	wzhg
 尾號	wzhk
 危害	wzhl
@@ -110432,6 +110438,7 @@ WiFi	wifi
 遙相呼應	yxhy
 用心何在	yxhz
 運行成本	yxib
+有效成分	yxif
 優秀成果	yxig
 憂心忡忡	yxii
 英雄遲暮	yxim
@@ -115834,6 +115841,7 @@ WiFi	wifi
 曾參與	ccy
 測電筆	cdb
 粗墩墩	cdd
+CD機	cdj
 磁帶機	cdj
 次大陸	cdl
 草墊子	cdz
@@ -116699,6 +116707,8 @@ Excel	eks
 福建省	fju
 附加值	fjv
 分界線	fjx
+髮際線	fjx
+風景線	fjx
 防空兵	fkb
 發刊詞	fkc
 防空洞	fkd
@@ -120601,7 +120611,7 @@ SD卡	sdk
 所有權	syq
 所有人	syr
 所以然	syr
-啥意思	sys
+掃一掃	sys
 算一算	sys
 所以說	syu
 所有值	syv
@@ -121217,6 +121227,7 @@ SD卡	sdk
 受胎率	utl
 水獺皮	utp
 生態羣	utq
+身體乳	utr
 石炭酸	uts
 手提式	utu
 生態位	utw
@@ -122361,6 +122372,7 @@ Word	wrd
 笑面虎	xmh
 小妹妹	xmm
 笑眯眯	xmm
+洗面奶	xmn
 心目中	xmv
 蕁麻疹	xmv
 下馬威	xmw
@@ -122888,6 +122900,7 @@ Word	wrd
 有人沒	yrm
 易燃品	yrp
 羊絨衫	yru
+壓縮包	ysb
 有時候	ysh
 以色列	ysl
 伊斯蘭	ysl

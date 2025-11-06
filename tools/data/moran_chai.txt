@@ -7165,7 +7165,7 @@
 亓	ed	二リ	
 五	aa	一一	
 井	aa	一丨	
-井	ep	二リ	
+井	ed	二リ	
 亖	ee	二二	
 亗	ue	山二	
 亘	aa	一一	
@@ -67466,7 +67466,8 @@
 𨚚	by	半邑	auto
 𨚚	yb	邑半	auto
 𨚛	be	匕阝	auto
-𨚜	be	丷阝	auto
+𨚜	eg	阝{干}	
+𨚜	be	丷阝	
 𨚟	de	冬阝	auto
 𨚠	gy	甘邑	auto
 𨚠	yg	邑甘	auto
@@ -96914,7 +96915,7 @@
 𲏿	rs	乳所	auto
 𲐀	ru	乳事	auto
 𲐂	eu	二山	auto
-𲐃	sb	三白	auto
+𲐃	eb	二百	auto
 𲐄	yb	云巴	auto
 𲐆	ef	二非	auto
 𲐈	ey	二云	auto

@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251101"
+version: "20251106"
 sort: original
 columns:
   - text
@@ -12536,7 +12536,6 @@ C语言	cyy
 纛	dkdx
 到顶	dkdy
 大快朵颐	dkdy
-大块朵颐	dkdy
 低开低走	dkdz
 贷款额度	dked
 夺眶而出	dkei
@@ -20638,7 +20637,6 @@ F盘	fpj
 返祖现象	fzxx
 犯罪现象	fzxx
 飞行	fzxy
-犯罪嫌疑	fzxy
 霏	fzy
 费油	fzyb
 废油	fzyb
@@ -32902,6 +32900,7 @@ H盘	hpj
 长	ih
 厂	iha
 肠癌	ihai
+长按	ihan
 长安	ihan
 鬯	ihb
 唱本	ihbf
@@ -37832,6 +37831,7 @@ I盘	ipj
 激励	jili
 极力	jili
 吉利	jili
+蒺藜	jili
 麂	jilj
 记牢	jilk
 交叉路口	jilk
@@ -51732,6 +51732,7 @@ JK制服	jkvf
 妙法	mcfa
 妙方	mcfh
 庙	mcg
+描改	mcgl
 莫测高深	mcgu
 秒	mch
 庙号	mchk
@@ -54342,7 +54343,7 @@ JK制服	jkvf
 明天再说	mtzu
 命题作文	mtzw
 木	mu
-母	mua
+目	mua
 目	muaa
 母爱	muai
 民事案件	muaj
@@ -68101,6 +68102,7 @@ P站	pvj
 蝾螈	rsyr
 冗员	rsyr
 荣誉	rsyu
+冗余	rsyu
 日思夜想	rsyx
 荣膺	rsyy
 冗杂	rsza
@@ -68443,7 +68445,9 @@ P站	pvj
 乳油	ruyb
 人手一本	ruyb
 人手一册	ruyc
+乳液	ruye
 入夜	ruye
+乳业	ruye
 人手一份	ruyf
 人身依附	ruyf
 日升月恒	ruyh
@@ -69732,7 +69736,7 @@ P站	pvj
 㟃	sius
 私塾	siuu
 死水	siuv
-笥	siv
+巳	siv
 四周	sivb
 丝状	sivd
 死者	sive
@@ -72178,7 +72182,6 @@ P站	pvj
 调控	tcks
 跳空	tcks
 条块	tcky
-太惨了	tcl\
 跳楼	tclb
 调料	tclc
 跳梁	tcld
@@ -83011,6 +83014,7 @@ U盘	upj
 胜友如云	uyry
 失业人员	uyry
 实用	uys
+啥意思	uys
 是药三分毒	uysd
 摔死	uysi
 食用色素	uyss
@@ -93407,6 +93411,7 @@ U盘	upj
 物资供应	wzgy
 委	wzh
 为何	wzhe
+违和	wzhe
 尾号	wzhk
 危害	wzhl
 尾货	wzho
@@ -107365,6 +107370,7 @@ U盘	upj
 遥相呼应	yxhy
 用心何在	yxhz
 运行成本	yxib
+有效成分	yxif
 优秀成果	yxig
 忧心忡忡	yxii
 英雄迟暮	yxim
@@ -112694,6 +112700,7 @@ U盘	upj
 曾参与	ccy
 测电笔	cdb
 粗墩墩	cdd
+CD机	cdj
 磁带机	cdj
 次大陆	cdl
 草垫子	cdz
@@ -113562,6 +113569,8 @@ Excel	eks
 福建省	fju
 附加值	fjv
 分界线	fjx
+发际线	fjx
+风景线	fjx
 防空兵	fkb
 发刊词	fkc
 防空洞	fkd
@@ -117466,7 +117475,7 @@ SD卡	sdk
 所有权	syq
 所有人	syr
 所以然	syr
-啥意思	sys
+扫一扫	sys
 算一算	sys
 所以说	syu
 所有制	syv
@@ -118082,6 +118091,7 @@ SD卡	sdk
 受胎率	utl
 水獭皮	utp
 生态群	utq
+身体乳	utr
 石炭酸	uts
 手提式	utu
 生态位	utw
@@ -119228,6 +119238,7 @@ Word	wrd
 笑面虎	xmh
 小妹妹	xmm
 笑眯眯	xmm
+洗面奶	xmn
 心目中	xmv
 荨麻疹	xmv
 下马威	xmw
@@ -119755,6 +119766,7 @@ Word	wrd
 有人没	yrm
 易燃品	yrp
 羊绒衫	yru
+压缩包	ysb
 有时候	ysh
 有时间	ysj
 以色列	ysl
