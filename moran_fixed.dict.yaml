@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251106"
+version: "20251107"
 sort: by_weight
 columns:
   - text
@@ -93378,7 +93378,6 @@ WiFi	wifi
 無可諱言	wkhy
 無刻鍵帽	wkjm
 無可救藥	wkjy
-唯	wkk
 無可抗拒	wkkj
 我看看怎麼個事	wkku
 挽狂瀾於既倒	wkld
@@ -93408,7 +93407,6 @@ WiFi	wifi
 無可挽回	wkwh
 無可無不可	wkwk
 無愧我心	wkwx
-惟	wkx
 無可限量	wkxl
 挖空心思	wkxs
 無愧於天地	wkyd
@@ -115089,6 +115087,1264 @@ WiFi	wifi
 自作自受	zzzu
 自自在在	zzzz
 
+錒	ocac
+銀	ocag
+鋁	ocal
+鎇	ocam
+氬	ocar
+砷	ocas
+砹	ocat
+金	ocau
+硼	ocb
+鋇	ocba
+鈹	ocbe
+𨨏	ocbh
+鉍	ocbi
+錇	ocbk
+溴	ocbr
+碳	occ
+鈣	occa
+鎘	occd
+鈰	occe
+鐦	occf
+氯	occl
+鋦	occm
+鎶	occn
+鈷	occo
+鉻	occr
+銫	occs
+銅	occu
+𬭊	ocdb
+鐽	ocds
+鏑	ocdy
+鉺	ocer
+鎄	oces
+銪	oceu
+氟	ocf
+鐵	ocfe
+鈇	ocfl
+鐨	ocfm
+鈁	ocfr
+鎵	ocga
+釓	ocgd
+鍺	ocge
+氫	och
+氦	oche
+鉿	ochf
+汞	ochg
+鈥	ocho
+𨭆	ochs
+碘	oci
+銦	ocin
+銥	ocir
+鉀	ock
+氪	ockr
+鑭	ocla
+鋰	ocli
+鐒	oclr
+鑥	oclu
+鉝	oclv
+鏌	ocmc
+鍆	ocmd
+鎂	ocmg
+錳	ocmn
+鉬	ocmo
+䥑	ocmt
+氮	ocn
+鈉	ocna
+鈮	ocnb
+釹	ocnd
+氖	ocne
+鉨	ocnh
+鎳	ocni
+鍩	ocno
+鎿	ocnp
+氧	oco
+鿫	ocog
+鋨	ocos
+磷	ocp
+鏷	ocpa
+鉛	ocpb
+鈀	ocpd
+鉕	ocpm
+釙	ocpo
+鐠	ocpr
+鉑	ocpt
+鈈	ocpu
+鐳	ocra
+銣	ocrb
+錸	ocre
+鑪	ocrf
+錀	ocrg
+銠	ocrh
+氡	ocrn
+釕	ocru
+硫	ocs
+銻	ocsb
+鈧	ocsc
+硒	ocse
+𨭎	ocsg
+硅	ocsi
+釤	ocsm
+錫	ocsn
+鍶	ocsr
+鉭	octa
+鋱	octb
+鍀	octc
+碲	octe
+釷	octh
+鈦	octi
+坨	octl
+銩	octm
+鿬	octs
+铀	ocu
+釩	ocv
+鎢	ocw
+氙	ocxe
+釔	ocy
+鐿	ocyb
+鋅	oczn
+鋯	oczr
+##for testing again
+# 䥑	Mt
+# 坨	Tl
+# 氖	Ne
+# 氙	Xe
+# 氟	F
+# 氡	Rn
+# 氦	He
+# 氧	O
+# 氪	Kr
+# 氫	H
+# 氬	Ar
+# 氮	N
+# 氯	Cl
+# 汞	Hg
+# 溴	Br
+# 砷	As
+# 砹	At
+# 硅	Si
+# 硒	Se
+# 硫	S
+# 硼	B
+# 碘	I
+# 碲	Te
+# 碳	C
+# 磷	P
+# 金	Au
+# 釓	Gd
+# 釔	Y
+# 釕	Ru
+# 釙	Po
+# 釤	Sm
+# 釩	V
+# 釷	Th
+# 釹	Nd
+# 鈀	Pd
+# 鈁	Fr
+# 鈇	Fl
+# 鈈	Pu
+# 鈉	Na
+# 鈣	Ca
+# 鈥	Ho
+# 鈦	Ti
+# 鈧	Sc
+# 鈮	Nb
+# 鈰	Ce
+# 鈷	Co
+# 鈹	Be
+# 鉀	K
+# 鉍	Bi
+# 鉑	Pt
+# 鉕	Pm
+# 鉛	Pb
+# 鉝	Lv
+# 鉨	Nh
+# 鉬	Mo
+# 鉭	Ta
+# 鉺	Er
+# 鉻	Cr
+# 鉿	Hf
+# 銀	Ag
+# 銅	Cu
+# 銠	Rh
+# 銣	Rb
+# 銥	Ir
+# 銦	In
+# 銩	Tm
+# 銪	Eu
+# 銫	Cs
+# 銻	Sb
+# 鋁	Al
+# 鋅	Zn
+# 鋇	Ba
+# 鋦	Cm
+# 鋨	Os
+# 鋯	Zr
+# 鋰	Li
+# 鋱	Tb
+# 錀	Rg
+# 錇	Bk
+# 錒	Ac
+# 錫	Sn
+# 錳	Mn
+# 錸	Re
+# 鍀	Te
+# 鍆	Md
+# 鍩	No
+# 鍶	Sr
+# 鍺	Ge
+# 鎂	Mg
+# 鎄	Es
+# 鎇	Am
+# 鎘	Cd
+# 鎢	W
+# 鎳	Ni
+# 鎵	Ga
+# 鎶	Cn
+# 鎿	Np
+# 鏌	Mc
+# 鏑	Dy
+# 鏷	Pa
+# 鐒	Lr
+# 鐠	Pr
+# 鐦	Cf
+# 鐨	Fm
+# 鐳	Ra
+# 鐵	Fe
+# 鐽	Ds
+# 鐿	Yb
+# 鑥	Lu
+# 鑪	Rf
+# 鑭	La
+# 铀	U
+# 鿫	Og
+# 鿬	Ts
+# 𨨏	Bh
+# 𨭆	Hs
+# 𨭎	Sg
+# 𬭊	Db
+
+# 開始飛鍵 xq -> xo
+罷休	baxo
+必修	bixo
+半休	bjxo
+保修	bkxo
+編修	bmxo
+不朽	buxo
+補休	buxo
+病休	byxo
+刺繡	cixo
+大修	daxo
+單休	djxo
+倒休	dkxo
+短袖	drxo
+防鏽	fhxo
+返修	fjxo
+腐朽	fuxo
+甘休	gjxo
+公休	gsxo
+顧繡	guxo
+閨秀	gvxo
+含羞	hjxo
+害羞	hlxo
+紅袖	hsxo
+回修	hvxo
+嘿咻	hzxo
+茶鏽	iaxo
+長袖	ihxo
+廠休	ihxo
+重修	isxo
+嬌羞	jcxo
+機修	jixo
+檢修	jmxo
+錦繡	jnxo
+進修	jnxo
+俊秀	jpxo
+娟秀	jrxo
+靜修	jyxo
+競秀	jyxo
+苦修	kuxo
+枯朽	kuxo
+離休	lixo
+老朽	lkxo
+輪休	lpxo
+領袖	lyxo
+苗繡	mcxo
+蒙羞	mgxo
+明秀	myxo
+沒羞	mzxo
+暖袖	nrxo
+內秀	nzxo
+甌繡	ouxo
+怕羞	paxo
+貔貅	pixo
+培修	pzxo
+搶修	qdxo
+奇秀	qixo
+全休	qrxo
+清秀	qyxo
+絨繡	rsxo
+乳臭	ruxo
+蘇繡	suxo
+調休	tcxo
+套袖	tkxo
+銅鏽	tsxo
+退休	tvxo
+鐵鏽	txxo
+挺秀	tyxo
+雙休	udxo
+生鏽	ugxo
+失修	uixo
+韶秀	ukxo
+蜀繡	uuxo
+水袖	uvxo
+衰朽	uyxo
+裝修	vdxo
+遮羞	vexo
+珍饈	vfxo
+整修	vgxo
+專修	vrxo
+主修	vuxo
+文秀	wfxo
+午休	wuxo
+維修	wzxo
+小修	xcxo
+湘繡	xdxo
+纖秀	xmxo
+新秀	xnxo
+修	xo
+宿	xob
+袖標	xobc
+休班	xobj
+鏽斑	xobj
+朽敗	xobl
+修編	xobm
+修補	xobu
+鏽病	xoby
+茠	xoc
+修辭	xoci
+羞慚	xocj
+秀才	xocl
+苬	xocq
+溴	xod
+秀逗	xodb
+嗅到	xodk
+潃	xodo
+滫	xodo
+修訂	xody
+褎	xody
+秀髮	xofa
+羞憤	xoff
+繡房	xofh
+修復	xofu
+庥	xog
+修改	xogl
+繡工	xogs
+休怪	xogy
+秀	xoh
+修好	xohk
+羞紅	xohs
+修護	xohu
+休會	xohv
+繡花	xohw
+螑	xoi
+修車	xoie
+修長	xoih
+羞恥	xoii
+髹	xoix
+鏽	xoj
+修腳	xojc
+鏽跡	xoji
+修建	xojm
+秀俊	xojp
+嗅覺	xojt
+休假	xojw
+嗅	xok
+袖口	xokb
+休克	xoke
+休刊	xokj
+羞愧	xokv
+咻	xokx
+修理	xoli
+朽爛	xolj
+修煉	xolm
+修羅	xolo
+修路	xolu
+朽	xom
+朽邁	xoml
+休眠	xomm
+朽木	xomu
+秀美	xomz
+糔	xomz
+鵂	xon
+羞赧	xonj
+羞惱	xonk
+修女	xonv
+脙	xoo
+繡品	xopn
+修配	xopz
+修橋	xoqc
+秀氣	xoqi
+繡球	xoqq
+羞怯	xoqx
+休	xor
+羞人	xorf
+脩	xoro
+秀潤	xorp
+羞辱	xoru
+繡	xos
+羞澀	xose
+羞臊	xosk
+嗅探	xotj
+袖套	xotk
+袖筒	xots
+休庭	xoty
+岫	xou
+袖手	xoub
+修身	xouf
+修飾	xoui
+修繕	xouj
+修書	xouu
+饈	xoux
+貅	xov
+袖珍	xovf
+修正	xovg
+休整	xovg
+袖章	xovh
+休止	xovi
+休戰	xovj
+修築	xovu
+琇	xow
+修爲	xowz
+休想	xoxd
+休息	xoxi
+休閒	xoxm
+休學	xoxt
+繡鞋	xoxx
+修行	xoxy
+羞	xoy
+秀雅	xoya
+休業	xoye
+修業	xoye
+修養	xoyh
+秀逸	xoyi
+休要	xoyk
+羞於	xoyu
+袖	xoyy
+袖子	xozi
+修造	xozk
+選修	xrxo
+星宿	xyxo
+興修	xyxo
+優秀	ybxo
+衣袖	yixo
+研修	yjxo
+粵繡	ytxo
+自修	zixo
+糟朽	zkxo
+作秀	zoxo
+# 结束飛鍵
+
+# 開始飛鍵 qx -> qo
+哀切	aiqo
+並且	byqo
+悲切	bzqo
+操切	ckqo
+裁切	clqo
+膽怯	djqo
+盜竊	dkqo
+帶挈	dlqo
+顛茄	dmqo
+而且	erqo
+番茄	fjqo
+苟且	gbqo
+割切	geqo
+關切	grqo
+姑且	guqo
+橫切	hgqo
+臣妾	ifqo
+嬌怯	jcqo
+急切	jiqo
+剪切	jmqo
+況且	kdqo
+懇切	kfqo
+露怯	lbqo
+聊且	lcqo
+趔趄	lxqo
+密切	miqo
+納妾	naqo
+扒竊	paqo
+剽竊	pcqo
+迫切	poqo
+妻妾	qiqo
+親切	qnqo
+且	qo
+疌	qoa
+竊案	qoan
+切變	qobm
+且不	qobu
+怯步	qobu
+茄	qoc
+切菜	qocl
+切磋	qoco
+切	qod
+切掉	qodc
+切當	qodh
+挈帶	qodl
+切點	qodm
+竊奪	qodo
+切斷	qodr
+切分	qoff
+切腹	qofu
+切割	qoge
+切糕	qogk
+竊國	qogo
+切合	qohe
+切換	qohr
+切回	qohv
+切花	qohw
+愜懷	qohy
+厒	qoi
+蛪	qoid
+切成	qoig
+怯場	qoih
+切齒	qoii
+切除	qoiu
+鍥	qoj
+切記	qoji
+切忌	qoji
+切近	qojn
+嗛	qok
+切口	qokb
+且看	qokj
+切開	qokl
+切塊	qoky
+伽藍	qolj
+栔	qom
+竊密	qomi
+且慢	qomj
+切脈	qoml
+切面	qomm
+切莫	qomo
+且莫	qomo
+椄	qomq
+妾	qon
+怯懦	qono
+切盼	qopj
+切片	qopm
+猰	qoq
+朅	qoqh
+切切	qoqo
+竊取	qoqu
+怯弱	qoro
+切入	qoru
+切絲	qosi
+切碎	qosv
+切題	qoti
+切圖	qotu
+竊聽	qoty
+挈	qou
+切身	qouf
+怯生	qoug
+切實	qoui
+且說	qouo
+篋	qov
+怯陣	qovf
+笡	qovq
+切中	qovs
+切勿	qowu
+竊	qox
+竊笑	qoxc
+切削	qoxc
+竊喜	qoxi
+愜	qoxj
+慊	qoxj
+切線	qoxm
+怯	qoxq
+切形	qoxy
+且有	qoyb
+愜意	qoyi
+切要	qoyk
+切音	qoyn
+趄	qoz
+茄子	qozi
+跙	qozq
+踥	qozq
+竊賊	qozz
+權且	qrqo
+確切	qtqo
+恰切	qwqo
+熱切	reqo
+偷竊	tbqo
+提挈	tiqo
+痛切	tsqo
+貼切	txqo
+深切	ufqo
+尚且	uhqo
+失竊	uiqo
+真切	vfqo
+正切	vgqo
+外切	wlqo
+畏怯	wzqo
+心切	xnqo
+羞怯	xqqo
+行竊	xyqo
+一切	yiqo
+殷切	ynqo
+餘切	yuqo
+暫且	zjqo
+# 結束飛鍵
+
+# 開始飛鍵 wz -> wk
+安慰	anwk
+本位	bfwk
+榜尾	bhwk
+包圍	bkwk
+保衛	bkwk
+百位	blwk
+白薇	blwk
+變爲	bmwk
+瀕危	bnwk
+泊位	bowk
+部位	buwk
+不畏	buwk
+補位	buwk
+別爲	bxwk
+並未	bywk
+病危	bywk
+卑微	bzwk
+倉位	chwk
+艙位	chwk
+刺蝟	ciwk
+錯位	cowk
+存爲	cpwk
+村委	cpwk
+篡位	crwk
+從未	cswk
+醋味	cuwk
+翠微	cvwk
+崔嵬	cvwk
+大尉	dawk
+凋萎	dcwk
+黨委	dhwk
+地位	diwk
+單位	djwk
+到位	dkwk
+代爲	dlwk
+點位	dmwk
+電位	dmwk
+多維	dowk
+噸位	dpwk
+段位	drwk
+東魏	dswk
+對位	dvwk
+對味	dvwk
+定位	dywk
+二位	erwk
+乏味	fawk
+分爲	ffwk
+氛圍	ffwk
+風味	fgwk
+方位	fhwk
+防衛	fhwk
+防僞	fhwk
+範圍	fjwk
+撫慰	fuwk
+復位	fuwk
+夠味	gbwk
+廣爲	gdwk
+各位	gewk
+更爲	ggwk
+崗位	ghwk
+甘爲	gjwk
+高位	gkwk
+改爲	glwk
+果味	gowk
+官位	grwk
+官威	grwk
+恭維	gswk
+歸位	gvwk
+瑰偉	gvwk
+寡味	gwwk
+怪味	gywk
+後衛	hbwk
+皇位	hdwk
+何謂	hewk
+捍衛	hjwk
+還未	hlwk
+海味	hlwk
+貨位	howk
+換位	hrwk
+環衛	hrwk
+宏偉	hswk
+護衛	huwk
+回味	hvwk
+華爲	hwwk
+化爲	hwwk
+臭味	ibwk
+牀位	idwk
+車位	iewk
+讖緯	ifwk
+成爲	igwk
+稱爲	igwk
+稱謂	igwk
+常委	ihwk
+腸胃	ihwk
+鴟尾	iiwk
+潮位	ikwk
+春闈	ipwk
+船尾	irwk
+重圍	iswk
+垂危	ivwk
+較爲	jcwk
+教委	jcwk
+降爲	jdwk
+極爲	jiwk
+幾位	jiwk
+鍵位	jmwk
+僅爲	jnwk
+進位	jnwk
+幾位	jowk
+均未	jpwk
+軍委	jpwk
+久違	jqwk
+爵位	jtwk
+句尾	juwk
+居委	juwk
+價位	jwwk
+結尾	jxwk
+解圍	jxwk
+敬畏	jywk
+警衛	jywk
+口味	kbwk
+況味	kdwk
+可謂	kewk
+科委	kewk
+肯爲	kfwk
+開胃	klwk
+寬慰	krwk
+空位	kswk
+枯萎	kuwk
+魁偉	kvwk
+快慰	kywk
+辣味	lawk
+兩位	ldwk
+闌尾	ljwk
+臨危	lnwk
+淪爲	lpwk
+瘤胃	lqwk
+略微	ltwk
+蘆葦	luwk
+列爲	lxwk
+靈位	lywk
+某位	mbwk
+門衛	mfwk
+錨位	mkwk
+末尾	mowk
+末位	mowk
+名爲	mywk
+名位	mywk
+美味	mzwk
+那位	nawk
+哪位	nawk
+膩味	niwk
+難爲	njwk
+年尾	nmwk
+挪威	nowk
+暖胃	nrwk
+內衛	nzwk
+脾胃	piwk
+跑位	pkwk
+排位	plwk
+牌位	plwk
+片尾	pmwk
+品味	pnwk
+頗爲	powk
+破位	powk
+鋪位	puwk
+評委	pywk
+薔薇	qdwk
+氣味	qiwk
+前衛	qmwk
+秋闈	qqwk
+權威	qrwk
+缺位	qtwk
+趣味	quwk
+區位	quwk
+輕微	qywk
+認爲	rfwk
+仍未	rgwk
+讓位	rhwk
+入圍	ruwk
+餿味	sbwk
+澀味	sewk
+色味	sewk
+思維	siwk
+三維	sjwk
+三圍	sjwk
+掃尾	skwk
+所謂	sowk
+酸味	srwk
+雖未	svwk
+歲尾	svwk
+頭尾	tbwk
+調味	tcwk
+特爲	tewk
+體味	tiwk
+體委	tiwk
+攤位	tjwk
+太尉	tlwk
+胎位	tlwk
+甜味	tmwk
+妥爲	towk
+脫位	towk
+臀圍	tpwk
+團委	trwk
+同爲	tswk
+同位	tswk
+突圍	tuwk
+推諉	tvwk
+廷尉	tywk
+煞尾	uawk
+首位	ubwk
+守衛	ubwk
+設爲	uewk
+攝衛	uewk
+身爲	ufwk
+神威	ufwk
+省委	ugwk
+聲威	ugwk
+尚未	uhwk
+示威	uiwk
+市委	uiwk
+羶味	ujwk
+稍微	ukwk
+少尉	ukwk
+水位	uvwk
+甩尾	uywk
+衰微	uywk
+周圍	vbwk
+壯偉	vdwk
+這位	vewk
+真僞	vfwk
+政委	vgwk
+職位	viwk
+站位	vjwk
+准尉	vpwk
+轉爲	vrwk
+中衛	vswk
+衆位	vswk
+諸位	vuwk
+助威	vuwk
+追尾	vvwk
+王位	whwk
+玩味	wjwk
+外圍	wlwk
+無畏	wuwk
+無謂	wuwk
+位	wk
+微	wk
+韋	wka
+囗	wkaa
+胃癌	wkai
+未按	wkan
+慰安	wkan
+違拗	wkao
+痿	wkb
+尾巴	wkba
+爲本	wkbf
+癐	wkbh
+偎傍	wkbh
+未必	wkbi
+餵飽	wkbk
+未便	wkbm
+微薄	wkbo
+尾部	wkbu
+寪	wkbw
+癓	wkbw
+胃病	wkby
+痏	wkby
+違背	wkbz
+薇	wkc
+未曾	wkcg
+味噌	wkcg
+爲此	wkci
+位次	wkci
+葦叢	wkcs
+尉	wkcu
+蔚	wkcw
+葦	wkcw
+萎	wkcw
+葳	wkcw
+菋	wkcw
+蒍	wkcw
+蓶	wkcw
+芛	wkcy
+薳	wkcy
+危	wkd
+偉大	wkda
+微雕	wkdc
+為	wkdd
+危	wkde
+尾燈	wkdg
+濻	wkdg
+葦蕩	wkdh
+圩堤	wkdi
+味道	wkdk
+危殆	wkdl
+委頓	wkdp
+亹	wkdq
+唯獨	wkdu
+維度	wkdu
+渭	wkdw
+濰	wkdw
+溦	wkdw
+浘	wkdw
+湋	wkdw
+渨	wkdw
+溈	wkdw
+未定	wkdy
+洧	wkdy
+瀢	wkdy
+未	wke
+巍峨	wkee
+隗	wkeg
+味兒	wker
+隈	wkew
+鄬	wkew
+隇	wkew
+捼	wkf
+違法	wkfa
+微分	wkff
+微風	wkfg
+威風	wkfg
+危房	wkfh
+濰坊	wkfh
+違反	wkfj
+未付	wkfu
+爲輔	wkfu
+撝	wkfw
+魏	wkg
+微光	wkgd
+偉哥	wkge
+廆	wkgg
+桅杆	wkgj
+位高	wkgk
+爲國	wkgo
+衛國	wkgo
+圍觀	wkgr
+微觀	wkgr
+圍攻	wkgs
+尾骨	wkgu
+違規	wkgv
+魏	wkgw
+骫	wkgw
+委	wkh
+爲何	wkhe
+違和	wkhe
+烓	wkhg
+尾號	wkhk
+危害	wkhl
+尾貨	wkho
+微火	wkho
+未婚	wkhp
+爲患	wkhr
+微紅	wkhs
+維護	wkhu
+煒	wkhw
+煨	wkhw
+蝟	wki
+微創	wkid
+圍城	wkig
+未嘗	wkih
+維持	wkii
+圍產	wkij
+僞鈔	wkik
+蜼	wkiv
+蜲	wkiw
+蝛	wkiw
+帷	wkj
+圍剿	wkjc
+鏏	wkjh
+危機	wkji
+未見	wkjm
+圍殲	wkjm
+圍巾	wkjn
+僞軍	wkjp
+味覺	wkjt
+畏懼	wkju
+爲佳	wkjw
+幃	wkjw
+覣	wkjw
+慰藉	wkjx
+未接	wkjx
+未經	wkjy
+喂	wkk
+胃口	wkkb
+未可	wkke
+圍墾	wkkf
+違抗	wkkh
+未開	wkkl
+圍困	wkkp
+尾款	wkkr
+唯恐	wkks
+唯	wkkv
+味	wkkw
+圍	wkkw
+微辣	wkla
+危樓	wklb
+未了	wklc
+微量	wkld
+爲了	wkle
+威力	wkli
+蔚藍	wklj
+慰勞	wklk
+未來	wkll
+維綸	wklp
+圍攏	wkls
+僞劣	wklx
+違令	wkly
+味蕾	wklz
+桅	wkm
+微碼	wkma
+微妙	wkmc
+威猛	wkmg
+微茫	wkmh
+萎靡	wkmi
+微米	wkmi
+未滿	wkmj
+欈	wkmj
+僞滿	wkmj
+僞冒	wkmk
+未免	wkmm
+衛冕	wkmm
+爲民	wkmn
+微末	wkmo
+帷幕	wkmu
+闈	wkmw
+椳	wkmw
+威名	wkmy
+唯美	wkmz
+威	wkn
+僞娘	wknd
+未能	wkng
+違逆	wkni
+爲難	wknj
+餵奶	wknl
+娓	wknw
+媺	wknw
+媦	wknw
+犚	wknw
+犩	wknw
+胃	wko
+圍毆	wkou
+暐	wkow
+腲	wkow
+爲	wkp
+尾盤	wkpj
+爲盼	wkpj
+委派	wkpl
+威迫	wkpo
+委培	wkpz
+猥	wkq
+圍牆	wkqd
+爲期	wkqi
+圍棋	wkqi
+尾欠	wkqm
+圍裙	wkqp
+維權	wkqr
+威權	wkqr
+委屈	wkqu
+畏怯	wkqx
+僞	wkr
+爲人	wkrf
+偉人	wkrf
+蔚然	wkrj
+巍然	wkrj
+圍繞	wkrk
+微弱	wkro
+微軟	wkrr
+爲榮	wkrs
+葳蕤	wkrv
+偉	wkrw
+偎	wkrw
+儰	wkrw
+偽	wkrw
+維	wks
+萎縮	wkso
+猥瑣	wkso
+胃酸	wksr
+味素	wksu
+尾隨	wksv
+未遂	wksv
+緯	wksw
+罻	wksw
+畏	wkt
+微調	wktc
+胃疼	wktg
+葦塘	wkth
+圩田	wktm
+委託	wkto
+胃痛	wkts
+畏途	wktu
+偎貼	wktx
+圩	wkty
+壝	wkty
+尾	wku
+爲啥	wkua
+爲首	wkub
+磑	wkud
+威懾	wkue
+委身	wkuf
+衛生	wkug
+嵬	wkug
+磈	wkug
+衛視	wkui
+衛士	wkui
+僞善	wkuj
+尾數	wkuu
+爲數	wkuu
+餵	wkuw
+巍	wkuw
+崴	wkuw
+韙	wkuw
+嶉	wkuw
+硊	wkuw
+餧	wkuw
+崣	wkuw
+碨	wkuw
+峞	wkuw
+峗	wkuw
+艉	wkv
+僞裝	wkvd
+圍着	wkve
+威震	wkvf
+僞證	wkvg
+違章	wkvh
+位置	wkvi
+未知	wkvi
+圍桌	wkvo
+爲準	wkvp
+爲重	wkvs
+爲主	wkvu
+圍住	wkvu
+圍追	wkvv
+瑋	wkw
+慰問	wkwf
+威望	wkwh
+韡	wkwh
+委婉	wkwj
+帷幄	wkwo
+亹	wkwq
+斖	wkwq
+威武	wkwu
+巍巍	wkwk
+衛	wkx
+微笑	wkxc
+未向	wkxd
+未詳	wkxd
+維繫	wkxi
+衛	wkxi
+危險	wkxm
+威信	wkxn
+微信	wkxn
+違心	wkxn
+微醺	wkxp
+維修	wkxq
+爲兄	wkxs
+惟	wkxv
+慰	wkxw
+威脅	wkxx
+猥褻	wkxx
+衛星	wkxy
+謂	wky
+威壓	wkya
+唯有	wkyb
+尾頁	wkye
+偉業	wkye
+餵養	wkyh
+唯一	wkyi
+偎依	wkyi
+威嚴	wkyj
+尾音	wkyn
+委員	wkyr
+違約	wkyt
+位於	wkyu
+諉	wkyw
+鮇	wkyw
+頠	wkyw
+讆	wkyw
+褽	wkyw
+鮪	wkyy
+違	wkz
+味噌	wkzg
+位子	wkzi
+僞造	wkzk
+圍坐	wkzo
+維族	wkzu
+畏罪	wkzv
+踓	wkzv
+逶	wkzw
+躗	wkzw
+校尉	xcwk
+香味	xdwk
+細微	xiwk
+席位	xiwk
+纖維	xmwk
+縣委	xmwk
+欣慰	xnwk
+尋味	xpwk
+修爲	xqwk
+雄偉	xswk
+胸圍	xswk
+學位	xtwk
+虛僞	xuwk
+下位	xwwk
+些微	xxwk
+行爲	xywk
+押尾	yawk
+尤爲	ybwk
+野味	yewk
+陽痿	yhwk
+揚威	yhwk
+以爲	yiwk
+意味	yiwk
+依偎	yiwk
+煙味	yjwk
+腰圍	ykwk
+因爲	ynwk
+韻味	ypwk
+原味	yrwk
+原委	yrwk
+約爲	ytwk
+越位	ytwk
+譽爲	yuwk
+應爲	yywk
+走味	zbwk
+走位	zbwk
+滋味	ziwk
+自衛	ziwk
+暫未	zjwk
+在位	zlwk
+座位	zowk
+作爲	zowk
+最爲	zvwk
+# 結束飛鍵
+
+##隨心碼
+#（本質上是無理碼）
+莊	vdg		#來自簡化字寫法 庄；以空碼加
+豬	vuq		#來自簡化字寫法 猪；以空碼加
+議	yiyw		#取末尾的「我」
+誼	yiyq		#取末尾的「且」
+左	zou		#取上部
+右	ybu		#取上部
+凄	qidn		#取「女」
+沏	qidt		#qid + tea
+詩	uiyc		#取末尾小部件
+謄	tgy		#簡化字「誊」
+
 啊啊啊	aaa
 愛不愛	aba
 熬不過	abg
@@ -123443,627 +124699,3 @@ Word	wrd
 寅丸星	ywx
 諏訪子	zfz
 早苗	zkmc
-
-錒	ocac
-銀	ocag
-鋁	ocal
-鎇	ocam
-氬	ocar
-砷	ocas
-砹	ocat
-金	ocau
-硼	ocb
-鋇	ocba
-鈹	ocbe
-𨨏	ocbh
-鉍	ocbi
-錇	ocbk
-溴	ocbr
-碳	occ
-鈣	occa
-鎘	occd
-鈰	occe
-鐦	occf
-氯	occl
-鋦	occm
-鎶	occn
-鈷	occo
-鉻	occr
-銫	occs
-銅	occu
-𬭊	ocdb
-鐽	ocds
-鏑	ocdy
-鉺	ocer
-鎄	oces
-銪	oceu
-氟	ocf
-鐵	ocfe
-鈇	ocfl
-鐨	ocfm
-鈁	ocfr
-鎵	ocga
-釓	ocgd
-鍺	ocge
-氫	och
-氦	oche
-鉿	ochf
-汞	ochg
-鈥	ocho
-𨭆	ochs
-碘	oci
-銦	ocin
-銥	ocir
-鉀	ock
-氪	ockr
-鑭	ocla
-鋰	ocli
-鐒	oclr
-鑥	oclu
-鉝	oclv
-鏌	ocmc
-鍆	ocmd
-鎂	ocmg
-錳	ocmn
-鉬	ocmo
-䥑	ocmt
-氮	ocn
-鈉	ocna
-鈮	ocnb
-釹	ocnd
-氖	ocne
-鉨	ocnh
-鎳	ocni
-鍩	ocno
-鎿	ocnp
-氧	oco
-鿫	ocog
-鋨	ocos
-磷	ocp
-鏷	ocpa
-鉛	ocpb
-鈀	ocpd
-鉕	ocpm
-釙	ocpo
-鐠	ocpr
-鉑	ocpt
-鈈	ocpu
-鐳	ocra
-銣	ocrb
-錸	ocre
-鑪	ocrf
-錀	ocrg
-銠	ocrh
-氡	ocrn
-釕	ocru
-硫	ocs
-銻	ocsb
-鈧	ocsc
-硒	ocse
-𨭎	ocsg
-硅	ocsi
-釤	ocsm
-錫	ocsn
-鍶	ocsr
-鉭	octa
-鋱	octb
-鍀	octc
-碲	octe
-釷	octh
-鈦	octi
-坨	octl
-銩	octm
-鿬	octs
-铀	ocu
-釩	ocv
-鎢	ocw
-氙	ocxe
-釔	ocy
-鐿	ocyb
-鋅	oczn
-鋯	oczr
-##for testing again
-# 䥑	Mt
-# 坨	Tl
-# 氖	Ne
-# 氙	Xe
-# 氟	F
-# 氡	Rn
-# 氦	He
-# 氧	O
-# 氪	Kr
-# 氫	H
-# 氬	Ar
-# 氮	N
-# 氯	Cl
-# 汞	Hg
-# 溴	Br
-# 砷	As
-# 砹	At
-# 硅	Si
-# 硒	Se
-# 硫	S
-# 硼	B
-# 碘	I
-# 碲	Te
-# 碳	C
-# 磷	P
-# 金	Au
-# 釓	Gd
-# 釔	Y
-# 釕	Ru
-# 釙	Po
-# 釤	Sm
-# 釩	V
-# 釷	Th
-# 釹	Nd
-# 鈀	Pd
-# 鈁	Fr
-# 鈇	Fl
-# 鈈	Pu
-# 鈉	Na
-# 鈣	Ca
-# 鈥	Ho
-# 鈦	Ti
-# 鈧	Sc
-# 鈮	Nb
-# 鈰	Ce
-# 鈷	Co
-# 鈹	Be
-# 鉀	K
-# 鉍	Bi
-# 鉑	Pt
-# 鉕	Pm
-# 鉛	Pb
-# 鉝	Lv
-# 鉨	Nh
-# 鉬	Mo
-# 鉭	Ta
-# 鉺	Er
-# 鉻	Cr
-# 鉿	Hf
-# 銀	Ag
-# 銅	Cu
-# 銠	Rh
-# 銣	Rb
-# 銥	Ir
-# 銦	In
-# 銩	Tm
-# 銪	Eu
-# 銫	Cs
-# 銻	Sb
-# 鋁	Al
-# 鋅	Zn
-# 鋇	Ba
-# 鋦	Cm
-# 鋨	Os
-# 鋯	Zr
-# 鋰	Li
-# 鋱	Tb
-# 錀	Rg
-# 錇	Bk
-# 錒	Ac
-# 錫	Sn
-# 錳	Mn
-# 錸	Re
-# 鍀	Te
-# 鍆	Md
-# 鍩	No
-# 鍶	Sr
-# 鍺	Ge
-# 鎂	Mg
-# 鎄	Es
-# 鎇	Am
-# 鎘	Cd
-# 鎢	W
-# 鎳	Ni
-# 鎵	Ga
-# 鎶	Cn
-# 鎿	Np
-# 鏌	Mc
-# 鏑	Dy
-# 鏷	Pa
-# 鐒	Lr
-# 鐠	Pr
-# 鐦	Cf
-# 鐨	Fm
-# 鐳	Ra
-# 鐵	Fe
-# 鐽	Ds
-# 鐿	Yb
-# 鑥	Lu
-# 鑪	Rf
-# 鑭	La
-# 铀	U
-# 鿫	Og
-# 鿬	Ts
-# 𨨏	Bh
-# 𨭆	Hs
-# 𨭎	Sg
-# 𬭊	Db
-
-# 開始飛鍵 xq -> xo
-罷休	baxo
-必修	bixo
-半休	bjxo
-保修	bkxo
-編修	bmxo
-不朽	buxo
-補休	buxo
-病休	byxo
-刺繡	cixo
-大修	daxo
-單休	djxo
-倒休	dkxo
-短袖	drxo
-防鏽	fhxo
-返修	fjxo
-腐朽	fuxo
-甘休	gjxo
-公休	gsxo
-顧繡	guxo
-閨秀	gvxo
-含羞	hjxo
-害羞	hlxo
-紅袖	hsxo
-回修	hvxo
-嘿咻	hzxo
-茶鏽	iaxo
-長袖	ihxo
-廠休	ihxo
-重修	isxo
-嬌羞	jcxo
-機修	jixo
-檢修	jmxo
-錦繡	jnxo
-進修	jnxo
-俊秀	jpxo
-娟秀	jrxo
-靜修	jyxo
-競秀	jyxo
-苦修	kuxo
-枯朽	kuxo
-離休	lixo
-老朽	lkxo
-輪休	lpxo
-領袖	lyxo
-苗繡	mcxo
-蒙羞	mgxo
-明秀	myxo
-沒羞	mzxo
-暖袖	nrxo
-內秀	nzxo
-甌繡	ouxo
-怕羞	paxo
-貔貅	pixo
-培修	pzxo
-搶修	qdxo
-奇秀	qixo
-全休	qrxo
-清秀	qyxo
-絨繡	rsxo
-乳臭	ruxo
-蘇繡	suxo
-調休	tcxo
-套袖	tkxo
-銅鏽	tsxo
-退休	tvxo
-鐵鏽	txxo
-挺秀	tyxo
-雙休	udxo
-生鏽	ugxo
-失修	uixo
-韶秀	ukxo
-蜀繡	uuxo
-水袖	uvxo
-衰朽	uyxo
-裝修	vdxo
-遮羞	vexo
-珍饈	vfxo
-整修	vgxo
-專修	vrxo
-主修	vuxo
-文秀	wfxo
-午休	wuxo
-維修	wzxo
-小修	xcxo
-湘繡	xdxo
-纖秀	xmxo
-新秀	xnxo
-修	xo
-宿	xob
-袖標	xobc
-休班	xobj
-鏽斑	xobj
-朽敗	xobl
-修編	xobm
-修補	xobu
-鏽病	xoby
-茠	xoc
-修辭	xoci
-羞慚	xocj
-秀才	xocl
-苬	xocq
-溴	xod
-秀逗	xodb
-嗅到	xodk
-潃	xodo
-滫	xodo
-修訂	xody
-褎	xody
-秀髮	xofa
-羞憤	xoff
-繡房	xofh
-修復	xofu
-庥	xog
-修改	xogl
-繡工	xogs
-休怪	xogy
-秀	xoh
-修好	xohk
-羞紅	xohs
-修護	xohu
-休會	xohv
-繡花	xohw
-螑	xoi
-修車	xoie
-修長	xoih
-羞恥	xoii
-髹	xoix
-鏽	xoj
-修腳	xojc
-鏽跡	xoji
-修建	xojm
-秀俊	xojp
-嗅覺	xojt
-休假	xojw
-嗅	xok
-袖口	xokb
-休克	xoke
-休刊	xokj
-羞愧	xokv
-咻	xokx
-修理	xoli
-朽爛	xolj
-修煉	xolm
-修羅	xolo
-修路	xolu
-朽	xom
-朽邁	xoml
-休眠	xomm
-朽木	xomu
-秀美	xomz
-糔	xomz
-鵂	xon
-羞赧	xonj
-羞惱	xonk
-修女	xonv
-脙	xoo
-繡品	xopn
-修配	xopz
-修橋	xoqc
-秀氣	xoqi
-繡球	xoqq
-羞怯	xoqx
-休	xor
-羞人	xorf
-脩	xoro
-秀潤	xorp
-羞辱	xoru
-繡	xos
-羞澀	xose
-羞臊	xosk
-嗅探	xotj
-袖套	xotk
-袖筒	xots
-休庭	xoty
-岫	xou
-袖手	xoub
-修身	xouf
-修飾	xoui
-修繕	xouj
-修書	xouu
-饈	xoux
-貅	xov
-袖珍	xovf
-修正	xovg
-休整	xovg
-袖章	xovh
-休止	xovi
-休戰	xovj
-修築	xovu
-琇	xow
-修爲	xowz
-休想	xoxd
-休息	xoxi
-休閒	xoxm
-休學	xoxt
-繡鞋	xoxx
-修行	xoxy
-羞	xoy
-秀雅	xoya
-休業	xoye
-修業	xoye
-修養	xoyh
-秀逸	xoyi
-休要	xoyk
-羞於	xoyu
-袖	xoyy
-袖子	xozi
-修造	xozk
-選修	xrxo
-星宿	xyxo
-興修	xyxo
-優秀	ybxo
-衣袖	yixo
-研修	yjxo
-粵繡	ytxo
-自修	zixo
-糟朽	zkxo
-作秀	zoxo
-# 结束飛鍵
-
-# 開始飛鍵 qx -> qo
-哀切	aiqo
-並且	byqo
-悲切	bzqo
-操切	ckqo
-裁切	clqo
-膽怯	djqo
-盜竊	dkqo
-帶挈	dlqo
-顛茄	dmqo
-而且	erqo
-番茄	fjqo
-苟且	gbqo
-割切	geqo
-關切	grqo
-姑且	guqo
-橫切	hgqo
-臣妾	ifqo
-嬌怯	jcqo
-急切	jiqo
-剪切	jmqo
-況且	kdqo
-懇切	kfqo
-露怯	lbqo
-聊且	lcqo
-趔趄	lxqo
-密切	miqo
-納妾	naqo
-扒竊	paqo
-剽竊	pcqo
-迫切	poqo
-妻妾	qiqo
-親切	qnqo
-且	qo
-疌	qoa
-竊案	qoan
-切變	qobm
-且不	qobu
-怯步	qobu
-茄	qoc
-切菜	qocl
-切磋	qoco
-切	qod
-切掉	qodc
-切當	qodh
-挈帶	qodl
-切點	qodm
-竊奪	qodo
-切斷	qodr
-切分	qoff
-切腹	qofu
-切割	qoge
-切糕	qogk
-竊國	qogo
-切合	qohe
-切換	qohr
-切回	qohv
-切花	qohw
-愜懷	qohy
-厒	qoi
-蛪	qoid
-切成	qoig
-怯場	qoih
-切齒	qoii
-切除	qoiu
-鍥	qoj
-切記	qoji
-切忌	qoji
-切近	qojn
-嗛	qok
-切口	qokb
-且看	qokj
-切開	qokl
-切塊	qoky
-伽藍	qolj
-栔	qom
-竊密	qomi
-且慢	qomj
-切脈	qoml
-切面	qomm
-切莫	qomo
-且莫	qomo
-椄	qomq
-妾	qon
-怯懦	qono
-切盼	qopj
-切片	qopm
-猰	qoq
-朅	qoqh
-切切	qoqo
-竊取	qoqu
-怯弱	qoro
-切入	qoru
-切絲	qosi
-切碎	qosv
-切題	qoti
-切圖	qotu
-竊聽	qoty
-挈	qou
-切身	qouf
-怯生	qoug
-切實	qoui
-且說	qouo
-篋	qov
-怯陣	qovf
-笡	qovq
-切中	qovs
-切勿	qowu
-竊	qox
-竊笑	qoxc
-切削	qoxc
-竊喜	qoxi
-愜	qoxj
-慊	qoxj
-切線	qoxm
-怯	qoxq
-切形	qoxy
-且有	qoyb
-愜意	qoyi
-切要	qoyk
-切音	qoyn
-趄	qoz
-茄子	qozi
-跙	qozq
-踥	qozq
-竊賊	qozz
-權且	qrqo
-確切	qtqo
-恰切	qwqo
-熱切	reqo
-偷竊	tbqo
-提挈	tiqo
-痛切	tsqo
-貼切	txqo
-深切	ufqo
-尚且	uhqo
-失竊	uiqo
-真切	vfqo
-正切	vgqo
-外切	wlqo
-畏怯	wzqo
-心切	xnqo
-羞怯	xqqo
-行竊	xyqo
-一切	yiqo
-殷切	ynqo
-餘切	yuqo
-暫且	zjqo
-# 結束飛鍵
-
-##隨心碼
-#（本質上是無理碼）
-莊	vdg		#來自簡化字寫法 庄；以空碼加
-豬	vuq		#來自簡化字寫法 猪；以空碼加
-議	yiyw		#取末尾的「我」
-誼	yiyq		#取末尾的「且」
-左	zou		#取上部
-右	ybu		#取上部
-味	wk		#跳過韻母
-圍	wkw		#跳過韻母
-凄	qidn		#取「女」
-沏	qidt		#qid + tea
-詩	uiyc		#取末尾小部件
-謄	tgy		#簡化字「誊」
