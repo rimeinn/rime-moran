@@ -8024,7 +8024,7 @@
 共	bc	八龷	
 兲	wb	王八	
 关	qd	䒑大	
-关	bt	八天	
+关	bt	丷天	
 兴	ba	八一	
 兴	db	丶八	
 兵	qb	丘八	
@@ -8306,8 +8306,8 @@
 削	dx	刂肖	
 剋	dk	刂克	
 剌	du	刂束	
-前	bd	丷刂	
 前	qd	䒑刂	
+前	bd	丷刂	
 剎	du	刂杀	
 剏	rb	刄并	
 剐	dg	刂呙	
@@ -34023,8 +34023,8 @@
 𠔡	qf	其分	auto
 𠔢	fv	分枝	auto
 𠔣	gg	巩共	auto
-𠔥	bh	八灬	auto
 𠔥	qh	䒑灬	auto
+𠔥	bh	八灬	auto
 𠔧	bj	八臼	auto
 𠔧	tb	土八	auto
 𠔨	ba	八一	auto
@@ -34731,7 +34731,8 @@
 𠞱	jd	堇刂	auto
 𠞲	di	刀厂	auto
 𠞲	wd	未刀	auto
-𠞳	qd	䒑刂	auto
+𠞳	dp	刂朋	
+𠞳	qd	䒑刂	
 𠞴	cr	倉刃	auto
 𠞵	sd	罒刂	auto
 𠞶	dd	啇刂	auto
@@ -35405,7 +35406,6 @@
 𠧤	bi	卜乂	auto
 𠧥	bb	卜卜	auto
 𠧥	eb	二卜	auto
-𠧦	by	卜幺	auto
 𠧦	qb	䒑卜	auto
 𠧧	bw	卜夂	auto
 𠧨	bg	卜各	auto
