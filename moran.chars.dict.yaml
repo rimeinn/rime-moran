@@ -11873,8 +11873,8 @@ use_preset_vocabulary: false
 剋	ke;dk	0
 剋	kz;dk	192
 剌	la;du	9911
-前	qm;bd	3967855
 前	qm;qd	3967855
+前	qm;bd	3967855
 剎	ia;du	0
 剎	ua;du	0
 剏	id;rb	0
@@ -46738,8 +46738,8 @@ use_preset_vocabulary: false
 𠔡	ff;qf	0
 𠔢	vi;fv	0
 𠔣	gs;gg	0
-𠔥	jm;bh	0
 𠔥	jm;qh	0
+𠔥	jm;bh	0
 𠔧	kp;bj	0
 𠔧	kp;tb	0
 𠔨	lm;ba	0
@@ -47564,6 +47564,7 @@ use_preset_vocabulary: false
 𠞱	jn;jd	0
 𠞲	li;di	0
 𠞲	li;wd	0
+𠞳	jm;dp	0
 𠞳	jm;qd	0
 𠞴	id;cr	0
 𠞵	fa;sd	0
@@ -48352,7 +48353,6 @@ use_preset_vocabulary: false
 𠧤	nl;bi	0
 𠧥	li;bb	0
 𠧥	li;eb	0
-𠧦	zi;by	0
 𠧦	zi;qb	0
 𠧧	xi;bw	0
 𠧨	jq;bg	0

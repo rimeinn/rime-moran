@@ -8297,8 +8297,8 @@
 削 dx
 剋 dk
 剌 du
-前 bd
 前 qd
+前 bd
 剎 du
 剏 rb
 剐 dg
@@ -34014,8 +34014,8 @@
 𠔡 qf
 𠔢 fv
 𠔣 gg
-𠔥 bh
 𠔥 qh
+𠔥 bh
 𠔧 bj
 𠔧 tb
 𠔨 ba
@@ -34722,6 +34722,7 @@
 𠞱 jd
 𠞲 di
 𠞲 wd
+𠞳 dp
 𠞳 qd
 𠞴 cr
 𠞵 sd
@@ -35396,7 +35397,6 @@
 𠧤 bi
 𠧥 bb
 𠧥 eb
-𠧦 by
 𠧦 qb
 𠧧 bw
 𠧨 bg
