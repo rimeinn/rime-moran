@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251107"
+version: "20251108"
 sort: by_weight
 columns:
   - text
@@ -4151,8 +4151,8 @@ AVL樹	avlu
 白菜	blcl
 白醋	blcu
 變量	bld
+百搭	blda
 白搭	blda
-碧藍檔案	blda
 瀕臨倒閉	bldb
 並列第二	blde
 波羅的海	bldh
@@ -5904,7 +5904,6 @@ B盤	bpj
 不過	bug
 不夠	bugb
 飽受詬病	bugb
-別是個傻子吧	bugb
 不光	bugd
 不跟	bugf
 不少工夫	bugf
@@ -6036,7 +6035,6 @@ B盤	bpj
 碧水藍天	bult
 逼上梁山	bulu
 步履	bulv
-不識廬山真面目，只緣身在此山中	bulv
 博士論文	bulw
 捕獵	bulx
 不靈	buly
@@ -10525,6 +10523,7 @@ C盤	cpj
 大增	dazg
 大藏	dazh
 打字	dazi
+搭子	dazi
 大讚	dazj
 打造	dazk
 搭載	dazl
@@ -13008,6 +13007,7 @@ C盤	cpj
 倒忙	dkmh
 稻米	dkmi
 倒賣	dkml
+島民	dkmn
 頓開茅塞	dkms
 盜墓	dkmu
 檮	dkmu
@@ -13169,6 +13169,7 @@ C盤	cpj
 貣	dlby
 動力不足	dlbz
 代詞	dlci
+代餐	dlcj
 帶操	dlck
 殆	dld
 帶大	dlda
@@ -13758,6 +13759,7 @@ C盤	cpj
 打滿傷害	dmuh
 電視	dmui
 電扇	dmuj
+顛勺	dmuk
 點數	dmuu
 奪命書生	dmuu
 巔	dmuy
@@ -19025,6 +19027,7 @@ E盤	epj
 泛黃	fjhd
 販黃	fjhd
 飯盒	fjhe
+反頜	fjhe
 燔	fjhf
 返航	fjhh
 分進合擊	fjhj
@@ -19703,7 +19706,6 @@ F盤	fpj
 發起偷襲	fqtx
 分清是非	fquf
 夫妻雙方	fquf
-風情少婦	fquf
 夫妻生活	fquh
 夫妻雙雙把家還	fquh
 肺氣上逆	fqun
@@ -23285,7 +23287,6 @@ F盤	fpj
 趕趟	gjth
 感嘆	gjtj
 感激涕零	gjtl
-感極涕零	gjtl
 甘甜	gjtm
 古今同夢	gjtm
 狗急跳牆	gjtq
@@ -39041,6 +39042,7 @@ I盤	ipj
 脊索	jiso
 羇	jisq
 計算	jisr
+肌酸	jisr
 寄送	jiss
 激素	jisu
 繫	jisu
@@ -40089,7 +40091,6 @@ JK制服	jkvf
 健康	jmkh
 監考	jmkk
 剪開	jmkl
-寂寞空虛冷	jmkl
 簡括	jmko
 艱困	jmkp
 監控	jmks
@@ -40244,7 +40245,7 @@ JK制服	jkvf
 堅守	jmub
 建設	jmue
 健身	jmuf
-寂寞少婦	jmuf
+艱深	jmuf
 儉省	jmug
 鑑賞	jmuh
 肩上	jmuh
@@ -47195,6 +47196,7 @@ JK制服	jkvf
 科學成果	kxig
 開心就好	kxjh
 苦心積慮	kxjl
+空虛寂寞冷	kxjl
 空虛寂寞	kxjm
 科學教育影片	kxjp
 科學計算	kxjs
@@ -80065,7 +80067,6 @@ T恤衫	txuj
 申辦	ufbj
 尚方寶劍	ufbj
 身份背景	ufbj
-少婦白潔	ufbj
 申報	ufbk
 十分不利	ufbl
 身邊	ufbm
@@ -81567,8 +81568,8 @@ T恤衫	txuj
 實盤	uipj
 實拍	uipl
 詩篇	uipm
-視頻	uipn
 食品	uipn
+視頻	uipn
 識破	uipo
 市場疲軟	uipr
 食譜	uipu
@@ -96977,7 +96978,6 @@ WiFi	wifi
 鄉民	xdmn
 巷陌	xdmo
 項目	xdmu
-閒的沒事	xdmu
 閒得沒事	xdmu
 橡	xdmx
 驤	xdmx
