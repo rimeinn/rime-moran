@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251107"
+version: "20251108"
 sort: original
 columns:
   - text
@@ -4033,8 +4033,8 @@ AVL树	avlu
 百草	blck
 白菜	blcl
 白醋	blcu
+百搭	blda
 白搭	blda
-碧蓝档案	blda
 濒临倒闭	bldb
 并列第二	blde
 波罗的海	bldh
@@ -5770,7 +5770,6 @@ B盘	bpj
 不过	bug
 不够	bugb
 饱受诟病	bugb
-别是个傻子吧	bugb
 不光	bugd
 不跟	bugf
 不少工夫	bugf
@@ -5902,7 +5901,6 @@ B盘	bpj
 碧水蓝天	bult
 逼上梁山	bulu
 步履	bulv
-不识庐山真面目，只缘身在此山中	bulv
 博士论文	bulw
 捕猎	bulx
 不灵	buly
@@ -10233,6 +10231,7 @@ C语言	cyy
 大增	dazg
 大藏	dazh
 打字	dazi
+搭子	dazi
 大赞	dazj
 打造	dazk
 搭载	dazl
@@ -12633,6 +12632,7 @@ C语言	cyy
 倒忙	dkmh
 稻米	dkmi
 倒卖	dkml
+岛民	dkmn
 顿开茅塞	dkms
 盗墓	dkmu
 倒霉	dkmz
@@ -12793,6 +12793,7 @@ C语言	cyy
 得来不易	dlby
 动力不足	dlbz
 代词	dlci
+代餐	dlcj
 带操	dlck
 殆	dld
 带大	dlda
@@ -13367,6 +13368,7 @@ C语言	cyy
 打满伤害	dmuh
 电视	dmui
 电扇	dmuj
+颠勺	dmuk
 磹	dmut
 点数	dmuu
 夺命书生	dmuu
@@ -18457,6 +18459,7 @@ E盘	epj
 泛黄	fjhd
 贩黄	fjhd
 饭盒	fjhe
+反颌	fjhe
 燔	fjhf
 返航	fjhh
 分进合击	fjhj
@@ -22608,7 +22611,6 @@ F盘	fpj
 赶趟	gjth
 感叹	gjtj
 感激涕零	gjtl
-感极涕零	gjtl
 甘甜	gjtm
 古今同梦	gjtm
 狗急跳墙	gjtq
@@ -37960,6 +37962,7 @@ I盘	ipj
 脊索	jiso
 缉	jisq
 计算	jisr
+肌酸	jisr
 寄送	jiss
 激素	jisu
 急速	jisu
@@ -38962,7 +38965,6 @@ JK制服	jkvf
 健康	jmkh
 监考	jmkk
 剪开	jmkl
-寂寞空虚冷	jmkl
 简括	jmko
 艰困	jmkp
 监控	jmks
@@ -39111,7 +39113,7 @@ JK制服	jkvf
 坚守	jmub
 建设	jmue
 健身	jmuf
-寂寞少妇	jmuf
+艰深	jmuf
 俭省	jmug
 鉴赏	jmuh
 肩上	jmuh
@@ -45858,6 +45860,7 @@ JK制服	jkvf
 科学成果	kxig
 开心就好	kxjh
 苦心积虑	kxjl
+空虚寂寞冷	kxjl
 空虚寂寞	kxjm
 科学教育影片	kxjp
 科学计算	kxjs
@@ -79363,8 +79366,8 @@ T恤衫	txuj
 实盘	uipj
 实拍	uipl
 诗篇	uipm
-视频	uipn
 食品	uipn
+视频	uipn
 识破	uipo
 市场疲软	uipr
 矢	uipt
@@ -94373,7 +94376,6 @@ U盘	upj
 乡民	xdmn
 巷陌	xdmo
 项目	xdmu
-闲的没事	xdmu
 闲得没事	xdmu
 橡	xdmx
 骧	xdmx
@@ -118740,8 +118742,8 @@ SD卡	sdk
 通气孔	tqk
 听起来	tql
 太强了	tql
-汰漒𣱾	tql
 钛镪钌	tql
+汰漒𣱾	tql
 抬起头	tqt
 同情心	tqx
 听其言	tqy
