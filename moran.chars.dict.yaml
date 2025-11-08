@@ -13235,6 +13235,8 @@ use_preset_vocabulary: false
 唙	di;kd	273
 唚	qn;ky	592
 唛	ma;km	0
+唛	ml;km	0
+唛	mo;km	0
 唜	mo;mb	0
 唜	mo;mi	0
 唝	gs;kg	0
@@ -13713,6 +13715,7 @@ use_preset_vocabulary: false
 嘚	dz;kd	0
 嘛	ma;km	71478
 嘜	ma;km	693
+嘜	ml;km	693
 嘜	mo;km	693
 嘝	hu;kh	224
 嘝	hu;kd	224
@@ -108023,6 +108026,7 @@ use_preset_vocabulary: false
 𭣟	io;vd	0
 𭣟	vo;dv	0
 𭣟	vo;vd	0
+𭣡	kk;wl	0
 𭣡	kk;lw	0
 𭣢	yb;pa	0
 𭣢	yb;rp	0
