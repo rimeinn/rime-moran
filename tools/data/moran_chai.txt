@@ -86278,7 +86278,8 @@
 𭣛	vv	支執	auto
 𭣟	dv	翟支	auto
 𭣟	vd	支翟	auto
-𭣡	lw	了攵	auto
+𭣡	wl	攵了	
+𭣡	lw	了攵	
 𭣢	pa	攴丨	auto
 𭣢	rp	亻攴	auto
 𭣣	pw	丬攵	auto
