@@ -14559,8 +14559,8 @@
 时	oc	日寸	
 旷	og	日广	
 旸	oy	日𠃓	
-旹	co	屮日	
 旹	oa	日一	
+旹	co	屮日	
 旺	ow	日王	
 旻	ow	日文	
 旻	wo	文日	
@@ -76360,7 +76360,8 @@
 𪙒	ic	齒从	auto
 𪙓	gi	圭齒	auto
 𪙓	iy	齒尤	auto
-𪙔	wi	亠齒	auto
+𪙔	id	齒丶	
+𪙔	wi	亠齒	
 𪙕	iv	齒展	auto
 𪙖	id	齒大	auto
 𪙖	pi	丿齒	auto
@@ -99834,6 +99835,7 @@
 𩢆	mk	馬丂	
 𰀊	kk	冂丂	
 𰀊	ag	丨㇉	
+𭼆	bw	疒王	
 
 # 待考
 
@@ -112118,7 +112120,6 @@
 #𭻼	tv	田奓	
 #𭻽	py	毗藥	
 #𭼁	gb	工卜	
-#𭼆	bw	疒王	
 #𭼇	bh	疒化	
 #𭼈	bb	疒白	
 #𭼊	bg	疒共	
