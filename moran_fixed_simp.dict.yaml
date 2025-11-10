@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251108"
+version: "20251110"
 sort: original
 columns:
   - text
@@ -2768,7 +2768,6 @@ AVL树	avlu
 白炽灯泡	bidp
 必成大器	bidq
 弊端	bidr
-八尺大人	bidr
 不逞多让	bidr
 壁咚	bids
 必读	bidu
@@ -13371,7 +13370,6 @@ C语言	cyy
 颠勺	dmuk
 磹	dmut
 点数	dmuu
-夺命书生	dmuu
 低眉顺眼	dmuy
 簟	dmv
 电闸	dmva
@@ -19965,7 +19963,6 @@ F盘	fpj
 附赘悬肬	fvxy
 付诸于行动	fvyd
 付之一炬	fvyj
-付诸一炬	fvyj
 疯痔瘀瘩痨	fvyl
 发展要求	fvyq
 粉妆玉砌	fvyq
@@ -20837,7 +20834,7 @@ F盘	fpj
 购进	gbjn
 根本就不能	gbjn
 觏	gbjr
-根本就不是	gbju
+根本就不是	gbjs
 构架	gbjw
 勾结	gbjx
 根本就不行	gbjx
@@ -21546,6 +21543,7 @@ F盘	fpj
 艮	gfa
 亘	gfaa
 亘	gfad
+根本	gfbf
 根本	gfbf
 功夫不好	gfbh
 巭孬嫑莪	gfbh
@@ -24433,6 +24431,7 @@ G盘	gpj
 珙	gswg
 公务	gswu
 恭维	gswz
+工位	gswz
 恭	gsx
 功效	gsxc
 共享	gsxd
@@ -32451,7 +32450,7 @@ H盘	hpj
 尘芥	ifjx
 沉静	ifjy
 长发及腰	ifjy
-臣	ifk
+嗔	ifk
 充分肯定	ifkd
 沉疴	ifke
 充分开发	ifkf
@@ -38146,7 +38145,7 @@ I盘	ipj
 基座	jizo
 跻	jizq
 踦	jizq
-鸡枞	jizs
+鸡㙡	jizs
 机组	jizu
 忌嘴	jizv
 跂	jizv
@@ -47857,8 +47856,6 @@ JK制服	jkvf
 懒觉	ljjc
 老奸巨猾	ljjh
 浪迹江湖	ljjh
-老奸巨滑	ljjh
-老肩巨滑	ljjh
 拦击	ljji
 历尽艰苦	ljjk
 镧	ljjl
@@ -70342,6 +70339,7 @@ P站	pvj
 什么眉目	smmm
 私密马赛	smms
 什么名字	smmz
+什么呢	smn
 什么年代	smnd
 岁末年关	smng
 岁末年初	smni
@@ -70393,6 +70391,7 @@ P站	pvj
 什么样的	smyd
 所没有的	smyd
 什么也不懂	smyd
+什么缘故	smyg
 死磨硬泡	smyp
 什么样的人	smyr
 什么意思	smys
@@ -72052,7 +72051,7 @@ P站	pvj
 头上	tbuh
 谈不上好	tbuh
 透视	tbui
-淘宝商城	tbui
+偷师	tbui
 替补上场	tbui
 特别声明	tbum
 投书	tbuu
@@ -85245,6 +85244,7 @@ U盘	upj
 治	vidt
 汁	vidu
 制度	vidu
+只读	vidu
 殖	vidv
 沚	vidv
 支队	vidv
@@ -92551,7 +92551,6 @@ U盘	upj
 悟	wux
 无效	wuxc
 五香	wuxd
-无事献殷勤，非奸即盗	wuxd
 无锡	wuxi
 无限	wuxm
 无线	wuxm
@@ -101656,7 +101655,6 @@ U盘	upj
 有关问题	ygwt
 一个晚上	ygwu
 以攻为守	ygwu
-阳光万丈	ygwv
 勇敢无畏	ygww
 有个万一	ygwy
 有关系的	ygxd
@@ -112517,6 +112515,7 @@ U盘	upj
 官位	grwk
 官威	grwk
 恭维	gswk
+工位	gswk
 归位	gvwk
 瑰伟	gvwk
 寡味	gwwk
@@ -114069,6 +114068,7 @@ CD机	cdj
 电火花	dhh
 大合唱	dhi
 打火机	dhj
+对话框	dhk
 带回来	dhl
 打呼噜	dhl
 德黑兰	dhl
@@ -114383,7 +114383,6 @@ CD机	cdj
 电影票	dyp
 单眼皮	dyp
 代用品	dyp
-调压器	dyq
 代言人	dyr
 递眼色	dys
 第一天	dyt
@@ -118883,6 +118882,7 @@ SD卡	sdk
 太阳能	tyn
 拖油瓶	typ
 头一炮	typ
+调压器	tyq
 听一听	tyt
 同样是	tyu
 太原市	tyu
@@ -119648,6 +119648,7 @@ SD卡	sdk
 正误表	vwb
 中纬度	vwd
 爪哇岛	vwd
+占位符	vwf
 执委会	vwh
 中午好	vwh
 赚外快	vwk

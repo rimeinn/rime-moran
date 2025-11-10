@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20251108"
+version: "20251110"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9228,6 +9228,8 @@ columns:
 描改	100
 鹓鶵	5
 颠勺	100
+奥客
+沤客
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0

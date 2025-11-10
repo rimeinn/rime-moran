@@ -20824,8 +20824,8 @@ use_preset_vocabulary: false
 时	ui;oc	8207119
 旷	kd;og	37033
 旸	yh;oy	1023
-旹	ui;co	0
 旹	ui;oa	0
+旹	ui;co	0
 旺	wh;ow	51739
 旻	mn;ow	1174
 旻	mn;wo	1174
@@ -96160,6 +96160,7 @@ use_preset_vocabulary: false
 𪙒	ia;ic	0
 𪙓	nx;gi	0
 𪙓	nx;iy	0
+𪙔	ji;id	0
 𪙔	ji;wi	0
 𪙕	vj;iv	0
 𪙖	qr;id	0
@@ -124423,3 +124424,4 @@ use_preset_vocabulary: false
 𩢆	ig;mk	0
 𰀊	py;kk	0
 𰀊	py;ag	0
+𭼆	vg;bw	0

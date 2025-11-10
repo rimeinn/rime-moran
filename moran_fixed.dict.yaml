@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251108"
+version: "20251110"
 sort: by_weight
 columns:
   - text
@@ -2834,7 +2834,6 @@ AVL樹	avlu
 白熾燈泡	bidp
 必成大器	bidq
 弊端	bidr
-八尺大人	bidr
 不逞多讓	bidr
 壁咚	bids
 奰	bids
@@ -13761,7 +13760,6 @@ C盤	cpj
 電扇	dmuj
 顛勺	dmuk
 點數	dmuu
-奪命書生	dmuu
 巔	dmuy
 低眉順眼	dmuy
 簟	dmv
@@ -20575,7 +20573,6 @@ F盤	fpj
 附贅懸肬	fvxy
 付諸於行動	fvyd
 付之一炬	fvyj
-付諸一炬	fvyj
 瘋痔瘀瘩癆	fvyl
 發展要求	fvyq
 粉妝玉砌	fvyq
@@ -21360,6 +21357,7 @@ F盤	fpj
 高傲自大	gazd
 嘎子	gazi
 夠	gb
+根本	gb
 冓	gba
 苟安	gban
 孤標傲世	gbau
@@ -25133,6 +25131,7 @@ G盤	gpj
 珙	gswg
 公務	gswu
 恭維	gswz
+工位	gswz
 恭	gsx
 功效	gsxc
 共享	gsxd
@@ -49249,8 +49248,6 @@ JK制服	jkvf
 懶覺	ljjc
 老奸巨猾	ljjh
 浪跡江湖	ljjh
-老奸巨滑	ljjh
-老肩巨滑	ljjh
 攔擊	ljji
 鑭	ljjj
 歷盡艱苦	ljjk
@@ -72344,6 +72341,7 @@ P站	pvj
 什麼眉目	smmm
 私密馬賽	smms
 什麼名字	smmz
+什麼呢	smn
 什麼年代	smnd
 歲末年關	smng
 歲末年初	smni
@@ -72394,6 +72392,7 @@ P站	pvj
 什麼樣的	smyd
 所沒有的	smyd
 什麼也不懂	smyd
+什麼緣故	smyg
 死磨硬泡	smyp
 什麼樣的人	smyr
 什麼意思	smys
@@ -74093,7 +74092,7 @@ P站	pvj
 頭上	tbuh
 談不上好	tbuh
 透視	tbui
-淘寶商城	tbui
+偷師	tbui
 替補上場	tbui
 特別聲明	tbum
 投書	tbuu
@@ -87544,6 +87543,7 @@ U盤	upj
 治	vidt
 汁	vidu
 制度	vidu
+只讀	vidu
 汦	vidu
 殖	vidv
 沚	vidv
@@ -95067,7 +95067,6 @@ WiFi	wifi
 惡	wux
 無效	wuxc
 五香	wuxd
-無事獻殷勤，非奸即盜	wuxd
 無錫	wuxi
 無限	wuxm
 無線	wuxm
@@ -104482,7 +104481,6 @@ WiFi	wifi
 有關問題	ygwt
 一個晚上	ygwu
 以攻爲守	ygwu
-陽光萬丈	ygwv
 勇敢無畏	ygww
 有個萬一	ygwy
 有關係的	ygxd
@@ -115775,6 +115773,7 @@ WiFi	wifi
 官位	grwk
 官威	grwk
 恭維	gswk
+工位	gswk
 歸位	gvwk
 瑰偉	gvwk
 寡味	gwwk
@@ -117389,6 +117388,7 @@ CD機	cdj
 電火花	dhh
 大合唱	dhi
 打火機	dhj
+對話框	dhk
 帶回來	dhl
 打呼嚕	dhl
 德黑蘭	dhl
@@ -117701,7 +117701,6 @@ CD機	cdj
 電影票	dyp
 單眼皮	dyp
 代用品	dyp
-調壓器	dyq
 代言人	dyr
 遞眼色	dys
 第一天	dyt
@@ -122200,6 +122199,7 @@ SD卡	sdk
 太陽能	tyn
 拖油瓶	typ
 頭一炮	typ
+調壓器	tyq
 聽一聽	tyt
 同樣是	tyu
 太原市	tyu
@@ -122962,6 +122962,7 @@ SD卡	sdk
 正誤表	vwb
 爪哇島	vwd
 中緯度	vwd
+佔位符	vwf
 中午好	vwh
 執委會	vwh
 賺外快	vwk
@@ -123555,8 +123556,8 @@ Word	wrd
 繡花鞋	xhx
 歇後語	xhy
 小黃魚	xhy
-小夥子	xhz
 小孩子	xhz
+小夥子	xhz
 熊孩子	xhz
 現成的	xid
 興沖沖	xii
