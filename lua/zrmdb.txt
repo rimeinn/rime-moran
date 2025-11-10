@@ -14550,8 +14550,8 @@
 时 oc
 旷 og
 旸 oy
-旹 co
 旹 oa
+旹 co
 旺 ow
 旻 ow
 旻 wo
@@ -76351,6 +76351,7 @@
 𪙒 ic
 𪙓 gi
 𪙓 iy
+𪙔 id
 𪙔 wi
 𪙕 iv
 𪙖 id
@@ -99825,6 +99826,7 @@
 𩢆 mk
 𰀊 kk
 𰀊 ag
+𭼆 bw
 𣮚 mf
 𣴅 df
 𨯾 jj
