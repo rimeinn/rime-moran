@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251110"
+version: "20251112"
 sort: original
 columns:
   - text
@@ -502,7 +502,6 @@ A股	agu
 阿米尔汗	ameh
 安民告示	amgu
 澳门回归	amhg
-澳门皇家赌场	amhi
 奥密克戎	amkr
 鞍马劳顿	amld
 阿美莉卡	amlk
@@ -1380,7 +1379,6 @@ AVL树	avlu
 并不可靠	bbkk
 必不可免	bbkm
 并不可能	bbkn
-并不可怕，	bbkp
 并不可怕	bbkp
 必不可缺	bbkq
 不必客气	bbkq
@@ -2535,6 +2533,7 @@ AVL树	avlu
 不合乎逻辑	bhhj
 不会回来	bhhl
 不会很难	bhhn
+比葫画瓢	bhhp
 不合乎要求	bhhq
 帮会	bhhv
 不怀好意	bhhy
@@ -4545,6 +4544,7 @@ AVL树	avlu
 边检	bmjm
 薄命佳人	bmjr
 编剧	bmju
+边距	bmju
 保密级画质	bmjv
 边界	bmjx
 便捷	bmjx
@@ -9246,8 +9246,10 @@ C++	cpp
 才思敏捷	csmj
 聪敏	csmn
 从什么时候起	csmq
+从什么时候起	csmq
 从什么时候开始	csmu
 从母	csmu
+从什么时候开始	csmu
 骢	csmx
 聪明	csmy
 从没	csmz
@@ -9431,8 +9433,6 @@ C++	cpp
 粗米	cumi
 粗毛	cumk
 促脉	cuml
-从什么时候起	cumq
-从什么时候开始	cumu
 蹙眉	cumz
 粗胖	cuph
 粗识皮毛	cupm
@@ -12208,6 +12208,7 @@ C语言	cyy
 淡黄	djhd
 单核	djhe
 但很	djhf
+单行	djhh
 杜绝后患	djhh
 第九回合	djhh
 敌军还有五秒到达战场	djhi
@@ -13813,7 +13814,6 @@ D盘	dpj
 大巧不工	dqbg
 定期报告	dqbg
 的确不会	dqbh
-点起笔区	dqbq
 刀枪不入	dqbr
 短期避孕药	dqby
 底气不足	dqbz
@@ -19006,6 +19006,7 @@ E盘	epj
 份内之事	fnvu
 妇女之友	fnvy
 妇女卫生	fnwu
+非那雄胺	fnxa
 呋喃西林	fnxl
 妇女运动	fnyd
 放你一马	fnym
@@ -21545,11 +21546,6 @@ F盘	fpj
 亘	gfad
 根本	gfbf
 根本	gfbf
-功夫不好	gfbh
-巭孬嫑莪	gfbh
-巭孬嫑夯昆勥茓	gfbh
-巭孬嫑烎	gfbh
-巭孬嫑夯莪	gfbh
 跟班	gfbj
 跟包	gfbk
 高分辨率	gfbl
@@ -21837,7 +21833,6 @@ F盘	fpj
 耕	ggl
 刮骨疗毒	ggld
 盖棺论定	ggld
-旮旮旯旯儿	ggle
 更冷	gglg
 功高劳苦	gglk
 光怪陆离	ggll
@@ -21958,7 +21953,6 @@ F盘	fpj
 官官相护	ggxh
 公关小姐	ggxj
 高官显爵	ggxj
-谷歌相机	ggxj
 各个学科	ggxk
 更显	ggxm
 攻关项目	ggxm
@@ -22010,7 +22004,6 @@ F盘	fpj
 刚	gh
 港澳	ghao
 刚把	ghba
-骨灰拌饭	ghbf
 钢蹦	ghbg
 钢笔	ghbi
 港币	ghbi
@@ -22020,7 +22013,6 @@ F盘	fpj
 干活不累	ghbl
 钢化玻璃	ghbl
 公侯伯子男	ghbn
-公侯伯子男骑	ghbq
 港埠	ghbu
 关怀备至	ghbv
 刚才	ghcl
@@ -23295,7 +23287,6 @@ F盘	fpj
 国民革命	gmgm
 国民闺女	gmgn
 各门各派	gmgp
-购买过的店铺	gmgp
 革命歌曲	gmgq
 更名改姓	gmgx
 怪模怪样	gmgy
@@ -25146,6 +25137,7 @@ G盘	gpj
 跪求	gvqq
 规劝	gvqr
 归去	gvqu
+高筑墙，广积粮，缓称王	gvqw
 各种情形	gvqx
 果真如此	gvrc
 观者如堵	gvrd
@@ -26292,7 +26284,6 @@ G盘	gpj
 好不随便	hbsb
 后嗣	hbsi
 货比三家	hbsj
-火变三态广二米	hbsm
 还不是因为你	hbsn
 还不是因为	hbsw
 还不死心	hbsx
@@ -27752,7 +27743,6 @@ H股	hgu
 瀚	hjdh
 浛	hjdh
 旱地	hjdi
-皇家赌场	hjdi
 邯郸	hjdj
 喊道	hjdk
 汉代	hjdl
@@ -28467,7 +28457,6 @@ H股	hgu
 海伦凯勒	hlkl
 咍	hlkt
 赫拉克利特	hlkt
-赫拉克里特	hlkt
 害苦	hlku
 喝了口水	hlku
 海葵	hlkv
@@ -29165,7 +29154,6 @@ H盘	hpj
 红旗不倒	hqbd
 后勤部门	hqbm
 好巧不巧	hqbq
-横起笔区	hqbq
 寒气逼人	hqbr
 后勤保障	hqbv
 好奇宝宝在线提问	hqbw
@@ -54194,6 +54182,7 @@ JK制服	jkvf
 莫斯利安	msla
 玛莎拉蒂	msld
 墨索里尼	msln
+没什么错	msmc
 没什么好说的	msmd
 没什么的	msmd
 没什么看法	msmf
@@ -54502,7 +54491,6 @@ JK制服	jkvf
 模	mum
 木马	muma
 没啥毛病	mumb
-没什么错	mumc
 木门	mumf
 墓门	mumf
 马瘦毛长	mumi
@@ -60862,7 +60850,6 @@ JK制服	jkvf
 平平仄仄	ppzz
 抛弃	pq
 脾气不好	pqbh
-撇起笔区	pqbq
 脾气暴躁	pqbz
 旁敲侧击	pqcj
 攀亲道故	pqdg
@@ -68483,7 +68470,6 @@ P站	pvj
 入座	ruzo
 人生自古谁无死	ruzs
 人生在世	ruzu
-乳首自慰	ruzw
 人身自由	ruzy
 瑞	rv
 认真	rv
@@ -68863,7 +68849,6 @@ P站	pvj
 日益突出	ryti
 人猿泰山	rytu
 任意时间	ryuj
-荣耀水晶	ryuj
 忍一时风平浪静	ryuj
 人妖殊途	ryut
 如有神助	ryuv
@@ -68878,7 +68863,6 @@ P站	pvj
 人员往来	rywl
 如有问题	rywt
 如烟往事	rywu
-荣耀王者	rywv
 软玉温香	rywx
 容易想到	ryxd
 任意修改	ryxg
@@ -68941,7 +68925,6 @@ P站	pvj
 孺子可教	rzkj
 融资困难	rzkn
 如遭雷击	rzlj
-日早两竖与虫依	rzly
 人在美国刚下飞机	rzmj
 日子难熬	rzna
 日子难过	rzng
@@ -68960,7 +68943,6 @@ P站	pvj
 人在屋檐下	rzwx
 人造纤维	rzxw
 人造行星	rzxx
-日在校园	rzxy
 人择原理	rzyl
 如左右手	rzyu
 日滋月益	rzyy
@@ -70277,6 +70259,7 @@ P站	pvj
 什么	sm
 扫描病毒	smbd
 四面八方	smbf
+什么办法	smbf
 什么办法	smbf
 碎面包屑	smbx
 什么地点	smdd
@@ -73245,7 +73228,6 @@ P站	pvj
 探访	tjfh
 摊贩	tjfj
 团结奋进	tjfj
-田甲方框四车力	tjfl
 摊	tjfn
 跳狙飞人	tjfr
 条件反射	tjfu
@@ -73621,7 +73603,6 @@ P站	pvj
 叨扰	tkrk
 讨饶	tkrk
 绦	tks
-田框四车甲单底	tksd
 桃色	tkse
 逃散	tksj
 拓宽思路	tksl
@@ -80577,7 +80558,6 @@ T恤衫	txuj
 生命安全	umaq
 数码宝贝	umbb
 书面表达	umbd
-什么办法	umbf
 书面报告	umbg
 数码变焦	umbj
 生命不止	umbv
@@ -81400,6 +81380,7 @@ U盘	upj
 神色凛然	uslr
 是什么啊	usma
 慎思明辨	usmb
+是什么呢	usmn
 深色模式	usmu
 生死难料	usnl
 势所难免	usnm
@@ -81802,7 +81783,6 @@ U盘	upj
 书面	uumm
 神神秘秘	uumm
 庶民	uumn
-是什么呢	uumn
 枢	uumq
 少数民族地区	uumq
 生身母亲	uumq
@@ -82821,7 +82801,6 @@ U盘	upj
 时运不济	uybj
 数以百计	uybj
 衰败	uybl
-山由贝骨下框里	uybl
 衰变	uybm
 拾遗补阙	uybq
 拾遗补缺	uybq
@@ -87312,6 +87291,7 @@ U盘	upj
 指桑骂槐	vsmh
 装死卖活	vsmh
 蛛丝马迹	vsmj
+着什么急	vsmj
 终末	vsmo
 朝三暮四	vsms
 朝思暮想	vsmx
@@ -87796,7 +87776,6 @@ U盘	upj
 终身免费	vumf
 筑梦	vumg
 注满	vumj
-着什么急	vumj
 战术目镜	vumj
 猪毛	vumk
 找上门来	vuml
@@ -101869,6 +101848,7 @@ U盘	upj
 移花接木	yhjm
 洋酒	yhjq
 羊圈	yhjr
+阳角	yhjt
 有话就说	yhju
 扬剧	yhju
 养家	yhjw
@@ -104309,6 +104289,7 @@ U盘	upj
 有奶就是娘	ynjn
 饮酒	ynjq
 因难见巧	ynjq
+阴角	ynjt
 隐居	ynju
 印加	ynjw
 音节	ynjx
@@ -105605,6 +105586,7 @@ U盘	upj
 庸碌	yslu
 一死了之	yslv
 有什么区别	ysmb
+有什么区别	ysmb
 有什么错	ysmc
 有什么大不了的	ysmd
 勇猛	ysmg
@@ -106342,7 +106324,6 @@ U盘	upj
 鱼类	yulz
 榆	yum
 预谋	yumb
-有什么区别	yumb
 育苗	yumc
 鱼苗	yumc
 郁闷	yumf
@@ -107069,14 +107050,12 @@ U盘	upj
 亿万富豪	ywfh
 以武犯禁	ywfj
 业务繁忙	ywfm
-言文方点谁人去	ywfq
 永无翻身之日	ywfr
 业务发展	ywfv
 亿万富翁	ywfw
 业务范围	ywfw
 意外发现	ywfx
 英文翻译	ywfy
-言文方点在四一	ywfy
 越王勾践	ywgj
 业务管理	ywgl
 药物过量	ywgl
@@ -115166,7 +115145,6 @@ git	git
 公式化	guh
 过山车	gui
 过时了	gul
-干什么	gum
 赶时髦	gum
 高水平	gup
 感受器	guq
@@ -119963,7 +119941,6 @@ Word	wrd
 晚上好	wuh
 卫生间	wuj
 威士忌	wuj
-为什么	wum
 乌纱帽	wum
 卫生球	wuq
 维生素	wus
