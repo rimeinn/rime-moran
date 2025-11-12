@@ -17911,10 +17911,8 @@
 炗 ch
 炗 hc
 炘 hj
-炙 ho
-炙 hy
 炙 oh
-炙 yh
+炙 ho
 炚 oh
 炛 hh
 炜 hw
@@ -19425,9 +19423,9 @@
 畨 mt
 畨 tm
 畩 ty
+番 tm
 番 tb
 番 pt
-番 tm
 畫 ya
 畫 ta
 畬 ty

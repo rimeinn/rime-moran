@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20251110"
+version: "20251112"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9230,6 +9230,12 @@ columns:
 颠勺	100
 奧客
 漚客
+噔噔咚
+任意大
+任意小
+本徵態
+劉維爾
+施圖姆
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0

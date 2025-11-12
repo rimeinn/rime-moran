@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251110"
+version: "20251112"
 sort: by_weight
 columns:
   - text
@@ -520,7 +520,6 @@ A股	agu
 阿米爾汗	ameh
 安民告示	amgu
 澳門迴歸	amhg
-澳門皇家賭場	amhi
 奧密克戎	amkr
 鞍馬勞頓	amld
 阿美莉卡	amlk
@@ -1419,7 +1418,6 @@ AVL樹	avlu
 並不可靠	bbkk
 必不可免	bbkm
 並不可能	bbkn
-並不可怕，	bbkp
 並不可怕	bbkp
 必不可缺	bbkq
 不必客氣	bbkq
@@ -2600,6 +2598,7 @@ AVL樹	avlu
 不合乎邏輯	bhhj
 不會回來	bhhl
 不會很難	bhhn
+比葫畫瓢	bhhp
 不合乎要求	bhhq
 幫會	bhhv
 不懷好意	bhhy
@@ -4668,6 +4667,7 @@ AVL樹	avlu
 邊檢	bmjm
 薄命佳人	bmjr
 編劇	bmju
+邊距	bmju
 保密級畫質	bmjv
 邊界	bmjx
 便捷	bmjx
@@ -9512,7 +9512,9 @@ C盤	cpj
 才思敏捷	csmj
 聰敏	csmn
 從什麼時候起	csmq
+從什麼時候起	csmq
 從母	csmu
+從什麼時候開始	csmu
 從什麼時候開始	csmu
 聰明	csmy
 從沒	csmz
@@ -9706,8 +9708,6 @@ C盤	cpj
 粗米	cumi
 粗毛	cumk
 促脈	cuml
-從什麼時候起	cumq
-從什麼時候開始	cumu
 蹙眉	cumz
 觕	cun
 脨	cuo
@@ -12562,6 +12562,7 @@ C盤	cpj
 單核	djhe
 但很	djhf
 黕	djhg
+單行	djhh
 杜絕後患	djhh
 第九回合	djhh
 敵軍還有五秒到達戰場	djhi
@@ -14224,7 +14225,6 @@ D盤	dpj
 大巧不工	dqbg
 定期報告	dqbg
 的確不會	dqbh
-點起筆區	dqbq
 刀槍不入	dqbr
 短期避孕藥	dqby
 底氣不足	dqbz
@@ -19588,6 +19588,7 @@ E盤	epj
 份內之事	fnvu
 婦女之友	fnvy
 婦女衛生	fnwu
+非那雄胺	fnxa
 呋喃西林	fnxl
 婦女運動	fnyd
 放你一馬	fnym
@@ -22203,11 +22204,6 @@ F盤	fpj
 亙	gfaa
 亘	gfad
 根本	gfbf
-功夫不好	gfbh
-巭孬嫑莪	gfbh
-巭孬嫑夯昆勥茓	gfbh
-巭孬嫑烎	gfbh
-巭孬嫑夯莪	gfbh
 跟班	gfbj
 跟包	gfbk
 高分辨率	gfbl
@@ -22497,7 +22493,6 @@ F盤	fpj
 耕	ggl
 刮骨療毒	ggld
 蓋棺論定	ggld
-旮旮旯旯兒	ggle
 更冷	gglg
 功高勞苦	gglk
 光怪陸離	ggll
@@ -22621,7 +22616,6 @@ F盤	fpj
 官官相護	ggxh
 公關小姐	ggxj
 高官顯爵	ggxj
-谷歌相機	ggxj
 各個學科	ggxk
 更顯	ggxm
 攻關項目	ggxm
@@ -22674,7 +22668,6 @@ F盤	fpj
 港澳	ghao
 疘	ghb
 剛把	ghba
-骨灰拌飯	ghbf
 鋼蹦	ghbg
 鋼筆	ghbi
 港幣	ghbi
@@ -22684,7 +22677,6 @@ F盤	fpj
 幹活不累	ghbl
 鋼化玻璃	ghbl
 公侯伯子男	ghbn
-公侯伯子男騎	ghbq
 港埠	ghbu
 關懷備至	ghbv
 剛才	ghcl
@@ -23390,7 +23382,6 @@ F盤	fpj
 甘油	gjyb
 更進一步	gjyb
 更進一層	gjyc
-割雞焉用牛刀	gjyd
 酐	gjyg
 鱤	gjyg
 觀今宜鑑古	gjyg
@@ -23985,7 +23976,6 @@ F盤	fpj
 國民革命	gmgm
 國民閨女	gmgn
 各門各派	gmgp
-購買過的店鋪	gmgp
 革命歌曲	gmgq
 更名改姓	gmgx
 怪模怪樣	gmgy
@@ -25880,6 +25870,7 @@ G盤	gpj
 跪求	gvqq
 規勸	gvqr
 歸去	gvqu
+高築牆，廣積糧，緩稱王	gvqw
 各種情形	gvqx
 傀	gvr
 果真如此	gvrc
@@ -27050,7 +27041,6 @@ G盤	gpj
 好不隨便	hbsb
 後嗣	hbsi
 貨比三家	hbsj
-火變三態廣二米	hbsm
 還不是因爲你	hbsn
 還不是因爲	hbsw
 還不死心	hbsx
@@ -28518,7 +28508,6 @@ G盤	gpj
 涵	hjdh
 瀚	hjdh
 旱地	hjdi
-皇家賭場	hjdi
 邯鄲	hjdj
 喊道	hjdk
 漢代	hjdl
@@ -29262,7 +29251,6 @@ G盤	gpj
 海倫凱勒	hlkl
 咍	hlkt
 赫拉克利特	hlkt
-赫拉克里特	hlkt
 害苦	hlku
 喝了口水	hlku
 海葵	hlkv
@@ -29985,7 +29973,6 @@ H盤	hpj
 紅旗不倒	hqbd
 後勤部門	hqbm
 好巧不巧	hqbq
-橫起筆區	hqbq
 寒氣逼人	hqbr
 後勤保障	hqbv
 好奇寶寶在線提問	hqbw
@@ -55766,6 +55753,7 @@ JK制服	jkvf
 莫斯利安	msla
 瑪莎拉蒂	msld
 墨索里尼	msln
+沒什麼錯	msmc
 沒什麼好說的	msmd
 沒什麼的	msmd
 沒什麼看法	msmf
@@ -56076,7 +56064,6 @@ JK制服	jkvf
 畝	mum
 木馬	muma
 沒啥毛病	mumb
-沒什麼錯	mumc
 木門	mumf
 墓門	mumf
 馬瘦毛長	mumi
@@ -62667,7 +62654,6 @@ PC端	pcd
 平平仄仄	ppzz
 拋棄	pq
 脾氣不好	pqbh
-撇起筆區	pqbq
 脾氣暴躁	pqbz
 旁敲側擊	pqcj
 攀親道故	pqdg
@@ -70501,7 +70487,6 @@ P站	pvj
 入座	ruzo
 人生自古誰無死	ruzs
 人生在世	ruzu
-乳首自慰	ruzw
 人身自由	ruzy
 瑞	rv
 認真	rv
@@ -70884,7 +70869,6 @@ P站	pvj
 人猿泰山	rytu
 忍一時風平浪靜，退一步海闊天高	ryug
 任意時間	ryuj
-榮耀水晶	ryuj
 忍一時風平浪靜	ryuj
 忍一時風平浪靜，退一步海闊天空	ryuk
 人妖殊途	ryut
@@ -70900,7 +70884,6 @@ P站	pvj
 人員往來	rywl
 如有問題	rywt
 如煙往事	rywu
-榮耀王者	rywv
 軟玉溫香	rywx
 容易想到	ryxd
 任意修改	ryxg
@@ -70963,7 +70946,6 @@ P站	pvj
 孺子可教	rzkj
 融資困難	rzkn
 如遭雷擊	rzlj
-日早兩豎與蟲依	rzly
 人在美國剛下飛機	rzmj
 日子難熬	rzna
 日子難過	rzng
@@ -70982,7 +70964,6 @@ P站	pvj
 人在屋檐下	rzwx
 人造纖維	rzxw
 人造行星	rzxx
-日在校園	rzxy
 人擇原理	rzyl
 如左右手	rzyu
 日滋月益	rzyy
@@ -72278,6 +72259,7 @@ P站	pvj
 什麼	sm
 掃描病毒	smbd
 四面八方	smbf
+什麼辦法	smbf
 什麼辦法	smbf
 什麼b動靜	smbj
 碎麪包屑	smbx
@@ -75323,7 +75305,6 @@ P站	pvj
 探訪	tjfh
 攤販	tjfj
 團結奮進	tjfj
-田甲方框四車力	tjfl
 攤	tjfn
 跳狙飛人	tjfr
 罈	tjft
@@ -75725,7 +75706,6 @@ P站	pvj
 叨擾	tkrk
 討饒	tkrk
 縧	tks
-田框四車甲單底	tksd
 桃色	tkse
 綯	tksf
 逃散	tksj
@@ -82822,7 +82802,6 @@ T恤衫	txuj
 生命安全	umaq
 數碼寶貝	umbb
 書面表達	umbd
-什麼辦法	umbf
 書面報告	umbg
 數碼變焦	umbj
 生命不止	umbv
@@ -83647,6 +83626,7 @@ U盤	upj
 神色凜然	uslr
 是什麼啊	usma
 慎思明辨	usmb
+是什麼呢	usmn
 深色模式	usmu
 生死難料	usnl
 勢所難免	usnm
@@ -84053,7 +84033,6 @@ U盤	upj
 書面	uumm
 神神祕祕	uumm
 庶民	uumn
-是什麼呢	uumn
 樞	uumq
 少數民族地區	uumq
 生身母親	uumq
@@ -85087,7 +85066,6 @@ U盤	upj
 時運不濟	uybj
 數以百計	uybj
 衰敗	uybl
-山由貝骨下框裏	uybl
 衰變	uybm
 拾遺補闕	uybq
 拾遺補缺	uybq
@@ -89712,6 +89690,7 @@ U盤	upj
 指桑罵槐	vsmh
 裝死賣活	vsmh
 蛛絲馬跡	vsmj
+着什麼急	vsmj
 終末	vsmo
 朝三暮四	vsms
 朝思暮想	vsmx
@@ -90220,7 +90199,6 @@ U盤	upj
 築夢	vumg
 欘	vumi
 注滿	vumj
-着什麼急	vumj
 戰術目鏡	vumj
 豬毛	vumk
 找上門來	vuml
@@ -104698,6 +104676,7 @@ WiFi	wifi
 移花接木	yhjm
 洋酒	yhjq
 羊圈	yhjr
+陽角	yhjt
 有話就說	yhju
 揚劇	yhju
 養家	yhjw
@@ -107272,6 +107251,7 @@ WiFi	wifi
 有奶就是娘	ynjn
 飲酒	ynjq
 因難見巧	ynjq
+陰角	ynjt
 隱居	ynju
 印加	ynjw
 音節	ynjx
@@ -108609,6 +108589,7 @@ WiFi	wifi
 庸碌	yslu
 一死了之	yslv
 有什麼區別	ysmb
+有什麼區別	ysmb
 有什麼錯	ysmc
 有什麼大不了的	ysmd
 勇猛	ysmg
@@ -109375,7 +109356,6 @@ WiFi	wifi
 魚類	yulz
 榆	yum
 預謀	yumb
-有什麼區別	yumb
 育苗	yumc
 魚苗	yumc
 鬱悶	yumf
@@ -110134,14 +110114,12 @@ WiFi	wifi
 億萬富豪	ywfh
 以武犯禁	ywfj
 業務繁忙	ywfm
-言文方點誰人去	ywfq
 永無翻身之日	ywfr
 業務發展	ywfv
 億萬富翁	ywfw
 業務範圍	ywfw
 意外發現	ywfx
 英文翻譯	ywfy
-言文方點在四一	ywfy
 越王勾踐	ywgj
 業務管理	ywgl
 藥物過量	ywgl
@@ -118483,7 +118461,6 @@ git	git
 公式化	guh
 過山車	gui
 過時了	gul
-幹什麼	gum
 趕時髦	gum
 高水平	gup
 感受器	guq
@@ -123276,7 +123253,6 @@ Word	wrd
 晚上好	wuh
 衛生間	wuj
 威士忌	wuj
-爲什麼	wum
 烏紗帽	wum
 衛生球	wuq
 維生素	wus
