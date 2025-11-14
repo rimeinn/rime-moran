@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251112"
+version: "20251114"
 sort: by_weight
 columns:
   - text
@@ -13723,6 +13723,7 @@ C盤	cpj
 當面請教	dmqj
 墊錢	dmqm
 點球	dmqq
+點券	dmqr
 盜名欺世	dmqu
 到目前爲止	dmqv
 顛茄	dmqx
@@ -22575,7 +22576,6 @@ F盤	fpj
 高光時刻	gguk
 規格說明	ggum
 搞怪視頻	ggup
-關穀神奇	gguq
 公共食堂	ggut
 公共設施	gguu
 公共事務	gguw
@@ -24729,6 +24729,7 @@ G盤	gpj
 管片	grpm
 官腔	grqd
 官氣	grqi
+管錢	grqm
 管區	grqu
 關卡	grqw
 關切	grqx
@@ -63348,7 +63349,6 @@ P站	pvj
 砯	pyub
 平射	pyue
 評審	pyuf
-拼音輸入法	pyuf
 平生	pyug
 屏聲	pyug
 評上	pyuh
@@ -72263,6 +72263,7 @@ P站	pvj
 什麼辦法	smbf
 什麼b動靜	smbj
 碎麪包屑	smbx
+什麼都	smdb
 什麼地點	smdd
 什麼都不知道	smdd
 所面對的	smdd
@@ -121730,6 +121731,7 @@ SD卡	sdk
 什麼啊	sma
 什麼詞	smc
 什麼的	smd
+什麼都	smd
 嗓門兒	sme
 什麼鬼	smg
 什麼梗	smg
@@ -123997,6 +123999,7 @@ Word	wrd
 硬漢子	yhz
 陰沉沉	yii
 一場空	yik
+已處理	yil
 預處理	yil
 一剎那	yin
 雅加達	yjd

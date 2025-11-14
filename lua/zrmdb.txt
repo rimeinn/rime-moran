@@ -19329,7 +19329,9 @@
 生 na
 甠 ou
 甡 uu
+產 ui
 產 wu
+産 ui
 産 iu
 産 lu
 甤 uu
@@ -84548,6 +84550,7 @@
 𬻐 ad
 𬻑 pd
 𬻔 ad
+𬻕 ae
 𬻕 ao
 𬻛 bq
 𬻜 ae
@@ -86154,11 +86157,11 @@
 𭠙 fy
 𭠛 fg
 𭠜 ft
-𭠠 ad
+𭠠 ud
 𭠡 fk
 𭠦 fg
-𭠧 lu
 𭠧 ul
+𭠧 lu
 𭠪 fz
 𭠬 fm
 𭠭 fd
@@ -86176,7 +86179,8 @@
 𭡌 fa
 𭡍 bx
 𭡒 fv
-𭡓 vw
+𭡓 fw
+𭡓 wv
 𭡔 fb
 𭡖 fy
 𭡗 fj
