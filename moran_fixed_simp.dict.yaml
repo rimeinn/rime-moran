@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251112"
+version: "20251114"
 sort: original
 columns:
   - text
@@ -13330,6 +13330,7 @@ C语言	cyy
 当面请教	dmqj
 垫钱	dmqm
 点球	dmqq
+点券	dmqr
 盗名欺世	dmqu
 到目前为止	dmqv
 颠茄	dmqx
@@ -21912,7 +21913,6 @@ F盘	fpj
 高光时刻	gguk
 规格说明	ggum
 搞怪视频	ggup
-关谷神奇	gguq
 公共食堂	ggut
 公共设施	gguu
 公共事务	gguw
@@ -24032,6 +24032,7 @@ G盘	gpj
 关	grq
 官腔	grqd
 官气	grqi
+管钱	grqm
 管区	grqu
 关卡	grqw
 关切	grqx
@@ -61544,7 +61545,6 @@ P站	pvj
 平手	pyub
 平射	pyue
 评审	pyuf
-拼音输入法	pyuf
 平生	pyug
 屏声	pyug
 评上	pyuh
@@ -70262,6 +70262,7 @@ P站	pvj
 什么办法	smbf
 什么办法	smbf
 碎面包屑	smbx
+什么都	smdb
 什么地点	smdd
 什么都不知道	smdd
 所面对的	smdd
@@ -120684,6 +120685,7 @@ Word	wrd
 一会再	yhz
 阴沉沉	yii
 一场空	yik
+已处理	yil
 预处理	yil
 一刹那	yin
 雅加达	yjd

@@ -19338,7 +19338,9 @@
 生	na	牛一	
 甠	ou	日生	
 甡	uu	生生	
+產	ui	生厂	
 產	wu	文生	
+産	ui	生产	
 産	iu	产生	
 産	lu	立生	
 甤	uu	生豕	
@@ -84557,7 +84559,8 @@
 𬻐	ad	一丁	auto
 𬻑	pd	丿丶	auto
 𬻔	ad	一丶	auto
-𬻕	ao	一目	auto
+𬻕	ae	一二	
+𬻕	ao	一目	
 𬻛	bq	不去	auto
 𬻜	ae	一二	auto
 𬻜	ee	二二	auto
@@ -86163,11 +86166,11 @@
 𭠙	fy	扌业	auto
 𭠛	fg	扌干	auto
 𭠜	ft	扌土	auto
-𭠠	ad	一丶	auto
+𭠠	ud	手丶	
 𭠡	fk	扌口	auto
 𭠦	fg	扌干	auto
-𭠧	lu	列手	auto
 𭠧	ul	手列	auto
+𭠧	lu	列手	auto
 𭠪	fz	扌自	auto
 𭠬	fm	扌名	auto
 𭠭	fd	扌丹	auto
@@ -86185,7 +86188,8 @@
 𭡌	fa	扌一	auto
 𭡍	bx	拜下	auto
 𭡒	fv	扌咒	auto
-𭡓	vw	折攵	auto
+𭡓	fw	扌攵	
+𭡓	wv	攵折	
 𭡔	fb	扌巴	auto
 𭡖	fy	扌衣	auto
 𭡗	fj	扌咎	auto
