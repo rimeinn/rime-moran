@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20251112"
+version: "20251115"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9236,6 +9236,10 @@ columns:
 本征态
 刘维尔
 施图姆
+十瓦	10
+百瓦	10
+厘瓦	10
+
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0
