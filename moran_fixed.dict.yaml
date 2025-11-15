@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251114"
+version: "20251115"
 sort: by_weight
 columns:
   - text
@@ -89140,6 +89140,7 @@ U盤	upj
 衆叛親離	vpql
 準確	vpqt
 招聘啓事	vpqu
+智譜清言	vpqy
 招聘人才	vprc
 准入	vpru
 招聘人員	vpry
@@ -108318,6 +108319,7 @@ WiFi	wifi
 引人注目	yrvm
 圓桌	yrvo
 圓轉	yrvr
+冤種	yrvs
 原著	yrvu
 援助	yrvu
 躍然紙上	yrvu
@@ -121290,6 +121292,7 @@ PVP	pvp
 前列腺	qlx
 千里眼	qly
 清涼油	qly
+親密度	qmd
 清明節	qmj
 全面屏	qmp
 曲面屏	qmp
@@ -122343,6 +122346,7 @@ SD卡	sdk
 數量詞	ulc
 手榴彈	uld
 十來個	ulg
+疏離感	ulg
 失落感	ulg
 數理化	ulh
 省略號	ulh
@@ -124448,6 +124452,7 @@ Word	wrd
 總結性	zjx
 自駕遊	zjy
 自解壓	zjy
+自控力	zkl
 怎可能	zkn
 最開始	zku
 鑽空子	zkz
