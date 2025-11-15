@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251114"
+version: "20251115"
 sort: original
 columns:
   - text
@@ -86758,6 +86758,7 @@ U盘	upj
 众叛亲离	vpql
 准确	vpqt
 招聘启事	vpqu
+智谱清言	vpqy
 招聘人才	vprc
 准入	vpru
 招聘人员	vpry
@@ -102767,7 +102768,7 @@ U盘	upj
 沿儿	yjer
 也就是说	yjeu
 阽	yjev
-艳	yjf
+掩	yjf
 研发	yjfa
 应急方案	yjfa
 与己方便	yjfb
@@ -102786,6 +102787,7 @@ U盘	upj
 衣架饭囊	yjfn
 已经放弃	yjfq
 业绩斐然	yjfr
+艳	yjfs
 用进废退	yjft
 永久反弹	yjft
 眼福	yjfu
@@ -105317,6 +105319,7 @@ U盘	upj
 引人注目	yrvm
 圆桌	yrvo
 圆转	yrvr
+冤种	yrvs
 原著	yrvu
 援助	yrvu
 跃然纸上	yrvu
@@ -117977,6 +117980,7 @@ PVP	pvp
 前列腺	qlx
 千里眼	qly
 清凉油	qly
+亲密度	qmd
 清明节	qmj
 全面屏	qmp
 曲面屏	qmp
@@ -119027,6 +119031,7 @@ SD卡	sdk
 数量词	ulc
 手榴弹	uld
 十来个	ulg
+疏离感	ulg
 失落感	ulg
 数理化	ulh
 省略号	ulh
@@ -121137,6 +121142,7 @@ Word	wrd
 自觉性	zjx
 自驾游	zjy
 自解压	zjy
+自控力	zkl
 怎可能	zkn
 最开始	zku
 钻空子	zkz
