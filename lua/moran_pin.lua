@@ -443,7 +443,7 @@ function pin_filter.func(t_input, env)
             return a.commits > b.commits
         end)
         for _, unpacked in ipairs(commits) do
-            local cand = Candidate("pinned", 0, #input, unpacked.phrase, env.indicator)
+            local cand = Candidate("pinned", segment._start, segment._end, unpacked.phrase, env.indicator)
             cand.preedit = input
             yield(cand)
         end
