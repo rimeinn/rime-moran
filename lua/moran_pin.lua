@@ -1,5 +1,5 @@
 -- moran_pin.lua
--- version: 0.1.4
+-- version: 0.1.5
 -- author: kuroame
 -- license: GPLv3
 -- You may copy, distribute and modify the software as long as you track
@@ -8,6 +8,7 @@
 -- along with build & install instructions.
 
 -- changelog
+-- 0.1.5: query only the current segment instead of the whole input
 -- 0.1.4: make commit counter always start from 0
 -- 0.1.3: use C-- and C-= (C-+) to reorder candidates
 -- 0.1.2: add freestyle mode, add switch to enable/disable pin
@@ -426,7 +427,10 @@ end
 
 function pin_filter.func(t_input, env)
     if env.pin_enable and env.engine.context.composition:toSegmentation():get_confirmed_position() == 0 then
-        local input = env.engine.context.input
+        local context = env.engine.context
+        local composition = context.composition
+        local segment = composition:back()
+        local input = context.input:sub(segment._start + 1, segment._end)
         local commits = {}
         local entries = user_db.query_and_unpack(input)
         if entries then
