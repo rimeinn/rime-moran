@@ -63,7 +63,7 @@ local function translateBigUnit(exponent, bigUnit)
    local prefix = ""
    while exponent ~= 0 do
       if exponent % 2 == 1 then
-         prefix = prefix .. bigUnit[i]
+         prefix = bigUnit[i] .. prefix
       end
       exponent = exponent // 2
       i = i + 1
@@ -89,7 +89,7 @@ local function translateInt(str, digit, unit, bigUnit)
       local segStr = translateIntSegment(segInt, digit, unit)
       local unitStr = translateBigUnit(exponent, bigUnit)
       local filler = (lastSegInt < 1000 and not first) and digit[0] or ""
-      result = segStr .. unitStr .. filler .. result
+      result = segStr .. (segStr ~= "" and unitStr or "") .. filler .. result
       lastSegInt = segInt
       int = int // 10000
       exponent = exponent + 4
