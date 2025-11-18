@@ -8657,6 +8657,7 @@
 卖	um	十买	
 南	ua	十丨	
 南	uy	十𢆉	
+南	aa	一丨	
 単	dd	丶{単下}	
 卙	uu	甚十	
 博	uc	十寸	
@@ -20090,7 +20091,6 @@
 睼	ou	目是	
 睽	og	目癸	
 睽	ot	目天	
-睾	ps	丿十	
 睾	px	丿幸	
 睿	or	目人	
 睿	bo	卜目	
@@ -20245,9 +20245,8 @@
 矲	ub	矢罷	
 矲	un	矢能	
 石	kp	口丿	
-石	aa	丆一	
 石	ak	丆口	
-石	pk	丿口	
+石	aa	丆一	
 矴	ud	石丁	
 矵	ud	石刂	
 矶	uj	石几	
@@ -25854,8 +25853,8 @@
 视	uj	示见	
 觇	jv	见占	
 览	jv	见{竹半}	
-觉	dj	丶见	
 觉	jb	见冖	
+觉	dj	丶见	
 觊	jj	见己	
 觊	jq	见岂	
 觋	jw	见巫	
@@ -93851,118 +93850,131 @@
 𱉅	nv	鳥隹	auto
 𱉅	qn	其鳥	auto
 𱉆	nu	鳥氺	auto
-𱉇	ny	鸟乙	auto
-𱉈	dn	刀鸟	auto
-𱉉	ln	了鸟	auto
-𱉊	gn	干鸟	auto
-𱉋	ng	鸟干	auto
-𱉌	ny	鸟义	auto
-𱉍	wn	王鸟	auto
-𱉎	fn	夫鸟	auto
-𱉏	vn	专鸟	auto
-𱉐	bn	贝鸟	auto
-𱉑	fn	分鸟	auto
-𱉒	on	月鸟	auto
-𱉓	hn	户鸟	auto
-𱉔	gn	夬鸟	auto
-𱉕	nk	鸟可	auto
-𱉖	pn	丕鸟	auto
-𱉗	dn	旦鸟	auto
-𱉘	qn	且鸟	auto
-𱉙	nv	鸟只	auto
-𱉚	un	失鸟	auto
-𱉛	un	矢鸟	auto
-𱉜	fn	付鸟	auto
-𱉝	sn	巳鸟	auto
-𱉞	mn	母鸟	auto
-𱉟	yn	又鸟	auto
-𱉡	bn	弁鸟	auto
-𱉢	yn	幼鸟	auto
-𱉣	nr	鸟戎	auto
-𱉤	gn	圭鸟	auto
-𱉥	jn	吉鸟	auto
-𱉦	ln	老鸟	auto
-𱉧	gn	戈鸟	auto
-𱉨	yn	亚鸟	auto
-𱉩	yn	夷鸟	auto
-𱉪	an	艾鸟	auto
-𱉫	vn	朱鸟	auto
-𱉬	qn	乔鸟	auto
-𱉭	wn	危鸟	auto
-𱉮	gn	各鸟	auto
-𱉯	yn	羊鸟	auto
-𱉰	xn	兴鸟	auto
-𱉱	jn	军鸟	auto
-𱉲	mn	牟鸟	auto
-𱉳	mn	买鸟	auto
-𱉴	yn	杨鸟	auto
-𱉵	ln	来鸟	auto
-𱉶	hn	旱鸟	auto
-𱉷	yn	役鸟	auto
-𱉸	ny	鸟余	auto
-𱉹	xn	希鸟	auto
-𱉺	fn	孚鸟	auto
+𱉇	ny	鸟乙	
+𱉈	nd	鸟刀	
+𱉉	nl	鸟了	
+𱉊	ng	鸟干	
+𱉋	ng	鸟干	
+𱉌	ny	鸟义	
+𱉍	nw	鸟王	
+𱉎	nf	鸟夫	
+𱉏	nv	鸟专	
+𱉐	nb	鸟贝	
+𱉑	nf	鸟分	
+𱉒	no	鸟月	
+𱉓	hn	户鸟	
+𱉔	ng	鸟夬	
+𱉕	nk	鸟可	
+𱉖	np	鸟丕	
+𱉗	nd	鸟旦	
+𱉘	nq	鸟且	
+𱉙	nv	鸟只	
+𱉚	nu	鸟失	
+𱉛	nu	鸟矢	
+𱉜	nf	鸟付	
+𱉝	nd	鸟丶	
+𱉞	nm	鸟母	
+𱉟	nf	鸟𰀁	
+𱉡	nb	鸟弁	
+𱉢	ny	鸟幼	
+𱉣	nr	鸟戎	
+𱉤	ng	鸟圭	
+𱉥	nj	鸟吉	
+𱉦	nl	鸟老	
+𱉦	ln	老鸟	
+𱉧	gn	戈鸟	
+𱉧	ng	鸟戈	
+𱉨	ny	鸟亚	
+𱉩	ny	鸟夷	
+𱉪	na	鸟艾	
+𱉫	nv	鸟朱	
+𱉬	nq	鸟乔	
+𱉭	nw	鸟危	
+𱉮	ng	鸟各	
+𱉯	ny	鸟羊	
+𱉰	nx	鸟兴	
+𱉰	xn	兴鸟	
+𱉱	nj	鸟军	
+𱉲	nm	鸟牟	
+𱉳	nm	鸟买	
+𱉴	ny	鸟杨	
+𱉵	nl	鸟来	
+𱉶	nh	鸟旱	
+𱉷	ny	鸟役	
+𱉸	ny	鸟余	
+𱉹	nx	鸟希	
+𱉺	nf	鸟孚	
 𱉻	nt	鸟妥	
-𱉼	jn	即鸟	auto
-𱉽	jn	忌鸟	auto
-𱉾	sn	厶鸟	auto
-𱉿	nw	鸟夂	auto
-𱊀	tn	土鸟	auto
-𱊁	qn	奇鸟	auto
-𱊂	mn	明鸟	auto
-𱊃	hn	禾鸟	auto
-𱊄	ne	鸟兒	auto
-𱊅	nv	鸟隹	auto
-𱊆	tn	兔鸟	auto
-𱊇	gn	勹鸟	auto
-𱊈	en	兒鸟	auto
-𱊉	xn	学鸟	auto
+𱉼	nj	鸟即	
+𱉽	nj	鸟忌	
+𱉾	ns	鸟夋	
+𱉿	nw	鸟夂	
+𱊀	nt	鸟土	
+𱊁	nq	鸟奇	
+𱊂	nm	鸟明	
+𱊃	nd	鸟{刀}	
+𱊄	ne	鸟兒	
+𱊅	nv	鸟隹	
+𱊅	vn	隹鸟	
+𱊆	nt	鸟兔	
+𱊆	tn	兔鸟	
+𱊇	nj	鸟匊	
+𱊇	nm	鸟米	
+𱊈	ne	鸟兒	
+𱊉	nx	鸟学	
 𱊊	nk	鸟空	
-𱊋	jn	肩鸟	auto
+𱊋	nj	鸟肩	
 𱊌	nj	鸟居	
-𱊍	vn	叕鸟	auto
-𱊎	zn	甾鸟	auto
-𱊏	an	一鸟	auto
-𱊐	jn	皆鸟	auto
-𱊑	dn	盾鸟	auto
-𱊒	yn	爰鸟	auto
-𱊓	mn	脉鸟	auto
-𱊔	fn	复鸟	auto
-𱊕	dn	帝鸟	auto
-𱊖	tn	突鸟	auto
-𱊗	rn	柔鸟	auto
-𱊘	tn	彖鸟	auto
-𱊙	vn	振鸟	auto
-𱊚	vn	真鸟	auto
-𱊛	sn	隼鸟	auto
-𱊜	nn	鸟鸟	auto
-𱊝	tn	唐鸟	auto
-𱊞	sn	涑鸟	auto
-𱊟	hn	害鸟	auto
-𱊠	tn	荼鸟	auto
-𱊡	wn	唯鸟	auto
-𱊢	ln	笠鸟	auto
-𱊣	jn	今鸟	auto
-𱊤	yn	庸鸟	auto
-𱊥	un	商鸟	auto
-𱊦	yn	壹鸟	auto
-𱊧	jn	厥鸟	auto
-𱊨	nq	鸟渠	auto
-𱊩	tn	屠鸟	auto
-𱊪	ln	零鸟	auto
-𱊫	yn	虞鸟	auto
+𱊍	nv	鸟叕	
+𱊎	nz	鸟甾	
+𱊎	nt	鸟田	
+𱊏	nf	鸟畐	
+𱊏	nt	鸟田	
+𱊐	nj	鸟皆	
+𱊑	nd	鸟盾	
+𱊒	ny	鸟爰	
+𱊓	nm	鸟脉	
+𱊔	nf	鸟复	
+𱊕	nd	鸟帝	
+𱊖	nt	鸟突	
+𱊗	nr	鸟柔	
+𱊘	nt	鸟彖	
+𱊙	nv	鸟振	
+𱊚	nv	鸟真	
+𱊛	ns	鸟隼	
+𱊜	nn	鸟鸟	
+𱊝	nt	鸟唐	
+𱊞	ns	鸟涑	
+𱊟	nh	鸟害	
+𱊠	nt	鸟荼	
+𱊡	nw	鸟唯	
+𱊢	nl	鸟笠	
+𱊣	ny	鸟酉	
+𱊤	ny	鸟庸	
+𱊥	nu	鸟商	
+𱊦	ny	鸟壹	
+𱊧	nj	鸟厥	
+𱊧	in	厂鸟	
+𱊧	jn	厥鸟	
+𱊨	nq	鸟渠	
+𱊩	nt	鸟屠	
+𱊪	nl	鸟零	
+𱊫	ny	鸟虞	
 𱊬	nu	鸟蜀	
 𱊬	ni	鸟虫	
-𱊭	yn	與鸟	auto
-𱊮	wn	亡鸟	auto
-𱊯	jn	敫鸟	auto
-𱊰	yn	意鸟	auto
-𱊱	dn	翟鸟	auto
-𱊲	bn	暴鸟	auto
+𱊭	jn	{臼}鸟	
+𱊭	ny	與鸟	
+𱊮	wn	亡鸟	
+𱊯	nw	鸟攵	
+𱊯	nj	鸟敫	
+𱊰	ny	鸟意	
+𱊱	nd	鸟翟	
+𱊲	nb	鸟暴	
 𱊳	nl	鸟畾	
 𱊳	nt	鸟田	
-𱊴	yn	燕鸟	auto
-𱊵	yn	龠鸟	auto
+𱊴	ny	鸟燕	
+𱊵	nc	鸟冊	
+𱊵	ny	鸟龠	
 𱊶	bu	卜十	auto
 𱊸	bj	卜今	auto
 𱊹	bj	卜旧	auto
