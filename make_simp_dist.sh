@@ -111,6 +111,7 @@ rm -f opencc/moran_emoji.txt
 # 部分 lua 中输出繁体字，也做转换
 ########################################################################
 simplifyDict lua/moran_shijian.lua
+simplifyDict lua/moran_number.lua
 simplifyDict lua/moran_charset_comment_filter.lua
 simplifyDict lua/moran_pin.lua
 simplifyDict moran_custom_phrases.txt
