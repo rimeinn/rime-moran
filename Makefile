@@ -50,7 +50,6 @@ clean:
 
 dist: quick
 	mkdir -p $(DESTDIR)
-	cp -a .gitignore $(DESTDIR)
 	cp -a README*.md LICENSE etc $(DESTDIR)
 	cp -a moran* $(DESTDIR)
 	cp -a default.yaml key_bindings.yaml punctuation.yaml symbols.yaml $(DESTDIR)
