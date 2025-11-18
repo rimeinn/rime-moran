@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251115"
+version: "20251118"
 sort: original
 columns:
   - text
@@ -40627,9 +40627,9 @@ JK制服	jkvf
 绝路	jtlu
 具体来说	jtlu
 家庭联产承包责任制	jtlv
-静态类型	jtlx
 决裂	jtlx
 交通路线	jtlx
+静态类型	jtlx
 集体利益	jtly
 九天揽月	jtly
 具体例子	jtlz
@@ -42106,6 +42106,7 @@ JK制服	jkvf
 急性发作	jxfz
 戒	jxg
 结构	jxgb
+解構	jxgb
 借光	jxgd
 桔梗	jxgg
 机械工程	jxgi
@@ -48601,6 +48602,7 @@ JK制服	jkvf
 楝	lmm
 联盟	lmmg
 连忙	lmmh
+脸盲	lmmh
 连麦	lmml
 梿	lmml
 鲁莽灭裂	lmml
@@ -51524,6 +51526,7 @@ JK制服	jkvf
 蚂蚱	mava
 麻疹	mavf
 马掌	mavh
+骂仗	mavh
 玛	maw
 码文	mawf
 马戏	maxi
@@ -77979,6 +77982,7 @@ T恤衫	txuj
 蜃	ufi
 审查	ufia
 深仇	ufib
+审丑	ufib
 是非成败	ufib
 深沉	ufif
 伸长	ufih
@@ -85977,7 +85981,6 @@ U盘	upj
 直接原因	vjyy
 谵	vjyy
 直角坐标	vjzb
-直角座标	vjzb
 逐渐增大	vjzd
 逐渐增多	vjzd
 毡子	vjzi
@@ -88503,6 +88506,7 @@ U盘	upj
 中文字幕	vwzm
 抓贼	vwzz
 这下	vx
+只想	vx
 朝鲜半岛	vxbd
 真想不到	vxbd
 忠心不二	vxbe
@@ -115653,7 +115657,7 @@ git	git
 黑黝黝	hyy
 化验员	hyy
 旱鸭子	hyz
-横座标	hzb
+横坐标	hzb
 活字典	hzd
 很糟糕	hzg
 洪泽湖	hzh
@@ -121046,7 +121050,7 @@ Word	wrd
 坐标轴	zbv
 自闭症	zbv
 再不行	zbx
-座标系	zbx
+坐标系	zbx
 赞比亚	zby
 在不在	zbz
 子弟兵	zdb
@@ -121343,3 +121347,6 @@ Word	wrd
 早自习	zzx
 再怎样	zzy
 啧啧啧	zzz
+优惠券	yhq
+纵坐标	zzb
+醍醐味	thw

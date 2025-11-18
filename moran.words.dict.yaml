@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20251115"
+version: "20251118"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9245,6 +9245,8 @@ columns:
 矧可射思	1	uf;uy ke;dk yi;uc si;xt
 殺孽	5
 弒師	5
+審醜	10
+罵仗	100
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0

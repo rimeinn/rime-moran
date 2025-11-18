@@ -188,7 +188,7 @@ quick_repeat:  # 快速重複上屏
 simplifier:
   option_name: simplification
   opencc_config: moran_t2s.json
-  tags: [abc]
+  tags: [abc, number]
 
 chaifen:
   option_name: chaifen
@@ -318,7 +318,7 @@ recognizer:
   import_preset: default
   patterns:
     unicode: "^U[a-fA-F0-9]+"
-    number: "^S[0-9]+"
+    number: "^S[0-9\\.]+"
     shijian: "^N[0-9]+"
     uppercase: "[A-Z][-_+.'A-Za-z]*$"
     punct: '^/([0-9]0?|[A-Za-z]+)$'
