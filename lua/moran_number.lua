@@ -1,131 +1,166 @@
---[[
-Source:http://98wb.ysepan.com/
-Modified by 惜洛
-Modified by ksqsf for Project Moran
---]]
+-- moran_number.lua
+--
+-- Author: ksqsf
+-- License: GPLv3
+-- Version: 0.1
+--
+-- 0.1: Introduction.
 
-local function splitNumPart(str)
-	local part = {}
-	part.int, part.dot, part.dec = string.match(str, "^(%d*)(%.?)(%d*)")
-	return part
+local MAXINT           = math.maxinteger
+local dot              = "點"
+local digitRegular     = { [0] = "零", "一", "二", "三", "四", "五", "六", "七", "八", "九" }
+local digitLower       = { [0] = "〇", "一", "二", "三", "四", "五", "六", "七", "八", "九" }
+local digitUpper       = { [0] = "零", "壹", "貳", "叄", "肆", "伍", "陸", "柒", "捌", "玖" }
+local unitLower        = { "", "十", "百", "千" }
+local unitUpper        = { "", "拾", "佰", "仟" }
+local bigUnit          = { "萬", "億" }
+local currencyUnit     = "元"
+local currencyFracUnit = { "角", "分", "釐", "毫" }
+
+-- 解析浮點數字符串爲三元組 ( 整數部分字符串, 小數點字符串, 小數部分字符串 )
+local function parseNumStr(str)
+   local result = {}
+   result.int, result.dot, result.frac = str:match("^(%d*)(%.?)(%d*)")
+   return result
 end
 
-local function GetPreciseDecimal(nNum, n)
-	if type(nNum) ~= "number" then nNum =tonumber(nNum) end
-	n = n or 0;
-	n = math.floor(n)
-	if n < 0 then n = 0 end
-	local nDecimal = 10 ^ n
-	local nTemp = math.floor(nNum * nDecimal);
-	local nRet = nTemp / nDecimal;
-	return nRet;
+-- 轉換 4 位整數節, 如 9909 -> 九千九百零九
+local function translateIntSegment(int, digit, unit)
+   local d = {
+      int % 10,
+      (int // 10) % 10,
+      (int // 100) % 10,
+      (int // 1000) % 10
+   }
+   local result = ""
+   local lastPos = -1
+   local i = 4
+   while i >= 1 do
+      if d[i] ~= 0 then
+         if lastPos == -1 then
+            lastPos = i
+         end
+         if lastPos - i > 1 then  -- 中間有空位, 增加'零'
+            result = result .. digit[0]
+         end
+         result = result .. digit[d[i]] .. unit[i]
+         lastPos = i
+      end
+      i = i - 1
+   end
+   return result
 end
 
-local function decimal_func(str, posMap, valMap)
-	local dec
-	posMap = posMap or {[1]="角"; [2]="分"; [3]="厘"; [4]="毫"}
-	valMap = valMap or {[0]="零"; "壹"; "贰"; "叁" ;"肆"; "伍"; "陆"; "柒"; "捌"; "玖"}
-	if #str>4 then dec = string.sub(tostring(str), 1, 4) else dec =tostring(str) end
-	dec = string.gsub(dec, "0+$", "")
-	
-	if dec == "" then return "整" end
-
-	local result = ""
-	for pos =1, #dec do
-		local val = tonumber(string.sub(dec, pos, pos))
-		if val~=0 then result = result .. valMap[val] .. posMap[pos] else result = result .. valMap[val] end
-	end
-	result=result:gsub(valMap[0]..valMap[0] ,valMap[0])
-	return result:gsub(valMap[0]..valMap[0] ,valMap[0])
+-- 將指數轉換成大數單位
+-- 如 4->萬, 8->億
+-- exponent 必須是4的倍數
+local function translateBigUnit(exponent, bigUnit)
+   exponent = exponent // 4
+   local hiExp = #bigUnit    -- 最高大數單位
+   local result = bigUnit[hiExp]:rep(exponent // hiExp)
+   exponent = exponent % hiExp
+   local i = 1
+   local prefix = ""
+   while exponent ~= 0 do
+      if exponent % 2 == 1 then
+         prefix = bigUnit[i] .. prefix
+      end
+      exponent = exponent // 2
+      i = i + 1
+   end
+   return prefix .. result
 end
 
--- 把数字串按千分位四位数分割，进行转换为中文
-local function formatNum(num,t)
-	local digitUnit,wordFigure
-	local result=""
-	num=tostring(num)
-	if tonumber(t) < 1 then digitUnit = {"", "十", "百","千"} else digitUnit = {"","拾","佰","仟"} end
-	if tonumber(t) <1 then
-		wordFigure = {"〇","一","二","三","四","五","六","七","八","九"}
-	else wordFigure = {"零","壹","贰","叁","肆","伍","陆","柒","捌","玖"} end
-	if string.len(num)>4 or tonumber(num)==0 then return wordFigure[1] end
-	local lens=string.len(num)
-	for i=1,lens do
-		local n=wordFigure[tonumber(string.sub(num,-i,-i))+1]
-		if n~=wordFigure[1] then result=n .. digitUnit[i] .. result else result=n .. result end
-	end
-	result=result:gsub(wordFigure[1]..wordFigure[1] ,wordFigure[1])
-	result=result:gsub(wordFigure[1].."$","") result=result:gsub(wordFigure[1].."$","")
-
-	return result
+-- 轉換整數部分
+local function translateInt(str, digit, unit, bigUnit)
+   local int = tonumber(str)
+   if math.type(int) == "float" then
+      return "數值超限！"
+   end
+   if int == 0 then
+      return digit[0]
+   end
+   local result = ""
+   local exponent = 0
+   local lastSegInt = 1000
+   local first = true
+   while int ~= 0 do
+      local segInt = int % 10000
+      local segStr = translateIntSegment(segInt, digit, unit)
+      local unitStr = translateBigUnit(exponent, bigUnit)
+      local filler = (lastSegInt < 1000 and not first) and digit[0] or ""
+      result = segStr .. (segStr ~= "" and unitStr or "") .. filler .. result
+      lastSegInt = segInt
+      int = int // 10000
+      exponent = exponent + 4
+      if segInt ~= 0 then
+         first = false
+      end
+   end
+   return result
 end
 
--- 数值转换为中文
-function number2cnChar(num,flag,digitUnit,wordFigure)    --flag=0中文小写反之为大写
-	local st,result
-	num=tostring(num) result=""
-	local num1,num2=math.modf(num)
-	if tonumber(num2)==0 then
-		if tonumber(flag) < 1 then
-			digitUnit = digitUnit or {[1]="万";[2]="亿"}  wordFigure = wordFigure or {[1]="〇"; [2]="一"; [3]="十"; [4]="元"}
-		else
-			digitUnit = digitUnit or {[1]="万";[2]="亿"}  wordFigure = wordFigure or {[1]="零"; [2]="壹"; [3]="拾"; [4]="元"}
-		end
-		local lens=string.len(num1)
-		if lens<5 then result=formatNum(num1,flag) elseif lens<9 then result=formatNum(string.sub(num1,1,-5),flag) .. digitUnit[1].. formatNum(string.sub(num1,-4,-1),flag)
-		elseif lens<13 then result=formatNum(string.sub(num1,1,-9),flag) .. digitUnit[2] .. formatNum(string.sub(num1,-8,-5),flag) .. digitUnit[1] .. formatNum(string.sub(num1,-4,-1),flag) else result="" end
-		result=result:gsub("^" .. wordFigure[1],"") result=result:gsub(wordFigure[1] .. digitUnit[1],"") result=result:gsub(wordFigure[1] .. digitUnit[2],"")
-		result=result:gsub(wordFigure[1] .. wordFigure[1],wordFigure[1]) result=result:gsub(wordFigure[1] .. "$","")
-		if lens>4 then result=result:gsub("^"..wordFigure[2].. wordFigure[3],wordFigure[3]) end
-		if result~="" then result=result .. wordFigure[4] else result="数值超限！" end
-	else return "数值超限！" end
-
-	return result
+local function mapDigits(str, digit)
+   return str:gsub("%d", function(c) return digit[tonumber(c)] or c end)
 end
 
-local function number2zh(num,t)
-	local result,wordFigure
-	result="" 
-	if tonumber(t) <1 then
-		wordFigure = {"〇","一","二","三","四","五","六","七","八","九"}
-	else wordFigure = {"零","壹","贰","叁","肆","伍","陆","柒","捌","玖"} end
-	if tostring(num)==nil then return "" end
-	for pos=1,string.len(num) do
-		result=result..wordFigure[tonumber(string.sub(num, pos, pos)+1)]
-	end
-	result=result:gsub(wordFigure[1] .. wordFigure[1],wordFigure[1])
-	return result:gsub(wordFigure[1] .. wordFigure[1],wordFigure[1])
+-- 轉換小數部分, 金額風格, 0123 -> 零角一分二釐
+local function translateFracCurrency(str, digit, unit)
+   local len = math.min(#unit, #str)
+   local result = ""
+   for i = 1, len do
+      result = result .. digit[str:byte(i) - 0x30] .. unit[i]
+   end
+   return result
 end
 
-function number_translatorFunc(num)
-	local numberPart=splitNumPart(num)
-	local result={}
-	if numberPart.dot~="" then
-		table.insert(result,{number2cnChar(numberPart.int,0,{"万", "亿"},{"〇","一","十","点"})..number2zh(numberPart.dec,0),""})
-		table.insert(result,{number2cnChar(numberPart.int,1,{"萬", "億"},{"〇","一","十","点"})..number2zh(numberPart.dec,1),""})
---		table.insert(result,{number2cnChar(numberPart.int,1,{"萬", "億"},{"〇","一","十","点"})..number2zh(numberPart.dec,1),"〔大写〕"})
-	else
-		table.insert(result,{number2cnChar(numberPart.int,0,{"万", "亿"},{"〇","一","十",""}),""})
-		table.insert(result,{number2cnChar(numberPart.int,1,{"萬", "億"},{"零","壹","拾",""}),""})
-	end
-	table.insert(result,{number2cnChar(numberPart.int,1)..decimal_func(numberPart.dec,{[1]="角"; [2]="分"; [3]="厘"; [4]="毫"},{[0]="零"; "壹"; "贰"; "叁" ;"肆"; "伍"; "陆"; "柒"; "捌"; "玖"}),""})
-	table.insert(result,{number2cnChar(numberPart.int,0)..decimal_func(numberPart.dec,{[1]="角"; [2]="分"; [3]="厘"; [4]="毫"},{[0]="〇"; "一"; "二"; "三" ;"四"; "五"; "六"; "七"; "八"; "九"}),""})
-	return result
+-- 常規轉換
+local function translateRegular(input)
+   return translateInt(input.int, digitRegular, unitLower, bigUnit)
+      .. (input.dot ~= "" and (dot .. mapDigits(input.frac, digitRegular)) or "")
 end
 
-function translator(input, seg)
-	local str,num,numberPart
-	if string.match(input,"^(S+%d+)(%.?)(%d*)$")~=nil then
-		str = string.gsub(input,"^(%a+)", "")  numberPart=number_translatorFunc(str)
-		if #numberPart>0 then
-			for i=1,#numberPart do
-				yield(Candidate(input, seg.start, seg._end, numberPart[i][1],numberPart[i][2]))
-			end
-		end
-	end
+local function translateUpper(input)
+   return translateInt(input.int, digitUpper, unitUpper, bigUnit)
+      .. (input.dot ~= "" and (dot .. mapDigits(input.frac, digitUpper)) or "")
 end
 
+local function translateLower(input)
+   return translateInt(input.int, digitLower, unitLower, bigUnit)
+      .. (input.dot ~= "" and (dot .. mapDigits(input.frac, digitLower)) or "")
+end
+
+-- 金額轉換
+local function translateCurrency(input, digit, unit, bigUnit)
+   local intPart = translateInt(input.int, digit, unit, bigUnit)
+   if input.dot == "" then
+      return intPart .. currencyUnit .. "整"
+   else
+      return intPart .. currencyUnit .. translateFracCurrency(input.frac, digit, currencyFracUnit)
+   end
+end
+
+local function translateNumStr(str)
+   local input = parseNumStr(str)
+   local result = {
+      { translateRegular(input), "〔小寫〕"},
+      { translateUpper(input), "〔大寫〕"},
+      -- { translateLower(input), "〔小寫〕"},
+      { mapDigits(str, digitLower):gsub("%.", dot), "〔編號〕" },
+      { translateCurrency(input, digitUpper, unitUpper, bigUnit), "〔金額大寫〕"},
+      { translateCurrency(input, digitLower, unitLower, bigUnit), "〔金額小寫〕"},
+   }
+   return result
+end
+
+local function translator(input, seg)
+   if input:match("^(S+%d+)(%.?)(%d*)$") ~= nil then
+      local str = input:gsub("^(%a+)", "")
+      local conversions = translateNumStr(str)
+      for i = 1, #conversions do
+         yield(Candidate(input, seg.start, seg._end, conversions[i][1], conversions[i][2]))
+      end
+   end
+end
 
 return translator
-
-
