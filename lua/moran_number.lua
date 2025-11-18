@@ -83,15 +83,19 @@ local function translateInt(str, digit, unit, bigUnit)
    local result = ""
    local exponent = 0
    local lastSegInt = 1000
+   local first = true
    while int ~= 0 do
       local segInt = int % 10000
       local segStr = translateIntSegment(segInt, digit, unit)
       local unitStr = translateBigUnit(exponent, bigUnit)
-      local filler = lastSegInt < 1000 and digit[0] or ""
+      local filler = (lastSegInt < 1000 and not first) and digit[0] or ""
       result = segStr .. unitStr .. filler .. result
       lastSegInt = segInt
       int = int // 10000
       exponent = exponent + 4
+      if segInt ~= 0 then
+         first = false
+      end
    end
    return result
 end
