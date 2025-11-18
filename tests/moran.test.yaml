@@ -39,7 +39,7 @@ deploy:
       - send: U8888
         assert: eq(cand[1].text, '袈')
       - send: S114514
-        assert: eq(cand[1].text, '十一万四千五百一十四')
+        assert: eq(cand[1].text, '一十一萬四千五百一十四')
       - send: olfuvuv
         assert: eq(cand[1].text, '冰') and eq(cand[1].comment, 'by[du] ny[du]')
 
