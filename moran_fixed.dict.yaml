@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251115"
+version: "20251118"
 sort: by_weight
 columns:
   - text
@@ -41797,9 +41797,9 @@ JK制服	jkvf
 家庭聯產承包責任制	jtlv
 決裂	jtlx
 交通路線	jtlx
+靜態類型	jtlx
 集體利益	jtly
 九天攬月	jtly
-靜態類型	jtlz
 具體例子	jtlz
 橛	jtm
 剪貼蒙版	jtmb
@@ -43328,6 +43328,7 @@ JK制服	jkvf
 急性發作	jxfz
 截	jxg
 結構	jxgb
+解構	jxgb
 戒	jxgc
 借光	jxgd
 桔梗	jxgg
@@ -50014,6 +50015,7 @@ JK制服	jkvf
 楝	lmm
 聯盟	lmmg
 連忙	lmmh
+臉盲	lmmh
 連麥	lmml
 槤	lmml
 魯莽滅裂	lmml
@@ -53018,6 +53020,7 @@ JK制服	jkvf
 螞蚱	mava
 麻疹	mavf
 馬掌	mavh
+罵仗	mavh
 瑪	maw
 碼文	mawf
 瓾	maww
@@ -57233,7 +57236,6 @@ JK制服	jkvf
 昧	mzo
 腜	mzom
 眛	mzow
-每	mzp
 沒票	mzpc
 民族平等	mzpd
 滿嘴噴糞	mzpf
@@ -80169,6 +80171,7 @@ T恤衫	txuj
 蜃	ufi
 審查	ufia
 深仇	ufib
+審醜	ufib
 是非成敗	ufib
 深沉	ufif
 伸長	ufih
@@ -88340,7 +88343,7 @@ U盤	upj
 直接原因	vjyy
 譫	vjyy
 邅	vjz
-直角座標	vjzb
+直角坐標	vjzb
 逐漸增大	vjzd
 逐漸增多	vjzd
 氈子	vjzi
@@ -90960,6 +90963,7 @@ U盤	upj
 中文字幕	vwzm
 抓賊	vwzz
 這下	vx
+只想	vx
 朝鮮半島	vxbd
 真想不到	vxbd
 忠心不二	vxbe
@@ -118966,7 +118970,7 @@ git	git
 黑黝黝	hyy
 化驗員	hyy
 旱鴨子	hyz
-橫座標	hzb
+橫坐標	hzb
 活字典	hzd
 很糟糕	hzg
 洪澤湖	hzh
@@ -124357,7 +124361,7 @@ Word	wrd
 座標軸	zbv
 自閉症	zbv
 再不行	zbx
-座標系	zbx
+坐標系	zbx
 贊比亞	zby
 在不在	zbz
 坐地板	zdb
@@ -124653,6 +124657,9 @@ Word	wrd
 早自習	zzx
 再怎樣	zzy
 嘖嘖嘖	zzz
+優惠券	yhq
+縱坐標	zzb
+醍醐味	thw
 
 # Some words for testing...
 八坂	babj
