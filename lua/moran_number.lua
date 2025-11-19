@@ -111,7 +111,8 @@ local function translateFracCurrency(str, digit, unit)
    for i = 1, len do
       result = result .. digit[str:byte(i) - 0x30] .. unit[i]
    end
-   return result
+   local terminator = #str < 2 and "整" or ""
+   return result .. terminator
 end
 
 -- 常規轉換
@@ -133,11 +134,8 @@ end
 -- 金額轉換
 local function translateCurrency(input, digit, unit, bigUnit)
    local intPart = translateInt(input.int, digit, unit, bigUnit)
-   if input.dot == "" then
-      return intPart .. currencyUnit .. "整"
-   else
-      return intPart .. currencyUnit .. translateFracCurrency(input.frac, digit, currencyFracUnit)
-   end
+   local fracPart = translateFracCurrency(input.frac or "", digit, currencyFracUnit)
+   return intPart .. currencyUnit .. fracPart
 end
 
 local function translateNumStr(str)
