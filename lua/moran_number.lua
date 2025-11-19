@@ -111,7 +111,8 @@ local function translateFracCurrency(str, digit, unit)
    for i = 1, len do
       result = result .. digit[str:byte(i) - 0x30] .. unit[i]
    end
-   return result
+   local terminator = #str < 2 and "整" or ""
+   return result .. terminator
 end
 
 -- 常规转换
