@@ -44,7 +44,7 @@ function Module.fini(env)
 end
 
 function Module.func(t_input, env)
-   if not env.enabled then
+   if not env.enabled or moran.is_reverse_lookup(env) then
       for cand in t_input:iter() do
          yield(cand)
       end
