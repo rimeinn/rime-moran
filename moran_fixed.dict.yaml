@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251118"
+version: "20251121"
 sort: by_weight
 columns:
   - text
@@ -866,6 +866,7 @@ A盤	apj
 安貧樂道	apld
 安貧樂賤	aplj
 安貧若素	aprs
+安排時間	apsj
 愛潑斯坦	apst
 安排妥當	aptd
 安排生活	apuh
@@ -2172,6 +2173,7 @@ AVL樹	avlu
 本色	bfse
 奔喪	bfsh
 笨死	bfsi
+白費時間	bfsj
 不負所托	bfst
 坌	bft
 奔頭	bftb
@@ -3481,6 +3483,7 @@ AVL樹	avlu
 絆	bjs
 悲劇色彩	bjsc
 半死	bjsi
+北京時間	bjsj
 不加思考	bjsk
 不經思考	bjsk
 不見森林	bjsl
@@ -3577,6 +3580,8 @@ AVL樹	avlu
 伴舞	bjwu
 比較委婉	bjww
 比較文學	bjwx
+班委	bjwz
+班味	bjwz
 怑	bjx
 扮相	bjxd
 冰肌雪膚	bjxf
@@ -4468,7 +4473,6 @@ AVL樹	avlu
 本來只有	blvy
 不吝珠玉	blvy
 敗	blw
-八六五筆	blwb
 玻利瓦爾	blwe
 白文	blwf
 敗亡	blwh
@@ -5002,6 +5006,7 @@ AVL樹	avlu
 繽	bns
 拜你所賜	bnsc
 瀕死	bnsi
+半年時間	bnsj
 飽暖思淫慾	bnsy
 不能逃避	bntb
 不能同意	bnty
@@ -5741,6 +5746,7 @@ B盤	bpj
 不太認識	btru
 白頭如新	btrx
 不太容易	btry
+半天時間	btsj
 抱頭痛哭	bttk
 巴頭探腦	bttn
 別聽他那一套	bttt
@@ -9512,9 +9518,7 @@ C盤	cpj
 才思敏捷	csmj
 聰敏	csmn
 從什麼時候起	csmq
-從什麼時候起	csmq
 從母	csmu
-從什麼時候開始	csmu
 從什麼時候開始	csmu
 聰明	csmy
 從沒	csmz
@@ -10756,6 +10760,7 @@ C盤	cpj
 多不容易	dbry
 都不容易	dbry
 抖擻	dbsb
+大把時間	dbsj
 打不死的小強	dbsq
 東北三省	dbsu
 倒不是說	dbsu
@@ -11392,6 +11397,7 @@ C盤	cpj
 燈蛾撲火	deph
 第二人稱	deri
 得瑟	dese
+第二時間	desj
 地	det
 第二梯隊	detd
 得體	deti
@@ -11516,6 +11522,7 @@ C盤	cpj
 大風起兮雲飛揚	dfqy
 東風日產	dfri
 地方色彩	dfsc
+打發時間	dfsj
 答非所問	dfsw
 地覆天翻	dftf
 倒反天罡	dftg
@@ -12312,6 +12319,7 @@ C盤	cpj
 底色	dise
 第四	disi
 第三	disj
+多長時間	disj
 遞送	diss
 低俗	disu
 端茶送水	disu
@@ -12717,6 +12725,8 @@ C盤	cpj
 單色	djse
 單絲	djsi
 耽思	djsi
+待機時間	djsj
+多久時間	djsj
 但所	djso
 膽酸	djsr
 但隨	djsv
@@ -14677,10 +14687,13 @@ D盤	dpj
 丼	dsjd
 冬季	dsji
 動機	dsji
+短時間裏	dsjl
 洞見	dsjm
 東晉	dsjn
+短時間內	dsjn
 凍死街頭	dsjt
 抖擻精神	dsju
+短時間中	dsjv
 東家	dsjw
 凍結	dsjx
 倒三角形	dsjx
@@ -15198,6 +15211,7 @@ D盤	dpj
 堵塞	duse
 大殺四方	dusf
 毒死	dusi
+多少時間	dusj
 大石碎胸口	dusk
 大勢所趨	dusq
 毒素	dusu
@@ -15668,6 +15682,7 @@ D盤	dpj
 黨外人士	dwru
 堤外損失堤內補	dwsb
 度無死角	dwsj
+耽誤時間	dwsj
 睹物思情	dwsq
 睹物思人	dwsr
 大威天龍	dwtl
@@ -15879,6 +15894,7 @@ D盤	dpj
 大寫鎖定	dxsd
 等些時候	dxsh
 跌死	dxsi
+等些時間	dxsj
 大學四年	dxsn
 打小算盤	dxsp
 跌碎	dxsv
@@ -16241,6 +16257,7 @@ D盤	dpj
 大愚若智	dyrv
 大有人在	dyrz
 盯死	dysi
+第一時間	dysj
 的意思嗎	dysm
 的意思是	dysu
 的意思是說	dysu
@@ -17708,6 +17725,7 @@ E盤	epj
 非但如此	fdrc
 婦道人家	fdrj
 法定人數	fdru
+費點時間	fdsj
 放大縮小	fdsx
 法度森嚴	fdsy
 房東太太	fdtt
@@ -19894,6 +19912,7 @@ F盤	fpj
 飛天入地	ftrd
 風土人情	ftrq
 凡胎肉眼	ftry
+發帖時間	ftsj
 法庭調查	ftti
 法庭調解	fttj
 法庭上見	ftuj
@@ -20655,6 +20674,7 @@ F盤	fpj
 防僞認證	fwrv
 服務熱線	fwrx
 服務人員	fwry
+服務時間	fwsj
 服務態度	fwtd
 訪問調查	fwti
 服務投訴	fwts
@@ -21878,6 +21898,8 @@ F盤	fpj
 廣大人民羣衆	gdrv
 感到榮幸	gdrx
 過段日子	gdrz
+過段時間	gdsj
+規定時間	gdsj
 乾點什麼	gdsm
 光速	gdsu
 光頭	gdtb
@@ -26715,6 +26737,7 @@ G盤	gpj
 工作任務	gzrw
 工作人員	gzry
 給	gzs
+工作時間	gzsj
 改造思想	gzsx
 工作態度	gztd
 工作條件	gztj
@@ -27434,6 +27457,7 @@ G盤	gpj
 海底隧道	hdsd
 黃色	hdse
 很多時候	hdsh
+活動時間	hdsj
 很大提高	hdtg
 荒唐	hdth
 荒灘	hdtj
@@ -28110,6 +28134,7 @@ G盤	gpj
 亨通	hgts
 火光通天	hgtt
 宏觀調控體系	hgtx
+H股	hgu
 恒生	hgug
 橫生	hgug
 恆溼	hgui
@@ -28455,6 +28480,8 @@ G盤	gpj
 合成染料	hirl
 緩衝溶液	hiry
 貨車司機	hisj
+很長時間	hisj
+好長時間	hisj
 很長時間	hiuj
 好長時間	hiuj
 合成樹脂	hiuv
@@ -30240,6 +30267,7 @@ H盤	hpj
 歡聲	hrug
 換上	hruh
 環視	hrui
+幻視	hrui
 環山	hruj
 花容失色	hrus
 幻術	hruu
@@ -30838,6 +30866,7 @@ H盤	hpj
 護士姐姐	hujj
 好事將近	hujj
 虎勁	hujn
+緩釋膠囊	hujn
 戶均	hujp
 呼救	hujq
 橫屍街頭	hujt
@@ -31952,6 +31981,7 @@ H盤	hpj
 含羞忍辱	hxrr
 核心人物	hxrw
 火星四濺	hxsj
+幻想時間	hxsj
 灰心喪氣	hxsq
 核心思想	hxsx
 花香四溢	hxsy
@@ -32216,6 +32246,7 @@ H盤	hpj
 懷疑人生	hyru
 火影忍者	hyrv
 壞死	hysi
+還有時間	hysj
 還有什麼	hysm
 好意思嗎	hysm
 好意思說	hysu
@@ -33076,6 +33107,7 @@ H盤	hpj
 愴然	idrj
 闖入	idru
 充當人質	idrv
+抽點時間	idsj
 重打賽文	idsw
 牀榻	idta
 牀頭	idtb
@@ -33438,6 +33470,7 @@ H盤	hpj
 綝	ifs
 沉思	ifsi
 重返賽場	ifsi
+喫飯時間	ifsj
 春風送暖	ifsn
 陳訴	ifsu
 塵俗	ifsu
@@ -34320,6 +34353,7 @@ H盤	hpj
 恥辱	iiru
 絺	iis
 赤色	iise
+抽出時間	iisj
 赤松	iiss
 喫素	iisu
 赤	iit
@@ -36791,6 +36825,7 @@ I盤	ipj
 出席人數	ixru
 稱心如意	ixry
 垂涎三尺	ixsi
+持續時間	ixsj
 長相廝守	ixsu
 抽象思維	ixsw
 傳銷團伙	ixth
@@ -37978,6 +38013,7 @@ I盤	ipj
 夾帶私貨	jdsh
 僵死	jdsi
 掘地三尺	jdsi
+近段時間	jdsj
 姜蒜	jdsr
 江蘇	jdsu
 巨大損失	jdsu
@@ -38360,6 +38396,7 @@ I盤	ipj
 家給人足	jgrz
 嫁狗隨狗	jgsg
 機關算盡	jgsj
+間隔時間	jgsj
 經過思考	jgsk
 機關算盡太聰明	jgsm
 酒過三巡	jgsx
@@ -40607,6 +40644,7 @@ JK制服	jkvf
 近似	jnsi
 縉	jnsj
 紟	jnsj
+幾年時間	jnsj
 禁賽	jnsl
 吉尼斯世界紀錄	jnsl
 吉尼斯紀錄	jnsl
@@ -42371,6 +42409,7 @@ JK制服	jkvf
 沮喪	jush
 聚散	jusj
 絇	jusj
+節省時間	jusj
 繘	jusk
 居所	juso
 精神損失	jusu
@@ -42733,6 +42772,7 @@ JK制服	jkvf
 機智如我	jvrw
 酒壯慫人膽	jvsd
 九洲四海	jvsh
+截止時間	jvsj
 九章算術	jvsu
 居住條件	jvtj
 急支糖漿	jvtj
@@ -44080,6 +44120,7 @@ JK制服	jkvf
 景色	jyse
 驕陽似火	jysh
 精於算計	jysj
+節約時間	jysj
 競賽	jysl
 記憶碎片	jysp
 見異思遷	jysq
@@ -46107,8 +46148,8 @@ JK制服	jkvf
 空忙一場	kmyi
 渴慕已久	kmyj
 抗美援朝	kmyv
-抗美援越	kmyy
 苦命鴛鴦	kmyy
+抗美援越	kmyy
 可能	kn
 困難	kn
 可能不會	knbh
@@ -47211,6 +47252,7 @@ JK制服	jkvf
 開心農場	kxni
 科學普及	kxpj
 可心如意	kxry
+空閒時間	kxsj
 開心死了	kxsl
 科學思想	kxsx
 科學態度	kxtd
@@ -47376,6 +47418,7 @@ JK制服	jkvf
 考驗人性	kyrx
 科研人員	kyry
 可疑人員	kyry
+課餘時間	kysj
 快速	kysu
 塊	kyt
 塊頭	kytb
@@ -48354,6 +48397,7 @@ JK制服	jkvf
 浪費青春	lfqi
 戀父情結	lfqj
 兩份	lfr
+浪費時間	lfsj
 了凡四訓	lfsx
 浪費時間	lfuj
 浪費生命	lfum
@@ -48661,6 +48705,7 @@ JK制服	jkvf
 連花清瘟	lhqw
 浪人	lhrf
 靈魂人物	lhrw
+例會時間	lhsj
 朗誦	lhss
 埌	lht
 榔頭	lhtb
@@ -53366,6 +53411,7 @@ JK制服	jkvf
 名刀孫臏	mdsb
 名動四方	mdsf
 孟德斯鳩	mdsj
+某段時間	mdsj
 名刀司命	mdsm
 面對死亡	mdsw
 名動天下	mdtx
@@ -55750,6 +55796,8 @@ JK制服	jkvf
 命喪黃泉	mshq
 馬賽迴旋	mshx
 面色潮紅	msih
+沒時間	msj
+沒時間了	msjl
 免死金牌	msjp
 喵斯快跑	mskp
 冥思苦索	msks
@@ -56910,6 +56958,7 @@ JK制服	jkvf
 沒有絲毫	mysh
 冥思	mysi
 沒有什麼交集	mysj
+沒有時間	mysj
 沒意思了	mysl
 螞蟻森林	mysl
 沒有什麼	mysm
@@ -57758,6 +57807,7 @@ JK制服	jkvf
 拿得起，放得下	ndqx
 那當然了	ndrl
 那當然是	ndru
+那段時間	ndsj
 你爹死了	ndsl
 女大三抱金磚	ndsv
 孃胎	ndtl
@@ -60216,6 +60266,7 @@ JK制服	jkvf
 難以入睡	nyru
 那樣容易	nyry
 凝思	nysi
+哪有時間	nysj
 難以訴說	nysu
 難以替代	nytd
 難以提高	nytg
@@ -61339,6 +61390,7 @@ PC端	pcd
 破壞婚姻	phhy
 皮魂合一	phhy
 螃	phi
+滂臭	phib
 旁出	phiu
 破壞軍婚	phjh
 旁及	phji
@@ -64009,6 +64061,7 @@ P站	pvj
 繈	qds
 錆色	qdse
 強似	qdsi
+前段時間	qdsj
 強酸	qdsr
 墻	qdt
 牆頭	qdtb
@@ -66864,6 +66917,7 @@ P站	pvj
 其他人員	qtry
 全體人員	qtry
 前途似錦	qtsj
+其他時間	qtsj
 缺損	qtsp
 埆	qtt
 七天退換	qtth
@@ -67185,7 +67239,7 @@ P站	pvj
 曲譜	qupu
 強勢品種	qupv
 翹首盼望	qupw
-取平	qupy
+曲屏	qupy
 泉水泡澡	qupz
 敺	quq
 軀殼	quqc
@@ -67458,6 +67512,7 @@ P站	pvj
 趨之若鶩	qvrw
 棄之如敝屣	qvrx
 強者如雲	qvry
+起止時間	qvsj
 屈指算來	qvsl
 情之所鍾	qvsv
 七政四餘	qvsy
@@ -69115,6 +69170,7 @@ P站	pvj
 如花似朵	rhsd
 任何時候	rhsh
 如花似錦	rhsj
+任何時間	rhsj
 如花似玉	rhsy
 壤	rht
 壤土	rhtu
@@ -69535,6 +69591,7 @@ P站	pvj
 人來人往	rlrw
 任勞任怨	rlry
 如狼似虎	rlsh
+日落時間	rlsj
 繞樑三日	rlsr
 熱臉貼冷屁股	rltg
 熱臉貼了涼屁股	rltg
@@ -69826,6 +69883,7 @@ P站	pvj
 如泣如訴	rqrs
 熱情似火	rqsh
 如漆似膠	rqsj
+日期時間	rqsj
 如前所述	rqsu
 柔情似水	rqsu
 任其所爲	rqsw
@@ -70856,6 +70914,7 @@ P站	pvj
 熱因熱用	ryry
 儒雅隨和	rysh
 人有三急	rysj
+任意時間	rysj
 日有所思，夜有所夢	rysm
 日有所思夜有所夢	rysm
 日夜思念	rysn
@@ -71834,11 +71893,15 @@ P站	pvj
 四座	sizo
 死罪	sizv
 散	sj
+時間	sj
 三	sjaa
+時間安排	sjap
 三八	sjba
 所具備的	sjbd
+時間不多	sjbd
 三本	sjbf
 隨機播放	sjbf
+時間寶貴	sjbg
 三句不離本行	sjbh
 四腳八叉	sjbi
 三板	sjbj
@@ -71846,16 +71909,21 @@ P站	pvj
 三包	sjbk
 三百	sjbl
 隨機變量	sjbl
+時間不早了	sjbl
 三遍	sjbm
 散播	sjbo
+時間不等人	sjbr
 三級標題	sjbt
 散步	sjbu
 散佈	sjbu
 賽季報銷	sjbx
 傘兵	sjby
+時間不早	sjbz
+時間倉促	sjcc
 三層	sjcg
 三次	sjci
 三餐	sjcj
+時間刺客	sjck
 散打	sjda
 死記呆背	sjdb
 隨機彈道	sjdd
@@ -71863,13 +71931,19 @@ P站	pvj
 三等	sjdg
 散彈	sjdj
 三代	sjdl
+時間到了	sjdl
+時間倒流	sjdl
 三點	sjdm
 三角定位	sjdw
+時間單位	sjdw
+時間地點人物	sjdw
 俗家弟子	sjdz
 伺機而動	sjed
 散發	sjfa
 四季發財	sjfc
+時間複雜度	sjfd
 三分	sjff
+時間豐富	sjff
 三方	sjfh
 散放	sjfh
 三角方程	sjfi
@@ -71883,10 +71957,14 @@ P站	pvj
 三個	sjge
 三更	sjgg
 隨機過程	sjgi
+時間管理	sjgl
+時間觀念	sjgn
 三國	sjgo
+時間過去	sjgq
 三觀	sjgr
 三關	sjgr
 散工	sjgs
+時間關係	sjgx
 三皇	sjhd
 三盒	sjhe
 四角號碼檢字法	sjhf
@@ -71904,28 +71982,44 @@ P站	pvj
 散會	sjhv
 三教合一	sjhy
 鬖	sji
+時間戳	sji
+時間成本	sjib
+時間長短	sjid
+時間充分	sjif
 散場	sjih
 四季常春	sjii
 三朝	sjik
+時間長了	sjil
+時間差不多咯	sjil
 三春	sjip
 四季常青	sjiq
 隨機抽取	sjiq
 三重	sjis
+時間穿梭	sjis
 四腳朝天	sjit
 隨機抽樣	sjiy
+時間充裕	sjiy
+時間穿越	sjiy
+時間充足	sjiz
 帴	sjj
 三角	sjjc
+時間緊促	sjjc
 所見即所得	sjjd
+時間節點	sjjd
 三級	sjji
 散記	sjji
 三句剪一句	sjjj
 三教九流	sjjl
 散件	sjjm
 三軍	sjjp
+時間緊迫	sjjp
 三九	sjjq
+時間就是金錢	sjjq
 散居	sjju
+時間靜止	sjjv
 散架	sjjw
 三節	sjjx
+時間跨度	sjkd
 散客	sjke
 散開	sjkl
 四級考試	sjku
@@ -71939,6 +72033,7 @@ P站	pvj
 散亂	sjlr
 所見略同	sjlt
 三局兩勝	sjlu
+時間流逝	sjlu
 三街六巷	sjlx
 三類	sjlz
 糝	sjm
@@ -71965,6 +72060,7 @@ P站	pvj
 三篇	sjpm
 三品	sjpn
 四鍵平臺	sjpt
+時間排序	sjpx
 三瓶	sjpy
 三江平原	sjpy
 三陪	sjpz
@@ -71982,9 +72078,12 @@ P站	pvj
 三人	sjrf
 三日	sjri
 四季如春	sjri
+時間日期	sjrq
+時間如梭	sjrs
 叄	sjs
 聳肩縮背	sjsb
 隨叫隨到	sjsd
+時間隧道	sjsd
 三江四海	sjsh
 三思	sjsi
 三進三出	sjsi
@@ -71994,12 +72093,15 @@ P站	pvj
 三歲	sjsv
 所見所聞	sjsw
 散體	sjti
+時間太長	sjti
 散攤	sjtj
 三套	sjtk
 喪盡天良	sjtl
 三天	sjtm
 三通	sjts
+時間停止	sjtv
 三級跳遠	sjty
+時間推移	sjty
 散沙	sjua
 散手	sjub
 散射	sjue
@@ -72023,6 +72125,7 @@ P站	pvj
 綏靖主義	sjvy
 散	sjw
 三角握把	sjwb
+時間未到	sjwd
 散文	sjwf
 三江五湖	sjwh
 三萬	sjwj
@@ -72032,21 +72135,28 @@ P站	pvj
 三相	sjxd
 隨機循環	sjxh
 隨機信號	sjxh
+時間循環	sjxh
 散席	sjxi
 三線	sjxm
 散心	sjxn
+時間線收束	sjxu
+時間限制	sjxv
 三峽	sjxw
 三星	sjxy
 三亞	sjya
 隨機應變	sjyb
 死記硬背	sjyb
 三軍易得	sjyd
+時間一到	sjyd
 散養	sjyh
 散佚	sjyi
+時間一長	sjyi
 三軍用命	sjym
+時間一分一秒地過去	sjyq
 三元	sjyr
 三月	sjyt
 送舊迎新	sjyx
+時間有限	sjyx
 伺機作案	sjza
 三藏	sjzh
 三資	sjzi
@@ -72262,7 +72372,6 @@ P站	pvj
 掃描病毒	smbd
 四面八方	smbf
 什麼辦法	smbf
-什麼辦法	smbf
 什麼b動靜	smbj
 碎麪包屑	smbx
 什麼都	smdb
@@ -72341,6 +72450,7 @@ P站	pvj
 什麼人的	smrd
 什麼時候	smsh
 似夢似幻	smsh
+什麼時間	smsj
 什麼什麼	smsm
 什麼時候是個頭	smst
 似模似樣	smsy
@@ -72408,6 +72518,8 @@ P站	pvj
 撒尿牛丸	snnw
 松嫩平原	snpy
 思念親人	snqr
+三年時間	snsj
+四年時間	snsj
 所能提供	sntg
 思念是一種病	snub
 三年時間	snuj
@@ -72726,6 +72838,7 @@ P站	pvj
 蒜蓉	srrs
 酸澀	srse
 色若死灰	srsh
+私人時間	srsj
 酸筍	srsp
 算算	srsr
 蒜頭	srtb
@@ -73368,6 +73481,7 @@ P站	pvj
 繀	svsc
 繐	svsh
 速戰速決	svsj
+隨着時間	svsj
 素質三連	svsl
 繸	svss
 隨俗	svsu
@@ -73487,6 +73601,7 @@ P站	pvj
 三維軟件	swrj
 三無人員	swry
 斯文掃地	swsd
+死亡時間	swsj
 塞萬提斯	swts
 三維貼圖	swtt
 隨我同行	swtx
@@ -73683,6 +73798,7 @@ P站	pvj
 歲月如梭	syrs
 似有若無	syrw
 所有人員	syry
+所有時間	sysj
 似有似無	sysw
 所有條件	sytj
 嗓音甜美	sytm
@@ -75128,6 +75244,9 @@ P站	pvj
 緹	tis
 綈	tisd
 踢死	tisi
+騰出時間	tisj
+挺長時間	tisj
+太長時間	tisj
 提速	tisu
 跳出三界之外，不在五行之中	tisv
 跳出三界之外	tisw
@@ -75991,6 +76110,7 @@ P站	pvj
 泰拉瑞亞	tlry
 徒亂人意	tlry
 台	tls
+停留時間	tlsj
 泰勒斯威夫特	tlst
 太歲	tlsv
 抬頭	tltb
@@ -76128,6 +76248,7 @@ P站	pvj
 它們	tmb
 填表	tmbc
 賟	tmbd
+天崩	tmbg
 圖謀不軌	tmbg
 填報	tmbk
 聽明白了	tmbl
@@ -77606,6 +77727,7 @@ P站	pvj
 頭上三尺有神明	tusm
 同生死共患難	tusn
 徒孫	tusp
+兔猻	tusp
 屠蘇	tusu
 吐穗	tusv
 脫水死亡	tusw
@@ -77876,6 +77998,7 @@ P站	pvj
 腿勤	tvqn
 退羣	tvqp
 推求	tvqq
+退圈	tvqr
 退卻	tvqt
 退去	tvqu
 侻	tvr
@@ -78588,6 +78711,8 @@ T恤衫	txuj
 逃逸速度	tysd
 挺色	tyse
 逃逸司機	tysj
+同一時間	tysj
+拖延時間	tysj
 挺騷	tysk
 停賽	tysl
 討厭死了	tysl
@@ -79285,6 +79410,7 @@ T恤衫	txuj
 守喪	ubsh
 十八歲姑娘一朵花	ubsh
 壽司	ubsi
+上班時間	ubsj
 收縮	ubso
 受損	ubsp
 士別三日	ubsr
@@ -86192,6 +86318,10 @@ U盤	upj
 這段日子	vdrz
 撞死	vdsi
 狀似	vdsi
+這段時間	vdsj
+這點時間	vdsj
+這段時間以來	vdsl
+這段時間裏	vdsl
 撞鎖	vdso
 裝蒜	vdsr
 重大損失	vdsu
@@ -87065,6 +87195,7 @@ U盤	upj
 綪	vgs
 正色	vgse
 這個時候	vgsh
+找個時間	vgsj
 整肅	vgsu
 追根溯源	vgsy
 周公吐哺	vgtb
@@ -88222,6 +88353,7 @@ U盤	upj
 中級人民法院	vjry
 綻	vjs
 戰死	vjsi
+抓緊時間	vjsj
 珠江三角洲	vjsv
 直角三角形	vjsx
 至今思項羽	vjsy
@@ -89261,6 +89393,7 @@ U盤	upj
 正確認識	vqru
 知情人士	vqru
 追求速度	vqsd
+爭取時間	vqsj
 趙錢孫李	vqsl
 知其所以然	vqsr
 證券投資	vqtz
@@ -89962,6 +90095,7 @@ U盤	upj
 主播	vubo
 竹帛	vubo
 終身不娶	vubq
+衆生百態	vubt
 逐步	vubu
 知識爆炸	vubv
 疰	vubv
@@ -90537,7 +90671,6 @@ U盤	upj
 揣	vvfe
 這種方法	vvff
 追風	vvfg
-掌中佛國	vvfg
 追訪	vvfh
 政治方面	vvfm
 這種方式	vvfu
@@ -91078,6 +91211,7 @@ U盤	upj
 支線任務	vxrw
 這些日子	vxrz
 這些時候	vxsh
+珍惜時間	vxsj
 中心思想	vxsx
 哲學思想	vxsx
 這些天來	vxtl
@@ -91194,7 +91328,6 @@ U盤	upj
 這樣的話	vydh
 這樣倒好	vydh
 這一段時間	vydj
-只要膽子大，女鬼放產假	vydj
 專業對口	vydk
 質押貸款	vydk
 爭妍鬥麗	vydl
@@ -97049,6 +97182,7 @@ WiFi	wifi
 許多時候	xdsh
 相似	xdsi
 相思	xdsi
+許多時間	xdsj
 心都碎了	xdsl
 相送	xdss
 像素	xdsu
@@ -97694,6 +97828,7 @@ WiFi	wifi
 小戶人家	xhrj
 循環冗餘	xhry
 腥黑穗病	xhsb
+續航時間	xhsj
 學會思考	xhsk
 喜歡什麼	xhsm
 想喝什麼	xhsm
@@ -97815,12 +97950,10 @@ WiFi	wifi
 宣傳部長	xibv
 西楚霸王	xibw
 惜別	xibx
-尋常百姓	xibx
 相持不下	xibx
 皙	xibx
 窸	xibx
 穸	xibx
-相差不小	xibx
 瘜	xibx
 息兵	xiby
 宣傳標語	xiby
@@ -99015,6 +99148,7 @@ WiFi	wifi
 纖	xmsg
 朽木死灰	xmsh
 閒散	xmsj
+消磨時間	xmsj
 羨慕死了	xmsl
 線索	xmso
 限速	xmsu
@@ -99770,6 +99904,7 @@ WiFi	wifi
 羞辱	xqru
 繡	xqs
 羞澀	xqse
+消遣時間	xqsj
 羞臊	xqsk
 興趣索然	xqsr
 星穹鐵道	xqtd
@@ -100475,6 +100610,7 @@ WiFi	wifi
 血灑	xtsa
 血色	xtse
 血絲	xtsi
+系統時間	xtsj
 雪松	xtss
 噱頭	xttb
 穴頭	xttb
@@ -101077,6 +101213,8 @@ WiFi	wifi
 心止如水	xvru
 細緻入微	xvrw
 行政人員	xvry
+限制時間	xvsj
+賢者時間	xvsj
 興致索然	xvsr
 雪中送炭	xvst
 興之所至	xvsv
@@ -101850,6 +101988,7 @@ WiFi	wifi
 絜	xxsd
 纈	xxsj
 繲	xxsj
+閒暇時間	xxsj
 形形色色	xxss
 瀟瀟灑灑	xxss
 窸窸窣窣	xxss
@@ -103018,7 +103157,6 @@ WiFi	wifi
 有勞	yblk
 由來	ybll
 用不了了	ybll
-啞巴老六	ybll
 有臉	yblm
 永不落幕	yblm
 友鄰	ybln
@@ -103137,6 +103275,7 @@ WiFi	wifi
 有色	ybse
 夜半三更	ybsg
 憂思	ybsi
+一半時間	ybsj
 有線	ybsm
 也不是什麼	ybsm
 又不是什麼	ybsm
@@ -103673,6 +103812,9 @@ WiFi	wifi
 移動速度	ydsd
 有的時候	ydsh
 約定俗成	ydsi
+一段時間	ydsj
+有段時間	ydsj
+一點時間	ydsj
 亞當斯密	ydsm
 緣定三生	ydsu
 一大損失	ydsu
@@ -105314,6 +105456,7 @@ WiFi	wifi
 遺傳算法	yisf
 意思	yisi
 疑似	yisi
+延長時間	yisj
 一掃	yisk
 義賽	yisl
 一所	yiso
@@ -105398,8 +105541,9 @@ WiFi	wifi
 議政	yivg
 一張	yivh
 依仗	yivh
-一致	yivi
 意志	yivi
+抑制	yivi
+一致	yivi
 驛站	yivj
 依照	yivk
 一朝	yivk
@@ -107351,6 +107495,7 @@ WiFi	wifi
 陰森	ynsf
 隱私	ynsi
 一年四季	ynsj
+一年時間	ynsj
 陰損	ynsp
 吟誦	ynss
 因素	ynsu
@@ -108546,12 +108691,15 @@ WiFi	wifi
 詠春	ysip
 用處	ysiu
 鏞	ysj
+有時間	ysj
 用腳	ysjc
 勇將	ysjd
 有所降低	ysjd
 意思就是	ysje
 擁擠	ysji
 有所警覺	ysjj
+以時間換空間	ysjj
+有時間嗎	ysjm
 佣金	ysjn
 用盡	ysjn
 擁軍	ysjp
@@ -108596,7 +108744,6 @@ WiFi	wifi
 伊斯蘭教徒	yslt
 庸碌	yslu
 一死了之	yslv
-有什麼區別	ysmb
 有什麼區別	ysmb
 有什麼錯	ysmc
 有什麼大不了的	ysmd
@@ -108928,6 +109075,7 @@ WiFi	wifi
 約	yts
 一天三頓	ytsd
 月色	ytse
+一天時間	ytsj
 以圖搜圖	ytst
 一潭死水	ytsu
 一天天的	yttd
@@ -111124,6 +111272,7 @@ WiFi	wifi
 一隅三反	yysf
 營私	yysi
 英語四級	yysj
+業餘時間	yysj
 夜有所夢	yysm
 鷹隼	yysp
 越野賽跑	yysp
@@ -111879,6 +112028,8 @@ WiFi	wifi
 自動鎖定	zdsd
 自動鎖敵	zdsd
 自動縮進	zdsj
+最短時間	zdsj
+子彈時間	zdsj
 做點什麼	zdsm
 最大特點	zdtd
 自動退出	zdti
@@ -114284,6 +114435,7 @@ WiFi	wifi
 祖上有德	zuyd
 總是要還的	zuyd
 祖業	zuye
+卒業	zuye
 在水一方	zuyf
 葬身魚腹	zuyf
 足以	zuyi
@@ -114765,6 +114917,7 @@ WiFi	wifi
 仔細認真	zxrv
 諮詢熱線	zxrx
 早些時候	zxsh
+作息時間	zxsj
 自尋死路	zxsl
 做些什麼	zxsm
 仔細搜索	zxss
@@ -115696,6 +115849,8 @@ WiFi	wifi
 本位	bfwk
 榜尾	bhwk
 包圍	bkwk
+班委	bjwk
+班味	bjwk
 保衛	bkwk
 百位	blwk
 白薇	blwk

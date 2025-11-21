@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20251118"
+version: "20251121"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9247,6 +9247,12 @@ columns:
 弑师	5
 审丑	10
 骂仗	100
+原乐	10
+滂臭	10
+班味	100
+诱受	10
+曲屏	10
+市盈	100
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0

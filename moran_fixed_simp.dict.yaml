@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251118"
+version: "20251121"
 sort: original
 columns:
   - text
@@ -3475,6 +3475,8 @@ AVL树	avlu
 斑	bjww
 比较委婉	bjww
 比较文学	bjwx
+班委	bjwz
+班味	bjwz
 怑	bjx
 扮相	bjxd
 冰肌雪肤	bjxf
@@ -4347,7 +4349,6 @@ AVL树	avlu
 本来只有	blvy
 不吝珠玉	blvy
 败	blw
-八六五笔	blwb
 玻利瓦尔	blwe
 白文	blwf
 败亡	blwh
@@ -29415,6 +29416,7 @@ H盘	hpj
 峘	hrug
 换上	hruh
 环视	hrui
+幻视	hrui
 环山	hruj
 花容失色	hrus
 幻术	hruu
@@ -29988,6 +29990,7 @@ H盘	hpj
 护士姐姐	hujj
 好事将近	hujj
 虎劲	hujn
+缓释胶囊	hujn
 户均	hujp
 呼救	hujq
 横尸街头	hujt
@@ -34784,7 +34787,6 @@ I盘	ipj
 重读	isdu
 重叠	isdx
 冲顶	isdy
-充	isdy
 充	ise
 宠儿	iser
 舂	isf
@@ -44816,8 +44818,8 @@ JK制服	jkvf
 空忙一场	kmyi
 渴慕已久	kmyj
 抗美援朝	kmyv
-抗美援越	kmyy
 苦命鸳鸯	kmyy
+抗美援越	kmyy
 可能	kn
 困难	kn
 可能不会	knbh
@@ -59538,6 +59540,7 @@ JK制服	jkvf
 破坏婚姻	phhy
 皮魂合一	phhy
 螃	phi
+滂臭	phib
 厖	phil
 厖	phim
 旁出	phiu
@@ -65236,7 +65239,7 @@ P站	pvj
 曲谱	qupu
 强势品种	qupv
 翘首盼望	qupw
-取平	qupy
+曲屏	qupy
 泉水泡澡	qupz
 躯壳	quqc
 取巧	quqc
@@ -74021,6 +74024,7 @@ P站	pvj
 甜蜜爱情	tmaq
 它们	tmb
 填表	tmbc
+天崩	tmbg
 图谋不轨	tmbg
 填报	tmbk
 听明白了	tmbl
@@ -75460,6 +75464,7 @@ P站	pvj
 头上三尺有神明	tusm
 同生死共患难	tusn
 徒孙	tusp
+兔狲	tusp
 屠苏	tusu
 吐穗	tusv
 脱水死亡	tusw
@@ -75718,6 +75723,7 @@ P站	pvj
 腿勤	tvqn
 退群	tvqp
 推求	tvqq
+退圈	tvqr
 退却	tvqt
 退去	tvqu
 退热	tvre
@@ -87554,6 +87560,7 @@ U盘	upj
 主播	vubo
 竹帛	vubo
 终身不娶	vubq
+众生百态	vubt
 逐步	vubu
 知识爆炸	vubv
 疰	vubv
@@ -88093,7 +88100,6 @@ U盘	upj
 展转反侧	vvfc
 这种方法	vvff
 追风	vvfg
-掌中佛国	vvfg
 追访	vvfh
 政治方面	vvfm
 这种方式	vvfu
@@ -88742,7 +88748,6 @@ U盘	upj
 这样的话	vydh
 这样倒好	vydh
 这一段时间	vydj
-只要胆子大，女鬼放产假	vydj
 专业对口	vydk
 质押贷款	vydk
 争妍斗丽	vydl
@@ -95210,12 +95215,10 @@ U盘	upj
 宣传部长	xibv
 西楚霸王	xibw
 惜别	xibx
-寻常百姓	xibx
 相持不下	xibx
 皙	xibx
 窸	xibx
 穸	xibx
-相差不小	xibx
 息兵	xiby
 宣传标语	xiby
 西北	xibz
@@ -100202,7 +100205,6 @@ U盘	upj
 有劳	yblk
 由来	ybll
 用不了了	ybll
-哑巴老六	ybll
 有脸	yblm
 永不落幕	yblm
 友邻	ybln
@@ -102526,6 +102528,7 @@ U盘	upj
 一张	yivh
 依仗	yivh
 意志	yivi
+抑制	yivi
 一致	yivi
 驿站	yivj
 依照	yivk
@@ -111146,6 +111149,7 @@ U盘	upj
 祖上有德	zuyd
 总是要还的	zuyd
 祖业	zuye
+卒业	zuye
 在水一方	zuyf
 葬身鱼腹	zuyf
 足以	zuyi
@@ -112439,6 +112443,8 @@ U盘	upj
 安慰	anwk
 本位	bfwk
 榜尾	bhwk
+班委	bjwk
+班味	bjwk
 包围	bkwk
 保卫	bkwk
 百位	blwk
@@ -112680,9 +112686,6 @@ U盘	upj
 追尾	vvwk
 王位	whwk
 玩味	wjwk
-外围	wlwk
-无畏	wuwk
-无谓	wuwk
 未	wka
 韦	wkaa
 囗	wkaa
@@ -112797,7 +112800,6 @@ U盘	upj
 未接	wkjx
 未经	wkjy
 喂	wkk
-味	wkk
 胃口	wkkb
 未可	wkke
 围垦	wkkf
@@ -112930,13 +112932,13 @@ U盘	upj
 慰问	wkwf
 威望	wkwh
 委婉	wkwj
+巍巍	wkwk
 帷幄	wkwo
 亹	wkwq
 威武	wkwu
 韪	wkwu
 琟	wkwv
 玮	wkww
-巍巍	wkwk
 慰	wkx
 微笑	wkxc
 未向	wkxd
@@ -112981,6 +112983,9 @@ U盘	upj
 畏罪	wkzv
 逶	wkzw
 踒	wkzw
+外围	wlwk
+无畏	wuwk
+无谓	wuwk
 校尉	xcwk
 香味	xdwk
 细微	xiwk
