@@ -66,8 +66,7 @@ local function semicolon_processor(key_event, env)
    while i < page_size do
       local cand = menu:get_candidate_at(i)
       if cand == nil then
-         context:select(1)
-         return kNoop
+         break
       end
       local cand_text = cand.text
       local codepoint = utf8.codepoint(cand_text, 1)
