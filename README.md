@@ -17,6 +17,9 @@
 
 本項目爲基於自然碼（雙拼和輔助碼）的傳承字優先的 Rime 方案，簡稱「魔然」。具有[多種模式](https://github.com/rimeinn/rime-moran/wiki/%E5%90%84%E8%BC%B8%E5%85%A5%E6%A8%A1%E5%BC%8F%E8%AA%AA%E6%98%8E)、[五重反查](https://github.com/rimeinn/rime-moran/wiki/%E6%95%99%E7%A8%8B#%E5%85%B6%E4%BA%94%E6%9B%B0%E4%BA%94%E9%87%8D%E5%8F%8D%E6%9F%A5)、八萬字、百萬詞庫和多種快捷輸入功能。詳情請參閱[本項目維基](https://github.com/rimeinn/rime-moran/wiki)。
 
+> [!TIP]
+> 如果您對其他音碼或其他輔助碼感興趣，可參閱 [魔龍（rime-molong）](https://github.com/rimeinn/rime-molong) 項目。
+
 魔然是開放的、[社區維護](https://zrmfans.cn/book/misc/acknowledgement.html)的項目。歡迎參與！
 
 - [瞭解更多](https://zrmfans.cn)
