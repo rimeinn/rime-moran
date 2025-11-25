@@ -31531,6 +31531,8 @@ use_preset_vocabulary: false
 纒	ij;st	324
 纒	ij;si	324
 纓	yy;sy	719
+纔	uj;si	1
+纔	uj;st	1
 纔	cl;si	1558
 纔	cl;st	1558
 纕	rh;sx	0
@@ -53736,12 +53738,12 @@ use_preset_vocabulary: false
 𡬝	dg;ad	0
 𡬝	dg;cd	0
 𡬟	uu;hc	0
-𡬠	jt;cd	0
-𡬠	jt;sc	0
-𡬠	qc;cd	0
-𡬠	qc;sc	0
-𡬠	qt;cd	0
-𡬠	qt;sc	0
+𡬠	jt;cg	0
+𡬠	jt;gc	0
+𡬠	qc;cg	0
+𡬠	qc;gc	0
+𡬠	qt;cg	0
+𡬠	qt;gc	0
 𡬡	po;cj	0
 𡬡	po;jc	0
 𡬢	rb;mc	0
@@ -124437,3 +124439,4 @@ use_preset_vocabulary: false
 𰀊	py;kk	0
 𰀊	py;ag	0
 𭼆	vg;bw	0
+𡀎	wz;kw	0
