@@ -6,7 +6,7 @@
 
 ---
 name: moran_english
-version: "20251008"
+version: "20251125"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -57272,3 +57272,6 @@ Roam Research	RoamResearch
 Typst	Typst
 LLVM	LLVM
 CoCo	CoCo
+vibe	vibe
+vibe coding	vibecoding
+vibe coder	vibecoder

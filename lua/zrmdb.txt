@@ -39950,8 +39950,8 @@
 𡬝 ad
 𡬝 cd
 𡬟 hc
-𡬠 cd
-𡬠 sc
+𡬠 cg
+𡬠 gc
 𡬡 cj
 𡬡 jc
 𡬢 mc
@@ -99841,6 +99841,7 @@
 𰀊 kk
 𰀊 ag
 𭼆 bw
+𡀎 kw
 𣮚 mf
 𣴅 df
 𨯾 jj
