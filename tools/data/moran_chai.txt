@@ -39959,8 +39959,8 @@
 𡬝	ad	一丶	
 𡬝	cd	卄丶	
 𡬟	hc	禾寸	auto
-𡬠	cd	寸丶	auto
-𡬠	sc	巳寸	auto
+𡬠	cg	寸艮	
+𡬠	gc	艮寸	
 𡬡	cj	寸巨	auto
 𡬡	jc	巨寸	auto
 𡬢	mc	矛寸	auto
@@ -99850,6 +99850,7 @@
 𰀊	kk	冂丂	
 𰀊	ag	丨㇉	
 𭼆	bw	疒王	
+𡀎	kw	口微	
 
 # 待考
 
@@ -100779,7 +100780,6 @@
 #𠿷	ku	口市	
 #𠿸	ke	口萼	
 #𠿹	kl	口賃	
-#𡀎	kw	口微	
 #𡀕	kh	口火	
 #𡀝	kr	口稔	
 #𡀞	kj	口楫	

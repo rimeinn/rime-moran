@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251121"
+version: "20251125"
 sort: original
 columns:
   - text
@@ -4156,8 +4156,8 @@ AVL树	avlu
 拨乱济危	bljw
 拜节	bljx
 白净	bljy
-兵来将挡水来土掩	bljy
 本来就有	bljy
+兵来将挡水来土掩	bljy
 兵来将挡，水来土掩	bljy
 呗	blk
 百科	blke
@@ -11030,7 +11030,6 @@ C语言	cyy
 第二份半价	defj
 第二方面	defm
 得而复失	defu
-底	deg
 第二国际	degj
 第二根半价	degj
 德国	dego
@@ -12614,6 +12613,7 @@ C语言	cyy
 到了	dkle
 刀螂	dklh
 道理	dkli
+倒立	dkli
 断开连接	dklj
 打开链接	dklj
 抵抗力下降	dklj
@@ -25275,6 +25275,8 @@ G盘	gpj
 归罪	gvzv
 个中滋味	gvzw
 挂	gw
+各位	gw
+官网	gw
 挂碍	gwai
 寡	gwb
 挂表	gwbc
@@ -26614,6 +26616,7 @@ G盘	gpj
 荒落	hdlo
 遑论	hdlp
 慌乱	hdlr
+荒乱	hdlr
 黄龙	hdls
 洪都拉斯	hdls
 黄栌	hdlu
@@ -37350,9 +37353,10 @@ I盘	ipj
 激光照排	jgvp
 几个钟头	jgvt
 居功至伟	jgvw
-军国主义	jgvy
 尽管这样	jgvy
-就该这样	jgvy
+军国主义	jgvy
+结构主义	jgvy
+解构主义	jgvy
 将功折罪	jgvz
 坚固无比	jgwb
 叫个外卖	jgwm
@@ -39446,6 +39450,7 @@ JK制服	jkvf
 艰难曲折	jnqv
 尽情	jnqy
 仅	jnr
+金	jnr
 金	jnra
 今	jnra
 筋肉	jnrb
@@ -42387,7 +42392,6 @@ JK制服	jkvf
 接站	jxvj
 接招	jxvk
 借债	jxvl
-纪湘战四郎	jxvl
 结转	jxvr
 借重	jxvs
 接种	jxvs
@@ -58558,7 +58562,6 @@ JK制服	jkvf
 农业社会	nyuh
 难以释怀	nyuh
 凝视	nyui
-农业生产	nyui
 那一瞬间	nyuj
 哪有时间	nyuj
 农业生产资料	nyul
@@ -63077,7 +63080,7 @@ P站	pvj
 棋差一着	qiyv
 青春永驻	qiyv
 弃婴	qiyy
-起	qiz
+迄	qiz
 气走	qizb
 启奏	qizb
 起赃	qizh
@@ -67936,6 +67939,7 @@ P站	pvj
 仍然没有	rrmy
 媆	rrn
 热热闹闹	rrnn
+软糯	rrno
 让人难以	rrny
 柔弱女子	rrnz
 朊	rro
@@ -73412,6 +73416,7 @@ P站	pvj
 太谨慎了	tjul
 谈说	tjuo
 贪睡	tjuv
+碳水	tjuv
 提交事务	tjuw
 碳基生物	tjuw
 坦率	tjuy
@@ -79208,7 +79213,6 @@ T恤衫	txuj
 炻	uih
 时候	uihb
 拾荒	uihd
-生产活动	uihd
 适合	uihe
 失衡	uihg
 试航	uihh
@@ -88812,6 +88816,7 @@ U盘	upj
 这有何难	vyhn
 转移话题	vyht
 主要还是	vyhu
+主义	vyi
 主要成分	vyif
 止于唇齿	vyii
 斩妖除魔	vyim
@@ -94904,6 +94909,7 @@ U盘	upj
 心甘情愿	xgqy
 侠骨柔肠	xgri
 相关软件	xgrj
+性格软糯	xgrn
 侠骨柔情	xgrq
 性格软弱	xgrr
 下岗人员	xgry
@@ -98618,6 +98624,7 @@ U盘	upj
 侠	xwr
 希望如此	xwrc
 吓人	xwrf
+虾仁	xwrf
 夏日	xwri
 希望人没事	xwru
 鲜为人知	xwrv
@@ -99488,7 +99495,6 @@ U盘	upj
 行权	xyqr
 稀有气体	xyqt
 兴趣	xyqu
-新约全书	xyqu
 行窃	xyqx
 性情	xyqy
 行人	xyrf
@@ -104646,6 +104652,7 @@ U盘	upj
 妘	ypn
 酝酿	ypnd
 亚平宁半岛	ypnd
+孕囊	ypnh
 云霓	ypni
 云南	ypnj
 允诺	ypno
@@ -108204,7 +108211,7 @@ U盘	upj
 依依惜别	yyxb
 营销	yyxc
 影响	yyxd
-遥遥相对	yyxd
+影像	yyxd
 鱼与熊掌不可兼得	yyxd
 语言习惯	yyxg
 阴阳相隔	yyxg
@@ -115263,6 +115270,7 @@ git	git
 海岸带	had
 毫安时	hau
 海岸线	hax
+汉堡包	hbb
 还不错	hbc
 黑板擦	hbc
 恨不得	hbd
@@ -115499,7 +115507,6 @@ git	git
 海内外	hnw
 海南戏	hnx
 哈尼族	hnz
-汉堡包	hpb
 和平鸽	hpg
 后怕虎	hph
 黄浦江	hpj
@@ -118396,8 +118403,9 @@ SD卡	sdk
 三句话	sjh
 三结合	sjh
 私家车	sji
-三角尺	sji
+时间差	sji
 时间戳	sji
+三角尺	sji
 三角架	sjj
 丧家犬	sjq
 三九天	sjt
@@ -118664,6 +118672,7 @@ SD卡	sdk
 拖后腿	tht
 同花顺	thu
 拓荒者	thv
+醍醐味	thw
 挺好用	thy
 桃花运	thy
 跳出来	til
@@ -119012,6 +119021,7 @@ SD卡	sdk
 世界观	ujg
 十几个	ujg
 手机号	ujh
+时间差	uji
 时间戳	uji
 审计局	ujj
 数据库	ujk
@@ -119044,6 +119054,7 @@ SD卡	sdk
 失落感	ulg
 数理化	ulh
 省略号	ulh
+数量级	ulj
 睡懒觉	ulj
 生力军	ulj
 水利局	ulj
@@ -119699,6 +119710,7 @@ SD卡	sdk
 职业化	vyh
 专业户	vyh
 这一回	vyh
+制药厂	vyi
 制衣厂	vyi
 转眼间	vyj
 照妖镜	vyj
@@ -119928,6 +119940,7 @@ Word	wrd
 无人机	wrj
 万人坑	wrk
 万人迷	wrm
+无人区	wrq
 污染区	wrq
 委任状	wrv
 我认为	wrw
@@ -120686,6 +120699,7 @@ Word	wrd
 银行卡	yhk
 一回来	yhl
 月活量	yhl
+优惠券	yhq
 氧化铁	yht
 雨花台	yht
 印花税	yhu
@@ -121343,6 +121357,7 @@ Word	wrd
 总医院	zyy
 怎样做	zyz
 坐月子	zyz
+纵坐标	zzb
 自造词	zzc
 早早儿	zze
 曾祖父	zzf
@@ -121352,6 +121367,3 @@ Word	wrd
 早自习	zzx
 再怎样	zzy
 啧啧啧	zzz
-优惠券	yhq
-纵坐标	zzb
-醍醐味	thw

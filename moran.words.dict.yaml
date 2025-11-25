@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20251121"
+version: "20251125"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9253,6 +9253,14 @@ columns:
 誘受	10
 曲屏	10
 市盈	100
+脫字符	100
+乩身
+巴揚
+鯨涼鶴
+清涼鶴
+簡單鶴
+脫字符
+棠棣之花
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0
