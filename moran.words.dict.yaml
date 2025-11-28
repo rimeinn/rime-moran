@@ -9263,6 +9263,7 @@ columns:
 棠棣之花
 具身智能
 低重
+盘前	10
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0
@@ -24485,6 +24486,8 @@ Y盘	10	Y pj;mb
 Z盘	10	Z pj;mb
 A股	10	A gu;ou
 H股	10	H gu;ou
+K线	10	K xm;sq
+K线图	10	K xm;sq tu;kh
 
 # 整句可用的无理码
 几	1	jo;yd
