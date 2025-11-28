@@ -6,7 +6,7 @@
 
 ---
 name: moran_english
-version: "20251125"
+version: "20251129"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -57275,3 +57275,12 @@ CoCo	CoCo
 vibe	vibe
 vibe coding	vibecoding
 vibe coder	vibecoder
+Figma	Figma
+Windsurf	Windsurf
+Trae	Trae
+Claude Code	ClaudeCode
+Codex	Codex
+Aider	Aider
+Gemini CLI	GeminiCLI
+OpenHands	OpenHands
+Plandex	Plandex
