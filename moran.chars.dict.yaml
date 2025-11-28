@@ -20224,6 +20224,7 @@ use_preset_vocabulary: false
 擉	iu;fu	246
 擉	io;fu	246
 擊	ji;fu	2024
+擊	ji;uu	2024
 擋	dh;fd	2341
 擌	se;fj	0
 擌	so;fj	169
@@ -20827,7 +20828,9 @@ use_preset_vocabulary: false
 旷	kd;og	0
 旸	yh;oy	0
 旹	ui;oa	291
+旹	ui;ov	291
 旹	ui;co	291
+旹	ui;vo	291
 旺	wh;ow	2676
 旻	mn;ow	735
 旻	mn;wo	735
@@ -54335,7 +54338,9 @@ use_preset_vocabulary: false
 𡳻	xi;um	0
 𡳼	jt;ci	0
 𡳼	jt;ui	0
-𡳾	jt;gk	0
+𡳾	jt;kg	0
+𡳾	jt;cg	0
+𡳿	vi;aa	0
 𡳿	vi;ja	0
 𡴀	fg;ce	0
 𡴁	vr;cy	0
@@ -78021,6 +78026,7 @@ use_preset_vocabulary: false
 𦭦	ug;cv	0
 𦭨	yu;cy	0
 𦭩	vi;ca	0
+𦭩	vi;cv	0
 𦭫	qd;ca	0
 𦭬	yy;cj	0
 𦭭	qs;cq	0

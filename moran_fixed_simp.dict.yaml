@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251125"
+version: "20251128"
 sort: original
 columns:
   - text
@@ -2231,6 +2231,7 @@ AVL树	avlu
 不负责任	bfzr
 不飞则已	bfzy
 崩	bg
+不管	bg
 保国安民	bgam
 不顾安危	bgaw
 甭	bgb
@@ -6332,7 +6333,6 @@ B盘	bpj
 杯中之物	bvvw
 不止这些	bvvx
 帮助中心	bvvx
-北镇中学	bvvx
 不知者不罪	bvvz
 帮助文档	bvwd
 不知为何	bvwh
@@ -14284,7 +14284,6 @@ D盘	dpj
 东门	dsmf
 东盟	dsmg
 动漫	dsmj
-等什么君	dsmj
 动脉	dsml
 冬眠	dsmm
 东面	dsmm
@@ -19125,7 +19124,6 @@ F盘	fpj
 发起偷袭	fqtx
 分清是非	fquf
 夫妻双方	fquf
-风情少妇	fquf
 夫妻生活	fquh
 夫妻双双把家还	fquh
 肺气上逆	fqun
@@ -23554,10 +23552,10 @@ F盘	fpj
 过宽	gokr
 国库	goku
 锅盔	gokv
+过了	gol
 果料	golc
 过量	gold
 过了	gole
-国乐	gole
 过冷	golg
 锅里	goli
 国力	goli
@@ -23668,6 +23666,7 @@ F盘	fpj
 过瘾	goyn
 国运	goyp
 果园	goyr
+国乐	goyt
 过于	goyu
 国营	goyy
 过硬	goyy
@@ -30174,7 +30173,6 @@ H盘	hpj
 后事之师	huvu
 话是这么说	huvu
 笏	huvw
-衡水中学	huvx
 颔首致意	huvy
 还是这样	huvy
 琥	huw
@@ -40199,7 +40197,6 @@ JK制服	jkvf
 金融经济	jrjj
 矫若惊龙	jrjl
 桊	jrjm
-嘉然今天吃什么	jrjm
 卷进	jrjn
 镌	jrjn
 眷	jrjo
@@ -41267,6 +41264,7 @@ JK制服	jkvf
 筥	juvl
 举世瞩目	juvm
 九十周年	juvn
+具身智能	juvn
 积善之家，必有余庆	juvq
 技术转让	juvr
 举重	juvs
@@ -46658,6 +46656,7 @@ JK制服	jkvf
 两行	ldhh
 两汉	ldhj
 良好	ldhk
+靓号	ldhk
 流动红旗	ldhq
 劳动合同	ldht
 两湖	ldhu
@@ -55096,7 +55095,6 @@ JK制服	jkvf
 命运共同体	mygt
 鸣鼓	mygu
 名贵	mygv
-绵阳高中	mygv
 忙于公务	mygw
 没有关系	mygx
 贸易关系	mygx
@@ -55281,7 +55279,6 @@ JK制服	jkvf
 名牌	mypl
 名片	mypm
 名品	mypn
-绵阳普明中学	mypx
 朙月拼音	mypy
 没有区别	myqb
 免疫球蛋白	myqb
@@ -55397,7 +55394,6 @@ JK制服	jkvf
 名扬中外	myvw
 没有指望	myvw
 贸易中心	myvx
-绵阳中学	myvx
 没有之一	myvy
 没有这样	myvy
 明文	mywf
@@ -56973,7 +56969,6 @@ JK制服	jkvf
 内科主任	nkvr
 闹钟	nkvs
 孬种	nkvs
-南开中学	nkvx
 你可知罪	nkvz
 瑙	nkw
 宁可我负天下人	nkwr
@@ -57694,7 +57689,7 @@ JK制服	jkvf
 你若盛开	nruk
 你若盛开，蝴蝶自来	nrul
 耐人深思	nrus
-男人至死是少女	nrvn
+男人至死是少年	nrvn
 内容摘要	nrvy
 懦弱无能	nrwn
 疑人勿用	nrwy
@@ -58120,10 +58115,10 @@ JK制服	jkvf
 女权	nvqr
 囊中取物	nvqw
 那种情况下	nvqx
-胬	nvr
 女人	nvrf
 女主人公	nvrg
 男主人公	nvrg
+胬	nvrn
 那种热情	nvrq
 女色	nvse
 囊中所有	nvsy
@@ -62230,7 +62225,6 @@ P站	pvj
 抢抓	qdvw
 起点中文	qdvw
 起点中文网	qdvw
-启东中学	qdvx
 玱	qdw
 强吻	qdwf
 千刀万剐	qdwg
@@ -77592,7 +77586,6 @@ T恤衫	txuj
 深度睡眠	udum
 上当受骗	udup
 手动输入	udur
-时代少年团	udut
 双数	uduu
 胜读十年书	uduu
 神挡杀神	uduu
@@ -77885,7 +77878,6 @@ T恤衫	txuj
 申办	ufbj
 尚方宝剑	ufbj
 身份背景	ufbj
-少妇白洁	ufbj
 申报	ufbk
 十分不利	ufbl
 身边	ufbm
@@ -81359,6 +81351,7 @@ U盘	upj
 生死不明	usbm
 势所必然	usbr
 杀死比赛	usbs
+事实标准	usbv
 生死不知	usbv
 生死不渝	usby
 生死边缘	usby
@@ -81590,6 +81583,7 @@ U盘	upj
 双手抱头	uubt
 恕不	uubu
 涉世不深	uubu
+事实标准	uubv
 伸手不见五指	uubv
 生生不息	uubx
 实属不易	uuby
@@ -88039,7 +88033,6 @@ U盘	upj
 踵事增华	vuzh
 柱子	vuzi
 竹子	vuzi
-躅	vuzi
 铸造	vuzk
 主宰	vuzl
 植树造林	vuzl
@@ -98709,7 +98702,6 @@ U盘	upj
 下雪	xwxt
 臭味相投	xwxt
 瞎写	xwxx
-希望小学	xwxx
 下行	xwxy
 新闻学院	xwxy
 相偎相依	xwxy
@@ -115155,6 +115147,7 @@ git	git
 古铜色	gts
 共同体	gtt
 光秃秃	gtt
+甘特图	gtt
 共同社	gtu
 共同性	gtx
 共同语	gty
@@ -116840,9 +116833,8 @@ Keynote	knt
 两三年	lsn
 累死人	lsr
 凉飕飕	lss
+冷飕飕	lss
 两三岁	lss
-冷嗖嗖	lss
-凉嗖嗖	lss
 两三天	lst
 罗宋汤	lst
 类似于	lsy
@@ -118021,6 +118013,7 @@ PVP	pvp
 亲切感	qqg
 全球化	qqh
 氢气球	qqq
+QQ群	qqq
 全球性	qqx
 情人节	qrj
 去死吧	qsb
