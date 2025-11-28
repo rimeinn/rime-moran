@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20251125"
+version: "20251128"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9261,6 +9261,8 @@ columns:
 简单鹤
 脱字符
 棠棣之花
+具身智能
+低重
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0
@@ -24428,6 +24430,60 @@ K歌	10	kz ge;qg
 OK	10	OK
 OK	10	ou kz
 CoCo都可	10	coco du;ev ke;dk
+A站	10	A vj;lv
+B站	10	B vj;lv
+C站	10	C vj;lv
+D站	10	D vj;lv
+E站	10	E vj;lv
+F站	10	F vj;lv
+G站	10	G vj;lv
+H站	10	H vj;lv
+I站	10	I vj;lv
+J站	10	J vj;lv
+K站	10	K vj;lv
+L站	10	L vj;lv
+M站	10	M vj;lv
+N站	10	N vj;lv
+O站	10	O vj;lv
+P站	10	P vj;lv
+Q站	10	Q vj;lv
+R站	10	R vj;lv
+S站	10	S vj;lv
+T站	10	T vj;lv
+U站	10	U vj;lv
+V站	10	V vj;lv
+W站	10	W vj;lv
+X站	10	X vj;lv
+Y站	10	Y vj;lv
+Z站	10	Z vj;lv
+A盘	10	A pj;mb
+B盘	10	B pj;mb
+C盘	10	C pj;mb
+D盘	10	D pj;mb
+E盘	10	E pj;mb
+F盘	10	F pj;mb
+G盘	10	G pj;mb
+H盘	10	H pj;mb
+I盘	10	I pj;mb
+J盘	10	J pj;mb
+K盘	10	K pj;mb
+L盘	10	L pj;mb
+M盘	10	M pj;mb
+N盘	10	N pj;mb
+O盘	10	O pj;mb
+P盘	10	P pj;mb
+Q盘	10	Q pj;mb
+R盘	10	R pj;mb
+S盘	10	S pj;mb
+T盘	10	T pj;mb
+U盘	10	U pj;mb
+V盘	10	V pj;mb
+W盘	10	W pj;mb
+X盘	10	X pj;mb
+Y盘	10	Y pj;mb
+Z盘	10	Z pj;mb
+A股	10	A gu;ou
+H股	10	A gu;ou
 
 # 整句可用的无理码
 几	1	jo;yd

@@ -14134,6 +14134,7 @@
 擈 fy
 擉 fu
 擊 fu
+擊 uu
 擋 fd
 擌 fj
 操 fz
@@ -14552,7 +14553,9 @@
 旷 og
 旸 oy
 旹 oa
+旹 ov
 旹 co
+旹 vo
 旺 ow
 旻 ow
 旻 wo
@@ -40446,7 +40449,9 @@
 𡳻 um
 𡳼 ci
 𡳼 ui
-𡳾 gk
+𡳾 kg
+𡳾 cg
+𡳿 aa
 𡳿 ja
 𡴀 ce
 𡴁 cy
@@ -60610,6 +60615,7 @@
 𦭦 cv
 𦭨 cy
 𦭩 ca
+𦭩 cv
 𦭫 ca
 𦭬 cj
 𦭭 cq
