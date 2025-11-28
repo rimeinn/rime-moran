@@ -6,7 +6,7 @@
 
 ---
 name: moran_english
-version: "20251125"
+version: "20251129"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -57275,3 +57275,32 @@ CoCo	CoCo
 vibe	vibe
 vibe coding	vibecoding
 vibe coder	vibecoder
+Figma	Figma
+Windsurf	Windsurf
+Trae	Trae
+Claude Code	ClaudeCode
+Codex	Codex
+Aider	Aider
+Gemini CLI	GeminiCLI
+OpenHands	OpenHands
+Plandex	Plandex
+Nano Banana	NanoBanana
+Nano Banana 2	NanoBanana2
+Nano Banana Pro	Nano Banana Pro
+Veo	Veo
+Qwen	Qwen
+Qwen Chat	Qwen Chat
+BERT	BERT
+grok	grok
+de facto	defacto
+de jure	dejure
+ad hoc	adhoc
+prima facie	primafacie
+status quo	statusquo
+ex post facto	expostfacto
+bona fide	bonafide
+in vitro	invitro
+in vivo	invivo
+per se	perse
+a priori	apriori
+ad infinitum	adinfinitum

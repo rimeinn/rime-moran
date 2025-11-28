@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251125"
+version: "20251129"
 sort: by_weight
 columns:
   - text
@@ -2286,6 +2286,7 @@ AVL樹	avlu
 不負責任	bfzr
 不飛則已	bfzy
 崩	bg
+不管	bg
 保國安民	bgam
 不顧安危	bgaw
 甭	bgb
@@ -6479,7 +6480,6 @@ Bilibili	bvj
 杯中之物	bvvw
 不止這些	bvvx
 幫助中心	bvvx
-北鎮中學	bvvx
 不知者不罪	bvvz
 幫助文檔	bvwd
 不知爲何	bvwh
@@ -14720,7 +14720,6 @@ D盤	dpj
 東門	dsmf
 東盟	dsmg
 動漫	dsmj
-等什麼君	dsmj
 動脈	dsml
 冬眠	dsmm
 東面	dsmm
@@ -24272,10 +24271,10 @@ F盤	fpj
 過寬	gokr
 國庫	goku
 鍋盔	gokv
+過了	gol
 果料	golc
 過量	gold
 過了	gole
-國樂	gole
 過冷	golg
 鍋裏	goli
 國力	goli
@@ -24385,6 +24384,7 @@ F盤	fpj
 過癮	goyn
 國運	goyp
 果園	goyr
+國樂	goyt
 過於	goyu
 國營	goyy
 過硬	goyy
@@ -31062,7 +31062,6 @@ H盤	hpj
 互助	huvu
 後事之師	huvu
 話是這麼說	huvu
-衡水中學	huvx
 頷首致意	huvy
 還是這樣	huvy
 瑚	huw
@@ -41386,7 +41385,6 @@ JK制服	jkvf
 錈	jrjj
 金融經濟	jrjj
 矯若驚龍	jrjl
-嘉然今天喫什麼	jrjm
 捲進	jrjn
 鋗	jrjo
 加入進去	jrjq
@@ -42502,6 +42500,7 @@ JK制服	jkvf
 筥	juvl
 貗	juvl
 舉世矚目	juvm
+具身智能	juvn
 九十週年	juvn
 瞿	juvo
 積善之家，必有餘慶	juvq
@@ -48054,6 +48053,7 @@ JK制服	jkvf
 兩行	ldhh
 兩漢	ldhj
 良好	ldhk
+靚號	ldhk
 流動紅旗	ldhq
 勞動合同	ldht
 兩湖	ldhu
@@ -56728,7 +56728,6 @@ JK制服	jkvf
 命運共同體	mygt
 鳴鼓	mygu
 名貴	mygv
-綿陽高中	mygv
 忙於公務	mygw
 沒有關係	mygx
 貿易關係	mygx
@@ -56917,7 +56916,6 @@ JK制服	jkvf
 名牌	mypl
 名片	mypm
 名品	mypn
-綿陽普明中學	mypx
 朙月拼音	mypy
 沒有區別	myqb
 免疫球蛋白	myqb
@@ -57033,7 +57031,6 @@ JK制服	jkvf
 名揚中外	myvw
 沒有指望	myvw
 貿易中心	myvx
-綿陽中學	myvx
 沒有之一	myvy
 沒有這樣	myvy
 明文	mywf
@@ -58649,7 +58646,6 @@ JK制服	jkvf
 內科主任	nkvr
 鬧鐘	nkvs
 孬種	nkvs
-南開中學	nkvx
 你可知罪	nkvz
 瑙	nkw
 寧可我負天下人	nkwr
@@ -59393,7 +59389,7 @@ JK制服	jkvf
 你若盛開	nruk
 你若盛開，蝴蝶自來	nrul
 耐人深思	nrus
-男人至死是少女	nrvn
+男人至死是少年	nrvn
 內容摘要	nrvy
 懦弱無能	nrwn
 疑人勿用	nrwy
@@ -59828,6 +59824,7 @@ JK制服	jkvf
 女人	nvrf
 女主人公	nvrg
 男主人公	nvrg
+胬	nvrn
 那種熱情	nvrq
 女色	nvse
 囊中所有	nvsy
@@ -61816,6 +61813,7 @@ PC端	pcd
 盼盼	pjpj
 啤酒瓶子	pjpz
 拼盡全力	pjql
+盤前	pjqm
 攀親	pjqn
 盤曲	pjqu
 平均氣溫	pjqw
@@ -64106,7 +64104,6 @@ P站	pvj
 搶抓	qdvw
 起點中文	qdvw
 起點中文網	qdvw
-啓東中學	qdvx
 強吻	qdwf
 千刀萬剮	qdwg
 牆外	qdwl
@@ -79891,7 +79888,6 @@ T恤衫	txuj
 深度睡眠	udum
 上當受騙	udup
 手動輸入	udur
-時代少年團	udut
 雙數	uduu
 勝讀十年書	uduu
 神擋殺神	uduu
@@ -83721,6 +83717,7 @@ U盤	upj
 生死不明	usbm
 勢所必然	usbr
 殺死比賽	usbs
+事實標準	usbv
 生死不知	usbv
 生死不渝	usby
 生死邊緣	usby
@@ -83952,6 +83949,7 @@ U盤	upj
 恕不	uubu
 癙	uubu
 涉世不深	uubu
+事實標準	uubv
 伸手不見五指	uubv
 生生不息	uubx
 實屬不易	uuby
@@ -90606,7 +90604,6 @@ U盤	upj
 踵事增華	vuzh
 柱子	vuzi
 竹子	vuzi
-躅	vuzi
 鑄造	vuzk
 主宰	vuzl
 植樹造林	vuzl
@@ -101608,7 +101605,6 @@ WiFi	wifi
 下雪	xwxt
 臭味相投	xwxt
 瞎寫	xwxx
-希望小學	xwxx
 下行	xwxy
 新聞學院	xwxy
 相偎相依	xwxy
@@ -118616,6 +118612,7 @@ git	git
 古銅色	gts
 共同體	gtt
 光禿禿	gtt
+甘特圖	gtt
 共同社	gtu
 共同性	gtx
 共同語	gty
@@ -120302,9 +120299,8 @@ Keynote	knt
 兩三年	lsn
 累死人	lsr
 涼颼颼	lss
+冷颼颼	lss
 兩三歲	lss
-冷嗖嗖	lss
-涼嗖嗖	lss
 兩三天	lst
 羅宋湯	lst
 類似於	lsy
@@ -121479,6 +121475,7 @@ PVP	pvp
 親切感	qqg
 全球化	qqh
 氫氣球	qqq
+QQ羣	qqq
 全球性	qqx
 情人節	qrj
 去死吧	qsb

@@ -14143,6 +14143,7 @@
 擈	fy	扌業	
 擉	fu	扌蜀	
 擊	fu	手殳	
+擊	uu	手殳	
 擋	fd	扌當	
 擌	fj	扌夾	
 操	fz	扌喿	
@@ -14561,7 +14562,9 @@
 旷	og	日广	
 旸	oy	日𠃓	
 旹	oa	日一	
+旹	ov	日㞢	
 旹	co	屮日	
+旹	vo	㞢日	
 旺	ow	日王	
 旻	ow	日文	
 旻	wo	文日	
@@ -40455,8 +40458,10 @@
 𡳻	um	尸眉	auto
 𡳼	ci	廿出	auto
 𡳼	ui	尸出	auto
-𡳾	gk	乚凵	auto
-𡳿	ja	丩一	auto
+𡳾	kg	凵乚	
+𡳾	cg	屮乚	
+𡳿	aa	𠃊一	
+𡳿	ja	丩一	
 𡴀	ce	屮二	auto
 𡴁	cy	屮幺	auto
 𡴂	ck	屮凵	auto
@@ -60618,7 +60623,8 @@
 𦭥	cy	艹也	auto
 𦭦	cv	艹主	auto
 𦭨	cy	艹于	auto
-𦭩	ca	艹一	auto
+𦭩	ca	艹一	
+𦭩	cv	艹𡳿	
 𦭫	ca	屮一	auto
 𦭬	cj	艹巾	auto
 𦭭	cq	艹邛	auto
