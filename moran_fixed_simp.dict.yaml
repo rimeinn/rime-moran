@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251128"
+version: "20251129"
 sort: original
 columns:
   - text
@@ -41263,8 +41263,8 @@ JK制服	jkvf
 举手之劳	juvl
 筥	juvl
 举世瞩目	juvm
-九十周年	juvn
 具身智能	juvn
+九十周年	juvn
 积善之家，必有余庆	juvq
 技术转让	juvr
 举重	juvs
