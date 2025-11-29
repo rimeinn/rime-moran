@@ -409,6 +409,8 @@ moran:
   # 簡快碼提示（包括字和詞）
   # 例如 輸入 yy te er 英特爾 會提示「⚡yte」，即使用 yte 可以打出這個詞
   enable_quick_code_hint: false
+  # 默認值 null 表示使用 quick_code_indicator 提示簡快碼，若有需要可重設爲其他提示符或 ""
+  quick_code_hint_indicator: null
   # 取消單字的簡快碼提示
   quick_code_hint_skip_chars: false
 

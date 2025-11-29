@@ -1,10 +1,12 @@
 -- Moran Translator (for Express Editor)
 -- Copyright (c) 2023, 2024, 2025 ksqsf
 --
--- Ver: 0.2.0
+-- Ver: 0.3.0
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.3.0: 增加 quick_code_hint_indicator 選項
 --
 -- 0.2.0: 若開啓 inject_fixed_words ，則提示長詞
 --
@@ -35,7 +37,10 @@ function Module.init(env)
    else
       env.quick_code_hint_reverse = nil
    end
-   env.quick_code_indicator = env.engine.schema.config:get_string("moran/quick_code_indicator") or "⚡"
+   env.quick_code_hint_indicator = env.engine.schema.config:get_string("moran/quick_code_hint_indicator")
+   if env.quick_code_hint_indicator == nil then
+      env.quick_code_hint_indicator = env.engine.schema.config:get_string("moran/quick_code_indicator")
+   end
 
    -- 若開啓 inject_fixed_words，則可以提示長詞（>=3）
    env.inject_fixed_words = env.engine.schema.config:get_bool("moran/inject_fixed_words") or false
@@ -130,9 +135,9 @@ function Module.func(translation, env)
    end
 
    local major_sep = " ¦ "
-   local minor_sep = env.quick_code_indicator
+   local minor_sep = env.quick_code_hint_indicator
    if #minor_sep == 0 then
-      minor_sep = "⚡"
+      minor_sep = major_sep
    end
    for cand in translation:iter() do
       if cand.type == "punct" then
@@ -144,18 +149,18 @@ function Module.func(translation, env)
       local qchint = Module.get_quickcode_hint(env, cand, gcand)
       if auxhint and qchint then
          local hint = auxhint .. minor_sep .. qchint
-         if #gcand.comment == 0 or gcand.comment == env.quick_code_indicator then
+         if #gcand.comment == 0 or gcand.comment == env.quick_code_hint_indicator then
             gcand.comment = hint
          else
             gcand.comment = gcand.comment .. major_sep .. hint
          end
       elseif auxhint then
          if not env.is_auxfilter and #gcand.comment == 0 then
-            -- 單字，不額外添加 ⚡
-            -- 同時包括了 quick_code_indicator == "" 情況
+            -- 單字，不額外添加 sep
+            -- 同時包括了 quick_code_hint_indicator == "" 情況
             gcand.comment = auxhint
-         elseif not env.is_auxfilter and (gcand.comment == env.quick_code_indicator) then
-            -- 單字，已有 ⚡ ，把 hint 添加到 ⚡ 前面
+         elseif not env.is_auxfilter and (gcand.comment == env.quick_code_hint_indicator) then
+            -- 單字，已有 sep ，把 hint 添加到 sep 前面
             gcand.comment = auxhint .. gcand.comment
          else
             -- 輔篩模式，不論單字還是詞組都加上 ¦
@@ -163,12 +168,12 @@ function Module.func(translation, env)
          end
       elseif qchint then
          if #gcand.comment == 0 then
-            gcand.comment = gcand.comment .. env.quick_code_indicator .. qchint
-         elseif gcand.comment == env.quick_code_indicator then
-            -- 已有 ⚡ ，不再加
+            gcand.comment = gcand.comment .. env.quick_code_hint_indicator .. qchint
+         elseif gcand.comment == env.quick_code_hint_indicator then
+            -- 已有 sep ，不再加
             gcand.comment = gcand.comment .. qchint
          else
-            gcand.comment = gcand.comment .. major_sep .. env.quick_code_indicator .. qchint
+            gcand.comment = gcand.comment .. major_sep .. env.quick_code_hint_indicator .. qchint
          end
       end
       yield(cand)
