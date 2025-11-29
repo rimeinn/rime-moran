@@ -450,6 +450,21 @@ function Module.aux_list(env, word)
             table.insert(aux_list, c_aux)
          end
       end
+
+      if any_use then
+         local first_aux_list = env.aux_table[first]
+         local last_aux_list = env.aux_table[last]
+         for aux1 in first_aux_list:gmatch("%S+") do
+            for aux2 in last_aux_list:gmatch("%S+") do
+               table.insert(aux_list, aux1:sub(1, 1) .. aux2:sub(1, 1))
+            end
+         end
+         for aux1 in last_aux_list:gmatch("%S+") do
+            for aux2 in first_aux_list:gmatch("%S+") do
+               table.insert(aux_list, aux1:sub(1, 1) .. aux2:sub(1, 1))
+            end
+         end
+      end
    end
    return aux_list
 end

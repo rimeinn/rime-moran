@@ -5,6 +5,10 @@ deploy:
     tests:
       - send: 'lmjxz'
         assert: print(cand[1].text) or cand[1].text == '連接' and cand[1].comment == 'z'
+      - send: 'iifjku'
+        assert: cand[2].text == '喫飯'
+      - send: 'iifjuk'
+        assert: cand[2].text == '喫飯'
 
   tab:
     tests:
