@@ -2,9 +2,11 @@
 --
 -- Part of Project Moran
 -- License: GPLv3
--- Version: 0.3.0
+-- Version: 0.3.1
 
 -- ChangeLog:
+--
+-- 0.3.1: 修復單字可能被本濾鏡讓全的問題。
 --
 -- 0.3.0: 增加 enable_word_defer 選項，若首選應下沉，則移動首選到該數
 --        目個候選之後。
@@ -77,7 +79,7 @@ function Module.func(t_input, env)
       yield(first_cand)
       moran.yield_all(iter)
    elseif input_len == 5 or input_len == 7 or input_len == 9 then
-      if input:sub(1,input_len-1) ~= env.last_input then
+      if input:sub(1,input_len-1) ~= env.last_input or utf8.len(env.last_first_cand) == 1 then
          moran.yield_all(iter)
          return
       end
