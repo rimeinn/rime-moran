@@ -109,6 +109,10 @@ deploy:
     tests:
       - send: lmjxf
         assert: eq(cand[1].text, "連接") and eq(cand[2].text, "鏈接")
+      - send: "yiry "
+        assert: eq(commit, "億")
+      - send: yiry/
+        assert: eq(cand[1].text, "億")
   word_ijrq_defer:
     patch:
       moran/ijrq/enable_word: true
