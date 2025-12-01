@@ -2,11 +2,17 @@
 --
 -- Author: ksqsf
 -- License: GPLv3
--- Version: 0.1
+-- Version: 0.1.1
 --
+-- You may copy, distribute and modify the software as long as you track
+-- changes/dates in source files. Any modifications to or software including
+-- (via compiler) GPL-licensed code must also be made available under the GPL
+-- along with build & install instructions.
+--
+-- ChangeLog:
+-- 0.1.1: 把「小寫」改爲日常一般讀法。
 -- 0.1: Introduction.
 
-local MAXINT           = math.maxinteger
 local dot              = "點"
 local digitRegular     = { [0] = "零", "一", "二", "三", "四", "五", "六", "七", "八", "九" }
 local digitLower       = { [0] = "〇", "一", "二", "三", "四", "五", "六", "七", "八", "九" }
@@ -116,9 +122,11 @@ local function translateFracCurrency(str, digit, unit)
 end
 
 -- 常規轉換
+-- 日常讀法中最開始的「一十」省略「十」
 local function translateRegular(input)
-   return translateInt(input.int, digitRegular, unitLower, bigUnit)
+   local res = translateInt(input.int, digitRegular, unitLower, bigUnit)
       .. (input.dot ~= "" and (dot .. mapDigits(input.frac, digitRegular)) or "")
+   return res:gsub("^一十", "十")
 end
 
 local function translateUpper(input)
@@ -141,12 +149,11 @@ end
 local function translateNumStr(str)
    local input = parseNumStr(str)
    local result = {
-      { translateRegular(input), "〔小寫〕"},
-      { translateUpper(input), "〔大寫〕"},
-      -- { translateLower(input), "〔小寫〕"},
-      { mapDigits(str, digitLower):gsub("%.", dot), "〔編號〕" },
-      { translateCurrency(input, digitUpper, unitUpper, bigUnit), "〔金額大寫〕"},
-      { translateCurrency(input, digitLower, unitLower, bigUnit), "〔金額小寫〕"},
+      { "〔常規〕", translateRegular(input), },
+      { "〔編號〕", mapDigits(str, digitLower):gsub("%.", dot) },
+      { "〔大寫〕", translateUpper(input) },
+      { "〔金額大寫〕", translateCurrency(input, digitUpper, unitUpper, bigUnit) },
+      { "〔金額小寫〕", translateCurrency(input, digitLower, unitLower, bigUnit) },
    }
    return result
 end
@@ -156,7 +163,7 @@ local function translator(input, seg)
       local str = input:gsub("^(%a+)", "")
       local conversions = translateNumStr(str)
       for i = 1, #conversions do
-         yield(Candidate(input, seg.start, seg._end, conversions[i][1], conversions[i][2]))
+         yield(Candidate(input, seg.start, seg._end, conversions[i][2], conversions[i][1]))
       end
    end
 end
