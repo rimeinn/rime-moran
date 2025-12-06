@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20251129"
+version: "20251206"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9264,6 +9264,20 @@ columns:
 具身智能
 低重
 盤前	10
+淬毒	10
+麻椒	100
+助聽	1000
+耳甲艇
+耳輪結節
+耳輪尾
+屏間
+切跡
+屏間切跡
+屏上切跡
+耳輪腳
+耳甲腔
+輪屏切跡
+社管	1000
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0

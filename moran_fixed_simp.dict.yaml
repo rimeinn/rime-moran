@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251129"
+version: "20251206"
 sort: original
 columns:
   - text
@@ -1012,6 +1012,7 @@ AVL树	avlu
 阿瓦达索命	awdm
 安危祸福	awhf
 爱屋及乌	awjw
+安慰剂效应	awjy
 阿伟乱葬岗	awlg
 安危冷暖	awln
 爱我所爱	awsa
@@ -2538,7 +2539,6 @@ AVL树	avlu
 不合乎要求	bhhq
 帮会	bhhv
 不怀好意	bhhy
-不会怀孕	bhhy
 傍黑	bhhz
 蚌	bhi
 棒疮	bhid
@@ -6913,6 +6913,7 @@ B盘	bpj
 不应该是	bygu
 冰柜	bygv
 冰挂	bygw
+不应该像	bygx
 不要高兴得太早	bygz
 炳	byh
 秉	byha
@@ -12340,6 +12341,7 @@ C语言	cyy
 丹青	djqy
 儋	djr
 担任	djrf
+单人	djrf
 但仍	djrg
 单日	djri
 淡然	djrj
@@ -23532,6 +23534,7 @@ F盘	fpj
 裹脚	gojc
 国脚	gojc
 过奖	gojd
+果酱	gojd
 帼	gojg
 国际	goji
 国籍	goji
@@ -24626,6 +24629,7 @@ G盘	gpj
 蓇	gucg
 谷仓	guch
 故此	guci
+固词	guci
 孤残	gucj
 谷草	guck
 更上层楼	gucl
@@ -27375,7 +27379,6 @@ H股	hgu
 换个位置	hgwv
 珩	hgwx
 好高骛远	hgwy
-好高鹜远	hgwy
 后顾无忧	hgwy
 衡	hgx
 横向	hgxd
@@ -30369,6 +30372,7 @@ H盘	hpj
 灰浆	hvjd
 河住江翻	hvjf
 汇集	hvji
+回击	hvji
 活着就是为了改变世界	hvjj
 呼之即来	hvjl
 会见	hvjm
@@ -34899,8 +34903,8 @@ I盘	ipj
 重振	isvf
 重整	isvg
 冲账	isvh
-重置	isvi
 充值	isvi
+重置	isvi
 艟	isvt
 虫蛀	isvu
 垂死挣扎	isvv
@@ -42775,7 +42779,6 @@ JK制服	jkvf
 竞品	jypn
 竞聘	jypn
 景颇	jypo
-假一赔三	jypo
 假一赔三	jyps
 假一赔十	jypu
 加以培养	jypy
@@ -51467,6 +51470,7 @@ JK制服	jkvf
 暮霭沉沉	maii
 蟆	maim
 马脚	majc
+麻椒	majc
 麻将	majd
 马厩	majq
 马驹	maju
@@ -51534,6 +51538,7 @@ JK制服	jkvf
 骂仗	mavh
 玛	maw
 码文	mawf
+马尾	mawz
 马戏	maxi
 麻线	maxm
 马熊	maxs
@@ -51542,7 +51547,6 @@ JK制服	jkvf
 麻油	mayb
 妈耶	maye
 蚂蚁	mayi
-马尾	mayi
 麻药	mayk
 码元	mayr
 孖	maz
@@ -56918,6 +56922,7 @@ JK制服	jkvf
 铙	nkj
 闹僵	nkjd
 脑浆	nkjd
+脑机	nkji
 脑际	nkji
 脑筋	nkjn
 闹剧	nkju
@@ -65901,9 +65906,6 @@ P站	pvj
 潜心研究	qxyj
 切要	qxyk
 谦逊有礼	qxyl
-七星娱乐	qxyl
-起星欲了	qxyl
-起性欲了	qxyl
 取信于民	qxym
 切音	qxyn
 取信于人	qxyr
@@ -69838,6 +69840,7 @@ P站	pvj
 时间单位	sjdw
 时间地点人物	sjdw
 俗家弟子	sjdz
+随即	sje
 伺机而动	sjed
 散发	sjfa
 四季发财	sjfc
@@ -74837,6 +74840,7 @@ P站	pvj
 通道	tsdk
 统带	tsdl
 通电	tsdm
+痛点	tsdm
 潼	tsdt
 通读	tsdu
 通兑	tsdv
@@ -77384,6 +77388,7 @@ T恤衫	txuj
 手段毒辣	uddl
 说的道理	uddl
 泷	uddl
+爽点	uddm
 山顶洞人	uddr
 霜冻	udds
 说到点子上	uddu
@@ -77727,6 +77732,7 @@ T恤衫	txuj
 时而感到	uegd
 舌根	uegf
 设岗	uegh
+社管	uegr
 社工	uegs
 十二个月	uegy
 折耗	uehk
@@ -81375,6 +81381,7 @@ U盘	upj
 是时候了	ushl
 十四行诗	ushu
 神色慌张	ushv
+事实就是	usje
 生死狙击	usjj
 声色俱厉	usjl
 说散就散	usjs
@@ -82170,6 +82177,7 @@ U盘	upj
 帨	uvj
 失之交臂	uvjb
 睡觉	uvjc
+水饺	uvjc
 谁将	uvjd
 水浆	uvjd
 市直机关	uvjg
@@ -88699,7 +88707,6 @@ U盘	upj
 主要	vy
 只要	vy
 注意安全	vyaq
-只有	vyb
 桌椅板凳	vybd
 这样不对	vybd
 重要部分	vybf
@@ -89480,6 +89487,7 @@ U盘	upj
 伟大复兴	wdfx
 万达广场	wdgi
 万道光芒	wdgm
+伟大光荣正确	wdgq
 稳定更新	wdgx
 稳定工作	wdgz
 外地工作	wdgz
@@ -96654,7 +96662,6 @@ U盘	upj
 新锐	xnrv
 伈	xnrx
 心思	xnsi
-寻思	xnsi
 心酸	xnsr
 辛酸	xnsr
 心算	xnsr
@@ -96853,6 +96860,7 @@ U盘	upj
 巽	xps
 新片速递	xpsd
 逊色	xpse
+寻思	xpsi
 迅速	xpsu
 埙	xpt
 薰陶	xptk
@@ -97374,7 +97382,6 @@ U盘	upj
 悬	xrx
 喧嚣	xrxc
 选项	xrxd
-雪人兄弟	xrxd
 衒	xrxi
 血肉相连	xrxl
 悬心	xrxn
@@ -99543,7 +99550,6 @@ U盘	upj
 兴盛	xyug
 闲余时光	xyug
 校园生活	xyuh
-星月神话	xyuh
 形式	xyui
 形势	xyui
 行善	xyuj
@@ -99587,7 +99593,6 @@ U盘	upj
 兴旺	xywh
 夕阳无限好	xywh
 习以为常	xywi
-性欲旺盛	xywi
 信仰危机	xywj
 侠以武犯禁	xywj
 心愿未了	xywl
@@ -101751,6 +101756,7 @@ U盘	upj
 养地	yhdi
 银行贷款	yhdk
 阳电	yhdm
+痒点	yhdm
 沿海地区	yhdq
 有很多人	yhdr
 漾动	yhds
@@ -113130,6 +113136,7 @@ U盘	upj
 挨着的	avd
 安装盘	avp
 奥委会	awh
+安慰剂	awj
 艾窝窝	aww
 癌细胞	axb
 奥运村	ayc
@@ -113152,6 +113159,7 @@ U盘	upj
 背包袱	bbf
 比不过	bbg
 并不会	bbh
+版本号	bbh
 办不成	bbi
 不包括	bbk
 比比看	bbk
@@ -115338,7 +115346,6 @@ git	git
 合法化	hfh
 恢复了	hfl
 核废料	hfl
-花粉囊	hfn
 护肤品	hfp
 核辐射	hfu
 黑非洲	hfv
@@ -116206,6 +116213,7 @@ git	git
 举例子	jlz
 健美操	jmc
 掘墓人	jmr
+佳木斯	jms
 几秒钟	jmv
 加拿大	jnd
 纪念品	jnp
@@ -117000,6 +117008,7 @@ Keynote	knt
 磨豆腐	mdf
 牡丹花	mdh
 马大哈	mdh
+马黛茶	mdi
 没多久	mdj
 满大街	mdj
 牡丹江	mdj
@@ -118147,6 +118156,7 @@ QQ群	qqq
 软刀子	rdz
 寄存器	reg
 日耳曼	rem
+入耳式	reu
 热风炉	rfl
 人贩子	rfz
 软骨病	rgb
@@ -119777,7 +119787,6 @@ SD卡	sdk
 五点半	wdb
 温度表	wdb
 无底洞	wdd
-五斗柜	wdg
 温度场	wdi
 温度计	wdj
 无敌了	wdl
@@ -119817,6 +119826,7 @@ SD卡	sdk
 顽固派	wgp
 外国人	wgr
 文工团	wgt
+伟光正	wgv
 五个月	wgy
 外国语	wgy
 五个字	wgz
@@ -120532,8 +120542,8 @@ Word	wrd
 阴暗面	yam
 一步步	ybb
 一般般	ybb
-一遍遍	ybb
 眼巴巴	ybb
+一遍遍	ybb
 也不错	ybc
 一部分	ybf
 摇笔杆	ybg
@@ -120596,6 +120606,7 @@ Word	wrd
 一大片	ydp
 一刀切	ydq
 一大群	ydq
+阅读器	ydq
 有的人	ydr
 一代人	ydr
 胰岛素	yds
@@ -120680,6 +120691,7 @@ Word	wrd
 一个钟	ygv
 应该问	ygw
 有关系	ygx
+应该像	ygx
 一贯性	ygx
 一个月	ygy
 摇滚乐	ygy
