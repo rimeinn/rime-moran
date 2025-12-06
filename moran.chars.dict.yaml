@@ -14371,8 +14371,8 @@ use_preset_vocabulary: false
 垐	ci;tc	0
 垐	ji;tc	0
 垑	ii;td	0
-垒	lz;st	26075
 垒	lz;tl	26075
+垒	lz;st	26075
 垓	gl;th	723
 垓	hl;th	0
 垔	yj;tx	0
@@ -79151,7 +79151,8 @@ use_preset_vocabulary: false
 𧀊	cl;cc	0
 𧀋	mo;cm	0
 𧀌	su;cu	0
-𧀍	qu;cx	0
+𧀍	qu;ca	0
+𧀍	qu;ck	0
 𧀎	gk;cg	0
 𧀑	vs;cv	0
 𧀓	ju;cl	0

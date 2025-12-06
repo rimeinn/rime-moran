@@ -9979,8 +9979,8 @@
 垏 ty
 垐 tc
 垑 td
-垒 st
 垒 tl
+垒 st
 垓 th
 垔 tx
 垔 xt
@@ -61585,7 +61585,8 @@
 𧀊 cc
 𧀋 cm
 𧀌 cu
-𧀍 cx
+𧀍 ca
+𧀍 ck
 𧀎 cg
 𧀑 cv
 𧀓 cl
