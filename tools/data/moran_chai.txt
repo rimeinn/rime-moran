@@ -9988,8 +9988,8 @@
 垏	ty	土聿	
 垐	tc	土次	
 垑	td	土多	
-垒	st	厶土	
 垒	tl	土厽	
+垒	st	厶土	
 垓	th	土亥	
 垔	tx	土覀	
 垔	xt	覀土	
@@ -30390,7 +30390,7 @@
 颚	ye	页咢	
 颚	yk	页亏	
 颛	ye	页而	
-颜	yy	彦页	
+颜	yy	页彦	
 额	yk	页客	
 颞	yn	页聂	
 颟	yl	页两	
@@ -61594,7 +61594,8 @@
 𧀊	cc	艹采	auto
 𧀋	cm	艹麽	auto
 𧀌	cu	艹漱	auto
-𧀍	cx	屮小	auto
+𧀍	ca	屮丨	
+𧀍	ck	屮凵	
 𧀎	cg	艹膏	auto
 𧀑	cv	艹種	auto
 𧀓	cl	艹屢	auto

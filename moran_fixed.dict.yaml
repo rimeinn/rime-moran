@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251129"
+version: "20251206"
 sort: by_weight
 columns:
   - text
@@ -1050,6 +1050,7 @@ AVL樹	avlu
 阿瓦達索命	awdm
 安危禍福	awhf
 愛屋及烏	awjw
+安慰劑效應	awjy
 阿偉亂葬崗	awlg
 安危冷暖	awln
 愛我所愛	awsa
@@ -2605,7 +2606,6 @@ AVL樹	avlu
 不合乎要求	bhhq
 幫會	bhhv
 不懷好意	bhhy
-不會懷孕	bhhy
 傍黑	bhhz
 蚌	bhi
 棒瘡	bhid
@@ -7074,6 +7074,7 @@ Bilibili	bvj
 不應該是	bygu
 冰櫃	bygv
 冰掛	bygw
+不應該像	bygx
 不要高興得太早	bygz
 炳	byh
 炳	byhb
@@ -12713,6 +12714,7 @@ C盤	cpj
 儋	djr
 僤	djrd
 擔任	djrf
+單人	djrf
 但仍	djrg
 單日	djri
 淡然	djrj
@@ -24251,6 +24253,7 @@ F盤	fpj
 裹腳	gojc
 國腳	gojc
 過獎	gojd
+果醬	gojd
 幗	gojg
 國際	goji
 國籍	goji
@@ -25350,6 +25353,7 @@ G盤	gpj
 薣	gucg
 穀倉	guch
 故此	guci
+固詞	guci
 孤殘	gucj
 穀草	guck
 更上層樓	gucl
@@ -28167,7 +28171,6 @@ H股	hgu
 換個位置	hgwv
 珩	hgwx
 好高騖遠	hgwy
-好高鶩遠	hgwy
 後顧無憂	hgwy
 衡	hgx
 橫向	hgxd
@@ -31279,6 +31282,7 @@ H盤	hpj
 灰漿	hvjd
 河住江翻	hvjf
 彙集	hvji
+回擊	hvji
 活着就是爲了改變世界	hvjj
 呼之即來	hvjl
 會見	hvjm
@@ -35950,6 +35954,7 @@ I盤	ipj
 重整	isvg
 衝賬	isvh
 充值	isvi
+重置	isvi
 艟	isvt
 蟲蛀	isvu
 垂死掙扎	isvv
@@ -44080,7 +44085,6 @@ JK制服	jkvf
 競品	jypn
 競聘	jypn
 景頗	jypo
-假一賠三	jypo
 假一賠三	jyps
 假一賠十	jypu
 加以培養	jypy
@@ -53008,6 +53012,7 @@ JK制服	jkvf
 蟆	maim
 鎷	maj
 馬腳	majc
+麻椒	majc
 麻將	majd
 馬廄	majq
 馬駒	maju
@@ -53073,6 +53078,7 @@ JK制服	jkvf
 瑪	maw
 碼文	mawf
 瓾	maww
+馬尾	mawz
 馬戲	maxi
 麻線	maxm
 馬熊	maxs
@@ -53081,7 +53087,6 @@ JK制服	jkvf
 麻油	mayb
 媽耶	maye
 螞蟻	mayi
-馬尾	mayi
 麻藥	mayk
 碼元	mayr
 碼字	mazi
@@ -57425,6 +57430,7 @@ JK制服	jkvf
 你	n	nire
 哪	n
 那	na
+哪邊	nab
 那本	nabf
 那幫	nabh
 那般	nabj
@@ -58594,6 +58600,7 @@ JK制服	jkvf
 鐃	nkj
 鬧僵	nkjd
 腦漿	nkjd
+腦機	nkji
 腦際	nkji
 腦筋	nkjn
 鬧劇	nkju
@@ -67917,9 +67924,6 @@ P站	pvj
 潛心研究	qxyj
 切要	qxyk
 謙遜有禮	qxyl
-七星娛樂	qxyl
-起星欲了	qxyl
-起性慾了	qxyl
 取信於民	qxym
 切音	qxyn
 取信於人	qxyr
@@ -71938,6 +71942,7 @@ P站	pvj
 時間單位	sjdw
 時間地點人物	sjdw
 俗家弟子	sjdz
+隨即	sje
 伺機而動	sjed
 散發	sjfa
 四季發財	sjfc
@@ -77085,6 +77090,7 @@ P站	pvj
 通道	tsdk
 統帶	tsdl
 通電	tsdm
+痛點	tsdm
 通讀	tsdu
 通兌	tsdv
 通俗讀物	tsdw
@@ -79685,6 +79691,7 @@ T恤衫	txuj
 時代的眼淚	uddl
 說的道理	uddl
 瀧	uddl
+爽點	uddm
 山頂洞人	uddr
 霜凍	udds
 說到點子上	uddu
@@ -80032,6 +80039,7 @@ T恤衫	txuj
 時而感到	uegd
 舌根	uegf
 設崗	uegh
+社管	uegr
 社工	uegs
 十二個月	uegy
 折耗	uehk
@@ -83740,6 +83748,7 @@ U盤	upj
 是時候了	ushl
 十四行詩	ushu
 神色慌張	ushv
+事實就是	usje
 生死狙擊	usjj
 聲色俱厲	usjl
 說散就散	usjs
@@ -84551,6 +84560,7 @@ U盤	upj
 帨	uvj
 失之交臂	uvjb
 睡覺	uvjc
+水餃	uvjc
 誰將	uvjd
 水漿	uvjd
 市直機關	uvjg
@@ -92068,6 +92078,7 @@ U盤	upj
 偉大復興	wdfx
 萬達廣場	wdgi
 萬道光芒	wdgm
+偉大光榮正確	wdgq
 穩定更新	wdgx
 穩定工作	wdgz
 外地工作	wdgz
@@ -100222,7 +100233,6 @@ WiFi	wifi
 懸	xrx
 喧囂	xrxc
 選項	xrxd
-雪人兄弟	xrxd
 懁	xrxh
 衒	xrxi
 血肉相連	xrxl
@@ -102476,7 +102486,6 @@ WiFi	wifi
 興盛	xyug
 閒餘時光	xyug
 校園生活	xyuh
-星月神話	xyuh
 形式	xyui
 形勢	xyui
 行善	xyuj
@@ -102519,7 +102528,6 @@ WiFi	wifi
 興旺	xywh
 夕陽無限好	xywh
 習以爲常	xywi
-性慾旺盛	xywi
 信仰危機	xywj
 俠以武犯禁	xywj
 心願未了	xywl
@@ -104718,6 +104726,7 @@ WiFi	wifi
 養地	yhdi
 銀行貸款	yhdk
 陽電	yhdm
+癢點	yhdm
 沿海地區	yhdq
 有很多人	yhdr
 漾動	yhds
@@ -116592,6 +116601,7 @@ WiFi	wifi
 挨着的	avd
 安裝盤	avp
 奧委會	awh
+安慰劑	awj
 艾窩窩	aww
 癌細胞	axb
 奧運村	ayc
@@ -116614,6 +116624,7 @@ WiFi	wifi
 揹包袱	bbf
 比不過	bbg
 並不會	bbh
+版本號	bbh
 辦不成	bbi
 比比看	bbk
 不包括	bbk
@@ -118801,7 +118812,6 @@ git	git
 合法化	hfh
 恢復了	hfl
 核廢料	hfl
-花粉囊	hfn
 護膚品	hfp
 核輻射	hfu
 黑非洲	hfv
@@ -119671,6 +119681,7 @@ git	git
 舉例子	jlz
 健美操	jmc
 掘墓人	jmr
+佳木斯	jms
 幾秒鐘	jmv
 加拿大	jnd
 紀念品	jnp
@@ -120463,6 +120474,7 @@ Keynote	knt
 磨豆腐	mdf
 牡丹花	mdh
 馬大哈	mdh
+馬黛茶	mdi
 沒多久	mdj
 滿大街	mdj
 牡丹江	mdj
@@ -121609,6 +121621,7 @@ QQ羣	qqq
 軟刀子	rdz
 寄存器	reg
 日耳曼	rem
+入耳式	reu
 熱風爐	rfl
 人販子	rfz
 軟骨病	rgb
@@ -123241,7 +123254,6 @@ SD卡	sdk
 五點半	wdb
 溫度表	wdb
 無底洞	wdd
-五斗櫃	wdg
 溫度場	wdi
 溫度計	wdj
 無敵了	wdl
@@ -123281,6 +123293,7 @@ SD卡	sdk
 頑固派	wgp
 外國人	wgr
 文工團	wgt
+偉光正	wgv
 五個月	wgy
 外國語	wgy
 五個字	wgz
@@ -123994,10 +124007,10 @@ Word	wrd
 現在在	xzz
 喜滋滋	xzz
 陰暗面	yam
-一遍遍	ybb
 一步步	ybb
 一般般	ybb
 眼巴巴	ybb
+一遍遍	ybb
 也不錯	ybc
 一部分	ybf
 搖筆桿	ybg
@@ -124060,6 +124073,7 @@ Word	wrd
 一大片	ydp
 一刀切	ydq
 一大羣	ydq
+閱讀器	ydq
 有的人	ydr
 一代人	ydr
 胰島素	yds
@@ -124144,6 +124158,7 @@ Word	wrd
 一個鐘	ygv
 應該問	ygw
 有關係	ygx
+應該像	ygx
 一貫性	ygx
 一個月	ygy
 搖滾樂	ygy
