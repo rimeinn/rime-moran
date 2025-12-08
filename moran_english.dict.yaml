@@ -6,7 +6,7 @@
 
 ---
 name: moran_english
-version: "20251129"
+version: "20251208"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -57304,3 +57304,5 @@ in vivo	invivo
 per se	perse
 a priori	apriori
 ad infinitum	adinfinitum
+nutella	nutella
+Ferrero	Ferrero
