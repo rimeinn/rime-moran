@@ -8,7 +8,6 @@ schema:
   description: |
     無簡快碼的純粹整句輸入方案。
   dependencies:
-    - tiger
     - moran_charset
     - moran_english
     #- moran_japanese
