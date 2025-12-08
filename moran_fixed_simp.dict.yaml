@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251206"
+version: "20251208"
 sort: original
 columns:
   - text
@@ -3100,6 +3100,7 @@ AVL树	avlu
 避	bizx
 半	bj
 比较	bj
+毕竟	bj
 背景	bj
 办案	bjan
 保洁阿姨	bjay
@@ -4223,7 +4224,6 @@ AVL树	avlu
 别来那一套	blnt
 布洛尼亚	blny
 布洛妮娅	blny
-玻璃瓶	blp
 白	blp
 拜	blpa
 白嫖	blpc
@@ -9248,10 +9248,8 @@ C++	cpp
 才思敏捷	csmj
 聪敏	csmn
 从什么时候起	csmq
-从什么时候起	csmq
 从什么时候开始	csmu
 从母	csmu
-从什么时候开始	csmu
 骢	csmx
 聪明	csmy
 从没	csmz
@@ -11512,7 +11510,6 @@ C语言	cyy
 电话地址	dhdv
 大轰大嗡	dhdw
 大红大紫	dhdz
-待会儿	dhe
 党	dhe
 挡	dhf
 党法	dhfa
@@ -13716,6 +13713,7 @@ C语言	cyy
 大炮打蚊子	dpdz
 蹲伏	dpfu
 顿感	dpgj
+钝感	dpgj
 大盘高开	dpgk
 炖	dph
 敦厚	dphb
@@ -15804,7 +15802,6 @@ D盘	dpj
 的一是了不在有个人这	dyuv
 德艺双馨	dyux
 断崖式领先	dyux
-第一实验学校	dyux
 大医治未病	dyvb
 顶撞	dyvd
 盯着	dyve
@@ -21547,7 +21544,6 @@ F盘	fpj
 亘	gfaa
 亘	gfad
 根本	gfbf
-根本	gfbf
 跟班	gfbj
 跟包	gfbk
 高分辨率	gfbl
@@ -21655,7 +21651,6 @@ F盘	fpj
 跟梢	gfuk
 广泛深入	gfur
 广泛使用	gfuy
-股份制	gfv
 跟庄	gfvd
 跟着	gfve
 规范执法	gfvf
@@ -24863,6 +24858,7 @@ G盘	gpj
 馉	guug
 改善生活	guuh
 故事	guui
+股市	guui
 鬼使神差	guui
 毂	guui
 孤山	guuj
@@ -28580,7 +28576,6 @@ H股	hgu
 海味	hlwz
 海啸	hlxc
 还想	hlxd
-葫芦兄弟	hlxd
 后来先到	hlxd
 赫鲁晓夫	hlxf
 害喜	hlxi
@@ -35998,8 +35993,8 @@ I盘	ipj
 搋子	iyzi
 超越自我	iyzw
 穿衣自由	iyzy
-创造	iz
 创作	iz
+创造	iz
 橙子便利	izbl
 吃罪不起	izbq
 长足的进步	izdb
@@ -38847,7 +38842,6 @@ JK制服	jkvf
 检点	jmdm
 剪	jmdq
 歼	jmdq
-金门大桥	jmdq
 湔	jmdq
 简短	jmdr
 间断	jmdr
@@ -48499,7 +48493,6 @@ JK制服	jkvf
 连败	lmbl
 联播	lmbo
 脸部	lmbu
-两面包夹芝士	lmbu
 栏目包装	lmbv
 黎民百姓	lmbx
 练兵	lmby
@@ -70268,7 +70261,6 @@ P站	pvj
 扫描病毒	smbd
 四面八方	smbf
 什么办法	smbf
-什么办法	smbf
 碎面包屑	smbx
 什么都	smdb
 什么地点	smdd
@@ -82545,6 +82537,7 @@ U盘	upj
 圣文森特和格林纳丁斯	uwss
 刷头	uwtb
 失望透顶	uwtd
+上位替代	uwtd
 刷题	uwti
 深恶痛绝	uwtj
 商务谈判	uwtp
@@ -83115,7 +83108,6 @@ U盘	upj
 商业系统	uyxt
 摔下	uyxw
 商业行为	uyxw
-实验小学	uyxx
 率性	uyxy
 首因效应	uyxy
 衰	uyy
@@ -90652,7 +90644,6 @@ U盘	upj
 碗橱	wjiu
 万箭穿心	wjix
 丸	wjj
-文件夹	wjj
 无奖竞猜	wjjc
 五金加工	wjjg
 顽疾	wjji
@@ -94524,6 +94515,7 @@ U盘	upj
 相助	xdvu
 现代战争	xdvv
 相对主义	xdvy
+现代主义	xdvy
 享	xdw
 相对稳定	xdwd
 想问	xdwf
@@ -101867,7 +101859,6 @@ U盘	upj
 扬剧	yhju
 养家	yhjw
 洋井	yhjy
-银行卡	yhk
 央	yhk
 佯狂	yhkd
 有何看法	yhkf
@@ -105525,7 +105516,6 @@ U盘	upj
 雅俗共赏	ysgu
 有所感悟	ysgw
 有时候	ysh
-㶲	ysh
 严丝合缝	yshf
 永恒	yshg
 勇悍	yshj
@@ -105603,7 +105593,6 @@ U盘	upj
 伊斯兰教徒	yslt
 庸碌	yslu
 一死了之	yslv
-有什么区别	ysmb
 有什么区别	ysmb
 有什么错	ysmc
 有什么大不了的	ysmd
@@ -113351,6 +113340,8 @@ U盘	upj
 北京人	bjr
 北京市	bju
 绊脚石	bju
+毕竟是	bju
+八进制	bjv
 百家姓	bjx
 八角形	bjx
 不经意	bjy
@@ -114443,7 +114434,6 @@ CD机	cdj
 而不是	ebs
 饿不死	ebs
 而不是	ebu
-恶病质	ebv
 二百五	ebw
 二不休	ebx
 而不用	eby
@@ -115934,6 +115924,7 @@ git	git
 出租车	izi
 创造力	izl
 超自然	izr
+创作者	izv
 创造者	izv
 创造性	izx
 沉醉于	izy
@@ -119265,6 +119256,7 @@ SD卡	sdk
 师兄弟	uxd
 少先队	uxd
 手续费	uxf
+失心疯	uxf
 盛行风	uxf
 摄像管	uxg
 鼠须管	uxg
