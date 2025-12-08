@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20251206"
+version: "20251208"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9278,6 +9278,19 @@ columns:
 耳甲腔
 轮屏切迹
 社管	1000
+化竞	100
+数竞	100
+物竞	100
+信竞	100
+生竞	100
+钝感	500
+能多益
+意榛滋
+榛子酱
+上位替代
+下位替代
+上位替代品
+下位替代品
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0

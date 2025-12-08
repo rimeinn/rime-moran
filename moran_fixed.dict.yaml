@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251206"
+version: "20251208"
 sort: by_weight
 columns:
   - text
@@ -3197,6 +3197,7 @@ AVL樹	avlu
 本初子午線	bizx
 半	bj
 比較	bj
+畢竟	bj
 背景	bj
 辦案	bjan
 保潔阿姨	bjay
@@ -14137,6 +14138,7 @@ C盤	cpj
 蹲伏	dpfu
 庉	dpg
 頓感	dpgj
+鈍感	dpgj
 大盤高開	dpgk
 燉	dph
 敦厚	dphb
@@ -16298,7 +16300,6 @@ D盤	dpj
 的一是了不在有個人這	dyuv
 德藝雙馨	dyux
 斷崖式領先	dyux
-第一實驗學校	dyux
 大醫治未病	dyvb
 頂撞	dyvd
 盯着	dyve
@@ -25598,6 +25599,7 @@ G盤	gpj
 改善生活	guuh
 穀	guuh
 故事	guui
+股市	guui
 轂	guui
 鬼使神差	guui
 孤山	guuj
@@ -29407,7 +29409,6 @@ H股	hgu
 海味	hlwz
 海嘯	hlxc
 還想	hlxd
-葫蘆兄弟	hlxd
 後來先到	hlxd
 赫魯曉夫	hlxf
 害喜	hlxi
@@ -37065,8 +37066,8 @@ I盤	ipj
 搋子	iyzi
 超越自我	iyzw
 穿衣自由	iyzy
-創造	iz
 創作	iz
+創造	iz
 橙子便利	izbl
 喫罪不起	izbq
 長足的進步	izdb
@@ -39998,7 +39999,6 @@ JK制服	jkvf
 剪刀	jmdk
 檢點	jmdm
 劍	jmdq
-金門大橋	jmdq
 湔	jmdq
 剪	jmdq
 簡短	jmdr
@@ -49951,7 +49951,6 @@ JK制服	jkvf
 連敗	lmbl
 聯播	lmbo
 臉部	lmbu
-兩面包夾芝士	lmbu
 欄目包裝	lmbv
 黎民百姓	lmbx
 練兵	lmby
@@ -84932,6 +84931,7 @@ U盤	upj
 聖文森特和格林納丁斯	uwss
 刷頭	uwtb
 失望透頂	uwtd
+上位替代	uwtd
 刷題	uwti
 深惡痛絕	uwtj
 商務談判	uwtp
@@ -85498,7 +85498,6 @@ U盤	upj
 商業系統	uyxt
 摔下	uyxw
 商業行爲	uyxw
-實驗小學	uyxx
 率性	uyxy
 首因效應	uyxy
 衰	uyy
@@ -97260,6 +97259,7 @@ WiFi	wifi
 相助	xdvu
 現代戰爭	xdvv
 相對主義	xdvy
+現代主義	xdvy
 享	xdw
 相對穩定	xdwd
 想問	xdwf
@@ -116817,6 +116817,8 @@ WiFi	wifi
 北京人	bjr
 北京市	bju
 絆腳石	bju
+畢竟是	bju
+八進制	bjv
 百家姓	bjx
 八角形	bjx
 不經意	bjy
@@ -117910,7 +117912,6 @@ CD機	cdj
 而不是	ebs
 餓不死	ebs
 而不是	ebu
-惡病質	ebv
 二百五	ebw
 二不休	ebx
 而不用	eby
@@ -119400,6 +119401,7 @@ git	git
 出租車	izi
 創造力	izl
 超自然	izr
+創作者	izv
 創造者	izv
 創造性	izx
 沉醉於	izy
@@ -122733,6 +122735,7 @@ SD卡	sdk
 師兄弟	uxd
 少先隊	uxd
 手續費	uxf
+失心瘋	uxf
 盛行風	uxf
 鼠鬚管	uxg
 攝像管	uxg
