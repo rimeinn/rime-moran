@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20251208"
+version: "20251212"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9291,6 +9291,14 @@ columns:
 下位替代
 上位替代品
 下位替代品
+祇树	1	qi;uu uu;mc
+给孤独园	1	ji;sh gu;zg du;qu yr;ky
+祇树给孤独园	1	qi;uu uu;mc ji;sh gu;zg du;qu yr;ky
+祇园	1	qi;uu yr;ky
+祇陀林	1	qi;uu to;et ln;mm
+后验	100
+无邪气	20
+会饮篇	1
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0

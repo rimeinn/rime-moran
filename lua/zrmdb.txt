@@ -9087,8 +9087,8 @@
 咵 kk
 咶 ku
 咷 kv
-咸 gk
 咸 kg
+咸 gk
 咸 wk
 咹 ka
 咺 kg
@@ -14921,6 +14921,7 @@
 朗 ol
 朘 oj
 朙 oj
+朙 jo
 朚 wm
 望 wo
 朜 ox
@@ -17979,9 +17980,9 @@
 烒 hu
 烓 hg
 烔 ht
+烕 hg
 烕 gh
 烕 gm
-烕 hg
 烕 wh
 烕 wm
 烖 gh
@@ -82978,8 +82979,8 @@
 𬚸 ur
 𬚹 od
 𬚻 ot
-𬚽 jo
 𬚽 oj
+𬚽 jo
 𬚾 ow
 𬛁 on
 𬛃 rv
@@ -99848,6 +99849,7 @@
 𰀊 ag
 𭼆 bw
 𡀎 kw
+𲘥 km
 𣮚 mf
 𣴅 df
 𨯾 jj
