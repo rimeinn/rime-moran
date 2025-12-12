@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251208"
+version: "20251212"
 sort: by_weight
 columns:
   - text
@@ -174,6 +174,7 @@ AC自動機	aczj
 愛爾蘭島	aeld
 阿爾及利亞	aely
 阿爾泰山	aetu
+阿爾泰語系	aetx
 挨餓受凍	aeud
 愛爾維修	aewx
 安撫安撫	afaf
@@ -3929,8 +3930,9 @@ AVL樹	avlu
 不可強求	bkqq
 保全	bkqr
 不堪其擾	bkqr
-犳	bkqu
 不可缺少	bkqu
+百科全書	bkqu
+犳	bkqu
 不可全信	bkqx
 報請	bkqy
 保	bkr
@@ -12387,6 +12389,7 @@ C盤	cpj
 調查問卷	diwj
 敵我	diwo
 第五	diwu
+牴牾	diwu
 玓	diwu
 地位	diwz
 低效	dixc
@@ -42592,6 +42595,7 @@ JK制服	jkvf
 江山一統	juyt
 居於	juyu
 局域	juyu
+齟齬	juyu
 醵	juyu
 軍事援助	juyv
 金聲玉振	juyv
@@ -45908,7 +45912,7 @@ JK制服	jkvf
 開了個玩笑	klgx
 開荒	klhd
 開合	klhe
-開河	klhe
+開盒	klhe
 考慮後果	klhg
 開航	klhh
 開火	klho
@@ -56483,7 +56487,6 @@ JK制服	jkvf
 萌新爆照	mxbv
 蔑	mxc
 薎	mxcf
-滅	mxd
 沒想到吧	mxdb
 某些地方	mxdf
 面向大海	mxdh
@@ -59948,6 +59951,7 @@ JK制服	jkvf
 那我現在	nwxz
 那我應該	nwyg
 寧爲玉碎不爲瓦全	nwyq
+女爲悅己者容	nwyr
 寧爲玉碎	nwys
 捏	nx
 寧心安神	nxau
@@ -60774,8 +60778,8 @@ JK制服	jkvf
 嘔心瀝血	oxlx
 偶像天團	oxtt
 歐亞大陸	oydl
-嘔啞嘲哳	oyiv
 哦呀斯密	oysm
+嘔啞嘲哳	oyvv
 偶一爲之	oywv
 平	p	pygb
 怕	pa
@@ -69220,6 +69224,7 @@ P站	pvj
 日後再說	rhzu
 然後怎樣	rhzy
 日	ri
+日常	ri
 日	ria
 日程安排	riap
 蠕蟲病毒	ribd
@@ -84648,6 +84653,7 @@ U盤	upj
 收支情況	uvqk
 稅前	uvqm
 水禽	uvqn
+水羣	uvqp
 睡裙	uvqp
 水球	uvqq
 舌戰羣儒	uvqr
@@ -92215,6 +92221,7 @@ U盤	upj
 萬惡淫爲首	weyu
 莞爾一笑	weyx
 問	wf
+无非	wf
 文案	wfan
 問安	wfan
 無法安排	wfap
@@ -102178,6 +102185,7 @@ WiFi	wifi
 學習咋樣	xxzy
 學習資源	xxzy
 行	xy
+需要	xy
 行啊	xyaa
 性愛	xyai
 笑意盎然	xyar
@@ -107640,6 +107648,7 @@ WiFi	wifi
 喲	yo
 亞歐大陸	yodl
 唷	yok
+印歐語系	yoyx
 雲	yp
 一片愛心	ypax
 贇	ypb
@@ -112665,6 +112674,7 @@ WiFi	wifi
 自覺	zijt
 字據	ziju
 自居	ziju
+趑趄	ziju
 資產階級專政	zijv
 自出機杼	zijv
 自家	zijw
@@ -118217,6 +118227,7 @@ Excel	eks
 副熱帶	frd
 法人股	frg
 芙蓉國	frg
+非日常	fri
 縫紉機	frj
 否認了	frl
 發熱量	frl
@@ -119048,6 +119059,7 @@ git	git
 黃鼠狼	hul
 換手率	hul
 和事佬	hul
+哈士奇	huq
 回收期	huq
 紅燒肉	hur
 很少人	hur
@@ -121935,6 +121947,7 @@ SD卡	sdk
 三門峽	smx
 什麼樣	smy
 掃描儀	smy
+薩摩耶	smy
 隨你吧	snb
 死腦筋	snj
 三年級	snj
@@ -122183,6 +122196,7 @@ SD卡	sdk
 鐵路局	tlj
 太累了	tll
 同齡人	tlr
+同路人	tlr
 托拉斯	tls
 停了停	tlt
 推了推	tlt
@@ -123452,7 +123466,6 @@ Word	wrd
 穩準狠	wvh
 無止境	wvj
 微指令	wvl
-網狀脈	wvm
 僞政權	wvq
 味之素	wvs
 捂着頭	wvt
@@ -124886,3 +124899,4 @@ Word	wrd
 寅丸星	ywx
 諏訪子	zfz
 早苗	zkmc
+阿爾泰	aet
