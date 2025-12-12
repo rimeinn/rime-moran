@@ -9096,8 +9096,8 @@
 咵	kk	口夸	
 咶	ku	口舌	
 咷	kv	口兆	
-咸	gk	戈口	
 咸	kg	口戈	
+咸	gk	戈口	
 咸	wk	戊口	
 咹	ka	口安	
 咺	kg	口亘	
@@ -14930,6 +14930,7 @@
 朗	ol	月良	
 朘	oj	月夋	
 朙	oj	月囧	
+朙	jo	囧月	
 朚	wm	亡明	
 望	wo	王月	
 朜	ox	月享	
@@ -17988,9 +17989,9 @@
 烒	hu	火式	
 烓	hg	火圭	
 烔	ht	火同	
+烕	hg	火戈	
 烕	gh	戈火	
 烕	gm	戈灭	
-烕	hg	火戈	
 烕	wh	戊火	
 烕	wm	戊灭	
 烖	gh	戈火	
@@ -82987,8 +82988,8 @@
 𬚸	ur	舌肉	auto
 𬚹	od	月朵	auto
 𬚻	ot	月吞	auto
-𬚽	jo	冏月	auto
-𬚽	oj	月冏	auto
+𬚽	oj	月冏	
+𬚽	jo	冏月	
 𬚾	ow	月我	auto
 𬛁	on	月那	auto
 𬛃	rv	肉者	auto
@@ -99857,6 +99858,7 @@
 𰀊	ag	丨㇉	
 𭼆	bw	疒王	
 𡀎	kw	口微	
+𲘥	km	囗芒	
 
 # 待考
 

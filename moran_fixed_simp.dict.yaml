@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251208"
+version: "20251212"
 sort: original
 columns:
   - text
@@ -174,6 +174,7 @@ AC自动机	aczj
 阿尔及利亚	aely
 阿尔巴尼亚	aeny
 阿尔泰山	aetu
+阿尔泰语系	aetx
 挨饿受冻	aeud
 爱尔维修	aewx
 安抚安抚	afaf
@@ -3815,6 +3816,7 @@ AVL树	avlu
 保全	bkqr
 不堪其扰	bkqr
 不可缺少	bkqu
+百科全书	bkqu
 不可全信	bkqx
 报请	bkqy
 保	bkr
@@ -12025,6 +12027,7 @@ C语言	cyy
 调查问卷	diwj
 敌我	diwo
 第五	diwu
+抵牾	diwu
 玓	diwu
 地位	diwz
 低效	dixc
@@ -41342,6 +41345,7 @@ JK制服	jkvf
 江山一统	juyt
 居于	juyu
 局域	juyu
+龃龉	juyu
 醵	juyu
 军事援助	juyv
 金声玉振	juyv
@@ -44573,7 +44577,7 @@ JK制服	jkvf
 炌	klh
 开荒	klhd
 开合	klhe
-开河	klhe
+开盒	klhe
 考虑后果	klhg
 开航	klhh
 开火	klho
@@ -58233,6 +58237,7 @@ JK制服	jkvf
 那我现在	nwxz
 那我应该	nwyg
 宁为玉碎不为瓦全	nwyq
+女为悦己者容	nwyr
 宁为玉碎	nwys
 捏	nx
 宁心安神	nxau
@@ -58939,8 +58944,8 @@ JK制服	jkvf
 呕心沥血	oxlx
 偶像天团	oxtt
 欧亚大陆	oydl
-呕哑嘲哳	oyiv
 哦呀斯密	oysm
+呕哑嘲哳	oyvv
 偶一为之	oywv
 平	p	pyaa
 怕	pa
@@ -67174,6 +67179,7 @@ P站	pvj
 日后再说	rhzu
 然后怎样	rhzy
 日	ri
+日常	ri
 日	ria
 日程安排	riap
 蠕虫病毒	ribd
@@ -82256,6 +82262,7 @@ U盘	upj
 收支情况	uvqk
 税前	uvqm
 水禽	uvqn
+水群	uvqp
 睡裙	uvqp
 水球	uvqq
 舌战群儒	uvqr
@@ -89618,6 +89625,7 @@ U盘	upj
 万恶淫为首	weyu
 莞尔一笑	weyx
 问	wf
+无非	wf
 文案	wfan
 问安	wfan
 无法安排	wfap
@@ -99238,6 +99246,7 @@ U盘	upj
 学习资源	xxzy
 行	xy
 幸	xy
+需要	xy
 行啊	xyaa
 性爱	xyai
 笑意盎然	xyar
@@ -104515,6 +104524,7 @@ U盘	upj
 哟	yo
 亚欧大陆	yodl
 唷	yok
+印欧语系	yoyx
 云	yp
 一片爱心	ypax
 赟	ypb
@@ -108102,7 +108112,6 @@ U盘	upj
 营业收入	yyur
 吟游诗人	yyur
 严严实实	yyuu
-逸一时，误一世	yyuu
 应税	yyuv
 硬水	yyuv
 英勇善战	yyuv
@@ -109400,6 +109409,7 @@ U盘	upj
 自觉	zijt
 字据	ziju
 自居	ziju
+趑趄	ziju
 资产阶级专政	zijv
 自出机杼	zijv
 自家	zijw
@@ -113045,6 +113055,7 @@ U盘	upj
 安钉子	adz
 阿尔法	aef
 爱尔兰	ael
+阿尔泰	aet
 爱范儿	afe
 阿富汗	afh
 阿凡提	aft
@@ -114413,7 +114424,6 @@ CD机	cdj
 大赠送	dzs
 大总统	dzt
 电子书	dzu
-打字室	dzu
 党组织	dzv
 打嘴仗	dzv
 都在玩	dzw
@@ -114739,6 +114749,7 @@ Excel	eks
 副热带	frd
 法人股	frg
 芙蓉国	frg
+非日常	fri
 缝纫机	frj
 否认了	frl
 发热量	frl
@@ -115572,6 +115583,7 @@ git	git
 换手率	hul
 黄鼠狼	hul
 和事佬	hul
+哈士奇	huq
 回收期	huq
 红烧肉	hur
 很少人	hur
@@ -116365,6 +116377,7 @@ git	git
 看不惯	kbg
 看不过	kbg
 看不出	kbi
+看不穿	kbi
 看不见	kbj
 看不看	kbk
 肯不肯	kbk
@@ -118406,6 +118419,7 @@ SD卡	sdk
 三九天	sjt
 三角洲	sjv
 三角形	sjx
+时间线	sjx
 随机性	sjx
 萨克管	skg
 松口气	skq
@@ -118456,6 +118470,7 @@ SD卡	sdk
 丧门星	smx
 什么样	smy
 扫描仪	smy
+萨摩耶	smy
 随你吧	snb
 三年级	snj
 四年级	snj
@@ -118704,6 +118719,7 @@ SD卡	sdk
 铁路局	tlj
 太累了	tll
 同龄人	tlr
+同路人	tlr
 托拉斯	tls
 推了推	tlt
 舔了舔	tlt
@@ -119032,6 +119048,7 @@ SD卡	sdk
 手机上	uju
 石家庄	ujv
 十进制	ujv
+时间线	ujx
 数据线	ujx
 上进心	ujx
 世界性	ujx
@@ -119938,6 +119955,7 @@ Word	wrd
 万人迷	wrm
 无人区	wrq
 污染区	wrq
+围绕着	wrv
 委任状	wrv
 我认为	wrw
 误认为	wrw
@@ -119975,7 +119993,6 @@ Word	wrd
 稳准狠	wvh
 无止境	wvj
 微指令	wvl
-网状脉	wvm
 伪政权	wvq
 味之素	wvs
 捂着头	wvt
