@@ -43,6 +43,13 @@ deploy:
       - send: olfuvuv
         assert: eq(cand[1].text, '冰') and eq(cand[1].comment, 'by[du] ny[du]')
 
+  opencc:
+    options:
+      simplification: true
+    tests:
+      - send: ai
+        assert: eq(cand[1].text, "爱")
+
   emoji:
     options:
       emoji: true

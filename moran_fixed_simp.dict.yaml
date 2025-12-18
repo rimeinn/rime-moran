@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251212"
+version: "20251218"
 sort: original
 columns:
   - text
@@ -4224,8 +4224,6 @@ AVL树	avlu
 百年	blnm
 摆弄	blns
 别来那一套	blnt
-布洛尼亚	blny
-布洛妮娅	blny
 白	blp
 拜	blpa
 白嫖	blpc
@@ -8727,6 +8725,7 @@ C++	cjj
 彩塑	clsu
 踩踏	clta
 彩头	cltb
+踩头	cltb
 菜汤	clth
 猜题	clti
 菜摊	cltj
@@ -12596,6 +12595,7 @@ C语言	cyy
 倒垂	dkiv
 帱	dkj
 道教	dkjc
+倒角	dkjc
 刀剑	dkjm
 刀尖	dkjm
 盗掘	dkjt
@@ -15676,6 +15676,7 @@ D盘	dpj
 东一家西一家	dyjj
 顶尖	dyjm
 定金	dyjn
+订金	dyjn
 第一件事情	dyjq
 铤	dyjt
 定居	dyju
@@ -23573,6 +23574,7 @@ F盘	fpj
 过目	gomu
 椁	gomx
 国名	gomy
+国拟	goni
 国难	gonj
 过年	gonm
 果农	gons
@@ -30323,7 +30325,6 @@ H盘	hpj
 回顾	hvgu
 回鹘	hvgu
 回归	hvgv
-火之高兴	hvgx
 灰	hvh
 会后	hvhb
 辉煌	hvhd
@@ -37845,6 +37846,7 @@ I盘	ipj
 基隆	jils
 记录	jilu
 纪律	jilv
+几率	jilv
 激烈	jilx
 耤	jilx
 机灵	jily
@@ -38804,6 +38806,7 @@ JK制服	jkvf
 减半	jmbj
 简报	jmbk
 简便	jmbm
+渐变	jmbm
 检波	jmbo
 鉴貌辨色	jmbs
 肩部	jmbu
@@ -39141,8 +39144,8 @@ JK制服	jkvf
 兼职	jmvi
 舰	jmvj
 笺	jmvj
+建站	jmvj
 笕	jmvj
-巨魔战将	jmvj
 旧民主主义革命	jmvm
 键准	jmvp
 箭	jmvq
@@ -40891,7 +40894,6 @@ JK制服	jkvf
 剧	jud
 巨大	juda
 句读	judb
-金山毒霸	judb
 精神氮泵	judb
 旧时代的残党	judd
 江诗丹顿	judd
@@ -41958,6 +41960,7 @@ JK制服	jkvf
 家小	jwxc
 家乡	jwxd
 假象	jwxd
+假想	jwxd
 恝	jwxd
 箭无虚发	jwxf
 加息	jwxi
@@ -46212,6 +46215,7 @@ JK制服	jkvf
 拉平	lapy
 拉起	laqi
 拉纤	laqm
+拉取	laqu
 腊肉	larb
 拉人	larf
 蜡人	larf
@@ -59020,6 +59024,7 @@ JK制服	jkvf
 筢子	pazi
 趴在	pazl
 剖	pb
+旁边	pb
 漂泊不定	pbbd
 疲惫不堪	pbbk
 破败不堪	pbbk
@@ -63020,6 +63025,7 @@ P站	pvj
 前程无忧	qiwy
 气味	qiwz
 憩	qix
+起效	qixc
 奇效	qixc
 气象	qixd
 恝	qixd
@@ -66096,6 +66102,7 @@ P站	pvj
 轻移莲步	qylb
 企业老板	qylb
 清凉	qyld
+轻量	qyld
 清冷	qylg
 晴朗	qylh
 七月流火	qylh
@@ -69005,6 +69012,7 @@ P站	pvj
 撒野	saye
 趿	saz
 搜	sb
+随便	sb
 三步并作两步	sbbb
 伞兵部队	sbbd
 搜捕	sbbu
@@ -69211,6 +69219,7 @@ P站	pvj
 塞	seb
 思而不学则殆	sebd
 色斑	sebj
+色板	sebj
 死而不僵	sebj
 色变	sebm
 色而不淫	seby
@@ -74837,8 +74846,8 @@ P站	pvj
 通敌	tsdi
 通道	tsdk
 统带	tsdl
-通电	tsdm
 痛点	tsdm
+通电	tsdm
 潼	tsdt
 通读	tsdu
 通兑	tsdv
@@ -75689,6 +75698,7 @@ P站	pvj
 挑战极限	tvjx
 添枝加叶	tvjy
 天之骄子	tvjz
+退坑	tvkg
 推开	tvkl
 同指跨排	tvkp
 退款	tvkr
@@ -77486,6 +77496,7 @@ T恤衫	txuj
 爽利	udli
 势大力沉	udli
 说多了都是泪	udll
+双链	udlm
 山东鲁能	udln
 圣诞礼品	udlp
 省点力气	udlq
@@ -79559,8 +79570,8 @@ T恤衫	txuj
 视野	uiye
 式样	uiyh
 适宜	uiyi
+失忆	uiyi
 事宜	uiyi
-十一	uiyi
 虱	uiyi
 鲺	uiyi
 实验	uiyj
@@ -80586,9 +80597,8 @@ T恤衫	txuj
 声名大振	umdv
 神马东西	umdx
 神马东锡	umdx
-善莫大焉	umdy
 深明大义	umdy
-神马都是浮云	umdy
+善莫大焉	umdy
 声名大噪	umdz
 数米而炊	umei
 神秘复苏	umfs
@@ -82053,7 +82063,6 @@ U盘	upj
 水	uv
 甚至	uv
 水	uva
-霜之哀伤	uvau
 逝者安息	uvax
 睡吧	uvba
 水坝	uvba
@@ -85824,7 +85833,6 @@ U盘	upj
 绽裂	vjlx
 煮酒论英雄	vjlx
 占领	vjly
-筑基灵液	vjly
 盏	vjm
 只见	vjm
 战马	vjma
@@ -89340,7 +89348,8 @@ U盘	upj
 韦编三绝	wbsj
 五弊三缺	wbsq
 我不是那个意思	wbss
-我不是药神	wbsu
+我不是说	wbsu
+我不是，我没有，别瞎说	wbsu
 温病条辨	wbtb
 物宝天华	wbth
 稳步推进	wbtj
@@ -96863,7 +96872,7 @@ U盘	upj
 寻思	xpsi
 迅速	xpsu
 埙	xpt
-薰陶	xptk
+熏陶	xptk
 巡天	xptm
 橡皮图章	xptv
 峋	xpu
@@ -101756,8 +101765,8 @@ U盘	upj
 有很大机会	yhdh
 养地	yhdi
 银行贷款	yhdk
-阳电	yhdm
 痒点	yhdm
+阳电	yhdm
 沿海地区	yhdq
 有很多人	yhdr
 漾动	yhds
@@ -103100,6 +103109,8 @@ U盘	upj
 与肩同宽	yjtk
 一脚踏空	yjtk
 烟台	yjtl
+砚台	yjtl
+一击脱离	yjtl
 盐田	yjtm
 用脚投票	yjtp
 异军突起	yjtq
@@ -107812,6 +107823,7 @@ U盘	upj
 伊于胡底	yyhd
 运营活动	yyhd
 迎合	yyhe
+硬核	yyhe
 养颜护肤	yyhf
 摇摇晃晃	yyhh
 晕晕乎乎	yyhh
@@ -107880,6 +107892,7 @@ U盘	upj
 妖艳贱货	yyjh
 应急	yyji
 一言既出	yyji
+应激	yyji
 由远及近	yyjj
 远远近近	yyjj
 运营经理	yyjl
@@ -112051,6 +112064,7 @@ U盘	upj
 硒	ocse
 𬭳	ocsg
 硅	ocsi
+矽	ocsi
 钐	ocsm
 锡	ocsn
 锶	ocsr
@@ -112060,7 +112074,7 @@ U盘	upj
 碲	octe
 钍	octh
 钛	octi
-坨	octl
+铊	octl
 铥	octm
 鿬	octs
 铀	ocu
@@ -113132,6 +113146,7 @@ U盘	upj
 阿诗玛	aum
 爱谁谁	auu
 按顺序	aux
+安装包	avb
 安装版	avb
 挨着的	avd
 安装盘	avp
@@ -114222,6 +114237,7 @@ CD机	cdj
 第三个	dsg
 单色光	dsg
 的时候	dsh
+到时候	dsh
 大扫除	dsi
 第三轮	dsl
 第三名	dsm
@@ -114809,6 +114825,8 @@ Excel	eks
 辅助性	fvx
 放长线	fvx
 分之一	fvy
+非专业	fvy
+非正义	fvy
 反质子	fvz
 服务部	fwb
 方位词	fwc
@@ -117920,6 +117938,7 @@ PVP	pvp
 曲棍球	qgq
 亲骨肉	qgr
 全国性	qgx
+庆功宴	qgy
 轻工业	qgy
 气管炎	qgy
 妻管严	qgy
@@ -118385,8 +118404,8 @@ SD卡	sdk
 三个钟	sgv
 三个月	sgy
 四个月	sgy
-四个字	sgz
 三个字	sgz
+四个字	sgz
 三合板	shb
 松花蛋	shd
 撒欢儿	she
@@ -118494,8 +118513,8 @@ SD卡	sdk
 诉讼法	ssf
 耸耸肩	ssj
 三色堇	ssj
-三四年	ssn
 碎碎念	ssn
+三四年	ssn
 三四岁	sss
 三四天	sst
 三四十	ssu
@@ -119636,6 +119655,7 @@ SD卡	sdk
 摘桃子	vtz
 猪蹄子	vtz
 正式版	vub
+指数级	vuj
 中山狼	vul
 真实性	vux
 正准备	vvb
@@ -120301,6 +120321,7 @@ Word	wrd
 喜加一	xjy
 小舅子	xjz
 小可爱	xka
+小可爱	xka
 想开点	xkd
 许可法	xkf
 相抗衡	xkh
@@ -120391,6 +120412,7 @@ Word	wrd
 虚荣心	xrx
 相思病	xsb
 相似度	xsd
+像素风	xsf
 泄私愤	xsf
 小时候	xsh
 新四军	xsj
@@ -120479,6 +120501,7 @@ Word	wrd
 新鲜感	xxg
 信息化	xxh
 学习机	xxj
+想想看	xxk
 想象力	xxl
 信息量	xxl
 新西兰	xxl
@@ -120840,7 +120863,6 @@ Word	wrd
 有魄力	ypl
 一平米	ypm
 一片片	ypp
-野葡萄	ypt
 压迫者	ypv
 硬碰硬	ypy
 右撇子	ypz
@@ -121083,7 +121105,6 @@ Word	wrd
 遭不住	zbv
 坐标轴	zbv
 自闭症	zbv
-再不行	zbx
 坐标系	zbx
 赞比亚	zby
 在不在	zbz

@@ -6,7 +6,7 @@
 
 ---
 name: moran_english
-version: "20251208"
+version: "20251218"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -57306,3 +57306,4 @@ a priori	apriori
 ad infinitum	adinfinitum
 nutella	nutella
 Ferrero	Ferrero
+AirTag	AirTag

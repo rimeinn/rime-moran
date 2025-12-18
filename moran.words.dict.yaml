@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20251212"
+version: "20251218"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9304,6 +9304,16 @@ columns:
 傑青	1
 優青	1
 青基	1
+着氣	1	vo;yo qi;qm
+天菜	10
+髮圈束	1
+大腸髮圈	1
+大腸圈	1
+黑盯	1
+破鼎	10
+射覆	1
+鵲鴝	1
+
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0
