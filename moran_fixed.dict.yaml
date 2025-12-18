@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251212"
+version: "20251218"
 sort: by_weight
 columns:
   - text
@@ -4350,8 +4350,6 @@ AVL樹	avlu
 百年	blnm
 擺弄	blns
 別來那一套	blnt
-布洛尼亞	blny
-布洛妮婭	blny
 白嫖	blpc
 白胖	blph
 白皮	blpi
@@ -8977,6 +8975,7 @@ C++	cjj
 埰	clt
 踩踏	clta
 彩頭	cltb
+踩頭	cltb
 菜湯	clth
 猜題	clti
 菜攤	cltj
@@ -12984,6 +12983,7 @@ C盤	cpj
 倒垂	dkiv
 幬	dkj
 道教	dkjc
+倒角	dkjc
 刀劍	dkjm
 刀尖	dkjm
 盜掘	dkjt
@@ -16169,6 +16169,7 @@ D盤	dpj
 東一家西一家	dyjj
 頂尖	dyjm
 定金	dyjn
+訂金	dyjn
 第一件事情	dyjq
 鋌	dyjt
 定居	dyju
@@ -24298,6 +24299,7 @@ F盤	fpj
 國民	gomn
 過目	gomu
 國名	gomy
+國擬	goni
 國難	gonj
 過年	gonm
 果農	gons
@@ -31236,7 +31238,6 @@ H盤	hpj
 回顧	hvgu
 回鶻	hvgu
 迴歸	hvgv
-火之高興	hvgx
 灰	hvh
 會後	hvhb
 輝煌	hvhd
@@ -38958,6 +38959,7 @@ I盤	ipj
 基隆	jils
 記錄	jilu
 紀律	jilv
+几率	jilv
 激烈	jilx
 耤	jilx
 機靈	jily
@@ -39950,6 +39952,7 @@ JK制服	jkvf
 減半	jmbj
 簡報	jmbk
 簡便	jmbm
+漸變	jmbm
 檢波	jmbo
 鬋	jmbq
 鑑貌辨色	jmbs
@@ -40317,8 +40320,8 @@ JK制服	jkvf
 兼職	jmvi
 艦	jmvj
 箋	jmvj
+建站	jmvj
 筧	jmvj
-巨魔戰將	jmvj
 舊民主主義革命	jmvm
 鍵準	jmvp
 箭	jmvq
@@ -42104,7 +42107,6 @@ JK制服	jkvf
 劇	jud
 巨大	juda
 句讀	judb
-金山毒霸	judb
 精神氮泵	judb
 舊時代的殘黨	judd
 江詩丹頓	judd
@@ -43219,6 +43221,7 @@ JK制服	jkvf
 家小	jwxc
 家鄉	jwxd
 假象	jwxd
+假想	jwxd
 恝	jwxd
 箭無虛發	jwxf
 加息	jwxi
@@ -47599,6 +47602,7 @@ JK制服	jkvf
 拉平	lapy
 拉起	laqi
 拉縴	laqm
+拉取	laqu
 臘肉	larb
 拉人	larf
 蠟人	larf
@@ -60854,6 +60858,7 @@ JK制服	jkvf
 筢子	pazi
 趴在	pazl
 剖	pb
+旁邊	pb
 漂泊不定	pbbd
 疲憊不堪	pbbk
 破敗不堪	pbbk
@@ -64929,6 +64934,7 @@ P站	pvj
 前程無憂	qiwy
 氣味	qiwz
 悽	qix
+起效	qixc
 奇效	qixc
 氣象	qixd
 氣衝霄漢	qixh
@@ -68126,6 +68132,7 @@ P站	pvj
 輕移蓮步	qylb
 企業老闆	qylb
 清涼	qyld
+輕量	qyld
 清冷	qylg
 晴朗	qylh
 七月流火	qylh
@@ -70128,6 +70135,7 @@ P站	pvj
 駥	rsmr
 容納	rsna
 肜	rso
+狨	rsq
 容器	rsqi
 絨球	rsqq
 狨	rsqr
@@ -71093,6 +71101,7 @@ P站	pvj
 霅	say
 撒野	saye
 搜	sb
+隨便	sb
 三步並作兩步	sbbb
 傘兵部隊	sbbd
 搜捕	sbbu
@@ -71302,6 +71311,7 @@ P站	pvj
 塞	seb
 思而不學則殆	sebd
 色斑	sebj
+色板	sebj
 死而不僵	sebj
 色變	sebm
 色而不淫	seby
@@ -77093,8 +77103,8 @@ P站	pvj
 通敵	tsdi
 通道	tsdk
 統帶	tsdl
-通電	tsdm
 痛點	tsdm
+通電	tsdm
 通讀	tsdu
 通兌	tsdv
 通俗讀物	tsdw
@@ -77970,6 +77980,7 @@ P站	pvj
 挑戰極限	tvjx
 添枝加葉	tvjy
 天之驕子	tvjz
+退坑	tvkg
 推開	tvkl
 同指跨排	tvkp
 退款	tvkr
@@ -79795,6 +79806,7 @@ T恤衫	txuj
 爽利	udli
 勢大力沉	udli
 說多了都是淚	udll
+雙鏈	udlm
 山東魯能	udln
 聖誕禮品	udlp
 省點力氣	udlq
@@ -81900,9 +81912,9 @@ T恤衫	txuj
 視野	uiye
 識	uiyg
 式樣	uiyh
-十一	uiyi
-事宜	uiyi
 適宜	uiyi
+失憶	uiyi
+事宜	uiyi
 實驗	uiyj
 試驗	uiyj
 勢要	uiyk
@@ -82957,9 +82969,8 @@ T恤衫	txuj
 聲名大振	umdv
 神馬東西	umdx
 神馬東錫	umdx
-善莫大焉	umdy
 深明大義	umdy
-神馬都是浮雲	umdy
+善莫大焉	umdy
 聲名大噪	umdz
 數米而炊	umei
 神祕復甦	umfs
@@ -84441,7 +84452,6 @@ U盤	upj
 水	uv
 甚至	uv
 水	uva
-霜之哀傷	uvau
 逝者安息	uvax
 睡吧	uvba
 水壩	uvba
@@ -88304,7 +88314,6 @@ U盤	upj
 綻裂	vjlx
 煮酒論英雄	vjlx
 佔領	vjly
-築基靈液	vjly
 棧	vjm
 戰馬	vjma
 氈	vjmd
@@ -91935,7 +91944,8 @@ U盤	upj
 韋編三絕	wbsj
 五弊三缺	wbsq
 我不是那個意思	wbss
-我不是藥神	wbsu
+我不是說	wbsu
+我不是，我沒有，別瞎說	wbsu
 溫病條辨	wbtb
 物寶天華	wbth
 穩步推進	wbtj
@@ -99714,7 +99724,7 @@ WiFi	wifi
 紃	xpsi
 迅速	xpsu
 壎	xpt
-薰陶	xptk
+熏陶	xptk
 巡天	xptm
 橡皮圖章	xptv
 塤	xpty
@@ -104733,8 +104743,8 @@ WiFi	wifi
 有很大機會	yhdh
 養地	yhdi
 銀行貸款	yhdk
-陽電	yhdm
 癢點	yhdm
+陽電	yhdm
 沿海地區	yhdq
 有很多人	yhdr
 漾動	yhds
@@ -106181,6 +106191,8 @@ WiFi	wifi
 與肩同寬	yjtk
 一腳踏空	yjtk
 煙臺	yjtl
+硯臺	yjtl
+一擊脫離	yjtl
 鹽田	yjtm
 用腳投票	yjtp
 異軍突起	yjtq
@@ -109611,7 +109623,6 @@ WiFi	wifi
 牏	yupy
 玉佩	yupz
 欲	yuq
-獄	yuq
 有啥區別	yuqb
 以示清白	yuqb
 野獸前輩	yuqb
@@ -109624,7 +109635,7 @@ WiFi	wifi
 以售其奸	yuqj
 餘生請多指教	yuqj
 魚羣	yuqp
-狱	yuqq
+獄	yuqq
 欲求	yuqq
 餘缺	yuqt
 魚水情深	yuqu
@@ -111034,6 +111045,7 @@ WiFi	wifi
 伊于胡底	yyhd
 運營活動	yyhd
 迎合	yyhe
+硬核	yyhe
 養顏護膚	yyhf
 搖搖晃晃	yyhh
 暈暈乎乎	yyhh
@@ -111112,6 +111124,7 @@ WiFi	wifi
 妖豔賤貨	yyjh
 應急	yyji
 一言既出	yyji
+應激	yyji
 由遠及近	yyjj
 遠遠近近	yyjj
 運營經理	yyjl
@@ -115350,6 +115363,7 @@ WiFi	wifi
 硒	ocse
 𨭎	ocsg
 硅	ocsi
+矽	ocsi
 釤	ocsm
 錫	ocsn
 鍶	ocsr
@@ -115359,7 +115373,7 @@ WiFi	wifi
 碲	octe
 釷	octh
 鈦	octi
-坨	octl
+鉈	octl
 銩	octm
 鿬	octs
 铀	ocu
@@ -116529,6 +116543,7 @@ WiFi	wifi
 安釘子	adz
 阿爾法	aef
 愛爾蘭	ael
+阿爾泰	aet
 愛範兒	afe
 阿富汗	afh
 阿凡提	aft
@@ -116606,6 +116621,7 @@ WiFi	wifi
 阿詩瑪	aum
 愛誰誰	auu
 按順序	aux
+安裝包	avb
 安裝版	avb
 挨着的	avd
 安裝盤	avp
@@ -118287,6 +118303,8 @@ Excel	eks
 輔助性	fvx
 放長線	fvx
 分之一	fvy
+非專業	fvy
+非正義	fvy
 反質子	fvz
 服務部	fwb
 方位詞	fwc
@@ -121393,6 +121411,7 @@ PVP	pvp
 曲棍球	qgq
 親骨肉	qgr
 全國性	qgx
+慶功宴	qgy
 輕工業	qgy
 氣管炎	qgy
 妻管嚴	qgy
@@ -121972,8 +121991,8 @@ SD卡	sdk
 訴訟法	ssf
 聳聳肩	ssj
 三色堇	ssj
-三四年	ssn
 碎碎念	ssn
+三四年	ssn
 三四歲	sss
 三四天	sst
 三四十	ssu
@@ -123114,6 +123133,7 @@ SD卡	sdk
 摘桃子	vtz
 豬蹄子	vtz
 正式版	vub
+指數級	vuj
 真實性	vux
 正準備	vvb
 竹枝詞	vvc
@@ -123777,6 +123797,7 @@ Word	wrd
 喜加一	xjy
 小舅子	xjz
 小可愛	xka
+小可愛	xka
 想開點	xkd
 許可法	xkf
 相抗衡	xkh
@@ -123868,6 +123889,7 @@ Word	wrd
 虛榮心	xrx
 相思病	xsb
 相似度	xsd
+像素風	xsf
 泄私憤	xsf
 小時候	xsh
 新四軍	xsj
@@ -123956,6 +123978,7 @@ Word	wrd
 新鮮感	xxg
 信息化	xxh
 學習機	xxj
+想想看	xxk
 想象力	xxl
 信息量	xxl
 新西蘭	xxl
@@ -124132,8 +124155,8 @@ Word	wrd
 亞非拉	yfl
 一方面	yfm
 月份牌	yfp
-要分清	yfq
 一分錢	yfq
+要分清	yfq
 玉佛寺	yfs
 語法樹	yfu
 樂府詩	yfu
@@ -124316,7 +124339,6 @@ Word	wrd
 有魄力	ypl
 一平米	ypm
 一片片	ypp
-野葡萄	ypt
 壓迫者	ypv
 硬碰硬	ypy
 右撇子	ypz
@@ -124559,7 +124581,6 @@ Word	wrd
 遭不住	zbv
 座標軸	zbv
 自閉症	zbv
-再不行	zbx
 坐標系	zbx
 贊比亞	zby
 在不在	zbz
@@ -124902,4 +124923,3 @@ Word	wrd
 寅丸星	ywx
 諏訪子	zfz
 早苗	zkmc
-阿爾泰	aet

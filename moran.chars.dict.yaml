@@ -10381,9 +10381,8 @@ use_preset_vocabulary: false
 亦	yi;wb	6363
 亦	yi;wy	6363
 亦	yi;dd	6363
-产	ij;wp	0
+产	ij;wi	0
 产	ij;li	0
-产	ij;dp	0
 亨	hg;wl	1175
 亨	hg;lk	1175
 亨	pg;wl	0
@@ -23234,6 +23233,8 @@ use_preset_vocabulary: false
 歺	dl;xb	406
 歺	ee;bx	406
 歺	ee;xb	406
+歺	cj;bx	1
+歺	cj;xb	1
 死	si;db	37593
 歼	jm;dq	0
 歽	ve;dj	201
@@ -124463,3 +124464,4 @@ use_preset_vocabulary: false
 𭼆	vg;bw	0
 𡀎	wz;kw	0
 𲘥	mh;km	0
+𪜭	ge;ry	0
