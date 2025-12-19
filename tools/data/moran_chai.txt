@@ -2,7 +2,9 @@
 #
 # Copyright (C) 2024-2025 Project Moran
 # ( https://github.com/rimeinn/rime-moran/ )
-# Licensed under CC-NC-SA 3.0
+#
+# Licensed under CC BY-NC-SA 4.0
+# ( https://creativecommons.org/licenses/by-nc-sa/4.0/ )
 #
 # Primary Author: ksqsf
 # Contributors: 吕奉先, SunShine, 吥捨洳楓, 三山剑客
