@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20251218"
+version: "20251219"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9313,7 +9313,10 @@ columns:
 破鼎	10
 射覆	1
 鹊鸲	1
-
+双列	1000
+爨体	1
+爨体字	1
+胡青	100
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0
@@ -17572,7 +17575,6 @@ MIDI键盘	1	midi jm;jj pj;mb
 歌帆
 歌恋
 歌数
-歌流多
 歌无
 歌特
 歌玛
