@@ -9848,7 +9848,7 @@
 圔	km	囗皿	
 圕	ku	囗書	
 圖	kh	囗回	
-圖	kt	囗{圖}	
+圖	kb	囗啚	
 圗	kh	囗回	
 團	kv	囗專	
 圙	km	囗面	
@@ -29785,6 +29785,7 @@
 隼	uv	十隹	
 隽	vn	隹乃	
 隽	nv	乃隹	
+难	vy	隹又	
 难	yv	又隹	
 隿	vy	隹弋	
 雀	vx	隹小	
@@ -67590,370 +67591,348 @@
 𨛭	ue	舍阝	auto
 𨛮	ej	阝居	auto
 𨛮	je	居阝	auto
-𨛯	ey	阝宜	auto
-𨛯	ye	宜阝	auto
-𨛰	ev	阝争	auto
-𨛰	ve	争阝	auto
-𨛱	ez	阝宗	auto
-𨛱	ze	宗阝	auto
-𨛲	he	禾阝	auto
-𨛳	ex	阝昔	auto
-𨛳	xe	昔阝	auto
-𨛴	he	昊阝	auto
-𨛵	eh	阝虎	auto
-𨛵	he	虎阝	auto
-𨛶	eu	阝受	auto
-𨛶	ue	受阝	auto
-𨛷	vy	止邑	auto
-𨛷	yp	邑丿	auto
-𨛸	hy	虎邑	auto
-𨛸	yh	邑虎	auto
-𨛹	be	卜阝	auto
-𨛺	qe	其阝	auto
-𨛻	he	禾阝	auto
-𨛼	ye	育阝	auto
-𨛽	ge	乖阝	auto
-𨛾	iy	承邑	auto
-𨛾	yi	邑承	auto
-𨛿	qy	取邑	auto
-𨛿	yq	邑取	auto
-𨜀	yy	邑奄	auto
-𨜁	vy	止邑	auto
-𨜁	yc	邑从	auto
-𨜂	uy	尚邑	auto
-𨜂	yu	邑尚	auto
-𨜃	ae	一阝	auto
-𨜄	ye	雨阝	auto
-𨜅	qe	奇阝	auto
-𨜆	de	大阝	auto
-𨜇	qe	且阝	auto
-𨜈	ie	丑阝	auto
-𨜉	ie	丑阝	auto
-𨜊	pe	丿阝	auto
-𨜋	ue	山阝	auto
-𨜌	eg	阝官	auto
-𨜌	ge	官阝	auto
-𨜍	eg	阝杲	auto
-𨜍	ge	杲阝	auto
-𨜎	ue	世阝	auto
-𨜏	ey	阝盈	auto
-𨜏	ye	盈阝	auto
-𨜐	es	阝思	auto
-𨜐	se	思阝	auto
-𨜑	oe	目阝	auto
-𨜒	eq	阝契	auto
-𨜒	qe	契阝	auto
-𨜓	ev	阝貞	auto
-𨜓	ve	貞阝	auto
-𨜔	eh	阝皇	auto
-𨜔	he	皇阝	auto
-𨜕	xg	乡䢼	auto
-𨜖	ey	阝禺	auto
-𨜖	ye	禺阝	auto
-𨜗	we	勿阝	auto
-𨜘	ew	阝屋	auto
-𨜘	we	屋阝	auto
-𨜙	re	柔阝	auto
-𨜚	ie	垂阝	auto
-𨜛	ze	灾阝	auto
-𨜜	eu	阝省	auto
-𨜜	ue	省阝	auto
-𨜝	ky	口邑	auto
-𨜝	yk	邑亏	auto
-𨜞	vy	者邑	auto
-𨜞	yv	邑者	auto
-𨜟	qe	酋阝	auto
-𨜡	je	皆阝	auto
-𨜢	wy	韋邑	auto
-𨜢	yw	邑韋	auto
-𨜣	qy	契邑	auto
-𨜣	yq	邑契	auto
-𨜤	ue	士阝	auto
-𨜥	ae	一阝	auto
-𨜦	be	丙阝	auto
-𨜧	me	面阝	auto
-𨜨	te	太阝	auto
+𨛯	ey	阝宜	
+𨛰	ev	阝争	
+𨛱	ez	阝宗	
+𨛲	en	阝秊	
+𨛲	eq	阝千	
+𨛲	he	禾阝	
+𨛳	ex	阝昔	
+𨛴	eh	阝昊	
+𨛵	eh	阝虎	
+𨛶	eu	阝受	
+𨛷	vy	止邑	
+𨛷	yd	邑丶	
+𨛸	hy	虎邑	
+𨛸	yh	邑虎	
+𨛹	ex	阝夕	
+𨛹	el	阝{卤}	
+𨛺	eq	阝其	
+𨛻	ef	禾{𰀁}	
+𨛼	ey	阝育	
+𨛽	eg	阝乖	
+𨛾	yi	邑承	
+𨛾	iy	承邑	
+𨛿	yq	邑取	
+𨛿	qy	取邑	
+𨜀	yy	邑奄	
+𨜁	yc	邑从	
+𨜁	vy	止邑	
+𨜂	yu	邑尚	
+𨜂	uy	尚邑	
+𨜃	ef	阝方	
+𨜄	ey	阝雨	
+𨜅	eq	阝奇	
+𨜆	eg	阝𠃌	
+𨜇	ei	阝巛	
+𨜈	ei	阝丑	
+𨜉	ey	阝尹	
+𨜊	eg	阝艮	
+𨜊	pe	丿阝	
+𨜋	ek	阝口	
+𨜌	eg	阝官	
+𨜍	eg	阝杲	
+𨜎	em	阝木	
+𨜏	ey	阝盈	
+𨜐	es	阝思	
+𨜑	em	阝木	
+𨜒	eq	阝契	
+𨜓	ev	阝貞	
+𨜔	eh	阝皇	
+𨜕	eg	阝共	
+𨜕	xe	乡阝	
+𨜖	ey	阝禺	
+𨜗	wi	阝虫	
+𨜘	ew	阝屋	
+𨜙	er	阝柔	
+𨜚	ek	阝凵	
+𨜚	eu	阝山	
+𨜛	ey	阝又	
+𨜜	eu	阝省	
+𨜝	ye	邑咢	
+𨜝	yk	邑亏	
+𨜝	ey	咢邑	
+𨜞	yv	邑者	
+𨜞	vy	者邑	
+𨜟	eq	阝酋	
+𨜡	ej	阝皆	
+𨜢	yw	邑韋	
+𨜢	wy	韋邑	
+𨜣	yq	邑契	
+𨜣	qy	契邑	
+𨜤	uf	阝方	
+𨜥	ec	阝冊	
+𨜦	ep	阝攴	
+𨜧	em	阝面	
+𨜨	eg	太盇	
+𨜨	em	太皿	
 𨜩	eq	阝泉	
-𨜩	qe	泉阝	auto
-𨜪	re	人阝	auto
-𨜫	pe	丿阝	auto
-𨜬	xe	旬阝	auto
-𨜭	ge	乚阝	auto
-𨜮	pl	丿郎	auto
-𨜯	oy	目邑	auto
-𨜯	yq	邑犬	auto
-𨜰	ej	阝姜	auto
-𨜰	je	姜阝	auto
-𨜱	be	宀阝	auto
-𨜲	iy	垂邑	auto
-𨜲	yi	邑垂	auto
-𨜳	eg	阝宫	auto
-𨜳	ge	宫阝	auto
-𨜴	eh	阝盍	auto
-𨜴	he	盍阝	auto
-𨜵	em	阝皿	auto
-𨜵	oe	日阝	auto
-𨜶	ey	阝益	auto
-𨜶	ye	益阝	auto
-𨜷	ep	阝旁	auto
-𨜷	pe	旁阝	auto
-𨜸	ie	厂阝	auto
-𨜺	ew	阝翁	auto
-𨜺	we	翁阝	auto
-𨜻	eq	阝虔	auto
-𨜻	qe	虔阝	auto
-𨜼	el	阝栗	auto
-𨜼	le	栗阝	auto
-𨜽	ey	阝扅	auto
-𨜽	ye	扅阝	auto
-𨜾	ec	阝倉	auto
-𨜾	ce	倉阝	auto
-𨜿	es	阝祟	auto
-𨜿	se	祟阝	auto
-𨝀	eg	阝鬼	auto
-𨝀	ge	鬼阝	auto
-𨝁	xe	旬阝	auto
-𨝂	ye	原阝	auto
-𨝃	he	害阝	auto
-𨝄	ge	乖阝	auto
-𨝅	xy	乡邑	auto
-𨝅	yb	邑匕	auto
-𨝆	eg	阝哥	auto
-𨝆	ge	哥阝	auto
-𨝇	ke	匚阝	auto
-𨝈	re	亻阝	auto
-𨝉	de	丶阝	auto
-𨝊	ve	真阝	auto
-𨝋	ej	阝祭	auto
-𨝋	je	祭阝	auto
-𨝌	eq	阝乾	auto
-𨝌	qe	乾阝	auto
-𨝍	xe	覀阝	auto
-𨝎	ek	阝康	auto
-𨝎	ke	康阝	auto
-𨝏	el	阝离	auto
-𨝏	le	离阝	auto
-𨝐	ec	阝參	auto
-𨝐	ce	參阝	auto
-𨝑	eg	阝貫	auto
-𨝑	ge	貫阝	auto
-𨝓	ep	阝票	auto
-𨝓	pe	票阝	auto
-𨝔	xe	彳阝	auto
-𨝕	ge	盖阝	auto
-𨝖	yl	邕來	auto
-𨝗	ue	商阝	auto
-𨝘	eh	阝乎	auto
-𨝘	he	虍阝	auto
-𨝙	re	人阝	auto
-𨝚	ky	口邑	auto
-𨝚	yh	邑回	auto
-𨝛	et	阝荼	auto
-𨝛	te	荼阝	auto
-𨝜	xe	幸阝	auto
-𨝝	qy	乾邑	auto
-𨝝	yq	邑乾	auto
-𨝞	hy	虍邑	auto
-𨝞	yh	邑乎	auto
+𨜪	eg	阝谷	
+𨜫	eh	阝矦	
+𨜫	eu	阝矢	
+𨜬	eg	阝弓	
+𨜭	eb	阝貝	
+𨜮	pl	丿郎	
+𨜮	el	阝良	
+𨜯	yq	邑犬	
+𨜯	oy	目邑	
+𨜰	ej	阝姜	
+𨜱	ek	阝口	
+𨜲	yi	邑垂	
+𨜲	iy	垂邑	
+𨜳	eg	阝宫	
+𨜴	eh	阝盍	
+𨜵	em	阝皿	
+𨜶	ey	阝益	
+𨜷	ep	阝旁	
+𨜸	ez	阝子	
+𨜺	ew	阝翁	
+𨜻	eq	阝虔	
+𨜼	el	阝栗	
+𨜽	ey	阝扅	
+𨜾	ec	阝倉	
+𨜿	es	阝祟	
+𨝀	eg	阝鬼	
+𨝁	ex	阝兮	
+𨝂	ey	阝原	
+𨝃	eh	阝害	
+𨝄	eg	阝乖	
+𨝅	yb	邑匕	
+𨝅	xy	乡邑	
+𨝆	eg	阝哥	
+𨝇	ev	匚主	
+𨝇	ke	匚阝	
+𨝈	ec	阝廾	
+𨝈	re	亻阝	
+𨝉	eb	阝貝	
+𨝊	ev	阝真	
+𨝋	ej	阝祭	
+𨝌	eq	阝乾	
+𨝍	eq	阝䙴	
+𨝍	es	阝巳	
+𨝎	ek	阝康	
+𨝏	el	阝离	
+𨝐	ec	阝參	
+𨝑	eg	阝貫	
+𨝓	ep	阝票	
+𨝔	ew	阝王	
+𨝔	xe	彳阝	
+𨝕	eg	阝盖	
+𨝖	il	巛來	
+𨝖	yl	邕來	
+𨝗	eu	阝商	
+𨝘	eh	阝乎	
+𨝙	eo	人月	
+𨝚	yh	邑回	
+𨝚	ky	口邑	
+𨝛	et	阝荼	
+𨝜	xe	幸阝	
+𨝜	xz	幸廴	
+𨝝	yq	邑乾	
+𨝝	qy	乾邑	
+𨝞	yh	邑乎	
+𨝞	hy	虍邑	
 𨝟	hy	禾邑	
 𨝟	hb	禾巴	
-𨝠	jy	祭邑	auto
-𨝠	yj	邑祭	auto
-𨝡	ie	崇阝	auto
-𨝢	eq	阝取	auto
-𨝢	be	宀阝	auto
-𨝣	se	厶阝	auto
-𨝤	se	厶阝	auto
-𨝥	ce	艹阝	auto
+𨝠	yj	邑祭	
+𨝠	jy	祭邑	
+𨝡	ei	阝崇	
+𨝢	eq	阝取	
+𨝢	ez	阝㝡	
+𨝣	eh	厶囬	
+𨝣	ea	厶一	
+𨝤	eb	厶貝	
+𨝥	ew	阝亾	
+𨝥	ea	阝𠃊	
 𨝦	yt	邑堂	
 𨝦	ty	堂邑	
 𨝦	tb	堂巴	
-𨝧	le	鹿阝	auto
-𨝨	ec	阝措	auto
-𨝨	ce	措阝	auto
-𨝩	iy	車邑	auto
-𨝩	yw	邑攵	auto
-𨝪	se	罒阝	auto
-𨝫	ex	阝翕	auto
-𨝫	xe	翕阝	auto
-𨝬	wy	無邑	auto
-𨝬	yw	邑無	auto
-𨝭	em	阝馬	auto
-𨝭	de	冫阝	auto
-𨝮	em	阝木	auto
-𨝮	qe	取阝	auto
-𨝯	et	阝童	auto
-𨝯	te	童阝	auto
-𨝰	eq	阝喬	auto
-𨝰	qe	喬阝	auto
-𨝱	ej	阝焦	auto
-𨝱	je	焦阝	auto
-𨝲	be	白阝	auto
-𨝳	ez	阝貲	auto
-𨝳	ze	貲阝	auto
-𨝴	eh	阝黄	auto
-𨝴	he	黄阝	auto
-𨝵	le	林阝	auto
-𨝶	ae	一阝	auto
-𨝷	de	大阝	auto
-𨝸	et	阝覃	auto
-𨝸	te	覃阝	auto
-𨝻	xe	𫜹阝	auto
-𨝼	dy	大邑	auto
-𨝼	yx	邑小	auto
-𨝽	ye	雲阝	auto
-𨝾	se	罒阝	auto
-𨝿	ke	口阝	auto
-𨞀	dy	奠邑	auto
-𨞀	yd	邑奠	auto
-𨞁	my	米邑	auto
-𨞁	yi	邑舛	auto
-𨞂	he	萑阝	auto
-𨞃	ue	黍阝	auto
-𨞄	re	亻阝	auto
-𨞅	ae	丨阝	auto
-𨞆	xe	夕阝	auto
-𨞇	ye	焱阝	auto
-𨞉	ge	弓阝	auto
-𨞊	ye	业阝	auto
-𨞌	me	卯阝	auto
-𨞍	ke	口阝	auto
-𨞎	ke	口阝	auto
-𨞏	dy	單邑	auto
-𨞏	yd	邑單	auto
-𨞐	eu	阝盛	auto
-𨞐	ue	盛阝	auto
-𨞑	yi	邕臭	auto
-𨞒	ex	阝昔	auto
-𨞒	he	禾阝	auto
+𨝧	es	阝厶	
+𨝨	ec	阝措	
+𨝨	fe	扌阝	
+𨝩	yw	邑攵	
+𨝩	iy	車邑	
+𨝪	ev	阝止	
+𨝪	se	罒阝	
+𨝫	ex	阝翕	
+𨝫	ey	阝羽	
+𨝬	yw	邑無	
+𨝬	wy	無邑	
+𨝭	ef	阝馮	
+𨝭	de	冫阝	
+𨝮	em	阝木	
+𨝮	qe	取阝	
+𨝯	et	阝童	
+𨝰	eq	阝喬	
+𨝱	ej	阝焦	
+𨝲	eu	阝十	
+𨝳	ez	阝貲	
+𨝳	eb	阝貝	
+𨝴	eh	阝黄	
+𨝵	eo	阝月	
+𨝶	eo	一日	
+𨝶	ej	一𣈆	
+𨝷	el	阝尞	
+𨝷	ex	阝小	
+𨝸	et	阝覃	
+𨝻	ex	阝㝷	
+𨝻	ec	阝寸	
+𨝼	yl	邑尞	
+𨝼	yx	邑小	
+𨝼	dy	大邑	
+𨝽	ey	阝雲	
+𨝾	ed	阝豆	
+𨝿	ek	阝南	
+𨞀	yd	邑奠	
+𨞀	dy	奠邑	
+𨞁	yi	邑舛	
+𨞁	my	米邑	
+𨞂	ev	阝隹	
+𨞃	eu	阝黍	
+𨞄	et	阝土	
+𨞄	ea	阝一	
+𨞅	eo	阝目	
+𨞅	em	阝睂	
+𨞆	eb	夕貝	
+𨞇	ey	阝焱	
+𨞉	et	阝土	
+𨞊	ep	阝菐	
+𨞊	ed	阝丶	
+𨞌	ed	阝豆	
+𨞍	ec	阝屮	
+𨞎	ej	阝軍	
+𨞏	yd	邑單	
+𨞏	dy	單邑	
+𨞐	eu	阝盛	
+𨞑	yi	邕臭	
+𨞑	ii	巛臭	
+𨞒	ex	阝昔	
+𨞒	he	禾阝	
 𨞓	ea	阝奥	
-𨞔	yy	邑邑	auto
+𨞔	yg	邑共	
+𨞔	yy	邑邑	
 𨞕	eu	阝蜀	
-𨞖	le	零阝	auto
-𨞗	eq	阝羣	auto
-𨞗	qe	羣阝	auto
-𨞘	ed	阝豆	auto
-𨞘	he	虍阝	auto
-𨞙	eu	阝豕	auto
-𨞙	he	虍阝	auto
-𨞚	me	盟阝	auto
-𨞛	eg	阝葛	auto
-𨞛	ge	葛阝	auto
-𨞜	de	大阝	auto
-𨞝	je	賈阝	auto
-𨞞	pe	朋阝	auto
-𨞟	ee	耳阝	auto
-𨞠	ky	口邑	auto
-𨞠	yg	邑共	auto
-𨞡	hy	會邑	auto
-𨞡	yh	邑會	auto
-𨞢	je	夾阝	auto
-𨞣	es	阝歲	auto
-𨞣	se	歲阝	auto
-𨞤	re	入阝	auto
-𨞥	we	亠阝	auto
-𨞦	hy	虍邑	auto
-𨞦	yu	邑豕	auto
-𨞧	ye	炎阝	auto
-𨞨	eg	阝蓋	auto
-𨞨	ge	蓋阝	auto
-𨞩	ed	阝翟	auto
-𨞩	de	翟阝	auto
-𨞪	eu	阝壽	auto
-𨞪	ue	壽阝	auto
-𨞫	em	阝蒙	auto
-𨞫	me	蒙阝	auto
-𨞬	ie	厂阝	auto
-𨞭	me	免阝	auto
-𨞮	jy	聚邑	auto
-𨞮	yj	邑聚	auto
-𨞯	my	夢邑	auto
-𨞯	ym	邑夢	auto
-𨞰	ky	口邑	auto
-𨞰	yb	邑匕	auto
-𨞱	ke	口阝	auto
-𨞲	pe	丿阝	auto
-𨞳	eb	阝鼻	auto
-𨞳	be	鼻阝	auto
-𨞴	ye	炎阝	auto
+𨞖	el	阝零	
+𨞗	eq	阝羣	
+𨞘	ed	阝豆	
+𨞙	eu	阝豕	
+𨞚	em	阝盟	
+𨞛	eg	阝葛	
+𨞜	eo	阝目	
+𨞝	ej	阝賈	
+𨞞	em	阝目	
+𨞟	ei	阝㐅	
+𨞟	ee	耳阝	
+𨞠	yg	邑共	
+𨞠	ky	口邑	
+𨞡	yh	邑會	
+𨞡	hy	會邑	
+𨞢	eu	阝氺	
+𨞣	es	阝歲	
+𨞤	eh	入{會}	
+𨞤	eo	入日	
+𨞥	eu	阝十	
+𨞦	yu	邑豕	
+𨞦	hy	虍邑	
+𨞧	ei	阝舛	
+𨞧	ef	阝㐄	
+𨞨	eg	阝蓋	
+𨞩	ed	阝翟	
+𨞩	ev	阝隹	
+𨞪	eu	阝壽	
+𨞫	em	阝蒙	
+𨞬	el	阝坴	
+𨞬	et	阝土	
+𨞭	em	阝免	
+𨞮	yj	邑聚	
+𨞮	jy	聚邑	
+𨞯	ym	邑夢	
+𨞯	my	夢邑	
+𨞰	yb	邑匕	
+𨞰	ky	口邑	
+𨞱	et	口堂	
+𨞲	em	阝馬	
+𨞲	ue	手阝	
+𨞳	eb	阝鼻	
+𨞴	eh	阝回	
 𨞵	eb	阝貝	
-𨞶	ze	自阝	auto
-𨞷	te	天阝	auto
-𨞸	yy	邑邑	auto
-𨞹	he	虍阝	auto
-𨞺	el	阝厲	auto
-𨞺	le	厲阝	auto
-𨞻	le	鹿阝	auto
-𨞼	em	阝蔓	auto
-𨞼	me	蔓阝	auto
-𨞽	et	阝田	auto
-𨞽	te	田阝	auto
-𨞾	ex	阝興	auto
-𨞾	xe	興阝	auto
-𨞿	eg	阝羹	auto
-𨞿	ge	羹阝	auto
-𨟀	le	黎阝	auto
-𨟁	ce	艹阝	auto
-𨟂	ey	阝魚	auto
-𨟂	ce	艹阝	auto
-𨟃	ev	阝徵	auto
-𨟃	ve	徵阝	auto
-𨟄	fe	樊阝	auto
-𨟅	fe	樊阝	auto
-𨟆	le	蓼阝	auto
-𨟇	le	魯阝	auto
-𨟈	px	彡鄩	auto
-𨟉	ue	奭阝	auto
-𨟊	ev	阝質	auto
-𨟊	ve	質阝	auto
-𨟋	je	臼阝	auto
-𨟌	pe	彡阝	auto
-𨟍	we	亠阝	auto
-𨟎	xe	嶲阝	auto
-𨟏	eh	阝回	auto
-𨟏	ye	炎阝	auto
-𨟐	we	亠阝	auto
-𨟑	el	阝歷	auto
-𨟑	le	歷阝	auto
-𨟒	me	瞢阝	auto
-𨟓	he	霍阝	auto
-𨟔	ce	艹阝	auto
-𨟕	ve	至阝	auto
-𨟖	em	阝磨	auto
-𨟖	me	磨阝	auto
-𨟗	ew	阝蔿	auto
-𨟗	we	蔿阝	auto
-𨟘	ye	雨阝	auto
-𨟙	ey	阝嬰	auto
-𨟙	ye	嬰阝	auto
-𨟚	ex	阝襄	auto
-𨟚	xe	襄阝	auto
-𨟛	te	土阝	auto
-𨟜	be	卜阝	auto
-𨟝	xe	香阝	auto
-𨟞	xd	享都	auto
-𨟟	ie	厂阝	auto
+𨞵	em	阝𧶻	
+𨞶	zg	阝果	
+𨞷	ei	阝虫	
+𨞸	yb	邑匕	
+𨞸	yy	邑邑	
+𨞹	el	虍林	
+𨞺	el	阝厲	
+𨞻	eb	阝麃	
+𨞼	em	阝蔓	
+𨞽	el	阝畾	
+𨞽	et	阝田	
+𨞾	ex	阝興	
+𨞿	eg	阝羹	
+𨟀	el	阝黎	
+𨟁	ef	艹方	
+𨟂	ey	阝魚	
+𨟃	ev	阝徵	
+𨟄	yf	邑樊	
+𨟄	fy	樊邑	
+𨟅	ef	阝樊	
+𨟆	el	阝蓼	
+𨟇	el	阝魯	
+𨟈	ex	阝尋	
+𨟈	px	彡鄩	
+𨟉	eu	阝奭	
+𨟉	eb	阝百	
+𨟊	ev	阝質	
+𨟋	ec	阝廾	
+𨟌	ec	阝寸	
+𨟌	ex	阝{尋}	
+𨟌	pe	彡阝	
+𨟍	eu	阝十	
+𨟎	eg	阝𠃌	
+𨟎	ej	阝嶲	
+𨟏	eh	阝回	
+𨟐	et	阝堂	
+𨟑	el	阝歷	
+𨟒	em	阝瞢	
+𨟓	eh	阝霍	
+𨟔	ew	阝万	
+𨟕	eo	阝日	
+𨟖	em	阝磨	
+𨟗	ew	阝蔿	
+𨟘	eb	阝並	
+𨟙	ey	阝嬰	
+𨟚	ex	阝襄	
+𨟛	eb	土八	
+𨟛	eu	土{奭}	
+𨟜	ez	阝早	
+𨟝	ey	阝育	
+𨟝	xe	香阝	
+𨟞	xd	享都	
+𨟞	ev	阝者	
+𨟟	eu	阝石	
 𨟠	eq	阝瞿	
-𨟠	qe	瞿阝	auto
-𨟢	we	王阝	auto
-𨟣	be	卜阝	auto
-𨟤	le	麓阝	auto
-𨟥	le	磊阝	auto
-𨟦	pe	𠂆阝	auto
-𨟧	ve	爫阝	auto
-𨟨	se	宿阝	auto
-𨟩	by	卜邑	auto
-𨟩	ya	邑丨	auto
-𨟪	ce	卝阝	auto
-𨟫	be	丙阝	auto
-𨟬	be	卜阝	auto
-𨟭	ve	𥫗阝	auto
-𨟮	yw	邑攵	auto
-𨟮	yy	雨邑	auto
-𨟯	le	靈阝	auto
-𨟰	ye	酉阝	auto
-𨟲	yy	酉弋	auto
-𨟳	yy	酉义	auto
+𨟢	eu	阝壽	
+𨟢	we	王阝	
+𨟣	ez	阝子	
+𨟤	el	阝麓	
+𨟥	em	阝木	
+𨟦	ee	阝⺋	
+𨟧	em	阝木	
+𨟨	eg	宿革	
+𨟩	ya	邑丨	
+𨟩	ly	鹵邑	
+𨟩	by	卜邑	
+𨟪	ey	阝言	
+𨟫	el	阝鹿	
+𨟬	ea	阝丨	
+𨟭	ew	阝胃	
+𨟮	yw	邑攵	
+𨟮	yy	雨邑	
+𨟯	el	阝靈	
+𨟰	ey	阝酉	
+𨟰	ye	酉阝	
+𨟲	yy	酉弋	
+𨟳	yy	酉义	
 𨟴	yy	酉匀	auto
 𨟵	yb	酉比	auto
 𨟶	yg	酉戈	auto

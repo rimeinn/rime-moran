@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251218"
+version: "20251219"
 sort: by_weight
 columns:
   - text
@@ -177,6 +177,7 @@ AC自動機	aczj
 阿爾泰語系	aetx
 挨餓受凍	aeud
 愛爾維修	aewx
+安撫	af
 安撫安撫	afaf
 案發地點	afdd
 案發當天	afdt
@@ -10467,6 +10468,8 @@ C盤	cpj
 大戰	davj
 打顫	davj
 大寨	davl
+打轉	davr
+大賺	davr
 大專	davr
 大衆	davs
 打住	davu
@@ -13539,7 +13542,6 @@ C盤	cpj
 等離子電視	dlzu
 獨立自主	dlzv
 獨立自由	dlzy
-大佬坐姿	dlzz
 點	dm
 丶	dm
 电	dma
@@ -79818,7 +79820,7 @@ T恤衫	txuj
 事到臨頭	udlt
 山東聯通	udlt
 聖誕禮物	udlw
-山東藍翔	udlx
+雙列	udlx
 實彈練習	udlx
 十冬臘月	udly
 霜打了的茄子	udlz
@@ -93294,7 +93296,6 @@ WiFi	wifi
 完竣	wjjp
 外接鍵盤	wjjp
 挽救	wjjq
-挖掘機技術哪家強	wjjq
 玩具	wjju
 玩家	wjjw
 完結	wjjx
@@ -98821,8 +98822,8 @@ WiFi	wifi
 心理疏導	xlud
 心理上的	xlud
 心靈上的	xlud
-希臘神話	xluh
 心領神會	xluh
+希臘神話	xluh
 心力衰竭	xluj
 心亂神迷	xlum
 心靈手巧	xluq
@@ -103672,7 +103673,7 @@ WiFi	wifi
 勇鬥歹徒	yddt
 一定都是	yddu
 一滴都不剩	yddu
-夜的第七章	yddv
+原地打轉	yddv
 郵電大學	yddx
 有點東西	yddx
 有多大關係	yddx
@@ -110889,6 +110890,7 @@ WiFi	wifi
 嬰	yybn
 猶豫不前	yybq
 英勇不屈	yybq
+音樂播放器	yybq
 遠遠不如	yybr
 友誼比賽	yybs
 一夜白頭	yybt
@@ -118134,6 +118136,7 @@ Excel	eks
 副產品	fip
 非常強	fiq
 非常熱	fir
+非常人	fir
 非傳統	fit
 方程式	fiu
 房產稅	fiu
@@ -121520,7 +121523,6 @@ PVP	pvp
 親切感	qqg
 全球化	qqh
 氫氣球	qqq
-QQ羣	qqq
 全球性	qqx
 情人節	qrj
 去死吧	qsb
@@ -122595,6 +122597,7 @@ SD卡	sdk
 生命力	uml
 生悶氣	umq
 睡美人	umr
+神祕人	umr
 水蜜桃	umt
 說明書	umu
 市面上	umu
@@ -122719,7 +122722,6 @@ SD卡	sdk
 射手座	uuz
 時裝表	uvb
 誰知道	uvd
-手制動	uvd
 市政府	uvf
 省政府	uvf
 雙職工	uvg
