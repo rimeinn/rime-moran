@@ -7,7 +7,7 @@
 <a href="https://zrmfans.cn/demo/"><img src="https://img.shields.io/badge/Fcitx5-Try%20Online-1dd3b0?style=for-the-badge&logo=github"/></a>
 </p>
 
-License: [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/), unless the file states otherwise.
+License: [GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html). If a file indicates another license, you may use/redistribute it according to that license as well.
 
 ---
 

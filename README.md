@@ -7,7 +7,7 @@
 <a href="https://zrmfans.cn/demo/"><img src="https://img.shields.io/badge/Fcitx5-線上試用-1dd3b0?style=for-the-badge&logo=github"/></a>
 </p>
 
-授權協議：方案主體依 [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/) 協議發佈，除非對應文件中另有說明。
+授權協議：完整的方案發行依 [GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html) 協議發佈。若某文件中另有說明，則該文件可依對應許可協議再發行。
 
 ---
 
