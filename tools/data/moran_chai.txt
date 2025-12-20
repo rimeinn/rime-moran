@@ -33851,8 +33851,8 @@
 𠒅	ea	儿一	auto
 𠒆	ex	儿囟	auto
 𠒆	xe	囟儿	auto
-𠒇	ej	儿臼	auto
-𠒇	je	臼儿	auto
+𠒇	ek	儿囗	
+𠒇	pe	丿儿	
 𠒈	uy	十元	auto
 𠒈	ee	儿二	auto
 𠒉	yi	元丑	auto
