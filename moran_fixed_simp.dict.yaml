@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251219"
+version: "20251221"
 sort: original
 columns:
   - text
@@ -13162,6 +13162,8 @@ C语言	cyy
 大门不出二门不迈	dmbm
 大门不出，二门不迈	dmbm
 颠簸	dmbo
+电波	dmbo
+点拨	dmbo
 点播	dmbo
 大谬不然	dmbr
 癜	dmbu
@@ -44825,7 +44827,6 @@ JK制服	jkvf
 抗美援朝	kmyi
 空忙一场	kmyi
 渴慕已久	kmyj
-抗美援朝	kmyv
 苦命鸳鸯	kmyy
 抗美援越	kmyy
 可能	kn

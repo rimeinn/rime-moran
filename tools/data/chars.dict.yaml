@@ -4,7 +4,7 @@
 
 ---
 name: moran.chars
-version: "20251115"
+version: "20251221"
 sort: by_weight
 use_preset_vocabulary: false
 ...
