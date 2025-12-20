@@ -48,6 +48,7 @@ algebra:
 
 key_bindings:
   # 分號用於次選
+  # ※ 注意，默認模式（moran.schema.yaml）的分號次選功能由 moran_processor.lua 提供，不使用該配置。
   moran_semicolon_for_2:
     __append:
       - { when: has_menu, accept: semicolon, send: "2" }
@@ -100,7 +101,7 @@ key_bindings:
       - { when: has_menu, accept: Shift+Z, send_sequence: "{Control+Left}z{Control+Right}" }
       - { when: has_menu, accept: Shift+BackSpace, send_sequence: "{Control+Left}{BackSpace}{Control+Right}" }
 
-  # 支持小鍵盤數字鍵和回車鍵
+  # 支持小鍵盤數字鍵、回車鍵和小數點
   moran_keypad:
     __append:
       - { when: composing, accept: KP_Enter, send: Return }
@@ -114,6 +115,8 @@ key_bindings:
       - { when: composing, accept: KP_7, send: '7' }
       - { when: composing, accept: KP_8, send: '8' }
       - { when: composing, accept: KP_9, send: '9' }
+      - { when: composing, accept: KP_9, send: '9' }
+      - { when: composing, accept: KP_Decimal, send: '.' }
 
   # 切換固詞
   moran_toggle_inflexible:
