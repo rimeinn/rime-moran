@@ -34457,405 +34457,457 @@
 𠚠	kv	凵止	auto
 𠚡	ax	凹小	auto
 𠚤	pd	丿丶	auto
-𠚥	dd	刀刂	auto
-𠚦	ds	刀厶	auto
-𠚧	ed	二刂	auto
-𠚨	dj	刀丩	auto
-𠚨	jd	丩刀	auto
-𠚩	bd	卜刂	auto
-𠚪	dd	刀刀	auto
-𠚫	yd	又刂	auto
-𠚬	bd	卜刀	auto
-𠚬	db	刀卜	auto
-𠚭	ud	勺刂	auto
-𠚮	dq	刀乞	auto
-𠚯	wd	兀刂	auto
-𠚰	nd	女刂	auto
-𠚱	dy	刀乙	auto
-𠚱	bd	卜刀	auto
-𠚲	dq	刀千	auto
-𠚲	qd	千刀	auto
-𠚳	gd	广刂	auto
-𠚵	jd	及刂	auto
-𠚶	fd	扌刂	auto
-𠚷	ud	十刂	auto
-𠚸	gd	勾刂	auto
-𠚹	ud	殳刂	auto
-𠚺	ud	少刂	auto
-𠚻	rd	𠂉刂	auto
-𠚼	dd	刀刂	auto
-𠚼	fd	分刂	auto
-𠚽	vd	支刂	auto
-𠚾	yd	牙刂	auto
-𠚿	yd	又刂	auto
-𠛀	gd	公刂	auto
-𠛁	pd	片刂	auto
-𠛂	rd	刃刂	auto
-𠛃	pd	丿刂	auto
-𠛄	yd	爻刂	auto
-𠛅	qd	区刂	auto
-𠛆	wd	乌刂	auto
-𠛇	rd	刃大	auto
-𠛈	fd	父刀	auto
-𠛈	df	刀父	auto
-𠛉	fd	丰刂	auto
-𠛊	ud	氏刂	auto
-𠛋	bd	巴刂	auto
-𠛍	fd	方刂	auto
-𠛎	jd	句刂	auto
-𠛏	sd	厶刂	auto
-𠛐	wd	未刂	auto
-𠛑	xd	玄刂	auto
-𠛒	gd	瓜刂	auto
-𠛓	dd	刀刂	auto
-𠛓	md	卯刂	auto
-𠛔	ad	丨刂	auto
-𠛕	dd	刀刂	auto
-𠛕	ud	山刂	auto
-𠛖	ad	丆刂	auto
-𠛗	dd	大刂	auto
-𠛘	dd	大刂	auto
-𠛙	bd	北刂	auto
-𠛚	yd	又刂	auto
+𠚥	dd	刀刂	
+𠚦	ds	刀厶	
+𠚧	de	刂二	
+𠚧	ed	二刂	
+𠚨	dj	刀丩	
+𠚨	jd	丩刀	
+𠚩	db	刂卜	
+𠚩	bd	卜刂	
+𠚪	dd	刀刀	
+𠚫	dy	刂又	
+𠚫	yd	又刂	
+𠚬	db	刀卜	
+𠚬	bd	卜刀	
+𠚭	du	刂勺	
+𠚮	dq	刀乞	
+𠚯	wd	兀刂	
+𠚯	dw	刂兀	
+𠚰	dn	刂女	
+𠚰	nd	女刂	
+𠚱	dy	刀乙	
+𠚱	bd	卜刀	
+𠚲	dq	刀千	
+𠚲	qd	千刀	
+𠚳	dg	刂广	
+𠚳	gd	广刂	
+𠚵	dj	刂及	
+𠚵	jd	及刂	
+𠚶	df	刂扌	
+𠚶	fd	扌刂	
+𠚷	df	刂巿	
+𠚷	dj	刂巾	
+𠚸	dg	刂勾	
+𠚹	du	刂殳	
+𠚺	du	刂少	
+𠚻	dd	𠂉刁	
+𠚻	rd	𠂉刂	
+𠚼	df	刂分	
+𠚽	dv	刂支	
+𠚾	dy	刂牙	
+𠚿	dy	刂又	
+𠛀	dg	刂公	
+𠛁	dp	刂片	
+𠛂	dd	刂丶	
+𠛂	db	刂八	
+𠛃	du	刂手	
+𠛃	ud	手刂	
+𠛄	dy	刂爻	
+𠛅	dq	刂区	
+𠛆	dw	刂乌	
+𠛇	dr	大刃	
+𠛇	rd	刃大	
+𠛈	fd	父刀	
+𠛈	df	刀父	
+𠛉	df	刂丰	
+𠛉	fd	丰刂	
+𠛊	du	刂氏	
+𠛋	db	刂巴	
+𠛍	df	刂方	
+𠛎	dj	刂句	
+𠛏	di	刂巛	
+𠛏	sd	厶刂	
+𠛐	dw	刂未	
+𠛑	dx	刂玄	
+𠛒	dg	刂瓜	
+𠛓	dm	刂卯	
+𠛔	dz	刂𠂔	
+𠛔	dp	刂丿	
+𠛕	dd	刂刀	
+𠛕	ud	山刂	
+𠛖	dp	刂丿	
+𠛗	ds	刂厶	
+𠛘	dn	刂乃	
+𠛙	db	刂北	
+𠛚	dj	刂巾	
 𠛛	db	刂匕	
 𠛛	rd	人刂	
-𠛜	jd	井刂	auto
-𠛝	jr	井刃	auto
-𠛞	db	刀丷	auto
-𠛞	dd	大刀	auto
-𠛟	hd	卉刂	auto
+𠛜	dd	刂丶	
+𠛝	jr	井刃	
+𠛝	rj	刃井	
+𠛞	db	刀丷	
+𠛞	dd	大刀	
+𠛟	dh	刂卉	
 𠛠	de	刂⺋	
 𠛠	dy	刂夗	
 𠛡	db	刂必	
 𠛢	dv	刂乍	
-𠛢	vd	乍刂	
-𠛥	bd	丙刂	auto
-𠛦	pd	丿刂	auto
+𠛥	db	刂丙	
+𠛦	pd	丿刂	
+𠛦	dd	刂丶	
 𠛧	dk	刂冂	
 𠛧	kd	冂刂	
-𠛨	dl	刂耒	
 𠛨	ld	耒刂	
-𠛩	sd	糸刂	auto
-𠛪	vd	兆刂	auto
-𠛫	dd	多刂	auto
-𠛬	gk	干刊	auto
-𠛭	yd	因刂	auto
-𠛮	qd	全刂	auto
+𠛩	ds	刂糸	
+𠛪	dv	刂兆	
+𠛫	dd	刂多	
+𠛬	dq	刂幵	
+𠛭	dy	刂因	
+𠛮	dq	刂全	
 𠛯	dj	刂巾	
-𠛰	kd	冂刂	auto
-𠛲	rd	人刂	auto
-𠛳	dh	刀亥	auto
-𠛴	wd	夂刂	auto
-𠛵	gd	艮刂	auto
-𠛶	bd	八刂	auto
+𠛰	dk	刂冂	
+𠛲	da	刂一	
+𠛳	dh	刀亥	
+𠛴	dx	刂小	
+𠛵	dg	刂艮	
+𠛶	dw	刂文	
 𠛷	dd	刂氵	
 𠛷	rd	亻刂	
-𠛸	vf	中分	auto
-𠛹	kd	冂刂	auto
-𠛺	da	刀一	auto
-𠛺	rd	𠂉刀	auto
-𠛻	qd	千刂	auto
-𠛼	bd	并刂	auto
-𠛽	ad	丨刀	auto
-𠛽	dk	刀口	auto
-𠛾	jd	尽刂	auto
-𠛿	id	虫刂	auto
-𠜀	qd	七刂	auto
-𠜁	yd	夷刂	auto
-𠜂	kd	冂刂	auto
-𠜃	jd	臼刂	auto
-𠜄	xd	血刂	auto
-𠜅	jd	交刂	auto
-𠜆	yd	衣刂	auto
-𠜇	wd	亠刂	auto
-𠜈	yd	聿刂	auto
-𠜉	id	丞刂	auto
-𠜋	rd	人刂	auto
+𠛸	vf	中分	
+𠛹	de	刂二	
+𠛹	kd	冂刂	
+𠛺	dv	刀止	
+𠛺	rd	𠂉刀	
+𠛻	db	刂布	
+𠛻	dj	刂巾	
+𠛼	db	刂并	
+𠛽	dk	刀口	
+𠛾	dj	刂尽	
+𠛿	di	刂虫	
+𠛿	id	虫刂	
+𠜀	dm	刂木	
+𠜁	dy	刂夷	
+𠜂	de	刂二	
+𠜂	kd	冂刂	
+𠜃	dj	刂臼	
+𠜃	jd	臼刂	
+𠜄	dx	刂血	
+𠜅	dj	刂交	
+𠜆	dy	刂衣	
+𠜇	dd	刂丶	
+𠜈	dy	刂聿	
+𠜉	di	刂丞	
+𠜋	ri	刂丑	
 𠜌	dk	⺈冂	
-𠜍	bd	冖刂	auto
-𠜎	xd	先刂	auto
-𠜏	dd	吊刂	auto
-𠜐	bd	卜刂	auto
-𠜑	dd	兑刂	auto
-𠜒	id	車刂	auto
-𠜓	dd	狄刀	auto
-𠜔	ud	上刂	auto
-𠜕	qd	千刂	auto
-𠜖	vd	爫刂	auto
-𠜗	xd	希刂	auto
-𠜙	fd	甫刂	auto
-𠜚	jd	井刂	auto
-𠜛	jd	冏刂	auto
-𠜜	ud	氏刂	auto
-𠜝	gd	工刂	auto
-𠜟	kd	囗刂	auto
-𠜠	kd	困刂	auto
-𠜡	wd	亠刀	auto
-𠜡	df	刀父	auto
-𠜢	gd	广刂	auto
-𠜣	ld	利刀	auto
-𠜣	dl	刀利	auto
-𠜤	gr	圭刃	auto
-𠜥	di	刀車	auto
-𠜥	id	車刀	auto
-𠜦	dg	刀古	auto
-𠜧	de	刀儿	auto
+𠜍	bd	冖刂	
+𠜍	dy	刂元	
+𠜎	dx	刂先	
+𠜏	dd	刂吊	
+𠜐	dc	刂冊	
+𠜑	dd	刂兑	
+𠜒	id	刂車	
+𠜓	dd	刀狄	
+𠜔	db	刂{币}	
+𠜔	dj	刂巾	
+𠜕	da	刂丨	
+𠜕	dj	刂甲	
+𠜖	dc	刂寸	
+𠜗	dx	刂希	
+𠜙	df	刂甫	
+𠜚	dt	刂土	
+𠜛	dj	刂冏	
+𠜜	dk	刂口	
+𠜝	dj	刂斤	
+𠜟	ku	刂水	
+𠜡	wd	亠刀	
+𠜡	df	刀父	
+𠜢	dq	刂犬	
+𠜣	dl	刀利	
+𠜣	ld	利刀	
+𠜤	rg	刃圭	
+𠜥	di	刀車	
+𠜥	id	車刀	
+𠜦	dg	刀古	
+𠜧	de	刀儿	
 𠜧	dd	⺈刀	
-𠜨	hr	亥刃	auto
-𠜩	td	土刂	auto
+𠜨	rh	刃亥	
+𠜨	hr	亥刃	
+𠜩	dt	刂土	
 𠜪	dd	⺈刂	
-𠜫	hd	禾刂	auto
-𠜰	dg	刀乚	auto
+𠜫	dd	刂冫	
+𠜰	dg	刀乚	
 𠜰	dd	⺈刀	
-𠜱	bd	卑刂	auto
-𠜲	yd	亞刂	auto
-𠜳	oy	月刖	auto
-𠜴	gd	果刂	auto
-𠜵	dg	刀夬	auto
-𠜵	fg	丰夬	auto
-𠜶	vd	止刂	auto
-𠜷	bd	卜刂	auto
-𠜸	sd	厶刂	auto
-𠜹	od	目刂	auto
-𠜺	ld	戾刂	auto
-𠜻	hd	或刂	auto
-𠜼	dd	刀刂	auto
-𠜽	yd	爻刂	auto
-𠜾	qd	屈刂	auto
-𠜿	ud	山刂	auto
-𠝀	ud	山刂	auto
-𠝁	wd	未刂	auto
-𠝂	db	刀八	auto
-𠝂	hf	火分	auto
-𠝃	ud	水刂	auto
-𠝄	vd	爫刂	auto
-𠝅	do	刀日	auto
-𠝅	bd	卜刀	auto
+𠜱	db	刂卑	
+𠜲	dy	刂亞	
+𠜳	dp	刂朋	
+𠜴	dg	刂果	
+𠜵	dg	刀夬	
+𠜵	fg	丰夬	
+𠜶	dv	刂止	
+𠜷	db	刂匕	
+𠜸	de	刂二	
+𠜹	od	刂大	
+𠜺	dl	刂戾	
+𠜻	dh	刂或	
+𠜼	dx	刂臽	
+𠜼	dj	刂臼	
+𠜽	dm	刂木	
+𠜽	du	刂杀	
+𠜾	dq	刂屈	
+𠜿	dv	刂乍	
+𠝀	db	刂匕	
+𠝁	dp	刂彡	
+𠝂	db	刀八	
+𠝂	jf	龹分	
+𠝃	du	刂水	
+𠝄	dw	刂勿	
+𠝅	da	刀一	
+𠝅	bd	卜刀	
 𠝈	my	卯{用}	
 𠝈	mf	卯𰀁	
-𠝊	yx	友刑	auto
-𠝋	ud	尸刀	auto
-𠝋	du	刀示	auto
-𠝌	ad	乛刂	auto
-𠝍	gd	乖刂	auto
+𠝊	yx	友刑	
+𠝋	du	刀示	
+𠝋	ud	尸刀	
+𠝌	du	刂氺	
+𠝍	dg	刂乖	
 𠝎	da	⺈一	
-𠝏	dk	刀口	auto
-𠝏	rd	人刀	auto
-𠝐	hd	花刂	auto
-𠝑	ud	尸刂	auto
-𠝒	dd	丶刂	auto
-𠝘	bd	备刂	auto
-𠝙	vd	正刂	auto
-𠝚	cd	廿刂	auto
-𠝛	td	土刂	auto
-𠝜	qd	青刂	auto
-𠝝	ud	世刂	auto
-𠝞	qd	千刂	auto
-𠝟	yd	英刂	auto
-𠝠	zd	灾刂	auto
-𠝡	gd	广刂	auto
-𠝢	yd	弇刂	auto
-𠝣	vd	止刂	auto
-𠝤	vd	重刂	auto
-𠝥	kd	奎刂	auto
-𠝦	ud	山刂	auto
-𠝧	dd	刀刀	auto
-𠝧	yd	羽刀	auto
-𠝨	xu	彳刹	auto
-𠝩	id	春刂	auto
-𠝪	wd	夂刂	auto
-𠝬	zd	灾刂	auto
-𠝭	pd	屏刂	auto
-𠝮	bd	丷刂	auto
-𠝯	lw	利勿	auto
-𠝰	wu	危失	auto
-𠝱	dd	大刂	auto
-𠝲	xd	香刂	auto
-𠝳	xd	宣刂	auto
-𠝴	kd	冂刂	auto
-𠝵	br	并刃	auto
-𠝶	id	垂刂	auto
-𠝷	db	刀八	auto
-𠝷	pf	丿分	auto
-𠝸	dw	刀攵	auto
-𠝸	md	矛刀	auto
-𠝹	jd	界刂	auto
-𠝽	do	刀日	auto
-𠝾	wd	网刂	auto
-𠝿	dd	丶刂	auto
-𠞀	xd	穴刂	auto
-𠞁	cd	艹刂	auto
-𠞂	ud	尸刂	auto
-𠞃	id	芻刂	auto
-𠞄	pd	𠂆刂	auto
-𠞅	td	田刂	auto
-𠞆	wd	烏刂	auto
-𠞇	xd	囟刂	auto
-𠞈	dd	刀刂	auto
-𠞈	od	日刂	auto
-𠞉	ld	栗刂	auto
-𠞊	id	差刂	auto
-𠞋	od	目刂	auto
-𠞌	sd	厶刂	auto
-𠞍	kd	口刂	auto
-𠞎	dd	多刂	auto
-𠞏	ud	甡刂	auto
-𠞐	ad	一刂	auto
-𠞑	wd	文刂	auto
-𠞒	dd	大刂	auto
-𠞓	sd	素刂	auto
-𠞔	pd	丿刂	auto
-𠞕	vr	重刃	auto
-𠞖	gd	貢刂	auto
-𠞗	qd	去刂	auto
-𠞘	md	木刂	auto
-𠞙	hd	禾刂	auto
-𠞚	xd	夕刂	auto
-𠞛	dd	刀刂	auto
-𠞛	ud	扇刂	auto
-𠞝	cd	艹刂	auto
-𠞞	yd	舀刂	auto
-𠞠	dv	刀秩	auto
-𠞣	cd	艹刂	auto
-𠞥	md	麻刂	auto
-𠞦	jd	莢刂	auto
-𠞧	dm	刀麻	auto
-𠞧	md	麻刀	auto
-𠞨	dd	刀刂	auto
-𠞨	ld	翏刂	auto
-𠞩	ld	率刂	auto
-𠞪	ad	敖刀	auto
-𠞪	da	刀敖	auto
-𠞫	kd	口刂	auto
-𠞬	gd	衮刂	auto
-𠞭	ld	婁刂	auto
-𠞮	ud	爽刂	auto
-𠞯	xd	雪刂	auto
-𠞰	di	刀巢	auto
-𠞱	jd	堇刂	auto
-𠞲	di	刀厂	auto
-𠞲	wd	未刀	auto
+𠝏	dr	刀人	
+𠝏	rd	人刀	
+𠝐	dh	刂花	
+𠝑	du	刂示	
+𠝒	df	刂否	
+𠝒	dk	刂口	
+𠝘	db	刂备	
+𠝙	dj	刂久	
+𠝚	dm	刂木	
+𠝛	dk	刂口	
+𠝜	dq	刂青	
+𠝝	dm	刂木	
+𠝞	dj	刂臼	
+𠝟	dy	刂英	
+𠝠	dy	刂又	
+𠝡	dv	刂兆	
+𠝢	dc	刂廾	
+𠝣	dv	刂舟	
+𠝤	dv	刂重	
+𠝥	dk	刂奎	
+𠝦	dp	刂彡	
+𠝧	dd	刀刀	
+𠝧	xd	𫜹刀	
+𠝨	du	刂杀	
+𠝨	xu	彳刹	
+𠝩	di	刂春	
+𠝪	dj	刂咎	
+𠝪	dk	刂口	
+𠝬	dy	刂又	
+𠝭	dp	刂屏	
+𠝮	du	刂豕	
+𠝮	bd	丷刂	
+𠝯	lw	利勿	
+𠝯	wl	勿利	
+𠝰	wu	危失	
+𠝱	dm	刂木	
+𠝱	dd	大刂	
+𠝲	dx	刂香	
+𠝳	dx	刂宣	
+𠝴	du	刂山	
+𠝵	br	并刃	
+𠝵	rb	刃并	
+𠝶	di	刂垂	
+𠝷	nf	{鳥}分	
+𠝸	dw	刀攵	
+𠝸	md	矛刀	
+𠝹	dj	刂界	
+𠝽	do	刀日	
+𠝽	oe	日⺋	
+𠝾	du	刂山	
+𠝿	db	刂貝	
+𠞀	di	刂出	
+𠞁	dc	刂朿	
+𠞁	dd	刂丶	
+𠞂	dx	刂辛	
+𠞃	di	刂芻	
+𠞄	dh	刂虎	
+𠞅	dw	刂夂	
+𠞆	dw	刂烏	
+𠞆	wd	烏刂	
+𠞇	db	刂比	
+𠞈	dx	刂羽	
+𠞈	od	日刂	
+𠞉	dl	刂栗	
+𠞊	di	刂差	
+𠞋	dc	刂冊	
+𠞌	dk	刂口	
+𠞍	dw	刂勿	
+𠞎	dh	刂灬	
+𠞏	du	刂生	
+𠞐	du	刂土	
+𠞑	dj	刂{金}	
+𠞑	da	刂一	
+𠞒	dd	刂电	
+𠞓	ds	刂素	
+𠞔	du	刂省	
+𠞕	rv	刃重	
+𠞕	vr	重刃	
+𠞖	dg	刂貢	
+𠞗	dq	刂去	
+𠞘	du	刂水	
+𠞙	hd	禾刂	
+𠞚	dm	刂皿	
+𠞛	du	刂扇	
+𠞝	dx	刂夕	
+𠞞	dy	刂舀	
+𠞞	dj	刂臼	
+𠞠	dv	刀秩	
+𠞣	dg	刂冓	
+𠞥	dm	刂麻	
+𠞦	dj	刂莢	
+𠞧	dm	刀麻	
+𠞧	md	麻刀	
+𠞧	gd	广刀	
+𠞨	dx	刂小	
+𠞩	dl	刂率	
+𠞪	da	刀敖	
+𠞪	ad	敖刀	
+𠞫	dc	刂冊	
+𠞬	dg	刂衮	
+𠞭	dl	刂婁	
+𠞮	du	刂爽	
+𠞯	dx	刂雪	
+𠞰	di	刀巢	
+𠞱	dj	刂堇	
+𠞲	di	刀厂	
+𠞲	wd	未刀	
 𠞳	dp	刂朋	
 𠞳	qd	䒑刂	
-𠞴	cr	倉刃	auto
-𠞵	sd	罒刂	auto
-𠞶	dd	啇刂	auto
-𠞷	yd	聿刂	auto
-𠞸	nd	鳥刂	auto
-𠞻	dl	刀率	auto
-𠞻	ld	率刀	auto
-𠞼	rd	人刂	auto
-𠞽	dd	刀刀	auto
-𠞽	qd	前刀	auto
-𠞾	xv	彳釗	auto
-𠞿	sd	厶刂	auto
-𠟀	dn	刀鳥	auto
-𠟁	yd	崟刂	auto
-𠟂	cd	曾刂	auto
-𠟃	zd	尊刂	auto
-𠟄	dh	刀禾	auto
-𠟄	id	厂刀	auto
-𠟅	vd	𥫗刂	auto
-𠟆	td	替刂	auto
-𠟇	wd	亠刂	auto
-𠟈	db	刀敝	auto
-𠟈	bd	敝刀	auto
-𠟉	cd	孱刂	auto
-𠟊	dy	刀羽	auto
-𠟊	dx	刀翕	auto
-𠟊	xd	翕刂	auto
-𠟋	yd	堯刂	auto
-𠟌	pd	菩刂	auto
-𠟍	td	童刂	auto
-𠟎	kd	口刂	auto
-𠟏	rd	人刂	auto
-𠟐	cd	倉丶	auto
-𠟑	kd	囗刂	auto
-𠟒	hd	賀刂	auto
-𠟓	zd	貲刂	auto
-𠟔	bd	貝刂	auto
-𠟕	qd	取刂	auto
-𠟖	hd	合刂	auto
-𠟗	cd	艹刂	auto
-𠟘	od	日刂	auto
-𠟙	yd	雲刂	auto
-𠟚	dd	等刂	auto
-𠟛	jd	金刂	auto
-𠟜	td	土刂	auto
-𠟝	cd	艹刂	auto
-𠟞	vd	止刂	auto
-𠟟	ld	詈刂	auto
+𠞴	rc	刃倉	
+𠞴	cr	倉刃	
+𠞵	df	刂伐	
+𠞶	dd	刂啇	
+𠞶	dg	刂古	
+𠞷	dt	刂田	
+𠞸	dn	刂鳥	
+𠞻	dl	刀率	
+𠞻	ld	率刀	
+𠞼	dd	刂刂	
+𠞽	dq	刀前	
+𠞽	qd	前刀	
+𠞾	dj	刂金	
+𠞾	xd	彳刂	
+𠞿	db	刂貝	
+𠟀	dn	刀鳥	
+𠟀	nd	鳥刀	
+𠟁	dj	刂金	
+𠟂	dc	刂曾	
+𠟃	dz	刂尊	
+𠟄	dh	刀禾	
+𠟄	id	厂刀	
+𠟅	dv	刂至	
+𠟆	dt	刂替	
+𠟇	dj	刂桀	
+𠟈	db	刀敝	
+𠟈	bd	敝刀	
+𠟉	dc	刂孱	
+𠟊	dy	刂羽	
+𠟊	dx	刂翕	
+𠟋	dy	刂堯	
+𠟌	dp	刂菩	
+𠟍	dt	刂童	
+𠟎	dn	刂屰	
+𠟏	do	刂日	
+𠟐	rc	刃倉	
+𠟑	dy	刂言	
+𠟒	dh	刂賀	
+𠟓	dz	刂貲	
+𠟔	dc	刂冊	
+𠟔	bd	貝刂	
+𠟕	dm	刂木	
+𠟖	dy	刂刖	
+𠟖	dd	刂刂	
+𠟗	dk	刂口	
+𠟘	dm	刂木	
+𠟙	dy	刂雲	
+𠟚	dd	刂等	
+𠟛	dh	刂灬	
+𠟜	dj	刂韭	
+𠟝	dv	刂叕	
+𠟝	du	刂双	
+𠟞	dv	刂止	
+𠟟	dy	刂言	
+𠟟	dl	刂詈	
 𠟠	dj	刂雋	
-𠟡	yd	焱刂	auto
-𠟢	xd	尋刂	auto
-𠟣	jd	幾刂	auto
-𠟦	sd	瑟刂	auto
-𠟧	vd	詹刂	auto
-𠟨	ld	零刂	auto
-𠟩	sd	嗇刂	auto
-𠟪	yd	業刂	auto
-𠟫	bd	卜刂	auto
-𠟬	vd	𥫗刂	auto
-𠟭	dd	鼎刂	auto
-𠟮	yd	魚刂	auto
-𠟯	dm	刀木	auto
-𠟯	pd	品刀	auto
-𠟰	dd	大刂	auto
-𠟱	yd	肀刂	auto
-𠟴	jd	夾刂	auto
-𠟵	ad	一刂	auto
-𠟶	kd	窟刂	auto
-𠟷	ld	隶刂	auto
-𠟺	xd	需刂	auto
-𠟻	bd	貝刂	auto
-𠟼	wd	亠刂	auto
-𠟽	cd	艹刂	auto
-𠟾	id	巢刂	auto
-𠟿	di	刀巢	auto
-𠟿	id	巢刀	auto
-𠠀	jd	箋刂	auto
-𠠁	xd	㬎刂	auto
-𠠂	td	彖刂	auto
-𠠃	cd	丛刂	auto
-𠠄	zx	走削	auto
-𠠅	ud	束刂	auto
-𠠆	rd	人刂	auto
-𠠈	cd	蒼刂	auto
-𠠋	dz	歹則	auto
-𠠍	ld	黎刂	auto
-𠠎	gd	廣刂	auto
-𠠏	ld	厲刂	auto
-𠠐	ur	壽刃	auto
-𠠒	md	摩刂	auto
-𠠓	hd	火刂	auto
-𠠔	dm	刀賣	auto
-𠠔	md	賣刀	auto
-𠠕	bd	蔈刂	auto
-𠠖	xd	穴刂	auto
-𠠘	ud	奭刂	auto
-𠠛	hd	霍刂	auto
-𠠜	yd	罃刂	auto
-𠠝	ld	歷刂	auto
-𠠞	td	彖刂	auto
-𠠟	id	产刂	auto
-𠠠	mr	賣刃	auto
-𠠡	od	日刂	auto
-𠠢	dk	刀口	auto
-𠠢	yd	雨刀	auto
-𠠣	md	縻刂	auto
+𠟠	dg	刂𠃌	
+𠟡	dy	刂焱	
+𠟡	dh	刂火	
+𠟢	dx	刂尋	
+𠟣	dj	刂幾	
+𠟦	ds	刂瑟	
+𠟧	dv	刂詹	
+𠟨	dl	刂零	
+𠟩	ds	刂嗇	
+𠟪	dy	刂業	
+𠟫	dm	刂木	
+𠟬	db	刂貝	
+𠟬	vd	𥫗刂	
+𠟭	dd	刂鼎	
+𠟮	dh	刂火	
+𠟯	dz	刀喿	
+𠟯	dm	刀木	
+𠟯	pd	品刀	
+𠟰	do	刂目	
+𠟱	ya	刂一	
+𠟴	du	刂氺	
+𠟵	du	刂豕	
+𠟶	dk	刂窟	
+𠟷	dt	刂田	
+𠟺	dx	刂需	
+𠟻	db	刂貝	
+𠟼	dy	刂{衣}	
+𠟽	dh	刂害	
+𠟾	di	刂巢	
+𠟿	id	巢刀	
+𠠀	dj	刂箋	
+𠠁	dx	刂㬎	
+𠠁	ds	刂絲	
+𠠂	dm	刂皿	
+𠠃	dj	刂韭	
+𠠄	zx	走削	
+𠠅	du	刂束	
+𠠆	dh	刂灬	
+𠠈	dc	刂蒼	
+𠠋	bz	卜則	
+𠠍	dl	刂黎	
+𠠎	dg	刂廣	
+𠠏	dl	刂厲	
+𠠐	ru	刃壽	
+𠠐	ur	壽刃	
+𠠒	dm	刂摩	
+𠠓	du	刂氺	
+𠠔	dm	刀賣	
+𠠔	md	賣刀	
+𠠕	dp	刂票	
+𠠖	dg	刂貢	
+𠠘	du	刂奭	
+𠠘	db	刂百	
+𠠛	dh	刂霍	
+𠠜	dy	刂罃	
+𠠜	df	刂缶	
+𠠝	dl	刂歷	
+𠠞	di	刂虫	
+𠠟	dj	刂兼	
+𠠠	rm	刃賣	
+𠠠	mr	賣刃	
+𠠡	du	刂蜀	
+𠠡	di	刂虫	
+𠠢	dk	刀口	
+𠠢	yd	雨刀	
+𠠣	dm	刂縻	
 𠠤	dm	⺈免	
 𠠥	dd	⺈刂	
-𠠦	ft	副田	auto
-𠠧	pd	𠂆刂	auto
-𠠨	nd	聶刂	auto
-𠠪	ds	刀糸	auto
-𠠪	sd	糸刀	auto
-𠠫	ld	麗刂	auto
-𠠬	vd	𥫗刂	auto
-𠠮	id	羼刂	auto
-𠠯	dd	疊刂	auto
-𠠰	yd	雨刂	auto
-𠠱	ld	靈刂	auto
+𠠦	df	刂畐	
+𠠦	dt	刂田	
+𠠧	dh	刂火	
+𠠧	dm	刂灭	
+𠠨	dn	刂聶	
+𠠪	ds	刀糸	
+𠠪	sd	糸刀	
+𠠫	dl	刂麗	
+𠠬	dq	刂簽	
+𠠮	di	刂羼	
+𠠯	dd	刂疊	
+𠠰	dy	刂隹	
+𠠱	dl	刂靈	
 𠠲	pg	丿勹	auto
 𠠳	lj	力丩	auto
 𠠳	jl	丩力	auto
