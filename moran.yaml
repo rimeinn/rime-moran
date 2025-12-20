@@ -115,7 +115,6 @@ key_bindings:
       - { when: composing, accept: KP_7, send: '7' }
       - { when: composing, accept: KP_8, send: '8' }
       - { when: composing, accept: KP_9, send: '9' }
-      - { when: composing, accept: KP_9, send: '9' }
       - { when: composing, accept: KP_Decimal, send: '.' }
 
   # 切換固詞
