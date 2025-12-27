@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251221"
+version: "20251227"
 sort: original
 columns:
   - text
@@ -97293,6 +97293,7 @@ U盘	upj
 玄秘	xrmi
 心如明镜	xrmj
 闲人免进	xrmj
+玄猫	xrmk
 笑容满面	xrmm
 选民	xrmn
 炫目	xrmu
