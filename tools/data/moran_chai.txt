@@ -2716,7 +2716,8 @@
 㷰	hl	火离	
 㷱	hq	灬去	
 㷲	hd	火動	
-㷳	hy	火雁	auto
+㷳	hy	火雁	
+㷳	ih	厂火	
 㷴	hh	火禾	auto
 㷴	ih	厂火	auto
 㷵	hh	火黑	auto
@@ -50888,7 +50889,8 @@
 𤎚	ho	火日	auto
 𤎚	uh	山火	auto
 𤎛	hy	火淫	auto
-𤎝	yh	雁灬	auto
+𤎝	hy	灬雁	
+𤎝	yh	雁灬	
 𤎞	hu	火氺	auto
 𤎟	bh	宀火	auto
 𤎟	ht	火土	auto
@@ -64619,12 +64621,12 @@
 𧫜	jy	既言	auto
 𧫝	yw	言夂	auto
 𧫞	yy	言雨	auto
-𧫟	yv	言隹	auto
+𧫟	yd	言大	
 𧫠	yj	言基	auto
 𧫡	yv	言窒	auto
 𧫢	yw	言望	auto
-𧫣	iy	敕言	auto
 𧫣	yi	言敕	auto
+𧫣	iy	敕言	auto
 𧫤	yb	言畢	auto
 𧫥	ya	言庵	auto
 𧫦	yy	医言	auto
