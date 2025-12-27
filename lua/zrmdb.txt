@@ -2706,6 +2706,7 @@
 㷱 hq
 㷲 hd
 㷳 hy
+㷳 ih
 㷴 hh
 㷴 ih
 㷵 hh
@@ -50877,6 +50878,7 @@
 𤎚 ho
 𤎚 uh
 𤎛 hy
+𤎝 hy
 𤎝 yh
 𤎞 hu
 𤎟 bh
@@ -64608,12 +64610,12 @@
 𧫜 jy
 𧫝 yw
 𧫞 yy
-𧫟 yv
+𧫟 yd
 𧫠 yj
 𧫡 yv
 𧫢 yw
-𧫣 iy
 𧫣 yi
+𧫣 iy
 𧫤 yb
 𧫥 ya
 𧫦 yy
