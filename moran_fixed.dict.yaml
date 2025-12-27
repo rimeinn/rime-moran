@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251221"
+version: "20251227"
 sort: by_weight
 columns:
   - text
@@ -100057,6 +100057,7 @@ WiFi	wifi
 玄祕	xrmi
 心如明鏡	xrmj
 閒人免進	xrmj
+玄貓	xrmk
 笑容滿面	xrmm
 選民	xrmn
 駽	xrmo
