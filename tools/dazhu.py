@@ -142,7 +142,11 @@ def main(args):
     # 拆分表
     with open('opencc/moran_chaifen.txt', 'r') as f:
         for l in f:
-            [zi, chai] = l.strip().split('\t')
+            try:
+                [zi, chai] = l.strip().split('\t')
+            except:
+                print(f'Error: cannot split line {l}')
+                continue
             table.add(zi, '拆分：' + chai.replace('.', ''))
 
     table.print_c2w(sys.stdout)
