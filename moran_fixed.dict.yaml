@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251227"
+version: "20251229"
 sort: by_weight
 columns:
   - text
@@ -142,7 +142,6 @@ AC自動機	aczj
 澳大利亞	adly
 哀的美敦書	admu
 安東尼奧	adna
-按倒葫蘆浮起瓢	adqp
 安定人心	adrx
 安第斯山脈	adsm
 安第斯山	adsu
@@ -2340,7 +2339,6 @@ AVL樹	avlu
 迸發	bgfa
 泵房	bgfh
 不敢放棄	bgfq
-白骨夫人	bgfr
 變更法人	bgfr
 辦公費用	bgfy
 包乾負責	bgfz
@@ -3214,8 +3212,8 @@ AVL樹	avlu
 板報	bjbk
 辦報	bjbk
 半斤八兩	bjbl
-不即不離	bjbl
 半百	bjbl
+不即不離	bjbl
 半邊	bjbm
 不緊不慢	bjbm
 筆記本電腦	bjbn
@@ -5967,7 +5965,6 @@ B盤	bpj
 八十出頭	buit
 不勝傳說	buiu
 杯水車薪	buix
-白上吹雪	buix
 布	buj
 備受煎熬	buja
 飽受煎熬	buja
@@ -9089,7 +9086,6 @@ C++	cjj
 從某種意義上講	cmvj
 從某種意義上	cmvu
 從某種程度上	cmvu
-從某種意義上講	cmvu
 從某種意義上說	cmvu
 摧眉折腰	cmvy
 村民委員會	cmwh
@@ -48393,6 +48389,7 @@ JK制服	jkvf
 樂於	leyu
 樂子	lezi
 浪費	lf
+兩份	lf
 流芳百世	lfbu
 聊復爾爾	lfee
 兩份	lff
@@ -52146,7 +52143,6 @@ JK制服	jkvf
 茢	lxc
 亂象叢生	lxcu
 冽	lxd
-落雪打凍	lxdd
 龍行龘龘	lxdd
 劣等	lxdg
 聯繫電話	lxdh
@@ -91986,8 +91982,6 @@ U盤	upj
 我都不想	wdbx
 爲德不卒	wdbz
 我帶點兒	wdde
-韋達定理	wddl
-萬訂大佬	wddl
 我的電腦	wddn
 我的地盤我作主	wddv
 圍點打援	wddy
@@ -103505,7 +103499,6 @@ WiFi	wifi
 一定	yd
 有點	yd
 印第安人	ydar
-印地安人	ydar
 印度阿三	ydas
 言多必敗	ydbb
 有點不便	ydbb
@@ -104414,7 +104407,6 @@ WiFi	wifi
 嚴格來說	yglu
 雁過留聲	yglu
 一國兩制	yglv
-一國兩智	yglv
 因果聯繫	yglx
 有規律可循	yglx
 一個來月	ygly
@@ -104554,7 +104546,6 @@ WiFi	wifi
 因公殉職	ygxv
 嚴格限制	ygxv
 一個下午	ygxw
-夜觀星相	ygxx
 夜觀星象	ygxx
 一個心眼	ygxy
 應該需要	ygxy
@@ -106886,7 +106877,6 @@ WiFi	wifi
 意料之外	ylvw
 一覽衆山小	ylvx
 娛樂中心	ylvx
-一攬衆山小	ylvx
 原來這樣	ylvy
 原來這樣子	ylvz
 一粒種子	ylvz
@@ -107052,14 +107042,12 @@ WiFi	wifi
 仰面朝天	ymit
 羊毛出在羊身上	ymiu
 一名成員	ymiy
-幺母絞絲弓三匕	ymjb
 英明決策	ymjc
 要麼就是	ymje
 勇猛精進	ymjj
 圓滿解決	ymjj
 夜幕降臨	ymjl
 嚴明紀律	ymjl
-悅米機械鍵盤	ymjp
 一鳴驚人	ymjr
 顏面盡失	ymju
 幽默機智	ymjv
@@ -107077,12 +107065,10 @@ WiFi	wifi
 揚名立萬	ymlw
 揚名立腕	ymlw
 元末明初	ymmi
-原末鳴初	ymmi
 倚門賣俏	ymmq
 倚門賣笑	ymmx
 遊牧民族	ymmz
 榆木腦袋	ymnd
-愚木腦袋	ymnd
 楊門女將	ymnj
 一木難支	ymnv
 亞美尼亞	ymny
@@ -107288,7 +107274,6 @@ WiFi	wifi
 飲恨	ynhf
 陰狠	ynhf
 與你何干	ynhg
-於你何干	ynhg
 銀行	ynhh
 有你好果子喫	ynhi
 隱含	ynhj
@@ -107978,7 +107963,6 @@ WiFi	wifi
 有其名無其實	yqmu
 要錢沒有	yqmy
 與去年相比	yqnb
-有錢能使磨推鬼	yqng
 搖旗吶喊	yqnh
 有錢能使鬼推磨	yqnm
 有錢難買老來瘦	yqnu
@@ -110565,7 +110549,6 @@ WiFi	wifi
 意興闌珊	yxlu
 以迅雷不及掩耳之勢	yxlu
 一笑了之	yxlv
-遊鄉郎中	yxlv
 一心兩用	yxly
 英雄模範	yxmf
 有些麻煩	yxmf

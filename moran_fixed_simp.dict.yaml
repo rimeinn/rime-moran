@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251227"
+version: "20251229"
 sort: original
 columns:
   - text
@@ -141,7 +141,6 @@ AC自动机	aczj
 澳大利亚	adly
 哀的美敦书	admu
 安东尼奥	adna
-按倒葫芦浮起瓢	adqp
 安定人心	adrx
 安第斯山脉	adsm
 安第斯山	adsu
@@ -2281,7 +2280,6 @@ AVL树	avlu
 迸发	bgfa
 泵房	bgfh
 不敢放弃	bgfq
-白骨夫人	bgfr
 变更法人	bgfr
 办公费用	bgfy
 包干负责	bgfz
@@ -3119,8 +3117,8 @@ AVL树	avlu
 板报	bjbk
 办报	bjbk
 半斤八两	bjbl
-不即不离	bjbl
 半百	bjbl
+不即不离	bjbl
 半边	bjbm
 不紧不慢	bjbm
 笔记本电脑	bjbn
@@ -5827,7 +5825,6 @@ B盘	bpj
 八十出头	buit
 不胜传说	buiu
 杯水车薪	buix
-白上吹雪	buix
 布	buj
 备受煎熬	buja
 饱受煎熬	buja
@@ -8839,7 +8836,6 @@ C++	cjj
 从某种意义上讲	cmvj
 从某种意义上	cmvu
 从某种程度上	cmvu
-从某种意义上讲	cmvu
 从某种意义上说	cmvu
 摧眉折腰	cmvy
 村民委员会	cmwh
@@ -38835,7 +38831,7 @@ JK制服	jkvf
 建材	jmcl
 健存	jmcp
 尖脆	jmcv
-剑	jmd
+剪	jmd
 简答	jmda
 剪掉	jmdc
 救命稻草	jmdc
@@ -38850,9 +38846,10 @@ JK制服	jkvf
 见到	jmdk
 剪刀	jmdk
 检点	jmdm
-剪	jmdq
+剑	jmdq
 歼	jmdq
 湔	jmdq
+剪	jmdq
 简短	jmdr
 间断	jmdr
 就没打算	jmds
@@ -46985,6 +46982,7 @@ JK制服	jkvf
 乐于	leyu
 乐子	lezi
 浪费	lf
+两份	lf
 流芳百世	lfbu
 聊复尔尔	lfee
 两份	lff
@@ -50629,7 +50627,6 @@ JK制服	jkvf
 略嫌不足	lxbz
 乱象丛生	lxcu
 冽	lxd
-落雪打冻	lxdd
 龙行龘龘	lxdd
 劣等	lxdg
 联系电话	lxdh
@@ -89486,8 +89483,6 @@ U盘	upj
 我都不想	wdbx
 为德不卒	wdbz
 我带点儿	wdde
-韦达定理	wddl
-万订大佬	wddl
 我的电脑	wddn
 我的地盘我作主	wddv
 围点打援	wddy
@@ -99837,7 +99832,7 @@ U盘	upj
 牙花	yahw
 雅黑	yahz
 压	yai
-轧差	yai a
+轧差	yaia
 丫杈	yaia
 牙床	yaid
 押车	yaie
@@ -100628,7 +100623,6 @@ U盘	upj
 一定	yd
 有点	yd
 印第安人	ydar
-印地安人	ydar
 印度阿三	ydas
 言多必败	ydbb
 有点不便	ydbb
@@ -101537,7 +101531,6 @@ U盘	upj
 严格来说	yglu
 雁过留声	yglu
 一国两制	yglv
-一国两智	yglv
 因果联系	yglx
 有规律可循	yglx
 一个来月	ygly
@@ -101676,7 +101669,6 @@ U盘	upj
 因公殉职	ygxv
 严格限制	ygxv
 一个下午	ygxw
-夜观星相	ygxx
 夜观星象	ygxx
 一个心眼	ygxy
 应该需要	ygxy
@@ -103875,7 +103867,6 @@ U盘	upj
 意料之外	ylvw
 一览众山小	ylvx
 娱乐中心	ylvx
-一揽众山小	ylvx
 原来这样	ylvy
 原来这样子	ylvz
 一粒种子	ylvz
@@ -104040,14 +104031,12 @@ U盘	upj
 仰面朝天	ymit
 羊毛出在羊身上	ymiu
 一名成员	ymiy
-幺母绞丝弓三匕	ymjb
 英明决策	ymjc
 要么就是	ymje
 勇猛精进	ymjj
 圆满解决	ymjj
 夜幕降临	ymjl
 严明纪律	ymjl
-悦米机械键盘	ymjp
 一鸣惊人	ymjr
 颜面尽失	ymju
 幽默机智	ymjv
@@ -104065,12 +104054,10 @@ U盘	upj
 扬名立万	ymlw
 扬名立腕	ymlw
 元末明初	ymmi
-原末鸣初	ymmi
 倚门卖俏	ymmq
 倚门卖笑	ymmx
 游牧民族	ymmz
 榆木脑袋	ymnd
-愚木脑袋	ymnd
 杨门女将	ymnj
 一木难支	ymnv
 亚美尼亚	ymny
@@ -104274,7 +104261,6 @@ U盘	upj
 饮恨	ynhf
 阴狠	ynhf
 与你何干	ynhg
-于你何干	ynhg
 银行	ynhh
 有你好果子吃	ynhi
 隐含	ynhj
@@ -104934,7 +104920,6 @@ U盘	upj
 有其名无其实	yqmu
 要钱没有	yqmy
 与去年相比	yqnb
-有钱能使磨推鬼	yqng
 摇旗呐喊	yqnh
 有钱能使鬼推磨	yqnm
 有钱难买老来瘦	yqnu
@@ -107443,7 +107428,6 @@ U盘	upj
 意兴阑珊	yxlu
 以迅雷不及掩耳之势	yxlu
 一笑了之	yxlv
-游乡郎中	yxlv
 一心两用	yxly
 英雄模范	yxmf
 有些麻烦	yxmf
