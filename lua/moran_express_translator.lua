@@ -1,10 +1,12 @@
 -- Moran Translator (for Express Editor)
 -- Copyright (c) 2023, 2024, 2025 ksqsf
 --
--- Ver: 0.11.0
+-- Ver: 0.12.0
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.12.0: 引入惰性加載
 --
 -- 0.11.0: 引入 quick_code_in_sentence_making 配置項。
 -- 該配置項改進了魔然最初的一項設計（造詞時禁止輸出固定選項）以維持造詞能力，
@@ -80,7 +82,9 @@ function top.init(env)
    -- Rime 組件
    env.fixed = Component.Translator(env.engine, "", "table_translator@fixed")
    env.smart = Component.Translator(env.engine, "", "script_translator@smart")
-   env.rfixed = ReverseLookup(env.engine.schema.config:get_string("fixed/dictionary") or "moran_fixed")
+   env.rfixed = moran.Thunk(function()
+         return ReverseLookup(env.engine.schema.config:get_string("fixed/dictionary") or "moran_fixed")
+   end)
 
    -- 簡快碼相關配置項
    env.quick_code_indicator = env.engine.schema.config:get_string("moran/quick_code_indicator") or "⚡️"
@@ -125,6 +129,7 @@ end
 function top.fini(env)
    env.fixed = nil
    env.smart = nil
+   env.rfixed = nil
    env.output_injected_secondary = nil
    collectgarbage()
 end
@@ -284,7 +289,7 @@ function top.func(input, seg, env)
                ijrq_enabled = false
             end
             if (ijrq_enabled and utf8.len(cand.text) == 1) then
-               local fixed_codes = env.rfixed:lookup(cand.text)
+               local fixed_codes = env.rfixed():lookup(cand.text)
                for code in fixed_codes:gmatch("%S+") do
                   if #code < 4
                      and string.sub(input, 1, #code) == code
