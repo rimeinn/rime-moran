@@ -449,4 +449,14 @@ function Module.is_reverse_lookup(env)
    return false
 end
 
+function Module.Thunk(functor)
+   local result = nil
+   return function()
+      if result == nil then
+         result = functor()
+      end
+      return result
+   end
+end
+
 return Module
