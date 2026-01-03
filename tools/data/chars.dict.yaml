@@ -4,7 +4,7 @@
 
 ---
 name: moran.chars
-version: "20251221"
+version: "20260103"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -34,6 +34,7 @@ use_preset_vocabulary: false
 亠	pp;wf	0
 亻	pp;rf	0
 冂	pp;kd	0
+囗	pp;kd	0
 冖	pp;bk	0
 冫	pp;dm	0
 凵	pp;kd	0

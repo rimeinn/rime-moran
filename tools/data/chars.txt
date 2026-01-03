@@ -104170,6 +104170,7 @@
 𳇨	meng	0	0
 𳇩	jie	0	0
 𳇫	tong	0	0
+𳇫	ling	0	0
 𳇮	du	0	0
 𳇯	heng	0	0
 𳇰	mu	0	0
