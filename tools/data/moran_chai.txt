@@ -44227,15 +44227,16 @@
 𢧛	gn	戈女	auto
 𢧜	gi	戈呈	auto
 𢧝	bg	卜戈	auto
-𢧞	dv	冫舟	auto
-𢧟	gd	戈丶	auto
-𢧠	go	戈月	auto
-𢧡	uw	上戊	auto
-𢧢	gr	戈人	auto
-𢧢	ug	十戈	auto
+𢧞	gv	戈舟	
+𢧟	gd	戈丶	
+𢧟	gp	戈丿	
+𢧠	go	戈月	
+𢧡	uw	上戊	
+𢧢	gr	戈人	
+𢧢	ug	十戈	
 𢧣	gm	戈木	auto
 𢧣	tg	土戈	auto
-𢧤	gd	戈大	auto
+𢧤	gi	戈呈	
 𢧥	gj	戈兼	auto
 𢧥	jg	兼戈	auto
 𢧦	wy	戊要	auto
