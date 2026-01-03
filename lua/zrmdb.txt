@@ -8567,6 +8567,7 @@
 匘 bx
 匙 bu
 匙 ub
+匚 aa
 匚 kd
 匛 kj
 匜 ky
