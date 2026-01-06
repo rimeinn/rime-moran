@@ -467,3 +467,4 @@ __include: moran:/octagram/enable_for_sentence
 # patch:
 #   __include: moran:/octagram/disable
  
+__patch: moran.custom:/patch?
