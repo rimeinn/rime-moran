@@ -1503,6 +1503,8 @@ use_preset_vocabulary: false
 㝲	qn;bj	0
 㝴	wj;cy	0
 㝵	de;cd	0
+㝵	ai;cd	0
+㝵	dz;cd	0
 㝶	ai;ce	0
 㝶	ai;sc	0
 㝶	de;ce	0
@@ -11833,7 +11835,6 @@ use_preset_vocabulary: false
 刬	ij;dj	0
 刭	jy;dg	0
 刮	gw;du	1975
-刮	ka;du	0
 刯	gg;dg	220
 到	dk;dv	297457
 刱	id;jb	242
@@ -58694,11 +58695,11 @@ use_preset_vocabulary: false
 𢧙	ys;yg	0
 𢧛	ji;bg	0
 𢧛	ji;gn	0
-𢧜	go;gi	0
-𢧜	ju;gi	0
+𢧜	vi;gi	0
 𢧝	ff;bg	0
-𢧞	mx;dv	0
+𢧞	mx;gv	0
 𢧟	mk;gd	0
+𢧟	mk;go	0
 𢧠	ji;go	0
 𢧠	ze;go	0
 𢧡	sv;uw	0
@@ -58706,7 +58707,7 @@ use_preset_vocabulary: false
 𢧢	ji;ug	0
 𢧣	zj;gm	0
 𢧣	zj;tg	0
-𢧤	vi;gd	0
+𢧤	vi;gi	0
 𢧥	qm;gj	0
 𢧥	qm;jg	0
 𢧦	hj;wy	0
@@ -121148,7 +121149,7 @@ use_preset_vocabulary: false
 𲐠	qu;ra	0
 𲐠	qu;rt	0
 𲐡	jw;rx	0
-𲐡	jx;rx	0
+𲐡	si;rx	0
 𲐢	ci;rr	0
 𲐢	ci;rs	0
 𲐣	ky;aj	0
