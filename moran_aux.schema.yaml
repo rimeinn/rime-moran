@@ -414,3 +414,5 @@ moran:
 
 # 默認啓用語言模型
 __include: moran:/octagram/enable_for_sentence
+
+__patch: moran_aux.custom:/patch?
