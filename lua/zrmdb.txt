@@ -2973,7 +2973,8 @@
 㻲 wl
 㻳 wl
 㻴 wm
-㻵 wc
+㻵 wi
+㻵 wz
 㻶 wb
 㻷 wj
 㻸 wo
@@ -34254,7 +34255,8 @@
 𠘅 dq
 𠘆 ds
 𠘇 dv
-𠘈 dc
+𠘈 di
+𠘈 dz
 𠘉 dj
 𠘊 dn
 𠘋 dd
@@ -34789,7 +34791,8 @@
 𠟇 dj
 𠟈 db
 𠟈 bd
-𠟉 dc
+𠟉 di
+𠟉 dz
 𠟊 dy
 𠟊 dx
 𠟋 dy
@@ -43796,7 +43799,8 @@
 𢡾 xo
 𢡿 xm
 𢢀 xj
-𢢁 xc
+𢢁 xi
+𢢁 xz
 𢢂 xj
 𢢃 mx
 𢢃 xr
@@ -45053,7 +45057,8 @@
 𢵑 fl
 𢵒 fi
 𢵓 fp
-𢵔 fc
+𢵔 fi
+𢵔 fz
 𢵕 fn
 𢵖 fb
 𢵗 fj
@@ -56163,7 +56168,8 @@
 𥢥 hc
 𥢦 hh
 𥢧 ho
-𥢨 hc
+𥢨 hi
+𥢨 hz
 𥢩 hx
 𥢭 hb
 𥢮 hh
@@ -68716,7 +68722,8 @@
 𨬓 jy
 𨬔 jr
 𨬕 jx
-𨬖 jc
+𨬖 ji
+𨬖 jz
 𨬗 jx
 𨬘 jm
 𨬙 ji
@@ -74035,7 +74042,8 @@
 𩻡 yt
 𩻢 ry
 𩻢 yi
-𩻣 yc
+𩻣 yi
+𩻣 yz
 𩻤 yh
 𩻥 yj
 𩻦 yx
@@ -77240,7 +77248,8 @@
 𪩎 uy
 𪩏 ul
 𪩓 uh
-𪩖 uc
+𪩖 ui
+𪩖 uz
 𪩗 uj
 𪩘 ux
 𪩚 uh
@@ -79432,7 +79441,8 @@
 𫔍 jf
 𫔎 jy
 𫔎 jk
-𫔏 jc
+𫔏 ji
+𫔏 jz
 𫔐 jg
 𫔑 jd
 𫔒 jx
@@ -93041,7 +93051,8 @@
 𰺛 ix
 𰺜 if
 𰺝 it
-𰺞 ic
+𰺞 ii
+𰺞 iz
 𰺟 ii
 𰺠 ix
 𰺡 ig
@@ -94376,7 +94387,8 @@
 𱔧 kv
 𱔩 ig
 𱔪 kv
-𱔯 kc
+𱔯 ki
+𱔯 kz
 𱔱 kf
 𱕀 kk
 𱕋 ks
@@ -98870,7 +98882,8 @@
 𲿵 is
 𲿶 id
 𲿶 di
-𲿷 ic
+𲿷 ii
+𲿷 iz
 𲿹 il
 𲿻 pi
 𲿻 ip
@@ -99887,6 +99900,8 @@
 𪜭 ry
 𱰜 yg
 𠜠 dk
+𦠳 oi
+𦠳 oz
 𣮚 mf
 𣴅 df
 𨯾 jj
