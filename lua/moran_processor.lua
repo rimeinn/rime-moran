@@ -2,7 +2,7 @@
 -- Synopsis: 適用於魔然方案默認模式的按鍵處理器
 -- Author: ksqsf
 -- License: MIT license
--- Version: 0.4.3
+-- Version: 0.4.4
 
 -- 主要功能：
 -- 1. 選擇第二個首選項，但可用於跳過 emoji 濾鏡產生的候選
@@ -11,6 +11,7 @@
 -- 4. shorthand 略碼
 
 -- ChangeLog:
+--  0.4.4: 允許 Ctrl+L 拆開四碼
 --  0.4.3: 修復 Ctrl+L 的單字判別條件
 --  0.4.2: 放鬆取出輔助碼的條件，Ctrl+O 用於取出輔助碼
 --  0.4.1: Ctrl+L 增加對 yyxxo 的支持
@@ -164,6 +165,10 @@ local function force_segmentation_processor(key_event, env)
       ctx.input = ctx.input:sub(1, seg._start) .. raw:sub(1,2) .. "'" .. raw:sub(3,5) .. ctx.input:sub(seg._end + 1, -1)
    elseif preedit:match("^[a-z][a-z][a-z][ '][a-z][a-z][a-z]$") or input:match("^[a-z][a-z][a-z]'[a-z][a-z][a-z]$") then -- 3-3
       ctx.input = ctx.input:sub(1, seg._start) .. raw:sub(1,2) .. "'" .. raw:sub(3,4) .. "'" .. raw:sub(5,6) .. ctx.input:sub(seg._end + 1, -1)
+   elseif preedit:match("^[a-z][a-z][a-z][a-z]$") then
+      ctx.input = raw:sub(1, 2) .. "'" .. raw:sub(3,4)
+   elseif ctx.input:match("^[a-z][a-z]'[a-z][a-z]$") then
+      ctx.input = raw
    else
       return kNoop
    end
