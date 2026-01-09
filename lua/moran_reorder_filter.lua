@@ -1,10 +1,12 @@
 -- Moran Reorder Filter
 -- Copyright (c) 2023, 2024, 2025 ksqsf
 --
--- Ver: 0.2.1
+-- Ver: 0.2.2
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.2.2: 進一步放寬匹配條件，允許多字詞候選被重排。
 --
 -- 0.2.1: 放寬匹配條件，允許帶輔的候選也被重排。
 --
@@ -129,9 +131,13 @@ function Top.CandidateMatch(scand, fcand)
    -- case where the scand is NOT really a complete candidate (for
    -- example, only "qt" is translated by the script translator when
    -- the input is actually "qty".)
+   local spreedit = scand.preedit
+   local fpreedit = fcand.preedit
    return scand.text == fcand.text and
-      ((#scand.preedit == #fcand.preedit and scand.preedit == fcand.preedit) or
-       (#scand.preedit == #fcand.preedit + 1 and scand.preedit:gsub('%s', '') == fcand.preedit))
+      (spreedit == fpreedit or
+       ((#fpreedit <= #spreedit and
+         #fpreedit >= #spreedit - (#spreedit + 1) // 3 + 1)
+       and spreedit:gsub('%s', '') == fpreedit))
 end
 
 local function reorderable(cand)
