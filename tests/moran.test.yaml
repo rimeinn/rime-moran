@@ -177,6 +177,11 @@ deploy:
       # 單字
       - send: 'mumho{Control+l}'
         assert: eq(preedit, "mu'mho")
+      # 四碼
+      - send: 'jism{Control+l}'
+        assert: eq(preedit, "ji'sm")
+      - send: 'jism{Control+l}{Control+l}'
+        assert: eq(preedit, 'jism')
 
   steal_auxcode:
     tests:
