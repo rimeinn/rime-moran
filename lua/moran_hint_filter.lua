@@ -1,10 +1,12 @@
 -- Moran Translator (for Express Editor)
--- Copyright (c) 2023, 2024, 2025 ksqsf
+-- Copyright (c) 2023-2026 ksqsf
 --
--- Ver: 0.3.0
+-- Ver: 0.4.0
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.4.0: 適配多字詞重排。
 --
 -- 0.3.0: 增加 quick_code_hint_indicator 選項
 --
@@ -109,7 +111,7 @@ function Module.get_quickcode_hint(env, cand, gcand)
    local codes = {}
    for code in all_codes:gmatch("%S+") do
       if #code < 4 or (env.inject_fixed_words and len >= 3) then
-         if code == cand.preedit then
+         if code == cand.preedit:gsub("%s", "") then
             in_use = true
          else
             table.insert(codes, code)
