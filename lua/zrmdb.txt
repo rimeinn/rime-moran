@@ -1569,7 +1569,8 @@
 㧇 fa
 㧈 fg
 㧉 fq
-㧊 fk
+㧊 ff
+㧊 fj
 㧋 fq
 㧌 fm
 㧍 ff
@@ -2768,7 +2769,8 @@
 㸩 ng
 㸪 ni
 㸫 nj
-㸬 nk
+㸬 nf
+㸬 nj
 㸭 nb
 㸮 nf
 㸯 nd
@@ -4409,7 +4411,8 @@
 䑒 vr
 䑓 vb
 䑓 cv
-䑔 jk
+䑔 jf
+䑔 jj
 䑕 jy
 䑕 ja
 䑕 jf
@@ -5363,7 +5366,8 @@
 䟘 zk
 䟙 zq
 䟚 zq
-䟛 zk
+䟛 zf
+䟛 zj
 䟜 zn
 䟝 zu
 䟞 zu
@@ -5548,6 +5552,7 @@
 䢊 zz
 䢋 zq
 䢌 zf
+䢌 zj
 䢍 zf
 䢎 zk
 䢐 zq
@@ -5643,7 +5648,8 @@
 䣧 yy
 䣨 ya
 䣩 yt
-䣪 yk
+䣪 yf
+䣪 yj
 䣫 yv
 䣬 yg
 䣭 yq
@@ -6516,7 +6522,8 @@
 䰺 yj
 䰻 yw
 䰼 yj
-䰽 yk
+䰽 yf
+䰽 yj
 䰾 yb
 䰿 yy
 䱀 yy
@@ -36143,7 +36150,8 @@
 𠰹 ky
 𠰺 kd
 𠰻 kw
-𠰼 kk
+𠰼 kf
+𠰼 kj
 𠰽 kj
 𠰾 kj
 𠰿 kd
@@ -41421,7 +41429,8 @@
 𢂋 jk
 𢂋 wd
 𢂍 jp
-𢂏 uk
+𢂏 ff
+𢂏 aj
 𢂐 jl
 𢂑 ju
 𢂒 jy
@@ -41445,7 +41454,8 @@
 𢂡 jg
 𢂢 jl
 𢂣 jc
-𢂤 ub
+𢂤 fb
+𢂤 ab
 𢂥 jl
 𢂦 bj
 𢂦 jo
@@ -41469,6 +41479,8 @@
 𢂴 jv
 𢂵 jj
 𢂶 jj
+𢂷 fh
+𢂷 ah
 𢂷 uh
 𢂸 ja
 𢂸 pj
@@ -45466,9 +45478,9 @@
 𢻳 pf
 𢻴 pt
 𢻴 tp
-𢻵 pu
-𢻵 up
-𢻵 pk
+𢻵 pf
+𢻵 pj
+𢻵 ap
 𢻶 pj
 𢻶 jp
 𢻷 pb
@@ -45493,7 +45505,9 @@
 𢼃 wg
 𢼄 hw
 𢼅 yw
-𢼆 uw
+𢼆 wf
+𢼆 wj
+𢼆 aw
 𢼇 yw
 𢼈 pw
 𢼉 wt
@@ -48961,8 +48975,10 @@
 𣬨 mj
 𣬩 mf
 𣬩 fm
-𣬪 mk
-𣬪 um
+𣬪 mf
+𣬪 mj
+𣬪 fm
+𣬪 am
 𣬫 mj
 𣬬 mj
 𣬭 km
@@ -51779,8 +51795,10 @@
 𤜯 qj
 𤜰 qj
 𤜱 qb
-𤜲 qk
-𤜲 uq
+𤜲 qf
+𤜲 qj
+𤜲 fq
+𤜲 aq
 𤜳 qb
 𤜳 qj
 𤜴 qb
@@ -53772,7 +53790,8 @@
 𤽉 bf
 𤽊 bb
 𤽋 ba
-𤽌 bk
+𤽌 bf
+𤽌 bj
 𤽍 bq
 𤽎 by
 𤽏 bb
@@ -54380,7 +54399,8 @@
 𥄒 oh
 𥄓 ob
 𥄓 bo
-𥄔 ok
+𥄔 of
+𥄔 oj
 𥄕 oc
 𥄕 co
 𥄖 ou
@@ -57721,7 +57741,8 @@
 𥾥 sy
 𥾥 ys
 𥾦 sq
-𥾧 sk
+𥾧 sf
+𥾧 sj
 𥾨 sq
 𥾩 fs
 𥾩 sf
@@ -60144,7 +60165,8 @@
 𦥞 jq
 𦥟 jb
 𦥠 jy
-𦥡 jk
+𦥡 jf
+𦥡 jj
 𦥢 ge
 𦥣 jy
 𦥤 aw
@@ -63301,7 +63323,8 @@
 𧘜 yq
 𧘝 ym
 𧘞 yd
-𧘟 yk
+𧘟 yf
+𧘟 yj
 𧘠 yf
 𧘡 yu
 𧘢 yh
@@ -64067,7 +64090,8 @@
 𧢼 pj
 𧢽 jh
 𧢾 jw
-𧢿 jk
+𧢿 jf
+𧢿 jj
 𧣀 jp
 𧣁 jb
 𧣂 je
@@ -65659,7 +65683,8 @@
 𧺞 zq
 𧺟 zb
 𧺠 zv
-𧺡 zk
+𧺡 zf
+𧺡 zj
 𧺢 zu
 𧺣 zc
 𧺤 zj
@@ -71673,7 +71698,8 @@
 𩖩 fy
 𩖪 fj
 𩖬 ff
-𩖭 fk
+𩖭 ff
+𩖭 fj
 𩖮 fq
 𩖯 fn
 𩖰 fw
@@ -79541,7 +79567,8 @@
 𫖈 yg
 𫖉 gy
 𫖋 gd
-𫖍 wk
+𫖍 wf
+𫖍 wj
 𫖎 wj
 𫖎 jw
 𫖏 wm
@@ -79872,7 +79899,8 @@
 𫜗 ml
 𫜘 hf
 𫜘 hj
-𫜘 uh
+𫜘 fh
+𫜘 ah
 𫜙 hm
 𫜛 hf
 𫜞 hm
@@ -81438,7 +81466,8 @@
 𫻩 gf
 𫻪 gx
 𫻫 gu
-𫻭 gk
+𫻭 gf
+𫻭 gj
 𫻮 gg
 𫻯 gr
 𫻲 gq
@@ -89832,7 +89861,8 @@
 𮳚 hy
 𮳛 hf
 𮳜 hx
-𮳝 hk
+𮳝 hf
+𮳝 hj
 𮳠 hf
 𮳢 ha
 𮳣 hd
@@ -92402,7 +92432,8 @@
 𰮅 ox
 𰮆 rs
 𰮇 ow
-𰮈 rk
+𰮈 rf
+𰮈 rj
 𰮉 rb
 𰮋 oj
 𰮌 go
