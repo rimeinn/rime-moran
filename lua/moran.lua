@@ -53,10 +53,9 @@ function Module.load_zrmdb()
       key = utf8.codepoint(key)
       if key and value then
          if aux_table[key] == nil then
-            aux_table[key] = value
-         else
-            aux_table[key] = aux_table[key] .. " " .. value
+            aux_table[key] = ""
          end
+         aux_table[key] = aux_table[key] .. " " .. value
       end
    end
    file:close()
