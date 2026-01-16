@@ -42,13 +42,18 @@ update_compact_dict() {
     fi
 }
 
-for dict in "${compact_dicts[@]}"; do
-    echo ""
+job() {
+    local dict="$1"
     echo "* Updating $dict"
-    if update_compact_dict "$dict"
-    then
-        echo "  success"
+    if update_compact_dict "$dict"; then
+        echo "  $dict success"
     else
-        echo "  ERROR!"
+        echo "  $dict ERROR!"
     fi
+}
+
+for dict in "${compact_dicts[@]}"; do
+    job "$dict" &
 done
+
+wait

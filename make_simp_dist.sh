@@ -55,22 +55,15 @@ wait
 
 uv run tools/update_compact_dicts.sh yes
 
-sedi () {
-    case $(uname -s) in
-        *[Dd]arwin* | *BSD* ) sed -i '' "$@";;
-        *) sed -i "$@";;
-    esac
-}
-
-
 ########################################################################
 # 替換碼表
 # 简体版中首选使用 moran_fixed_simp 码表
 ########################################################################
 echo 替換碼表...
-sedi 's/dictionary: moran_fixed/dictionary: moran_fixed_simp/' moran_fixed.schema.yaml
-sedi 's/dictionary: moran_fixed/dictionary: moran_fixed_simp/' moran_aux.schema.yaml 
-sedi 's/dictionary: moran_fixed/dictionary: moran_fixed_simp/' moran.schema.yaml 
+
+perl -i -pe 's/dictionary: moran_fixed/dictionary: moran_fixed_simp/' moran_fixed.dict.yaml
+perl -i -pe 's/dictionary: moran_fixed/dictionary: moran_fixed_simp/' moran_aux.schema.yaml
+perl -i -pe 's/dictionary: moran_fixed/dictionary: moran_fixed_simp/' moran.schema.yaml
 
 
 ########################################################################
@@ -82,8 +75,8 @@ rm zh-hant-t-essay-bg{c,w}.gram
 wget 'https://github.com/lotem/rime-octagram-data/raw/hans/zh-hans-t-essay-bgc.gram' -O zh-hans-t-essay-bgc.gram &
 wget 'https://github.com/lotem/rime-octagram-data/raw/hans/zh-hans-t-essay-bgw.gram' -O zh-hans-t-essay-bgw.gram &
 wait
-sedi 's/zh-hant-t-essay-bgw/zh-hans-t-essay-bgw/' moran.yaml
-sedi 's/zh-hant-t-essay-bgc/zh-hans-t-essay-bgc/' moran.yaml
+perl -i -pe 's/zh-hant-t-essay-bgw/zh-hans-t-essay-bgw/' moran.yaml
+perl -i -pe 's/zh-hant-t-essay-bgc/zh-hans-t-essay-bgc/' moran.yaml
 
 
 ########################################################################
@@ -91,11 +84,11 @@ sedi 's/zh-hant-t-essay-bgc/zh-hans-t-essay-bgc/' moran.yaml
 # 繁体版中 opencc 转换用于繁转简，简体版中改为简转繁
 ########################################################################
 for f in *.schema.yaml moran.yaml ; do
-    sedi 's/simplification/traditionalization/' $f
-    sedi 's/漢字, 汉字/汉字, 漢字/' $f
-    sedi 's/moran_t2s.json/s2t.json/' $f
+    perl -i -pe 's/simplification/traditionalization/' $f
+    perl -i -pe 's/漢字, 汉字/汉字, 漢字/' $f
+    perl -i -pe 's/moran_t2s.json/s2t.json/' $f
 done
-sedi 's|(env.engine.context:get_option("simplification") == true)|(env.engine.context:get_option("traditionalization") == false)|' lua/moran_processor.lua
+perl -i -pe 's|(env.engine.context:get_option("simplification") == true)|(env.engine.context:get_option("traditionalization") == false)|' lua/moran_processor.lua
 
 ########################################################################
 # 替换 emoji 用字为简体字
