@@ -69,7 +69,7 @@ function Module.get_auxcode_hint(env, cand, gcand)
       if not codes then
          return nil
       end
-      return codes
+      return codes:sub(2)
    elseif len ~= 1 and env.is_auxfilter and (gcand.type == "phrase" or gcand.type == "user_phrase") then
       result = ""
       for i, cp in moran.codepoints(gcand.text) do
