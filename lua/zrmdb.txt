@@ -12998,8 +12998,8 @@
 愘 xk
 愙 xk
 愚 xy
-愛 vw
 愛 xw
+愛 vw
 愜 xj
 愝 xn
 愝 xy
@@ -32269,8 +32269,8 @@
 黁 mx
 黂 mb
 黃 cb
-黄 ad
 黄 cb
+黄 ad
 黅 hj
 黆 hg
 黆 hy
