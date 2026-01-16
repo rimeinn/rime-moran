@@ -422,11 +422,9 @@ function Module.candidate_match(env, cand, aux)
          if not first_auxcodes then return false end
          local last_auxcodes = env.aux_table[last]
          if not last_auxcodes then return false end
-         local all_auxcodes = first_auxcodes .. ";" .. last_auxcodes
-         local word_aux_pat1 = " " .. aux:sub(1,1) .. ".*;.* " .. aux:sub(2,2)
-         if all_auxcodes:match(word_aux_pat1) then return true end
-         local word_aux_pat2 = " " .. aux:sub(2,2) .. ".*;.* " .. aux:sub(1,1)
-         if all_auxcodes:match(word_aux_pat2) then return true end
+         local a1 = aux:sub(1,1)
+         local a2 = aux:sub(2,2)
+         return (first_auxcodes:match(a1) and last_auxcodes:match(a2)) or (first_auxcodes:match(a2) and last_auxcodes:match(a1))
       end
    elseif env.is_aux_for_first then
       return Module.char_match(env, first, vaux)
