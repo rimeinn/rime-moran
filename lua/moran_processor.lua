@@ -194,7 +194,7 @@ local shorthands = {
       end
    end,
    [string.byte("Q")] = function(env, s)
-      if (env.engine.context:get_option("traditionalization") == false) then
+      if (env.engine.context:get_option("simplification") == true) then
          return s .. "来" .. s .. "去"
       else
          return s .. "來" .. s .. "去"
