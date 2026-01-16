@@ -1369,7 +1369,7 @@
 㤂	xj	心及	auto
 㤃	xf	忄方	auto
 㤄	xf	忄巿	
-㤄	xj	忄巾
+㤄	xj	忄巾	
 㤅	xw	心{无}	
 㤆	xf	心反	auto
 㤇	xy	心夭	auto
@@ -1580,7 +1580,8 @@
 㧇	fa	扌一	auto
 㧈	fg	扌弓	auto
 㧉	fq	扌气	auto
-㧊	fk	扌冂	auto
+㧊	ff	扌巿	
+㧊	fj	扌巾	
 㧋	fq	扌犬	auto
 㧌	fm	扌毛	auto
 㧍	ff	扌方	auto
@@ -2779,7 +2780,8 @@
 㸩	ng	牛干	auto
 㸪	ni	牛川	auto
 㸫	nj	牛斤	auto
-㸬	nk	牛冂	auto
+㸬	nf	牛巿	
+㸬	nj	牛巾	
 㸭	nb	牛巴	auto
 㸮	nf	牛分	auto
 㸯	nd	牛斗	auto
@@ -4420,7 +4422,8 @@
 䑒	vr	至刃	
 䑓	vb	至冖	auto
 䑓	cv	艹至	auto
-䑔	jk	臼冂	auto
+䑔	jf	臼巿	
+䑔	jj	臼巾	
 䑕	jy	臼用	
 䑕	ja	臼丨	
 䑕	jf	臼𰀁	
@@ -5374,7 +5377,8 @@
 䟘	zk	足亢	auto
 䟙	zq	足切	auto
 䟚	zq	足亓	auto
-䟛	zk	足冂	auto
+䟛	zf	足巿	
+䟛	zj	足巾	
 䟜	zn	足内	auto
 䟝	zu	足殳	auto
 䟞	zu	足少	auto
@@ -5558,7 +5562,8 @@
 䢉	ji	臼辰	
 䢊	zz	辶子	auto
 䢋	zq	辶丌	auto
-䢌	zf	辶巿	auto
+䢌	zf	辶巿	
+䢌	zj	辶巾	
 䢍	zf	辶方	auto
 䢎	zk	辶开	
 䢐	zq	辶且	auto
@@ -5654,7 +5659,8 @@
 䣧	yy	酉弋	auto
 䣨	ya	酉一	auto
 䣩	yt	酉屯	auto
-䣪	yk	酉冂	auto
+䣪	yf	酉巿	
+䣪	yj	酉巾	
 䣫	yv	酉支	auto
 䣬	yg	酉戈	auto
 䣭	yq	酉犬	auto
@@ -6527,7 +6533,8 @@
 䰺	yj	魚斤	auto
 䰻	yw	魚攵	auto
 䰼	yj	魚今	auto
-䰽	yk	魚冂	auto
+䰽	yf	魚巿	
+䰽	yj	魚巾	
 䰾	yb	魚巴	auto
 䰿	yy	魚也	auto
 䱀	yy	魚央	auto
@@ -13002,8 +13009,8 @@
 愘	xk	忄客	
 愙	xk	心客	
 愚	xy	心禺	
-愛	vw	爫夊	
 愛	xw	心夊	
+愛	vw	爫夊	
 愜	xj	忄夾	
 愝	xn	忄女	
 愝	xy	忄匽	
@@ -30732,8 +30739,8 @@
 馴	mi	馬川	
 馵	mc	馬廾	
 馶	mv	馬支	
-馷	mf	饣巿	
-馷	mj	饣巾	
+馷	mf	馬巿	
+馷	mj	馬巾	
 馸	mj	馬斤	
 馹	mo	馬日	
 馺	mj	馬及	
@@ -32273,8 +32280,8 @@
 黁	mx	麻香	
 黂	mb	麻賁	
 黃	cb	廿八	
-黄	ad	一八	
 黄	cb	{廿}八	
+黄	ad	一八	
 黅	hj	黄今	
 黆	hg	黄乚	
 黆	hy	黄冘	
@@ -36154,7 +36161,8 @@
 𠰹	ky	口也	auto
 𠰺	kd	口代	auto
 𠰻	kw	口外	auto
-𠰼	kk	口冂	auto
+𠰼	kf	口巿	
+𠰼	kj	口巾	
 𠰽	kj	口几	auto
 𠰾	kj	口几	auto
 𠰿	kd	口丶	auto
@@ -41432,7 +41440,8 @@
 𢂋	jk	巾口	auto
 𢂋	wd	亠吊	auto
 𢂍	jp	巾丿	auto
-𢂏	uk	十冂	auto
+𢂏	ff	巿巿	
+𢂏	aj	一巾	
 𢂐	jl	巾力	auto
 𢂑	ju	巾式	auto
 𢂒	jy	巾夷	auto
@@ -41456,7 +41465,8 @@
 𢂡	jg	巾亘	auto
 𢂢	jl	巾老	auto
 𢂣	jc	巾存	auto
-𢂤	ub	十犮	auto
+𢂤	fb	巿犮	
+𢂤	ab	一犮	
 𢂥	jl	巾列	auto
 𢂦	bj	卜巾	auto
 𢂦	jo	巾日	auto
@@ -41480,7 +41490,9 @@
 𢂴	jv	巾志	auto
 𢂵	jj	巾戒	auto
 𢂶	jj	巾冏	auto
-𢂷	uh	市合	auto
+𢂷	fh	巿合	
+𢂷	ah	一合	
+𢂷	uh	市合	
 𢂸	ja	巾一	auto
 𢂸	pj	丿巾	auto
 𢂹	je	巾儿	auto
@@ -45477,9 +45489,9 @@
 𢻳	pf	攴夫	auto
 𢻴	pt	攴屯	auto
 𢻴	tp	屯攴	auto
-𢻵	pu	攴市	
-𢻵	up	十攴	auto
-𢻵	pk	攴冂	auto
+𢻵	pf	攴巿	
+𢻵	pj	攴巾	
+𢻵	ap	一攴	
 𢻶	pj	攴今	auto
 𢻶	jp	今攴	auto
 𢻷	pb	攴巴	auto
@@ -45504,7 +45516,9 @@
 𢼃	wg	攵勾	
 𢼄	hw	户攵	auto
 𢼅	yw	又攵	auto
-𢼆	uw	十攵	auto
+𢼆	wf	攵巿	
+𢼆	wj	攵巾	
+𢼆	aw	一攵	
 𢼇	yw	匀攵	auto
 𢼈	pw	丿攵	auto
 𢼉	wt	攵台	
@@ -48972,8 +48986,10 @@
 𣬨	mj	毛久	auto
 𣬩	mf	毛分	auto
 𣬩	fm	分毛	auto
-𣬪	mk	毛冂	auto
-𣬪	um	十毛	auto
+𣬪	mf	毛巿	
+𣬪	mj	毛巾	
+𣬪	fm	巿毛	
+𣬪	am	一毛	
 𣬫	mj	毛介	auto
 𣬬	mj	毛及	auto
 𣬭	km	冂毛	auto
@@ -51790,8 +51806,10 @@
 𤜯	qj	犭及	auto
 𤜰	qj	犭今	auto
 𤜱	qb	犭巴	auto
-𤜲	qk	犬冂	auto
-𤜲	uq	十犬	auto
+𤜲	qf	犬巿	
+𤜲	qj	犬巾	
+𤜲	fq	巿犬	
+𤜲	aq	一犬	
 𤜳	qb	犭{币}	
 𤜳	qj	犭巾	
 𤜴	qb	犭冖	auto
@@ -53783,7 +53801,8 @@
 𤽉	bf	白分	auto
 𤽊	bb	白比	auto
 𤽋	ba	白一	auto
-𤽌	bk	白冂	auto
+𤽌	bf	白巿	
+𤽌	bj	白巾	
 𤽍	bq	白气	auto
 𤽎	by	白云	auto
 𤽏	bb	白比	auto
@@ -54391,7 +54410,8 @@
 𥄒	oh	目化	auto
 𥄓	ob	目不	auto
 𥄓	bo	不目	auto
-𥄔	ok	目冂	auto
+𥄔	of	目巿	
+𥄔	oj	目巾	
 𥄕	oc	目卝	auto
 𥄕	co	卝目	auto
 𥄖	ou	目十	auto
@@ -57732,7 +57752,8 @@
 𥾥	sy	糸爻	auto
 𥾥	ys	爻糸	auto
 𥾦	sq	糸亓	auto
-𥾧	sk	糸冂	auto
+𥾧	sf	糸巿	
+𥾧	sj	糸巾	
 𥾨	sq	糸气	auto
 𥾩	fs	反糸	auto
 𥾩	sf	糸反	auto
@@ -60155,7 +60176,8 @@
 𦥞	jq	臼欠	auto
 𦥟	jb	臼冖	auto
 𦥠	jy	臼又	auto
-𦥡	jk	臼冂	auto
+𦥡	jf	臼巿	
+𦥡	jj	臼巾	
 𦥢	ge	勹二	auto
 𦥣	jy	臼尤	auto
 𦥤	aw	丨万	auto
@@ -63312,7 +63334,8 @@
 𧘜	yq	衤千	auto
 𧘝	ym	衣毛	auto
 𧘞	yd	衤斗	auto
-𧘟	yk	衤冂	auto
+𧘟	yf	衤巿	
+𧘟	yj	衤巾	
 𧘠	yf	衣分	auto
 𧘡	yu	衤少	auto
 𧘢	yh	衤互	auto
@@ -64078,7 +64101,8 @@
 𧢼	pj	爿角	auto
 𧢽	jh	角化	auto
 𧢾	jw	角旡	auto
-𧢿	jk	角冂	auto
+𧢿	jf	角巿	
+𧢿	jj	角巾	
 𧣀	jp	角攴	auto
 𧣁	jb	角冖	auto
 𧣂	je	角厄	auto
@@ -65670,7 +65694,8 @@
 𧺞	zq	走气	auto
 𧺟	zb	走冖	auto
 𧺠	zv	走止	auto
-𧺡	zk	走冂	auto
+𧺡	zf	走巿	
+𧺡	zj	走巾	
 𧺢	zu	走殳	auto
 𧺣	zc	走从	auto
 𧺤	zj	走九	auto
@@ -71684,7 +71709,8 @@
 𩖩	fy	風又	auto
 𩖪	fj	風及	auto
 𩖬	ff	夫風	auto
-𩖭	fk	風冂	auto
+𩖭	ff	風巿	
+𩖭	fj	風巾	
 𩖮	fq	風犬	auto
 𩖯	fn	風内	auto
 𩖰	fw	風文	auto
@@ -79552,7 +79578,8 @@
 𫖈	yg	羽革	auto
 𫖉	gy	革用	auto
 𫖋	gd	革殿	auto
-𫖍	wk	韋冂	auto
+𫖍	wf	韋巿	
+𫖍	wj	韋巾	
 𫖎	wj	韋京	auto
 𫖎	jw	京韋	auto
 𫖏	wm	韋曼	auto
@@ -79883,7 +79910,8 @@
 𫜗	ml	麻例	auto
 𫜘	hf	黄巿	
 𫜘	hj	黄巾	
-𫜘	uh	十黄	
+𫜘	fh	巿黄	
+𫜘	ah	一黄	
 𫜙	hm	黑黾	auto
 𫜛	hf	黑飛	auto
 𫜞	hm	黑黽	auto
@@ -81449,7 +81477,8 @@
 𫻩	gf	戈丰	auto
 𫻪	gx	戈心	auto
 𫻫	gu	戈示	auto
-𫻭	gk	戈冂	auto
+𫻭	gf	戈巿	
+𫻭	gj	戈巾	
 𫻮	gg	戈圭	auto
 𫻯	gr	戈肉	auto
 𫻲	gq	戈求	auto
@@ -89843,7 +89872,8 @@
 𮳚	hy	火于	auto
 𮳛	hf	火飞	auto
 𮳜	hx	火习	auto
-𮳝	hk	火冂	auto
+𮳝	hf	火巿	
+𮳝	hj	火巾	
 𮳠	hf	火风	auto
 𮳢	ha	火一	auto
 𮳣	hd	火东	auto
@@ -92413,7 +92443,8 @@
 𰮅	ox	月乡	auto
 𰮆	rs	肉巳	auto
 𰮇	ow	月无	auto
-𰮈	rk	肉冂	auto
+𰮈	rf	肉巿	
+𰮈	rj	肉巾	
 𰮉	rb	肉不	auto
 𰮋	oj	月几	auto
 𰮌	go	勹月	auto
