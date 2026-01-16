@@ -2,7 +2,9 @@
 --
 -- Author: ksqsf
 -- License: GPLv3
--- Version: 0.2.2
+-- Version: 0.3.0
+--
+-- 0.3.0: 優化性能。
 --
 -- 0.2.2: 支持 tab 跳轉。
 --
@@ -400,18 +402,61 @@ function Module.candidate_match(env, cand, aux)
    if not cand then
       return nil
    end
-   if not (cand.type == "phrase" or cand.type == "user_phrase") then
+   if not (cand.type == "phrase" or cand.type == "user_phrase") or #cand.text == 0 then
       return false
    end
 
-   for i, gt in pairs(Module.aux_list(env, cand.text)) do
-      if aux == gt then
+   -- 'vaux' means '^aux'; it is meant to match the beginning of an
+   -- auxcode
+   local vaux = " " .. aux
+   local word = cand.text
+   local first, last = Module.get_first_and_last_codepoints(word)
+
+   -- Check if they match
+   if env.is_aux_for_any then
+      if Module.char_match(env, first, vaux) or Module.char_match(env, last, vaux) then
          return true
       end
+      if #aux == 2 then    -- word aux, the code style is meant to minimize object creation
+         local first_auxcodes = env.aux_table[first]
+         if not first_auxcodes then return false end
+         local last_auxcodes = env.aux_table[last]
+         if not last_auxcodes then return false end
+         local a1 = aux:sub(1,1)
+         local a2 = aux:sub(2,2)
+         return (first_auxcodes:match(a1) and last_auxcodes:match(a2)) or (first_auxcodes:match(a2) and last_auxcodes:match(a1))
+      end
+   elseif env.is_aux_for_first then
+      return Module.char_match(env, first, vaux)
+   elseif env.is_aux_for_last then  -- this is stupid, why do we even support this?
+      return Module.char_match(env, last, vaux)
    end
+
    return false
 end
 
+function Module.get_first_and_last_codepoints(word)
+   local first = nil
+   local last = nil
+   for _, c in utf8.codes(word) do
+      if not first then
+         first = c
+      end
+      last = c
+   end
+   return first, last
+end
+
+function Module.char_match(env, codepoint, vaux)
+   local auxcodes = env.aux_table[codepoint]
+   return auxcodes and auxcodes:match(vaux)
+end
+
+-- NOTE: Unused old implementation, preserved for reference.
+-- Current `candidate_match` uses a more GC-friendly method.
+--
+-- BTW, this actually looks buggy: suppose any_use=false and word is
+-- single char, this will return an empty list.
 function Module.aux_list(env, word)
    local aux_list = {}
    local first = nil
