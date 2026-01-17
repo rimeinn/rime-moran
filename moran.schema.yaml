@@ -288,6 +288,7 @@ reverse_bopomofo:
   preedit_format:
     - xform/^o(lf|bh|cj|vy)//
     - "xlit|1qaz2wsxedcrfv5tgbyhnujm8ik,9ol.0p;/- 6347'|ㄅㄆㄇㄈㄉㄊㄋㄌㄍㄎㄏㄐㄑㄒㄓㄔㄕㄖㄗㄘㄙㄧㄨㄩㄚㄛㄜㄝㄞㄟㄠㄡㄢㄣㄤㄥㄦˉˊˇˋ˙ |"
+  __include: reverse_format
 
 reverse_tick:
   __include: reverse_zrlf
