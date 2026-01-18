@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20251227"
+version: "20260118"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -8137,7 +8137,7 @@ columns:
 標準正交	1
 包外估計	1
 輸出門	1
-輸出調製法	1
+輸出調制法	1
 過度參數化	1
 過完備	1
 過估計	1
