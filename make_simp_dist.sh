@@ -61,7 +61,7 @@ uv run tools/update_compact_dicts.sh yes
 ########################################################################
 echo 替換碼表...
 
-perl -i -pe 's/dictionary: moran_fixed/dictionary: moran_fixed_simp/' moran_fixed.dict.yaml
+perl -i -pe 's/dictionary: moran_fixed/dictionary: moran_fixed_simp/' moran_fixed.schema.yaml
 perl -i -pe 's/dictionary: moran_fixed/dictionary: moran_fixed_simp/' moran_aux.schema.yaml
 perl -i -pe 's/dictionary: moran_fixed/dictionary: moran_fixed_simp/' moran.schema.yaml
 
