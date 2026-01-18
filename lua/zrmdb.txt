@@ -10964,6 +10964,7 @@
 媲 nb
 媳 nx
 媴 ny
+媵 nf
 媵 on
 媶 nr
 媷 nr
