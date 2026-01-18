@@ -83,7 +83,7 @@ speller:
       - moran:/algebra/user_force_bottom?
 
 translator:
-  dictionary: moran_fixed
+  dictionary: moran_fixed_simp
   db_class: tabledb
   enable_charset_filter: false
   enable_sentence: false
@@ -92,7 +92,7 @@ translator:
   initial_quality: 100000
 
 fixed:
-  dictionary: moran_fixed
+  dictionary: moran_fixed_simp
   db_class: tabledb
   enable_charset_filter: false
   enable_sentence: false
@@ -113,7 +113,7 @@ custom_phrase: # 自定義短語
 zkci:           # 造詞
   tag: zkci
   db_class: tabledb
-  dictionary: moran_fixed
+  dictionary: moran_fixed_simp
   enable_user_dict: false
   enable_charset_filter: false
   enable_completion: false
