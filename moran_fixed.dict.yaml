@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20251229"
+version: "20260118"
 sort: by_weight
 columns:
   - text
@@ -74325,6 +74325,7 @@ P站	pvj
 跳着	tcve
 調整	tcvg
 調製	tcvi
+調制	tcvi
 挑戰	tcvj
 特此證明	tcvm
 條桌	tcvo

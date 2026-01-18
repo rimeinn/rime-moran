@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251229"
+version: "20260118"
 sort: original
 columns:
   - text
@@ -1105,7 +1105,7 @@ AVL树	avlu
 不	b	buad
 吧	b
 把	ba
-爸	ba
+拔	ba
 巴	baa
 疤	bab
 爸爸	baba
@@ -1132,7 +1132,7 @@ AVL树	avlu
 保安队长	badv
 北爱尔兰	bael
 把儿	baer
-拔	baf
+爸	baf
 扒	bafb
 捌	bafb
 把风	bafg
@@ -4935,6 +4935,7 @@ AVL树	avlu
 不能自已	bnzy
 不能左右	bnzy
 波	bo
+拨	bo
 卜	boa
 百	boab
 博爱	boai
@@ -4976,8 +4977,8 @@ AVL树	avlu
 勃发	bofa
 擗	bofb
 搏	bofc
-拨	boff
 搏	boff
+拨	boff
 波峰	bofg
 播放	bofh
 伯父	bofu
