@@ -6638,7 +6638,9 @@
 䲟	yy	鱼印	
 䲠	yi	鱼春	
 䲡	yq	鱼酋	
+䲢	yf	鱼夫	
 䲢	ox	月鲞	
+䲢	oy	月鱼	
 䲣	wy	攵鱼	
 䲤	yj	鱼酒	
 䲥	nj	鳥九	
@@ -8505,6 +8507,7 @@
 勚	lb	力贝	
 勛	ly	力員	
 勜	lw	力翁	
+勝	lf	力夫	
 勝	ol	月力	
 勞	lb	力冖	
 勞	hl	火力	
@@ -10220,6 +10223,7 @@
 塋	tb	土冖	
 塋	ht	火土	
 塌	ty	土羽	
+塍	tf	土夫	
 塍	ot	月土	
 塎	tr	土容	
 塏	tq	土豈	
@@ -10971,6 +10975,7 @@
 媲	nb	女比	
 媳	nx	女息	
 媴	ny	女袁	
+媵	nf	女夫	
 媵	on	月女	
 媶	nr	女茸	
 媷	nr	女辱	
@@ -12112,6 +12117,7 @@
 幎	jm	巾冥	
 幎	jl	巾六	
 幏	jj	巾家	
+幐	jf	巾夫	
 幐	oj	月巾	
 幑	xw	彳攵	
 幑	xj	{行}巾	
@@ -15728,6 +15734,7 @@
 榷	mv	木隹	
 榸	mm	木埋	
 榹	mh	木虎	
+榺	mf	木夫	
 榺	om	月木	
 榻	my	木羽	
 榼	mh	木盍	
@@ -17339,6 +17346,7 @@
 滓	dz	氵宰	
 滔	dj	氵臼	
 滔	dy	氵舀	
+滕	uf	氺夫	
 滕	ou	月氺	
 滖	du	氵衰	
 滗	db	氵笔	
@@ -22205,6 +22213,7 @@
 縠	us	殳糸	
 縠	su	糸殳	
 縡	sz	糸宰	
+縢	sf	糸夫	
 縢	os	月糸	
 縣	xx	县系	
 縤	ss	糸素	
@@ -23246,6 +23255,7 @@
 腽	om	月皿	
 腽	ow	月昷	
 腾	om	月马	
+腾	mf	马夫	
 腿	ot	月退	
 膀	op	月旁	
 膁	oj	月兼	
@@ -23289,6 +23299,7 @@
 膟	ou	月率	
 膠	ol	月翏	
 膠	op	月彡	
+膡	of	目夫	
 膡	oj	月眷	
 膢	ol	月婁	
 膣	ov	月窒	
@@ -25155,6 +25166,7 @@
 螡	wi	文虫	
 螢	ib	虫冖	
 螢	hi	火虫	
+螣	if	虫夫	
 螣	oi	月虫	
 螤	id	虫丶	
 螤	wd	文丶	
@@ -26216,6 +26228,7 @@
 謁	yh	言曷	
 謂	yw	言胃	
 謃	yx	言星	
+謄	yf	言夫	
 謄	ot	月誊	
 謄	oy	月言	
 謅	yc	言屮	
@@ -26828,8 +26841,8 @@
 賶	bc	貝倉	
 賷	bb	貝冖	
 賷	ub	十貝	
-賸	ob	日貝	
 賸	bf	貝夫	
+賸	ob	日貝	
 賹	by	貝益	
 賺	bj	貝兼	
 賻	bc	貝寸	
@@ -30873,6 +30886,7 @@
 騭	mb	馬步	
 騮	ml	馬留	
 騯	mp	馬旁	
+騰	mf	馬夫	
 騰	om	月馬	
 騱	mx	馬奚	
 騲	mc	馬草	
@@ -31453,6 +31467,7 @@
 鰤	yu	魚師	
 鰥	yd	魚丶	
 鰦	yz	魚兹	
+鰧	yf	魚夫	
 鰧	ox	月鮝	
 鰧	oy	月魚	
 鰨	yy	魚羽	
@@ -32344,6 +32359,7 @@
 黮	hu	黑甚	
 黯	hy	黑音	
 黰	hv	黑真	
+黱	hf	黑夫	
 黱	oh	月黑	
 黲	hc	黑參	
 黳	hu	黑殳	
@@ -46930,7 +46946,8 @@
 𣎎	or	月人	auto
 𣎐	or	月人	auto
 𣎑	ok	月宽	auto
-𣎒	ot	月田	auto
+𣎒	tf	田夫	
+𣎒	ot	月田	
 𣎓	ox	月旋	auto
 𣎔	ox	月現	auto
 𣎕	ob	月八	auto
@@ -74991,8 +75008,8 @@
 𪅹	nj	鳥幾	auto
 𪅺	nh	鳥喉	auto
 𪅺	hn	喉鳥	auto
-𪅻	vn	舟鳥	auto
-𪅻	ne	鳥二	auto
+𪅻	nf	鳥夫	
+𪅻	vn	舟鳥	
 𪅼	nh	鳥禾	auto
 𪅼	in	厂鳥	auto
 𪅽	an	丆鳥	auto
@@ -77707,7 +77724,8 @@
 𪱧	ol	月亮	auto
 𪱨	od	月电	auto
 𪱩	ol	月离	auto
-𪱪	oh	月火	auto
+𪱪	hf	火夫	
+𪱪	oh	月火	
 𪱫	ob	月匕	auto
 𪱫	do	⺈月	
 𪱭	om	月米	auto
@@ -81797,6 +81815,7 @@
 𬂆	oa	月亅	auto
 𬂈	io	厂月	auto
 𬂈	ov	月者	auto
+𬂉	bf	贝夫	
 𬂉	ob	月贝	
 𬂊	om	月冥	auto
 𬂌	on	月能	auto
