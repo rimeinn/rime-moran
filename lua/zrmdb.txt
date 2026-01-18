@@ -6627,7 +6627,9 @@
 䲟 yy
 䲠 yi
 䲡 yq
+䲢 yf
 䲢 ox
+䲢 oy
 䲣 wy
 䲤 yj
 䲥 nj
@@ -8494,6 +8496,7 @@
 勚 lb
 勛 ly
 勜 lw
+勝 lf
 勝 ol
 勞 lb
 勞 hl
@@ -10209,6 +10212,7 @@
 塋 tb
 塋 ht
 塌 ty
+塍 tf
 塍 ot
 塎 tr
 塏 tq
@@ -12101,6 +12105,7 @@
 幎 jm
 幎 jl
 幏 jj
+幐 jf
 幐 oj
 幑 xw
 幑 xj
@@ -15717,6 +15722,7 @@
 榷 mv
 榸 mm
 榹 mh
+榺 mf
 榺 om
 榻 my
 榼 mh
@@ -17328,6 +17334,7 @@
 滓 dz
 滔 dj
 滔 dy
+滕 uf
 滕 ou
 滖 du
 滗 db
@@ -22194,6 +22201,7 @@
 縠 us
 縠 su
 縡 sz
+縢 sf
 縢 os
 縣 xx
 縤 ss
@@ -23235,6 +23243,7 @@
 腽 om
 腽 ow
 腾 om
+腾 mf
 腿 ot
 膀 op
 膁 oj
@@ -23278,6 +23287,7 @@
 膟 ou
 膠 ol
 膠 op
+膡 of
 膡 oj
 膢 ol
 膣 ov
@@ -25144,6 +25154,7 @@
 螡 wi
 螢 ib
 螢 hi
+螣 if
 螣 oi
 螤 id
 螤 wd
@@ -26205,6 +26216,7 @@
 謁 yh
 謂 yw
 謃 yx
+謄 yf
 謄 ot
 謄 oy
 謅 yc
@@ -26817,8 +26829,8 @@
 賶 bc
 賷 bb
 賷 ub
-賸 ob
 賸 bf
+賸 ob
 賹 by
 賺 bj
 賻 bc
@@ -30862,6 +30874,7 @@
 騭 mb
 騮 ml
 騯 mp
+騰 mf
 騰 om
 騱 mx
 騲 mc
@@ -31442,6 +31455,7 @@
 鰤 yu
 鰥 yd
 鰦 yz
+鰧 yf
 鰧 ox
 鰧 oy
 鰨 yy
@@ -32333,6 +32347,7 @@
 黮 hu
 黯 hy
 黰 hv
+黱 hf
 黱 oh
 黲 hc
 黳 hu
@@ -46919,6 +46934,7 @@
 𣎎 or
 𣎐 or
 𣎑 ok
+𣎒 tf
 𣎒 ot
 𣎓 ox
 𣎔 ox
@@ -74980,8 +74996,8 @@
 𪅹 nj
 𪅺 nh
 𪅺 hn
+𪅻 nf
 𪅻 vn
-𪅻 ne
 𪅼 nh
 𪅼 in
 𪅽 an
@@ -77696,6 +77712,7 @@
 𪱧 ol
 𪱨 od
 𪱩 ol
+𪱪 hf
 𪱪 oh
 𪱫 ob
 𪱫 do
@@ -81786,6 +81803,7 @@
 𬂆 oa
 𬂈 io
 𬂈 ov
+𬂉 bf
 𬂉 ob
 𬂊 om
 𬂌 on
