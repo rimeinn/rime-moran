@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260118"
+version: "20260121"
 sort: original
 columns:
   - text
@@ -18487,6 +18487,8 @@ E盘	epj
 反常	fjih
 翻唱	fjih
 反超	fjik
+犯蠢	fjip
+反唇	fjip
 帆船	fjir
 反串	fjir
 反冲	fjis
@@ -41299,7 +41301,7 @@ JK制服	jkvf
 纪实文学	juwx
 句尾	juwz
 居委	juwz
-举	jux
+惧	jux
 巨响	juxd
 具象	juxd
 精神小伙	juxh
@@ -104383,6 +104385,7 @@ U盘	upj
 引起	ynqi
 一诺千金	ynqj
 银钱	ynqm
+印钱	ynqm
 殷勤	ynqn
 歅	ynqt
 音区	ynqu
@@ -111956,6 +111959,7 @@ U盘	upj
 自作自受	zzzu
 自自在在	zzzz
 
+
 划	hwg
 骂	mam
 窃	qxb
@@ -113371,6 +113375,7 @@ U盘	upj
 摆架子	bjz
 不考虑	bkl
 伯克利	bkl
+宝可梦	bkm
 不可能	bkn
 不可逆	bkn
 不靠谱	bkp
@@ -113861,6 +113866,7 @@ CD机	cdj
 磁偏角	cpj
 裁判长	cpv
 裁判员	cpy
+存钱罐	cqg
 菜青虫	cqi
 此期间	cqj
 磁倾角	cqj
@@ -113929,6 +113935,7 @@ CD机	cdj
 冬奥会	dah
 地安门	dam
 德昂族	daz
+多巴胺	dba
 得不到	dbd
 对不对	dbd
 动不动	dbd
@@ -114000,6 +114007,7 @@ CD机	cdj
 担担面	ddm
 电灯泡	ddp
 对得起	ddq
+迭代器	ddq
 当地人	ddr
 打哆嗦	dds
 点点头	ddt
@@ -117158,6 +117166,7 @@ Keynote	knt
 某某某	mmm
 喵喵喵	mmm
 买买买	mmm
+默秒全	mmq
 某某人	mmr
 茫茫然	mmr
 摸摸头	mmt
@@ -117907,6 +117916,7 @@ PVP	pvp
 气动力	qdl
 强多了	qdl
 瞧得起	qdq
+启动器	qdq
 强的松	qds
 全都是	qdu
 期待着	qdv
@@ -118932,7 +118942,6 @@ SD卡	sdk
 收不回	ubh
 说不出	ubi
 首班车	ubi
-社保局	ubj
 社保卡	ubk
 说白了	ubl
 受不了	ubl

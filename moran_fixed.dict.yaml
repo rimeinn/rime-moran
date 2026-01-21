@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260118"
+version: "20260121"
 sort: by_weight
 columns:
   - text
@@ -19080,6 +19080,8 @@ E盤	epj
 反常	fjih
 翻唱	fjih
 反超	fjik
+犯蠢	fjip
+反脣	fjip
 帆船	fjir
 反串	fjir
 反衝	fjis
@@ -107402,6 +107404,7 @@ WiFi	wifi
 引起	ynqi
 一諾千金	ynqj
 銀錢	ynqm
+印錢	ynqm
 殷勤	ynqn
 歅	ynqt
 音區	ynqu
@@ -116749,6 +116752,7 @@ WiFi	wifi
 擺架子	bjz
 伯克利	bkl
 不考慮	bkl
+寶可夢	bkm
 不可能	bkn
 不可逆	bkn
 不靠譜	bkp
@@ -117243,6 +117247,7 @@ CD機	cdj
 磁偏角	cpj
 裁判長	cpv
 裁判員	cpy
+存錢罐	cqg
 菜青蟲	cqi
 此期間	cqj
 磁傾角	cqj
@@ -117311,6 +117316,7 @@ CD機	cdj
 冬奧會	dah
 地安門	dam
 德昂族	daz
+多巴胺	dba
 得不到	dbd
 對不對	dbd
 動不動	dbd
@@ -117382,6 +117388,7 @@ CD機	cdj
 擔擔麪	ddm
 電燈泡	ddp
 對得起	ddq
+迭代器	ddq
 當地人	ddr
 打哆嗦	dds
 點點頭	ddt
@@ -120536,6 +120543,7 @@ Keynote	knt
 某某某	mmm
 喵喵喵	mmm
 買買買	mmm
+默秒全	mmq
 某某人	mmr
 茫茫然	mmr
 摸摸頭	mmt
@@ -121282,6 +121290,7 @@ PVP	pvp
 取得了	qdl
 氣動力	qdl
 瞧得起	qdq
+启动器	qdq
 強的松	qds
 全都是	qdu
 期待着	qdv
@@ -122314,7 +122323,6 @@ SD卡	sdk
 收不回	ubh
 說不出	ubi
 首班車	ubi
-社保局	ubj
 社保卡	ubk
 說白了	ubl
 受不了	ubl
