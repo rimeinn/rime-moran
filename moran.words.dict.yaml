@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20260118"
+version: "20260121"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9319,6 +9319,10 @@ columns:
 鬍青	100
 焚訣	100
 玄貓	100
+犯蠢	10000
+印錢	100
+浮盈	100
+浮虧	100
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0
