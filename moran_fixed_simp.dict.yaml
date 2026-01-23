@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260121"
+version: "20260123"
 sort: original
 columns:
   - text
@@ -91336,8 +91336,8 @@ U盘	upj
 外族	wlzu
 歪嘴	wlzv
 未来走向	wlzx
-涡轮增压	wlzy
 无论怎样	wlzy
+涡轮增压	wlzy
 外力作用	wlzy
 我们	wm
 外面	wm
@@ -120760,6 +120760,7 @@ Word	wrd
 预处理	yil
 一刹那	yin
 雅加达	yjd
+也就是	yje
 一句话	yjh
 一家人	yjr
 研究所	yjs
