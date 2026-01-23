@@ -2,7 +2,9 @@
 --
 -- Author: ksqsf
 -- License: GPLv3
--- Version: 0.3.0
+-- Version: 0.3.1
+--
+-- 0.3.1: 修正單字輔助碼匹配。
 --
 -- 0.3.0: 優化性能。
 --
@@ -410,14 +412,15 @@ function Module.candidate_match(env, cand, aux)
    -- auxcode
    local vaux = " " .. aux
    local word = cand.text
+   local word_len = utf8.len(word)
    local first, last = Module.get_first_and_last_codepoints(word)
 
    -- Check if they match
    if env.is_aux_for_any then
-      if Module.char_match(env, first, vaux) or Module.char_match(env, last, vaux) then
+      if Module.char_match(env, first, vaux) or (word_len > 1 and Module.char_match(env, last, vaux)) then
          return true
       end
-      if #aux == 2 then    -- word aux, the code style is meant to minimize object creation
+      if #aux == 2 and word_len > 1 then    -- word aux, the code style is meant to minimize object creation
          local first_auxcodes = env.aux_table[first]
          if not first_auxcodes then return false end
          local last_auxcodes = env.aux_table[last]

@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260121"
+version: "20260123"
 sort: by_weight
 columns:
   - text
@@ -93868,8 +93868,8 @@ WiFi	wifi
 外族	wlzu
 歪嘴	wlzv
 未來走向	wlzx
-渦輪增壓	wlzy
 無論怎樣	wlzy
+渦輪增壓	wlzy
 外力作用	wlzy
 我們	wm
 外面	wm
@@ -124138,6 +124138,7 @@ Word	wrd
 預處理	yil
 一剎那	yin
 雅加達	yjd
+也就是	yje
 一句話	yjh
 一家人	yjr
 研究所	yjs
