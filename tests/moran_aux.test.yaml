@@ -1,5 +1,12 @@
 schema: moran_aux
 source_dir: ../dist
+script: |
+  function eq(left, right)
+    print('Left  = ' .. tostring(left))
+    print('Right = ' .. tostring(right))
+    return left == right
+  end
+
 deploy:
   default:
     tests:
@@ -9,6 +16,8 @@ deploy:
         assert: cand[2].text == '喫飯'
       - send: 'iifjuk'
         assert: cand[2].text == '喫飯'
+      - send: 'jivm'
+        assert: cand[3].comment ~= 'vm'
 
   tab:
     tests:
