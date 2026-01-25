@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260125"
+version: "20260126"
 sort: by_weight
 columns:
   - text
@@ -52654,7 +52654,6 @@ JK制服	jkvf
 賴以生存	lyuc
 旅遊勝地	lyud
 卵與石鬥	lyud
-勞燕雙飛	lyuf
 鈴聲	lyug
 老於世故	lyug
 零上	lyuh
@@ -104127,7 +104126,7 @@ WiFi	wifi
 一夫多妻制	yfdv
 要風得風，要雨得雨	yfdy
 一發而不可收拾	yfeu
-一份	yff
+一分	yff
 一帆風順	yffu
 語法分析	yffx
 誘發犯罪	yffz
