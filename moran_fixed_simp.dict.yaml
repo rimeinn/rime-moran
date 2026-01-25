@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260123"
+version: "20260125"
 sort: original
 columns:
   - text
@@ -60240,7 +60240,6 @@ JK制服	jkvf
 牌局	plju
 疲劳驾驶	plju
 牌价	pljw
-霹雳娇娃	pljw
 排解	pljx
 哌	plk
 普朗克长度	plkd
@@ -120843,9 +120842,9 @@ Word	wrd
 一抹黑	ymh
 牙买加	ymj
 也没见	ymj
+阴谋论	yml
 压马路	yml
 源目录	yml
-一麻溜	yml
 一幕幕	ymm
 有眉目	ymm
 一面坡	ymp
