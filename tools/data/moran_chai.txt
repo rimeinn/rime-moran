@@ -24321,7 +24321,8 @@
 蓷	ct	艹推	
 蓸	cc	艹曹	
 蓹	cy	艹御	
-蓺	cv	艹執	
+蓺	cw	艹丸	
+蓺	cv	艹{執}	
 蓻	cv	艹執	
 蓼	cl	艹翏	
 蓼	cp	艹彡	
@@ -32519,8 +32520,8 @@
 齡	il	齒令	
 齢	il	歯令	
 齣	ij	齒句	
-齤	if	歯夫	
-齤	ji	龹歯	
+齤	if	齒夫	
+齤	ji	龹齒	
 齥	iy	齒曳	
 齦	ig	齒艮	
 齧	id	齒刀	
@@ -94199,7 +94200,8 @@
 𱌯	it	齿台	auto
 𱌰	iy	齿尧	auto
 𱌱	iy	齿曳	auto
-𱌲	hi	火齿	auto
+𱌲	if	齿夫	
+𱌲	ji	龹齿	
 𱌳	ij	齿军	auto
 𱌴	il	齿来	auto
 𱌵	iq	齿佥	auto
