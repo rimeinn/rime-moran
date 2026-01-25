@@ -24310,6 +24310,7 @@
 蓷 ct
 蓸 cc
 蓹 cy
+蓺 cw
 蓺 cv
 蓻 cv
 蓼 cl
@@ -94188,7 +94189,8 @@
 𱌯 it
 𱌰 iy
 𱌱 iy
-𱌲 hi
+𱌲 if
+𱌲 ji
 𱌳 ij
 𱌴 il
 𱌵 iq

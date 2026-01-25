@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260123"
+version: "20260125"
 sort: by_weight
 columns:
   - text
@@ -7127,7 +7127,7 @@ Bilibili	bvj
 不要見怪	byjg
 半夜叫天光	byjg
 不亦君子乎	byjh
-並集	byji
+併集	byji
 並擊	byji
 便衣警察	byji
 奔逸絕塵	byji
@@ -62005,7 +62005,6 @@ PC端	pcd
 牌局	plju
 疲勞駕駛	plju
 牌價	pljw
-霹靂嬌娃	pljw
 排解	pljx
 普朗克長度	plkd
 派克	plke
@@ -124220,7 +124219,7 @@ Word	wrd
 一抹黑	ymh
 牙買加	ymj
 也沒見	ymj
-一麻溜	yml
+陰謀論	yml
 壓馬路	yml
 源目錄	yml
 一幕幕	ymm
