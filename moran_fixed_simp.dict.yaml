@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260125"
+version: "20260126"
 sort: original
 columns:
   - text
@@ -51126,7 +51126,6 @@ JK制服	jkvf
 赖以生存	lyuc
 旅游胜地	lyud
 卵与石斗	lyud
-劳燕双飞	lyuf
 铃声	lyug
 老于世故	lyug
 零上	lyuh
@@ -101246,7 +101245,7 @@ U盘	upj
 一夫多妻制	yfdv
 要风得风，要雨得雨	yfdy
 一发而不可收拾	yfeu
-一份	yff
+一分	yff
 一帆风顺	yffu
 语法分析	yffx
 诱发犯罪	yffz
