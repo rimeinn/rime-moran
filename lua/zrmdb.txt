@@ -3534,8 +3534,8 @@
 䄂 uy
 䄃 uy
 䄄 uy
-䄅 hu
-䄅 ue
+䄅 uf
+䄅 ju
 䄆 uu
 䄇 ui
 䄈 ud
@@ -15282,8 +15282,8 @@
 案 ma
 案 bm
 桉 ma
-桊 jm
 桊 mf
+桊 jm
 桋 my
 桌 mo
 桌 bm
@@ -18519,8 +18519,8 @@
 牴 nd
 牵 nb
 牵 dn
-牶 jn
 牶 nf
+牶 jn
 牷 nq
 牸 nz
 特 ns
@@ -21993,8 +21993,8 @@
 絫 sl
 絫 ss
 絬 su
-絭 js
 絭 sf
+絭 js
 絮 sr
 絯 sh
 絰 sv
@@ -25895,6 +25895,7 @@
 觝 jd
 觞 jy
 觟 jg
+觠 jf
 觠 jj
 觡 jg
 觢 jd
@@ -30145,8 +30146,8 @@
 韌 wr
 韍 wb
 韎 wm
-韏 jw
 韏 wf
+韏 jw
 韐 wh
 韑 gw
 韒 wx
@@ -34665,6 +34666,7 @@
 𠜿 dv
 𠝀 db
 𠝁 dp
+𠝂 ff
 𠝂 db
 𠝂 jf
 𠝃 du
@@ -47582,7 +47584,9 @@
 𣘿 xm
 𣘿 mh
 𣙁 mq
-𣙂 hx
+𣙂 mt
+𣙂 jm
+𣙂 jd
 𣙂 mk
 𣙃 mh
 𣙅 mg
@@ -49056,8 +49060,8 @@
 𣭪 mu
 𣭭 fm
 𣭭 md
-𣭮 hm
-𣭮 me
+𣭮 mf
+𣭮 jm
 𣭱 mx
 𣭲 my
 𣭲 ym
@@ -54156,8 +54160,8 @@
 𥁞 ym
 𥁟 ml
 𥁟 lm
-𥁠 hm
 𥁠 me
+𥁠 jm
 𥁡 mw
 𥁢 qm
 𥁥 mj
@@ -63428,8 +63432,8 @@
 𧙭 yg
 𧙭 gy
 𧙮 yd
-𧙯 hy
-𧙯 ye
+𧙯 yf
+𧙯 jy
 𧙰 yb
 𧙱 yj
 𧙳 hy
@@ -64943,8 +64947,8 @@
 𧯤 dv
 𧯥 du
 𧯥 gd
-𧯦 de
-𧯦 hd
+𧯦 df
+𧯦 jd
 𧯧 da
 𧯧 td
 𧯨 dd
@@ -78377,7 +78381,7 @@
 𪾓 im
 𪾓 mi
 𪾔 mx
-𪾕 me
+𪾕 mf
 𪾕 om
 𪾖 mn
 𪾘 jm
@@ -79759,7 +79763,7 @@
 𫙘 yx
 𫙙 ys
 𫙛 yl
-𫙝 ye
+𫙝 yf
 𫙢 ym
 𫙣 ly
 𫙣 yl
@@ -81382,8 +81386,8 @@
 𫺇 xj
 𫺇 dx
 𫺈 xr
-𫺉 hx
-𫺉 xe
+𫺉 xf
+𫺉 jx
 𫺊 xq
 𫺋 xr
 𫺋 rx
@@ -81900,6 +81904,7 @@
 𬄁 mu
 𬄂 me
 𬄄 mm
+𬄆 mm
 𬄆 mj
 𬄇 mh
 𬄈 mb
@@ -82095,9 +82100,9 @@
 𬇡 de
 𬇢 dx
 𬇤 dz
-𬇥 de
-𬇦 ue
-𬇦 hu
+𬇥 df
+𬇦 uf
+𬇦 ju
 𬇨 dv
 𬇩 dd
 𬇪 mi
@@ -82550,8 +82555,8 @@
 𬐬 qm
 𬐭 mf
 𬐭 yf
+𬐮 mf
 𬐮 dm
-𬐮 me
 𬐯 dm
 𬐯 mv
 𬐰 lm
@@ -92480,7 +92485,7 @@
 𰮡 fb
 𰮢 xr
 𰮣 rs
-𰮤 oe
+𰮤 of
 𰮥 ot
 𰮦 og
 𰮧 kw
@@ -93502,7 +93507,8 @@
 𱂄 ww
 𱂅 wb
 𱂆 wh
-𱂇 hw
+𱂇 wf
+𱂇 jw
 𱂈 wj
 𱂉 wx
 𱂊 wm
@@ -96005,7 +96011,7 @@
 𱷷 vv
 𱷸 vz
 𱷹 vd
-𱷺 ve
+𱷺 vf
 𱷼 vj
 𱷽 vx
 𱸁 ve
@@ -99954,6 +99960,8 @@
 𠜠 dk
 𦠳 oi
 𦠳 oz
+𬫒 jf
+𲃸 zj
 𣮚 mf
 𣴅 df
 𨯾 jj
