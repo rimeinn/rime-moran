@@ -255,5 +255,3 @@ moran:
   #     # 能造出不受碼表的限制的詞，因此適合字詞模式使用
   #     # 例如 輸入tnfb//空格 然後輸入tbnk上屏「頭腦」 fgbk上屏「風暴」，再輸入x//空格，則可以用tnfb上屏「頭腦風暴」
   #     freestyle: false
-
-__patch: moran_fixed.custom:/patch?
