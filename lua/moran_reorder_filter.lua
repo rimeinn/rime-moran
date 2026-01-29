@@ -1,10 +1,12 @@
 -- Moran Reorder Filter
--- Copyright (c) 2023, 2024, 2025 ksqsf
+-- Copyright (c) 2023, 2024, 2025, 2026 ksqsf
 --
--- Ver: 0.2.2
+-- Ver: 0.2.3
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.2.3: 允許單字在4碼輸入時也被重排。
 --
 -- 0.2.2: 進一步放寬匹配條件，允許多字詞候選被重排。
 --
@@ -142,7 +144,7 @@ end
 
 local function reorderable(cand)
    local len = utf8.len(cand.text)
-   return (len > 1 and #cand.preedit >= 2 * len) or (len == 1 and #cand.preedit <= 3)
+   return (len > 1 and #cand.preedit >= 2 * len) or (len == 1 and #cand.preedit <= 4)
 end
 
 -- Return 2 if fixed_list is handled completely.
