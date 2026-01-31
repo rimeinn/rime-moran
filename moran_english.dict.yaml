@@ -6,7 +6,7 @@
 
 ---
 name: moran_english
-version: "20251218"
+version: "20260131"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -57307,3 +57307,4 @@ ad infinitum	adinfinitum
 nutella	nutella
 Ferrero	Ferrero
 AirTag	AirTag
+LibreOffice LibreOffice
