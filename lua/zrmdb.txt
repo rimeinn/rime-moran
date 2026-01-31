@@ -8972,8 +8972,8 @@
 吻 kw
 吼 kk
 吽 kn
-吾 wk
 吾 kw
+吾 wk
 吿 nk
 呀 ky
 呁 ky
@@ -17287,9 +17287,8 @@
 溭 dw
 溭 dj
 溮 du
-溯 do
 溯 du
-溯 dy
+溯 do
 溰 dq
 溰 dd
 溱 dq
@@ -22105,6 +22104,7 @@
 緍 sh
 緎 sh
 総 sx
+緐 xm
 緐 mx
 緑 sl
 緒 sv
