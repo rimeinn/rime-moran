@@ -1986,7 +1986,8 @@
 㬷	ok	月困	
 㬸	oh	月花	auto
 㬹	ov	月争	auto
-㬺	oj	月巾	auto
+㬺	jf	巾夫	
+㬺	oj	月巾	
 㬻	oh	月荒	auto
 㬼	yf	有复	auto
 㬽	ok	月亏	
@@ -4479,7 +4480,9 @@
 䒂	vj	舟將	auto
 䒃	vz	舟造	auto
 䒄	vt	舟田	auto
-䒅	vj	舟眷	auto
+䒅	of	目夫	
+䒅	vj	舟眷	
+䒅	vo	舟目	
 䒆	vw	舟攵	auto
 䒇	vf	舟富	auto
 䒈	vb	舟賁	auto
@@ -6615,8 +6618,8 @@
 䲊	ys	魚隋	auto
 䲋	yt	魚替	auto
 䲌	yk	魚款	auto
-䲍	ye	魚二	auto
-䲍	vy	舟魚	auto
+䲍	yf	魚夫	
+䲍	vy	舟魚	
 䲎	yg	魚敢	auto
 䲏	yl	魚勞	auto
 䲐	yl	魚虜	auto
@@ -33210,7 +33213,7 @@
 𠈓	rk	亻凵	auto
 𠈔	rq	人䒑	auto
 𠈕	rk	亻冂	auto
-𠈖	re	亻二	auto
+𠈖	rf	亻夫	
 𠈗	rg	亻亘	auto
 𠈘	rg	人圭	auto
 𠈙	rj	亻戋	auto
@@ -33232,7 +33235,7 @@
 𠈩	rj	亻巾	auto
 𠈪	ra	人一	auto
 𠈪	rg	亻关	auto
-𠈫	re	亻二	auto
+𠈫	rf	亻夫	
 𠈬	rt	亻土	auto
 𠈭	rl	亻牢	auto
 𠈮	rz	人足	auto
@@ -34269,8 +34272,8 @@
 𠗭	ds	冫寺	auto
 𠗮	du	冫甚	auto
 𠗯	dq	冫泉	auto
-𠗲	de	冫二	auto
-𠗲	od	月丶	auto
+𠗲	df	冫夫	
+𠗲	od	月冫	
 𠗳	dj	冫兼	auto
 𠗴	dg	冫干	auto
 𠗵	dp	冫旁	auto
@@ -35120,8 +35123,8 @@
 𠢥	fl	費力	auto
 𠢦	lv	力正	auto
 𠢦	uv	束正	auto
-𠢧	le	力二	auto
-𠢧	vl	舟力	auto
+𠢧	lf	力夫	
+𠢧	vl	舟力	
 𠢨	lr	力人	auto
 𠢨	yl	頁力	auto
 𠢩	ly	力堯	auto
@@ -46946,7 +46949,10 @@
 𣎌	oc	月廾	auto
 𣎍	or	月人	auto
 𣎍	uo	十月	auto
-𣎎	or	月人	auto
+𣎎	bf	仌夫	
+𣎎	rf	人夫	
+𣎎	or	月人	
+𣎎	ob	月仌	
 𣎐	or	月人	auto
 𣎑	ok	月宽	auto
 𣎒	tf	田夫	
@@ -47667,7 +47673,9 @@
 𣚔	mx	木舄	auto
 𣚕	mq	木犬	auto
 𣚖	my	木奄	auto
-𣚗	vj	舟桊	auto
+𣚗	mf	木夫	
+𣚗	vj	舟桊	
+𣚗	vm	舟木	
 𣚘	mj	木減	auto
 𣚙	mj	木戔	auto
 𣚚	mu	木属	auto
@@ -49850,7 +49858,7 @@
 𣹵	dg	氵乚	auto
 𣹶	dw	氵夂	auto
 𣹷	dj	氵巾	auto
-𣹸	de	氵二	auto
+𣹸	df	氵夫	
 𣹹	xa	戌一	auto
 𣹺	du	氵水	auto
 𣹻	bq	白泉	auto
@@ -50038,7 +50046,8 @@
 𣽥	dh	氵頇	auto
 𣽦	dn	氵女	auto
 𣽧	dq	氵侵	auto
-𣽨	vu	舟氺	auto
+𣽨	uf	氺夫	
+𣽨	vu	舟氺	
 𣽩	dl	氵旒	auto
 𣽪	dm	氵眉	auto
 𣽫	dx	氵心	auto
@@ -53266,7 +53275,8 @@
 𤳑	tc	田參	auto
 𤳒	tx	田心	auto
 𤳓	ly	列異	auto
-𤳔	vt	舟田	auto
+𤳔	tf	舟夫	
+𤳔	vt	舟田	
 𤳕	tv	田粥	auto
 𤳕	vt	粥田	auto
 𤳖	fq	番去	auto
@@ -60483,15 +60493,18 @@
 𦩧	vm	舟孖	auto
 𦩧	zv	子舟	auto
 𦩨	vj	舟津	auto
-𦩩	vn	舟女	auto
+𦩩	nf	女夫	
+𦩩	vn	舟女	
 𦩪	vj	舟架	auto
-𦩫	vj	舟巾	auto
+𦩫	jf	巾夫	
+𦩫	vj	舟巾	
 𦩬	vw	舟威	auto
 𦩭	vs	舟思	auto
 𦩮	vy	舟爰	auto
 𦩯	vq	舟曲	auto
 𦩰	vv	舟重	auto
-𦩱	vt	舟土	auto
+𦩱	tf	土夫	
+𦩱	vt	舟土	
 𦩲	vq	舟酋	auto
 𦩴	vq	舟豈	auto
 𦩵	vj	舟兼	auto
@@ -60530,7 +60543,8 @@
 𦪚	vz	舟尊	auto
 𦪛	vy	舟堯	auto
 𦪜	vx	舟心	auto
-𦪝	vs	舟糸	auto
+𦪝	sf	糸夫	
+𦪝	vs	舟糸	
 𦪞	vq	舟喬	auto
 𦪟	vp	舟彭	auto
 𦪠	vh	舟華	auto
@@ -60562,7 +60576,8 @@
 𦪽	vl	舟龍	auto
 𦪾	vl	舟歷	auto
 𦪿	vl	舟龍	auto
-𦫀	vm	舟馬	auto
+𦫀	mf	馬夫	
+𦫀	vm	舟馬	
 𦫁	vy	舟言	auto
 𦫂	vb	舟貝	auto
 𦫃	vk	舟口	auto
@@ -62804,8 +62819,8 @@
 𧑣	yi	堯虫	auto
 𧑤	ii	虫虫	auto
 𧑤	vi	朱虫	auto
-𧑥	ie	虫二	auto
-𧑥	vi	舟虫	auto
+𧑥	if	虫夫	
+𧑥	vi	舟虫	
 𧑦	ig	虫夬	auto
 𧑧	iv	虫折	auto
 𧑧	ui	石虫	auto
@@ -63598,7 +63613,8 @@
 𧜅	yh	衤害	auto
 𧜆	yr	衤戎	auto
 𧜇	yy	衤邕	auto
-𧜈	ye	衣二	auto
+𧜈	wy	亠𧘇	
+𧜈	yf	衣夫	
 𧜉	yg	衣高	auto
 𧜉	gy	高衣	auto
 𧜊	yo	衣日	auto
@@ -65558,7 +65574,8 @@
 𧷷	cb	屮貝	auto
 𧷻	bb	貝貝	auto
 𧷼	by	貝焱	auto
-𧷽	vb	舟貝	auto
+𧷽	bf	貝夫	
+𧷽	vb	舟貝	
 𧷾	by	貝矞	auto
 𧷿	bd	貝都	auto
 𧸀	be	貝而	auto
@@ -66202,8 +66219,8 @@
 𨃔	zm	足木	
 𨃕	zi	足畜	auto
 𨃖	zk	足夸	auto
-𨃗	ze	足二	auto
-𨃗	oz	月足	auto
+𨃗	zf	足夫	
+𨃗	oz	月足	
 𨃘	zi	足芻	auto
 𨃙	zl	足栗	auto
 𨃚	zh	足合	auto
@@ -81020,8 +81037,9 @@
 𫱾	ny	女圓	auto
 𫱿	in	齿女	auto
 𫱿	nk	女可	auto
-𫲀	in	塍女	auto
-𫲀	ni	女塍	auto
+𫲀	nt	女土	
+𫲀	ni	女塍	
+𫲀	in	塍女	
 𫲂	nb	女貝	auto
 𫲄	nk	女冂	auto
 𫲅	en	爾女	auto
@@ -92292,7 +92310,9 @@
 𰪘	ku	筷示	auto
 𰪙	vr	𥫗韌	auto
 𰪛	vt	𥫗蜓	auto
-𰪜	vl	𥫗力	auto
+𰪜	vq	𥫗劵	
+𰪜	vu	𥫗𠢧	
+𰪜	vl	𥫗力	
 𰪠	vf	𥫗膚	auto
 𰪡	vl	𥫗留	auto
 𰪣	vy	𥫗赢	auto
@@ -96049,7 +96069,7 @@
 𱸫	vm	𥫗木	auto
 𱸭	vh	竹滬	auto
 𱸮	vj	𥫗獎	auto
-𱸱	vs	𥫗糸	auto
+𱸱	vs	𥫗糸	
 𱸳	dp	丶丿	auto
 𱸳	mp	米丿	auto
 𱸴	mf	米凡	auto
@@ -96250,7 +96270,10 @@
 𱼹	vj	舟夹	auto
 𱼺	vh	舟华	auto
 𱼻	vv	舟叕	auto
-𱼾	vr	舟人	auto
+𱼾	bf	仌夫	
+𱼾	rf	人夫	
+𱼾	vb	舟仌	
+𱼾	vr	舟人	
 𱼿	ma	木一	auto
 𱽀	uv	山舟	auto
 𱽀	vr	舟入	auto
@@ -99973,6 +99996,12 @@
 𦠳	oz	月子	
 𬫒	jf	金夫	
 𲃸	zj	足巾	
+𭩅	uf	示夫	
+𭩅	ou	月示	
+𧜜	yf	衣夫	
+𧜜	oy	月衣	
+𭩃	wf	夂夫	
+𭩃	ow	月夂	
 
 # 待考
 
@@ -111678,8 +111707,6 @@
 #𭨾	pb	丿八	
 #𭩁	ov	月哲	
 #𭩂	oi	月蚩	
-#𭩃	ow	月夂	
-#𭩅	ou	月示	
 #𭩉	oy	月邑	
 #𭩌	ww	望网	
 #𭩍	oo	月月	
