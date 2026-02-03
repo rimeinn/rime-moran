@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260204"
+version: "20260205"
 sort: by_weight
 columns:
   - text
@@ -119153,9 +119153,7 @@ git	git
 處女作	inz
 處女座	inz
 唱片兒	ipe
-喫派飯	ipf
 成品率	ipl
-喫偏食	ipu
 出圈兒	iqe
 拆遷戶	iqh
 充其量	iql
