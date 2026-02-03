@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260131"
+version: "20260203"
 sort: by_weight
 columns:
   - text
@@ -45233,6 +45233,7 @@ JK制服	jkvf
 牼	kgn
 客觀評價	kgpj
 坑騙	kgpm
+砍瓜切菜	kgqc
 鏗鏘	kgqd
 吭氣	kgqi
 客觀情況	kgqk

@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260131"
+version: "20260203"
 sort: original
 columns:
   - text
@@ -43900,6 +43900,7 @@ JK制服	jkvf
 刻骨铭心	kgmx
 客观评价	kgpj
 坑骗	kgpm
+砍瓜切菜	kgqc
 铿锵	kgqd
 吭气	kgqi
 客观情况	kgqk
