@@ -13,7 +13,7 @@ jobs:
       - name: Setup uv
         uses: astral-sh/setup-uv@v5
       - name: Install dependencies
-        run: sudo apt install opencc p7zip-full
+        run: sudo apt-get update && sudo apt-get install -y opencc p7zip-full
       - name: Build
         run: |
           if [ ${{ matrix.variant }} == trad ]; then
@@ -61,7 +61,8 @@ jobs:
           name: "${{ matrix.variant == 'trad' && 'Trad' || 'Simp' }}-FullPack"
       - name: Build demo ${{ matrix.variant }}
         run: |
-          sudo apt install -y librime-data librime-bin
+          sudo apt-get update -y
+          sudo apt-get install -y librime-data librime-bin
           rm -f *.gram
           cat >moran.extended.dict.yaml <<EOF
           ---
