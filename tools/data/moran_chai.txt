@@ -32794,7 +32794,7 @@
 𠁖	li	丽串	auto
 𠁗	au	一奭	auto
 𠁗	ud	十大	auto
-𠁘	ah	一灬	auto
+𠁘	ah	一黑	
 𠁛	bd	不道	auto
 𠁜	by	並勇	auto
 𠁞	bh	不會	auto
@@ -44657,7 +44657,7 @@
 𢭠	fu	扌矢	auto
 𢭡	fj	扌甲	auto
 𢭢	fz	扌作	auto
-𢭣	fb	扌丷	auto
+𢭣	fa	扌丨	
 𢭤	gu	工手	auto
 𢭤	uf	手𰀁	auto
 𢭥	ue	手二	auto
@@ -53056,7 +53056,7 @@
 𤰐	af	丨甫	auto
 𤰑	sf	厶凡	auto
 𤰑	yf	用凡	auto
-𤰒	rb	人丷	auto
+𤰒	ra	人丨	
 𤰓	at	一田	auto
 𤰓	ta	田一	auto
 𤰔	uo	十日	auto
@@ -100010,6 +100010,8 @@
 𭩃	ow	月夂	
 𫢄	fk	畐口	
 𫢄	wf	亡凡	
+𠋐	rk	亻丂	
+𰽆	jx	金心	
 
 # 待考
 
@@ -115388,7 +115390,6 @@
 #𰽀	jd	金刂	
 #𰽃	jj	金脊	
 #𰽅	jl	金离	
-#𰽆	jx	金心	
 #𰽇	jt	金提	
 #𰽈	xj	項金	
 #𰽉	cl	錯六	
