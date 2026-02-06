@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260204"
+version: "20260205"
 sort: original
 columns:
   - text
@@ -87385,7 +87385,7 @@ U盘	upj
 中叶	vsye
 治丝益棼	vsyf
 中央	vsyh
-中意	vsyi
+钟意	vsyi
 中医	vsyi
 忠言	vsyj
 重要	vsyk
@@ -115779,9 +115779,7 @@ git	git
 处女作	inz
 处女座	inz
 唱片儿	ipe
-吃派饭	ipf
 成品率	ipl
-吃偏食	ipu
 出圈儿	iqe
 拆迁户	iqh
 出去了	iql
