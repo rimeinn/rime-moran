@@ -6,7 +6,7 @@
 
 ---
 name: moran_english
-version: "20260131"
+version: "20260203"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -57308,3 +57308,5 @@ nutella	nutella
 Ferrero	Ferrero
 AirTag	AirTag
 LibreOffice LibreOffice
+Anki	Anki
+SuperMemo	SuperMemo
