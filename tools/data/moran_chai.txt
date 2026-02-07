@@ -22710,9 +22710,9 @@
 羵	yb	羊賁	
 羶	yd	羊亶	
 羷	yq	羊僉	
-羸	wf	亡凡	
 羸	dd	丶丶	
 羸	yk	羊口	
+羸	wf	亡凡	
 羹	ym	羊美	
 羹	gm	羔美	
 羺	yx	羊需	
@@ -23377,6 +23377,7 @@
 臚	ol	月盧	
 臛	oh	月霍	
 臜	oz	月赞	
+臝	gk	果口	
 臝	wf	亡凡	
 臞	oq	月瞿	
 臞	ov	月隹	
@@ -30939,7 +30940,8 @@
 驕	mq	馬喬	
 驖	mg	馬戈	
 驗	mq	馬僉	
-驘	mf	馬凡	
+驘	mk	馬口	
+驘	wf	亡凡	
 驙	md	馬亶	
 驚	mj	馬敬	
 驛	mx	馬幸	
@@ -38163,8 +38165,8 @@
 𡑡	tp	土丿	auto
 𡑢	ty	土葉	auto
 𡑣	tk	土窟	auto
-𡑤	tf	土凡	auto
-𡑤	wt	亡土	auto
+𡑤	tf	土口	
+𡑤	wt	亡凡	
 𡑥	ti	土出	auto
 𡑦	tf	土方	auto
 𡑧	bu	卜圣	auto
@@ -40539,8 +40541,8 @@
 𡳱	ww	尾萬	auto
 𡳲	uy	尸禺	auto
 𡳲	wy	尾禺	auto
-𡳴	uc	尸廿	auto
-𡳴	wu	亡尸	auto
+𡳴	uk	尸口	
+𡳴	wf	亡凡	
 𡳷	uf	尸覆	auto
 𡳸	ul	尸歷	auto
 𡳻	mm	眉眉	auto
@@ -47759,8 +47761,8 @@
 𣜁	mv	木隹	auto
 𣜂	mj	木韭	auto
 𣜃	mh	木灬	auto
-𣜄	mf	木凡	auto
-𣜄	wm	亡木	auto
+𣜄	mk	木口	
+𣜄	wf	亡凡	
 𣜅	im	遄木	auto
 𣜅	mi	木遄	auto
 𣜆	my	木言	auto
@@ -56241,8 +56243,8 @@
 𥢰	ha	禾一	auto
 𥢲	hi	禾成	auto
 𥢴	hl	禾零	auto
-𥢵	hf	禾凡	auto
-𥢵	wh	亡禾	auto
+𥢵	hk	禾口	
+𥢵	wf	亡凡	
 𥢶	hh	禾會	auto
 𥢷	hd	禾當	auto
 𥢸	hg	禾葛	auto
@@ -58189,8 +58191,8 @@
 𦅾	sj	糸敫	auto
 𦅿	sy	糸暈	auto
 𦆀	sx	糸羡	auto
-𦆁	sf	糸凡	auto
-𦆁	ws	亡糸	auto
+𦆁	sk	糸口	
+𦆁	wf	亡凡	
 𦆂	su	糸蜀	auto
 𦆃	sq	糸欠	auto
 𦆄	ss	糸瑟	auto
@@ -60035,14 +60037,14 @@
 𦣁	om	月灭	auto
 𦣂	of	月豐	auto
 𦣃	om	月米	auto
-𦣄	og	月革	auto
-𦣄	wg	亡革	auto
+𦣄	gk	革口	
+𦣄	wf	亡凡	
 𦣅	oj	月爵	auto
 𦣆	om	月靡	auto
 𦣇	ol	月羅	auto
 𦣈	ob	月簿	auto
-𦣉	os	月叟	auto
-𦣉	ws	亡叟	auto
+𦣉	sk	叟口	
+𦣉	wf	亡凡	
 𦣊	no	難月	auto
 𦣊	on	月難	auto
 𦣋	os	月糸	auto
@@ -60059,8 +60061,9 @@
 𦣔	of	月凡	auto
 𦣔	sf	厶凡	auto
 𦣕	op	月飄	auto
-𦣖	wj	亡晶	auto
-𦣖	oj	月晶	auto
+𦣖	jk	晶口	
+𦣖	ok	日口	
+𦣖	wf	亡凡	
 𦣗	or	月饒	auto
 𦣘	on	月囊	auto
 𦣙	op	月丿	auto
@@ -63726,8 +63729,8 @@
 𧝶	yg	衤葛	auto
 𧝷	yh	衣毁	auto
 𧝸	yy	衤雍	auto
-𧝹	wy	亡衣	auto
-𧝹	yf	衣凡	auto
+𧝹	yk	衣口	
+𧝹	wf	亡凡	
 𧝺	ym	衣楙	auto
 𧝻	yc	衣廾	auto
 𧝼	yp	衤剽	auto
@@ -66936,8 +66939,9 @@
 𨏧	il	車盧	auto
 𨏧	li	盧車	auto
 𨏨	ib	車並	auto
-𨏩	iz	車辶	auto
-𨏩	wl	亡連	auto
+𨏩	lk	連口	
+𨏩	zk	辶口	
+𨏩	wf	亡凡	
 𨏪	ig	車戈	
 𨏪	ix	車韱	
 𨏫	ib	車薄	auto
@@ -68853,8 +68857,8 @@
 𨭛	jg	金葛	auto
 𨭜	jf	金方	auto
 𨭝	ju	金煞	auto
-𨭞	jf	金凡	auto
-𨭞	wj	亡金	auto
+𨭞	jk	金口	
+𨭞	wf	亡凡	
 𨭟	jh	金灬	auto
 𨭢	jq	金犬	auto
 𨭥	jy	金業	auto
@@ -74156,8 +74160,8 @@
 𩼇	yc	魚粲	auto
 𩼈	ya	魚奥	auto
 𩼉	yd	魚當	auto
-𩼊	wy	亡魚	auto
-𩼊	yf	魚凡	auto
+𩼊	yk	魚口	
+𩼊	wf	亡凡	
 𩼋	yy	魚業	auto
 𩼌	yw	魚微	auto
 𩼍	yu	魚矢	auto
@@ -80274,7 +80278,8 @@
 𫡿	wm	亠米	auto
 𫢀	wi	亠虫	auto
 𫢁	wj	亠京	auto
-𫢃	wi	亡呈	auto
+𫢃	ik	呈口	
+𫢃	wf	亡凡	
 𫢅	ra	亻一	auto
 𫢈	rd	亻刀	auto
 𫢉	rg	人干	auto
@@ -83432,8 +83437,8 @@
 𬢓	bj	敝见	auto
 𬢔	dj	登见	auto
 𬢕	jj	角戋	auto
-𬢙	jf	角凡	auto
-𬢙	wj	亡角	auto
+𬢙	jk	角口	
+𬢙	wf	亡凡	
 𬢚	py	丿言	auto
 𬢚	ya	言一	auto
 𬢛	yg	言勹	auto
@@ -94095,7 +94100,8 @@
 𱊬	ni	鸟虫	
 𱊭	jn	{臼}鸟	
 𱊭	ny	與鸟	
-𱊮	wn	亡鸟	
+𱊮	nk	鸟口	
+𱊮	wf	亡凡	
 𱊯	nw	鸟攵	
 𱊯	nj	鸟敫	
 𱊰	ny	鸟意	
@@ -99504,8 +99510,8 @@
 𳌕	mb	马匕	auto
 𳌖	mq	马犬	auto
 𳌗	mm	马毛	auto
-𳌘	mf	马凡	auto
-𳌘	wm	亡马	auto
+𳌘	mk	马口	
+𳌘	wf	亡凡	
 𳌙	gy	骨夭	auto
 𳌚	gb	骨奔	auto
 𳌛	gh	骨或	auto
@@ -100002,6 +100008,8 @@
 𧜜	oy	月衣	
 𭩃	wf	夂夫	
 𭩃	ow	月夂	
+𫢄	fk	畐口	
+𫢄	wf	亡凡	
 
 # 待考
 
@@ -108071,7 +108079,6 @@
 #𫡾	wo	亡月	
 #𫢂	jv	京止	
 #𫢂	wv	亠止	
-#𫢄	wt	亡田	
 #𫢇	ra	亻丨	
 #𫢊	bg	丷个	
 #𫢊	ra	人丨	
