@@ -44646,7 +44646,7 @@
 𢭠 fu
 𢭡 fj
 𢭢 fz
-𢭣 fb
+𢭣 fa
 𢭤 gu
 𢭤 uf
 𢭥 ue
@@ -53045,7 +53045,7 @@
 𤰐 af
 𤰑 sf
 𤰑 yf
-𤰒 rb
+𤰒 ra
 𤰓 at
 𤰓 ta
 𤰔 uo
@@ -99999,6 +99999,8 @@
 𭩃 ow
 𫢄 fk
 𫢄 wf
+𠋐 rk
+𰽆 jx
 𣮚 mf
 𣴅 df
 𨯾 jj
