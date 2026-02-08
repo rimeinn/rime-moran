@@ -6134,7 +6134,7 @@
 䪽 yh
 䪾 yp
 䪿 yx
-䫀 sy
+䫀 yg
 䫀 gy
 䫁 yz
 䫂 yd
@@ -48163,8 +48163,8 @@
 𣢡 uq
 𣢢 qy
 𣢢 yq
-𣢣 qd
-𣢣 sq
+𣢣 qg
+𣢣 gq
 𣢤 qv
 𣢤 vq
 𣢥 qq
@@ -93998,7 +93998,8 @@
 𱉚 nu
 𱉛 nu
 𱉜 nf
-𱉝 nd
+𱉝 ng
+𱉝 gn
 𱉞 nm
 𱉟 nf
 𱉡 nb
