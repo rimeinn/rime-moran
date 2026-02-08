@@ -161,7 +161,8 @@
 㒙	rm	亻綿	auto
 㒚	rx	亻心	
 㒚	ry	亻㥯	
-㒛	rv	亻翟	
+㒛	rd	亻翟	
+㒛	rv	亻隹	
 㒜	ry	亻與	auto
 㒝	rm	亻蔑	auto
 㒞	rj	亻嶲	

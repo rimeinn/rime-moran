@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260205"
+version: "20260208"
 sort: original
 columns:
   - text
@@ -181,7 +181,6 @@ AC自动机	aczj
 案发地点	afdd
 案发当天	afdt
 埃菲尔铁塔	afet
-阿房宫赋	afgf
 阿伏加德罗	afjl
 阿伏加德罗常数	afju
 阿非利加	aflj
@@ -216,9 +215,9 @@ A股	agu
 爱国守法	aguf
 爱国诗人	agur
 熬更守夜	aguy
-阿甘正传	agvi
 爱国志士	agvu
 爱国主义精神	agvu
+阿甘正传	agvv
 爱国之心	agvx
 爱国阵线	agvx
 爱国主义	agvy
@@ -1061,8 +1060,6 @@ AVL树	avlu
 哎呦	ay
 昂扬不灭	aybm
 哎哟，不错哦	aybo
-阿谀奉承	ayfi
-阿谀逢迎	ayfy
 奥运冠军	aygj
 爱一个人	aygr
 奥运健儿	ayje
@@ -1599,6 +1596,7 @@ AVL树	avlu
 飑	bcfb
 本次发布	bcfb
 摽	bcfp
+不曾放弃	bcfq
 不测风云	bcfy
 飚	bcfy
 膘肥	bcfz
@@ -1838,7 +1836,6 @@ AVL树	avlu
 不带脑子	bdnz
 彼得帕克	bdpk
 必读篇目	bdpm
-布达佩斯	bdpo
 布达佩斯	bdps
 不得其法	bdqf
 北大清华	bdqh
@@ -4342,7 +4339,6 @@ AVL树	avlu
 别来这一套	blvt
 不来这一套	blvt
 暴露智商	blvu
-不理朝政	blvv
 堡垒之夜	blvy
 本来只有	blvy
 不吝珠玉	blvy
@@ -4646,7 +4642,6 @@ AVL树	avlu
 变天	bmtm
 变通	bmts
 编码提示	bmtu
-百万特效	bmtx
 八门套九星	bmtx
 砭	bmu
 变傻	bmua
@@ -4885,7 +4880,6 @@ AVL树	avlu
 不能实现	bnux
 不能使用	bnuy
 不能适应	bnuy
-百鸟朝凤	bnvf
 百年之后	bnvh
 百鸟争鸣	bnvm
 半年之内	bnvn
@@ -6480,9 +6474,10 @@ B盘	bpj
 别无他途	bwtt
 病危通知书	bwtu
 别无他物	bwtw
+别无他想	bwtx
 别无他选	bwtx
 伴我同行	bwtx
-别无他想	bwtx
+百万特效	bwtx
 别无他用	bwty
 不问是非	bwuf
 比武招亲	bwvq
@@ -7115,7 +7110,6 @@ B盘	bpj
 不要太在意	byty
 饼	byu
 屏	byub
-不要刷屏	byub
 冰霜	byud
 必要手段	byud
 比翼双飞	byuf
@@ -7130,6 +7124,7 @@ B盘	bpj
 拜月神教	byuj
 不用说了	byul
 不雅视频	byup
+不要刷屏	byup
 边远山区	byuq
 伯夷叔齐	byuq
 兵书	byuu
@@ -7232,7 +7227,6 @@ B盘	bpj
 编译优化	byyh
 不亦说乎	byyh
 兵役	byyi
-备用钥匙	byyi
 表演艺术家	byyj
 不一样了	byyl
 不遗余力	byyl
@@ -7321,7 +7315,6 @@ B盘	bpj
 辈份	bzff
 北风	bzfg
 北方	bzfh
-不曾放弃	bzfq
 背负	bzfu
 八字方针	bzfv
 不做凤尾	bzfw
@@ -7773,7 +7766,6 @@ B盘	bpj
 次贷危机	cdwj
 此地无银三百两	cdwl
 此地无银	cdwy
-残冬腊月	cdxy
 菜得一逼	cdyb
 菜的一逼	cdyb
 凑到一起	cdyq
@@ -8050,14 +8042,12 @@ B盘	bpj
 摧城拔寨	cibv
 辞别	cibx
 财产保险	cibx
-参差不一	ciby
 慈悲	cibz
 茨	cic
 茈	cicc
 莿	cicc
 蹭吃蹭喝	cich
 此次	cici
-参差错落	cicl
 刺	cid
 辞掉	cidc
 瓷雕	cidc
@@ -10773,6 +10763,7 @@ C语言	cyy
 断点测试	ddcu
 点点滴滴	dddd
 单打独斗	dddd
+滴滴嗒嗒	dddd
 懂的都懂	dddd
 地地道道	dddd
 大胆的想法	dddf
@@ -10898,7 +10889,6 @@ C语言	cyy
 点滴体会	ddth
 大胆突破	ddtp
 大胆探索	ddts
-滴滴嗒嗒	ddtt
 大大提升	ddtu
 得到体现	ddtx
 大道同源	ddty
@@ -16256,6 +16246,7 @@ D盘	dpj
 恶贼	eezz
 二分	ef
 而非	ef
+阿房宫赋	efgf
 二分查找	efiv
 二分之一	efvy
 二分音符	efyf
@@ -16334,7 +16325,6 @@ D盘	dpj
 已经有了	ejyl
 二级域名	ejym
 而况	ek
-阿喀琉斯	ekls
 而来	el
 二轮复习	elfx
 恶劣环境	elhj
@@ -16420,6 +16410,7 @@ D盘	dpj
 饿莩遍野	epby
 饿殍遍野	epby
 二品大员	epdy
+阿房宫赋	epgf
 E盘	epj
 饿殍枕藉	epvj
 而且	eq
@@ -16974,7 +16965,6 @@ E盘	epj
 负案在逃	fazt
 否	fb
 方便	fb
-法不阿贵	fbag
 防暴部队	fbbd
 分辨不出	fbbi
 翻版必究	fbbj
@@ -17212,7 +17202,6 @@ E盘	epj
 粉雕玉琢	fdyv
 法定义务	fdyw
 釜底游鱼	fdyy
-粉雕玉琢	fdyz
 服毒自尽	fdzj
 服毒自杀	fdzu
 反而	fe
@@ -17861,7 +17850,6 @@ E盘	epj
 方步	fhbu
 废话不多说	fhbu
 符合标准	fhbv
-分毫不差	fhbx
 封侯拜相	fhbx
 防病	fhby
 防备	fhbz
@@ -17953,7 +17941,6 @@ E盘	epj
 符合常理	fhil
 凤凰传奇	fhiq
 放出	fhiu
-繁华盛世	fhiu
 纺锤	fhiv
 符合程序	fhix
 钫	fhj
@@ -17963,7 +17950,6 @@ E盘	epj
 防滑脚垫	fhjd
 分红计划	fhjh
 方剂	fhji
-伏虎降龙	fhjl
 房间	fhjm
 放进	fhjn
 访旧	fhjq
@@ -18070,6 +18056,7 @@ E盘	epj
 非婚生子女	fhun
 防暑	fhuu
 废话少说	fhuu
+繁华盛世	fhuu
 防水	fhuv
 符华上仙	fhux
 福慧双修	fhux
@@ -18656,7 +18643,6 @@ E盘	epj
 封建王朝	fjwi
 饭碗	fjwj
 反诬	fjwu
-封建王朝	fjwv
 范围	fjwz
 返校	fjxc
 反向	fjxd
@@ -19804,7 +19790,7 @@ F盘	fpj
 发生作用	fuzy
 反正	fv
 分钟	fv
-方正不阿	fvba
+方正不阿	fvbe
 发展变化	fvbh
 腹中兵甲	fvbj
 肺朝百脉	fvbm
@@ -22229,7 +22215,6 @@ F盘	fpj
 高产似母猪	gisv
 高城深池	giui
 工程设计	giuj
-各种事情	giuq
 功成身退	giut
 贯彻实施	giuu
 公车上书	giuu
@@ -22899,6 +22884,7 @@ F盘	fpj
 睾	gkp
 高票	gkpc
 公开曝光	gkpg
+公开曝光	gkpg
 羔皮	gkpi
 高攀	gkpj
 高炮	gkpk
@@ -23327,7 +23313,6 @@ F盘	fpj
 国民收入	gmur
 国民生产总值	gmuv
 伽马射线	gmux
-鬼马双星	gmux
 革命事业	gmuy
 光明正大	gmvd
 规模之大	gmvd
@@ -24647,8 +24632,8 @@ G盘	gpj
 固定	gudy
 汩	gudy
 古神低语	gudy
-拱手而降	guej
 孤儿	guer
+拱手而降	guex
 古法	gufa
 股份	guff
 高手风范	guff
@@ -24949,7 +24934,6 @@ G盘	gpj
 共筑爱巢	gvai
 归案	gvan
 皈	gvb
-刚正不阿	gvba
 各种版本	gvbb
 圭表	gvbc
 各种不同的	gvbd
@@ -25026,7 +25010,6 @@ G盘	gpj
 贵州贵阳	gvgy
 跟着感觉走	gvgz
 炔	gvh
-改朝换代	gvhd
 归航	gvhh
 高中会考	gvhk
 鬼火	gvho
@@ -25547,15 +25530,12 @@ G盘	gpj
 高新科技	gxkj
 感谢老板	gxlb
 广西老表	gxlb
-管弦乐队	gxld
 古希腊掌管	gxlg
 高下立见	gxlj
 光鲜亮丽	gxll
 贡献力量	gxll
 高下立判	gxlp
-管弦乐器	gxlq
 公序良俗	gxls
-管弦乐团	gxlt
 狗血淋头	gxlt
 购销两旺	gxlw
 感谢楼主分享	gxlx
@@ -25624,6 +25604,7 @@ G盘	gpj
 姑息养奸	gxyj
 高薪养廉	gxyl
 管弦乐器	gxyq
+管弦乐团	gxyt
 改弦易辙	gxyv
 更弦易辙	gxyv
 各向异性	gxyx
@@ -25756,7 +25737,6 @@ G盘	gpj
 拐骗	gypm
 观音菩萨	gyps
 关音菩萨	gyps
-观音菩萨	gypx
 乖	gyq
 乖巧	gyqc
 光耀千古	gyqg
@@ -27354,7 +27334,6 @@ H股	hgu
 横直	hgvi
 火光烛天	hgvt
 回归正题	hgvt
-鸿鹄之志	hgvv
 后顾之忧	hgvy
 亨	hgw
 霍格沃茨	hgwc
@@ -30537,7 +30516,6 @@ H盘	hpj
 洄游	hvyb
 何至于此	hvyc
 很重要的	hvyd
-呼之欲出	hvyd
 话中有话	hvyh
 诙	hvyh
 会议	hvyi
@@ -30756,7 +30734,6 @@ H盘	hpj
 毫无能力	hwnl
 华年	hwnm
 化脓	hwns
-毫无疑义	hwny
 花盆	hwpf
 画皮	hwpi
 花盘	hwpj
@@ -31824,7 +31801,6 @@ H盘	hpj
 踌躇	ibiu
 初步成效	ibix
 帱	ibj
-重磅嘉宾	ibjb
 抽奖	ibjd
 吃百家饭	ibjf
 筹集	ibji
@@ -32042,7 +32018,6 @@ H盘	hpj
 床单	iddj
 抽刀断水水更流	iddl
 床垫	iddm
-吹弹得破	iddp
 窗洞	idds
 抽刀断水	iddu
 长度单位	iddw
@@ -32065,8 +32040,6 @@ H盘	hpj
 超大规模	idgm
 闯过	idgo
 闯关	idgr
-吹弹歌舞	idgw
-重点工作	idgz
 吃点好的	idhd
 闯祸	idho
 承兑汇票	idhp
@@ -32101,7 +32074,6 @@ H盘	hpj
 吃得苦中苦	idkk
 差点哭了	idkl
 吃大亏了	idkl
-吹弹可破	idkp
 吃得苦中苦，方为人上人	idkr
 插队落户	idlh
 创立	idli
@@ -32139,7 +32111,6 @@ H盘	hpj
 窗体	idti
 戳到痛处	idti
 窗台	idtl
-重大突破	idtp
 重睹天日	idtr
 创痛	idts
 尝到甜头	idtt
@@ -32505,7 +32476,6 @@ H盘	hpj
 碜	ifu
 辰砂	ifua
 趁手	ifub
-重复上屏	ifub
 吃饭睡觉打豆豆	ifud
 陈设	ifue
 称身	ifuf
@@ -32518,6 +32488,7 @@ H盘	hpj
 春风十里	iful
 充分说明	ifum
 陈说	ifuo
+重复上屏	ifup
 陈述	ifuu
 沉睡	ifuv
 沉渣	ifva
@@ -33677,7 +33648,6 @@ H盘	hpj
 出家为僧	ijws
 常见问题	ijwt
 产物	ijwu
-传记文学	ijwx
 忏	ijx
 产销	ijxc
 创价学会	ijxh
@@ -34888,7 +34858,6 @@ I盘	ipj
 虫蛀	isvu
 垂死挣扎	isvv
 出馊主意	isvy
-垂死挣扎	isvz
 充	isw
 重温	iswf
 珫	iswi
@@ -34973,6 +34942,7 @@ I盘	ipj
 出头露面	itlm
 长途旅行	itlx
 传统美德	itmd
+朝廷钦犯	itqf
 长途汽车	itqi
 唱，跳，rap，篮球	itrq
 秤砣虽小压千斤	itsj
@@ -34988,6 +34958,7 @@ I盘	ipj
 传统生意	ituy
 呈堂证供	itvg
 出头之日	itvr
+朝堂之上	itvu
 传统文化	itwh
 传统文明	itwm
 城通网盘	itwp
@@ -35048,7 +35019,6 @@ I盘	ipj
 锄地	iudi
 滁	iudi
 濋	iudi
-乘胜追击	iudj
 出生登记	iudj
 出道	iudk
 城市道路	iudl
@@ -35506,7 +35476,6 @@ I盘	ipj
 垂直平分线	ivpx
 重整旗鼓	ivqg
 重振旗鼓	ivqg
-纯属巧合	ivqh
 吹气	ivqi
 垂直起降	ivqj
 差之千里	ivql
@@ -35553,6 +35522,7 @@ I盘	ipj
 成者王败者寇	ivwk
 成者王侯败者寇	ivwk
 吃着碗里	ivwl
+朝中无人	ivwr
 成者为王	ivww
 纯真无邪	ivwx
 垂危	ivwz
@@ -35651,7 +35621,6 @@ I盘	ipj
 赤心报国	ixbg
 痴心不悔	ixbh
 重新编辑	ixbj
-重心不稳	ixbw
 程序编写	ixbx
 垂涎不已	ixby
 长线操作	ixcz
@@ -35696,7 +35665,6 @@ I盘	ipj
 畅销产品	ixip
 辰戌丑未	ixiw
 诚心诚意	ixiy
-重新振作	ixiz
 城乡结合部	ixjb
 撤销决定	ixjd
 痴心绝对	ixjd
@@ -35775,6 +35743,7 @@ I盘	ipj
 抽象主义	ixvy
 除夕之夜	ixvy
 创先争优	ixvy
+重新振作	ixvz
 喘息未定	ixwd
 持续为您导航	ixwh
 出现问题	ixwt
@@ -35887,7 +35856,6 @@ I盘	ipj
 揣进	iyjn
 春雨惊春清谷天	iyjt
 产业结构调整	iyjv
-重要进展	iyjv
 抽样检验	iyjy
 成一家言	iyjy
 嘬	iyk
@@ -35924,6 +35892,7 @@ I盘	ipj
 春蚓秋蛇	iyqu
 吃一堑长一智	iyqv
 吃一堑，长一智	iyqv
+朝阳群众	iyqv
 出于人道	iyrd
 耻言人过	iyrg
 传音入密	iyrm
@@ -36027,7 +35996,6 @@ I盘	ipj
 处子之身	izvu
 赤子之心	izvx
 成则为王，败则为寇	izwk
-种族问题	izwt
 成则为王	izww
 创造需求	izxq
 车载系统	izxt
@@ -37783,6 +37751,7 @@ I盘	ipj
 鸡精	jijy
 即插即用	jijy
 解除禁言	jijy
+基础教育	jijy
 吉	jik
 忌口	jikb
 即可	jike
@@ -37835,7 +37804,6 @@ I盘	ipj
 鸡苗	jimc
 几秒	jimc
 楫	jime
-九重魔鹤	jime
 及门	jimf
 骥	jimg
 急忙	jimh
@@ -38577,7 +38545,6 @@ I盘	ipj
 艰苦努力	jknl
 饥渴难耐	jknn
 卷款跑路	jkpl
-艰苦朴素	jkpo
 艰苦朴素	jkps
 健康情况	jkqk
 卷款潜逃	jkqt
@@ -39934,7 +39901,7 @@ JK制服	jkvf
 旧年	jqnm
 腱鞘囊肿	jqnv
 九	jqp
-久	jqp
+臼	jqp
 臼	jqpa
 极其平常	jqpi
 加权平均	jqpj
@@ -40604,11 +40571,11 @@ JK制服	jkvf
 嚼蜡	jtla
 集体劳动	jtld
 焦头烂额	jtle
-鸡汤来咯	jtlg
 脚踏两只船	jtli
 脚踏两条船	jtli
 据她了解	jtlj
 据他了解	jtlj
+鸡汤来咯	jtll
 进退两难	jtln
 绝伦	jtlp
 绝路	jtlu
@@ -41461,7 +41428,6 @@ JK制服	jkvf
 尽忠尽职	jvjv
 简直就像	jvjx
 禁止交易	jvjy
-基础教育	jvjy
 尽职尽责	jvjz
 脚趾扣地	jvkd
 积铢累寸	jvlc
@@ -42214,7 +42180,6 @@ JK制服	jkvf
 截留	jxlq
 接龙	jxls
 劫掠	jxlt
-交响乐团	jxlt
 揭露	jxlu
 敬贤礼士	jxlu
 戒律	jxlv
@@ -42555,7 +42520,6 @@ JK制服	jkvf
 警方	jyfh
 军用飞机	jyfj
 奖优罚劣	jyfl
-降妖伏魔	jyfm
 举一反三	jyfs
 旌	jyfu
 警服	jyfu
@@ -42624,7 +42588,6 @@ JK制服	jkvf
 净产	jyij
 积忧成疾	jyij
 京爷冲击	jyij
-降妖除魔	jyim
 精纯	jyip
 集腋成裘	jyiq
 技艺超群	jyiq
@@ -42999,7 +42962,6 @@ JK制服	jkvf
 君子不夺人所好	jzbh
 君子报仇	jzbi
 剪子包袱锤	jzbi
-君子报仇	jzbq
 君子不器	jzbq
 尖嘴薄舌	jzbu
 尽在不言中	jzbv
@@ -43146,7 +43108,6 @@ JK制服	jkvf
 蔻丹	kbdj
 口袋	kbdl
 看不到了	kbdl
-开辟道路	kbdl
 阔别多年	kbdn
 可变电容器	kbdq
 可变电容	kbdr
@@ -43506,7 +43467,6 @@ JK制服	jkvf
 可锻铸铁	kdvt
 克敌制胜	kdvu
 宽打窄用	kdvy
-扛鼎之作	kdvz
 狂妄	kdwh
 宽大为怀	kdwh
 快到碗里来	kdwl
@@ -44555,7 +44515,6 @@ JK制服	jkvf
 开工	klgs
 开了个好头	klgt
 开挂	klgw
-快来个人陪我	klgw
 开了个玩笑	klgx
 炌	klh
 开荒	klhd
@@ -44832,7 +44791,6 @@ JK制服	jkvf
 卡那霉素	knms
 可能没有	knmy
 困难群众	knqv
-可能是个	knsg
 喀纳斯湖	knsh
 可能是吧	knub
 可能是个	knug
@@ -44899,6 +44857,7 @@ JK制服	jkvf
 看破不说破	kpbp
 昆布	kpbu
 困惫	kpbz
+开辟道路	kpdl
 困顿	kpdp
 可怕的是	kpdu
 卡牌大师	kpdu
@@ -45268,7 +45227,6 @@ JK制服	jkvf
 倥偬	kszs
 开头	kt
 开通	kt
-开天辟地	ktbd
 开题报告	ktbg
 课堂笔记	ktbj
 口吐白沫	ktbm
@@ -45481,7 +45439,6 @@ JK制服	jkvf
 看上他了	kutl
 看上她了	kutl
 堀	kutq
-咳声叹气	kutq
 苦痛	kuts
 裤腿	kutv
 矻	kuu
@@ -47258,7 +47215,6 @@ JK制服	jkvf
 乱花渐欲迷人眼	lhjy
 啷	lhk
 灵魂拷问	lhkw
-礼坏乐崩	lhlb
 厉害了我的哥	lhlg
 朗朗	lhlh
 乐呵乐呵	lhlh
@@ -47350,6 +47306,7 @@ JK制服	jkvf
 瑯琊	lhya
 浪游	lhyb
 稂莠	lhyb
+礼坏乐崩	lhyb
 来回运费	lhyf
 利害攸关	lhyg
 狼烟	lhyj
@@ -47490,7 +47447,6 @@ JK制服	jkvf
 蛎	liil
 蜊	liil
 轹	liil
-流淌出来	liil
 立春	liip
 凌迟处死	liis
 蠡	liit
@@ -47537,6 +47493,7 @@ JK制服	jkvf
 里拉	lila
 理疗	lilc
 力量	lild
+历朝历代	lild
 离了	lile
 历历	lili
 醴酪	lilk
@@ -47974,8 +47931,8 @@ JK制服	jkvf
 略举一二	ljye
 褴	ljyj
 襕	ljyj
-路径依赖	ljyj
 拦腰	ljyk
+路径依赖	ljyl
 襕	ljyl
 立即引起	ljyq
 劣迹艺人	ljyr
@@ -48372,7 +48329,6 @@ JK制服	jkvf
 来岁	llsv
 来头	lltb
 氯雷他定	lltd
-唠唠叨叨	lltt
 玲珑剔透	lltt
 琳琅天上	lltu
 理论体系	lltx
@@ -49846,6 +49802,7 @@ JK制服	jkvf
 略差	ltia
 略称	ltig
 聊天窗口	ltik
+流淌出来	ltil
 龙头产品	ltip
 老调重谈	ltit
 锊	ltj
@@ -49939,7 +49896,6 @@ JK制服	jkvf
 雷霆雨露	ltyl
 蓝田猿人	ltyr
 略语	ltyu
-两弹一星	ltyx
 掠影	ltyy
 老天有眼	ltyy
 路途遥远	ltyy
@@ -50069,6 +50025,7 @@ JK制服	jkvf
 撸串	luir
 老生常谈	luit
 六十出头	luit
+历史传统	luit
 露出	luiu
 炉石传说	luiu
 流式传输	luiu
@@ -50234,7 +50191,6 @@ JK制服	jkvf
 庐山真面目	luvm
 庐山真面	luvm
 六十周年	luvn
-历史传统	luvt
 露珠	luvu
 两审终审制	luvv
 历史转折	luvv
@@ -50392,7 +50348,6 @@ JK制服	jkvf
 旅程	lvig
 劣质产品	lvip
 铝	lvj
-六朝金粉	lvjf
 领证结婚	lvjh
 律己	lvji
 两者皆可抛	lvjp
@@ -50414,7 +50369,6 @@ JK制服	jkvf
 来者可追	lvkv
 隆重开业	lvky
 屡战屡败	lvlb
-历朝历代	lvld
 绿了	lvle
 履历	lvli
 连战连捷	lvlj
@@ -51036,7 +50990,6 @@ JK制服	jkvf
 领跑	lypk
 令牌	lypl
 灵牌	lypl
-泪眼婆娑	lypo
 泪眼婆娑	lyps
 泪雨滂沱	lypt
 伶俜	lypy
@@ -54168,7 +54121,6 @@ JK制服	jkvf
 冥思苦索	msks
 冥思苦想	mskx
 莫斯利安	msla
-玛莎拉蒂	msld
 墨索里尼	msln
 没什么错	msmc
 没什么好说的	msmd
@@ -54653,9 +54605,7 @@ JK制服	jkvf
 明知不可为而为之	mvbv
 明知不可为	mvbw
 美中不足	mvbz
-谋朝篡位	mvcw
 民众参与	mvcy
-面朝大海	mvdh
 美洲大陆	mvdl
 门诊大楼	mvdl
 美洲大蠊	mvdl
@@ -54759,7 +54709,6 @@ JK制服	jkvf
 拇指外翻	mvwf
 墨汁未干	mvwg
 目中无人	mvwr
-满朝文武	mvww
 迷之微笑	mvwx
 明治维新	mvwx
 蜜汁微笑	mvwx
@@ -56527,6 +56476,7 @@ JK制服	jkvf
 昵称	niig
 霓裳	niih
 逆产	niij
+农畜产品	niip
 腻虫	niis
 铌	nij
 泥浆	nijd
@@ -56550,6 +56500,7 @@ JK制服	jkvf
 匿名	nimy
 泥煤	nimz
 妮	nin
+哪朝哪代	nind
 妳	nine
 你能	ning
 能吃能喝	ninh
@@ -57038,10 +56989,10 @@ JK制服	jkvf
 拿了鸡毛当令箭	nljj
 耐碱	nljm
 耐久	nljq
-努力开辟	nlkb
 能力考核	nlkh
 努力开创	nlki
 耐看	nlkj
+努力开辟	nlkp
 哪凉快哪待著去	nlkq
 哪凉快哪呆着去	nlkq
 努力开拓	nlkt
@@ -57614,7 +57565,6 @@ JK制服	jkvf
 内容包括	nrbk
 男人本色	nrbs
 内容不详	nrbx
-疑人不用	nrby
 纳入财政	nrcv
 纳入地方	nrdf
 暖冬	nrds
@@ -57669,7 +57619,6 @@ JK制服	jkvf
 男人至死是少年	nrvn
 内容摘要	nrvy
 懦弱无能	nrwn
-疑人勿用	nrwy
 暖胃	nrwz
 暖心	nrxn
 暖袖	nrxq
@@ -57690,12 +57639,12 @@ JK制服	jkvf
 农	nsb
 宁死不从	nsbc
 农办	nsbj
-宁死不降	nsbj
 脓包	nsbk
 能散不连	nsbl
 宁死不屈	nsbq
 年岁不饶人	nsbr
 你是不是	nsbs
+宁死不降	nsbx
 弄	nsc
 弄错	nsco
 农村	nscp
@@ -57886,6 +57835,7 @@ JK制服	jkvf
 凝神屏气	nubq
 你是不是	nubu
 你说不说	nubu
+凝神屏息	nubx
 你是不想	nubx
 奴才	nucl
 你说的对	nudd
@@ -57949,7 +57899,6 @@ JK制服	jkvf
 女生男相	nunx
 逆市飘红	nuph
 奴仆	nupu
-凝神屏息	nupx
 南沙群岛	nuqd
 怒气	nuqi
 能说清楚	nuqi
@@ -57986,7 +57935,6 @@ JK制服	jkvf
 女生外向	nuwx
 怒	nux
 逆势下跌	nuxd
-女生宿舍	nuxu
 逆水行舟	nuxv
 奴性	nuxy
 那是一次	nuyc
@@ -58079,7 +58027,6 @@ JK制服	jkvf
 女流	nvlq
 女垒	nvlz
 女魔	nvmo
-哪朝哪代	nvnd
 哪吒闹海	nvnh
 女奴	nvnu
 年终盘点	nvpd
@@ -58268,7 +58215,6 @@ JK制服	jkvf
 啮齿	nxii
 内心充满	nxim
 恼羞成怒	nxin
-农畜产品	nxip
 脑下垂体	nxit
 孽畜	nxiu
 镊	nxj
@@ -58433,7 +58379,6 @@ JK制服	jkvf
 佞臣	nyif
 弄月嘲风	nyif
 凝成	nyig
-疑云重重	nyii
 难以察觉	nyij
 那一刹那	nyin
 难以承受	nyiu
@@ -60233,7 +60178,6 @@ JK制服	jkvf
 牌面	plmm
 普利茅斯	plms
 普罗米修斯	plms
-暴力美学	plmx
 排名	plmy
 普罗米亚	plmy
 排尿	plnc
@@ -60539,7 +60483,6 @@ JK制服	jkvf
 品鉴	pnjm
 聘金	pnjn
 品酒	pnjq
-拍摄技巧	pnjq
 姘居	pnju
 拼接	pnjx
 排难解忧	pnjy
@@ -60597,7 +60540,6 @@ JK制服	jkvf
 品种	pnvs
 拼缀	pnvv
 玭	pnw
-暴虐无道	pnwd
 聘问	pnwf
 品玩	pnwj
 品味	pnwz
@@ -60846,9 +60788,7 @@ JK制服	jkvf
 脾气急躁	pqjz
 贫穷落后	pqlh
 聘请律师	pqlu
-屏气敛息	pqlx
 抛妻离子	pqlz
-屏气凝神	pqnu
 跑前跑后	pqph
 平起平坐	pqpz
 骗取钱财	pqqc
@@ -61194,7 +61134,6 @@ P图	ptu
 谱系	puxi
 平时训练	puxl
 普贤	puxm
-屏声息气	puxq
 普选	puxr
 排水系统	puxt
 铺叙	puxu
@@ -61228,7 +61167,6 @@ P图	ptu
 配置方式	pvfu
 批准发行	pvfx
 品种很多	pvhd
-屏住呼吸	pvhx
 品质超群	pviq
 P站	pvj
 拍照角度	pvjd
@@ -61871,7 +61809,6 @@ P站	pvj
 鞒	qcgq
 鞘	qcgx
 翘	qcgy
-青藏高原	qcgy
 翘	qch
 巧合	qche
 桥涵	qchj
@@ -62466,11 +62403,11 @@ P站	pvj
 全国上下	qgux
 起锅烧油	qguy
 情感障碍	qgva
-琴歌指弹	qgvd
 窃国者侯	qgvh
 切骨之仇	qgvi
 情感专家	qgvj
 千古真理	qgvl
+琴歌指弹	qgvt
 窃钩者诛	qgvv
 勤工助学	qgvx
 全国政协	qgvx
@@ -62528,7 +62465,6 @@ P站	pvj
 气候反常	qhfi
 强化服务	qhfw
 气候干旱	qhgh
-前后夹击	qhgj
 强化管理	qhgl
 期货公司	qhgs
 求和公式	qhgu
@@ -62811,6 +62747,7 @@ P站	pvj
 七猫	qimk
 气脉	qiml
 器皿	qimn
+清朝末年	qimn
 期末	qimo
 棋	qimq
 柒	qimq
@@ -63150,7 +63087,6 @@ P站	pvj
 清洁能源	qjny
 清洁皮肤	qjpf
 琴剑飘零	qjpl
-勤俭朴素	qjpo
 七进七出	qjqi
 切记切记	qjqj
 倾尽全力	qjql
@@ -63312,11 +63248,11 @@ P站	pvj
 倾力而为	qlew
 权力腐败	qlfb
 强烈反对	qlfd
-强烈反弹	qlfd
 强烈反差	qlfi
 曲率飞船	qlfi
 强烈反抗	qlfk
 权力分配	qlfp
+强烈反弹	qlft
 全力发展	qlfv
 强烈反响	qlfx
 强烈反应	qlfy
@@ -63610,7 +63546,6 @@ P站	pvj
 清末民初	qmmi
 前茅	qmmk
 前面	qmmm
-千磨万难	qmmn
 阡陌	qmmo
 杄	qmmq
 椠	qmmv
@@ -63709,7 +63644,6 @@ P站	pvj
 清明上河图	qmut
 签署	qmuu
 潜水	qmuv
-伽马射线	qmux
 全面实现	qmux
 签	qmv
 前轴	qmvb
@@ -64360,7 +64294,6 @@ P站	pvj
 求战	qqvj
 区区之见	qqvj
 求助	qqvu
-曲曲折折	qqvu
 曲曲折折	qqvv
 强权政治	qqvv
 拳拳之心	qqvx
@@ -64745,7 +64678,6 @@ P站	pvj
 浅色模式	qsmu
 奇思妙想	qsmx
 嬛	qsn
-寝食难安	qsna
 气死偶咧	qsol
 秋色平分	qspf
 琴瑟琵琶	qspp
@@ -65004,7 +64936,6 @@ P站	pvj
 欺霜傲雪	quax
 癯	qub
 寝食不安	quba
-气势磅礴	qubb
 求生不得	qubd
 泉水蹦迪	qubd
 求神拜佛	qubf
@@ -65462,7 +65393,6 @@ P站	pvj
 清蒸鲈鱼	qvly
 骑着毛驴看唱本	qvmb
 穷追猛打	qvmd
-清朝末年	qvmn
 其中某些	qvmx
 群众满意	qvmy
 弃之脑后	qvnh
@@ -65810,7 +65740,6 @@ P站	pvj
 倾心吐胆	qxtd
 切题	qxti
 全线通车	qxti
-弃械投降	qxtj
 清醒头脑	qxtn
 全线投入	qxtr
 清新脱俗	qxts
@@ -65818,6 +65747,7 @@ P站	pvj
 情绪调整	qxtv
 奇想天外	qxtw
 群系统消息	qxtx
+弃械投降	qxtx
 窃听	qxty
 抢先体验	qxty
 全息投影	qxty
@@ -67125,7 +67055,6 @@ P站	pvj
 任何事项	rhux
 人后受罪	rhuz
 如获至宝	rhvb
-热火朝天	rhvt
 人海战术	rhvu
 如何掌握	rhvw
 攘外	rhwl
@@ -68706,7 +68635,6 @@ P站	pvj
 荣幸之至	rxvv
 人心稳定	rxwd
 乳臭未干	rxwg
-人畜无害	rxwh
 人心惟危	rxww
 任性妄为	rxww
 热心网友	rxwy
@@ -68835,7 +68763,6 @@ P站	pvj
 如有神助	ryuv
 人员伤亡	ryuw
 让一追二	ryve
-日月重光	ryvg
 如蝇逐臭	ryvi
 荣誉证书	ryvu
 仁义之师	ryvu
@@ -69995,7 +69922,6 @@ P站	pvj
 搜集整理	sjvl
 丧家之犬	sjvq
 三种	sjvs
-四脚朝天	sjvt
 私家侦探	sjvt
 三界之外	sjvw
 绥靖主义	sjvy
@@ -70341,7 +70267,6 @@ P站	pvj
 扫码支付	smvf
 三昧真火	smvh
 什么状况	smvk
-素面朝天	smvt
 司马昭之心路人皆知	smvv
 司马昭之心，路人皆知	smvv
 司马昭之心	smvx
@@ -70901,7 +70826,6 @@ P站	pvj
 送展	ssvj
 送终	ssvs
 搜索指数	ssvu
-素食主义	ssvy
 送往	sswh
 虽死无憾	sswh
 斯斯文文	ssww
@@ -70995,7 +70919,6 @@ P站	pvj
 速比	subi
 四时八节	subj
 素白	subl
-莎士比亚	suby
 死伤遍野	suby
 窣	subz
 苏	suc
@@ -71369,7 +71292,6 @@ P站	pvj
 虽有	svyb
 随意	svyi
 苏州园林	svyl
-三朝元老	svyl
 随缘	svyr
 遂愿	svyr
 襚	svys
@@ -71699,8 +71621,6 @@ P站	pvj
 死在这里	szvl
 丧子之痛	szvt
 所做之事	szvu
-似曾相识燕归来	szxl
-似曾相识	szxu
 三自一包	szyb
 嗓子眼儿	szye
 四则运算	szys
@@ -71754,7 +71674,7 @@ P站	pvj
 天安门广场	tami
 天安门事件	tamj
 天安门城楼	taml
-她	tan
+牠	tan
 他年	tanm
 沓	tao
 拓片	tapm
@@ -72875,7 +72795,6 @@ P站	pvj
 弟	tib
 提拔	tiba
 体表	tibc
-特种部队	tibd
 坦诚布公	tibg
 蹄膀	tibh
 提笔	tibi
@@ -72898,6 +72817,7 @@ P站	pvj
 踢掉	tidc
 提调	tidc
 涕	tidd
+天朝地府	tidf
 提灯	tidg
 调查的结果	tidg
 通常都会	tidh
@@ -72949,6 +72869,7 @@ P站	pvj
 提出	tiiu
 剔除	tiiu
 铁杵成针	tiiv
+突出重围	tiiw
 推陈出新	tiix
 锑	tij
 提交	tijc
@@ -73089,7 +73010,6 @@ P站	pvj
 退出直播间	tivj
 体重	tivs
 突出主题	tivt
-突出重围	tivw
 瑅	tiw
 提问	tiwf
 体温	tiwf
@@ -73443,7 +73363,6 @@ P站	pvj
 炭窑	tjyk
 推荐一款	tjyk
 调节音量	tjyl
-胎教音乐	tjyl
 脱缰野马	tjym
 贪欲	tjyu
 团结友善	tjyu
@@ -73452,6 +73371,7 @@ P站	pvj
 团结一心	tjyx
 统计意义	tjyy
 条件优越	tjyy
+胎教音乐	tjyy
 弹奏	tjzb
 贪赃	tjzh
 摊子	tjzi
@@ -74572,17 +74492,15 @@ P站	pvj
 天气不错	tqbc
 特遣部队	tqbd
 天气不好	tqbh
-图穷匕见	tqbj
-图穷匕首见	tqbj
 提取编码	tqbm
 提前半年	tqbn
 提前半天	tqbt
 套期保值	tqbv
 图穷匕见	tqbx
+图穷匕首见	tqbx
 提取存款	tqck
 通权达变	tqdb
 通衢大道	tqdd
-同仇敌慨	tqdk
 通情达理	tqdl
 挑起对立	tqdl
 天气恶劣	tqel
@@ -75579,7 +75497,6 @@ P站	pvj
 推掉	tvdc
 退掉	tvdc
 调整弹道	tvdd
-天朝地府	tvdf
 天真的想法	tvdf
 退党	tvdh
 推挡	tvdh
@@ -75776,7 +75693,6 @@ P站	pvj
 推演	tvyj
 弹指一挥间	tvyj
 太重要了	tvyl
-听着音乐	tvyl
 退隐	tvyn
 特种邮票	tvyp
 通知要求	tvyq
@@ -75789,6 +75705,7 @@ P站	pvj
 逃之夭夭	tvyy
 停止营业	tvyy
 听者有意	tvyy
+听着音乐	tvyy
 退	tvz
 退走	tvzb
 退赃	tvzh
@@ -75861,7 +75778,6 @@ P站	pvj
 天文望远镜	twwj
 台湾问题	twwt
 天文物理学	twwx
-弹丸小国	twxg
 体外循环	twxh
 天文学家	twxj
 天文学科	twxk
@@ -76982,7 +76898,6 @@ T恤衫	txuj
 数白论黄	ublh
 手里	ubli
 受理	ubli
-树碑立传	ubli
 收揽	ublj
 傻不拉叽	ublj
 傻不拉几	ublj
@@ -77000,7 +76915,6 @@ T恤衫	txuj
 收拢	ubls
 收录	ublu
 稍不留神	ublu
-水泊梁山	ublu
 树碑立传	ublv
 上不了网	ublw
 狩猎	ublx
@@ -79908,7 +79822,6 @@ T恤衫	txuj
 山雀	ujqt
 山区	ujqu
 世界气象组织	ujqv
-神经纤维	ujqw
 身家千万	ujqw
 煽情	ujqy
 舍近求远	ujqy
@@ -80078,6 +79991,7 @@ T恤衫	txuj
 时间限制	ujxv
 山下	ujxw
 闪瞎	ujxw
+神经纤维	ujxw
 缮写	ujxx
 扇形	ujxy
 实际需要	ujxy
@@ -80929,6 +80843,7 @@ U盘	upj
 视频聊天	uplt
 商品流通	uplt
 顺路	uplu
+水泊梁山	uplu
 视频录像	uplx
 楯	upm
 楯	upmd
@@ -81007,7 +80922,6 @@ U盘	upj
 收钱办事	uqbu
 视钱财如粪土	uqct
 事情到了这步田地	uqdd
-深仇大恨	uqdh
 申请登记	uqdj
 手起刀落	uqdl
 上强度了	uqdl
@@ -81319,7 +81233,6 @@ U盘	upj
 殊死搏斗	usbd
 誓死不二	usbe
 生死不顾	usbg
-誓死不降	usbj
 生死不离	usbl
 生死不明	usbm
 势所必然	usbr
@@ -81338,7 +81251,6 @@ U盘	upj
 身死道消	usdx
 圣萨尔瓦多	used
 疏散风邪	usfx
-折损过半	usgb
 睡死过去	usgq
 生死关头	usgt
 少私寡欲	usgy
@@ -81686,7 +81598,6 @@ U盘	upj
 书虫	uuis
 输出	uuiu
 实时传输	uuiu
-身受重伤	uuiu
 嗜杀成性	uuix
 山上彻也	uuiy
 鼠	uuj
@@ -81917,6 +81828,7 @@ U盘	upj
 杀声震天	uuvt
 数珠	uuvu
 说是这么说	uuvu
+身受重伤	uuvu
 水生植物	uuvw
 事实真相	uuvx
 上上之选	uuvx
@@ -82614,10 +82526,10 @@ U盘	upj
 生性多疑	uxdy
 首席弟子	uxdz
 率性而为	uxew
-上下分屏	uxfb
 上下浮动	uxfd
 上下翻滚	uxfg
 蛇心佛口	uxfk
+上下分屏	uxfp
 实现方式	uxfu
 数学分析	uxfx
 神仙反应	uxfy
@@ -82789,7 +82701,6 @@ U盘	upj
 衰变	uybm
 拾遗补阙	uybq
 拾遗补缺	uybq
-时运不齐	uybq
 啥也不是	uybs
 率部	uybu
 稍有不慎	uybu
@@ -83406,6 +83317,7 @@ U盘	upj
 轴	vbiy
 准备充足	vbiz
 帚	vbj
+重磅嘉宾	vbjb
 周角	vbjc
 骤降	vbjd
 真不简单	vbjd
@@ -83754,6 +83666,7 @@ U盘	upj
 站得高看得远	vdgy
 站得高，看得远	vdgy
 指导工作	vdgz
+重点工作	vdgz
 制定规则	vdgz
 真的很棒	vdhb
 真的很不错	vdhc
@@ -83811,7 +83724,6 @@ U盘	upj
 直到今天	vdjt
 斩钉截铁	vdjt
 幢	vdjt
-指弹吉他	vdjt
 壮举	vdju
 指点江山	vdju
 指导教师	vdju
@@ -85815,7 +85727,6 @@ U盘	upj
 真假难辨	vjnb
 这几年来	vjnl
 瞻念	vjnm
-招降纳叛	vjnp
 知己难求	vjnq
 捉奸拿双	vjnu
 瞻	vjo
@@ -85912,6 +85823,7 @@ U盘	upj
 至今为止	vjwv
 浙江温州	vjwv
 朝九晚五	vjww
+传记文学	vjwx
 站位	vjwz
 正襟危坐	vjwz
 展销	vjxc
@@ -86443,7 +86355,6 @@ U盘	upj
 注明出处	vmii
 这么长时间	vmij
 桌面窗口	vmik
-这么重要	vmiy
 这么简单	vmjd
 正面交锋	vmjf
 专门机构	vmjg
@@ -86882,8 +86793,8 @@ U盘	upj
 准确无误	vqww
 追求幸福	vqxf
 周期信号	vqxh
+追求效率	vqxl
 志趣相投	vqxt
-追求效率	vqxu
 正确引导	vqyd
 知其一不知其二	vqye
 征求意见	vqyj
@@ -87451,6 +87362,7 @@ U盘	upj
 主体结构	vtjg
 专题节目	vtjm
 转头就跑	vtjp
+指弹吉他	vtjt
 主体间性	vtjx
 专题讲座	vtjz
 状态空间	vtkj
@@ -87468,7 +87380,6 @@ U盘	upj
 主题模式	vtmu
 整体配合	vtph
 整体疲软	vtpr
-朝廷钦犯	vtqf
 斩头去尾	vtqw
 政通人和	vtrh
 长他人志气	vtrq
@@ -87485,7 +87396,6 @@ U盘	upj
 终天之恨	vtvh
 知疼着热	vtvr
 折腾折腾	vtvt
-朝堂之上	vtvu
 占统治地位	vtvw
 状态转移	vtvy
 诸天万界	vtwj
@@ -87601,7 +87511,6 @@ U盘	upj
 煮饭	vufj
 直升飞机	vufj
 主犯	vufj
-重生父母	vufm
 忠实粉丝	vufs
 祝福	vufu
 嘱咐	vufu
@@ -88194,7 +88103,6 @@ U盘	upj
 种种情况	vvqk
 政治权利	vvql
 智者千虑	vvql
-知识青年	vvqn
 追求	vvqq
 真真切切	vvqq
 整整齐齐	vvqq
@@ -88295,7 +88203,6 @@ U盘	upj
 执政为民	vvwm
 政治文明	vvwm
 助纣为虐	vvwn
-朝中无人	vvwr
 正直无私	vvws
 壮志未酬身先死	vvws
 这种问题	vvwt
@@ -88484,7 +88391,6 @@ U盘	upj
 抓贼	vwzz
 这下	vx
 只想	vx
-朝鲜半岛	vxbd
 真想不到	vxbd
 忠心不二	vxbe
 这些办法	vxbf
@@ -88624,7 +88530,6 @@ U盘	upj
 振兴中华	vxvh
 只许州官放火	vxvh
 主显账号	vxvh
-朝鲜战场	vxvi
 诛心之论	vxvl
 执行主任	vxvr
 专心致志	vxvv
@@ -88811,8 +88716,9 @@ U盘	upj
 转业军人	vyjr
 昼夜交替	vyjt
 制药集团	vyjt
-注意节制	vyjv
+重要进展	vyjv
 主要机制	vyjv
+注意节制	vyjv
 中央军委	vyjw
 中央纪委	vyjw
 注意脚下	vyjx
@@ -88889,7 +88795,6 @@ U盘	upj
 重友轻色	vyqs
 真有其事	vyqu
 职业拳手	vyqu
-朝阳群众	vyqv
 质疑权威	vyqw
 战意全无	vyqw
 正因如此	vyrc
@@ -89125,6 +89030,7 @@ U盘	upj
 捉贼捉赃	vzvz
 只字未改	vzwg
 只字未提	vzwt
+种族问题	vzwt
 止增笑耳	vzxe
 种子选手	vzxu
 站在原地	vzyd
@@ -90459,7 +90365,6 @@ U盘	upj
 完成使命	wium
 维持生命	wium
 望穿双眼	wiuy
-万乘之国	wivg
 无耻之徒	wivt
 维持秩序	wivx
 无耻之尤	wivy
@@ -90665,7 +90570,6 @@ U盘	upj
 万亩	wjmu
 椀	wjmw
 玩命	wjmy
-我舅姥爷	wjmy
 完美	wjmz
 婉	wjn
 万能	wjng
@@ -90819,12 +90723,11 @@ U盘	upj
 外界因素	wjys
 婉约	wjyt
 无济于事	wjyu
-危机意识	wjyv
+危机意识	wjyu
 未经允许	wjyx
 顽	wjyy
 丸子	wjzi
 文件资料	wjzl
-万箭攒心	wjzx
 万箭钻心	wjzx
 味	wk
 无可辩驳	wkbb
@@ -91011,8 +90914,8 @@ U盘	upj
 外场	wlih
 万里长城	wlii
 歪缠	wlij
-伪劣产品	wlij
 万里长空	wlik
+伪劣产品	wlip
 外传	wlir
 外出	wliu
 万里长征	wliv
@@ -91548,7 +91451,6 @@ U盘	upj
 未能幸免	wnxm
 万宁象棋	wnxq
 无奈选择	wnxz
-万能钥匙	wnyi
 玩弄于股掌之间	wnyj
 万能钥匙	wnyu
 玩弄于股掌之中	wnyv
@@ -91884,7 +91786,6 @@ U盘	upj
 玩人丧德	wrsd
 为人所不齿	wrsi
 文人骚客	wrsk
-吾日三省	wrsu
 温柔似水	wrsu
 吾日三省吾身	wrsu
 为人所知	wrsv
@@ -92020,7 +91921,6 @@ U盘	upj
 无私有弊	wsyb
 五四运动	wsyd
 五四以来	wsyl
-无损音乐	wsyl
 无损音频	wsyp
 无损压缩	wsys
 万死一生	wsyu
@@ -92101,9 +92001,9 @@ U盘	upj
 无图言吊	wtyd
 为统一起见	wtyj
 舞台艺术	wtyu
-我同意这门婚事	wtyu
+问题意识	wtyu
 我田引水	wtyu
-问题意识	wtyv
+我同意这门婚事	wtyu
 问题严重	wtyv
 无土栽培	wtzp
 问题在于	wtzy
@@ -92472,6 +92372,7 @@ U盘	upj
 误诊	wuvf
 无证	wuvg
 物证	wuvg
+万乘之国	wuvg
 伍长	wuvh
 物质	wuvi
 五十知天命	wuvm
@@ -93726,7 +93627,6 @@ U盘	upj
 下不了台	xblt
 行百里者半九十	xblu
 希伯来文	xblw
-朝不虑夕	xblx
 下不了决心	xblx
 西伯利亚	xbly
 希伯来语	xbly
@@ -94983,7 +94883,6 @@ U盘	upj
 小孩都馋哭了	xhdl
 销魂夺魄	xhdp
 喜欢的人	xhdr
-巡航导弹	xhdt
 胸怀大志	xhdv
 心怀恶意	xhey
 心怀二意	xhey
@@ -95327,6 +95226,7 @@ U盘	upj
 现场教学	xijx
 洗净	xijy
 锡	xijy
+宣传教育	xijy
 吸	xik
 西口	xikb
 锡矿	xikd
@@ -95621,7 +95521,6 @@ U盘	upj
 锈迹斑斑	xjbb
 性价比低	xjbd
 虚假报道	xjbd
-解决办法	xjbf
 想尽办法	xjbf
 性价比高	xjbg
 星级宾馆	xjbg
@@ -98180,7 +98079,6 @@ U盘	upj
 序言	xuyj
 心生一计	xuyj
 需要	xuyk
-欣赏音乐	xuyl
 血手幽灵	xuyl
 嘘声一片	xuyp
 许愿	xuyr
@@ -98197,6 +98095,7 @@ U盘	upj
 叙	xuyy
 诩	xuyy
 现实意义	xuyy
+欣赏音乐	xuyy
 虚增	xuzg
 享受在后	xuzh
 须子	xuzi
@@ -98260,7 +98159,6 @@ U盘	upj
 行政拘留	xvjl
 心智健全	xvjq
 新账旧账一起算	xvjs
-宣传教育	xvjy
 星之卡比	xvkb
 心直口快	xvkk
 下逐客令	xvkl
@@ -98760,7 +98658,6 @@ U盘	upj
 心系苍生	xxcu
 详细参数	xxcu
 斜	xxd
-小心地滑	xxd
 瀣	xxda
 械斗	xxdb
 卸掉	xxdc
@@ -98771,6 +98668,7 @@ U盘	upj
 吸星大法	xxdf
 心下嘀咕	xxdg
 熊熊大火	xxdh
+小心地滑	xxdh
 鞋底	xxdi
 谢谢大家	xxdj
 澥	xxdj
@@ -101582,7 +101480,6 @@ U盘	upj
 一个中心两个基本点	ygvd
 严格执法	ygvf
 一个中国	ygvg
-言归正传	ygvi
 有功之臣	ygvi
 有过之而无不及	ygvj
 一国之君	ygvj
@@ -103734,7 +103631,6 @@ U盘	upj
 原来你也	ylny
 一路碾压	ylny
 一路平安	ylpa
-音乐频道	ylpd
 娱乐频道	ylpd
 盂兰盆会	ylph
 严厉批评	ylpp
@@ -103754,7 +103650,6 @@ U盘	upj
 一脸认真	ylrv
 眼里容不得沙子	ylrz
 眼里揉不下沙子	ylrz
-伊丽莎白	ylsb
 英伦三岛	ylsd
 亚里斯多德	ylsd
 耶路撒冷	ylsl
@@ -103806,7 +103701,6 @@ U盘	upj
 叶落知秋	ylvq
 依赖注入	ylvr
 娱乐至死	ylvs
-优良传统	ylvt
 原来只是	ylvu
 意料中事	ylvu
 娱乐至上	ylvu
@@ -103846,7 +103740,6 @@ U盘	upj
 一力降十会	ylxh
 一路下滑	ylxh
 月落星沉	ylxi
-音乐学家	ylxj
 一流学科	ylxk
 遗留下来	ylxl
 以泪洗脸	ylxl
@@ -103863,7 +103756,6 @@ U盘	upj
 医疗行为	ylxw
 月朗星稀	ylxx
 一路向西	ylxx
-音乐学院	ylxy
 有两下子	ylxz
 越来越暗	ylya
 有利有弊	ylyb
@@ -105005,6 +104897,7 @@ U盘	upj
 鱼肉百姓	yrbx
 援兵	yrby
 用人不疑	yrby
+疑人不用	yrby
 宛	yrby
 隐忍不言	yrby
 用人不疑，疑人不用	yrby
@@ -105646,7 +105539,6 @@ U盘	upj
 涌向	ysxd
 用项	ysxd
 有所想法	ysxf
-饮食习惯	ysxg
 有所下降	ysxj
 涌现	ysxm
 用心	ysxn
@@ -105923,7 +105815,6 @@ U盘	upj
 乐舞	ytwu
 有头无尾	ytww
 以汤沃雪	ytwx
-有头无尾	ytwy
 约为	ytwz
 越位	ytwz
 悦	ytx
@@ -106736,7 +106627,6 @@ U盘	upj
 一只胳膊	yvgb
 有这个想法	yvgf
 一展歌喉	yvgh
-遗传工程	yvgi
 预制构件	yvgj
 依照惯例	yvgl
 杨枝甘露	yvgl
@@ -107956,7 +107846,7 @@ U盘	upj
 膺	yyov
 影	yyp
 一语破的	yypd
-一夜暴富	yypf
+音乐频道	yypd
 阴阳平衡	yyph
 硬盘	yypj
 鹰派	yypl
@@ -108162,6 +108052,7 @@ U盘	upj
 语言习惯	yyxg
 阴阳相隔	yyxg
 影戏	yyxi
+音乐学家	yyxj
 冤冤相报何时了	yyxl
 有印象了	yyxl
 愿意效劳	yyxl
@@ -108183,6 +108074,7 @@ U盘	upj
 欲扬先抑	yyxy
 牙牙学语	yyxy
 欲抑先扬	yyxy
+音乐学院	yyxy
 颖	yyy
 应由	yyyb
 应有	yyyb
@@ -108314,7 +108206,6 @@ U盘	upj
 以子之矛	yzvm
 一族之长	yzvv
 原子质量单位	yzvw
-一字之差	yzvx
 一字未改	yzwg
 有增无减	yzwj
 原子武器	yzwq
@@ -108578,7 +108469,6 @@ U盘	upj
 资本主义国家	zbvj
 坐不住了	zbvl
 资本主义道路	zbvl
-坐北朝南	zbvn
 罪不至死	zbvs
 兹不赘述	zbvu
 资本主义	zbvy
@@ -109971,6 +109861,7 @@ U盘	upj
 钻了出来	zlil
 走了出去	zliq
 甾	zlit
+总揽朝政	zliv
 资料查询	zlix
 走了几步	zljb
 杂粮煎饼	zljb
@@ -110043,7 +109934,6 @@ U盘	upj
 在职	zlvi
 自乱阵脚	zlvj
 载重	zlvs
-总揽朝政	zlvv
 藻类植物	zlvw
 载文	zlwf
 在望	zlwh
@@ -111668,12 +111558,12 @@ U盘	upj
 早有耳闻	zyew
 造谣诽谤	zyfb
 早有防备	zyfb
-左右分屏	zyfb
 自有分寸	zyfc
 资源丰富	zyff
 早有防范	zyff
 自由发挥	zyfh
 自由泛滥	zyfl
+左右分屏	zyfp
 资源分配	zyfp
 自由分配	zyfp
 自愿放弃	zyfq
@@ -111863,13 +111753,13 @@ U盘	upj
 子子孙孙	zzss
 走走停停	zztt
 祖宗十八代	zzud
-字字诛心	zzux
 早作准备	zzvb
 祖宗之法不可变	zzvb
 祖宗之法	zzvf
 字字珠玑	zzvj
 孜孜追求	zzvq
 自作主张	zzvv
+字字诛心	zzvx
 最最重要	zzvy
 字字箴言	zzvy
 贼窝	zzwo
@@ -114409,6 +114299,7 @@ CD机	cdj
 耳朵眼	edy
 饿肚子	edz
 二房东	efd
+阿房宫	efg
 二哥大	egd
 恩格尔	ege
 俄国人	egr
@@ -116469,7 +116360,6 @@ git	git
 困难户	knh
 可能就	knj
 可能吗	knm
-可能是	kns
 Keynote	knt
 可能是	knu
 可能性	knx
