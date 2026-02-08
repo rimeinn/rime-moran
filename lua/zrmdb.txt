@@ -150,6 +150,7 @@
 㒙 rm
 㒚 rx
 㒚 ry
+㒛 rd
 㒛 rv
 㒜 ry
 㒝 rm
