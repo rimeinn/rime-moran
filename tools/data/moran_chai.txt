@@ -6145,8 +6145,8 @@
 䪽	yh	頁号	auto
 䪾	yp	頁彡	auto
 䪿	yx	頁囟	auto
-䫀	sy	巳頁	auto
-䫀	gy	艮頁	auto
+䫀	yg	頁艮	
+䫀	gy	艮頁	
 䫁	yz	頁自	auto
 䫂	yd	頁多	auto
 䫃	yi	頁辰	auto
@@ -48174,8 +48174,8 @@
 𣢡	uq	生欠	auto
 𣢢	qy	欠幼	auto
 𣢢	yq	幼欠	auto
-𣢣	qd	欠丶	auto
-𣢣	sq	巳欠	auto
+𣢣	qg	欠艮	
+𣢣	gq	艮欠	
 𣢤	qv	欠占	auto
 𣢤	vq	占欠	auto
 𣢥	qq	丘欠	auto
@@ -94009,7 +94009,8 @@
 𱉚	nu	鸟失	
 𱉛	nu	鸟矢	
 𱉜	nf	鸟付	
-𱉝	nd	鸟丶	
+𱉝	ng	鸟艮	
+𱉝	gn	艮鸟	
 𱉞	nm	鸟母	
 𱉟	nf	鸟𰀁	
 𱉡	nb	鸟弁	
@@ -106754,8 +106755,8 @@
 #𪟓	dk	刀昆	
 #𪟔	kd	囗刂	
 #𪟕	jd	箕刂	
-#𪟙	ld	力丶	
-#𪟙	sl	巳力	
+#𪟙	lg	力艮	
+#𪟙	gl	艮力	
 #𪟚	lm	力名	
 #𪟚	ml	名力	
 #𪟞	nc	男才	
