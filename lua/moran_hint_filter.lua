@@ -77,7 +77,7 @@ function Module.get_auxcode_hint(env, cand, gcand)
       for i, cp in moran.codepoints(gcand.text) do
          local cpaux = env.aux_table[cp]
          if cpaux and #cpaux > 0 then
-            cpaux = cpaux:match("^[a-z]+")  -- 取第一个
+            cpaux = cpaux:match("[a-z]+")  -- 取第一个
             if result == "" then
                result = cpaux
             else
