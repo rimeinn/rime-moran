@@ -1,10 +1,12 @@
 -- Moran Translator (for Express Editor)
 -- Copyright (c) 2023-2026 ksqsf
 --
--- Ver: 0.4.0
+-- Ver: 0.4.1
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.4.1: 修復 aux_table 格式未適配問題。
 --
 -- 0.4.0: 適配多字詞重排。
 --
