@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260208"
+version: "20260211"
 sort: by_weight
 columns:
   - text
@@ -107225,8 +107225,6 @@ WiFi	wifi
 音頻	ynpn
 飲品	ynpn
 銀屏	ynpy
-有男朋友	ynpy
-有女朋友	ynpy
 氤	ynq
 引橋	ynqc
 音強	ynqd

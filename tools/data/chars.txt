@@ -8030,6 +8030,7 @@
 䪒	zhi	0	0
 䪒	zhu	0	0
 䪓	die	0	0
+䪓	tie	0	0
 䪔	bu	0	0
 䪔	fu	0	0
 䪕	ju	0	0
