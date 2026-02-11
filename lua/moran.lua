@@ -48,14 +48,10 @@ function Module.load_zrmdb()
    end
    local aux_table = {}
    for line in file:lines() do
-      line = line:match("[^\r\n]+")
-      local key, value = line:match("(.+) (.+)")
+      local key, value = line:match("^(.+)\t(.+)$")
       key = utf8.codepoint(key)
       if key and value then
-         if aux_table[key] == nil then
-            aux_table[key] = ""
-         end
-         aux_table[key] = aux_table[key] .. " " .. value
+         aux_table[key] = " " .. value
       end
    end
    file:close()
