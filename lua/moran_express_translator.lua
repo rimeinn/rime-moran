@@ -283,12 +283,13 @@ function top.func(input, seg, env)
          local immediate_set = {}
          local deferred_set = {}
          for cand in smart_iter do
+            local cand_len = utf8.len(cand.text)
             local defer = false
             -- 如果輸出有詞，說明在拼詞，用戶很可能要使用高頻字，故此時停止出簡讓全。
-            if (ijrq_enabled and utf8.len(cand.text) > 1) then
+            if (ijrq_enabled and cand_len > 1) then
                ijrq_enabled = false
             end
-            if (ijrq_enabled and utf8.len(cand.text) == 1) then
+            if (ijrq_enabled and cand_len == 1) then
                local fixed_codes = env.rfixed():lookup(cand.text)
                for code in fixed_codes:gmatch("%S+") do
                   if #code < 4

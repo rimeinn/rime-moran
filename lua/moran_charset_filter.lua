@@ -73,8 +73,13 @@ function Top.CodepointInCharset(env, codepoint)
       return env.memo[codepoint]
    end
    if #env.memo > env.memo_cap then
+      local cnt = 0
       for k, _ in pairs(env.memo) do
          env.memo[k] = nil
+         cnt = cnt + 1
+         if cnt >= env.memo_cap / 2 then
+            break
+         end
       end
    end
    if not moran.unicode_code_point_is_chinese(codepoint) then
