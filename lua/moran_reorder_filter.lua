@@ -129,7 +129,7 @@ function Top.handle_collecting(env, ctx, cand)
       for _, c in ipairs(ctx.delay_slot) do
          Top.handle_matching(env, ctx, c)
       end
-      ctx.delay_slot = {}
+      ctx.delay_slot = nil
 
       -- 處理當前看到的 smart2。
       if ctx.phase == kDone then
@@ -192,9 +192,6 @@ end
 function Top.flush(env, ctx)
    for i = ctx.fixed_next, #ctx.fixed_list do
       Top.yield_exact(env, ctx.fixed_list[i])
-   end
-   for _, c in ipairs(ctx.delay_slot) do
-      Top.yield_exact(env, c)
    end
    for _, c in ipairs(ctx.smart_list) do
       Top.yield_exact(env, c)
