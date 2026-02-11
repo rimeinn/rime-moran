@@ -237,7 +237,7 @@ function Top.yield_smart_in_place_of_fixed(env, scand, fcand)
    if fcand.comment == "`F" then
       scand.comment = env.quick_code_indicator .. scand.comment
    elseif fcand.type == "pinned" then
-      scand.comment = env.pin_indicator .. scand.comment
+      scand.comment = env.pin_indicator
    end
    yield(scand)
 end
