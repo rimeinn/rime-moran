@@ -2,7 +2,9 @@
 --
 -- Author: ksqsf
 -- License: GPLv3
--- Version: 0.3.1
+-- Version: 0.3.2
+--
+-- 0.3.2: 少許性能優化。
 --
 -- 0.3.1: 修正單字輔助碼匹配。
 --
@@ -439,20 +441,21 @@ function Module.candidate_match(env, cand, aux)
 end
 
 function Module.get_first_and_last_codepoints(word)
-   local first = nil
-   local last = nil
-   for _, c in utf8.codes(word) do
-      if not first then
-         first = c
-      end
-      last = c
+   local first = utf8.codepoint(word, 1)
+   if not first then return nil, nil end
+   local len = utf8.len(word)
+   if len == 1 then
+      return first, first
    end
+   local last_byte_pos = utf8.offset(word, -1)
+   local last = last_byte_pos and utf8.codepoint(word, last_byte_pos) or first
    return first, last
 end
 
 function Module.char_match(env, codepoint, vaux)
    local auxcodes = env.aux_table[codepoint]
-   return auxcodes and auxcodes:match(vaux)
+   if not auxcodes then return false end
+   return string.find(auxcodes, vaux, 1, true) ~= nil
 end
 
 -- NOTE: Unused old implementation, preserved for reference.
