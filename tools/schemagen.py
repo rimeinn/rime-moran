@@ -40,6 +40,15 @@ def dedup(list):
     return [seen.setdefault(x, x) for x in list if x not in seen]
 
 
+def read_zrmdb_table(path):
+    result = defaultdict(list)
+    with open(path, 'r') as f:
+        for line in f:
+            [char, auxes] = line.strip().split('\t')
+            result[char] = auxes.split(' ')
+    return result
+
+
 def read_txt_table(path):
     result = defaultdict(list)
     with open(path, 'r') as f:
@@ -85,9 +94,9 @@ def to_auxiliary_codes(char):
     if not auxiliary_table:
         match args.auxiliary_code:
             case 'zrm':
-                auxiliary_table = read_txt_table('tools/data/zrmdb.txt')
+                auxiliary_table = read_zrmdb_table('tools/data/zrmdb.txt')
             case 'user':
-                auxiliary_table = read_txt_table('tools/data/userdb.txt')
+                auxiliary_table = read_zrmdb_table('tools/data/userdb.txt')
             case _:
                 raise ValueError('Unknown auxiliary code ' + args.auxiliary_code)
     return auxiliary_table[char]
