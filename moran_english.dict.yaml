@@ -6,7 +6,7 @@
 
 ---
 name: moran_english
-version: "20260203"
+version: "20260211"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -57285,8 +57285,7 @@ Gemini CLI	GeminiCLI
 OpenHands	OpenHands
 Plandex	Plandex
 Nano Banana	NanoBanana
-Nano Banana 2	NanoBanana2
-Nano Banana Pro	Nano Banana Pro
+Nano Banana Pro	NanoBananaPro
 Veo	Veo
 Qwen	Qwen
 Qwen Chat	Qwen Chat
@@ -57307,6 +57306,6 @@ ad infinitum	adinfinitum
 nutella	nutella
 Ferrero	Ferrero
 AirTag	AirTag
-LibreOffice LibreOffice
+LibreOffice	LibreOffice
 Anki	Anki
 SuperMemo	SuperMemo
