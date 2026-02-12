@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260208"
+version: "20260211"
 sort: original
 columns:
   - text
@@ -104208,8 +104208,6 @@ U盘	upj
 饮品	ynpn
 殷	ynpu
 银屏	ynpy
-有男朋友	ynpy
-有女朋友	ynpy
 氤	ynq
 引桥	ynqc
 音强	ynqd
