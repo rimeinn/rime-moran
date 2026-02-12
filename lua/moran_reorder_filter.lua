@@ -142,6 +142,7 @@ end
 
 function Top.handle_matching(env, ctx, cand)
    if ctx.threshold == 0 then
+      Top.flush(env, ctx)
       ctx.phase = kDone
       Top.yield_exact(env, cand)
       return
@@ -197,7 +198,6 @@ function Top.flush(env, ctx)
       Top.yield_exact(env, c)
    end
    ctx.fixed_list = {}
-   ctx.delay_slot = {}
    ctx.smart_list = {}
 end
 
