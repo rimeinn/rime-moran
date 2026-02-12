@@ -8796,6 +8796,7 @@ use_preset_vocabulary: false
 䪒	vi;wv	0
 䪒	vu;wv	0
 䪓	dx;wv	0
+䪓	tx;wv	0
 䪔	bu;wf	0
 䪔	fu;wf	0
 䪕	ju;wm	0
@@ -22342,7 +22343,6 @@ use_preset_vocabulary: false
 楳	mz;mm	0
 楴	di;md	0
 楴	ui;md	0
-極	ji;ma	0
 極	ji;mj	0
 楶	jx;cd	0
 楶	jx;mz	0
@@ -30610,8 +30610,8 @@ use_preset_vocabulary: false
 籋	mi;ve	0
 籋	nx;ve	0
 籌	ib;vu	0
-籍	ji;vj	66610
 籍	ji;vx	66610
+籍	ji;vj	66610
 籎	yi;vy	0
 籏	qi;vq	0
 籐	tg;vt	0
@@ -38541,8 +38541,8 @@ use_preset_vocabulary: false
 轀	wf;iw	0
 轁	dk;iy	0
 轁	tk;iy	0
-轂	gu;ui	0
 轂	gu;iu	0
+轂	gu;ui	0
 轃	qn;iq	0
 轃	vf;iq	0
 轄	xw;ih	0

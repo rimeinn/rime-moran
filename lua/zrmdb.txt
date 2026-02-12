@@ -13519,7 +13519,7 @@
 楲	mw
 楳	mm
 楴	md
-極	ma mj
+極	mj
 楶	cd mz
 楷	mj
 楸	mq
@@ -18343,7 +18343,7 @@
 籊	vd vv
 籋	ve
 籌	vu
-籍	vj vx
+籍	vx vj
 籎	vy
 籏	vq
 籐	vt
@@ -23196,7 +23196,7 @@
 輿	ib ba jb
 轀	im iw
 轁	iy
-轂	ui iu
+轂	iu ui
 轃	iq
 轄	ih
 轅	iy
