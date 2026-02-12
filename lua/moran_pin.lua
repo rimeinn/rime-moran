@@ -379,7 +379,7 @@ function pin_processor.func(key_event, env)
     if key_event.keycode == 0x74 then
         user_db.toggle_pin_status(input, text)
         context:refresh_non_confirmed_composition()
-    -- + -, prioritize the current pinned candidate
+        -- + -, prioritize the current pinned candidate
     elseif key_event.keycode == 0x2d then
         -- If text is not from a pinned candidate, do nothing.
         local idx = user_db.move_pin_up(input, text)
@@ -387,7 +387,7 @@ function pin_processor.func(key_event, env)
         if idx ~= nil then
             pin_processor.highlight_index(env, idx-1)
         end
-    -- + =, + +, deprioritize the current pinned candidate
+        -- + =, + +, deprioritize the current pinned candidate
     elseif key_event.keycode == 0x3d or key_event.keycode == 0x2b then
         -- If text is not from a pinned candidate, do nothing.
         local idx = user_db.move_pin_down(input, text)
@@ -395,7 +395,7 @@ function pin_processor.func(key_event, env)
         if idx ~= nil then
             pin_processor.highlight_index(env, idx-1)
         end
-    -- + a
+        -- + a
     elseif key_event.keycode == 0x61 then
         -- todo: add quick code
         return kNoop
@@ -440,7 +440,7 @@ function pin_filter.func(t_input, env)
         end
         -- descending sort
         table.sort(commits, function(a, b)
-            return a.commits > b.commits
+                       return a.commits > b.commits
         end)
         for _, unpacked in ipairs(commits) do
             local cand = Candidate("pinned", segment._start, segment._end, unpacked.phrase, env.indicator)
