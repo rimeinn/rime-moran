@@ -42,11 +42,11 @@
 local Top = {}
 
 function Top.init(env)
-   -- At most THRESHOLD smart candidates are subject to reordering,
-   -- for performance's sake.
-   env.reorder_threshold = 50
-   env.quick_code_indicator = env.engine.schema.config:get_string("moran/quick_code_indicator") or "⚡️"
-   env.pin_indicator = env.engine.schema.config:get_string("moran/pin/indicator") or "📌"
+    -- At most THRESHOLD smart candidates are subject to reordering,
+    -- for performance's sake.
+    env.reorder_threshold = 50
+    env.quick_code_indicator = env.engine.schema.config:get_string("moran/quick_code_indicator") or "⚡️"
+    env.pin_indicator = env.engine.schema.config:get_string("moran/pin/indicator") or "📌"
 end
 
 function Top.fini(env)
@@ -67,32 +67,32 @@ local kMatching    = 1
 local kDone        = 2
 
 function Top.func(t_input, env)
-   local ctx = {
-      phase = kCollecting,  -- 當前狀態
-      fixed_list = {},      -- 等待匹配的固定候選
-      fixed_next = 1,       -- 下一个待匹配的固定候選匹配的
-      smart_list = {},      -- 等待匹配的整句候選
-      threshold = env.reorder_threshold,
-      pin_set = {},         -- 候選是否是 pinned
+    local ctx = {
+        phase = kCollecting,  -- 當前狀態
+        fixed_list = {},      -- 等待匹配的固定候選
+        fixed_next = 1,       -- 下一个待匹配的固定候選匹配的
+        smart_list = {},      -- 等待匹配的整句候選
+        threshold = env.reorder_threshold,
+        pin_set = {},         -- 候選是否是 pinned
 
-      -- 用於處理 smart1
-      delay_slot = {},      -- 延遲槽
-      additional_check = 0  -- 轉移到 kMatching 前額外需要看到的 smart 數量
-   }
+        -- 用於處理 smart1
+        delay_slot = {},      -- 延遲槽
+        additional_check = 0  -- 轉移到 kMatching 前額外需要看到的 smart 數量
+    }
 
-   for cand in t_input:iter() do
-      if cand:get_genuine().type == "punct" then
-         yield(cand)
-      elseif ctx.phase == kCollecting then
-         Top.handle_collecting(env, ctx, cand)
-      elseif ctx.phase == kMatching then
-         Top.handle_matching(env, ctx, cand)
-      else
-         Top.yield_exact(env, cand)
-      end
-   end
+    for cand in t_input:iter() do
+        if cand:get_genuine().type == "punct" then
+            yield(cand)
+        elseif ctx.phase == kCollecting then
+            Top.handle_collecting(env, ctx, cand)
+        elseif ctx.phase == kMatching then
+            Top.handle_matching(env, ctx, cand)
+        else
+            Top.yield_exact(env, cand)
+        end
+    end
 
-   Top.flush(env, ctx)
+    Top.flush(env, ctx)
 end
 
 --------------------------------------------------------------------------------
@@ -100,78 +100,78 @@ end
 --------------------------------------------------------------------------------
 
 function Top.handle_collecting(env, ctx, cand)
-   -- print('handle_collecting: ' .. cand.text .. ', type=' .. cand.type .. ', comment=' .. cand.comment)
+    -- print('handle_collecting: ' .. cand.text .. ', type=' .. cand.type .. ', comment=' .. cand.comment)
 
-   -- 以下是固定候選
-   if cand.type == "pinned" then
-      -- Pin 輸出, 需要額外檢查 smart1
-      table.insert(ctx.fixed_list, cand)
-      ctx.pin_set[cand.text] = true
-      ctx.additional_check = 1
+    -- 以下是固定候選
+    if cand.type == "pinned" then
+        -- Pin 輸出, 需要額外檢查 smart1
+        table.insert(ctx.fixed_list, cand)
+        ctx.pin_set[cand.text] = true
+        ctx.additional_check = 1
 
-   elseif cand.comment == "`F" then
-      -- 碼表輸出（且非 Pin）
-      if not ctx.pin_set[cand.text] then
-         table.insert(ctx.fixed_list, cand)
-      end
+    elseif cand.comment == "`F" then
+        -- 碼表輸出（且非 Pin）
+        if not ctx.pin_set[cand.text] then
+            table.insert(ctx.fixed_list, cand)
+        end
 
-   -- 以下是 smart 候選
-   elseif ctx.additional_check > 0 then
-      -- 看到了 smart1，只記錄它。在 MATCHING 階段再處理。
-      table.insert(ctx.delay_slot, cand)
-      ctx.additional_check = ctx.additional_check - 1
+        -- 以下是 smart 候選
+    elseif ctx.additional_check > 0 then
+        -- 看到了 smart1，只記錄它。在 MATCHING 階段再處理。
+        table.insert(ctx.delay_slot, cand)
+        ctx.additional_check = ctx.additional_check - 1
 
-   else
-      -- 看到了 smart2，轉向 kMatching 狀態。
-      ctx.phase = kMatching
+    else
+        -- 看到了 smart2，轉向 kMatching 狀態。
+        ctx.phase = kMatching
 
-      -- 可能收集到了 smart1，先處理。
-      for _, c in ipairs(ctx.delay_slot) do
-         Top.handle_matching(env, ctx, c)
-      end
-      ctx.delay_slot = nil
+        -- 可能收集到了 smart1，先處理。
+        for _, c in ipairs(ctx.delay_slot) do
+            Top.handle_matching(env, ctx, c)
+        end
+        ctx.delay_slot = nil
 
-      -- 處理當前看到的 smart2。
-      if ctx.phase == kDone then
-         Top.yield_exact(env, cand)
-      else
-         Top.handle_matching(env, ctx, cand)
-      end
-   end
+        -- 處理當前看到的 smart2。
+        if ctx.phase == kDone then
+            Top.yield_exact(env, cand)
+        else
+            Top.handle_matching(env, ctx, cand)
+        end
+    end
 end
 
 function Top.handle_matching(env, ctx, cand)
-   if ctx.threshold == 0 then
-      Top.flush(env, ctx)
-      ctx.phase = kDone
-      Top.yield_exact(env, cand)
-      return
-   else
-      ctx.threshold = ctx.threshold - 1
-   end
+    if ctx.threshold == 0 then
+        Top.flush(env, ctx)
+        ctx.phase = kDone
+        Top.yield_exact(env, cand)
+        return
+    else
+        ctx.threshold = ctx.threshold - 1
+    end
 
-   -- print('handle_matching: ' .. cand.text .. ', threshold=' .. tostring(ctx.threshold))
+    -- print('handle_matching: ' .. cand.text .. ', threshold=' .. tostring(ctx.threshold))
 
-   table.insert(ctx.smart_list, cand)
-   while ctx.fixed_next <= #ctx.fixed_list do
-      local fcand = ctx.fixed_list[ctx.fixed_next]
-      if not Top.reorderable(fcand) then
-         Top.yield_exact(env, fcand)
-         ctx.fixed_next = ctx.fixed_next + 1
-      else
-         local si, scand = Top.find_matching_scand(ctx, fcand)
-         if si == nil then
-            break
-         end
-         Top.yield_smart_in_place_of_fixed(env, scand, fcand)
-         ctx.fixed_next = ctx.fixed_next + 1
-         table.remove(ctx.smart_list, si)
-      end
-   end
-   if ctx.fixed_next > #ctx.fixed_list then
-      Top.flush(env, ctx)
-      ctx.phase = kDone
-   end
+    table.insert(ctx.smart_list, cand)
+    while ctx.fixed_next <= #ctx.fixed_list do
+        local fcand = ctx.fixed_list[ctx.fixed_next]
+        if not Top.reorderable(fcand) then
+            Top.yield_exact(env, fcand)
+            ctx.fixed_next = ctx.fixed_next + 1
+        else
+            local si, scand = Top.find_matching_scand(ctx, fcand)
+            if si == nil then
+                break
+            end
+            Top.yield_smart_in_place_of_fixed(env, scand, fcand)
+            ctx.fixed_next = ctx.fixed_next + 1
+            table.remove(ctx.smart_list, si)
+        end
+    end
+    if ctx.fixed_next > #ctx.fixed_list then
+        Top.flush(env, ctx)
+        ctx.phase = kDone
+    end
 end
 
 --------------------------------------------------------------------------------
@@ -180,63 +180,69 @@ end
 
 --- 在 smart_list 中查找匹配 fcand 的 scand，返回下標和 scand 對象。
 function Top.find_matching_scand(ctx, fcand)
-   for si = #ctx.smart_list, 1, -1 do
-      local scand = ctx.smart_list[si]
-      if Top.candidate_match(scand, fcand) then
-         return si, scand
-      end
-   end
-   return nil, nil
+    for si = #ctx.smart_list, 1, -1 do
+        local scand = ctx.smart_list[si]
+        if Top.candidate_match(scand, fcand) then
+            return si, scand
+        end
+    end
+    return nil, nil
 end
 
 --- 輸出所有剩下的候選。
 function Top.flush(env, ctx)
-   for i = ctx.fixed_next, #ctx.fixed_list do
-      Top.yield_exact(env, ctx.fixed_list[i])
-   end
-   for _, c in ipairs(ctx.smart_list) do
-      Top.yield_exact(env, c)
-   end
-   ctx.fixed_list = {}
-   ctx.smart_list = {}
+    for i = ctx.fixed_next, #ctx.fixed_list do
+        Top.yield_exact(env, ctx.fixed_list[i])
+    end
+    for _, c in ipairs(ctx.smart_list) do
+        Top.yield_exact(env, c)
+    end
+    ctx.fixed_list = {}
+    ctx.smart_list = {}
 end
 
 --- cand 是否有可能被重排（即是否有可能是 smart 輸出）。
 function Top.reorderable(cand)
-   local len = utf8.len(cand.text)
-   return (len > 1 and #cand.preedit >= 2 * len) or (len == 1 and #cand.preedit <= 5)
+    local len = utf8.len(cand.text)
+    return (len > 1 and #cand.preedit >= 2 * len) or (len == 1 and #cand.preedit <= 5)
 end
 
 --- 檢查 scand 是否可以替代 fcand 。
 ---
 --- Preedit 檢查確保 scand 不單單對應於從輸入的前綴。
 function Top.candidate_match(scand, fcand)
-   if scand.text ~= fcand.text then
-      return false
-   end
-   local spreedit = scand.preedit
-   local fpreedit = fcand.preedit
-   return (spreedit == fpreedit or
-           ((#fpreedit <= #spreedit and #fpreedit >= #spreedit - (#spreedit + 1) // 3 + 1)
-            and spreedit:gsub('%s', '') == fpreedit))
+    if scand.text ~= fcand.text then
+        return false
+    end
+    local spreedit = scand.preedit
+    local fpreedit = fcand.preedit
+    if spreedit ~= fpreedit then
+        return false
+    end
+    return (#fpreedit <= #spreedit and #fpreedit >= #spreedit - (#spreedit + 1) // 3 + 1)
+        and spreedit:gsub('%s', '') == fpreedit
 end
 
 --- 輸出候選但恢復簡快碼提示符。若非簡快碼，則直接輸出。
 function Top.yield_exact(env, cand)
-   if cand.comment == "`F" then
-      cand.comment = env.quick_code_indicator
-   end
-   yield(cand)
+    if cand.comment == "`F" then
+        cand.comment = env.quick_code_indicator
+    end
+    yield(cand)
 end
 
 --- 用 scand 替代 fcand 並輸出。
 function Top.yield_smart_in_place_of_fixed(env, scand, fcand)
-   if fcand.comment == "`F" then
-      scand.comment = env.quick_code_indicator .. scand.comment
-   elseif fcand.type == "pinned" then
-      scand.comment = env.pin_indicator
-   end
-   yield(scand)
+    if fcand.comment == "`F" then
+        scand.comment = env.quick_code_indicator .. scand.comment
+    elseif fcand.type == "pinned" then
+        scand.comment = env.pin_indicator
+    end
+    yield(scand)
 end
 
 return Top
+
+-- Local Variables:
+-- lua-indent-level: 4
+-- End:
