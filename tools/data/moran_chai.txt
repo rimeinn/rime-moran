@@ -32861,10 +32861,9 @@
 𠂜	pa	丿丨	auto
 𠂝	pv	丿中	auto
 𠂞	px	丿兮	auto
-𠂟	pq	丿䒑	auto
-𠂠	pq	丿䒑	auto
-𠂡	jf	几𰀁	auto
-𠂡	pe	丿二	auto
+𠂟	pp	丿丿	
+𠂠	pg	丿𠃌	
+𠂡	jf	几𰀁	
 𠂢	pp	𠂆丿	auto
 𠂣	px	𠂆𫜹	auto
 𠂤	vv	{追}	
@@ -36147,7 +36146,7 @@
 𠰙	kk	口刊	auto
 𠰚	ke	口尔	auto
 𠰛	ug	山古	auto
-𠰜	kq	口䒑	auto
+𠰜	kh	口乎	
 𠰝	ks	口罒	auto
 𠰝	sk	罒口	auto
 𠰞	kk	口口	auto
@@ -44711,8 +44710,9 @@
 𢮠	yu	与手	auto
 𢮡	fy	扌羊	auto
 𢮢	fi	扌丑	auto
-𢮣	uq	手䒑	auto
-𢮣	vu	爫手	auto
+𢮣	uq	手䒑	
+𢮣	ul	手立	
+𢮣	vu	爫手	
 𢮤	fb	扌巴	auto
 𢮥	fx	扌小	auto
 𢮦	fk	扌口	auto
@@ -57507,7 +57507,8 @@
 𥹠	md	米多	auto
 𥹡	mr	米如	auto
 𥹡	rm	如米	auto
-𥹢	me	米耳	auto
+𥹢	em	耳米	
+𥹢	me	米耳	
 𥹣	mc	米艹	auto
 𥹤	me	米二	auto
 𥹥	md	米当	auto
@@ -90608,7 +90609,8 @@
 𰉒	jh	夾回	auto
 𰉓	kg	囗干	auto
 𰉖	tk	土匚	auto
-𰉗	aq	丨䒑	auto
+𰉗	tb	土丷	
+𰉗	bt	丷土	
 𰉘	tw	土韦	auto
 𰉙	tg	土冈	auto
 𰉚	tj	土见	auto
@@ -95834,7 +95836,8 @@
 𱳹	ud	石当	auto
 𱳼	uz	石杂	auto
 𱳽	uu	石十	auto
-𱳿	ua	石一	auto
+𱳿	ug	石工	
+𱳿	ua	石一	
 𱴀	ud	石导	auto
 𱴁	uf	石否	auto
 𱴂	uu	石束	auto
@@ -100014,6 +100017,8 @@
 𫢄	wf	亡凡	
 𠋐	rk	亻丂	
 𰽆	jx	金心	
+𬨤	zg	辶亘	
+𮍐	ga	戈一	
 
 # 待考
 

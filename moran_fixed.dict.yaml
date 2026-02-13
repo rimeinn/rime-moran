@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260211"
+version: "20260215"
 sort: by_weight
 columns:
   - text
@@ -97950,7 +97950,7 @@ WiFi	wifi
 騱	ximx
 榽	ximx
 洗煤	ximz
-犧	xin
+嬉	xin
 吸納	xina
 犀鳥	xinc
 細嫩	xinf
@@ -97965,7 +97965,7 @@ WiFi	wifi
 戲弄	xins
 犀	xinu
 息怒	xinu
-嬉	xinx
+犧	xinx
 媳	xinx
 鵗	xinx
 鸂	xinx
