@@ -25120,7 +25120,7 @@
 雃	vk
 雄	vh vs
 雅	vy yv
-集	mv vm
+集	vm mv
 雇	hv
 雈	av cv va
 雉	vu uv
@@ -25153,7 +25153,7 @@
 雤	vb jv
 雥	vv
 雦	vv
-雧	mv
+雧	vm mv
 雨	ad
 雩	yk
 雪	yx
