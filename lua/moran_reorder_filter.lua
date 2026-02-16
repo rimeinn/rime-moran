@@ -216,8 +216,8 @@ function Top.candidate_match(scand, fcand)
     end
     local spreedit = scand.preedit
     local fpreedit = fcand.preedit
-    if spreedit ~= fpreedit then
-        return false
+    if spreedit == fpreedit then
+        return true
     end
     return (#fpreedit <= #spreedit and #fpreedit >= #spreedit - (#spreedit + 1) // 3 + 1)
         and spreedit:gsub('%s', '') == fpreedit
