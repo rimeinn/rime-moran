@@ -27,7 +27,6 @@ jobs:
           name: "${{ matrix.variant == 'trad' && 'Trad' || 'Simp' }}-FullPack"
           path: dist/**
       - uses: actions/upload-artifact@v4
-        if: ${{ matrix.variant }} == simp
         with:
           name: "${{ matrix.variant == 'trad' && 'Trad' || 'Simp' }}-DictsOnly"
           path: |

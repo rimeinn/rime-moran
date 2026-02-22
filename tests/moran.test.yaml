@@ -167,7 +167,7 @@ deploy:
         assert: eq(preedit, "da'jw'hk")
       - send: 'luylkr'
         assert: eq(preedit, "luyl kr")
-      - send: 'luylkr'
+      - send: 'luylkr{Control+l}'
         assert: eq(preedit, "luy'lkr")
       # input_len = 7
       - send: 'dajwhkn'
