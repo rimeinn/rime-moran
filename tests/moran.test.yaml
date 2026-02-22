@@ -165,6 +165,10 @@ deploy:
         assert: eq(preedit, "daj'whk")
       - send: 'dajwhk{Control+l}{Control+l}'
         assert: eq(preedit, "da'jw'hk")
+      - send: 'luylkr'
+        assert: eq(preedit, "luyl kr")
+      - send: 'luylkr'
+        assert: eq(preedit, "luy'lkr")
       # input_len = 7
       - send: 'dajwhkn'
         assert: eq(preedit, 'da jw hkn')

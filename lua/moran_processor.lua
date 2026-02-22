@@ -2,7 +2,7 @@
 -- Synopsis: 適用於魔然方案默認模式的按鍵處理器
 -- Author: ksqsf
 -- License: MIT license
--- Version: 0.4.4
+-- Version: 0.5.0
 
 -- 主要功能：
 -- 1. 選擇第二個首選項，但可用於跳過 emoji 濾鏡產生的候選
@@ -11,6 +11,7 @@
 -- 4. shorthand 略碼
 
 -- ChangeLog:
+--  0.5.0: 重構強制切分，增加 4單字-2 => 3-3 規則
 --  0.4.4: 允許 Ctrl+L 拆開四碼
 --  0.4.3: 修復 Ctrl+L 的單字判別條件
 --  0.4.2: 放鬆取出輔助碼的條件，Ctrl+O 用於取出輔助碼
@@ -127,6 +128,29 @@ local function steal_auxcode_processor(key_event, env)
     return kAccepted
 end
 
+local SEGMENTATION_PATTERNS = {
+    [4] = {
+        {"^[a-z][a-z]'[a-z][a-z]$", {4}},   -- 2-2   => 4
+        {"^[a-z][a-z][a-z][a-z]$", {2, 2}}, -- 4單字 => 2-2
+    },
+    [5] = {
+        {"^[a-z][a-z][ '][a-z][a-z][a-z]$", {3, 2}},  -- 2-3 => 3-2
+        {"^[a-z][a-z][a-z][ '][a-z][a-z]$", {2, 3}},  -- 3-2 => 2-3
+        {"^[a-z][a-z][a-z][a-z]o$", {2, 3}},          -- 5單字 => 2-3
+    },
+    [6] = {
+        {"^[a-z][a-z][ '][a-z][a-z][ '][a-z][a-z]$", {3, 3}},  -- 2-2-2   => 3-3
+        {"^[a-z][a-z][a-z][ '][a-z][a-z][a-z]$", {2, 2, 2}},   -- 3-3     => 2-2-2
+        {"^[a-z][a-z][a-z][a-z][ '][a-z][a-z]$", {3, 3}},      -- 4單字-2 => 3-3
+        {"^[a-z][a-z][ '][a-z][a-z][a-z][a-z]$", {3, 3}},      -- 4單字-2 => 3-3
+    },
+    [7] = {
+        {"^[a-z][a-z][ '][a-z][a-z][ '][a-z][a-z][a-z]", {2, 3, 2}}, -- 2-2-3 => 2-3-2
+        {"^[a-z][a-z][ '][a-z][a-z][a-z][ '][a-z][a-z]", {3, 2, 2}}, -- 2-3-2 => 3-2-2
+        {"^[a-z][a-z][a-z][ '][a-z][a-z][ '][a-z][a-z]", {2, 2, 3}}, -- 3-2-2 => 2-2-3
+    },
+}
+
 local function force_segmentation_processor(key_event, env)
     if not (key_event:ctrl() and key_event.keycode == 0x6c) then  -- ctrl+l
         return kNoop
@@ -139,39 +163,46 @@ local function force_segmentation_processor(key_event, env)
 
     local seg = composition:back()
     local cand = seg:get_selected_candidate()
-    if cand == nil then
-        return kNoop
+    local preedit = ""
+    if cand ~= nil then
+        preedit = cand.preedit
     end
 
     local ctx = env.engine.context
     local input = ctx.input:sub(seg._start + 1, seg._end)
     local preedit = cand.preedit
-
     local raw = input:gsub("'", "")  -- 不帶 ' 分隔符的輸入
+    local patterns = SEGMENTATION_PATTERNS[#raw]
 
-    if input:match("^[a-z][a-z][a-z][a-z]o$") then
-        ctx.input = ctx.input:sub(1, seg._start) .. raw:sub(1,2) .. "'" .. raw:sub(3,5) .. ctx.input:sub(seg._end + 1, -1)
-    elseif preedit:match("^[a-z][a-z][ '][a-z][a-z][ '][a-z][a-z]$") or input:match("^[a-z][a-z]'[a-z][a-z]'[a-z][a-z]$") then  -- 2-2-2
-        ctx.input = ctx.input:sub(1, seg._start) .. raw:sub(1,3) .. "'" .. raw:sub(4,6) .. ctx.input:sub(seg._end + 1, -1)
-    elseif preedit:match("^[a-z][a-z][ '][a-z][a-z][ '][a-z][a-z][a-z]$") or input:match("^[a-z][a-z]'[a-z][a-z]'[a-z][a-z][a-z]$") then  -- 2-2-3
-        ctx.input = ctx.input:sub(1, seg._start) .. raw:sub(1,2) .. "'" .. raw:sub(3,5) .. "'" .. raw:sub(6,7) .. ctx.input:sub(seg._end + 1, -1)
-    elseif preedit:match("^[a-z][a-z][ '][a-z][a-z][a-z][ '][a-z][a-z]$") or input:match("^[a-z][a-z]'[a-z][a-z][a-z]'[a-z][a-z]$") then  -- 2-3-2
-        ctx.input = ctx.input:sub(1, seg._start) .. raw:sub(1,3) .. "'" .. raw:sub(4,5) .. "'" .. raw:sub(6,7) .. ctx.input:sub(seg._end + 1, -1)
-    elseif preedit:match("^[a-z][a-z][a-z][ '][a-z][a-z][ '][a-z][a-z]$") or input:match("^[a-z][a-z][a-z]'[a-z][a-z]'[a-z][a-z]$") then  -- 3-2-2
-        ctx.input = ctx.input:sub(1, seg._start) .. raw:sub(1,2) .. "'" .. raw:sub(3,4) .. "'" .. raw:sub(5,7) .. ctx.input:sub(seg._end + 1, -1)
-    elseif preedit:match("^[a-z][a-z][ '][a-z][a-z][a-z]$") or input:match("^[a-z][a-z]'[a-z][a-z][a-z]$") then  -- 2-3
-        ctx.input = ctx.input:sub(1, seg._start) .. raw:sub(1,3) .. "'" .. raw:sub(4,5) .. ctx.input:sub(seg._end + 1, -1)
-    elseif preedit:match("^[a-z][a-z][a-z][ '][a-z][a-z]$") or input:match("^[a-z][a-z][a-z]'[a-z][a-z]$") then  -- 3-2
-        ctx.input = ctx.input:sub(1, seg._start) .. raw:sub(1,2) .. "'" .. raw:sub(3,5) .. ctx.input:sub(seg._end + 1, -1)
-    elseif preedit:match("^[a-z][a-z][a-z][ '][a-z][a-z][a-z]$") or input:match("^[a-z][a-z][a-z]'[a-z][a-z][a-z]$") then -- 3-3
-        ctx.input = ctx.input:sub(1, seg._start) .. raw:sub(1,2) .. "'" .. raw:sub(3,4) .. "'" .. raw:sub(5,6) .. ctx.input:sub(seg._end + 1, -1)
-    elseif preedit:match("^[a-z][a-z][a-z][a-z]$") then
-        ctx.input = raw:sub(1, 2) .. "'" .. raw:sub(3,4)
-    elseif ctx.input:match("^[a-z][a-z]'[a-z][a-z]$") then
-        ctx.input = raw
-    else
+    if patterns == nil then
         return kNoop
     end
+    local subst = nil
+    for _, pattern in ipairs(patterns) do
+        local re = pattern[1]
+        if input:match(re) ~= nil or preedit:match(re) ~= nil then
+            subst = pattern[2]
+            break
+        end
+    end
+    if subst == nil then
+        return kNoop
+    end
+
+    local head = ctx.input:sub(1, seg._start)
+    local body = ""
+    local tail = ctx.input:sub(seg._end + 1, -1)
+    local i = 1
+    for _, seglen in ipairs(subst) do
+        local seg = raw:sub(i, i + seglen - 1)
+        if i == 1 then
+            body = body .. seg
+        else
+            body = body .. "'" .. seg
+        end
+        i = i + seglen
+    end
+    ctx.input = head .. body .. tail
 
     return kAccepted
 end
