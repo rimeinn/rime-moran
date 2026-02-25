@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260211"
+version: "20260225"
 sort: original
 columns:
   - text
@@ -41208,8 +41208,8 @@ JK制服	jkvf
 进身之阶	juvj
 剧照	juvk
 举债	juvl
-接受治疗	juvl
 举手之劳	juvl
+接受治疗	juvl
 筥	juvl
 举世瞩目	juvm
 具身智能	juvn
@@ -43290,8 +43290,8 @@ JK制服	jkvf
 空不异色	kbys
 口语	kbyu
 可别怨我	kbyw
-脍不厌细	kbyx
 刻板印象	kbyx
+脍不厌细	kbyx
 口不应心	kbyx
 恐怖游戏	kbyx
 可变资本	kbzb
@@ -52019,6 +52019,7 @@ JK制服	jkvf
 盟邦	mgbh
 蒙蔽	mgbi
 懵逼	mgbi
+蒙版	mgbj
 忙个不停	mgbt
 蒙	mgc
 萌	mgcm
