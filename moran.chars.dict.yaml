@@ -18318,8 +18318,6 @@ use_preset_vocabulary: false
 得	dz;xc	2707
 得	di;xc	0
 徘	pl;xf	571
-徙	tu;xb	0
-徙	tu;xv	0
 徙	xi;xb	722
 徙	xi;xv	722
 徙	si;xb	0
@@ -47170,11 +47168,10 @@ use_preset_vocabulary: false
 𠂝	za;pv	0
 𠂝	vs;pv	0
 𠂞	hu;px	0
-𠂟	cl;pq	0
-𠂟	jn;pq	0
-𠂠	bm;pq	0
+𠂟	cl;pp	0
+𠂟	jn;pp	0
+𠂠	bm;pg	0
 𠂡	fg;jf	0
-𠂡	fg;pe	0
 𠂢	pl;pp	0
 𠂣	yi;px	0
 𠂣	yn;px	0
@@ -51089,7 +51086,7 @@ use_preset_vocabulary: false
 𠰚	ui;ke	0
 𠰛	gk;ug	0
 𠰛	hu;ug	0
-𠰜	ee;kq	0
+𠰜	ee;kh	0
 𠰝	xi;ks	0
 𠰝	xi;sk	0
 𠰞	fu;kk	0
@@ -61103,6 +61100,7 @@ use_preset_vocabulary: false
 𢮢	ib;fi	0
 𢮢	zb;fi	0
 𢮣	lr;uq	0
+𢮣	lr;ul	0
 𢮣	lr;vu	0
 𢮤	ba;fb	0
 𢮥	ck;fx	0
@@ -76227,6 +76225,7 @@ use_preset_vocabulary: false
 𥹠	tj;md	0
 𥹡	nv;mr	0
 𥹡	nv;rm	0
+𥹢	wf;em	0
 𥹢	wf;me	0
 𥹣	ce;mc	0
 𥹣	se;mc	0
@@ -115287,7 +115286,8 @@ use_preset_vocabulary: false
 𰉒	se;jh	0
 𰉓	yu;kg	0
 𰉖	yj;tk	0
-𰉗	gv;aq	0
+𰉗	gv;tb	0
+𰉗	gv;bt	0
 𰉘	hj;tw	0
 𰉘	wz;tw	0
 𰉙	gh;tg	0
@@ -121611,6 +121611,7 @@ use_preset_vocabulary: false
 𱳹	dh;ud	0
 𱳼	ca;uz	0
 𱳽	sv;uu	0
+𱳿	di;ug	0
 𱳿	di;ua	0
 𱴀	ai;ud	0
 𱴁	bi;uf	0
@@ -126483,3 +126484,6 @@ use_preset_vocabulary: false
 𳑲	yu;vh	0
 𳑳	ls;as	0
 𳑶	ls;ly	0
+𬨤	hr;zg	0
+𬨤	yr;zg	0
+𮍐	zh;ga	0

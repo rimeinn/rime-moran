@@ -1,10 +1,12 @@
 -- Moran Reorder Filter
 -- Copyright (c) 2023, 2024, 2025, 2026 ksqsf
 --
--- Ver: 0.3.0
+-- Ver: 0.3.1
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.3.1: 修復重構引入的 bug。
 --
 -- 0.3.0: 重構，少許性能優化。
 --
@@ -92,7 +94,7 @@ function Top.func(t_input, env)
         end
     end
 
-    Top.flush(env, ctx)
+    Top.flush(env, ctx, true)
 end
 
 --------------------------------------------------------------------------------
@@ -142,7 +144,7 @@ end
 
 function Top.handle_matching(env, ctx, cand)
     if ctx.threshold == 0 then
-        Top.flush(env, ctx)
+        Top.flush(env, ctx, false)
         ctx.phase = kDone
         Top.yield_exact(env, cand)
         return
@@ -169,7 +171,7 @@ function Top.handle_matching(env, ctx, cand)
         end
     end
     if ctx.fixed_next > #ctx.fixed_list then
-        Top.flush(env, ctx)
+        Top.flush(env, ctx, false)
         ctx.phase = kDone
     end
 end
@@ -190,9 +192,16 @@ function Top.find_matching_scand(ctx, fcand)
 end
 
 --- 輸出所有剩下的候選。
-function Top.flush(env, ctx)
+function Top.flush(env, ctx, include_delay_slot)
     for i = ctx.fixed_next, #ctx.fixed_list do
         Top.yield_exact(env, ctx.fixed_list[i])
+    end
+    if include_delay_slot then
+        -- 只在完全匹配完畢後才清空延遲槽
+        for _, c in ipairs(ctx.delay_slot) do
+            Top.yield_exact(env, c)
+        end
+        ctx.delay_slot = {}
     end
     for _, c in ipairs(ctx.smart_list) do
         Top.yield_exact(env, c)
