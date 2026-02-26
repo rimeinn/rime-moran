@@ -131,7 +131,7 @@ function Top.handle_collecting(env, ctx, cand)
         for _, c in ipairs(ctx.delay_slot) do
             Top.handle_matching(env, ctx, c)
         end
-        ctx.delay_slot = nil
+        ctx.delay_slot = {}
 
         -- 處理當前看到的 smart2。
         if ctx.phase == kDone then
