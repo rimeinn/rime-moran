@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260215"
+version: "20260228"
 sort: by_weight
 columns:
   - text
@@ -42450,8 +42450,8 @@ JK制服	jkvf
 進身之階	juvj
 劇照	juvk
 舉債	juvl
-接受治療	juvl
 舉手之勞	juvl
+接受治療	juvl
 筥	juvl
 貗	juvl
 舉世矚目	juvm
@@ -44600,8 +44600,8 @@ JK制服	jkvf
 空不異色	kbys
 口語	kbyu
 可別怨我	kbyw
-膾不厭細	kbyx
 刻板印象	kbyx
+膾不厭細	kbyx
 口不應心	kbyx
 恐怖遊戲	kbyx
 可變資本	kbzb
@@ -53566,6 +53566,7 @@ JK制服	jkvf
 盟邦	mgbh
 矇蔽	mgbi
 懵逼	mgbi
+蒙版	mgbj
 忙個不停	mgbt
 蒙	mgc
 莔	mgcj
@@ -92394,8 +92395,9 @@ U盤	upj
 無官不貪	wgbt
 五官不正	wgbv
 我敢保證	wgbv
-蓊	wgc
+蕹	wgc
 蕹菜	wgcl
+蓊	wgcw
 違規操作	wgcz
 甕	wgd
 王公大臣	wgdi
@@ -97950,7 +97952,7 @@ WiFi	wifi
 騱	ximx
 榽	ximx
 洗煤	ximz
-嬉	xin
+犧	xin
 吸納	xina
 犀鳥	xinc
 細嫩	xinf
@@ -97965,7 +97967,7 @@ WiFi	wifi
 戲弄	xins
 犀	xinu
 息怒	xinu
-犧	xinx
+嬉	xinx
 媳	xinx
 鵗	xinx
 鸂	xinx
