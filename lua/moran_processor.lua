@@ -170,7 +170,6 @@ local function force_segmentation_processor(key_event, env)
 
     local ctx = env.engine.context
     local input = ctx.input:sub(seg._start + 1, seg._end)
-    local preedit = cand.preedit
     local raw = input:gsub("'", "")  -- 不帶 ' 分隔符的輸入
     local patterns = SEGMENTATION_PATTERNS[#raw]
 
