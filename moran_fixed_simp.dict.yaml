@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260225"
+version: "20260305"
 sort: original
 columns:
   - text
@@ -14413,6 +14413,7 @@ D盘	dpj
 得脱樊篱	dtfl
 对天发誓	dtfu
 动态范围	dtfw
+动态分析	dtfx
 党同伐异	dtfy
 动态规划	dtgh
 打通关节	dtgj
@@ -40497,6 +40498,7 @@ JK制服	jkvf
 家庭妇女	jtfn
 撅	jtfq
 具体分析	jtfx
+静态分析	jtfx
 攫	jtfy
 绝非	jtfz
 姜太公钓鱼愿者上钩	jtgg
@@ -57091,6 +57093,7 @@ JK制服	jkvf
 能力越大责任越大	nlyd
 奶羊	nlyh
 捏了一把汗	nlyh
+能量饮料	nlyl
 哪里有卖	nlym
 纳兰嫣然	nlyr
 耐用	nlys
@@ -70185,8 +70188,8 @@ P站	pvj
 扫码登陆	smdl
 苏门答腊	smdl
 什么东西	smdx
-什么都没有	smdy
 什么都有	smdy
+什么都没有	smdy
 死马当活马医	smdy
 死马当作活马医	smdy
 什么都不做	smdz
@@ -91962,6 +91965,7 @@ U盘	upj
 问题解决	wtjj
 味同嚼蜡	wtjl
 无条件反射	wtju
+无糖可乐	wtkl
 文体两开花	wtlh
 问题来了	wtll
 委托律师	wtlu

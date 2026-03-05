@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260228"
+version: "20260305"
 sort: by_weight
 columns:
   - text
@@ -14857,6 +14857,7 @@ D盤	dpj
 得脫樊籬	dtfl
 對天發誓	dtfu
 動態範圍	dtfw
+動態分析	dtfx
 黨同伐異	dtfy
 動態規劃	dtgh
 打通關節	dtgj
@@ -41705,6 +41706,7 @@ JK制服	jkvf
 捔	jtfj
 家庭婦女	jtfn
 具體分析	jtfx
+靜態分析	jtfx
 絕非	jtfz
 彏	jtg
 姜太公釣魚願者上鉤	jtgg
@@ -58781,6 +58783,7 @@ JK制服	jkvf
 能力越大責任越大	nlyd
 奶羊	nlyh
 捏了一把汗	nlyh
+能量飲料	nlyl
 哪裏有賣	nlym
 納蘭嫣然	nlyr
 耐用	nlys
@@ -72201,8 +72204,8 @@ P站	pvj
 掃碼登陸	smdl
 蘇門答臘	smdl
 什麼東西	smdx
-什麼都沒有	smdy
 什麼都有	smdy
+什麼都沒有	smdy
 死馬當活馬醫	smdy
 死馬當作活馬醫	smdy
 什麼都不做	smdz
@@ -94501,6 +94504,7 @@ WiFi	wifi
 問題解決	wtjj
 味同嚼蠟	wtjl
 無條件反射	wtju
+無糖可樂	wtkl
 文體兩開花	wtlh
 問題來了	wtll
 委託律師	wtlu
