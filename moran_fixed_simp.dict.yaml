@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260305"
+version: "20260310"
 sort: original
 columns:
   - text
@@ -27010,6 +27010,7 @@ G盘	gpj
 喝醉	hezv
 华尔兹舞	hezw
 很	hf
+恢复	hf
 很爱	hfai
 很暗	hfan
 痕	hfb
@@ -34481,6 +34482,7 @@ I盘	ipj
 春秋战国	iqvg
 长驱直入	iqvr
 出奇制胜	iqvu
+长期主义	iqvy
 春秋五霸	iqwb
 超强五笔	iqwb
 重庆卫视	iqwu
@@ -71939,6 +71941,7 @@ P站	pvj
 投身	tbuf
 挑拨是非	tbuf
 偷生	tbug
+淘宝闪购	tbug
 头上	tbuh
 谈不上好	tbuh
 透视	tbui
@@ -96405,6 +96408,7 @@ U盘	upj
 信服	xnfu
 心腹	xnfu
 心扉	xnfz
+心肺	xnfz
 新歌	xnge
 心梗	xngg
 新年广场	xngi
@@ -108600,6 +108604,8 @@ U盘	upj
 最低价格	zdjg
 自动检索	zdjs
 自动加速	zdjs
+自动驾驶系统	zdjt
+自动驾驶	zdju
 自动驾驶仪	zdjy
 自动开关	zdkg
 自动控制原理	zdkl
@@ -116036,6 +116042,7 @@ git	git
 俱乐部	jlb
 加勒比	jlb
 接力棒	jlb
+近邻宝	jlb
 家里蹲	jld
 交流电	jld
 金銮殿	jld
@@ -116250,6 +116257,7 @@ git	git
 看得懂	kdd
 空荡荡	kdd
 看得惯	kdg
+快递柜	kdg
 肯定会	kdh
 看得出	kdi
 刻度尺	kdi
@@ -116268,6 +116276,7 @@ git	git
 宽带网	kdw
 可读性	kdx
 扛得下	kdx
+快递员	kdy
 看电影	kdy
 开发版	kfb
 咖啡馆	kfg
@@ -119759,7 +119768,7 @@ SD卡	sdk
 外蒙古	wmg
 污名化	wmh
 我们家	wmj
-我没进	wmj
+外卖架	wmj
 误码率	wml
 雾蒙蒙	wmm
 未命名	wmm
@@ -119799,6 +119808,7 @@ WPS	wps
 为前提	wqt
 文曲星	wqx
 Word	wrd
+无人车	wri
 无人机	wrj
 万人坑	wrk
 万人迷	wrm
