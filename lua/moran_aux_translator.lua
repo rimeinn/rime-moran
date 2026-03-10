@@ -139,6 +139,9 @@ function Module.init(env)
             if not (segment.status == "kSelected" or segment.status == "kConfirmed") then
                 return
             end
+            if moran.segment_is_reverse_lookup(segment) then
+                return
+            end
 
             local cand = segment:get_selected_candidate()
             if cand == nil then
