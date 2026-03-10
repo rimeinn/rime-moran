@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260305"
+version: "20260310"
 sort: by_weight
 columns:
   - text
@@ -27805,6 +27805,7 @@ G盤	gpj
 喝醉	hezv
 華爾茲舞	hezw
 很	hf
+恢復	hf
 很愛	hfai
 很暗	hfan
 痕	hfb
@@ -35532,6 +35533,7 @@ I盤	ipj
 春秋戰國	iqvg
 長驅直入	iqvr
 出奇制勝	iqvu
+長期主義	iqvy
 春秋五霸	iqwb
 超強五筆	iqwb
 重慶衛視	iqwu
@@ -74000,6 +74002,7 @@ P站	pvj
 投身	tbuf
 挑撥是非	tbuf
 偷生	tbug
+淘寶閃購	tbug
 頭上	tbuh
 談不上好	tbuh
 透視	tbui
@@ -99145,6 +99148,7 @@ WiFi	wifi
 信服	xnfu
 心腹	xnfu
 心扉	xnfz
+心肺	xnfz
 鬵	xng
 新歌	xnge
 心梗	xngg
@@ -111753,6 +111757,8 @@ WiFi	wifi
 最低價格	zdjg
 自動檢索	zdjs
 自動加速	zdjs
+自動駕駛系統	zdjt
+自動駕駛	zdju
 自動駕駛儀	zdjy
 自動開關	zdkg
 自動控制原理	zdkl
@@ -119415,6 +119421,7 @@ git	git
 俱樂部	jlb
 加勒比	jlb
 接力棒	jlb
+近鄰寶	jlb
 家裏蹲	jld
 交流電	jld
 金鑾殿	jld
@@ -119630,6 +119637,7 @@ git	git
 看得懂	kdd
 空蕩蕩	kdd
 看得慣	kdg
+快遞櫃	kdg
 肯定會	kdh
 看得出	kdi
 刻度尺	kdi
@@ -119648,6 +119656,7 @@ git	git
 寬帶網	kdw
 可讀性	kdx
 扛得下	kdx
+快遞員	kdy
 看電影	kdy
 開發版	kfb
 咖啡館	kfg
@@ -123136,7 +123145,7 @@ SD卡	sdk
 外蒙古	wmg
 污名化	wmh
 我們家	wmj
-我沒進	wmj
+外賣架	wmj
 誤碼率	wml
 未命名	wmm
 霧濛濛	wmm
@@ -123176,6 +123185,7 @@ WPS	wps
 爲前提	wqt
 文曲星	wqx
 Word	wrd
+無人車	wri
 無人機	wrj
 萬人坑	wrk
 萬人迷	wrm

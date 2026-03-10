@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20260228"
+version: "20260310"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9329,6 +9329,9 @@ columns:
 伪史	10
 伪史论	1
 商单	100
+淘宝闪购	10
+闪购	10
+近邻宝	10
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0

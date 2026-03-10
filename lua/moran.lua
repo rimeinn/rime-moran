@@ -424,11 +424,7 @@ function Module.contains(list, item)
     return false
 end
 
-function Module.is_reverse_lookup(env)
-    local seg = env.engine.context.composition:back()
-    if not seg then
-        return false
-    end
+function Module.segment_is_reverse_lookup(seg)
     -- return seg:has_tag("reverse_tiger")
     --    or seg:has_tag("reverse_zrlf")
     --    or seg:has_tag("reverse_cangjie5")
@@ -442,6 +438,14 @@ function Module.is_reverse_lookup(env)
         end
     end
     return false
+end
+
+function Module.is_reverse_lookup(env)
+    local seg = env.engine.context.composition:back()
+    if not seg then
+        return false
+    end
+    return Module.segment_is_reverse_lookup(seg)
 end
 
 function Module.Thunk(functor)
