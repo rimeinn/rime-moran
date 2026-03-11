@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260310"
+version: "20260311"
 sort: by_weight
 columns:
   - text
@@ -44917,6 +44917,7 @@ JK制服	jkvf
 嗑	kekm
 可控	keks
 刻苦	keku
+柯爾克孜	kekz
 柯爾克孜族	kekz
 克拉	kela
 可樂	kele
@@ -117217,6 +117218,7 @@ CD機	cdj
 地對空	ddk
 得到了	ddl
 大道理	ddl
+大動脈	ddm
 擔擔麪	ddm
 電燈泡	ddp
 對得起	ddq
@@ -124079,6 +124081,7 @@ Word	wrd
 一屁股	ypg
 有魄力	ypl
 一平米	ypm
+油潑麪	ypm
 一片片	ypp
 壓迫者	ypv
 硬碰硬	ypy
@@ -124407,6 +124410,7 @@ Word	wrd
 紫荊花	zjh
 紫禁城	zji
 總經理	zjl
+字節碼	zjm
 早幾年	zjn
 自決權	zjq
 自己人	zjr
