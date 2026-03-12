@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260310"
+version: "20260311"
 sort: original
 columns:
   - text
@@ -43596,6 +43596,7 @@ JK制服	jkvf
 嗑	kekm
 可控	keks
 刻苦	keku
+柯尔克孜	kekz
 柯尔克孜族	kekz
 克拉	kela
 可乐	kele
@@ -113836,6 +113837,7 @@ CD机	cdj
 地对空	ddk
 得到了	ddl
 大道理	ddl
+大动脉	ddm
 担担面	ddm
 电灯泡	ddp
 对得起	ddq
@@ -120703,6 +120705,7 @@ Word	wrd
 一屁股	ypg
 有魄力	ypl
 一平米	ypm
+油泼面	ypm
 一片片	ypp
 压迫者	ypv
 硬碰硬	ypy
@@ -121032,6 +121035,7 @@ Word	wrd
 紫荆花	zjh
 紫禁城	zji
 总经理	zjl
+字节码	zjm
 早几年	zjn
 自决权	zjq
 自己人	zjr
