@@ -27,6 +27,7 @@ MOEDICT_RELEASE_DATES = [
     '20251210',
     '20260109',
     '20260209',
+    '20260310',
 ]
 
 class MDict:
