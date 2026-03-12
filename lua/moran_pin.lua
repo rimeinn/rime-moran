@@ -426,7 +426,7 @@ function pin_filter.fini(env)
 end
 
 function pin_filter.func(t_input, env)
-    if env.pin_enable and env.engine.context.composition:toSegmentation():get_confirmed_position() == 0 then
+    if env.pin_enable then
         local context = env.engine.context
         local composition = context.composition
         local segment = composition:back()
