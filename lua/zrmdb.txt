@@ -4889,7 +4889,7 @@
 䝱	bl lb
 䝲	bj
 䝳	by db
-䝴	ab
+䝴	bb ab
 䝵	bf
 䝶	bj
 䝷	bv
