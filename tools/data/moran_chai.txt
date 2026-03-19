@@ -5273,7 +5273,8 @@
 䝲	bj	貝尽	auto
 䝳	by	貝又	auto
 䝳	db	歹貝	auto
-䝴	ab		
+䝴	bb	貝冖	
+䝴	ab	𰀉𧘇	
 䝵	bf	貝甫	auto
 䝶	bj	貝京	auto
 䝷	bv	貝知	auto
