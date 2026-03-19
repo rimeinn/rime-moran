@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260311"
+version: "20260319"
 sort: original
 columns:
   - text
@@ -8303,7 +8303,6 @@ C++	cjj
 餐具	cjju
 残局	cjju
 参加	cjjw
-掺假	cjjw
 惨景	cjjy
 惨况	cjkd
 参看	cjkj
@@ -8368,7 +8367,6 @@ C++	cjj
 曾经说过	cjug
 蚕食	cjui
 参数	cjuu
-掺水	cjuv
 残渣	cjva
 惨状	cjvd
 参政	cjvg
@@ -8409,7 +8407,6 @@ C++	cjj
 辞旧迎新	cjyx
 残影	cjyy
 曾经拥有	cjyy
-掺杂	cjza
 参杂	cjza
 参赞	cjzj
 惨遭	cjzk
@@ -33519,6 +33516,7 @@ H盘	hpj
 婵娟	ijjr
 超级计算	ijjs
 镵	ijjt
+掺假	ijjw
 产假	ijjw
 缠结	ijjx
 啴	ijk
@@ -33620,6 +33618,7 @@ H盘	hpj
 巉	ijut
 阐述	ijuu
 羼	ijuu
+掺水	ijuv
 羼	ijuy
 长江上游	ijuy
 成就事业	ijuy
@@ -33686,6 +33685,7 @@ H盘	hpj
 谄	ijyx
 襜	ijyy
 躔	ijz
+掺杂	ijzao
 串家走户	ijzh
 产自	ijzi
 筹集资金	ijzj
