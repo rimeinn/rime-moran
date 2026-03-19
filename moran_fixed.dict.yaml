@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260311"
+version: "20260319"
 sort: by_weight
 columns:
   - text
@@ -8524,7 +8524,6 @@ C++	cjj
 餐具	cjju
 殘局	cjju
 參加	cjjw
-摻假	cjjw
 慘景	cjjy
 喰	cjk
 慘況	cjkd
@@ -8594,7 +8593,6 @@ C++	cjj
 蠶食	cjui
 孱	cjun
 參數	cjuu
-摻水	cjuv
 嶄	cjuv
 篸	cjv
 殘渣	cjva
@@ -8639,7 +8637,6 @@ C++	cjj
 辭舊迎新	cjyx
 殘影	cjyy
 曾經擁有	cjyy
-摻雜	cjza
 參雜	cjza
 參贊	cjzj
 慘遭	cjzk
@@ -34545,6 +34542,7 @@ H盤	hpj
 鐔	ijjt
 覘	ijjv
 幨	ijjv
+摻假	ijjw
 產假	ijjw
 纏結	ijjx
 鋋	ijjy
@@ -34647,6 +34645,7 @@ H盤	hpj
 巉	ijut
 闡述	ijuu
 羼	ijuu
+摻水	ijuv
 磛	ijuv
 長江上游	ijuy
 成就事業	ijuy
@@ -34712,6 +34711,7 @@ H盤	hpj
 諂	ijyx
 裧	ijyy
 躔	ijz
+摻雜	ijza
 串家走戶	ijzh
 產自	ijzi
 籌集資金	ijzj
