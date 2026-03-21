@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260319"
+version: "20260321"
 sort: by_weight
 columns:
   - text
@@ -4970,6 +4970,7 @@ AVL樹	avlu
 八年抗戰	bnkv
 瀕臨	bnl
 百年老店	bnld
+檳榔	bnlh
 賓利	bnli
 不難理解	bnlj
 殯殮	bnlm

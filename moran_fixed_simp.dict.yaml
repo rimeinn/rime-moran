@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260319"
+version: "20260321"
 sort: original
 columns:
   - text
@@ -4835,6 +4835,7 @@ AVL树	avlu
 八年抗战	bnkv
 濒临	bnl
 百年老店	bnld
+槟榔	bnlh
 宾利	bnli
 不难理解	bnlj
 殡殓	bnlm
@@ -7004,7 +7005,6 @@ B盘	bpj
 不要脸的	byld
 病了	byle
 冰冷	bylg
-槟榔	bylh
 不亦乐乎	bylh
 病例	byli
 病历	byli
@@ -53701,7 +53701,7 @@ JK制服	jkvf
 陌	moe
 鄚	moem
 摩尔	moer
-摸	mof
+抹	mof
 魔法	mofa
 磨粉	moff
 模仿	mofh
