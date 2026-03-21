@@ -6,7 +6,7 @@
 
 ---
 name: moran_english
-version: "20260211"
+version: "20260306"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -57309,3 +57309,4 @@ AirTag	AirTag
 LibreOffice	LibreOffice
 Anki	Anki
 SuperMemo	SuperMemo
+404 Not Found	404NotFound

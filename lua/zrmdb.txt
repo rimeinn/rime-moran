@@ -26239,7 +26239,7 @@
 鬢	ib
 鬣	il iu
 鬤	ix
-鬥	aa wa
+鬥	wa aa
 鬦	dd
 鬧	du
 鬨	dg

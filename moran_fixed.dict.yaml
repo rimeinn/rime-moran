@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260319"
+version: "20260321"
 sort: by_weight
 columns:
   - text
@@ -4970,6 +4970,7 @@ AVL樹	avlu
 八年抗戰	bnkv
 瀕臨	bnl
 百年老店	bnld
+檳榔	bnlh
 賓利	bnli
 不難理解	bnlj
 殯殮	bnlm
@@ -10524,7 +10525,6 @@ C盤	cpj
 都	db
 數據庫	db
 豆	dba
-鬥	dba
 鬥	dbaa
 痘	dbb
 大半部分	dbbf
@@ -10793,6 +10793,7 @@ C盤	cpj
 都不重要	dbvy
 單邊主義	dbvy
 倒不至於	dbvy
+鬥	dbw
 都不爲過	dbwg
 德邦物流	dbwl
 斷臂維納斯	dbws
