@@ -91,7 +91,7 @@ jobs:
     strategy:
       matrix:
         schema: [moran, moran_aux, moran.hint, moran.charset]
-        lua_version: [5.5, 5.4, 5.3]
+        lua_version: [5.5, 5.4, 5.3, 5.2, jit]
     steps:
       - name: Checkout
         uses: actions/checkout@v4
