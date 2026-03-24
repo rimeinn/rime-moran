@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260321"
+version: "20260324"
 sort: by_weight
 columns:
   - text
@@ -121971,6 +121971,7 @@ SD卡	sdk
 捅婁子	tlz
 挑毛病	tmb
 他媽的	tmd
+同盟國	tmg
 套馬杆	tmg
 他們家	tmj
 太忙了	tml
@@ -123740,6 +123741,7 @@ Word	wrd
 洗衣粉	xyf
 洗衣服	xyf
 下一個	xyg
+協約國	xyg
 西洋畫	xyh
 小陽春	xyi
 洗衣機	xyj
