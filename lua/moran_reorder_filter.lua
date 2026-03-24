@@ -228,7 +228,7 @@ function Top.candidate_match(scand, fcand)
     if spreedit == fpreedit then
         return true
     end
-    return (#fpreedit <= #spreedit and #fpreedit >= #spreedit - (#spreedit + 1) // 3 + 1)
+    return (#fpreedit <= #spreedit and #fpreedit >= #spreedit - math.floor((#spreedit + 1) / 3) + 1)
         and spreedit:gsub('%s', '') == fpreedit
 end
 
