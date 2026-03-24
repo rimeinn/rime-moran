@@ -34,9 +34,9 @@ end
 local function translateIntSegment(int, digit, unit)
     local d = {
         int % 10,
-        (int // 10) % 10,
-        (int // 100) % 10,
-        (int // 1000) % 10
+        math.floor(int / 10) % 10,
+        math.floor(int / 100) % 10,
+        math.floor(int / 1000) % 10
     }
     local result = ""
     local lastPos = -1
@@ -61,9 +61,9 @@ end
 -- 如 4->万, 8->亿
 -- exponent 必须是4的倍数
 local function translateBigUnit(exponent, bigUnit)
-    exponent = exponent // 4
+    exponent = math.floor(exponent / 4)
     local hiExp = #bigUnit    -- 最高大数单位
-    local result = bigUnit[hiExp]:rep(exponent // hiExp)
+    local result = bigUnit[hiExp]:rep(math.floor(exponent / hiExp))
     exponent = exponent % hiExp
     local i = 1
     local prefix = ""
@@ -71,7 +71,7 @@ local function translateBigUnit(exponent, bigUnit)
         if exponent % 2 == 1 then
             prefix = bigUnit[i] .. prefix
         end
-        exponent = exponent // 2
+        exponent = math.floor(exponent / 2)
         i = i + 1
     end
     return prefix .. result
@@ -80,7 +80,7 @@ end
 -- 转换整数部分
 local function translateInt(str, digit, unit, bigUnit)
     local int = tonumber(str)
-    if math.type(int) == "float" then
+    if math.floor(int) ~= int then
         return "数值超限！"
     end
     if int == 0 then
@@ -97,7 +97,7 @@ local function translateInt(str, digit, unit, bigUnit)
         local filler = (lastSegInt < 1000 and not first) and digit[0] or ""
         result = segStr .. (segStr ~= "" and unitStr or "") .. filler .. result
         lastSegInt = segInt
-        int = int // 10000
+        int = math.floor(int / 10000)
         exponent = exponent + 4
         if segInt ~= 0 then
             first = false
