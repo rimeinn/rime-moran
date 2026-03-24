@@ -91,6 +91,7 @@ jobs:
     strategy:
       matrix:
         schema: [moran, moran_aux, moran.hint, moran.charset]
+        lua_version: [5.5, 5.4, 5.3]
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -103,10 +104,11 @@ jobs:
           path: ./dist
       - name: Setup Mira
         run: |
-          wget https://github.com/rimeinn/mira/releases/download/latest/mira
-          chmod +x mira
+          wget "https://github.com/rimeinn/mira/releases/download/latest/mira-lua${{ matrix.lua_version }}"
+          chmod +x "mira-lua${{ matrix.lua_version }}"
       - name: Test ${{ matrix.schema }}
-        run: ./mira -C cache tests/${{ matrix.schema }}.test.yaml
+        run: |
+          "./mira-lua${{ matrix.lua_version }}" -C cache tests/${{ matrix.schema }}.test.yaml
       - name: Setup tmate session
         if: ${{ failure() }}
         uses: mxschmitt/action-tmate@v3
