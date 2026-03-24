@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260321"
+version: "20260324"
 sort: original
 columns:
   - text
@@ -118591,6 +118591,7 @@ SD卡	sdk
 捅娄子	tlz
 挑毛病	tmb
 他妈的	tmd
+同盟国	tmg
 套马杆	tmg
 他们家	tmj
 太慢了	tml
@@ -120362,6 +120363,7 @@ Word	wrd
 洗衣粉	xyf
 洗衣服	xyf
 下一个	xyg
+协约国	xyg
 西洋画	xyh
 小阳春	xyi
 洗衣机	xyj
