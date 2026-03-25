@@ -6,7 +6,7 @@
 
 ---
 name: moran_english
-version: "20260306"
+version: "20260330"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -57310,3 +57310,5 @@ LibreOffice	LibreOffice
 Anki	Anki
 SuperMemo	SuperMemo
 404 Not Found	404NotFound
+internet	internet
+Internet	Internet

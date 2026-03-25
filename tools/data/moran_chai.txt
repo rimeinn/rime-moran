@@ -67675,7 +67675,7 @@
 𨚛	be	匕阝	auto
 𨚜	eg	阝{干}	
 𨚜	be	丷阝	
-𨚟	de	冬阝	auto
+𨚟	de	阝冬	
 𨚠	gy	甘邑	auto
 𨚠	yg	邑甘	auto
 𨚡	le	了阝	auto
