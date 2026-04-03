@@ -19,15 +19,11 @@ cd dist
 
 ########################################################################
 # 更新单字字频
-# 这一步把 moran.chars.dict.yaml 中的字频替换成 data/pinyin_simp.txt 中
-# 的频率信息，使得简体字排在繁体字之前。
+# 默认生成的 chars 码表字频为繁体字频，此处重新使用 gen_chars.py 脚本生
+# 成以简体字频为准的码表。
 ########################################################################
 echo 更新单字字频...
-uv run tools/schemagen.py \
-   --pinyin-table=tools/data/pinyin_simp.txt \
-   update-char-weight --rime-dict=moran.chars.dict.yaml \
-   > moran.chars.dict.yaml.bak
-mv moran.chars.dict.yaml{.bak,}
+uv run tools/gen_chars.py --simplified > moran.chars.dict.yaml
 
 ########################################################################
 # 替换辅助码
