@@ -10926,7 +10926,7 @@ use_preset_vocabulary: false
 侲	vf;ri	0
 侳	co;rz	0
 侳	zo;rz	0
-侴	ib;rd	0
+侴	ib;rd	350
 侴	hk;rd	0
 侵	qn;ry	103019
 侶	lv;rl	0
@@ -11013,8 +11013,8 @@ use_preset_vocabulary: false
 俦	ib;ru	1334
 俧	vi;rv	0
 俨	yj;ry	12202
-俩	lw;rl	0
-俩	ld;rl	1
+俩	lw;rl	5000
+俩	ld;rl	500
 俪	li;rl	2379
 俫	ll;rl	64
 俬	si;rs	0
@@ -13500,7 +13500,7 @@ use_preset_vocabulary: false
 唙	di;kd	0
 唚	qn;ky	0
 唛	ma;km	0
-唛	ml;km	81
+唛	ml;km	10
 唛	mo;km	0
 唜	mo;mb	0
 唜	mo;mi	0
@@ -16709,8 +16709,8 @@ use_preset_vocabulary: false
 專	tr;ac	0
 專	tr;cd	0
 尉	wz;cu	62071
-尉	yu;cu	1
-尉	yp;cu	0
+尉	yu;cu	30
+尉	yp;cu	1
 尊	zp;cq	260962
 尊	zp;qc	260962
 尋	xn;ck	0
@@ -24031,8 +24031,8 @@ use_preset_vocabulary: false
 歺	dl;xb	0
 歺	ee;bx	0
 歺	ee;xb	0
-歺	cj;bx	0
-歺	cj;xb	0
+歺	cj;bx	1
+歺	cj;xb	1
 死	si;db	1979349
 歼	jm;dq	27594
 歽	ve;dj	0
@@ -24931,7 +24931,7 @@ use_preset_vocabulary: false
 浮	fu;df	173250
 浯	wu;dw	120
 浰	li;dl	37
-浰	lm;dl	1
+浰	lm;dl	0
 浱	ip;di	0
 浲	bg;df	0
 浲	fg;df	1
@@ -34401,8 +34401,8 @@ use_preset_vocabulary: false
 艳	yj;fs	147563
 艴	fu;fs	1
 艴	fu;sf	1
-艴	bo;fs	1
-艴	bo;sf	1
+艴	bo;fs	0
+艴	bo;sf	0
 艵	py;bs	0
 艶	yj;sd	0
 艶	yj;sl	0
@@ -35226,7 +35226,7 @@ use_preset_vocabulary: false
 葯	wo;cy	0
 葰	jp;cj	41
 葰	sv;cj	0
-葰	so;cj	41
+葰	so;cj	0
 葱	cs;cc	24137
 葱	cs;cx	24137
 葱	id;cc	0
@@ -35361,8 +35361,8 @@ use_preset_vocabulary: false
 蓁	vf;cq	2763
 蓂	my;cm	0
 蓂	my;cl	0
-蓂	mi;cm	72
-蓂	mi;cl	72
+蓂	mi;cm	0
+蓂	mi;cl	0
 蓃	sb;cs	0
 蓄	xu;ci	42731
 蓄	xu;cx	42731
@@ -43456,7 +43456,7 @@ use_preset_vocabulary: false
 靬	gj;gg	0
 靬	jm;gg	0
 靬	hj;gg	0
-靬	qm;gg	33
+靬	qm;gg	0
 靭	rf;gr	0
 靮	di;gu	0
 靯	du;gt	0

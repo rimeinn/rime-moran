@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20260310"
+version: "20260329"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9332,6 +9332,7 @@ columns:
 淘宝闪购	10
 闪购	10
 近邻宝	10
+自噬	50
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0

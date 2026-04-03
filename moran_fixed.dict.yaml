@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260324"
+version: "20260403"
 sort: by_weight
 columns:
   - text
@@ -28435,6 +28435,7 @@ H股	hgu
 好喫好喝	hihh
 胡喫海喝	hihh
 呼哧呼哧	hihi
+胡喫海塞	hihs
 或遲或早	hihz
 紅橙黃綠青藍紫	hihz
 紅橙黃綠藍靛紫	hihz
@@ -46915,6 +46916,7 @@ JK制服	jkvf
 看着都疼	kvdt
 揆度	kvdu
 愧對	kvdv
+虧得	kvdz
 隗	kve
 聵	kveg
 鄈	kveg
@@ -46930,7 +46932,7 @@ JK制服	jkvf
 看着鍋裏	kvgl
 空中管制	kvgv
 開展工作	kvgz
-虧	kvh
+客製化	kvh
 開展活動	kvhd
 愧恨	kvhf
 虧耗	kvhk
@@ -99620,10 +99622,11 @@ WiFi	wifi
 性情豪爽	xqhu
 休會	xqhv
 繡花	xqhw
-螑	xqi
+䗛	xqi
 修車	xqie
 修長	xqih
 羞恥	xqii
+螑	xqii
 髹	xqix
 鏽	xqj
 修腳	xqjc
