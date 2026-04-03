@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260324"
+version: "20260403"
 sort: original
 columns:
   - text
@@ -27636,6 +27636,7 @@ H股	hgu
 好吃好喝	hihh
 胡吃海喝	hihh
 呼哧呼哧	hihi
+胡吃海塞	hihs
 或迟或早	hihz
 红橙黄绿青蓝紫	hihz
 红橙黄绿蓝靛紫	hihz
@@ -45548,6 +45549,7 @@ JK制服	jkvf
 看着都疼	kvdt
 揆度	kvdu
 愧对	kvdv
+亏得	kvdz
 聩	kve
 聩	kveg
 揆	kvf
@@ -45563,6 +45565,7 @@ JK制服	jkvf
 戣	kvgt
 空中管制	kvgv
 开展工作	kvgz
+客制化	kvh
 开展活动	kvhd
 愧恨	kvhf
 亏耗	kvhk
@@ -96860,11 +96863,11 @@ U盘	upj
 性情豪爽	xqhu
 休会	xqhv
 绣花	xqhw
-髹	xqi
+䗛	xqi
 修车	xqie
 修长	xqih
 羞耻	xqii
-䗛	xqix
+髹	xqix
 锈	xqj
 修脚	xqjc
 锈迹	xqji
