@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260403"
+version: "20260408"
 sort: original
 columns:
   - text
@@ -62827,7 +62827,6 @@ P站	pvj
 七日	qiri
 凄然	qirj
 枪出如龙	qirl
-其臭如兰	qirl
 气喘如牛	qirn
 欺辱	qiru
 俟	qiru

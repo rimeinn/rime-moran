@@ -6,7 +6,7 @@
 
 ---
 name: moran.chars
-version: "20260103"
+version: "20260409"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -40194,8 +40194,8 @@ use_preset_vocabulary: false
 辨	bj;xx	0
 辨	pm;dx	0
 辨	pm;xx	0
-辩	bm;xx	0
 辩	bm;yx	0
+辩	bm;xx	0
 辪	xt;xv	0
 辪	xt;vx	0
 辫	bm;sx	0
@@ -88192,6 +88192,8 @@ use_preset_vocabulary: false
 𨛕	yb;ey	0
 𨛕	yb;ek	0
 𨛖	ky;bc	0
+𨛗	yb;ey	0
+𨛗	yb;ye	0
 𨛘	ug;ut	0
 𨛙	lz;el	0
 𨛚	zl;gy	0
