@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260403"
+version: "20260408"
 sort: by_weight
 columns:
   - text
@@ -64634,7 +64634,6 @@ P站	pvj
 七日	qiri
 悽然	qirj
 槍出如龍	qirl
-其臭如蘭	qirl
 氣喘如牛	qirn
 僛	qirq
 倛	qirq

@@ -23299,7 +23299,7 @@
 辦	lx xx
 辧	dx xx
 辨	dx xx
-辩	xx yx
+辩	yx xx
 辪	xv vx
 辫	sx xx
 辬	wx xx
@@ -83977,6 +83977,7 @@
 𰽆	jx
 𬨤	zg
 𮍐	ga
+𨛗	ey ye
 𣮚	mf
 𣴅	df
 𨯾	jj
