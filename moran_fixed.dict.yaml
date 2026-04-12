@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260408"
+version: "20260410"
 sort: by_weight
 columns:
   - text
@@ -16763,6 +16763,7 @@ D盤	dpj
 而非	ef
 阿房宮賦	efgf
 二分查找	efiv
+二分搜索	efss
 二分之一	efvy
 二分音符	efyf
 嗯	eg
@@ -48533,6 +48534,7 @@ JK制服	jkvf
 冷眼	lgyj
 冷飲	lgyn
 兩個月內	lgyn
+理固宜然	lgyr
 冷遇	lgyu
 靈光一閃	lgyu
 靈光一現	lgyx
@@ -119102,6 +119104,7 @@ git	git
 差轉檯	ivt
 稱之爲	ivw
 出主意	ivy
+純文本	iwb
 超文本	iwb
 喫完飯	iwf
 成文法	iwf
