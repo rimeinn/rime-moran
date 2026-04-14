@@ -39581,8 +39581,8 @@
 𡤿	zr	子人	auto
 𡥀	zb	子八	auto
 𡥁	zd	子刂	auto
-𡥂	za	子一	auto
-𡥂	pz	丿子	auto
+𡥂	uz	𠂇子	
+𡥂	zu	子𠂇	
 𡥃	zn	子女	auto
 𡥄	zk	子口	auto
 𡥅	fz	扌子	auto
@@ -100121,6 +100121,7 @@
 𮍐	ga	戈一	
 𨛗	ey	阝邑	
 𨛗	ye	邑阝	
+𰛄	aa	亅乛	
 
 # 待考
 

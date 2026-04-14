@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20260409"
+version: "20260419"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9335,6 +9335,15 @@ columns:
 自噬	50
 理固宜然	1000
 古法編程	10
+李薩如	1
+利薩如	1
+昇騰	1
+對咯	1000
+對嘍	1000
+雄脫	1
+糖前期	1
+奶霜	10
+奶冻	10
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0
