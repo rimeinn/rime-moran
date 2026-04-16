@@ -124,7 +124,6 @@ function top.init(env)
     -- output 狀態
     env.output_i = 0
     env.output_injected_secondary = {}
-    env.is_sentence_making = false
 end
 
 function top.fini(env)
@@ -132,7 +131,6 @@ function top.fini(env)
     env.smart = nil
     env.rfixed = nil
     env.output_injected_secondary = nil
-    env.is_sentence_making = nil
     collectgarbage()
 end
 
@@ -149,18 +147,26 @@ function top.func(input, seg, env)
     local indicator = env.quick_code_indicator
 
     -- 用戶尚未選過字時，調用碼表。
-    env.is_sentence_making = not (env.engine.context.input == input)
-    if not env.is_sentence_making or env.quick_code_in_sentence_making then
+    local is_sentence_making = not (env.engine.context.input == input)
+    if not is_sentence_making or env.quick_code_in_sentence_making then
         local fixed_res = env.fixed:query(input, seg)
         -- 如果輸入長度爲 4，只輸出 2 字詞。
         if fixed_res ~= nil then
             if (input_len == 4) then
-                if inflexible and env.inject_fixed_words and env.inject_fixed_chars then
+                if inflexible and env.is_sentence_making then
+                -- 固詞 + 造句模式 ，無視inject_fixed_words 和 inject_fixed_chars
+                for cand in fixed_res:iter() do
+                    local cand_len = utf8.len(cand.text)
+                    if cand_len == 2 then
+                        top.output_word_from_fixed(env, cand)
+                    end
+                end
+                elseif inflexible and env.inject_fixed_words and env.inject_fixed_chars then
                     -- 如果固詞, inject_fixed_words 和 inject_fixed_chars 同時打開，則理解爲掛接用法，直接輸出碼表。
                     for cand in fixed_res:iter() do
                         top.output_from_fixed(env, cand)
                     end
-                elseif inflexible and env.inject_fixed_words and not env.is_sentence_making then
+                elseif inflexible and env.inject_fixed_words then
                     -- 固詞 + 長詞 = 只有詞
                     for cand in fixed_res:iter() do
                         if utf8.len(cand.text) > 1 then
@@ -190,11 +196,11 @@ function top.func(input, seg, env)
                 end
             elseif input_len < 4 then          -- 造句模式下，只使用固定單字（詞語無法固定）
                 for cand in fixed_res:iter() do
-                    if not env.is_sentence_making or utf8.len(cand.text) == 1 then
+                    if not is_sentence_making or utf8.len(cand.text) == 1 then
                         top.output_from_fixed(env, cand)
                     end
                 end
-            elseif not env.is_sentence_making then  -- input_len > 4，輸出所有
+            elseif not is_sentence_making then  -- input_len > 4，輸出所有
                 for cand in fixed_res:iter() do
                     top.output_from_fixed(env, cand)
                 end
@@ -215,7 +221,7 @@ function top.func(input, seg, env)
     local inject_chars = {}  -- valid only when inject_has_priority
     local inject_words = {}  -- valid only when inject_has_priority
     local num_injections = 0 -- valid only when inject_has_priority
-    if (not fixed_triggered and input_len == 4) then
+    if (not fixed_triggered and input_len == 4 and not is_sentence_making) then
         for cand in moran.query_translation(env.fixed, input, seg, nil) do
             local cand_len = utf8.len(cand.text)
             if (env.inject_fixed_chars and cand_len == 1) or (env.inject_fixed_words and cand_len > 2) then
@@ -345,7 +351,7 @@ function top.output(env, cand)
     -- 注意：需要保證 spelling hint 僅對 3 字以下詞開啓
     yield(cand)
     env.output_i = env.output_i + 1
-    if env.output_i == 1 and not env.is_sentence_making then
+    if env.output_i == 1 then
         -- drain injected cands
         local cands = env.output_injected_secondary
         env.output_injected_secondary = {}
