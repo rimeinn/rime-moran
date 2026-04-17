@@ -191,7 +191,6 @@ function top.func(input, seg, env)
             elseif input_len < 4 then          -- 造句模式下，只使用固定單字（詞語無法固定）
                 for cand in fixed_res:iter() do
                     if not is_sentence_making or utf8.len(cand.text) == 1 then
-                        log.error(cand.text)
                         top.output_from_fixed(env, cand, is_sentence_making)
                     end
                 end
