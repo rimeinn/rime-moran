@@ -1,10 +1,12 @@
 -- Moran Translator (for Express Editor)
--- Copyright (c) 2023, 2024, 2025 ksqsf
+-- Copyright (c) 2023, 2024, 2025, 2026 ksqsf
 --
--- Ver: 0.12.0
+-- Ver: 0.12.1
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.12.1: 造詞模式阻止輸出簡碼碼表多字詞
 --
 -- 0.12.0: 引入惰性加載
 --
@@ -153,24 +155,16 @@ function top.func(input, seg, env)
         -- 如果輸入長度爲 4，只輸出 2 字詞。
         if fixed_res ~= nil then
             if (input_len == 4) then
-                if inflexible and env.is_sentence_making then
-                -- 固詞 + 造句模式 ，無視inject_fixed_words 和 inject_fixed_chars
-                for cand in fixed_res:iter() do
-                    local cand_len = utf8.len(cand.text)
-                    if cand_len == 2 then
-                        top.output_word_from_fixed(env, cand)
-                    end
-                end
-                elseif inflexible and env.inject_fixed_words and env.inject_fixed_chars then
+                if inflexible and env.inject_fixed_words and env.inject_fixed_chars then
                     -- 如果固詞, inject_fixed_words 和 inject_fixed_chars 同時打開，則理解爲掛接用法，直接輸出碼表。
                     for cand in fixed_res:iter() do
-                        top.output_from_fixed(env, cand)
+                        top.output_from_fixed(env, cand, is_sentence_making)
                     end
                 elseif inflexible and env.inject_fixed_words then
                     -- 固詞 + 長詞 = 只有詞
                     for cand in fixed_res:iter() do
                         if utf8.len(cand.text) > 1 then
-                            top.output_word_from_fixed(env, cand)
+                            top.output_word_from_fixed(env, cand, is_sentence_making)
                         end
                     end
                 elseif inflexible and env.inject_fixed_chars then
@@ -180,7 +174,7 @@ function top.func(input, seg, env)
                         if cand_len == 1 then
                             top.output_char_from_fixed(env, cand)
                         elseif cand_len == 2 then
-                            top.output_word_from_fixed(env, cand)
+                            top.output_word_from_fixed(env, cand, is_sentence_making)
                         end
                     end
                 elseif inflexible then
@@ -188,7 +182,7 @@ function top.func(input, seg, env)
                     for cand in fixed_res:iter() do
                         local cand_len = utf8.len(cand.text)
                         if cand_len == 2 then
-                            top.output_word_from_fixed(env, cand)
+                            top.output_word_from_fixed(env, cand, is_sentence_making)
                         end
                     end
                 else
@@ -197,12 +191,13 @@ function top.func(input, seg, env)
             elseif input_len < 4 then          -- 造句模式下，只使用固定單字（詞語無法固定）
                 for cand in fixed_res:iter() do
                     if not is_sentence_making or utf8.len(cand.text) == 1 then
-                        top.output_from_fixed(env, cand)
+                        log.error(cand.text)
+                        top.output_from_fixed(env, cand, is_sentence_making)
                     end
                 end
             elseif not is_sentence_making then  -- input_len > 4，輸出所有
                 for cand in fixed_res:iter() do
-                    top.output_from_fixed(env, cand)
+                    top.output_from_fixed(env, cand, is_sentence_making)
                 end
             end
         end
@@ -221,10 +216,10 @@ function top.func(input, seg, env)
     local inject_chars = {}  -- valid only when inject_has_priority
     local inject_words = {}  -- valid only when inject_has_priority
     local num_injections = 0 -- valid only when inject_has_priority
-    if (not fixed_triggered and input_len == 4 and not is_sentence_making) then
+    if (not fixed_triggered and input_len == 4) then
         for cand in moran.query_translation(env.fixed, input, seg, nil) do
             local cand_len = utf8.len(cand.text)
-            if (env.inject_fixed_chars and cand_len == 1) or (env.inject_fixed_words and cand_len > 2) then
+            if (env.inject_fixed_chars and cand_len == 1) or (env.inject_fixed_words and cand_len > 2 and not is_sentence_making) then
                 if cand_len ~= 1 or (cand_len == 1 and not env.quick_code_indicator_skip_chars) then
                     cand:get_genuine().comment = indicator
                 end
@@ -368,16 +363,18 @@ function top.output_char_from_fixed(env, cand)
     top.output(env, cand)
 end
 
-function top.output_word_from_fixed(env, cand)
-    cand.comment = env.quick_code_indicator
-    top.output(env, cand)
+function top.output_word_from_fixed(env, cand, is_sentence_making)
+    if not is_sentence_making or utf8.len(cand.text) == 2 then
+        cand.comment = env.quick_code_indicator
+        top.output(env, cand)
+    end
 end
 
-function top.output_from_fixed(env, cand)
+function top.output_from_fixed(env, cand, is_sentence_making)
     if utf8.len(cand.text) == 1 then
         top.output_char_from_fixed(env, cand)
     else
-        top.output_word_from_fixed(env, cand)
+        top.output_word_from_fixed(env, cand, is_sentence_making)
     end
 end
 
