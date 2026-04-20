@@ -87,6 +87,10 @@ engine:
     - lua_filter@*moran_english_filter
     - uniquifier
 
+navigator:
+  # 在音節跳轉時，跳過音節末尾的分隔符 ' ，設爲 after_delimiter 恢復 Rime 默認行爲
+  syllable_jump_position: before_delimiter
+
 speller:
   alphabet: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ/
   delimiter: " '"
