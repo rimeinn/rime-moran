@@ -33019,7 +33019,7 @@
 𡤿	zr
 𡥀	zb
 𡥁	zd
-𡥂	za pz
+𡥂	uz zu
 𡥃	zn
 𡥄	zk
 𡥅	fz zf
@@ -83978,6 +83978,7 @@
 𬨤	zg
 𮍐	ga
 𨛗	ey ye
+𰛄	aa
 𣮚	mf
 𣴅	df
 𨯾	jj

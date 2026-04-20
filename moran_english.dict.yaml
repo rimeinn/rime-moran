@@ -6,7 +6,7 @@
 
 ---
 name: moran_english
-version: "20260330"
+version: "20260418"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -57312,3 +57312,12 @@ SuperMemo	SuperMemo
 404 Not Found	404NotFound
 internet	internet
 Internet	Internet
+Poincaré	Poincare
+Grothendieck	Grothendieck
+Coriolis	Coriolis
+Lissajous	Lissajous
+Savart	Savart
+d'Alembert	dAlembert
+Liouville	Liouville
+Sturm	Sturm
+OCaml	OCaml

@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260410"
+version: "20260419"
 sort: original
 columns:
   - text
@@ -463,6 +463,7 @@ A股	agu
 阿拉伯文	albw
 阿拉伯语	alby
 阿拉伯数字	albz
+氨氯地平	aldp
 阿里地区	aldq
 按劳付酬	alfi
 按劳分配	alfp
@@ -507,6 +508,7 @@ A股	agu
 阿美莉卡	amlk
 鞍马劳困	amlk
 阿米莉亚	amly
+奥美拉唑	amlz
 唵嘛呢叭咪吽	amnh
 按摩女郎	amnl
 啊米诺斯	amns
@@ -863,6 +865,7 @@ A盘	apj
 安全理事会	aqlh
 鞍前马后	aqmh
 爱情买卖	aqmm
+阿奇霉素	aqms
 安全起见	aqqj
 安全气囊	aqqn
 爱钱如命	aqrm
@@ -924,6 +927,7 @@ A4纸	asv
 安塞腰鼓	asyg
 艾特	at
 凹凸不平	atbp
+安提戈涅	atgn
 暗通款曲	atkq
 艾特全体	atqt
 按图索骥	atsj
@@ -947,6 +951,7 @@ A4纸	asv
 安神定魄	audp
 安神定志	audv
 昂首阔步	aukb
+奥施康定	aukd
 安身立命	aulm
 奥沙利文	aulw
 奥数魔刃	aumr
@@ -13194,6 +13199,7 @@ C语言	cyy
 典范	dmfj
 颠覆	dmfu
 垫付	dmfu
+碘伏	dmfu
 大梦方醒	dmfx
 都没发现	dmfx
 电费	dmfz
@@ -13731,6 +13737,7 @@ D盘	dpj
 大盘蓝筹	dpli
 颠沛流离	dpll
 地痞流氓	dplm
+多潘立酮	dplt
 打疲劳战	dplv
 箪瓢陋巷	dplx
 楯	dpmd
@@ -14986,6 +14993,7 @@ D盘	dpj
 对抗	dvkh
 对开	dvkl
 兑款	dvkr
+对喽	dvlb
 大赚了一笔	dvlb
 地主老财	dvlc
 党政领导	dvld
@@ -14996,6 +15004,7 @@ D盘	dpj
 对立	dvli
 挡住了去路	dvll
 对联	dvlm
+对咯	dvlo
 对流	dvlq
 对路	dvlu
 队列	dvlx
@@ -15834,6 +15843,7 @@ D盘	dpj
 定向	dyxd
 东游西荡	dyxd
 抖音小店	dyxd
+对乙酰氨基酚	dyxf
 东游西逛	dyxg
 地狱笑话	dyxh
 东摇西晃	dyxh
@@ -16079,6 +16089,7 @@ D盘	dpj
 2D	ed
 儿大不由娘	edbn
 二等残废	edcf
+2D动画	eddh
 额定电流	eddl
 额定电压	eddy
 耳朵底子	eddz
@@ -16313,6 +16324,7 @@ D盘	dpj
 已经拿到	ejnd
 已经能够	ejng
 已经确定	ejqd
+二甲双胍	ejug
 已经使用	ejuy
 二进制位	ejvw
 二进制文件	ejw
@@ -28660,6 +28672,7 @@ H股	hgu
 好马配好鞍	hmpa
 豪门千金	hmqj
 讳莫如深	hmru
+红霉素软膏	hmsg
 侯门似海	hmsh
 火冒三丈	hmsv
 画面太美我不敢看	hmtk
@@ -38002,6 +38015,7 @@ I盘	ipj
 笄	jivk
 检查治疗	jivl
 金池长老	jivl
+集	jivm
 基准	jivp
 箕	jivq
 集中	jivs
@@ -40661,7 +40675,6 @@ JK制服	jkvf
 崛	jtu
 绝杀	jtua
 绝收	jtub
-九天神兵	jtub
 脚踏实地	jtud
 砄	jtud
 具体数额	jtue
@@ -44704,6 +44717,7 @@ JK制服	jkvf
 亢龙有悔	klyh
 开眼	klyj
 开演	klyj
+开药	klyk
 看了又看	klyk
 开印	klyn
 慨允	klyp
@@ -53887,6 +53901,7 @@ JK制服	jkvf
 名牌产品	mpip
 满盘皆输	mpju
 卖破烂的	mpld
+莫匹罗星	mplx
 没凭没据	mpmj
 没皮没脸	mpml
 冒泡排序	mppx
@@ -53947,7 +53962,6 @@ JK制服	jkvf
 眉清目秀	mqmx
 美其名曰	mqmy
 满腔怒火	mqnh
-明前奶绿	mqnl
 目前普遍	mqpb
 密切配合	mqph
 密切平面	mqpm
@@ -54243,6 +54257,7 @@ JK制服	jkvf
 没听说过	mtug
 没图说个	mtug
 满头是汗	mtuh
+蒙脱石散	mtus
 每天上午	mtuw
 明天上午	mtuw
 迷途知返	mtvf
@@ -54900,7 +54915,7 @@ JK制服	jkvf
 面向用户	mxyh
 木秀于林	mxyl
 梦想有一天	mxyt
-明仙宇宙	mxyv
+慢性炎症	mxyv
 命悬一线	mxyx
 某些原因	mxyy
 慢性咽炎	mxyy
@@ -59860,6 +59875,7 @@ JK制服	jkvf
 普及开来	pjkl
 盘库	pjku
 盘亏	pjkv
+庞加莱回归	pjlg
 叛离	pjli
 判例	pjli
 叛乱	pjlr
@@ -69063,7 +69079,9 @@ P站	pvj
 四大才子	sdcz
 随地大小便	sddb
 随地大小变	sddb
+3D动画	sddh
 3D打印	sddy
+3D电影	sddy
 四大恶人	sder
 似懂非懂	sdfd
 四大发明	sdfm
@@ -70155,6 +70173,7 @@ P站	pvj
 森罗万象	slwx
 斯洛文尼亚	slwy
 塑料兄弟	slxd
+塞来昔布	slxf
 斯拉雪麦格	slxg
 苏联笑话	slxh
 耸了下肩	slxj
@@ -70213,6 +70232,7 @@ P站	pvj
 什么感觉	smgj
 什么跟什么	smgm
 什么概念	smgn
+司美格鲁肽	smgt
 扫码关注	smgv
 什么关系	smgx
 什么工作	smgz
@@ -71850,6 +71870,7 @@ P站	pvj
 头盔	tbkv
 偷窥	tbkv
 痛并快乐着	tbkv
+头孢克肟	tbkw
 投料	tblc
 透亮	tbld
 逃避劳动	tbld
@@ -80301,6 +80322,7 @@ T恤衫	txuj
 上了飞机	ulfj
 事了拂衣去，深藏功与名	ulfm
 事了拂衣去	ulfq
+双氯芬酸	ulfs
 上了发条	ulft
 顺利发展	ulfv
 水力发电站	ulfv
@@ -81421,6 +81443,7 @@ U盘	upj
 率土之滨	utvb
 身体状况	utvk
 势头正猛	utvm
+升糖指数	utvu
 山头主义	utvy
 杀头之罪	utvz
 生态文化	utwh
@@ -81519,11 +81542,11 @@ U盘	upj
 生杀大权	uudq
 时尚达人	uudr
 树洞	uuds
+数独	uudu
 审时度势	uudu
 淑	uudu
 澍	uudu
 沭	uudu
-顺手的事	uudu
 殊	uudv
 世事洞明皆学问	uudw
 收拾东西	uudx
@@ -84028,6 +84051,7 @@ U盘	upj
 这回	vehv
 这会	vehv
 辙	vei
+蜇	vei
 遮丑	veib
 着床	veid
 折成	veig
@@ -84035,10 +84059,9 @@ U盘	upj
 折尺	veii
 折冲	veis
 䗪	veiu
-蜇	veiv
 蛰	veiv
 赭	veiv
-螫	veiw
+蜇	veiv
 辄	veiy
 锗	vej
 浙江	vejd
@@ -90372,6 +90395,7 @@ U盘	upj
 无处容身	wiru
 完成任务	wirw
 物超所值	wisv
+误闯天家	witj
 维持生活	wiuh
 维持生计	wiuj
 完成使命	wium
@@ -91251,6 +91275,7 @@ U盘	upj
 文明观赛	wmgs
 万码归一	wmgy
 威名赫赫	wmhh
+伪麻黄碱	wmhj
 无名火起	wmhq
 文明和谐	wmhx
 我们还要	wmhy
@@ -103950,6 +103975,7 @@ U盘	upj
 誉满天下	ymtx
 叶面施肥	ymuf
 验明身份	ymuf
+右美沙芬	ymuf
 一目十行	ymuh
 页面设计	ymuj
 辕门射戟	ymuj
@@ -106222,6 +106248,7 @@ U盘	upj
 远水难救近火	yunh
 一山难容二虎	yunh
 淤泥	yuni
+芋泥	yuni
 遇难	yunj
 鱼腩	yunj
 鹬	yunk
@@ -111796,6 +111823,10 @@ U盘	upj
 总在最前	zzzq
 自作自受	zzzu
 自自在在	zzzz
+奶盖	nlgl
+奶绿	nllv
+奶霜	nlud
+奶冻	nlds
 
 划	hwg
 骂	mam
@@ -112991,6 +113022,7 @@ U盘	upj
 安慰剂	awj
 艾窝窝	aww
 癌细胞	axb
+氨溴索	axs
 奥运村	ayc
 奥运会	ayh
 哎呦呵	ayh
@@ -113108,6 +113140,7 @@ U盘	upj
 本分人	bfr
 比方说	bfu
 百分之	bfv
+并发症	bfv
 不放心	bfx
 暴风雪	bfx
 暴风雨	bfy
@@ -113229,6 +113262,8 @@ U盘	upj
 白兰地	bld
 鼻梁儿	ble
 别浪费	blf
+布洛芬	blf
+板蓝根	blg
 拨浪鼓	blg
 巴拉圭	blg
 博览会	blh
@@ -114608,7 +114643,6 @@ Excel	eks
 反倾销	fqx
 副热带	frd
 法人股	frg
-芙蓉国	frg
 非日常	fri
 缝纫机	frj
 否认了	frl
@@ -114632,6 +114666,7 @@ Excel	eks
 伏特加	ftj
 反贪局	ftj
 反推力	ftl
+芬太尼	ftn
 佛跳墙	ftp
 繁体字	ftz
 发帖子	ftz
@@ -114897,6 +114932,7 @@ git	git
 公积金	gjj
 高精尖	gjj
 攻击力	gjl
+轨迹球	gjq
 工具人	gjr
 工具箱	gjx
 关节炎	gjy
@@ -115084,8 +115120,10 @@ git	git
 关系网	gxw
 感谢信	gxx
 共享下	gxx
-高效益	gxy
 高血压	gxy
+更需要	gxy
+管弦乐	gxy
+高效益	gxy
 工薪族	gxz
 雇佣兵	gyb
 工业部	gyb
@@ -115653,6 +115691,7 @@ git	git
 车轮战	ilv
 车厘子	ilz
 出乱子	ilz
+触摸板	imb
 出毛病	imb
 崇明岛	imd
 长明灯	imd
@@ -116153,6 +116192,7 @@ git	git
 价值观	jvg
 金针菇	jvg
 九寨沟	jvg
+机制怪	jvg
 江浙沪	jvh
 镜中花	jvh
 假正经	jvj
@@ -116433,6 +116473,7 @@ Keynote	knt
 空置率	kvl
 扩展名	kvm
 抗震棚	kvp
+控制器	kvq
 勘误表	kwb
 开胃菜	kwc
 可望而	kwe
@@ -117029,6 +117070,7 @@ Keynote	knt
 模拟器	mnq
 木乃伊	mny
 满脑子	mnz
+没脑子	mnz
 毛坯房	mpf
 门牌号	mph
 冒牌货	mph
@@ -117100,6 +117142,7 @@ Keynote	knt
 摩天轮	mtl
 曼陀罗	mtl
 马蹄莲	mtl
+没头脑	mtn
 蒙太奇	mtq
 马头琴	mtq
 没听清	mtq
@@ -117849,6 +117892,7 @@ PVP	pvp
 巧克力	qkl
 区块链	qkl
 气哭了	qkl
+羟考酮	qkt
 情况下	qkx
 潜力股	qlg
 禽流感	qlg
@@ -117988,6 +118032,7 @@ PVP	pvp
 起源于	qyy
 轻音乐	qyy
 起源自	qyz
+奇亚籽	qyz
 签字笔	qzb
 全自动	qzd
 潜在的	qzd
@@ -118282,6 +118327,7 @@ SD卡	sdk
 三角架	sjj
 丧家犬	sjq
 三九天	sjt
+随机数	sju
 三角洲	sjv
 三角形	sjx
 时间线	sjx
@@ -118691,6 +118737,7 @@ SD卡	sdk
 团支部	tvb
 土政策	tvc
 天知道	tvd
+同质化	tvd
 天主教	tvj
 太直接	tvj
 通胀率	tvl
@@ -118892,6 +118939,7 @@ SD卡	sdk
 深呼吸	uhx
 售货员	uhy
 生产力	uil
+生成器	uiq
 双肩包	ujb
 神经病	ujb
 世界观	ujg
@@ -119090,6 +119138,7 @@ SD卡	sdk
 谁知道	uvd
 市政府	uvf
 省政府	uvf
+数值怪	uvg
 双职工	uvg
 双周刊	uvk
 睡着了	uvl
@@ -119105,6 +119154,7 @@ SD卡	sdk
 受制于	uvy
 水中月	uvy
 摄制组	uvz
+数位板	uwb
 商务部	uwb
 试玩版	uwb
 商务舱	uwc
@@ -119118,6 +119168,7 @@ SD卡	sdk
 食物链	uwl
 耍无赖	uwl
 视网膜	uwm
+数位屏	uwp
 生物圈	uwq
 水污染	uwr
 事务所	uws
@@ -120097,6 +120148,7 @@ Word	wrd
 小汇报	xhb
 杏花村	xhc
 信号灯	xhd
+小红点	xhd
 小孩儿	xhe
 歇会儿	xhe
 雪花膏	xhg
@@ -120448,6 +120500,7 @@ Word	wrd
 一次次	ycc
 药材店	ycd
 一次的	ycd
+隐藏分	ycf
 油菜花	ych
 原材料	ycl
 一次性	ycx
@@ -120589,8 +120642,8 @@ Word	wrd
 优惠券	yhq
 氧化铁	yht
 雨花台	yht
-印花税	yhu
 一回事	yhu
+印花税	yhu
 与会者	yhv
 氧化物	yhw
 银河系	yhx
@@ -120705,6 +120758,7 @@ Word	wrd
 圆明园	ymy
 要面子	ymz
 夜猫子	ymz
+亚麻籽	ymz
 一年级	ynj
 云南人	ynr
 云南省	ynu
@@ -121063,6 +121117,7 @@ Word	wrd
 资料夹	zlj
 自流井	zlj
 紫罗兰	zll
+资料片	zlp
 自来水	zlu
 再联系	zlx
 坐落于	zly
