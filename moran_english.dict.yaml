@@ -6,7 +6,7 @@
 
 ---
 name: moran_english
-version: "20260418"
+version: "20260420"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -57321,3 +57321,4 @@ d'Alembert	dAlembert
 Liouville	Liouville
 Sturm	Sturm
 OCaml	OCaml
+Lebesgue	Lebesgue

@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260419"
+version: "20260421"
 sort: original
 columns:
   - text
@@ -7783,8 +7783,8 @@ B盘	bpj
 侧扁	cebm
 测测	cece
 测	ced
-测度	cedo
 策动	ceds
+测度	cedu
 测定	cedy
 侧耳	ceer
 册封	cefg
@@ -42279,7 +42279,7 @@ JK制服	jkvf
 截然	jxrj
 偕	jxrj
 介入	jxru
-觉醒人士	jxru
+接入	jxru
 吉祥如意	jxry
 教学人员	jxry
 检修人员	jxry
@@ -56975,6 +56975,7 @@ JK制服	jkvf
 氖灯	nldg
 努力打拼	nldp
 内陆地区	nldq
+奶冻	nlds
 哪里都是	nldu
 闹里打转	nldv
 能量代谢	nldx
@@ -56996,6 +56997,7 @@ JK制服	jkvf
 乃	nlg
 努力改变	nlgb
 奶糕	nlgk
+奶盖	nlgl
 尿路感染	nlgr
 努力改善	nlgu
 那路或多	nlhd
@@ -57027,6 +57029,7 @@ JK制服	jkvf
 耐力	nlli
 奶酪	nllk
 年老力衰	nllu
+奶绿	nllv
 努力练习	nllx
 柰	nlm
 奶妈	nlma
@@ -57075,6 +57078,7 @@ JK制服	jkvf
 年老体弱	nltr
 年老体衰	nltu
 耐受	nlub
+奶霜	nlud
 能量守恒	nluh
 奴隶社会	nluh
 内力深厚	nluh
@@ -111823,10 +111827,6 @@ U盘	upj
 总在最前	zzzq
 自作自受	zzzu
 自自在在	zzzz
-奶盖	nlgl
-奶绿	nllv
-奶霜	nlud
-奶冻	nlds
 
 划	hwg
 骂	mam
