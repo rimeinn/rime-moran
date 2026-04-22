@@ -94,13 +94,13 @@ engine:
     - lua_filter@*moran_reorder_filter
     - lua_filter@*moran_ijrq_filter
     - lua_filter@*moran_hint_filter
+    - simplifier@simplifier
     - simplifier@emoji
     - simplifier@chaifen
     - simplifier@pinyinhint
     - simplifier@std_hk
     - simplifier@std_tw
     - simplifier@std_dzing
-    - simplifier@simplifier
     - lua_filter@*moran_charset_comment_filter  # Unicode 區位提示
     - lua_filter@*moran_unicode_display_filter  # Unicode 編碼提示
     - lua_filter@*moran_english_filter
