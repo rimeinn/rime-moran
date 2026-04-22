@@ -34,6 +34,18 @@ update-compact-dicts:
 sync-essay:
 	uv run tools/sync_essay.py
 
+#########
+# mdict #
+#########
+
+mdict: moran.mdd moran.mdx
+
+moran.mdd: tools/mdict/main.css
+	mdict -a tools/mdict moran.mdd
+
+moran.mdx: tools/data/chars.txt tools/data/moran_chai.txt tools/gen_mdx.py 
+	uv run tools/gen_mdx.py moran.mdx
+
 ########
 # 其他 #
 ########
@@ -43,6 +55,8 @@ dazhu:
 	uv run tools/dazhu.py -c='' --dict moran_fixed_simp.dict.yaml > dazhu-hans.txt
 
 clean:
+	rm -rf mdict-out
+	rm -f moran.mdd moran.mdx
 	rm -rf dist
 	rm -f $(chars_output)
 	rm -f dazhu*.txt
@@ -72,4 +86,4 @@ test: dist
 	mira -C /tmp/mira-cache tests/moran_aux.test.yaml
 	rm -rf /tmp/mira-cache
 
-.PHONY: quick all dict chars zrmdb chaifen update-compact-dicts sync-essay dazhu opencc
+.PHONY: quick all dict chars zrmdb chaifen update-compact-dicts sync-essay dazhu opencc mdict

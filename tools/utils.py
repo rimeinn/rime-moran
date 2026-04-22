@@ -1,9 +1,11 @@
 from collections import defaultdict, OrderedDict
 import os
 from datetime import datetime
+from typing import Generator, Iterable, Tuple, Iterator, overload
 
 
-def tsv_reader(path):
+def tsv_reader(path: str) -> Iterator[list[str]]:
+    """Yield each line which is parsed as list of strings. """
     with open(path, 'r') as f:
         for line in f:
             line = line.rstrip('\n')
@@ -13,23 +15,27 @@ def tsv_reader(path):
             yield parts
 
 
-def get_keys(parts, key_indices):
+def get_keys(parts: list[str], key_indices: int | Iterable[int]) -> str | Tuple[str, ...]:
+    """Returns tuples whose elements are selected by the indices from parts."""
     if isinstance(key_indices, int):
         return parts[key_indices]
 
-    keys = list()
+    keys: list[str] = list()
     for ki in key_indices:
         keys.append(parts[ki])
-    keys = tuple(keys)
-    return keys
+    return tuple(keys)
 
 
+@overload
+def read_tsv(path: str, key_indices: int, value_index: int) -> dict[str, str]: ...
+@overload
+def read_tsv(path: str, key_indices: Iterable[int], value_index: int) -> dict[tuple[str, ...], str]: ...
 def read_tsv(path, key_indices, value_index):
     """Read a TSV file into a dict."""
-    res = OrderedDict()
+    res: dict[str | tuple[str, ...], str] = OrderedDict()
     for parts in tsv_reader(path):
         keys = get_keys(parts, key_indices)
-        value = parts[value_index]
+        value: str = parts[value_index]
         try:
             assert keys not in res
         except:
@@ -39,9 +45,12 @@ def read_tsv(path, key_indices, value_index):
 
     return res
 
-
+@overload
+def read_tsv_many(path: str, key_indices: int, value_index: int) -> dict[str, list[str]]: ...
+@overload
+def read_tsv_many(path: str, key_indices: Iterable[int], value_index: int) -> dict[tuple[str, ...], list[str]]: ...
 def read_tsv_many(path, key_indices, value_index):
-    res = defaultdict(list)
+    res: dict[str | tuple[str, ...], list[str]] = defaultdict(list)
     for parts in tsv_reader(path):
         keys = get_keys(parts, key_indices)
         value = parts[value_index]

@@ -1871,7 +1871,9 @@
 㫁	jw	斤兀	auto
 㫂	ju	斤庶	auto
 㫃	fr	方人	auto
-㫄	ff	方方	auto
+㫄	fg	方勹	
+㫄	ff	方方	
+㫄	wf	亠方	
 㫅	fq	方亓	auto
 㫆	fx	方小	auto
 㫉	fw	方危	

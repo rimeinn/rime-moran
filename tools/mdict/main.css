@@ -1,0 +1,123 @@
+:root {
+  --bg: #fafaf8;
+  --surface: #f0eeea;
+  --border: #d5d0c8;
+  --accent: #7c4dbe;
+  --accent2: #c2185b;
+  --text: #2c2c2c;
+  --muted: #8a8580;
+  --green: #2e7d32;
+  --yellow-bg: #fff8e1;
+  --yellow-border: #f9a825;
+  --yellow-text: #5d4037;
+}
+
+body, .char-card * {
+  box-sizing: border-box;
+  font-family:
+         -apple-system,
+         BlinkMacSystemFont,
+         'Segoe UI',
+         Roboto,
+         'Helvetica Neue',
+         Arial,
+         sans-serif,
+         'Plangothic P1',
+         'Plangothic P2',
+         '遍黑体P1',
+         '遍黑体P2',
+         'TH-Tshyn-P0',
+         'TH-Sy-P0',
+         'TH-Sy-P16',
+         'TH-Feon';
+}
+
+.char-card {
+  background: var(--bg);
+  color: var(--text);
+  padding: 1.5em;
+  border-radius: 12px;
+  max-width: 480px;
+  border: 1px solid var(--border);
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+}
+
+/* 主字 */
+.character {
+  display: block;
+  font-size: 4em;
+  font-weight: 700;
+  text-align: center;
+  color: var(--accent);
+  letter-spacing: 0.05em;
+  margin-bottom: 0.3em;
+  line-height: 1.1;
+}
+
+/* 全碼區 */
+.section-label {
+  display: inline-block;
+  font-size: 0.75em;
+  font-weight: 600;
+  color: var(--muted);
+  letter-spacing: 0.1em;
+  margin-right: 0.4em;
+  vertical-align: middle;
+}
+
+.fullcode-item {
+  display: inline-block;
+  background: var(--surface);
+  border: 1px solid var(--accent);
+  color: var(--green);
+  font-family: 'Fira Code', 'Cascadia Code', 'Courier New', monospace;
+  font-size: 1em;
+  padding: 0.2em 0.65em;
+  border-radius: 6px;
+  margin: 0.2em 0.2em;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+/* 拆字區 */
+.chai {
+  margin-top: 0.8em;
+  padding-top: 0.8em;
+  border-top: 1px solid var(--border);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  justify-content: center;
+}
+
+.chai-item {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  background: var(--yellow-bg);
+  border: 1px solid var(--yellow-border);
+  border-radius: 8px;
+  padding: 0.3em 0.7em;
+  min-width: 3em;
+}
+
+.chai-item ruby {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+}
+
+.chai-item ruby rt {
+  font-size: 1.5em;
+  color: var(--yellow-text);
+  font-weight: 700;
+  line-height: 1.2;
+  ruby-align: center;
+}
+
+.chai-item ruby {
+  font-family: 'Fira Code', 'Cascadia Code', monospace;
+  font-size: 0.85em;
+  color: var(--accent2);
+  letter-spacing: 0.05em;
+}

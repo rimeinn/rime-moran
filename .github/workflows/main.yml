@@ -35,6 +35,15 @@ jobs:
             dist/moran.moe.dict.yaml
             dist/moran.computer.dict.yaml
             dist/moran.words.dict.yaml
+      - name: Build mdict
+        run: uv run make mdict
+      - name: Upload mdict
+        uses: actions/upload-artifact@v4
+        with:
+          name: "Mdict"
+          path: |
+            moran.mdx
+            moran.mdd
       - name: Deploy to branch
         if: github.ref == 'refs/heads/main'
         uses: peaceiris/actions-gh-pages@v3
