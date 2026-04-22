@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20260419"
+version: "20260421"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9344,6 +9344,20 @@ columns:
 糖前期	1
 奶霜	10
 奶冻	10
+勒贝格	10
+勒贝格积分	10
+勒贝格测度	10
+零测	1
+二测	1
+三测	1
+四测	1
+五测	1
+六测	1
+七测	1
+八测	1
+九测	1
+十测	1
+
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0
