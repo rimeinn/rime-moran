@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260421"
+version: "20260423"
 sort: original
 columns:
   - text
@@ -18507,6 +18507,7 @@ E盘	epj
 反恐	fjks
 费尽口舌	fjku
 反馈	fjkv
+梵	fjl
 饭量	fjld
 风急浪大	fjld
 烦了	fjle
@@ -71465,6 +71466,7 @@ P站	pvj
 思想活跃	sxhy
 思想成熟	sxiu
 三硝基甲苯	sxjb
+思想警察	sxji
 思想境界	sxjj
 三姓家奴	sxjn
 三旬九食	sxju

@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260421"
+version: "20260423"
 sort: by_weight
 columns:
   - text
@@ -19119,6 +19119,7 @@ E盤	epj
 翻錄	fjlu
 費盡了心	fjlx
 翻領	fjly
+梵	fjm
 反碼	fjma
 煩悶	fjmf
 颿	fjmf
@@ -73511,6 +73512,7 @@ P站	pvj
 思想活躍	sxhy
 思想成熟	sxiu
 三硝基甲苯	sxjb
+思想警察	sxji
 思想境界	sxjj
 三姓家奴	sxjn
 三旬九食	sxju
