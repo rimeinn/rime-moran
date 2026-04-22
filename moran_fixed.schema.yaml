@@ -62,10 +62,10 @@ engine:
     - lua_filter@*moran_pin*pin_filter
     - simplifier@chaifen
     - simplifier@pinyinhint
+    - simplifier
     - simplifier@std_hk
     - simplifier@std_tw
     - simplifier@std_dzing
-    - simplifier
     #- lua_filter@*moran_hint_filter  # 簡碼提示功能，詳見文件末
     - simplifier@emoji
     - uniquifier

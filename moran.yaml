@@ -67,6 +67,7 @@ key_bindings:
       - { when: has_menu, accept: "Control+q", toggle: emoji }
       - { when: composing, accept: "Control+x", toggle: extended_charset }
       - { when: has_menu, accept: "Control+Shift+0", toggle: std_opencc }
+      - { when: has_menu, accept: "Control+Shift+parenright", toggle: std_opencc }
       - { when: has_menu, accept: "Control+i", toggle: chaifen }
       - { when: has_menu, accept: "Control+period", toggle: pinyinhint }
 

@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260419"
+version: "20260421"
 sort: by_weight
 columns:
   - text
@@ -7968,8 +7968,8 @@ Bilibili	bvj
 萴	cec
 測測	cece
 測	ced
-測度	cedo
 策動	ceds
+測度	cedu
 測定	cedy
 側耳	ceer
 拺	cef
@@ -43563,7 +43563,7 @@ JK制服	jkvf
 价	jxrj
 倢	jxrj
 介入	jxru
-覺醒人士	jxru
+接入	jxru
 借	jxrx
 吉祥如意	jxry
 教學人員	jxry
@@ -58658,6 +58658,7 @@ JK制服	jkvf
 渿	nldn
 努力打拼	nldp
 內陸地區	nldq
+奶凍	nlds
 哪裏都是	nldu
 鬧裏打轉	nldv
 能量代謝	nldx
@@ -58679,6 +58680,7 @@ JK制服	jkvf
 乃	nlg
 努力改變	nlgb
 奶糕	nlgk
+奶蓋	nlgl
 尿路感染	nlgr
 努力改善	nlgu
 那路或多	nlhd
@@ -58712,6 +58714,7 @@ JK制服	jkvf
 耐力	nlli
 奶酪	nllk
 年老力衰	nllu
+奶綠	nllv
 努力練習	nllx
 柰	nlm
 奶媽	nlma
@@ -58764,6 +58767,7 @@ JK制服	jkvf
 年老體弱	nltr
 年老體衰	nltu
 耐受	nlub
+奶霜	nlud
 能量守恆	nluh
 奴隸社會	nluh
 內力深厚	nluh
@@ -115032,10 +115036,6 @@ WiFi	wifi
 總在最前	zzzq
 自作自受	zzzu
 自自在在	zzzz
-奶蓋	nlgl
-奶綠	nllv
-奶霜	nlud
-奶凍	nlds
 
 錒	ocac
 銀	ocag
