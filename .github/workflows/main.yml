@@ -9,9 +9,9 @@ jobs:
         variant: [trad, simp]
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
       - name: Setup uv
-        uses: astral-sh/setup-uv@v5
+        uses: astral-sh/setup-uv@v7
       - name: Install dependencies
         run: sudo apt-get update && sudo apt-get install -y opencc p7zip-full
       - name: Build
@@ -22,11 +22,11 @@ jobs:
             ./make_simp_dist.sh
           fi
       - name: Upload
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: "${{ matrix.variant == 'trad' && 'Trad' || 'Simp' }}-FullPack"
           path: dist/**
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v7
         with:
           name: "${{ matrix.variant == 'trad' && 'Trad' || 'Simp' }}-DictsOnly"
           path: |
@@ -37,7 +37,7 @@ jobs:
             dist/moran.words.dict.yaml
       - name: Deploy to branch
         if: github.ref == 'refs/heads/main'
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: dist
@@ -51,13 +51,13 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
       - name: Setup uv
-        uses: astral-sh/setup-uv@v5
+        uses: astral-sh/setup-uv@v7
       - name: Build mdict
         run: uv run make mdict
       - name: Upload mdict
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: "Mdict"
           path: |
@@ -73,7 +73,7 @@ jobs:
         variant: [trad, simp]
     steps:
       - name: Download dist
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
           name: "${{ matrix.variant == 'trad' && 'Trad' || 'Simp' }}-FullPack"
       - name: Build demo ${{ matrix.variant }}
@@ -94,7 +94,7 @@ jobs:
           rime_deployer --build . /usr/share/rime-data ./build
           rm -rf ./*.yaml
       - name: Upload demo ${{ matrix.variant }}
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: "${{ matrix.variant == 'trad' && 'Trad' || 'Simp' }}-Demo"
           path: |
@@ -112,11 +112,11 @@ jobs:
         lua_version: [5.5, 5.4, 5.3, 5.2, jit]
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
       - name: Setup uv
-        uses: astral-sh/setup-uv@v5
+        uses: astral-sh/setup-uv@v7
       - name: Download Rime config
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
           name: "Trad-FullPack"
           path: ./dist
@@ -134,8 +134,8 @@ jobs:
   dict-qa:
     runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v4
-      - uses: astral-sh/setup-uv@v5
+      - uses: actions/checkout@v6
+      - uses: astral-sh/setup-uv@v7
       - name: 檢查簡體碼表是否有繁體字
         run: uv run tools/check_simp_table.py
       - name: 檢查詞庫裏是否混入了多空格
