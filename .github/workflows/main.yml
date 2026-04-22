@@ -35,15 +35,6 @@ jobs:
             dist/moran.moe.dict.yaml
             dist/moran.computer.dict.yaml
             dist/moran.words.dict.yaml
-      - name: Build mdict
-        run: uv run make mdict
-      - name: Upload mdict
-        uses: actions/upload-artifact@v4
-        with:
-          name: "Mdict"
-          path: |
-            moran.mdx
-            moran.mdd
       - name: Deploy to branch
         if: github.ref == 'refs/heads/main'
         uses: peaceiris/actions-gh-pages@v3
@@ -54,6 +45,24 @@ jobs:
       - name: Setup tmate session
         if: ${{ failure() }}
         uses: mxschmitt/action-tmate@v3
+
+  mdict:
+    if: ${{ github.repository == 'rimeinn/rime-moran' }}
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup uv
+        uses: astral-sh/setup-uv@v5
+      - name: Build mdict
+        run: uv run make mdict
+      - name: Upload mdict
+        uses: actions/upload-artifact@v4
+        with:
+          name: "Mdict"
+          path: |
+            moran.mdx
+            moran.mdd
 
   demo:
     if: ${{ github.repository == 'rimeinn/rime-moran' }}
