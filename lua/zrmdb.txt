@@ -1681,7 +1681,7 @@
 㫁	jw
 㫂	ju
 㫃	fr
-㫄	ff
+㫄	fg ff wf
 㫅	fq
 㫆	fx
 㫉	fw
