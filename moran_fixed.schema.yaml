@@ -60,14 +60,14 @@ engine:
     - history_translator@quick_repeat
   filters:
     - lua_filter@*moran_pin*pin_filter
+    - simplifier@emoji
+    - simplifier
     - simplifier@chaifen
     - simplifier@pinyinhint
-    - simplifier
     - simplifier@std_hk
     - simplifier@std_tw
     - simplifier@std_dzing
     #- lua_filter@*moran_hint_filter  # 簡碼提示功能，詳見文件末
-    - simplifier@emoji
     - uniquifier
 
 speller:

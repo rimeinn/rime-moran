@@ -6,7 +6,7 @@
 
 ---
 name: moran.chars
-version: "20260422"
+version: "20260423"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -20291,6 +20291,10 @@ use_preset_vocabulary: false
 揇	nj;fn	0
 揈	hs;fh	0
 揈	hs;fy	0
+揈	xr;fh	0
+揈	xr;fy	0
+揈	ju;fh	0
+揈	ju;fy	0
 揉	rb;fr	67835
 揊	ie;ff	0
 揊	ie;ft	0
@@ -28475,7 +28479,6 @@ use_preset_vocabulary: false
 甭	bg;by	10111
 甮	bg;wy	0
 甮	fg;wy	0
-甮	fs;wy	0
 甯	ny;by	106
 田	tm;aa	339958
 由	yb;aa	1400586
@@ -122602,8 +122605,10 @@ use_preset_vocabulary: false
 𲃏	ze;zz	0
 𲃏	zo;zz	0
 𲃒	sb;zq	0
-𲃕	zy;xz	0
-𲃕	zy;zx	0
+𲃕	ui;xz	0
+𲃕	ui;zx	0
+𲃕	vy;xz	0
+𲃕	vy;zx	0
 𲃖	ll;zm	0
 𲃘	if;zy	0
 𲃜	ju;zn	0
@@ -124084,7 +124089,6 @@ use_preset_vocabulary: false
 𲡟	nl;uk	0
 𲡟	nl;ku	0
 𲡠	fh;fh	0
-𲡠	fy;fh	0
 𲡠	hv;fh	0
 𲡠	nx;fh	0
 𲡡	ll;fl	0
@@ -125582,7 +125586,7 @@ use_preset_vocabulary: false
 𲾘	he;iv	0
 𲾘	he;vi	0
 𲾙	my;im	0
-𲾚	sx;ix	0
+𲾚	xm;ix	0
 𲾛	tv;ii	0
 𲾜	mi;im	0
 𲾝	jd;pi	0
