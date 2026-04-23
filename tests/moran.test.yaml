@@ -72,6 +72,8 @@ deploy:
         assert: eq(commit, "又")
       - send: 'sd;'
         assert: eq(commit, "3D")
+      - send: '{Control+s}co2'
+        assert: eq(commit, "❌")
 
   quick_code_indicator_empty:
     patch:

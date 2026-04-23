@@ -75,10 +75,10 @@ engine:
   filters:
     #- lua_filter@*moran_hint_filter           # 輔助碼提示需要去掉本行開頭的 # 符號
     - lua_filter@*moran_charset_filter     # 字集過濾需要去掉本行開頭的 # 符號
-    - simplifier@chaifen
-    - simplifier@pinyinhint
     - simplifier@emoji
     - simplifier
+    - simplifier@chaifen
+    - simplifier@pinyinhint
     - simplifier@std_tw
     - simplifier@std_hk
     - simplifier@std_dzing
