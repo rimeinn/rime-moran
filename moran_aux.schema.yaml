@@ -76,9 +76,9 @@ engine:
     - lua_filter@*moran_fix_filter
     - lua_filter@*moran_pin*pin_filter
     - simplifier@emoji
+    - simplifier
     - simplifier@chaifen
     - simplifier@pinyinhint
-    - simplifier
     - simplifier@std_tw
     - simplifier@std_hk
     - simplifier@std_dzing
