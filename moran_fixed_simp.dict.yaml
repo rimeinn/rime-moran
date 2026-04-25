@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260423"
+version: "20260425"
 sort: original
 columns:
   - text
@@ -6173,6 +6173,7 @@ B盘	bpj
 抱柱对儿	bvde
 不知对否	bvdf
 巴掌大的地方	bvdf
+不知道会不会	bvdh
 不知道什么时候	bvdh
 表彰大会	bvdh
 不知多久	bvdj
@@ -6187,6 +6188,7 @@ B盘	bpj
 不知道从什么时候起	bvdq
 不知道什么意思	bvds
 不值得一提	bvdt
+不知道是不是	bvdu
 不知道从什么时候开始	bvdu
 不争的事实	bvdu
 标准单位	bvdw
@@ -6300,6 +6302,7 @@ B盘	bpj
 不知天上宫阙	bvtq
 帮助他人	bvtr
 本质特征	bvtv
+不知天地为何物	bvtw
 保障体系	bvtx
 辩证统一	bvty
 宾主双方	bvuf
@@ -63296,6 +63299,7 @@ P站	pvj
 确立关系	qlgx
 情侣关系	qlgx
 起了个大早	qlgz
+权利	qlh
 潜力很大	qlhd
 樯橹灰飞烟灭	qlhm
 签了合同	qlht
@@ -82724,6 +82728,7 @@ U盘	upj
 上下左右	uxzy
 师心自用	uxzy
 帅	uy
+使用	uy
 帅	uya
 生意盎然	uyar
 谁也不爱	uyba
@@ -119958,6 +119963,8 @@ Word	wrd
 无休止	wxv
 无线网	wxw
 危险性	wxx
+无响应	wxy
+未响应	wxy
 晚香玉	wxy
 万用表	wyb
 晚一步	wyb
