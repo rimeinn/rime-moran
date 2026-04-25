@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260423"
+version: "20260424"
 sort: by_weight
 columns:
   - text
@@ -6318,6 +6318,7 @@ B盤	bpj
 抱柱對兒	bvde
 不知對否	bvdf
 巴掌大的地方	bvdf
+不知道會不會	bvdh
 不知道什麼時候	bvdh
 表彰大會	bvdh
 不知多久	bvdj
@@ -6332,6 +6333,7 @@ B盤	bpj
 不知道從什麼時候起	bvdq
 不知道什麼意思	bvds
 不值得一提	bvdt
+不知道是不是	bvdu
 不知道從什麼時候開始	bvdu
 不爭的事實	bvdu
 標準單位	bvdw
@@ -6447,6 +6449,7 @@ Bilibili	bvj
 不知天上宮闕	bvtq
 幫助他人	bvtr
 本質特徵	bvtv
+不知天地爲何物	bvtw
 保障體系	bvtx
 辯證統一	bvty
 賓主雙方	bvuf
@@ -52015,7 +52018,7 @@ JK制服	jkvf
 屢遭	lvzk
 綠藻	lvzk
 律宗	lvzs
-倆	lw
+另外	lw
 萊維貝貝	lwbb
 臨危不顧	lwbg
 臨危不懼	lwbj
@@ -85022,6 +85025,7 @@ U盤	upj
 上下左右	uxzy
 師心自用	uxzy
 帥	uy
+使用	uy
 生意盎然	uyar
 誰也不愛	uyba
 誰也不知道	uybd
@@ -115497,7 +115501,7 @@ WiFi	wifi
 自修	zixo
 糟朽	zkxo
 作秀	zoxo
-# 结束飛鍵
+# 結束飛鍵
 
 # 開始飛鍵 qx -> qo
 哀切	aiqo
@@ -123337,6 +123341,8 @@ Word	wrd
 無休止	wxv
 無線網	wxw
 危險性	wxx
+無響應	wxy
+未響應	wxy
 晚香玉	wxy
 晚一步	wyb
 萬用表	wyb

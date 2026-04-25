@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20260421"
+version: "20260424"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9357,7 +9357,8 @@ columns:
 八测	1
 九测	1
 十测	1
-
+祈使	1
+穿仓	100
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0
@@ -15175,7 +15176,7 @@ MIDI键盘	1	midi jm;jj pj;mb
 平牧
 平真
 平良
-平藏
+平藏	py;aa zh;cg
 平贺
 年一
 年人
@@ -23493,7 +23494,6 @@ MIDI键盘	1	midi jm;jj pj;mb
 院凶真
 院凪
 院奏
-院平藏
 院彩芽
 院慈平
 院月津

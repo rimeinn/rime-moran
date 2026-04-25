@@ -29692,7 +29692,7 @@
 𠧡	bo
 𠧢	bb
 𠧣	bj
-𠧤	bi
+𠧤	bg gl gx
 𠧥	bb eb
 𠧦	qb
 𠧧	bw
@@ -29705,7 +29705,7 @@
 𠧮	wb bw
 𠧯	bb
 𠧰	bk
-𠧱	bw
+𠧱	ba ad ax
 𠧲	bg
 𠧳	bp vp
 𠧴	br
@@ -29723,7 +29723,7 @@
 𠨂	bw
 𠨃	nw
 𠨄	bk lk
-𠨅	bd
+𠨅	ba ad
 𠨆	bb
 𠨇	bm
 𠨈	bb
@@ -38230,17 +38230,17 @@
 𣀳	wn we nw
 𣀴	im ia
 𣀵	ps sp
-𣀶	pz zp
-𣀷	pl lp
-𣀸	jw
-𣀹	zw
-𣀺	jp pj
-𣀻	pu up
-𣀼	uw
+𣀶	pz
+𣀷	pl
+𣀸	wj
+𣀹	wz
+𣀺	pj
+𣀻	pu
+𣀼	wu
 𣀽	bt
-𣀾	hp pj
-𣀿	xw
-𣁀	pb xp
+𣀾	pj hp
+𣀿	ph xp
+𣁀	pj pb xp
 𣁁	wr rw
 𣁂	xw wx
 𣁃	wb
@@ -38250,7 +38250,7 @@
 𣁈	wb
 𣁉	wb bw
 𣁊	bw wb
-𣁋	uw
+𣁋	wj we uw
 𣁌	wz
 𣁍	vw wb
 𣁎	wy
@@ -71186,49 +71186,49 @@
 𭂾	an kn
 𭃂	gf de
 𭃄	ud du
-𭃅	rd
-𭃆	id
+𭃅	dr
+𭃆	di
 𭃊	dd
 𭃌	dv vd
-𭃍	da ua
-𭃒	kd
+𭃍	ua da
+𭃒	dy
 𭃓	ff
 𭃔	pr
 𭃘	dr
 𭃚	ur
-𭃞	md
+𭃞	dm
 𭃡	up
-𭃤	vd
-𭃥	ud
+𭃤	dv vd
+𭃥	dn
 𭃨	yp
-𭃭	nd
-𭃯	td
-𭃰	bd
-𭃱	qr
-𭃲	ud
-𭃴	ad
-𭃶	dd
+𭃭	dd
+𭃯	dt
+𭃰	db dw
+𭃱	yr qr
+𭃲	dd
+𭃴	dc
+𭃶	dy dw
 𭃷	rv
-𭃸	ud
-𭃺	kd
-𭃾	fd
-𭃿	db uf
+𭃸	du
+𭃺	dk
+𭃾	df
+𭃿	uf db
 𭄀	br
 𭄃	fh
-𭄅	sd
-𭄆	yd
+𭄅	ds
+𭄆	dk dy
 𭄇	dv vd
-𭄈	yd
-𭄊	yd
+𭄈	dt dw
+𭄊	dy
 𭄏	dc dd ad
-𭄒	dd pd
-𭄔	hd
-𭄕	vd
-𭄖	dd gd
-𭄘	ad
-𭄚	cd
-𭄛	zd
-𭄜	yd
+𭄒	dv
+𭄔	dx
+𭄕	dl
+𭄖	dg
+𭄘	dj
+𭄚	dd
+𭄛	dz
+𭄜	dy
 𭄞	lr rl
 𭄟	gl lg
 𭄠	lp pl

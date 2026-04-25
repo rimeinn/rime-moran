@@ -1439,16 +1439,16 @@ function Date2LunarDate(Gregorian)
                        "6B50883", "5AC00DB", "AB600CF", "96D0580", "92E00D8", "C9600CD", "D95047C", "D4A00D4",
                        "DA500C9", "755027A", "56A00D1", "ABB0781", "25D00DA", "92D00CF", "CAB057E", "A9500D6",
                        "B4A00CB", "BAA047B", "AD500D2", "55D0983", "4BA00DB", "A5B00D0", "5171680", "52B00D8",
-                       "A9300CD", "795047D", "6AA00D4", "AD500C9", "5B5027A", "4B600D2", "96E0681", "A4E00D9",
-                       "D2600CE", "EA6057E", "D5300D5", "5AA00CB", "76A037B", "96D00D3", "4AB0B83", "4AD00DB",
+                       "A9300CD", "795047D", "6AA00D4", "AD500C9", "5B5027A", "4B600D2", "A6E0681", "A4E00D9",
+                       "D2600CE", "EA6057E", "D5300D5", "5AA00CB", "76A037B", "96D00D3", "4AF0B83", "4AD00DB",
                        "A4D00D0", "D0B1680", "D2500D7", "D5200CC", "DD4057C", "B5A00D4", "56D00C9", "55B027A",
                        "49B00D2", "A570782", "A4B00D9", "AA500CE", "B25157E", "6D200D6", "ADA00CA", "4B6137B",
-                       "93700D3", "49F08C9", "49700DB", "64B00D0", "68A1680", "EA500D7", "6AA00CC", "A6C147C",
-                       "AAE00D4", "92E00CA", "D2E0379", "C9600D1", "D550781", "D4A00D9", "DA400CD", "5D5057E",
-                       "56A00D6", "A6C00CB", "55D047B", "52D00D3", "A9B0883", "A9500DB", "B4A00CF", "B6A067F",
-                       "AD500D7", "55A00CD", "ABA047C", "A5A00D4", "52B00CA", "B27037A", "69300D1", "7330781",
-                       "6AA00D9", "AD500CE", "4B5157E", "4B600D6", "A5700CB", "54E047C", "D1600D2", "E960882",
-                       "D5200DA", "DAA00CF", "6AA167F", "56D00D7", "4AE00CD", "A9D047D", "A2D00D4", "D1500C9",
+                       "93700D3", "49F08C9", "49700DB", "64B00D0", "68A1680", "EA500D7", "6B200CC", "A6C147C",
+                       "AAE00D4", "92E00CA", "D2E0379", "C9600D1", "D550781", "D4A00D9", "DA500CD", "5D5057E",
+                       "56A00D6", "A6D00CB", "55D047B", "52D00D3", "A9B0883", "A9500DB", "B4A00CF", "B6A067F",
+                       "AD500D7", "55A00CD", "ABA047C", "A5B00D4", "52B00CA", "B27037A", "69300D1", "7330781",
+                       "6AA00D9", "AD500CE", "4B5157E", "4B600D6", "A5700CB", "54E047C", "D2600D2", "E960882",
+                       "D5200DA", "DAA00CF", "6AA167F", "56D00D7", "4AE00CD", "A9D047D", "A4D00D4", "D1500C9",
                        "F250279", "D5200D1"}
   Gregorian = tostring(Gregorian)
   local Year, Month, Day, Pos, Data0, Data1, MonthInfo, LeapInfo, Leap, Newyear, Data2, Data3, LYear, thisMonthInfo
@@ -1606,15 +1606,15 @@ function LunarDate2Date(Gregorian, IsLeap)
                "96D0580", "92E00D8", "C9600CD", "D95047C", "D4A00D4", "DA500C9", "755027A", "56A00D1", "ABB0781",
                "25D00DA", "92D00CF", "CAB057E", "A9500D6", "B4A00CB", "BAA047B", "AD500D2", "55D0983", "4BA00DB",
                "A5B00D0", "5171680", "52B00D8", "A9300CD", "795047D", "6AA00D4", "AD500C9", "5B5027A", "4B600D2",
-               "96E0681", "A4E00D9", "D2600CE", "EA6057E", "D5300D5", "5AA00CB", "76A037B", "96D00D3", "4AB0B83",
+               "A6E0681", "A4E00D9", "D2600CE", "EA6057E", "D5300D5", "5AA00CB", "76A037B", "96D00D3", "4AF0B83",
                "4AD00DB", "A4D00D0", "D0B1680", "D2500D7", "D5200CC", "DD4057C", "B5A00D4", "56D00C9", "55B027A",
                "49B00D2", "A570782", "A4B00D9", "AA500CE", "B25157E", "6D200D6", "ADA00CA", "4B6137B", "93700D3",
-               "49F08C9", "49700DB", "64B00D0", "68A1680", "EA500D7", "6AA00CC", "A6C147C", "AAE00D4", "92E00CA",
-               "D2E0379", "C9600D1", "D550781", "D4A00D9", "DA400CD", "5D5057E", "56A00D6", "A6C00CB", "55D047B",
-               "52D00D3", "A9B0883", "A9500DB", "B4A00CF", "B6A067F", "AD500D7", "55A00CD", "ABA047C", "A5A00D4",
+               "49F08C9", "49700DB", "64B00D0", "68A1680", "EA500D7", "6B200CC", "A6C147C", "AAE00D4", "92E00CA",
+               "D2E0379", "C9600D1", "D550781", "D4A00D9", "DA500CD", "5D5057E", "56A00D6", "A6D00CB", "55D047B",
+               "52D00D3", "A9B0883", "A9500DB", "B4A00CF", "B6A067F", "AD500D7", "55A00CD", "ABA047C", "A5B00D4",
                "52B00CA", "B27037A", "69300D1", "7330781", "6AA00D9", "AD500CE", "4B5157E", "4B600D6", "A5700CB",
-               "54E047C", "D1600D2", "E960882", "D5200DA", "DAA00CF", "6AA167F", "56D00D7", "4AE00CD", "A9D047D",
-               "A2D00D4", "D1500C9", "F250279", "D5200D1"}
+               "54E047C", "D2600D2", "E960882", "D5200DA", "DAA00CF", "6AA167F", "56D00D7", "4AE00CD", "A9D047D",
+               "A4D00D4", "D1500C9", "F250279", "D5200D1"}
   Gregorian = tostring(Gregorian)
   local Year, Month, Day, Pos, Data, MonthInfo, LeapInfo, Leap, Newyear, Sum, thisMonthInfo, GDate
   Year = tonumber(Gregorian.sub(Gregorian, 1, 4))
