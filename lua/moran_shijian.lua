@@ -1850,6 +1850,7 @@ local function translator(input, seg)
     yield(candidate)
 
     date = os.date("%Y年%m月%d日")
+    date = string.gsub(date, "(%D)0", "%1")
     candidate = Candidate("date", seg.start, seg._end, date, num_year)
     yield(candidate)
 
