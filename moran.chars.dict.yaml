@@ -6,7 +6,7 @@
 
 ---
 name: moran.chars
-version: "20260427"
+version: "20260430"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -43440,19 +43440,19 @@ use_preset_vocabulary: false
 靣	mm;ak	0
 靤	bk;mb	0
 靤	pk;mb	0
-靥	ye;im	5938
 靥	ye;my	5938
+靥	ye;im	5938
 靦	mm;jm	0
 靦	mm;mj	0
 靦	tm;jm	0
 靦	tm;mj	0
 靧	hv;mg	0
-靨	yj;im	0
-靨	yj;mq	0
 靨	yj;my	0
-靨	ye;im	0
-靨	ye;mq	0
+靨	yj;mq	0
+靨	yj;im	0
 靨	ye;my	0
+靨	ye;mq	0
+靨	ye;im	0
 革	ge;ca	180934
 革	ge;aa	180934
 革	ji;ca	0

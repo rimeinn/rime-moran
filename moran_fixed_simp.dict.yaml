@@ -1,11 +1,11 @@
 # Rime dictionary
 # encoding: utf-8
 # license: CC-BY-SA 4.0+
-# authors: 吕奉先 SunShine 小幽幽 ksqsf sky Kuroame
+# authors: 吕奉先 SunShine 小幽幽 ksqsf sky Kuroame 吾因孰
 
 ---
 name: moran_fixed_simp
-version: "20260425"
+version: "20260427"
 sort: original
 columns:
   - text
@@ -71808,6 +71808,7 @@ P站	pvj
 填补国内空白	tbgb
 透光	tbgd
 特别规定	tbgd
+偷感	tbgj
 投稿	tbgk
 头盖	tbgl
 透不过气来	tbgl
@@ -103131,6 +103132,8 @@ U盘	upj
 衍	yjxi
 用尽心机	yjxj
 一觉醒来	yjxl
+艳羡	yjxm
+眼线	yjxm
 沿线	yjxm
 烟熏	yjxp
 研修	yjxq
@@ -113406,8 +113409,8 @@ U盘	upj
 不如意	bry
 不是吧	bsb
 比萨饼	bsb
-波塞冬	bsd
 不是的	bsd
+波塞冬	bsd
 贝赛尔	bse
 不是个	bsg
 变速杆	bsg
@@ -114882,6 +114885,7 @@ Excel	eks
 刚果红	ggh
 骨骼肌	ggj
 呱呱叫	ggj
+乖乖女	ggn
 肝功能	ggn
 感光片	ggp
 观光者	ggv
@@ -117612,6 +117616,7 @@ Office	ofs
 PDF	pdf
 破大防	pdf
 平底锅	pdg
+配得感	pdg
 判断句	pdj
 判断力	pdl
 潘多拉	pdl
@@ -119554,7 +119559,9 @@ SD卡	sdk
 直挺挺	vtt
 招讨使	vtu
 状态值	vtv
+状态下	vtx
 重头戏	vtx
+主体性	vtx
 正投影	vty
 摘桃子	vtz
 猪蹄子	vtz
