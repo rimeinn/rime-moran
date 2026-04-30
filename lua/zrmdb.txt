@@ -25279,10 +25279,10 @@
 面	aa
 靣	ah ak
 靤	mb
-靥	im my
+靥	my im
 靦	jm mj
 靧	mg
-靨	im mq my
+靨	my mq im
 革	ca aa
 靪	gd
 靫	gi

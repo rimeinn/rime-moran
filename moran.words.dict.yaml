@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20260424"
+version: "20260426"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9359,6 +9359,9 @@ columns:
 十測	1
 祈使	1
 穿倉	100
+不配得感	10
+配得感	100
+偷感	100
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0

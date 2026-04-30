@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260424"
+version: "20260426"
 sort: by_weight
 columns:
   - text
@@ -73864,6 +73864,7 @@ P站	pvj
 填補國內空白	tbgb
 透光	tbgd
 特別規定	tbgd
+偷感	tbgj
 投稿	tbgk
 頭蓋	tbgl
 透不過氣來	tbgl
@@ -103889,6 +103890,7 @@ WiFi	wifi
 葉脈	yeml
 頁面	yemm
 夜幕	yemu
+靨	yemy
 頁眉	yemz
 鵺	yen
 爺孃	yend
@@ -106126,6 +106128,8 @@ WiFi	wifi
 演戲	yjxi
 用盡心機	yjxj
 一覺醒來	yjxl
+豔羨	yjxm
+眼線	yjxm
 沿線	yjxm
 煙燻	yjxp
 研修	yjxq
@@ -118263,6 +118267,7 @@ Excel	eks
 剛果紅	ggh
 骨骼肌	ggj
 呱呱叫	ggj
+乖乖女	ggn
 肝功能	ggn
 感光片	ggp
 觀光者	ggv
@@ -120987,6 +120992,7 @@ Office	ofs
 PDF	pdf
 破大防	pdf
 平底鍋	pdg
+配得感	pdg
 判斷句	pdj
 跑掉了	pdl
 判斷力	pdl
@@ -122934,7 +122940,9 @@ SD卡	sdk
 直挺挺	vtt
 招討使	vtu
 狀態值	vtv
+狀態下	vtx
 重頭戲	vtx
+主體性	vtx
 正投影	vty
 摘桃子	vtz
 豬蹄子	vtz
