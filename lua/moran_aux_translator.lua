@@ -2,7 +2,9 @@
 --
 -- Author: ksqsf
 -- License: GPLv3
--- Version: 0.3.2
+-- Version: 0.4.0
+--
+-- 0.4.0: 適配 moran_zrmdb。
 --
 -- 0.3.2: 少許性能優化。
 --
@@ -40,7 +42,7 @@ local BIG_SYLLABLES = {
 }
 
 function Module.init(env)
-    env.aux_table = moran.load_zrmdb()
+    env.aux_table = ReverseLookup("moran_zrmdb")
     env.translator = Component.Translator(env.engine, "", "script_translator@translator")
     env.prefetch_threshold = env.engine.schema.config:get_int("moran/prefetch") or -1
 
@@ -418,7 +420,7 @@ function Module.candidate_match(env, cand, aux)
     local vaux = " " .. aux
     local word = cand.text
     local word_len = utf8.len(word)
-    local first, last = Module.get_first_and_last_codepoints(word)
+    local first, last = Module.get_first_and_last_chars(word)
 
     -- Check if they match
     if env.is_aux_for_any then
@@ -426,9 +428,9 @@ function Module.candidate_match(env, cand, aux)
             return true
         end
         if #aux == 2 and word_len > 1 then    -- word aux, the code style is meant to minimize object creation
-            local first_auxcodes = env.aux_table[first]
+            local first_auxcodes = " " .. env.aux_table:lookup(first)
             if not first_auxcodes then return false end
-            local last_auxcodes = env.aux_table[last]
+            local last_auxcodes = " " .. env.aux_table:lookup(last)
             if not last_auxcodes then return false end
             local a1 = aux:sub(1,1)
             local a2 = aux:sub(2,2)
@@ -443,20 +445,20 @@ function Module.candidate_match(env, cand, aux)
     return false
 end
 
-function Module.get_first_and_last_codepoints(word)
+function Module.get_first_and_last_chars(word)
     local first = utf8.codepoint(word, 1)
     if not first then return nil, nil end
     local len = utf8.len(word)
     if len == 1 then
-        return first, first
+        return utf8.char(first), utf8.char(first)
     end
     local last_byte_pos = utf8.offset(word, -1)
     local last = last_byte_pos and utf8.codepoint(word, last_byte_pos) or first
-    return first, last
+    return utf8.char(first), utf8.char(last)
 end
 
-function Module.char_match(env, codepoint, vaux)
-    local auxcodes = env.aux_table[codepoint]
+function Module.char_match(env, char, vaux)
+    local auxcodes = " " .. env.aux_table:lookup(char)
     if not auxcodes then return false end
     return string.find(auxcodes, vaux, 1, true) ~= nil
 end
@@ -466,6 +468,8 @@ end
 --
 -- BTW, this actually looks buggy: suppose any_use=false and word is
 -- single char, this will return an empty list.
+--
+-- XXX: it does not support the new moran_zrmdb format.
 function Module.aux_list(env, word)
     local aux_list = {}
     local first = nil

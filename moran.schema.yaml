@@ -11,6 +11,7 @@ schema:
     - moran_fixed
     - moran_sentence
     - moran_reverse
+    - moran_zrmdb
     - moran_charset
     - moran_english
     #- moran_japanese # 日語混輸
@@ -134,6 +135,7 @@ smart:         # 整句輸入模式設置，在 top_translator 中被調用
     - xform/([a-z][a-z][a-z][a-z])o/$1°/
   core_word_length: 4
   max_word_length: 10
+  max_sentences: 2
 
 fixed:         # 固頂輸入模式設置，在 top_translator 中被調用
   dictionary: moran_fixed
