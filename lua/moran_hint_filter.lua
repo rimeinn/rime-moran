@@ -1,10 +1,12 @@
 -- Moran Translator (for Express Editor)
 -- Copyright (c) 2023-2026 ksqsf
 --
--- Ver: 0.4.1
+-- Ver: 0.5.0
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.5.0: 適配 moran_zrmdb。
 --
 -- 0.4.1: 修復 aux_table 格式未適配問題。
 --
@@ -21,14 +23,7 @@ local Module = {}
 
 function Module.init(env)
     env.enable_aux_hint = env.engine.schema.config:get_bool("moran/enable_aux_hint")
-    if env.enable_aux_hint then
-        env.aux_table = moran.load_zrmdb()
-        if not env.aux_table then
-            env.enable_aux_hint = false
-        end
-    else
-        env.aux_table = nil
-    end
+    env.aux_table = ReverseLookup("moran_zrmdb")
 
     env.is_auxfilter = env.name_space == "auxfilter"
     env.enable_quick_code_hint = env.engine.schema.config:get_bool("moran/enable_quick_code_hint")
@@ -66,16 +61,15 @@ function Module.get_auxcode_hint(env, cand, gcand)
     local text = gcand.text
     local len = utf8.len(text)
     if len == 1 then
-        local cp = utf8.codepoint(text)
-        local codes = env.aux_table[cp]
+        local codes = env.aux_table:lookup(text)
         if not codes then
             return nil
         end
-        return codes:sub(2)
+        return codes
     elseif len ~= 1 and env.is_auxfilter and (gcand.type == "phrase" or gcand.type == "user_phrase") then
         result = ""
-        for i, cp in moran.codepoints(gcand.text) do
-            local cpaux = env.aux_table[cp]
+        for i, char in moran.chars(gcand.text) do
+            local cpaux = env.aux_table:lookup(char)
             if cpaux and #cpaux > 0 then
                 cpaux = cpaux:match("[a-z]+")  -- 取第一个
                 if result == "" then

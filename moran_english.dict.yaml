@@ -6,7 +6,7 @@
 
 ---
 name: moran_english
-version: "20260420"
+version: "20260427"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -57322,3 +57322,5 @@ Liouville	Liouville
 Sturm	Sturm
 OCaml	OCaml
 Lebesgue	Lebesgue
+LLM	LLM
+large language model	largelanguagemodel

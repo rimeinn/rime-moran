@@ -1,0 +1,6 @@
+schema:
+  schema_id: moran_zrmdb
+  name: 工具方案·勿用
+
+translator:
+  dictionary: moran_zrmdb
