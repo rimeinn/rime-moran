@@ -34,6 +34,31 @@ function Module.open_rime_file(rel_path, pathsep)
     return nil
 end
 
+---Load zrmdb.txt bundled with the standard Moran distribution.
+---@return table<integer,table<string>>
+function Module.load_zrmdb()
+    if Module.aux_table then
+        return Module.aux_table
+    end
+    local pathsep = (package.config or '/'):sub(1, 1)
+    local file = Module.open_rime_file('lua' .. pathsep .. 'zrmdb.txt', pathsep)
+    if not file then
+        log.error('failed to open auxfile!')
+        return nil
+    end
+    local aux_table = {}
+    for line in file:lines() do
+        local key, value = line:match("^(.+)\t(.+)$")
+        key = utf8.codepoint(key)
+        if key and value then
+            aux_table[key] = " " .. value
+        end
+    end
+    file:close()
+    Module.aux_table = aux_table
+    return Module.aux_table
+end
+
 function Module.iter_translation(xlation)
     local nxt, thisobj = xlation:iter()
     return function()
