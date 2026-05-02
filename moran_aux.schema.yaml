@@ -9,8 +9,6 @@ schema:
     在輸入完畢完整一句的雙拼碼後，可以輸入輔助碼篩選候選項。
   dependencies:
     - tiger
-    - moran_reverse
-    - moran_zrmdb
     - moran_charset
     - moran_english
     - moran_fixed

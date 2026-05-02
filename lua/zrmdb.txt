@@ -1,8 +1,3 @@
----
-name: moran_zrmdb
-version: "20260502"
-use_preset_vocabulary: false
-...
 ⺁	px
 ⺄	yi
 ⺈	dk
