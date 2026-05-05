@@ -2,9 +2,11 @@
 --
 -- Part of Project Moran
 -- License: GPLv3
--- Version: 0.3.1
+-- Version: 0.3.2
 
 -- ChangeLog:
+--
+-- 0.3.2: 修復 completion 誤被延遲的問題。
 --
 -- 0.3.1: 修復單字可能被本濾鏡讓全的問題。
 --
@@ -87,6 +89,14 @@ function Module.func(t_input, env)
         -- If the user types auxcode super fast, then we should NOT
         -- attempt to postpone first cand.
         if not Module.debounce(env) then
+            moran.yield_all(iter)
+            return
+        end
+
+        -- check if first is a completion (#219)
+        local iter = moran.make_peekable(iter)
+        local first = iter:peek()
+        if first and utf8.len(first.text) ~= utf8.len(env.last_first_cand) then
             moran.yield_all(iter)
             return
         end
