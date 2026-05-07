@@ -2817,7 +2817,7 @@
 㽄	ws
 㽅	wd
 㽆	wd
-㽇	wb pw
+㽇	wb jw
 㽈	wy
 㽉	ws iw
 㽊	wx
@@ -3117,7 +3117,7 @@
 䁴	od
 䁵	oy
 䁶	oj
-䁷	ob po
+䁷	ob jo
 䁸	on
 䁹	ob
 䁺	ox
@@ -5974,7 +5974,7 @@
 䮵	mt
 䮶	mj
 䮷	mu
-䮸	mb pm
+䮸	mb jm
 䮹	ms
 䮺	mq
 䮻	mu
@@ -28614,7 +28614,7 @@
 𠔶	qv
 𠔷	ig
 𠔸	be bq
-𠔹	ba pg
+𠔹	gb jg
 𠔺	jx
 𠔻	xx bx
 𠔼	ka
@@ -29433,7 +29433,7 @@
 𠣃	gl la
 𠣄	lt dl
 𠣅	lx xl
-𠣆	lm pl
+𠣆	lm lh jl
 𠣇	ln
 𠣈	lj sl
 𠣉	xm
@@ -29528,7 +29528,7 @@
 𠤦	by
 𠤨	bg
 𠤪	bo
-𠤫	ba pb
+𠤫	bb jb
 𠤬	ay
 𠤭	kr
 𠤮	kj
@@ -30968,7 +30968,7 @@
 𠿜	kw
 𠿝	ki
 𠿞	kd
-𠿟	kb pk
+𠿟	kb jk
 𠿠	kj
 𠿡	xk
 𠿢	kx
@@ -33509,7 +33509,7 @@
 𡭐	cs pv
 𡭑	ci xc
 𡭒	vs
-𡭓	cm pc
+𡭓	cm ch jc
 𡭔	ad xc
 𡭕	ax xa
 𡭖	lb
@@ -35638,7 +35638,7 @@
 𢒲	wx
 𢒳	oy py
 𢒴	ap pj
-𢒵	pm pp
+𢒵	pm ph jp
 𢒶	yx
 𢒷	pk xk
 𢒸	bp pv
@@ -36039,7 +36039,7 @@
 𢙣	xx
 𢙤	ux xx
 𢙥	xq
-𢙦	px xi
+𢙦	xi px
 𢙧	xe
 𢙨	xc
 𢙪	xd
@@ -36527,7 +36527,7 @@
 𢢃	mx xr
 𢢌	xi
 𢢍	xr wx
-𢢎	xa px
+𢢎	xa jx
 𢢏	xp
 𢢐	qx xd
 𢢑	yx xt
@@ -39863,7 +39863,7 @@
 𣡃	mp
 𣡆	ks
 𣡇	mw
-𣡈	pg
+𣡈	gb jg
 𣡉	sa
 𣡊	my
 𣡋	me
@@ -40773,7 +40773,7 @@
 𣱐	ut dt
 𣱑	dt ut
 𣱒	dt ut
-𣱓	ud pd
+𣱓	ub ud jd
 𣱕	qd
 𣱖	qd
 𣱗	ql
@@ -42090,7 +42090,7 @@
 𤌎	hm ah
 𤌏	hw
 𤌐	hg
-𤌑	ha pm
+𤌑	ha jm jh
 𤌒	hg
 𤌓	hm
 𤌔	rh
@@ -42294,7 +42294,7 @@
 𤐨	he
 𤐩	hg
 𤐪	hi
-𤐫	ha pm
+𤐫	ha jm jh
 𤐬	hr vr
 𤐭	hu
 𤐮	hr th
@@ -42436,7 +42436,7 @@
 𤓜	uh
 𤓝	hy
 𤓞	ht uh
-𤓟	hh py
+𤓟	hh jh jy
 𤓠	ha
 𤓡	hy
 𤓣	hc
@@ -42897,7 +42897,7 @@
 𤛮	nl
 𤛯	nu
 𤛰	nq
-𤛱	nb pn
+𤛱	nb jn
 𤛲	nw
 𤛳	nj
 𤛴	nk
@@ -43654,7 +43654,7 @@
 𤪪	wv
 𤪫	wo
 𤪬	wa
-𤪭	py
+𤪭	yb jy
 𤪮	wi
 𤪰	by
 𤪳	wh
@@ -43754,9 +43754,9 @@
 𤬞	gx
 𤬟	gh pg
 𤬠	gv
-𤬡	gm pg
-𤬢	gk ph
-𤬣	gk ph
+𤬡	gm gh jg
+𤬢	gk jh jg
+𤬣	gk jh jg
 𤬤	gi ti
 𤬥	wy gy
 𤬦	bw
@@ -44836,7 +44836,7 @@
 𥀠	pg
 𥀡	pa sp
 𥀢	bp pb
-𥀣	pb pp
+𥀣	pb jp
 𥀤	pf
 𥀥	pg
 𥀦	kp pp
@@ -44994,7 +44994,7 @@
 𥃕	mq hh
 𥃖	mx pm
 𥃗	mj jm
-𥃘	mh pm
+𥃘	mh jm
 𥃙	gc
 𥃜	mx pm
 𥃝	my pm
@@ -46334,7 +46334,7 @@
 𥝇	py
 𥝈	pk sx
 𥝉	yy
-𥝊	py
+𥝊	jy
 𥝋	sx pk
 𥝌	pr
 𥝍	ha
@@ -48645,7 +48645,7 @@
 𦉚	fs ls
 𦉛	fd
 𦉜	fv
-𦉝	fb pf
+𦉝	fb jf
 𦉞	fs if
 𦉟	fi
 𦉠	fs ls
@@ -48990,7 +48990,7 @@
 𦏔	yx
 𦏕	yu
 𦏖	yp
-𦏗	pg
+𦏗	jg
 𦏘	yj
 𦏙	cb
 𦏛	ym
@@ -49956,7 +49956,7 @@
 𦡈	yr
 𦡉	mo om
 𦡊	od
-𦡌	ob po
+𦡌	ob jo
 𦡍	ox ux
 𦡏	od
 𦡐	oj
@@ -49979,7 +49979,7 @@
 𦡪	od
 𦡫	oy
 𦡬	oq
-𦡭	pr
+𦡭	rb jr
 𦡰	oc
 𦡱	od
 𦡲	on
@@ -50202,10 +50202,10 @@
 𦥱	jj
 𦥲	ja pj
 𦥴	rj
-𦥵	jk pk
+𦥵	dk dv
 𦥶	jn
-𦥷	pb
-𦥸	pc
+𦥷	jb ba
+𦥸	jc cx
 𦥹	ju yu
 𦥺	px
 𦥻	ji
@@ -50222,55 +50222,55 @@
 𦦆	js
 𦦇	jd
 𦦈	jj
-𦦉	dx pd
-𦦊	pn
+𦦉	dx jd
+𦦊	jn pn
 𦦋	jt
 𦦌	yv
 𦦍	jt
 𦦏	wj
 𦦐	jc
-𦦑	pf
+𦦑	fb jf
 𦦒	py
 𦦓	re
 𦦔	ay jy
 𦦕	jj qj
 𦦖	ja vj
-𦦗	mb pm
+𦦗	mb jm
 𦦘	ja qa
 𦦙	yf
 𦦚	yy
-𦦛	pq
+𦦛	qb jq
 𦦜	ja ia
 𦦟	xd
-𦦡	pa
+𦦡	ja xa
 𦦢	ji ij
 𦦣	jz
 𦦤	pq
-𦦥	pg
+𦦥	gb jg
 𦦦	jw yw
 𦦧	pa
 𦦨	yy
-𦦪	jb pb
-𦦫	pb
-𦦬	od pd
+𦦪	jb ba
+𦦫	jb
+𦦬	od jd
 𦦭	jw yw
-𦦯	pa
+𦦯	ja
 𦦰	ju
 𦦱	jj ij
-𦦲	jb pb
-𦦳	yd
-𦦴	pb
-𦦶	pd
-𦦷	py
+𦦲	jb
+𦦳	jd yd
+𦦴	jb
+𦦶	jd
+𦦷	jy
 𦦹	ju zj
-𦦺	ik jk
-𦦻	py
-𦦼	mx px
+𦦺	fk ik
+𦦻	jy
+𦦼	jx mx
 𦦽	js sj
 𦦾	iu
 𦦿	ye
-𦧁	pf
-𦧂	pd
+𦧁	jf
+𦧂	dx jd
 𦧄	tk
 𦧅	xx bx
 𦧆	ua
@@ -52824,7 +52824,7 @@
 𧖢	ii hi
 𧖣	im
 𧖤	di ii
-𧖥	id pi
+𧖥	id ji
 𧖧	xd
 𧖩	xl
 𧖪	xx
@@ -53499,7 +53499,7 @@
 𧢥	jk yj
 𧢦	jg gj
 𧢧	jj cj
-𧢨	jm pj
+𧢨	jm jh jj
 𧢩	qj
 𧢪	bj jy
 𧢫	gj jg
@@ -54114,7 +54114,7 @@
 𧭏	yt
 𧭐	yy
 𧭑	yg
-𧭒	py yb
+𧭒	yb jy
 𧭓	yy
 𧭔	vy
 𧭕	yj
@@ -57618,7 +57618,7 @@
 𨮃	ja
 𨮄	jj
 𨮅	jj
-𨮆	ja pj
+𨮆	ja jj
 𨮋	jy
 𨮍	jb
 𨮒	jm
@@ -57671,7 +57671,7 @@
 𨯖	jy
 𨯙	jq
 𨯚	jh
-𨯜	jb pj
+𨯜	jb jj
 𨯝	js
 𨯞	ja gj
 𨯟	jh
@@ -60085,7 +60085,7 @@
 𩙛	fh
 𩙜	fx xf
 𩙝	fn nf
-𩙞	fm pf
+𩙞	fm fh jf
 𩙟	fs sf
 𩙠	fg
 𩙡	ff
@@ -61416,8 +61416,8 @@
 𩰦	my
 𩰧	mp
 𩰨	vc
-𩰩	mc
-𩰪	fp pp
+𩰩	mc wc
+𩰪	fp jp
 𩰬	aa
 𩰭	gg
 𩰮	gd
@@ -61482,7 +61482,7 @@
 𩱩	gk xg
 𩱪	gb
 𩱫	gs
-𩱬	gb pg
+𩱬	gb jg
 𩱭	gg
 𩱯	ge
 𩱰	gu
@@ -63353,7 +63353,7 @@
 𪒱	ha
 𪒲	hy
 𪒴	ht
-𪒵	hb ph
+𪒵	hb jh
 𪒶	hd
 𪒸	ky
 𪒹	hv
@@ -65817,7 +65817,7 @@
 𫇏	vl
 𫇑	vv
 𫇒	jq lj
-𫇓	pj
+𫇓	jj
 𫇔	uj
 𫇕	uv
 𫇗	uj
@@ -66883,7 +66883,7 @@
 𫝬	ng
 𫝭	ny
 𫝮	nl
-𫝯	pz zb
+𫝯	zb jz
 𫝰	bo
 𫝱	bd
 𫝲	ud
@@ -66968,7 +66968,7 @@
 𫟈	qb
 𫟉	es
 𫟊	ox
-𫟋	ba pb
+𫟋	ba jb
 𫟌	cw
 𫟍	cb
 𫟎	ce
@@ -67505,7 +67505,7 @@
 𫫻	kx
 𫫽	ru
 𫫾	kp
-𫬁	kd pk
+𫬁	kd jk
 𫬄	kp
 𫬆	kf
 𫬇	kb
@@ -67525,7 +67525,7 @@
 𫬭	kx
 𫬯	ke
 𫬲	kh lh
-𫬴	kb pk
+𫬴	kb jk
 𫬹	kx
 𫬻	kj
 𫬽	kl ll
@@ -69525,9 +69525,9 @@
 𬛽	jj
 𬛾	jm mj
 𬜀	ax jx
-𬜁	py
-𬜂	pj
-𬜃	py
+𬜁	jy
+𬜂	jj
+𬜃	jy
 𬜅	uv
 𬜈	uz
 𬜋	uj
@@ -73463,7 +73463,7 @@
 𮂫	uf
 𮂬	sx uk
 𮂭	yw
-𮂮	py
+𮂮	yb jy
 𮂯	hu
 𮂰	he
 𮂱	hy
@@ -73736,7 +73736,7 @@
 𮉷	fy
 𮉸	fa
 𮉹	fb
-𮉺	fb pf
+𮉺	fb jf
 𮉼	ke pe
 𮉾	bj
 𮉿	sq
@@ -73888,19 +73888,19 @@
 𮍡	vf
 𮍢	hv ve
 𮍣	vf
-𮍤	pv vb
+𮍤	vb jv
 𮍥	rx
 𮍧	pw
 𮍨	hj je
 𮍩	ke
-𮍫	pb
-𮍬	pb
-𮍭	pb
-𮍮	pb
+𮍫	ba jb xb
+𮍬	ba jb
+𮍭	ba jb db
+𮍮	ba jb ub
 𮍯	je
-𮍰	jb pb
-𮍱	pb
-𮍲	pd
+𮍰	ba jb
+𮍱	ba jb mb
+𮍲	jf jd
 𮍵	uq
 𮍷	us
 𮍹	bu ub
@@ -74260,7 +74260,7 @@
 𮗘	je
 𮗚	cj jv
 𮗛	cj jo
-𮗜	jb pj
+𮗜	jb jj
 𮗝	jy yj
 𮗟	ry
 𮗠	dy
@@ -74967,7 +74967,7 @@
 𮫕	dm
 𮫖	ke
 𮫗	my
-𮫘	pi pp
+𮫘	jp pi
 𮫙	cg
 𮫚	gg
 𮫛	ga gg
@@ -76923,7 +76923,7 @@
 𰢚	wn
 𰢜	gb
 𰢟	gw wg
-𰢡	gk pg
+𰢡	gk jg
 𰢢	ww
 𰢣	wb
 𰢤	bw wb
@@ -80103,9 +80103,9 @@
 𱬬	hq
 𱬭	hi
 𱬯	cn
-𱬰	hh ph
+𱬰	hh jh
 𱬱	ph
-𱬲	hh ph
+𱬲	hh jh
 𱬳	jj
 𱬷	vb
 𱬸	vd
@@ -80755,7 +80755,7 @@
 𱼫	ov
 𱼭	jt
 𱼰	ap jp
-𱼱	pa
+𱼱	ja
 𱼲	tk
 𱼳	uh
 𱼶	vs
@@ -81049,7 +81049,7 @@
 𲄸	iy
 𲄹	ib
 𲄺	ij iw jw
-𲄻	ik pk
+𲄻	ik jk ka
 𲅁	ig
 𲅂	im
 𲅃	xi
@@ -81656,7 +81656,7 @@
 𲗞	ky
 𲗟	km
 𲗡	kc
-𲗢	ku pg
+𲗢	gb jg
 𲗣	kl
 𲗦	kw
 𲗩	kd
@@ -81762,7 +81762,7 @@
 𲛁	dh
 𲛂	dv vd
 𲛇	cd dc
-𲛉	db pd
+𲛉	db jd
 𲛊	ni
 𲛌	nl
 𲛍	ny
@@ -82082,7 +82082,7 @@
 𲣶	wj
 𲣹	wm
 𲣻	wj
-𲣼	pw wl
+𲣼	wl jw
 𲣽	dg gd
 𲣾	dg gd
 𲣿	df gd
@@ -82431,7 +82431,7 @@
 𲬲	hl
 𲬴	hq
 𲬷	hy
-𲬹	hl ph
+𲬹	hl jh
 𲬺	ww
 𲬻	vg
 𲬼	vh
@@ -82546,7 +82546,7 @@
 𲰀	wl
 𲰃	wn
 𲰄	wj
-𲰆	pw
+𲰆	wb jw
 𲰈	wv
 𲰊	wd
 𲰍	wq
@@ -83614,7 +83614,7 @@
 𳌩	ix
 𳌪	il
 𳌬	ip
-𳌮	ib pi
+𳌮	fi ib ji
 𳌯	gt
 𳌱	gy
 𳌲	gp
@@ -83708,7 +83708,7 @@
 𳏛	ln nl
 𳏠	un nq
 𳏣	hf nf
-𳏧	pn nb
+𳏧	nb jn
 𳏩	nh
 𳏫	ng gn
 𳏬	nm mn
