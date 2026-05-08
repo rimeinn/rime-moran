@@ -42,9 +42,9 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: dist
           publish_branch: ${{ matrix.variant }}
-      - name: Setup tmate session
-        if: ${{ failure() }}
-        uses: mxschmitt/action-tmate@v3
+      # - name: Setup tmate session
+      #   if: ${{ failure() }}
+      #   uses: mxschmitt/action-tmate@v3
 
   mdict:
     if: ${{ github.repository == 'rimeinn/rime-moran' }}
