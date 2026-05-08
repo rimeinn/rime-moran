@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260502"
+version: "20260508"
 sort: original
 columns:
   - text
@@ -77593,7 +77593,6 @@ T恤衫	txuj
 双语	udyu
 说的也是	udyu
 书到用时方恨少	udyu
-十大元帅	udyu
 稍等一下	udyx
 实弹演习	udyx
 双赢	udyy
