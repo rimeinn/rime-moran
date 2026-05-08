@@ -190,6 +190,8 @@ deploy:
         assert: eq(preedit, 'jism')
 
   steal_auxcode:
+    patch:
+      smart/max_sentences: 1
     tests:
       - send: 'mzfadsl2'
         assert: eq(cand[1].text, '塞')
