@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260502"
+version: "20260505"
 sort: by_weight
 columns:
   - text
@@ -79807,7 +79807,6 @@ T恤衫	txuj
 雙語	udyu
 說的也是	udyu
 書到用時方恨少	udyu
-十大元帥	udyu
 稍等一下	udyx
 實彈演習	udyx
 深度優先	udyx
