@@ -6,7 +6,7 @@
 
 ---
 name: moran_english
-version: "20260427"
+version: "20260507"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -47790,6 +47790,7 @@ soubise	soubise
 soubrette	soubrette
 soubriquet	soubriquet
 Soudan	Soudan
+soufflé	souffle
 souffle	souffle
 sough	sough
 sought	sought
