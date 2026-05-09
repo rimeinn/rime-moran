@@ -25,7 +25,7 @@
 
 local moran = require("moran")
 
-local kReject = 0
+local kRejected = 0
 local kAccepted = 1
 local kNoop = 2
 local kConsumingNoop = 3  -- 只要有候選窗，就不應該把快捷鍵傳遞給下層程序

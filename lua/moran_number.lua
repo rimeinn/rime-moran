@@ -80,7 +80,7 @@ end
 -- 轉換整數部分
 local function translateInt(str, digit, unit, bigUnit)
     local int = tonumber(str)
-    if math.floor(int) ~= int then
+    if not int or math.floor(int) ~= int then
         return "數值超限！"
     end
     if int == 0 then
