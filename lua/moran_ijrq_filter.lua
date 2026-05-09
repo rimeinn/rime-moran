@@ -2,9 +2,11 @@
 --
 -- Part of Project Moran
 -- License: GPLv3
--- Version: 0.3.2
+-- Version: 0.3.3
 
 -- ChangeLog:
+--
+-- 0.3.3: 修復 0.3.2 中的一處 nil 引用問題。
 --
 -- 0.3.2: 修復 completion 誤被延遲的問題。
 --
@@ -83,6 +85,9 @@ function Module.func(t_input, env)
     elseif input_len == 5 or input_len == 7 or input_len == 9 then
         local iter = moran.make_peekable(iter)
         local first = iter:peek()
+        if not first then  -- No candidates
+            return
+        end
         local last_len = utf8.len(env.last_first_cand)
         local first_len = utf8.len(first.text)
         if input:sub(1,input_len-1) ~= env.last_input or last_len == 1 or last_len ~= first_len then
