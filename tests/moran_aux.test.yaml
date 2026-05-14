@@ -18,6 +18,8 @@ deploy:
         assert: cand[2].text == '喫飯'
       - send: 'jivm'
         assert: cand[3].comment ~= 'vm'
+      - send: 'hk'
+        assert: cand[1].text == '好' and cand[1].comment == "⚡"
 
   aux_hint:
     patch:
@@ -31,6 +33,17 @@ deploy:
       - send: 'lmjx{Tab}j{space}{space}'
         assert: commit == '鏈接'
 
+  fix_no_dict_branches:
+    tests:
+      - send: 'lmjx'
+        assert: cand[1].text == '鏈接' and cand[1].comment == "" and preedit == 'lm jx'
+      - send: 'a'
+        assert: cand[1].text == '啊' and cand[1].comment ~= "⚡"
+      - send: 'hk'
+        assert: cand[1].text == '好' and cand[1].comment == "⚡"
+      - send: 'hk'
+        assert: cand[1].text == '好' and cand[1].comment == "⚡"
+
   pin:
     tests:
       - send: 'lmjx'
@@ -43,5 +56,62 @@ deploy:
         assert: cand[1].text == '連接' and cand[1].comment == "📌"
       - send: 'lmjx'
         assert: cand[1].text == '連接' and cand[1].comment == "📌"
+      - send: 'xnli{Control+t}'
+        assert: cand[1].text == '心裏' and cand[1].comment == "📌" and preedit == 'xn li'
+      - send: 'hk{Down}{Control+t}'
+        assert: cand[1].comment == "📌" and cand[2].text == '好' and cand[2].comment == "⚡"
+      - send: 'hk{Control+t}'
+        assert: cand[1].text == '好' and cand[1].comment == "⚡"
+
+  pin_with_fix_dict:
+    patch:
+      moran/fix/use_dict: true
+    tests:
+      - send: 'xnli{Control+t}'
+        assert: cand[1].text == '心裏' and cand[1].comment == "📌" and preedit == 'xn li'
+
+  fix_dict_branches:
+    patch:
+      moran/fix/use_dict: true
+    tests:
+      - send: 'hk'
+        assert: cand[1].text == '好' and cand[1].comment == "⚡"
+      - send: 'xnli'
+        assert: cand[1].text == '心裏' and cand[1].comment ~= "⚡" and preedit == 'xn li'
+
+  fix_dict_word:
+    patch:
+      moran/fix/use_dict: true
+      moran/fix/use_dict_max_length: 4
+    tests:
+      - send: 'xnli'
+        assert: cand[1].text == '心裏' and cand[1].comment == "⚡" and preedit == 'xn li'
+
+  pin_with_fix_dict_word:
+    patch:
+      moran/fix/use_dict: true
+      moran/fix/use_dict_max_length: 4
+    tests:
+      - send: 'xnli{Control+t}'
+        assert: cand[1].text == '心裏' and cand[1].comment == "📌" and preedit == 'xn li'
+
+  pin_same_as_fix_dict:
+    patch:
+      moran/fix/use_dict: true
+    tests:
+      - send: 'hk{Control+t}'
+        assert: cand[1].text == '好' and cand[1].comment == "📌"
+      - send: 'hk'
+        assert: cand[1].text == '好' and cand[1].comment == "📌" and (cand[2] == nil or cand[2].text ~= '好')
+
+  custom_indicators:
+    patch:
+      moran/quick_code_indicator: "💥"
+      moran/pin/indicator: "📍"
+    tests:
+      - send: 'hk'
+        assert: cand[1].text == '好' and cand[1].comment == "💥"
+      - send: 'xnli{Control+t}'
+        assert: cand[1].text == '心裏' and cand[1].comment == "📍" and preedit == 'xn li'
 
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rimeinn/mira/refs/heads/master/spec/mira.schema.json
