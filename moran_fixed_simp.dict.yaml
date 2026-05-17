@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260510"
+version: "20260518"
 sort: original
 columns:
   - text
@@ -1091,6 +1091,8 @@ AVL树	avlu
 艾滋病人	azbr
 暗自得意	azdy
 爱憎分明	azfm
+阿兹海默	azhm
+阿兹海默症	azhv
 爱走极端	azjd
 矮子看戏	azkx
 按资论辈	azlb
@@ -6972,6 +6974,7 @@ B盘	bpj
 并击	byji
 便衣警察	byji
 奔逸绝尘	byji
+并集	byji
 半夜鸡叫	byjj
 八一建军节	byjj
 濒于绝境	byjj
@@ -7796,6 +7799,7 @@ B盘	bpj
 侧根	cegf
 测绘	cehv
 策划	cehw
+侧滑	cehw
 厕	cei
 测查	ceia
 测产	ceij
@@ -17264,6 +17268,7 @@ E盘	epj
 分册	ffce
 分层	ffcg
 粉刺	ffci
+分词	ffci
 分餐	ffcj
 粉彩	ffcl
 反复操练	ffcl
@@ -18611,6 +18616,7 @@ E盘	epj
 犯傻	fjua
 翻砂	fjua
 反手	fjub
+贩售	fjub
 封建时代	fjud
 反射	fjue
 翻身	fjuf
@@ -21288,6 +21294,7 @@ F盘	fpj
 古典文学	gdwx
 古代文学	gdwx
 广为	gdwz
+光效	gdxc
 光想	gdxd
 高等学府	gdxf
 感到幸福	gdxf
@@ -23660,6 +23667,8 @@ F盘	fpj
 果园	goyr
 国乐	goyt
 过于	goyu
+国语	goyu
+过誉	goyu
 国营	goyy
 过硬	goyy
 过	goz
@@ -24139,6 +24148,7 @@ G盘	gpj
 个人原因	gryy
 个人意愿	gryy
 个人英雄主义	gryy
+观影	gryy
 罐子	grzi
 管子	grzi
 馆子	grzi
@@ -26863,6 +26873,7 @@ G盘	gpj
 华尔街日报	hejb
 合脚	hejc
 合计	heji
+合集	heji
 核减	hejm
 合金	hejn
 喝酒	hejq
@@ -30336,6 +30347,7 @@ H盘	hpj
 回茬	hvia
 回抽	hvib
 回车	hvie
+回撤	hvie
 灰尘	hvif
 回程	hvig
 会场	hvih
@@ -30390,6 +30402,7 @@ H盘	hpj
 回流	hvlq
 回笼	hvls
 贿赂	hvlu
+回路	hvlu
 汇率	hvlv
 蕙质兰心	hvlx
 挥泪	hvlz
@@ -31490,6 +31503,7 @@ H盘	hpj
 孩子脾气	hzpq
 黑屏	hzpy
 化作泡影	hzpy
+黑巧	hzqc
 黑枪	hzqd
 黑旗	hzqi
 合作前景	hzqj
@@ -36376,6 +36390,7 @@ I盘	ipj
 借此机会	jcjh
 交际	jcji
 焦急	jcji
+交集	jcji
 铰	jcjj
 精彩绝伦	jcjl
 矫健	jcjm
@@ -37655,6 +37670,7 @@ I盘	ipj
 际	jieu
 击	jif
 激发	jifa
+技法	jifa
 揖	jife
 积分	jiff
 讥讽	jifg
@@ -38064,6 +38080,7 @@ I盘	ipj
 积雪	jixt
 鸡血	jixt
 继续	jixu
+积蓄	jixu
 记下	jixw
 几下	jixw
 机械	jixx
@@ -42247,6 +42264,7 @@ JK制服	jkvf
 鲸吸牛饮	jxny
 界内	jxnz
 睫	jxo
+解耦	jxou
 解剖	jxpb
 居心叵测	jxpc
 洁癖	jxpi
@@ -44721,6 +44739,7 @@ JK制服	jkvf
 亢龙有悔	klyh
 开眼	klyj
 开演	klyj
+开药	klyk
 开药	klyk
 看了又看	klyk
 开印	klyn
@@ -51289,6 +51308,7 @@ JK制服	jkvf
 累累	lzlz
 列祖列宗	lzlz
 檑	lzm
+类目	lzmu
 泪目	lzmu
 雷鸣	lzmy
 嫘	lzn
@@ -65947,6 +65967,7 @@ P站	pvj
 倾国	qygo
 庼	qygq
 清官	qygr
+清关	qygr
 轻功	qygs
 轻工	qygs
 轻轨	qygv
@@ -66091,6 +66112,7 @@ P站	pvj
 轻巧	qyqc
 氢气	qyqi
 轻骑	qyqi
+清奇	qyqi
 清欠	qyqm
 请求	qyqq
 氰	qyqq
@@ -71173,6 +71195,7 @@ P站	pvj
 速写	suxx
 丧失信心	suxx
 苏醒	suxy
+塑形	suxy
 窣	suxz
 诉	suy
 素雅	suya
@@ -72363,6 +72386,7 @@ P站	pvj
 特号	tehk
 特护	tehu
 堂而皇之	tehv
+特惠	tehv
 特长	teih
 特产	teij
 特出	teiu
@@ -95190,6 +95214,7 @@ U盘	upj
 媳妇	xifu
 西服	xifu
 吸附	xifu
+吸附	xifu
 西非	xifz
 习	xig
 矽钢	xigh
@@ -96320,6 +96345,7 @@ U盘	upj
 现正	xmvg
 县长	xmvh
 限制	xmvi
+闲置	xmvi
 小米之家	xmvj
 先兆	xmvk
 新民主主义革命	xmvm

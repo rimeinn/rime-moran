@@ -4896,7 +4896,8 @@
 䘍	ii	虫虫	auto
 䘍	wi	萬虫	auto
 䘎	iw	虫彎	auto
-䘏	xe	血阝	auto
+䘏	xe	血阝	
+䘏	ex	阝血	
 䘐	xd	血丶	auto
 䘑	xy	血永	auto
 䘒	xj	血夋	
