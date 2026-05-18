@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260510"
+version: "20260518"
 sort: by_weight
 columns:
   - text
@@ -1129,6 +1129,8 @@ AVL樹	avlu
 艾滋病人	azbr
 暗自得意	azdy
 愛憎分明	azfm
+阿茲海默	azhm
+阿茲海默症	azhv
 愛走極端	azjd
 矮子看戲	azkx
 按資論輩	azlb
@@ -7132,6 +7134,7 @@ Bilibili	bvj
 並擊	byji
 便衣警察	byji
 奔逸絕塵	byji
+併集	byji
 半夜雞叫	byjj
 八一建軍節	byjj
 瀕於絕境	byjj
@@ -7983,6 +7986,7 @@ Bilibili	bvj
 側根	cegf
 測繪	cehv
 策劃	cehw
+側滑	cehw
 厠	cei
 測查	ceia
 測產	ceij
@@ -17815,6 +17819,7 @@ E盤	epj
 弅	ffcf
 分層	ffcg
 粉刺	ffci
+分詞	ffci
 分餐	ffcj
 粉彩	ffcl
 反覆操練	ffcl
@@ -19212,6 +19217,7 @@ E盤	epj
 犯傻	fjua
 翻砂	fjua
 反手	fjub
+販售	fjub
 封建時代	fjud
 反射	fjue
 翻身	fjuf
@@ -21957,6 +21963,7 @@ F盤	fpj
 古典文學	gdwx
 古代文學	gdwx
 廣爲	gdwz
+光效	gdxc
 光想	gdxd
 高等學府	gdxf
 感到幸福	gdxf
@@ -24384,6 +24391,8 @@ F盤	fpj
 果園	goyr
 國樂	goyt
 過於	goyu
+國語	goyu
+過譽	goyu
 國營	goyy
 過硬	goyy
 過	goz
@@ -24863,6 +24872,7 @@ G盤	gpj
 個人原因	gryy
 個人意願	gryy
 個人英雄主義	gryy
+觀影	gryy
 罐子	grzi
 管子	grzi
 館子	grzi
@@ -27656,6 +27666,7 @@ G盤	gpj
 華爾街日報	hejb
 合腳	hejc
 合計	heji
+合集	heji
 覈減	hejm
 合金	hejn
 喝酒	hejq
@@ -31249,6 +31260,7 @@ H盤	hpj
 回茬	hvia
 回抽	hvib
 回車	hvie
+回撤	hvie
 灰塵	hvif
 回程	hvig
 輠	hvig
@@ -31307,6 +31319,7 @@ H盤	hpj
 迴流	hvlq
 回籠	hvls
 賄賂	hvlu
+回路	hvlu
 匯率	hvlv
 蕙質蘭心	hvlx
 揮淚	hvlz
@@ -32441,6 +32454,7 @@ H盤	hpj
 孩子脾氣	hzpq
 黑屏	hzpy
 化作泡影	hzpy
+黑巧	hzqc
 黑槍	hzqd
 黑旗	hzqi
 合作前景	hzqj
@@ -37449,6 +37463,7 @@ I盤	ipj
 藉此機會	jcjh
 交際	jcji
 焦急	jcji
+交集	jcji
 鉸	jcjj
 鐎	jcjj
 精彩絕倫	jcjl
@@ -38756,6 +38771,7 @@ I盤	ipj
 繼而	jier
 擊	jif
 激發	jifa
+技法	jifa
 揖	jife
 積分	jiff
 譏諷	jifg
@@ -39198,6 +39214,7 @@ I盤	ipj
 雞血	jixt
 積雪	jixt
 繼續	jixu
+積蓄	jixu
 記下	jixw
 幾下	jixw
 機械	jixx
@@ -43528,6 +43545,7 @@ JK制服	jkvf
 鯨吸牛飲	jxny
 界內	jxnz
 睫	jxo
+解耦	jxou
 解剖	jxpb
 居心叵測	jxpc
 潔癖	jxpi
@@ -46059,6 +46077,7 @@ JK制服	jkvf
 亢龍有悔	klyh
 開眼	klyj
 開演	klyj
+開藥	klyk
 開藥	klyk
 看了又看	klyk
 開印	klyn
@@ -52826,6 +52845,7 @@ JK制服	jkvf
 纇	lzm
 櫑	lzml
 櫐	lzml
+類目	lzmu
 淚目	lzmu
 雷鳴	lzmy
 嫘	lzn
@@ -67873,6 +67893,7 @@ P站	pvj
 傾國	qygo
 廎	qygq
 清官	qygr
+清關	qygr
 輕功	qygs
 輕工	qygs
 輕軌	qygv
@@ -68019,6 +68040,7 @@ P站	pvj
 輕巧	qyqc
 氫氣	qyqi
 輕騎	qyqi
+清奇	qyqi
 清欠	qyqm
 請求	qyqq
 氰	qyqq
@@ -73208,6 +73230,7 @@ P站	pvj
 速寫	suxx
 喪失信心	suxx
 甦醒	suxy
+塑形	suxy
 窣	suxz
 訴	suy
 肅	suya
@@ -74440,6 +74463,7 @@ P站	pvj
 特號	tehk
 特護	tehu
 堂而皇之	tehv
+特惠	tehv
 蟘	tei
 特長	teih
 特產	teij
@@ -97849,6 +97873,7 @@ WiFi	wifi
 扢	xifq
 心潮翻騰	xift
 媳婦	xifu
+吸附	xifu
 西非	xifz
 戲	xig
 矽鋼	xigh
@@ -99046,6 +99071,7 @@ WiFi	wifi
 現正	xmvg
 縣長	xmvh
 限制	xmvi
+閒置	xmvi
 小米之家	xmvj
 先兆	xmvk
 新民主主義革命	xmvm
