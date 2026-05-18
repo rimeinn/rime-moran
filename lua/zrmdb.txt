@@ -4535,7 +4535,7 @@
 䘌	ii ni
 䘍	ii wi
 䘎	iw
-䘏	xe
+䘏	xe ex
 䘐	xd
 䘑	xy
 䘒	xj xw
