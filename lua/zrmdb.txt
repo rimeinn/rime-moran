@@ -10553,7 +10553,7 @@
 巜	aa vv ky
 川	pa
 州	id da
-巟	wi
+巟	wi iw
 巠	ag gi
 巡	zi
 巢	ig

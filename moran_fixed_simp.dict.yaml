@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260518"
+version: "20260521"
 sort: original
 columns:
   - text
@@ -58936,6 +58936,7 @@ JK制服	jkvf
 爬高	pagk
 平安归来	pagl
 爬过	pago
+𤆵	pah
 爬灰	pahv
 怕黑	pahz
 爬虫	pais

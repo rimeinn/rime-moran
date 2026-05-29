@@ -6,7 +6,7 @@
 
 ---
 name: moran.chars
-version: "20260527"
+version: "20260529"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -17488,6 +17488,7 @@ use_preset_vocabulary: false
 州	vb;id	4065
 州	vb;da	4065
 巟	hd;wi	414
+巟	hd;iw	414
 巠	jy;ag	397
 巠	jy;gi	397
 巠	xy;ag	0
