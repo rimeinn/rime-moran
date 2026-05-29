@@ -6,7 +6,7 @@
 
 ---
 name: moran_english
-version: "20260507"
+version: "20260519"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -57325,3 +57325,5 @@ OCaml	OCaml
 Lebesgue	Lebesgue
 LLM	LLM
 large language model	largelanguagemodel
+nginx	nginx
+coding	coding
