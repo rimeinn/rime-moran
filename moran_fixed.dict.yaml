@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260521"
+version: "20260601"
 sort: by_weight
 columns:
   - text
@@ -42533,7 +42533,7 @@ JK制服	jkvf
 具象	juxd
 精神小夥	juxh
 據悉	juxi
-技術先進	juxj
+技術細節	juxj
 懼	juxj
 怐	juxj
 懅	juxj
@@ -107407,8 +107407,6 @@ WiFi	wifi
 有內味了	ynwl
 以你爲榮	ynwr
 疑難問題	ynwt
-雲南衛視	ynwu
-閱男無數	ynwu
 餘怒未消	ynwx
 餘怒未息	ynwx
 因爲	ynwz
@@ -111902,9 +111900,11 @@ WiFi	wifi
 最低限額	zdxe
 自動續費	zdxf
 自動尋路	zdxl
+自底向上	zdxu
 自動消失	zdxu
 自動選中	zdxv
 自動旋轉	zdxv
+自頂向下	zdxx
 自東向西	zdxx
 最大心願	zdxy
 自動修音	zdxy
@@ -123190,6 +123190,7 @@ SD卡	sdk
 維護者	whv
 玩花招	whv
 玩花樣	why
+完成度	wid
 胃腸道	wid
 尾椎骨	wig
 文抄公	wig

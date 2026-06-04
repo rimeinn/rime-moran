@@ -1,42 +1,43 @@
 -- moran_processor.lua
--- Synopsis: 適用於魔然方案默認模式的按鍵處理器
+-- Synopsis: 适用于魔然方案默认模式的按键处理器
 -- Author: ksqsf
 -- License: MIT license
--- Version: 0.5.1
+-- Version: 0.6.0
 
 -- 主要功能：
--- 1. 選擇第二個首選項，但可用於跳過 emoji 濾鏡產生的候選
--- 2. 快速切換強制切分
--- 3. 快速取出/放回被吞掉的輔助碼
--- 4. shorthand 略碼
+-- 1. 选择第二个首选项，但可用于跳过 emoji 滤镜产生的候选
+-- 2. 快速切换强制切分
+-- 3. 快速取出/放回被吞掉的辅助码
+-- 4. shorthand 略码
+-- 4. Ctrl-S 在两个字集间快速切换
 
 -- ChangeLog:
---  0.5.1: 優化快捷鍵 consume 邏輯
---  0.5.0: 重構強制切分，增加 4單字-2 => 3-3 規則
---  0.4.4: 允許 Ctrl+L 拆開四碼
---  0.4.3: 修復 Ctrl+L 的單字判別條件
---  0.4.2: 放鬆取出輔助碼的條件，Ctrl+O 用於取出輔助碼
---  0.4.1: Ctrl+L 增加對 yyxxo 的支持
---  0.4.0: 增加固定格式略碼功能
---  0.3.0: 增加取出/放回被吞掉的輔助碼的能力
---  0.2.0: 增加快速切換切分的能力，因而從 moran_semicolon_processor 更名爲 moran_processor
---  0.1.5: 修復獲取 candidate_count 的邏輯
---  0.1.4: 數字也增加到條件裏
+--  0.6.0: 增加 Ctrl-S
+--  0.5.1: 优化快捷键 consume 逻辑
+--  0.5.0: 重构强制切分，增加 4单字-2 => 3-3 规则
+--  0.4.4: 允许 Ctrl+L 拆开四码
+--  0.4.3: 修复 Ctrl+L 的单字判别条件
+--  0.4.2: 放松取出辅助码的条件，Ctrl+O 用于取出辅助码
+--  0.4.1: Ctrl+L 增加对 yyxxo 的支持
+--  0.4.0: 增加固定格式略码功能
+--  0.3.0: 增加取出/放回被吞掉的辅助码的能力
+--  0.2.0: 增加快速切换切分的能力，因而从 moran_semicolon_processor 更名为 moran_processor
+--  0.1.5: 修复获取 candidate_count 的逻辑
+--  0.1.4: 数字也增加到条件里
 
 local moran = require("moran")
 
 local kRejected = 0
 local kAccepted = 1
 local kNoop = 2
-local kConsumingNoop = 3  -- 只要有候選窗，就不應該把快捷鍵傳遞給下層程序
+local kConsumingNoop = 3  -- 只要有候选窗，就不应该把快捷键传递给下层程序
 
 local function semicolon_processor(key_event, env)
-    local context = env.engine.context
-
     if key_event.keycode ~= 0x3B then
         return kNoop
     end
 
+    local context = env.engine.context
     local composition = context.composition
     if composition:empty() then
         return kNoop
@@ -75,7 +76,7 @@ local function semicolon_processor(key_event, env)
         end
         local cand_text = cand.text
         local codepoint = utf8.codepoint(cand_text, 1)
-        if moran.unicode_code_point_is_chinese(codepoint) -- 漢字
+        if moran.unicode_code_point_is_chinese(codepoint) -- 汉字
             or (codepoint >= 97 and codepoint <= 122)      -- a-z
             or (codepoint >= 65 and codepoint <= 90)       -- A-Z
             or (codepoint >= 48 and codepoint <= 57 and cand.type ~= "simplified") -- 0-9
@@ -91,10 +92,10 @@ local function semicolon_processor(key_event, env)
     return kAccepted
 end
 
---| 使用快捷鍵從前一段「偷」出輔助碼。
+--| 使用快捷键从前一段「偷」出辅助码。
 --
--- 例如，想輸入「沒法動」，鍵入 mz'fa'dsl，但輸出是「沒發動」。
--- 此時若選了「沒法」二字，d 會被吞掉。按下該處理器的快捷鍵，可以把 d 再次偷出來。
+-- 例如，想输入「没法动」，键入 mz'fa'dsl，但输出是「没发动」。
+-- 此时若选了「没法」二字，d 会被吞掉。按下该处理器的快捷键，可以把 d 再次偷出来。
 local function steal_auxcode_processor(key_event, env)
     -- ctrl+l, ctrl+o
     if not (key_event:ctrl() and (key_event.keycode == 0x6c or key_event.keycode == 0x6f)) then
@@ -136,18 +137,18 @@ end
 local SEGMENTATION_PATTERNS = {
     [4] = {
         {"^[a-z][a-z]'[a-z][a-z]$", {4}},   -- 2-2   => 4
-        {"^[a-z][a-z][a-z][a-z]$", {2, 2}}, -- 4單字 => 2-2
+        {"^[a-z][a-z][a-z][a-z]$", {2, 2}}, -- 4单字 => 2-2
     },
     [5] = {
         {"^[a-z][a-z][ '][a-z][a-z][a-z]$", {3, 2}},  -- 2-3 => 3-2
         {"^[a-z][a-z][a-z][ '][a-z][a-z]$", {2, 3}},  -- 3-2 => 2-3
-        {"^[a-z][a-z][a-z][a-z]o$", {2, 3}},          -- 5單字 => 2-3
+        {"^[a-z][a-z][a-z][a-z]o$", {2, 3}},          -- 5单字 => 2-3
     },
     [6] = {
         {"^[a-z][a-z][ '][a-z][a-z][ '][a-z][a-z]$", {3, 3}},  -- 2-2-2   => 3-3
         {"^[a-z][a-z][a-z][ '][a-z][a-z][a-z]$", {2, 2, 2}},   -- 3-3     => 2-2-2
-        {"^[a-z][a-z][a-z][a-z][ '][a-z][a-z]$", {3, 3}},      -- 4單字-2 => 3-3
-        {"^[a-z][a-z][ '][a-z][a-z][a-z][a-z]$", {3, 3}},      -- 4單字-2 => 3-3
+        {"^[a-z][a-z][a-z][a-z][ '][a-z][a-z]$", {3, 3}},      -- 4单字-2 => 3-3
+        {"^[a-z][a-z][ '][a-z][a-z][a-z][a-z]$", {3, 3}},      -- 4单字-2 => 3-3
     },
     [7] = {
         {"^[a-z][a-z][ '][a-z][a-z][ '][a-z][a-z][a-z]", {2, 3, 2}}, -- 2-2-3 => 2-3-2
@@ -175,7 +176,7 @@ local function force_segmentation_processor(key_event, env)
 
     local ctx = env.engine.context
     local input = ctx.input:sub(seg._start + 1, seg._end)
-    local raw = input:gsub("'", "")  -- 不帶 ' 分隔符的輸入
+    local raw = input:gsub("'", "")  -- 不带 ' 分隔符的输入
     local patterns = SEGMENTATION_PATTERNS[#raw]
 
     if patterns == nil then
@@ -222,17 +223,17 @@ local shorthands = {
         return s .. "一" .. s
     end,
     [string.byte("V")] = function(env, s)
-        if not env.engine.context:get_option("std_tw") then
-            return s .. "着" .. s .. "着"
-        else
+        if env.engine.context:get_option("std_s2tw") or env.engine.context:get_option("std_s2tw") then
             return s .. "著" .. s .. "著"
+        else
+            return s .. "着" .. s .. "着"
         end
     end,
     [string.byte("Q")] = function(env, s)
-        if (env.engine.context:get_option("simplification") == true) then
+        if env.engine.context:get_option("std_s") or env.engine.context:get_option("std_s2t") then
             return s .. "来" .. s .. "去"
         else
-            return s .. "來" .. s .. "去"
+            return s .. "来" .. s .. "去"
         end
     end,
 }
@@ -256,17 +257,64 @@ local function shorthand_processor(key_event, env)
     return kAccepted
 end
 
+local function variant_toggle_processor(key_event, env)
+    if not (key_event:ctrl() and key_event.keycode == 0x73) then
+        return kNoop
+    end
+    local ctx = env.engine.context
+    if ctx.composition:empty() then  -- 无候选窗时不响应 Ctrl-S
+        return kNoop
+    end
+
+    local v1 = env.variants[1]
+    local v2 = env.variants[2]
+    if ctx:get_option(v1) then
+        ctx:set_option(v1, false)
+        ctx:set_option(v2, true)
+    elseif ctx:get_option(v2) then
+        ctx:set_option(v2, false)
+        ctx:set_option(v1, true)
+    else
+        -- 都不是时也跳回 v1
+        ctx:set_option(v2, false)
+        ctx:set_option(v1, true)
+    end
+
+    return kAccepted
+end
+
 return {
     init = function(env)
         env.processors = {
             semicolon_processor,
             force_segmentation_processor,
             steal_auxcode_processor,
+            variant_toggle_processor,
         }
 
-        if env.engine.schema.config:get_bool("moran/shorthands") then
+        local cfg = env.engine.schema.config
+        if cfg:get_bool("moran/shorthands") then
             table.insert(env.processors, shorthand_processor)
         end
+
+        -- 用户启用的字集
+        variants = cfg:get_list("switches/@2/options")
+        if variants.size >= 2
+            and variants:get_at(0).type == "kScalar"
+            and variants:get_at(0):get_value():get_string():match("^std_")
+            and variants:get_at(1).type == "kScalar"
+            and variants:get_at(1):get_value():get_string():match("^std_")
+        then
+            env.variants = {
+                variants:get_at(0):get_value():get_string(),
+                variants:get_at(1):get_value():get_string(),
+            }
+        else
+            log.error('moran_processor: switches/@2 不是字形变体列表, 如 "std_s2t"! 回落至默认值 [std_s, std_s2t]')
+            env.variants = { "std_s", "std_s2t" }
+        end
+        -- print('v1 = ' .. env.variants[1])
+        -- print('v2 = ' .. env.variants[2])
     end,
 
     fini = function(env)

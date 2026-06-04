@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20260519"
+version: "20260601"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9363,8 +9363,43 @@ columns:
 配得感	100
 偷感	100
 黑巧	100
+白巧	100
 泛用	2000
 泛用	1000
+曲师	50
+曲绘	50
+通贩	50
+主催	50
+场贩	50
+常返	10
+配布	50
+PV师	5	PV ui;vb
+音屋	50
+特设页	5
+在库	100
+完售	50
+完卖	50
+受付	50
+疾走感
+终末感
+异界感
+祈祷感
+幻想感
+映像感
+架空设定
+架空都市
+架空民俗
+架空科学
+架空宗教
+音压
+空气感
+非人称
+认知灾害
+情报生命
+惊异的
+令人惊异
+切墩
+切配
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0

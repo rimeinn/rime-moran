@@ -53,6 +53,12 @@ key_bindings:
     __append:
       - { when: has_menu, accept: semicolon, send: "2" }
 
+  # Control+s 切換簡繁
+  # ※ 注意，默認模式（moran.schema.yaml）的 Ctrl+s 功能由 moran_processor.lua 提供，不使用該配置。
+  moran_ctrl_s:
+    __append:
+      - { when: has_menu, accept: Control+s, toggle: std_s2t }
+
   # 使用 tab 在不同音節間跳轉
   moran_tab:
     __append:
@@ -62,12 +68,11 @@ key_bindings:
   # 一些功能的開關鍵
   moran_switches:
     __append:
-      - { when: has_menu, accept: "Control+s", toggle: traditionalization }
       - { when: has_menu, accept: "Control+u", toggle: unicode_comment }
       - { when: has_menu, accept: "Control+q", toggle: emoji }
       - { when: composing, accept: "Control+x", toggle: extended_charset }
-      - { when: has_menu, accept: "Control+Shift+0", toggle: std_opencc }
-      - { when: has_menu, accept: "Control+Shift+parenright", toggle: std_opencc }
+      - { when: has_menu, accept: "Control+Shift+0", toggle: std_s }
+      - { when: has_menu, accept: "Control+Shift+parenright", toggle: std_s }
       - { when: has_menu, accept: "Control+i", toggle: chaifen }
       - { when: has_menu, accept: "Control+period", toggle: pinyinhint }
 
