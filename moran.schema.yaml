@@ -25,6 +25,10 @@ switches:
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+  - name: emoji
+    states: [ 🈚, 🈶 ]
   - options: [ std_s, std_s2t, std_s2tw, std_s2hk, std_s2jp, std_s2dzing ]
     states: [ 简, 繁, 台, 港, 日, 寍 ]
     # 快捷鍵 Ctrl-S 會在前兩個字集之間切換, 由 moran_processor.lua 實現.
@@ -34,8 +38,6 @@ switches:
     #     options: [ std_s2tw, std_s2hk  ]   # 用不到的其他字集也可以刪掉
     #     states: [ 台, 港 ]                 # 與 options 匹配
     #     reset: 0                           # 設定默認值爲 *第一項* (從 0 開始計數)
-  - name: ascii_punct
-    states: [ 。，, ．， ]
   - name: extended_charset
     states: [ 通用, 增廣 ]
   - name: inflexible
@@ -43,8 +45,6 @@ switches:
     # 默認情況下，輸入 4 碼時，會禁止碼表輸出（「動詞」模式）。
     # 這是因爲碼表最大碼長爲 4，可能會產生較低頻的多字詞，覆蓋過用戶自造的常用詞語。
     # 當固詞模式啓動後，輸入 4 碼時會優先輸出碼表中的二字詞，這些輸出帶有「⚡️」標記。
-  - name: emoji
-    states: [ 🈚, 🈶 ]
   - name: chaifen
     states: [ 不拆, 扌斥 ]
   - name: pinyinhint

@@ -19,15 +19,15 @@ switches:
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+  - name: emoji
+    states: [ 🈚, 🈶 ]
   - options: [ std_s, std_s2t, std_s2tw, std_s2hk, std_s2jp, std_s2dzing ]
     states: [ 简, 繁, 台, 港, 日, 寍 ]
     # 關於該項, 參見 moran.schema.yaml 中說明
-  - name: ascii_punct
-    states: [ 。，, ．， ]
   - name: extended_charset
     states: [ 通用, 增廣 ]
-  - name: emoji
-    states: [ 🈚, 🈶 ]
   - name: chaifen
     states: [ 不拆, 扌斥 ]
   - name: pinyinhint

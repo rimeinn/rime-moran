@@ -298,19 +298,30 @@ return {
         end
 
         -- 用户启用的字集
-        variants = cfg:get_list("switches/@2/options")
-        if variants.size >= 2
-            and variants:get_at(0).type == "kScalar"
-            and variants:get_at(0):get_value():get_string():match("^std_")
-            and variants:get_at(1).type == "kScalar"
-            and variants:get_at(1):get_value():get_string():match("^std_")
-        then
-            env.variants = {
-                variants:get_at(0):get_value():get_string(),
-                variants:get_at(1):get_value():get_string(),
-            }
-        else
-            log.error('moran_processor: switches/@2 不是字形变体列表, 如 "std_s2t"! 回落至默认值 [std_s, std_s2t]')
+        local switches = cfg:get_list("switches")
+        if switches then
+            for i = 0, switches.size - 1 do
+                local switch = switches:get_at(i)
+                local switch_map = switch and switch:get_map()
+                local options = switch_map and switch_map:get("options")
+                local variants = options and options:get_list()
+                if variants
+                    and variants.size >= 2
+                    and variants:get_at(0).type == "kScalar"
+                    and variants:get_at(0):get_value():get_string():match("^std_")
+                    and variants:get_at(1).type == "kScalar"
+                    and variants:get_at(1):get_value():get_string():match("^std_")
+                then
+                    env.variants = {
+                        variants:get_at(0):get_value():get_string(),
+                        variants:get_at(1):get_value():get_string(),
+                    }
+                    break
+                end
+            end
+        end
+        if not env.variants then
+            log.error('moran_processor: switches 中未找到字形变体列表, 如 "std_s2t"! 回落至默认值 [std_s, std_s2t]')
             env.variants = { "std_s", "std_s2t" }
         end
         -- print('v1 = ' .. env.variants[1])
