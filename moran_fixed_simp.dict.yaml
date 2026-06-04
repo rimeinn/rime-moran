@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260521"
+version: "20260601"
 sort: original
 columns:
   - text
@@ -41287,7 +41287,7 @@ JK制服	jkvf
 具象	juxd
 精神小伙	juxh
 据悉	juxi
-技术先进	juxj
+技术细节	juxj
 惧	juxj
 及时行乐	juxl
 计上心来	juxl
@@ -104386,8 +104386,6 @@ U盘	upj
 有内味了	ynwl
 以你为荣	ynwr
 疑难问题	ynwt
-云南卫视	ynwu
-阅男无数	ynwu
 余怒未消	ynwx
 余怒未息	ynwx
 因为	ynwz
@@ -108747,9 +108745,11 @@ U盘	upj
 最低限额	zdxe
 自动续费	zdxf
 自动寻路	zdxl
+自底向上	zdxu
 自动消失	zdxu
 自动选中	zdxv
 自动旋转	zdxv
+自顶向下	zdxx
 自东向西	zdxx
 最大心愿	zdxy
 自动修音	zdxy
@@ -119810,6 +119810,7 @@ SD卡	sdk
 维护者	whv
 玩花招	whv
 玩花样	why
+完成度	wid
 胃肠道	wid
 尾椎骨	wig
 文抄公	wig

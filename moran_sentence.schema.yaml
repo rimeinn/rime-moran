@@ -1,7 +1,7 @@
 schema:
   schema_id: moran_sentence
   name: 整句·魔然
-  version: "20250418"
+  version: "20260605"
   author:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
@@ -22,8 +22,9 @@ switches:
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
-  - name: simplification
-    states: [ 漢字, 汉字 ]
+  - options: [ std_t, std_t2s, std_t2tw, std_t2hk, std_t2jp, std_t2dzing ]
+    states: [ 通, 简, 台, 港, 日, 寍 ]
+    # 關於該項, 參見 moran.schema.yaml 中說明
   - name: ascii_punct
     states: [ 。，, ．， ]
   - name: extended_charset
@@ -36,8 +37,6 @@ switches:
     states: [ 🔇, 🔊 ]
   - name: unicode_comment
     states: [ U開, U關 ]
-  - options: [ std_opencc,  std_tw, std_hk, std_dzing ]
-    states: [ 通, 臺, 港, 寍 ]
 
 engine:
   processors:
@@ -76,12 +75,13 @@ engine:
     #- lua_filter@*moran_hint_filter           # 輔助碼提示需要去掉本行開頭的 # 符號
     - lua_filter@*moran_charset_filter     # 字集過濾需要去掉本行開頭的 # 符號
     - simplifier@emoji
-    - simplifier
+    - simplifier@std_t2s
+    - simplifier@std_t2tw
+    - simplifier@std_t2hk
+    - simplifier@std_t2jp
+    - simplifier@std_t2dzing
     - simplifier@chaifen
     - simplifier@pinyinhint
-    - simplifier@std_tw
-    - simplifier@std_hk
-    - simplifier@std_dzing
     - lua_filter@*moran_charset_comment_filter  # Unicode 區位提示
     - lua_filter@*moran_unicode_display_filter  # Unicode 編碼提示
     - lua_filter@*moran_english_filter
@@ -142,10 +142,6 @@ japanese:
   comment_format:
     - xform/.*//
 
-simplifier:
-  option_name: simplification
-  opencc_config: moran_t2s.json
-
 chaifen:
   option_name: chaifen
   opencc_config: moran_chaifen.json
@@ -168,17 +164,27 @@ pinyinhint:
   comment_format:
     __include: :/chaifen/comment_format
 
-std_hk:
+std_t2s:
+  option_name: std_t2s
+  opencc_config: moran_t2s.json
+
+std_t2hk:
   opencc_config: t2hk.json
-  option_name: std_hk
+  option_name: std_t2hk
 
-std_tw:
+std_t2tw:
   opencc_config: t2tw.json
-  option_name: std_tw
+  option_name: std_t2tw
 
-std_dzing:
-  opencc_config: moran_dzing.json
-  option_name: std_dzing
+std_t2jp:
+  opencc_config: t2jp.json
+  option_name: std_t2jp
+  tips: all
+  tags: [abc, number]
+
+std_t2dzing:
+  opencc_config: moran_t2dzing.json
+  option_name: std_t2dzing
   tips: all
 
 reverse_format:
@@ -257,6 +263,7 @@ key_binder:
       - :/key_binder/custom_bindings?
       - moran:/key_bindings/moran_tab
       - moran:/key_bindings/moran_semicolon_for_2
+      - moran:/key_bindings/moran_ctrl_s
       - moran:/key_bindings/moran_switches
       - moran:/key_bindings/moran_keypad
       # 大寫字母追加輔助碼到上一音節
