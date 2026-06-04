@@ -121,10 +121,15 @@ jobs:
         with:
           name: "Trad-FullPack"
           path: ./dist
-      - name: Setup Mira
+      - name: Setup Mira and dependencies
         run: |
           wget "https://github.com/rimeinn/mira/releases/download/latest/mira-rime${{ matrix.librime }}-lua${{ matrix.lua_version }}"
           chmod +x "mira-rime${{ matrix.librime }}-lua${{ matrix.lua_version }}"
+          sudo apt install -y opencc
+      - name: Setup shared data
+        run: |
+          sudo apt install -y opencc
+          cp -a /usr/share/opencc/* dist/opencc/
       - name: Test ${{ matrix.schema }}
         run: |
           "./mira-rime${{ matrix.librime }}-lua${{ matrix.lua_version }}" -C cache tests/${{ matrix.schema }}.test.yaml

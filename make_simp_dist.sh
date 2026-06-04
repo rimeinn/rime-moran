@@ -76,15 +76,18 @@ perl -i -pe 's/zh-hant-t-essay-bgc/zh-hans-t-essay-bgc/' moran.yaml
 
 
 ########################################################################
-# 替换 simplification 为 traditionalization
+# 替换 std_t* 为 std_s*
 # 繁体版中 opencc 转换用于繁转简，简体版中改为简转繁
 ########################################################################
-for f in *.schema.yaml moran.yaml ; do
-    perl -i -pe 's/simplification/traditionalization/' $f
-    perl -i -pe 's/漢字, 汉字/汉字, 漢字/' $f
-    perl -i -pe 's/moran_t2s.json/s2t.json/' $f
+for f in *.schema.yaml moran.yaml lua/moran_processor.lua; do
+    perl -i -pe 's/通, 简/简, 繁/' $f                     # 选项顺序
+    perl -i -pe 's/std_t,\s*std_t2s/std_s, std_s2t/g' $f  # 选项顺序
+    perl -i -pe 's/std_t2s/std_s2t/g' $f                  # std_t2s -> std_s2t
+    perl -i -pe 's/std_t2/std_s2/g' $f                    # std_t2hk 等 -> std_s2hk
+    perl -i -pe 's/std_t/std_s/g' $f                      # std_t -> std_s
+    perl -i -pe 's/moran_t2s\.json/s2t\.json/g' $f        # 设定 s2t.json
+    perl -i -pe 's/t2([^\.]+)\.json/s2$1\.json/g' $f      # 转换其他 json
 done
-perl -i -pe 's|(env.engine.context:get_option("simplification") == true)|(env.engine.context:get_option("traditionalization") == false)|' lua/moran_processor.lua
 
 ########################################################################
 # 替换 emoji 用字为简体字
@@ -103,6 +106,7 @@ simplifyDict lua/moran_shijian.lua
 simplifyDict lua/moran_number.lua
 simplifyDict lua/moran_charset_comment_filter.lua
 simplifyDict lua/moran_pin.lua
+simplifyDict lua/moran_processor.lua
 simplifyDict moran_custom_phrases.txt
 
 ########################################################################

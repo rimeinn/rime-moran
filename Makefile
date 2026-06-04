@@ -62,6 +62,7 @@ clean:
 	rm -f dazhu*.txt
 	make -C opencc clean
 
+# Installs the traditional version into DESTDIR
 dist: quick
 	mkdir -p $(DESTDIR)
 	cp -a README*.md LICENSE etc $(DESTDIR)
@@ -79,11 +80,17 @@ dist: quick
 	cp -a opencc/*.ocd2 opencc/*.json $(DESTDIR)/opencc
 	cp -a opencc/moran_TSPhrases.txt $(DESTDIR)/opencc
 
+	rm -rf dist/*.userdb  # Just in case
+
 test: dist
+	cp -a /usr/share/opencc/* dist/opencc       2>/dev/null || true
+	cp -a /usr/local/share/opencc/* dist/opencc 2>/dev/null || true
+	test -f dist/opencc/t2tw.json || (echo "Error: cannot find shared opencc data!" && exit 1)
+
 	mira -C /tmp/mira-cache tests/moran.test.yaml
 	mira -C /tmp/mira-cache tests/moran.hint.test.yaml
 	mira -C /tmp/mira-cache tests/moran.charset.test.yaml
 	mira -C /tmp/mira-cache tests/moran_aux.test.yaml
 	rm -rf /tmp/mira-cache
 
-.PHONY: quick all dict chars zrmdb chaifen update-compact-dicts sync-essay dazhu opencc mdict
+.PHONY: quick all dict chars zrmdb chaifen update-compact-dicts sync-essay dazhu opencc mdict dist test

@@ -1,0 +1,69 @@
+## 簡體測試
+
+schema: moran
+source_dir: ../dist
+script: |
+  function eq(left, right)
+    print('Left  = ' .. tostring(left))
+    print('Right = ' .. tostring(right))
+    return left == right
+  end
+
+deploy:
+  default:
+    tests:
+      - send: l
+        assert: eq(cand[1].text, '了') and eq(cand[1].comment, "⚡️")
+      - send: le
+        assert: eq(cand[1].text, "乐") and eq(cand[1].comment, "⚡️")
+      - send: lem
+        assert: eq(cand[1].text, "楽") and eq(cand[1].comment, "⚡️")
+      - send: lemd
+        assert: eq(cand[1].text, "楽") and eq(cand[1].comment, "")
+      - send: hello
+        assert: eq(cand[1].text, "hello")
+      - send: jis
+        assert: eq(cand[1].text, "级") and eq(cand[1].comment, "⚡️")
+      - send: jisjo
+        assert: eq(cand[1].text, "纪")
+      - send: ubbs
+        assert: eq(cand[1].text, "瘦")
+      - send: dmbd
+        assert: eq(cand[1].text, "癫")
+      - send: vidt
+        assert: eq(cand[1].text, "治")
+      - send: lnyl
+        assert: eq(cand[1].text, "霖")
+      - send: hodd
+        assert: eq(cand[1].text, "火")
+      - send: N2000
+        assert: eq(cand[1].text, "2000年01月01日")
+      - send: U8888
+        assert: eq(cand[1].text, '袈')
+      - send: S114514
+        assert: eq(cand[1].text, '十一万四千五百一十四')
+      - send: olfuvuv
+        assert: eq(cand[1].text, '冰') and eq(cand[1].comment, 'by[du] ny[du]')
+  std_s2t:
+    options:
+      std_s2t: true
+    tests:
+      - send: ai
+        assert: eq(cand[1].text, "愛")
+  std_s2tw:
+    options:
+      std_s2tw: true
+    tests:
+      - send: ve
+        assert: eq(cand[1].text, "著")
+      - send: w2
+        assert: eq(commit, "為")
+  std_s2dzing:
+    options:
+      std_s2dzing: true
+    tests:
+      - send: qtu
+        assert: eq(cand[1].text, '塙')
+
+
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rimeinn/mira/refs/heads/master/spec/mira.schema.json

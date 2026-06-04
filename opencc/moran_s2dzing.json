@@ -1,0 +1,33 @@
+{
+  "name": "Simplified Chinese to Dzing Variants",
+  "segmentation": {
+    "type": "mmseg",
+    "dict": {
+      "type": "ocd2",
+      "file": "STPhrases.ocd2"
+    }
+  },
+  "conversion_chain": [
+    {
+      "dict": {
+        "type": "group",
+        "dicts": [
+          {
+            "type": "ocd2",
+            "file": "STPhrases.ocd2"
+          },
+          {
+            "type": "ocd2",
+            "file": "STCharacters.ocd2"
+          }
+        ]
+      }
+    },
+    {
+      "dict": {
+        "type": "ocd2",
+        "file": "moran_dzing_variants.ocd2"
+      }
+    }
+  ]
+}

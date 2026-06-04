@@ -43,12 +43,39 @@ deploy:
       - send: olfuvuv
         assert: eq(cand[1].text, '冰') and eq(cand[1].comment, 'by[du] ny[du]')
 
-  opencc:
+  std_t2s:
     options:
-      simplification: true
+      std_t2s: true
     tests:
       - send: ai
         assert: eq(cand[1].text, "爱")
+  std_t2tw:
+    options:
+      std_t2tw: true
+    tests:
+      - send: 'w2'
+        assert: eq(commit, '為')
+  std_t2dzing:
+    options:
+      std_t2dzing: true
+    tests:
+      - send: 'qtu'
+        assert: eq(cand[1].text, '塙')
+  std_switcher:
+    patch:
+      switches/@4/+:
+        options: [std_t2tw, std_t2s, std_t2hk]
+        states: [台, 简, 港]
+        reset: 0
+    tests:
+      - send: 'w2'
+        assert: eq(commit, '為')
+      - send: 'w{Control+s}2'
+        assert: eq(commit, '为')
+      - send: 'w{Control+s}{Control+s}2'
+        assert: eq(commit, '為')
+      - send: 'w{Control+s}{Control+s}{Control+s}2'
+        assert: eq(commit, '为')
 
   emoji:
     options:
@@ -251,5 +278,30 @@ deploy:
         assert: eq(cand[1].text, 'u')
       - send: 'ArchL'
         assert: eq(cand[1].text, 'Arch Linux')
+
+  shorthands:
+    patch:
+      moran/shorthands: true
+    tests:
+      - send: 'pk{Shift+V}'
+        assert: eq(commit, '跑着跑着')
+      - send: 'fz{Shift+Q}'
+        assert: eq(commit, '飛來飛去')
+  shorthands_simp:
+    patch:
+      moran/shorthands: true
+    options:
+      std_t2s: true
+    tests:
+      - send: 'fz{Shift+Q}'
+        assert: eq(commit, '飞来飞去')
+  shorthands_tw:
+    patch:
+      moran/shorthands: true
+    options:
+      std_t2tw: true
+    tests:
+      - send: 'pk{Shift+V}'
+        assert: eq(commit, '跑著跑著')
 
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rimeinn/mira/refs/heads/master/spec/mira.schema.json

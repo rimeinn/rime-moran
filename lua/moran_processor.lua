@@ -2,15 +2,17 @@
 -- Synopsis: 適用於魔然方案默認模式的按鍵處理器
 -- Author: ksqsf
 -- License: MIT license
--- Version: 0.5.1
+-- Version: 0.6.0
 
 -- 主要功能：
 -- 1. 選擇第二個首選項，但可用於跳過 emoji 濾鏡產生的候選
 -- 2. 快速切換強制切分
 -- 3. 快速取出/放回被吞掉的輔助碼
 -- 4. shorthand 略碼
+-- 4. Ctrl-S 在兩個字集間快速切換
 
 -- ChangeLog:
+--  0.6.0: 增加 Ctrl-S
 --  0.5.1: 優化快捷鍵 consume 邏輯
 --  0.5.0: 重構強制切分，增加 4單字-2 => 3-3 規則
 --  0.4.4: 允許 Ctrl+L 拆開四碼
@@ -31,12 +33,11 @@ local kNoop = 2
 local kConsumingNoop = 3  -- 只要有候選窗，就不應該把快捷鍵傳遞給下層程序
 
 local function semicolon_processor(key_event, env)
-    local context = env.engine.context
-
     if key_event.keycode ~= 0x3B then
         return kNoop
     end
 
+    local context = env.engine.context
     local composition = context.composition
     if composition:empty() then
         return kNoop
@@ -222,14 +223,14 @@ local shorthands = {
         return s .. "一" .. s
     end,
     [string.byte("V")] = function(env, s)
-        if not env.engine.context:get_option("std_tw") then
-            return s .. "着" .. s .. "着"
-        else
+        if env.engine.context:get_option("std_t2tw") or env.engine.context:get_option("std_s2tw") then
             return s .. "著" .. s .. "著"
+        else
+            return s .. "着" .. s .. "着"
         end
     end,
     [string.byte("Q")] = function(env, s)
-        if (env.engine.context:get_option("simplification") == true) then
+        if env.engine.context:get_option("std_s") or env.engine.context:get_option("std_t2s") then
             return s .. "来" .. s .. "去"
         else
             return s .. "來" .. s .. "去"
@@ -256,17 +257,75 @@ local function shorthand_processor(key_event, env)
     return kAccepted
 end
 
+local function variant_toggle_processor(key_event, env)
+    if not (key_event:ctrl() and key_event.keycode == 0x73) then
+        return kNoop
+    end
+    local ctx = env.engine.context
+    if ctx.composition:empty() then  -- 無候選窗時不響應 Ctrl-S
+        return kNoop
+    end
+
+    local v1 = env.variants[1]
+    local v2 = env.variants[2]
+    if ctx:get_option(v1) then
+        ctx:set_option(v1, false)
+        ctx:set_option(v2, true)
+    elseif ctx:get_option(v2) then
+        ctx:set_option(v2, false)
+        ctx:set_option(v1, true)
+    else
+        -- 都不是時也跳回 v1
+        ctx:set_option(v2, false)
+        ctx:set_option(v1, true)
+    end
+
+    return kAccepted
+end
+
 return {
     init = function(env)
         env.processors = {
             semicolon_processor,
             force_segmentation_processor,
             steal_auxcode_processor,
+            variant_toggle_processor,
         }
 
-        if env.engine.schema.config:get_bool("moran/shorthands") then
+        local cfg = env.engine.schema.config
+        if cfg:get_bool("moran/shorthands") then
             table.insert(env.processors, shorthand_processor)
         end
+
+        -- 用戶啓用的字集
+        local switches = cfg:get_list("switches")
+        if switches then
+            for i = 0, switches.size - 1 do
+                local switch = switches:get_at(i)
+                local switch_map = switch and switch:get_map()
+                local options = switch_map and switch_map:get("options")
+                local variants = options and options:get_list()
+                if variants
+                    and variants.size >= 2
+                    and variants:get_at(0).type == "kScalar"
+                    and variants:get_at(0):get_value():get_string():match("^std_")
+                    and variants:get_at(1).type == "kScalar"
+                    and variants:get_at(1):get_value():get_string():match("^std_")
+                then
+                    env.variants = {
+                        variants:get_at(0):get_value():get_string(),
+                        variants:get_at(1):get_value():get_string(),
+                    }
+                    break
+                end
+            end
+        end
+        if not env.variants then
+            log.error('moran_processor: switches 中未找到字形變體列表, 如 "std_t2s"! 回落至默認值 [std_t, std_t2s]')
+            env.variants = { "std_t", "std_t2s" }
+        end
+        -- print('v1 = ' .. env.variants[1])
+        -- print('v2 = ' .. env.variants[2])
     end,
 
     fini = function(env)
