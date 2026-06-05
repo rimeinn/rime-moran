@@ -2,7 +2,7 @@
 -- Synopsis: 適用於魔然方案默認模式的按鍵處理器
 -- Author: ksqsf
 -- License: MIT license
--- Version: 0.6.0
+-- Version: 0.6.1
 
 -- 主要功能：
 -- 1. 選擇第二個首選項，但可用於跳過 emoji 濾鏡產生的候選
@@ -12,6 +12,7 @@
 -- 4. Ctrl-S 在兩個字集間快速切換
 
 -- ChangeLog:
+--  0.6.1: 優化 Ctrl-S 在無 reset 時的行爲
 --  0.6.0: 增加 Ctrl-S
 --  0.5.1: 優化快捷鍵 consume 邏輯
 --  0.5.0: 重構強制切分，增加 4單字-2 => 3-3 規則
@@ -274,10 +275,14 @@ local function variant_toggle_processor(key_event, env)
     elseif ctx:get_option(v2) then
         ctx:set_option(v2, false)
         ctx:set_option(v1, true)
-    else
-        -- 都不是時也跳回 v1
-        ctx:set_option(v2, false)
-        ctx:set_option(v1, true)
+    elseif moran.all(
+        env.variants,
+        function(v) return ctx:get_option(v) == false end
+    ) then
+        -- 所有選項都爲 false，這意味着用戶未設 reset，亦未手動選擇 option。
+        -- 默認安裝中，首選項是 zh_t 或 zh_s（無 opencc），故選擇第二選項。
+        ctx:set_option(v2, true)
+        ctx:set_option(v1, false)
     end
 
     return kAccepted
@@ -312,10 +317,10 @@ return {
                     and variants:get_at(1).type == "kScalar"
                     and variants:get_at(1):get_value():get_string():match("^std_")
                 then
-                    env.variants = {
-                        variants:get_at(0):get_value():get_string(),
-                        variants:get_at(1):get_value():get_string(),
-                    }
+                    env.variants = {}
+                    for j = 0, variants.size do
+                        table.insert(env.variants, variants:get_at(j):get_value():get_string())
+                    end
                     break
                 end
             end
