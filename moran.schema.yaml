@@ -34,7 +34,7 @@ switches:
     # 快捷鍵 Ctrl-S 會在前兩個字集之間切換, 由 moran_processor.lua 實現.
     # 若經常切換簡繁且偏好特定繁體標準, 可自行修改字集列表順序, 例如
     # patch:
-    #   switches/@2/+:
+    #   switches/@4/+:
     #     options: [ std_t2tw, std_t2hk  ]   # 用不到的其他字集也可以刪掉
     #     states: [ 台, 港 ]                 # 與 options 匹配
     #     reset: 0                           # 設定默認值爲 *第一項* (從 0 開始計數)

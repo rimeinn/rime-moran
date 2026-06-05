@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260601"
+version: "20260606"
 sort: by_weight
 columns:
   - text
@@ -112686,7 +112686,7 @@ WiFi	wifi
 子曰	ziyt
 鯔	ziyt
 自成一體	ziyt
-自愈	ziyu
+自癒	ziyu
 自娛	ziyu
 造成影響	ziyx
 自營	ziyy
