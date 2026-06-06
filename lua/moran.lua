@@ -458,6 +458,24 @@ function Module.Thunk(functor)
     end
 end
 
+function Module.all(list, pred)
+    for _, v in pairs(list) do
+        if not pred(v) then
+            return false
+        end
+    end
+    return true
+end
+
+function Module.any(list, pred)
+    for _, v in pairs(list) do
+        if pred(v) then
+            return true
+        end
+    end
+    return false
+end
+
 return Module
 
 -- Local Variables:
