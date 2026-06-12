@@ -133,9 +133,9 @@ jobs:
       - name: Test ${{ matrix.schema }}
         run: |
           "./mira-rime${{ matrix.librime }}-lua${{ matrix.lua_version }}" -C cache tests/${{ matrix.schema }}.test.yaml
-      - name: Setup tmate session
-        if: ${{ failure() }}
-        uses: mxschmitt/action-tmate@v3
+      # - name: Setup tmate session
+      #   if: ${{ failure() }}
+      #   uses: mxschmitt/action-tmate@v3
 
   dict-qa:
     runs-on: ubuntu-24.04
