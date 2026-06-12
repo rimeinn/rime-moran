@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20260601"
+version: "20260610"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -24622,6 +24622,7 @@ A股	10	A gu;ou
 H股	10	H gu;ou
 K线	10	K xm;sq
 K线图	10	K xm;sq tu;kh
+大V	10	da;ad V
 
 # 整句可用的无理码
 几	1	jo;yd

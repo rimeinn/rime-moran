@@ -55,9 +55,9 @@ switches:
 engine:
   processors:
     - key_binder
+    - ascii_composer
     - lua_processor@*moran_pin*pin_processor
     - lua_processor@*moran_processor
-    - ascii_composer
     - recognizer
     - speller
     - punctuator
