@@ -44,6 +44,12 @@ deploy:
         assert: eq(cand[1].text, '十一万四千五百一十四')
       - send: olfuvuv
         assert: eq(cand[1].text, '冰') and eq(cand[1].comment, 'by[du] ny[du]')
+      - send: yuviyy
+        assert: eq(cand[1].text, '於之莹')
+      - send: yursgd
+        assert: eq(cand[1].text, '於荣光')
+      - send: yuyyjx
+        assert: eq(cand[1].text, '於英杰')
   std_s2t:
     options:
       std_s2t: true
