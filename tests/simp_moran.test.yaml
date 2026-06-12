@@ -17,7 +17,7 @@ deploy:
       - send: le
         assert: eq(cand[1].text, "乐") and eq(cand[1].comment, "⚡️")
       - send: lem
-        assert: eq(cand[1].text, "楽") and eq(cand[1].comment, "⚡️")
+        assert: eq(cand[1].text, "楽") and eq(cand[1].comment, "")
       - send: lemd
         assert: eq(cand[1].text, "楽") and eq(cand[1].comment, "")
       - send: hello
