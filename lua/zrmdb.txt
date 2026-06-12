@@ -13176,7 +13176,7 @@
 栛	ml mx
 栜	mc
 栝	mu
-栞	mj
+栞	mg mj mk
 栟	mb
 栠	mr
 校	mj
