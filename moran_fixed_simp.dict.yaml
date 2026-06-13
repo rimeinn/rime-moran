@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260620"
+version: "20260626"
 sort: original
 columns:
   - text
@@ -2828,6 +2828,7 @@ AVL树	avlu
 不出差错	biic
 鼻翅	biii
 保持沉默	biim
+避重	biis
 保持传统	biit
 壁橱	biiu
 笔触	biiu
@@ -20708,6 +20709,7 @@ F盘	fpj
 伽马	gama
 公安民警	gamj
 尕	gan
+戛纳	gana
 高矮胖瘦	gapu
 各安其业	gaqy
 伽	gar
@@ -53312,6 +53314,7 @@ JK制服	jkvf
 绵绵瓜瓞	mmgd
 盲目跟风	mmgf
 猫猫狗狗	mmgg
+密码管理器	mmgq
 面馆	mmgr
 免冠	mmgr
 蒙面歌王	mmgw
@@ -93351,7 +93354,7 @@ U盘	upj
 文字改革	wzgg
 桅杆	wzgj
 位高	wzgk
-物资管理	wzgl
+微改	wzgl
 为国	wzgo
 卫国	wzgo
 围观	wzgr
@@ -112683,6 +112686,7 @@ U盘	upj
 伟哥	wkge
 桅杆	wkgj
 位高	wkgk
+微改	wkgl
 为国	wkgo
 卫国	wkgo
 围观	wkgr
@@ -114753,6 +114757,7 @@ Excel	eks
 服务部	fwb
 方位词	fwc
 服务端	fwd
+氛围感	fwg
 俯卧撑	fwi
 蜂王浆	fwj
 蜂窝煤	fwm
