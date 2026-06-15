@@ -318,8 +318,11 @@ return {
                     and variants:get_at(1):get_value():get_string():match("^std_")
                 then
                     env.variants = {}
-                    for j = 0, variants.size do
-                        table.insert(env.variants, variants:get_at(j):get_value():get_string())
+                    for j = 0, variants.size - 1 do
+                        local variant = variants:get_at(j)
+                        if variant and variant.type == "kScalar" then
+                            table.insert(env.variants, variant:get_value():get_string())
+                        end
                     end
                     break
                 end
