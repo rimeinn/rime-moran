@@ -50,6 +50,18 @@ deploy:
         assert: eq(cand[1].text, '於荣光')
       - send: yuyyjx
         assert: eq(cand[1].text, '於英杰')
+      - send: byz
+        assert: eq(cand[1].text, '迸')
+      - send: mid
+        assert: eq(cand[1].text, '泌')
+      - send: pkp
+        assert: eq(cand[1].text, '扑克牌')
+      - send: fxyx
+        assert: eq(cand[1].text, '分析一下')
+      - send: qqyy
+        assert: eq(cand[1].text, 'QQ音乐')
+      - send: nxmx
+        assert: eq(cand[1].text, '蘖')
   std_s2t:
     options:
       std_s2t: true

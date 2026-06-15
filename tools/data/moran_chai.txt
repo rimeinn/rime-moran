@@ -9040,7 +9040,7 @@
 呥	kr	口冉	
 呦	ky	口幼	
 呧	kd	口氐	
-周	kj	口几	
+周	kt	口土
 周	kk	冂口	
 呩	ku	口示	
 呪	kx	口兄	
@@ -11931,7 +11931,7 @@
 巇	ug	山戈	
 巇	ux	山戲	
 巈	uj	山鞠	
-巉	ui	石毚	
+巉	ui	山毚
 巉	ut	山兔	
 巊	uy	山嬰	
 巋	ug	山歸	
@@ -17829,8 +17829,8 @@
 瀸	dx	氵韱	
 瀹	dc	氵冊	
 瀹	dy	氵龠	
-瀺	dt	氵兔	
 瀺	di	氵毚	
+瀺	dt	氵兔
 瀻	dd	氵戴	
 瀼	dx	氵襄	
 瀽	dj	氵蹇	
@@ -68827,7 +68827,7 @@
 𨪱	jv	金正	auto
 𨪱	vj	正金	auto
 𨪲	jt	金田	auto
-𨪳	jd	金大	auto
+𨪳	jh	金火	auto
 𨪴	jo	金日	auto
 𨪵	jj	金句	auto
 𨪶	jy	金晏	auto
@@ -92322,7 +92322,7 @@
 𰧨	um	石木	auto
 𰧩	uh	石赫	auto
 𰧪	ub	石貝	auto
-𰧫	ut	石兔	auto
+𰧫	ui	石毚	auto
 𰧭	uu	示士	auto
 𰧮	uq	示丌	auto
 𰧯	us	示厶	auto
