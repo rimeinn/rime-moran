@@ -1225,6 +1225,26 @@ local function chinese_weekday2(wday)
   return chinese_weekdays[wday_num]
 end
 
+local function iso_week_number(time)
+  local date = os.date("*t", time or os.time())
+  date.hour, date.min, date.sec = 12, 0, 0
+
+  local day_time = os.time(date)
+  local weekday = tonumber(os.date("%w", day_time))
+  if weekday == 0 then weekday = 7 end
+
+  local thursday_time = os.time({
+    year = date.year,
+    month = date.month,
+    day = date.day + 4 - weekday,
+    hour = 12,
+    min = 0,
+    sec = 0,
+  })
+  local thursday_yday = tonumber(os.date("%j", thursday_time))
+  return tostring(math.floor((thursday_yday - 1) / 7) + 1)
+end
+
 local function time_to_num(time)
   pattern = "(%d+):(%d+) +([AP]M)"
   if string.match(time, pattern) ~= nil then
@@ -1911,7 +1931,7 @@ local function translator(input, seg)
     -- 星期几 周几
   elseif (input == "oweek" or input == "oxq") then
     weekday = chinese_weekday(os.date("%w"))
-    num_weekday = os.date("第%W週")
+    num_weekday = "第" .. iso_week_number() .. "週"
     candidate = Candidate("xq", seg.start, seg._end, weekday, num_weekday)
     yield(candidate)
 
@@ -1927,7 +1947,7 @@ local function translator(input, seg)
     candidate = Candidate("xq", seg.start, seg._end, weekday, num_weekday)
     yield(candidate)
   elseif (input == "oww" or input == "ovu") then
-     weekno = tostring(tonumber(os.date("%W")) + 1)
+     weekno = iso_week_number()
      candidate = Candidate("oww", seg.start, seg._end, "W" .. weekno, "週")
      yield(candidate)
      candidate = Candidate("oww", seg.start, seg._end, "第" .. weekno .. "週", "週")
