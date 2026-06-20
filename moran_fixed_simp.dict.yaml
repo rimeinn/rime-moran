@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260601"
+version: "20260620"
 sort: original
 columns:
   - text
@@ -1028,6 +1028,7 @@ AVL树	avlu
 安危相易	awxy
 安危与共	awyg
 安慰一下	awyx
+安心	ax
 ❤️	ax
 ♡	ax
 ❤	ax
@@ -16092,6 +16093,7 @@ D盘	dpj
 二次世界大战	ecuv
 二寸照片	ecvp
 二次污染	ecwr
+耳朵	ed
 额度	ed
 2D	ed
 儿大不由娘	edbn
@@ -58918,6 +58920,7 @@ JK制服	jkvf
 偶像崇拜	oxib
 呕心沥血	oxlx
 偶像天团	oxtt
+偶遇	oy
 欧亚大陆	oydl
 哦呀斯密	oysm
 呕哑嘲哳	oyvv
@@ -64124,7 +64127,6 @@ P站	pvj
 秋菜	qqcl
 萩	qqcq
 区区此心	qqcx
-青青草原	qqcy
 泅	qqd
 全权代表	qqdb
 敲敲打打	qqdd
@@ -81311,6 +81313,7 @@ U盘	upj
 生死不渝	usby
 生死边缘	usby
 生死存亡	uscw
+事实错误	uscw
 瘦死的骆驼比马大	usdd
 生死对决	usdj
 世俗的偏见	usdj
@@ -81555,6 +81558,7 @@ U盘	upj
 世事沧桑	uucs
 薯	uucu
 菽	uucu
+事实错误	uucw
 殊	uud
 束手待毙	uudb
 输掉	uudc
@@ -114719,6 +114723,7 @@ Excel	eks
 发展观	fvg
 法制化	fvh
 纺织厂	fvi
+反直觉	fvj
 纺织机	fvj
 风疹块	fvk
 非主流	fvl
@@ -114774,6 +114779,7 @@ Excel	eks
 负心人	fxr
 法西斯	fxs
 芳香烃	fxt
+分析师	fxu
 烦心事	fxu
 法新社	fxu
 副县长	fxv
@@ -119906,6 +119912,7 @@ WPS	wps
 完全体	wqt
 为前提	wqt
 文曲星	wqx
+无人岛	wrd
 Word	wrd
 无人车	wri
 无人机	wrj
