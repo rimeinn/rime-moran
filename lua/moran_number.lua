@@ -2,7 +2,7 @@
 --
 -- Author: ksqsf
 -- License: GPLv3
--- Version: 0.1.1
+-- Version: 0.1.2
 --
 -- You may copy, distribute and modify the software as long as you track
 -- changes/dates in source files. Any modifications to or software including
@@ -10,6 +10,7 @@
 -- along with build & install instructions.
 --
 -- ChangeLog:
+-- 0.1.2: 增加「半角」和「全角」。
 -- 0.1.1: 把「小写」改为日常一般读法。
 -- 0.1: Introduction.
 
@@ -17,6 +18,8 @@ local dot              = "点"
 local digitRegular     = { [0] = "零", "一", "二", "三", "四", "五", "六", "七", "八", "九" }
 local digitLower       = { [0] = "〇", "一", "二", "三", "四", "五", "六", "七", "八", "九" }
 local digitUpper       = { [0] = "零", "壹", "贰", "叁", "肆", "伍", "陆", "柒", "捌", "玖" }
+local digitHalfWidth   = { [0] = "0", "1", "2", "3", "4", "5", "6", "7", "8", "9" }
+local digitFullWidth   = { [0] = "０", "１", "２", "３", "４", "５", "６", "７", "８", "９" }
 local unitLower        = { "", "十", "百", "千" }
 local unitUpper        = { "", "拾", "佰", "仟" }
 local bigUnit          = { "万", "亿" }
@@ -139,6 +142,16 @@ local function translateLower(input)
         .. (input.dot ~= "" and (dot .. mapDigits(input.frac, digitLower)) or "")
 end
 
+local function translateHalfWidth(input)
+    return mapDigits(input.int, digitHalfWidth)
+        .. (input.dot ~= "" and ("." .. mapDigits(input.frac, digitHalfWidth)) or "")
+end
+
+local function translateFullWidth(input)
+    return mapDigits(input.int, digitFullWidth)
+        .. (input.dot ~= "" and ("．" .. mapDigits(input.frac, digitFullWidth)) or "")
+end
+
 -- 金额转换
 local function translateCurrency(input, digit, unit, bigUnit)
     local intPart = translateInt(input.int, digit, unit, bigUnit)
@@ -154,6 +167,8 @@ local function translateNumStr(str)
         { "〔大写〕", translateUpper(input) },
         { "〔金额大写〕", translateCurrency(input, digitUpper, unitUpper, bigUnit) },
         { "〔金额小写〕", translateCurrency(input, digitLower, unitLower, bigUnit) },
+        { "〔半角〕", translateHalfWidth(input) },
+        { "〔全角〕", translateFullWidth(input) },
     }
     return result
 end
