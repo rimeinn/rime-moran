@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260606"
+version: "20260620"
 sort: by_weight
 columns:
   - text
@@ -1066,6 +1066,7 @@ AVL樹	avlu
 安危相易	awxy
 安危與共	awyg
 安慰一下	awyx
+安心	ax
 ❤️	ax
 ♡	ax
 ❤	ax
@@ -16595,6 +16596,7 @@ D盤	dpj
 二次世界大戰	ecuv
 二寸照片	ecvp
 二次污染	ecwr
+耳朵	ed
 額度	ed
 2D	ed
 兒大不由娘	edbn
@@ -57411,10 +57413,11 @@ JK制服	jkvf
 那般	nabj
 那邊	nabm
 哪邊	nabm
-蒘	nac
+哪次	nac
 那次	naci
 哪次	naci
 納彩	nacl
+蒘	nacu
 納粹	nacv
 拿掉	nadc
 鈉燈	nadg
@@ -60652,6 +60655,7 @@ JK制服	jkvf
 偶像崇拜	oxib
 嘔心瀝血	oxlx
 偶像天團	oxtt
+偶遇	oy
 歐亞大陸	oydl
 哦呀斯密	oysm
 嘔啞嘲哳	oyvv
@@ -65987,7 +65991,6 @@ P站	pvj
 萩	qqcq
 莍	qqcq
 區區此心	qqcx
-青青草原	qqcy
 泅	qqd
 全權代表	qqdb
 敲敲打打	qqdd
@@ -83589,6 +83592,7 @@ U盤	upj
 生死不渝	usby
 生死邊緣	usby
 生死存亡	uscw
+事實錯誤	uscw
 瘦死的駱駝比馬大	usdd
 生死對決	usdj
 世俗的偏見	usdj
@@ -83834,6 +83838,7 @@ U盤	upj
 世事滄桑	uucs
 薯	uucu
 菽	uucu
+事實錯誤	uucw
 殊	uud
 束手待斃	uudb
 輸掉	uudc
@@ -118100,6 +118105,7 @@ Excel	eks
 發展觀	fvg
 法制化	fvh
 紡織廠	fvi
+反直覺	fvj
 紡織機	fvj
 風疹塊	fvk
 非主流	fvl
@@ -118155,6 +118161,7 @@ Excel	eks
 負心人	fxr
 法西斯	fxs
 芳香烴	fxt
+分析師	fxu
 煩心事	fxu
 法新社	fxu
 副縣長	fxv
@@ -123285,6 +123292,7 @@ WPS	wps
 完全體	wqt
 爲前提	wqt
 文曲星	wqx
+無人島	wrd
 Word	wrd
 無人車	wri
 無人機	wrj
