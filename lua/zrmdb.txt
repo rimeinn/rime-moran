@@ -8130,7 +8130,7 @@
 呥	kr
 呦	ky
 呧	kd
-周	kj kk
+周	kt kk
 呩	ku
 呪	kx
 呫	kv
@@ -15252,7 +15252,7 @@
 瀷	dy
 瀸	dg dx
 瀹	dc dy
-瀺	dt di
+瀺	di dt
 瀻	dd
 瀼	dx
 瀽	dj dz
@@ -57479,7 +57479,7 @@
 𨪰	ja
 𨪱	jv vj
 𨪲	jt
-𨪳	jd
+𨪳	jh
 𨪴	jo
 𨪵	jj
 𨪶	jy
@@ -77166,7 +77166,7 @@
 𰧨	um
 𰧩	uh
 𰧪	ub
-𰧫	ut
+𰧫	ui ut
 𰧭	uu
 𰧮	uq
 𰧯	us
