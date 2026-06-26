@@ -2,6 +2,7 @@
 # Generated artifacts #
 #######################
 moran.chars.dict.yaml
+zrlf.dict.yaml
 opencc/*.ocd2
 opencc/moran_chaifen.txt
 lua/zrmdb.txt
@@ -33,4 +34,3 @@ __pycache__/
 **/.DS_Store
 build/
 trash/
-zrlf.dict.yaml
