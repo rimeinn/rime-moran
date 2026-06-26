@@ -1,6 +1,6 @@
 DESTDIR ?= $(abspath ./dist)
 
-quick: chars zrmdb chaifen opencc
+quick: chars zrmdb chaifen opencc zrlf
 dict: update-compact-dicts
 all: quick dict
 
@@ -9,11 +9,14 @@ all: quick dict
 ############
 chars_output := moran.chars.dict.yaml opencc/moran_chaifen.txt lua/zrmdb.txt
 chars: moran.chars.dict.yaml
+zrlf: zrlf.dict.yaml
 zrmdb: lua/zrmdb.txt
 chaifen: opencc/moran_chaifen.txt
 
 moran.chars.dict.yaml: tools/data/chars.txt tools/data/moran_chai.txt tools/gen_chars.py
 	uv run tools/gen_chars.py > $@
+zrlf.dict.yaml: tools/data/zrlf.txt tools/data/chars.txt tools/data/moran_chai.txt tools/gen_zrlf.py
+	uv run tools/gen_zrlf.py > $@
 lua/zrmdb.txt: tools/data/moran_chai.txt tools/gen_zrmdb.py
 	uv run tools/gen_zrmdb.py > $@
 opencc/moran_chaifen.txt: tools/data/moran_chai.txt tools/gen_chaifen_filter.py
@@ -59,6 +62,7 @@ clean:
 	rm -f moran.mdd moran.mdx
 	rm -rf dist
 	rm -f $(chars_output)
+	rm -f zrlf.dict.yaml
 	rm -f dazhu*.txt
 	make -C opencc clean
 
@@ -93,4 +97,4 @@ test: dist
 	mira -C /tmp/mira-cache tests/moran_aux.test.yaml
 	rm -rf /tmp/mira-cache
 
-.PHONY: quick all dict chars zrmdb chaifen update-compact-dicts sync-essay dazhu opencc mdict dist test
+.PHONY: quick all dict chars zrlf zrmdb chaifen update-compact-dicts sync-essay dazhu opencc mdict dist test

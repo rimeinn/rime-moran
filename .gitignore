@@ -33,3 +33,4 @@ __pycache__/
 **/.DS_Store
 build/
 trash/
+zrlf.dict.yaml
