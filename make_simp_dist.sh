@@ -24,6 +24,7 @@ cd dist
 ########################################################################
 echo 更新单字字频...
 uv run tools/gen_chars.py --simplified > moran.chars.dict.yaml
+uv run tools/gen_zrlf.py --simplified > zrlf.dict.yaml
 
 ########################################################################
 # 替换辅助码

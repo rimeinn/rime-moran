@@ -1,20 +1,3 @@
-# Rime dictionary
-# encoding: utf-8
-
-# 本詞庫將原詞庫拼音轉換爲自然碼雙拼。
-# 轉換過程中殘留了有歧義的碼（以 !!! 標記）
-
----
-name: "zrlf"
-version: "20230830+5.0"
-sort: original
-use_preset_vocabulary: false
-columns:
-  - text
-  - code
-  - comment
-...
-
 一	hg
 丁	hgyi
 丂	hgyi
@@ -3750,8 +3733,8 @@ columns:
 岔	ffuj
 岕	ujjx
 岖	ujqu
-岗	ujgh	#!!!
-岗	uhah	#!!!
+岗	ujgh	!!!
+岗	uhah	!!!
 岘	ujjm
 岙	ykuj
 岚	ujfg
@@ -3784,8 +3767,8 @@ columns:
 岵	ujgu
 岶	ujbl
 岷	ujmn
-岸	ujgj	#!!!
-岸	uhan	#!!!
+岸	ujgj	!!!
+岸	uhan	!!!
 岹	ujvk
 岺	ujly
 岻	ujdi
@@ -3801,16 +3784,16 @@ columns:
 峅	ujbm
 峆	ujhe
 峇	ujhe
-峈	ujge	#!!!
-峈	uhee	#!!!
-峉	ujge	#!!!
-峉	uhee	#!!!
+峈	ujge	!!!
+峈	uhee	!!!
+峉	ujge	!!!
+峉	uhee	!!!
 峊	vvuj
 峋	ujxp
 峌	ujvi
 峍	ujyu
-峎	ujgf	#!!!
-峎	uhen	#!!!
+峎	ujgf	!!!
+峎	uhen	!!!
 峏	ujer
 峐	ujhl
 峑	ujqr
@@ -3818,11 +3801,11 @@ columns:
 峓	ujyi
 峔	ujlk
 峕	ujri
-峖	uanj	#!!!
-峖	ujan	#!!!
+峖	uanj	!!!
+峖	ujan	!!!
 峗	ujwz
-峘	ujgf	#!!!
-峘	uhen	#!!!
+峘	ujgf	!!!
+峘	uhen	!!!
 峙	ujsi
 峚	ujtu
 峛	ujlx
@@ -3856,11 +3839,11 @@ columns:
 峷	ujxn
 峸	ujig
 峹	yuuj
-峺	ujgg	#!!!
-峺	uheg	#!!!
+峺	ujgg	!!!
+峺	uheg	!!!
 峻	ujjp
-峼	ujgk	#!!!
-峼	uhao	#!!!
+峼	ujgk	!!!
+峼	uhao	!!!
 峽	ujjw
 峾	uvuj
 峿	ujwu
@@ -3887,8 +3870,8 @@ columns:
 崔	ujvv
 崕	ujya
 崖	ujya
-崗	ujgh	#!!!
-崗	uhah	#!!!
+崗	ujgh	!!!
+崗	uhah	!!!
 崘	ujlp
 崙	ujlp
 崚	ujly
@@ -3928,8 +3911,8 @@ columns:
 崼	ujui
 崽	ujsi
 崾	ujyk
-崿	uane	#!!!
-崿	ujee	#!!!
+崿	uane	!!!
+崿	ujee	!!!
 嵀	ujvu
 嵁	ujuf
 嵂	ujlv
@@ -3971,10 +3954,10 @@ columns:
 嵦	ujqi
 嵧	ujlq
 嵨	ujwu
-嵩	ujgk	#!!!
-嵩	uhao	#!!!
-嵪	ujgk	#!!!
-嵪	uhao	#!!!
+嵩	ujgk	!!!
+嵩	uhao	!!!
+嵪	ujgk	!!!
+嵪	uhao	!!!
 嵫	ujzi
 嵬	ujgv
 嵭	ujph
@@ -4045,8 +4028,8 @@ columns:
 嶮	ujqm
 嶯	ujji
 嶰	ujjx
-嶱	ujge	#!!!
-嶱	uhee	#!!!
+嶱	ujge	!!!
+嶱	uhee	!!!
 嶲	ujjr
 嶳	ujtu
 嶴	aouj
@@ -4061,8 +4044,8 @@ columns:
 嶽	ujyu
 嶾	ujji
 嶿	ujxu
-巀	ujge	#!!!
-巀	uhee	#!!!
+巀	ujge	!!!
+巀	uhee	!!!
 巁	ujli
 巂	cvjs
 巃	ujls
@@ -4074,8 +4057,8 @@ columns:
 巉	ujtu
 巊	ujyy
 巋	ujgv
-巌	ujgj	#!!!
-巌	uhan	#!!!
+巌	ujgj	!!!
+巌	uhan	!!!
 巍	ujwz
 巎	ujwf
 巏	ujgr
@@ -4244,8 +4227,8 @@ columns:
 干	eruu
 平	gjba
 年	wuhg
-幵	gjgj	#!!!
-幵	ghan	#!!!
+幵	gjgj	!!!
+幵	ghan	!!!
 并	bakl
 幷	pxgj
 幸	tugj
@@ -4338,8 +4321,8 @@ columns:
 廏	gduu
 廐	gdji
 廑	gdjn
-廒	grgk	#!!!
-廒	gdao	#!!!
+廒	grgk	!!!
+廒	gdao	!!!
 廓	gdgo
 廔	gdlb
 廕	gdyn
@@ -4521,8 +4504,8 @@ columns:
 待	rfsi
 徆	rfxi
 徇	rfxp
-很	rfgf	#!!!
-很	rgen	#!!!
+很	rfgf	!!!
+很	rgen	!!!
 徉	rfyh
 徊	rfhv
 律	rfyu
@@ -4597,8 +4580,8 @@ columns:
 忐	uhxn
 忑	xwxn
 忒	yixn
-忓	xngj	#!!!
-忓	xyan	#!!!
+忓	xngj	!!!
+忓	xyan	!!!
 忔	xnqi
 忕	xnda
 忖	xncp
@@ -4725,8 +4708,8 @@ columns:
 恏	hkxn
 恐	gsxn
 恑	xnwz
-恒	xngf	#!!!
-恒	xyen	#!!!
+恒	xngf	!!!
+恒	xyen	!!!
 恓	xnxi
 恔	xnjc
 恕	ruxn
@@ -4748,8 +4731,8 @@ columns:
 恥	erxn
 恦	xnxd
 恧	erxn
-恨	xngf	#!!!
-恨	xyen	#!!!
+恨	xngf	!!!
+恨	xyen	!!!
 恩	ynxn
 恪	xnge
 恫	xnts
@@ -4787,8 +4770,8 @@ columns:
 悋	xnln
 悌	xndi
 悍	xnhj
-悎	xngk	#!!!
-悎	xyao	#!!!
+悎	xngk	!!!
+悎	xyao	!!!
 悏	xnjw
 悐	dixn
 悑	xnfu
@@ -4907,8 +4890,8 @@ columns:
 愂	boxn
 愃	xnxr
 愄	xnwz
-愅	xnge	#!!!
-愅	xyee	#!!!
+愅	xnge	!!!
+愅	xyee	!!!
 愆	yjxn
 愇	xnwz
 愈	yuxn
@@ -4924,8 +4907,8 @@ columns:
 愒	xnhe
 愓	xnyh
 愔	xnyn
-愕	xine	#!!!
-愕	xnee	#!!!
+愕	xine	!!!
+愕	xnee	!!!
 愖	xnuf
 愗	mkxn
 愘	xnke
@@ -5000,8 +4983,8 @@ columns:
 慝	nixn
 慞	xnvh
 慟	xnds
-慠	xink	#!!!
-慠	xnao	#!!!
+慠	xink	!!!
+慠	xnao	!!!
 慡	xnud
 慢	xnmj
 慣	xngr
@@ -5095,8 +5078,8 @@ columns:
 憻	xndj
 憼	jyxn
 憽	xncs
-憾	xngj	#!!!
-憾	xyan	#!!!
+憾	xngj	!!!
+憾	xyan	!!!
 憿	xnjc
 懀	xnhv
 懁	xnhr
@@ -5108,8 +5091,8 @@ columns:
 懇	vixn
 懈	xnjx
 應	gdxn
-懊	xink	#!!!
-懊	xnao	#!!!
+懊	xink	!!!
+懊	xnao	!!!
 懋	mkxn
 懌	xnxy
 懍	xnhe
@@ -5118,8 +5101,8 @@ columns:
 懐	xnyi
 懑	mjxn
 懒	xnll
-懓	xinl	#!!!
-懓	xnai	#!!!
+懓	xinl	!!!
+懓	xnai	!!!
 懔	xnby
 懕	yjxn
 懖	jnxn
@@ -5185,12 +5168,12 @@ columns:
 戒	geck
 戓	gekb
 戔	gege
-戕	pjge	#!!!
-戕	phee	#!!!
+戕	pjge	!!!
+戕	phee	!!!
 或	gekb
 戗	chge
-战	vjge	#!!!
-战	vhee	#!!!
+战	vjge	!!!
+战	vhee	!!!
 戙	tsge
 戚	wuxc
 戛	hgge
@@ -5198,30 +5181,30 @@ columns:
 戝	bzge
 戞	hgge
 戟	voge
-戠	ynge	#!!!
-戠	yyee	#!!!
-戡	ufge	#!!!
-戡	ugee	#!!!
+戠	ynge	!!!
+戠	yyee	!!!
+戡	ufge	!!!
+戡	ugee	!!!
 戢	kbge
 戣	gvge
 戤	yyge
 戥	xyge
-戦	djge	#!!!
-戦	dhee	#!!!
+戦	djge	!!!
+戦	dhee	!!!
 戧	chge
 戨	gege
-戩	jnge	#!!!
-戩	jyee	#!!!
+戩	jnge	!!!
+戩	jyee	!!!
 截	zlvv
 戫	ybho
-戬	jnge	#!!!
-戬	jyee	#!!!
-戭	ynge	#!!!
-戭	yyee	#!!!
+戬	jnge	!!!
+戬	jyee	!!!
+戭	ynge	!!!
+戭	yyee	!!!
 戮	lqge
 戯	xuge
-戰	djge	#!!!
-戰	dhee	#!!!
+戰	djge	!!!
+戰	dhee	!!!
 戱	xuge
 戲	huge
 戳	dige
@@ -6276,8 +6259,8 @@ columns:
 晌	rixd
 晍	rits
 晎	rigs
-晏	rian	#!!!
-晏	rwen	#!!!
+晏	rian	!!!
+晏	rwen	!!!
 晐	rihl
 晑	rixd
 晒	rixi
@@ -6346,8 +6329,8 @@ columns:
 暑	rive
 暒	rixy
 暓	mkri
-暔	rinj	#!!!
-暔	rnan	#!!!
+暔	rinj	!!!
+暔	rnan	!!!
 暕	rijm
 暖	riyr
 暗	riyn
@@ -6607,8 +6590,8 @@ columns:
 枕	muyn
 枖	muyk
 林	mumu
-枘	munz	#!!!
-枘	mpei	#!!!
+枘	munz	!!!
+枘	mpei	!!!
 枙	muee
 枚	muwf
 枛	muvk
@@ -6785,8 +6768,8 @@ columns:
 框	mukd
 桇	rumu
 案	anmu
-桉	muan	#!!!
-桉	mwen	#!!!
+桉	muan	!!!
+桉	mwen	!!!
 桊	jrmu
 桋	muyi
 桌	bumu
@@ -6868,8 +6851,8 @@ columns:
 梘	mujm
 梙	muir
 梚	mumm
-梛	muna	#!!!
-梛	mpaa	#!!!
+梛	muna	!!!
+梛	mpaa	!!!
 梜	mujw
 條	rftc
 梞	muji
@@ -7066,8 +7049,8 @@ columns:
 楝	mujm
 楞	mufh
 楟	muty
-楠	munj	#!!!
-楠	mpan	#!!!
+楠	munj	!!!
+楠	mpan	!!!
 楡	muyu
 楢	muqq
 楣	mumz
@@ -7511,8 +7494,8 @@ columns:
 欙	mulz
 欚	muli
 欛	muba
-欜	munh	#!!!
-欜	mpah	#!!!
+欜	munh	!!!
+欜	mpah	!!!
 欝	ykjt
 欞	muly
 欟	mugr
@@ -7762,16 +7745,16 @@ columns:
 氓	whmn
 气	rfyi
 氕	qipx
-氖	qinl	#!!!
-氖	qnai	#!!!
+氖	qinl	!!!
+氖	qnai	!!!
 気	qiia
 氘	qiuu
 氙	qiuj
 氚	qiir
 氛	qiff
 氜	qiri
-氝	qinz	#!!!
-氝	qnei	#!!!
+氝	qinz	!!!
+氝	qnei	!!!
 氞	qiby
 氟	qifu
 氠	qiuf
@@ -7782,8 +7765,8 @@ columns:
 氥	qixi
 氦	qihl
 氧	qiyh
-氨	qian	#!!!
-氨	qwen	#!!!
+氨	qian	!!!
+氨	qwen	!!!
 氩	qiya
 氪	qike
 氫	qijy
@@ -9459,8 +9442,8 @@ columns:
 犱	qrwj
 犲	qrcl
 犳	qruk
-犴	qrgj	#!!!
-犴	qdan	#!!!
+犴	qrgj	!!!
+犴	qdan	!!!
 犵	qrqi
 状	pjqr
 犷	qrgd
@@ -9503,13 +9486,13 @@ columns:
 狜	qrgu
 狝	qrer
 狞	qrny
-狟	qrgf	#!!!
-狟	qden	#!!!
-狠	qrgf	#!!!
-狠	qden	#!!!
+狟	qrgf	!!!
+狟	qden	!!!
+狠	qrgf	!!!
+狠	qden	!!!
 狡	qrjc
-狢	qrge	#!!!
-狢	qdee	#!!!
+狢	qrge	!!!
+狢	qdee	!!!
 狣	qrvk
 狤	qrji
 狥	qrxp
@@ -9622,8 +9605,8 @@ columns:
 獐	qrvh
 獑	qrvj
 獒	aoqr
-獓	qwnk	#!!!
-獓	qrao	#!!!
+獓	qwnk	!!!
+獓	qrao	!!!
 獔	qrui
 獕	qrcv
 獖	qrbf
@@ -9642,8 +9625,8 @@ columns:
 獣	ubqr
 獤	qrdp
 獥	qrjc
-獦	qrge	#!!!
-獦	qdee	#!!!
+獦	qrge	!!!
+獦	qdee	!!!
 獧	qrhr
 獨	qruu
 獩	qrsv
@@ -9916,8 +9899,8 @@ columns:
 瑴	kewh
 瑵	whzk
 瑶	whyk
-瑷	wjgl	#!!!
-瑷	whai	#!!!
+瑷	wjgl	!!!
+瑷	whai	!!!
 瑸	whbn
 瑹	whtu
 瑺	whih
@@ -9934,8 +9917,8 @@ columns:
 璅	whik
 璆	whlq
 璇	whxr
-璈	wjgk	#!!!
-璈	whao	#!!!
+璈	wjgk	!!!
+璈	whao	!!!
 璉	whlm
 璊	whmj
 璋	whvh
@@ -9965,8 +9948,8 @@ columns:
 璣	whji
 璤	whhv
 璥	whjy
-璦	wjgl	#!!!
-璦	whai	#!!!
+璦	wjgl	!!!
+璦	whai	!!!
 璧	biyu
 璨	whcj
 璩	whju
@@ -10157,11 +10140,11 @@ columns:
 畢	jwer
 畣	hetm
 畤	tmsi
-略	tmge	#!!!
-略	tdee	#!!!
+略	tmge	!!!
+略	tdee	!!!
 畦	tmgv
-畧	tmge	#!!!
-畧	tdee	#!!!
+畧	tmge	!!!
+畧	tdee	!!!
 畨	mitm
 畩	tmyi
 番	bmtm
@@ -10312,8 +10295,8 @@ columns:
 痻	byhp
 痼	bygu
 痽	byvv
-痾	bnga	#!!!
-痾	byaa	#!!!
+痾	bnga	!!!
+痾	byaa	!!!
 痿	bywz
 瘀	byyu
 瘁	byzu
@@ -10390,8 +10373,8 @@ columns:
 癈	byfa
 癉	bydj
 癊	byyn
-癋	bnge	#!!!
-癋	byee	#!!!
+癋	bnge	!!!
+癋	byee	!!!
 癌	byuj
 癍	bybj
 癎	byjm
@@ -10948,8 +10931,8 @@ columns:
 硵	uilu
 硶	uijn
 硷	uiqm
-硸	uian	#!!!
-硸	uwen	#!!!
+硸	uian	!!!
+硸	uwen	!!!
 硹	uiss
 硺	uiui
 硻	ifui
@@ -11146,8 +11129,8 @@ columns:
 示	erxc
 礻	dmdm
 礼	uiyi
-礽	uinl	#!!!
-礽	unai	#!!!
+礽	uinl	!!!
+礽	unai	!!!
 社	uitu
 礿	uiuk
 祀	uisi
@@ -11278,8 +11261,8 @@ columns:
 禽	rfli
 禾	pxmu
 禿	heer
-秀	henl	#!!!
-秀	hfai	#!!!
+秀	henl	!!!
+秀	hfai	!!!
 私	hesi
 秂	herf
 秃	heji
@@ -11612,8 +11595,8 @@ columns:
 笊	vuvk
 笋	vuyn
 笌	vuya
-笍	vunz	#!!!
-笍	vpei	#!!!
+笍	vunz	!!!
+笍	vpei	!!!
 笎	vuyr
 笏	vuwu
 笐	vukh
@@ -12125,7 +12108,7 @@ columns:
 紊	wfsi
 紋	siwf
 紌	siyb
-納	sinz	#!!!
+納	sinz	!!!
 紎	siqr
 紏	sidb
 紐	siib
@@ -12547,7 +12530,7 @@ columns:
 纰	sibi
 纱	siuk
 纲	sigh
-纳	sinz	#!!!
+纳	sinz	!!!
 纴	sirf
 纵	sics
 纶	silp
@@ -12737,13 +12720,13 @@ columns:
 置	sivi
 罯	siyn
 罰	sidk
-罱	sinj	#!!!
+罱	sinj	!!!
 署	sive
 罳	sisi
 罴	baho
 罵	sima
 罶	silq
-罷	sing	#!!!
+罷	sing	!!!
 罸	sitk
 罹	siwz
 罺	siik
@@ -13245,8 +13228,8 @@ columns:
 腪	ytjp
 腫	ytvs
 腬	ytrb
-腭	yuee	#!!!
-腭	ytee	#!!!
+腭	yuee	!!!
+腭	ytee	!!!
 腮	ytsi
 腯	ytdp
 腰	ytyk
@@ -13504,11 +13487,11 @@ columns:
 艬	vbtu
 艭	vbud
 艮	xtuv
-良	dmgf	#!!!
-良	dden	#!!!
+良	dmgf	!!!
+良	dden	!!!
 艰	ybgf
-艱	jngf	#!!!
-艱	jyen	#!!!
+艱	jngf	!!!
+艱	jyen	!!!
 色	dkba
 艳	fgse
 艴	fuse
@@ -13597,8 +13580,8 @@ columns:
 苇	ckwz
 苈	ckli
 苉	ckpi
-苊	caoe	#!!!
-苊	ckee	#!!!
+苊	caoe	!!!
+苊	ckee	!!!
 苋	ckjm
 苌	ckih
 苍	ckch
@@ -13968,8 +13951,8 @@ columns:
 萹	ckbm
 萺	ckmk
 萻	ckyn
-萼	caoe	#!!!
-萼	ckee	#!!!
+萼	caoe	!!!
+萼	ckee	!!!
 落	cklo
 萾	ckyy
 萿	ckho
@@ -14422,8 +14405,8 @@ columns:
 藾	ckll
 藿	ckho
 蘀	ckze
-蘁	caoe	#!!!
-蘁	ckee	#!!!
+蘁	caoe	!!!
+蘁	ckee	!!!
 蘂	ckmu
 蘃	ckmu
 蘄	ckjn
@@ -14514,8 +14497,8 @@ columns:
 虙	hubi
 虚	huye
 虛	huye
-虜	hunj	#!!!
-虜	hpan	#!!!
+虜	hunj	!!!
+虜	hpan	!!!
 虝	huwu
 虞	huwu
 號	hkhu
@@ -15049,8 +15032,8 @@ columns:
 衯	yiff
 衰	yivs
 衱	yiji
-衲	yinz	#!!!
-衲	ynei	#!!!
+衲	yinz	!!!
+衲	ynei	!!!
 衳	yigs
 衴	yiyn
 衵	yiri
@@ -15230,8 +15213,8 @@ columns:
 褣	yirs
 褤	yiyr
 褥	yiru
-褦	ying	#!!!
-褦	yneg	#!!!
+褦	ying	!!!
+褦	yneg	!!!
 褧	ggyi
 褨	yiia
 褩	bjyi
@@ -15465,8 +15448,8 @@ columns:
 訍	yjia
 討	yjcp
 訏	yjyu
-訐	yjgj	#!!!
-訐	yhan	#!!!
+訐	yjgj	!!!
+訐	yhan	!!!
 訑	yjye
 訒	yjrf
 訓	yjir
@@ -15526,8 +15509,8 @@ columns:
 詉	yjnu
 詊	yjbj
 詋	yjxs
-詌	yjgj	#!!!
-詌	yhan	#!!!
+詌	yjgj	!!!
+詌	yhan	!!!
 詍	yjui
 詎	yjju
 詏	yjyb
@@ -15557,8 +15540,8 @@ columns:
 詧	ytyj
 詨	yjjc
 詩	yjsi
-詪	yjgf	#!!!
-詪	yhen	#!!!
+詪	yjgf	!!!
+詪	yhen	!!!
 詫	yjvl
 詬	yjhb
 詭	yjwz
@@ -15575,8 +15558,8 @@ columns:
 詸	yjmi
 詹	dkyj
 詺	yjmy
-詻	yjge	#!!!
-詻	yhee	#!!!
+詻	yjge	!!!
+詻	yhee	!!!
 詼	yjhv
 詽	yjkl
 詾	yjxs
@@ -15618,8 +15601,8 @@ columns:
 誢	yjjm
 誣	yjwu
 誤	yjwu
-誥	yjgk	#!!!
-誥	yhao	#!!!
+誥	yjgk	!!!
+誥	yhao	!!!
 誦	yjys
 誧	yjfu
 誨	yjmz
@@ -15682,8 +15665,8 @@ columns:
 諡	yjmn
 諢	yjjp
 諣	yjgo
-諤	yane	#!!!
-諤	yjee	#!!!
+諤	yane	!!!
+諤	yjee	!!!
 諥	yjvs
 諦	yjdi
 諧	yjjx
@@ -15708,8 +15691,8 @@ columns:
 諺	yjyj
 諻	yjhd
 諼	yjyr
-諽	yjge	#!!!
-諽	yhee	#!!!
+諽	yjge	!!!
+諽	yhee	!!!
 諾	yjro
 諿	yjqi
 謀	yjmb
@@ -15724,8 +15707,8 @@ columns:
 謉	yjgv
 謊	yjhd
 謋	yjjx
-謌	yjge	#!!!
-謌	yhee	#!!!
+謌	yjge	!!!
+謌	yhee	!!!
 謍	yyyj
 謎	yjmi
 謏	yjsb
@@ -15740,12 +15723,12 @@ columns:
 謘	yjxn
 謙	yjjm
 謚	yjyi
-講	yjgb	#!!!
-講	yhou	#!!!
+講	yjgb	!!!
+講	yhou	!!!
 謜	yjyr
 謝	yjue
-謞	yjgk	#!!!
-謞	yhao	#!!!
+謞	yjgk	!!!
+謞	yhao	!!!
 謟	yjyk
 謠	yjyk
 謡	yjyk
@@ -15771,8 +15754,8 @@ columns:
 謵	yjxi
 謶	yjuu
 謷	aoyj
-謸	yank	#!!!
-謸	yjao	#!!!
+謸	yank	!!!
+謸	yjao	!!!
 謹	yjjn
 謺	viyj
 謻	yjyi
@@ -15780,8 +15763,8 @@ columns:
 謽	qdyj
 謾	yjmj
 謿	yjik
-譀	yjgj	#!!!
-譀	yhan	#!!!
+譀	yjgj	!!!
+譀	yhan	!!!
 譁	yjhw
 譂	yjdj
 譃	yjxu
@@ -15823,8 +15806,8 @@ columns:
 譧	yjlm
 譨	yjns
 譩	yjyi
-譪	yjge	#!!!
-譪	yhee	#!!!
+譪	yjge	!!!
+譪	yhee	!!!
 譫	yjvj
 譬	biyj
 譭	yjhv
@@ -15859,8 +15842,8 @@ columns:
 變	lrwf
 讋	lsyj
 讌	yjyj
-讍	yane	#!!!
-讍	yjee	#!!!
+讍	yane	!!!
+讍	yjee	!!!
 讎	vvuv
 讏	wzyj
 讐	vvyj
@@ -15885,8 +15868,8 @@ columns:
 讣	yjbu
 认	yjrf
 讥	yjji
-讦	yjgj	#!!!
-讦	yhan	#!!!
+讦	yjgj	!!!
+讦	yhan	!!!
 讧	yjgs
 讨	yjcp
 让	yjuh
@@ -15960,8 +15943,8 @@ columns:
 语	yjwu
 诮	yjxc
 误	yjwu
-诰	yjgk	#!!!
-诰	yhao	#!!!
+诰	yjgk	!!!
+诰	yhao	!!!
 诱	yjxq
 诲	yjmz
 诳	yjkd
@@ -15997,8 +15980,8 @@ columns:
 谑	yjnt
 谒	yjhe
 谓	yjwz
-谔	yane	#!!!
-谔	yjee	#!!!
+谔	yane	!!!
+谔	yjee	!!!
 谕	yjyu
 谖	yjyr
 谗	yjmm
@@ -16103,8 +16086,8 @@ columns:
 豺	vicl
 豻	vigj
 豼	vibi
-豽	vinz	#!!!
-豽	vnei	#!!!
+豽	vinz	!!!
+豽	vnei	!!!
 豾	vipi
 豿	viju
 貀	viiu
@@ -16711,8 +16694,8 @@ columns:
 軙	iepu
 軚	ietl
 軛	ieee
-軜	ienz	#!!!
-軜	ifei	#!!!
+軜	ienz	!!!
+軜	ifei	!!!
 軝	ieui
 軞	iemk
 軟	ieqm
@@ -17496,8 +17479,8 @@ columns:
 釩	jnfj
 釪	jnyu
 釫	jnkv
-釬	jngj	#!!!
-釬	jyan	#!!!
+釬	jngj	!!!
+釬	jyan	!!!
 釭	jngs
 釮	jncl
 釯	jnwh
@@ -17531,8 +17514,8 @@ columns:
 鈋	jnhw
 鈌	jnjt
 鈍	jntp
-鈎	jngb	#!!!
-鈎	jyou	#!!!
+鈎	jngb	!!!
+鈎	jyou	!!!
 鈏	jnyn
 鈐	jnjn
 鈑	jnfj
@@ -17545,8 +17528,8 @@ columns:
 鈘	jnvi
 鈙	jnpu
 鈚	jnbi
-鈛	jnge	#!!!
-鈛	jyee	#!!!
+鈛	jnge	!!!
+鈛	jyee	!!!
 鈜	jnhs
 鈝	jnnq
 鈞	jnyp
@@ -17554,16 +17537,16 @@ columns:
 鈠	jnuu
 鈡	jnvs
 鈢	jnmu
-鈣	jngl	#!!!
-鈣	jyai	#!!!
+鈣	jngl	!!!
+鈣	jyai	!!!
 鈤	jnri
 鈥	jnho
 鈦	jntl
 鈧	jnkh
 鈨	jnyr
 鈩	jnhu
-鈪	jine	#!!!
-鈪	jnee	#!!!
+鈪	jine	!!!
+鈪	jnee	!!!
 鈫	jnwf
 鈬	jnii
 鈭	cijn
@@ -17608,8 +17591,8 @@ columns:
 鉔	jnza
 鉕	jnpo
 鉖	jnds
-鉗	jngj	#!!!
-鉗	jyan	#!!!
+鉗	jngj	!!!
+鉗	jyan	!!!
 鉘	jnfu
 鉙	jnvi
 鉚	jnmk
@@ -17645,14 +17628,14 @@ columns:
 鉸	jnjc
 鉹	jndo
 鉺	jner
-鉻	jnge	#!!!
-鉻	jyee	#!!!
+鉻	jnge	!!!
+鉻	jyee	!!!
 鉼	jnby
 鉽	jnui
 鉾	jnmb
 鉿	jnhe
-銀	jngf	#!!!
-銀	jyen	#!!!
+銀	jngf	!!!
+銀	jyen	!!!
 銁	jnxp
 銂	jnvb
 銃	jnis
@@ -17692,8 +17675,8 @@ columns:
 銥	jnyi
 銦	jnyn
 銧	jngd
-銨	jinj	#!!!
-銨	jnan	#!!!
+銨	jinj	!!!
+銨	jnan	!!!
 銩	jndq
 銪	jnyb
 銫	jnse
@@ -17701,8 +17684,8 @@ columns:
 銭	jnjm
 銮	yijn
 銯	jnsi
-銰	jinl	#!!!
-銰	jnai	#!!!
+銰	jinl	!!!
+銰	jnai	!!!
 銱	jndc
 銲	jnhj
 銳	jndv
@@ -17765,8 +17748,8 @@ columns:
 鋬	bjjn
 鋭	jndv
 鋮	jnig
-鋯	jngk	#!!!
-鋯	jyao	#!!!
+鋯	jngk	!!!
+鋯	jyao	!!!
 鋰	jnli
 鋱	jnxn
 鋲	jnby
@@ -17779,8 +17762,8 @@ columns:
 鋹	jnih
 鋺	jnwj
 鋻	ifjn
-鋼	jngh	#!!!
-鋼	jyah	#!!!
+鋼	jngh	!!!
+鋼	jyah	!!!
 鋽	jnvo
 鋾	jntk
 鋿	jnuh
@@ -17796,15 +17779,15 @@ columns:
 錉	jnhp
 錊	jnzu
 錋	jnpg
-錌	jinj	#!!!
-錌	jnan	#!!!
+錌	jinj	!!!
+錌	jnan	!!!
 錍	jnbz
 錎	jnxm
 錏	jnya
 錐	jnvv
 錑	jnli
-錒	jina	#!!!
-錒	jnaa	#!!!
+錒	jina	!!!
+錒	jnaa	!!!
 錓	jnqd
 錔	jnda
 錕	jnkp
@@ -17870,8 +17853,8 @@ columns:
 鍑	jnfu
 鍒	jnrb
 鍓	jnqi
-鍔	jine	#!!!
-鍔	jnee	#!!!
+鍔	jine	!!!
+鍔	jnee	!!!
 鍕	jnjp
 鍖	jnuf
 鍗	jndi
@@ -17919,8 +17902,8 @@ columns:
 鎁	jnye
 鎂	jnmz
 鎃	jnpl
-鎄	jinl	#!!!
-鎄	jnai	#!!!
+鎄	jinl	!!!
+鎄	jnai	!!!
 鎅	jnjx
 鎆	jnqm
 鎇	jnmz
@@ -17940,8 +17923,8 @@ columns:
 鎕	jnth
 鎖	jnso
 鎗	jnch
-鎘	jnge	#!!!
-鎘	jyee	#!!!
+鎘	jnge	!!!
+鎘	jyee	!!!
 鎙	jnuo
 鎚	jnvv
 鎛	jnfu
@@ -17961,8 +17944,8 @@ columns:
 鎩	jnua
 鎪	jnsb
 鎫	jnwf
-鎬	jngk	#!!!
-鎬	jyao	#!!!
+鎬	jngk	!!!
+鎬	jyao	!!!
 鎭	jnvf
 鎮	jnvf
 鎯	jnlh
@@ -17972,8 +17955,8 @@ columns:
 鎳	jnnx
 鎴	jnxi
 鎵	jnjw
-鎶	jnge	#!!!
-鎶	jyee	#!!!
+鎶	jnge	!!!
+鎶	jyee	!!!
 鎷	jnma
 鎸	jnjr
 鎹	jnss
@@ -18073,16 +18056,16 @@ columns:
 鐗	jnjm
 鐘	jnts
 鐙	jndg
-鐚	jine	#!!!
-鐚	jnee	#!!!
+鐚	jine	!!!
+鐚	jnee	!!!
 鐛	jnjy
 鐜	dpjn
 鐝	jnjt
 鐞	jnxp
 鐟	jnti
 鐠	jnpu
-鐡	jnge	#!!!
-鐡	jyee	#!!!
+鐡	jnge	!!!
+鐡	jyee	!!!
 鐢	ykjn
 鐣	jnvh
 鐤	jndy
@@ -18094,8 +18077,8 @@ columns:
 鐪	jnlu
 鐫	jnjr
 鐬	jnsv
-鐭	jink	#!!!
-鐭	jnao	#!!!
+鐭	jink	!!!
+鐭	jnao	!!!
 鐮	jnlm
 鐯	jnvu
 鐰	jnzk
@@ -18114,8 +18097,8 @@ columns:
 鐽	jnda
 鐾	bijn
 鐿	jnyi
-鑀	jinl	#!!!
-鑀	jnai	#!!!
+鑀	jinl	!!!
+鑀	jnai	!!!
 鑁	jnwf
 鑂	jnxp
 鑃	jndi
@@ -18124,8 +18107,8 @@ columns:
 鑆	jndv
 鑇	jnqi
 鑈	jner
-鑉	jngl	#!!!
-鑉	jyai	#!!!
+鑉	jngl	!!!
+鑉	jyai	!!!
 鑊	jnho
 鑋	qyjn
 鑌	jnbn
@@ -18157,8 +18140,8 @@ columns:
 鑦	jnxm
 鑧	jnkr
 鑨	jnls
-鑩	jine	#!!!
-鑩	jnee	#!!!
+鑩	jine	!!!
+鑩	jnee	!!!
 鑪	jnlu
 鑫	jnjn
 鑬	jnlj
@@ -18206,8 +18189,8 @@ columns:
 钖	jnyh
 钗	jnia
 钘	jnkl
-钙	jngl	#!!!
-钙	jyai	#!!!
+钙	jngl	!!!
+钙	jyai	!!!
 钚	jnbu
 钛	jntl
 钜	jnju
@@ -18216,16 +18199,16 @@ columns:
 钟	jnvs
 钠	jnnz
 钡	jnbz
-钢	jngh	#!!!
-钢	jyah	#!!!
+钢	jngh	!!!
+钢	jyah	!!!
 钣	jnfj
 钤	jnjn
 钥	jnyt
 钦	jnqm
 钧	jnyp
 钨	jnwu
-钩	jngb	#!!!
-钩	jyou	#!!!
+钩	jngb	!!!
+钩	jyou	!!!
 钪	jnkh
 钫	jnfh
 钬	jnho
@@ -18235,8 +18218,8 @@ columns:
 钰	jnyu
 钱	jnjm
 钲	jnvg
-钳	jngj	#!!!
-钳	jyan	#!!!
+钳	jngj	!!!
+钳	jyan	!!!
 钴	jngu
 钵	jnbf
 钶	jnke
@@ -18293,8 +18276,8 @@ columns:
 铩	jnua
 铪	jnhe
 铫	jnvk
-铬	jnge	#!!!
-铬	jyee	#!!!
+铬	jnge	!!!
+铬	jyee	!!!
 铭	jnmy
 铮	jnvg
 铯	jnse
@@ -18303,10 +18286,10 @@ columns:
 铲	jnij
 铳	jnis
 铴	jnth
-铵	jinj	#!!!
-铵	jnan	#!!!
-银	jngf	#!!!
-银	jyen	#!!!
+铵	jinj	!!!
+铵	jnan	!!!
+银	jngf	!!!
+银	jyen	!!!
 铷	jnru
 铸	jnub
 铹	jnlk
@@ -18322,8 +18305,8 @@ columns:
 锃	jnig
 锄	jnvu
 锅	jngo
-锆	jngk	#!!!
-锆	jyao	#!!!
+锆	jngk	!!!
+锆	jyao	!!!
 锇	jnwo
 锈	jnxq
 锉	jnzo
@@ -18338,8 +18321,8 @@ columns:
 锒	jnld
 锓	jnqn
 锔	jnju
-锕	jina	#!!!
-锕	jnaa	#!!!
+锕	jina	!!!
+锕	jnaa	!!!
 锖	jnqy
 锗	jnve
 锘	jnro
@@ -18373,8 +18356,8 @@ columns:
 锴	jnjx
 锵	jnjd
 锶	jnsi
-锷	jine	#!!!
-锷	jnee	#!!!
+锷	jine	!!!
+锷	jnee	!!!
 锸	jnia
 锹	jnqq
 锺	jnvs
@@ -18382,8 +18365,8 @@ columns:
 锼	jnsb
 锽	jnhd
 锾	jnyr
-锿	jinl	#!!!
-锿	jnai	#!!!
+锿	jinl	!!!
+锿	jnai	!!!
 镀	jndu
 镁	jnmz
 镂	jnlb
@@ -18393,16 +18376,16 @@ columns:
 镆	jnmo
 镇	jnvf
 镈	jnfu
-镉	jnge	#!!!
-镉	jyee	#!!!
+镉	jnge	!!!
+镉	jyee	!!!
 镊	jnnx
 镋	jndh
 镌	jnjr
 镍	jnnx
 镎	jnna
 镏	jnlq
-镐	jngk	#!!!
-镐	jyao	#!!!
+镐	jngk	!!!
+镐	jyao	!!!
 镑	jnph
 镒	jnyi
 镓	jnjw
@@ -18458,8 +18441,8 @@ columns:
 閅	mfdy
 閆	mfsj
 閇	mfxw
-閈	mfgj	#!!!
-閈	mgan	#!!!
+閈	mfgj	!!!
+閈	mgan	!!!
 閉	mfcl
 閊	mfuj
 開	mfkl
@@ -18486,8 +18469,8 @@ columns:
 閠	mfyu
 閡	mfhl
 関	mfgr
-閣	mfge	#!!!
-閣	mgee	#!!!
+閣	mfge	!!!
+閣	mgee	!!!
 閤	mfhe
 閥	mffa
 閦	mfvs
@@ -18546,8 +18529,8 @@ columns:
 闛	mfth
 關	mfyk
 闝	mfbl
-闞	mfgj	#!!!
-闞	mgan	#!!!
+闞	mfgj	!!!
+闞	mgan	!!!
 闟	mfyu
 闠	mfgv
 闡	mfdj
@@ -18561,8 +18544,8 @@ columns:
 闩	mfhg
 闪	mfrf
 闫	mfsj
-闬	mfgj	#!!!
-闬	mgan	#!!!
+闬	mfgj	!!!
+闬	mgan	!!!
 闭	mfcl
 问	mfkb
 闯	mfma
@@ -18583,8 +18566,8 @@ columns:
 闾	mflv
 闿	mfqi
 阀	mffa
-阁	mfge	#!!!
-阁	mgee	#!!!
+阁	mfge	!!!
+阁	mgee	!!!
 阂	mfhl
 阃	mfkp
 阄	mfgv
@@ -18609,8 +18592,8 @@ columns:
 阗	mfvf
 阘	mfta
 阙	mfqm
-阚	mfgj	#!!!
-阚	mgan	#!!!
+阚	mfgj	!!!
+阚	mgan	!!!
 阛	mfhr
 阜	vvui
 阝	yiuu
@@ -18624,8 +18607,8 @@ columns:
 阥	eruv
 阦	erho
 阧	erdb
-阨	eere	#!!!
-阨	eree	#!!!
+阨	eere	!!!
+阨	eree	!!!
 阩	erug
 阪	erfj
 阫	erbu
@@ -18743,8 +18726,8 @@ columns:
 際	erji
 障	ervh
 隝	ernc
-隞	eerk	#!!!
-隞	erao	#!!!
+隞	eerk	!!!
+隞	erao	!!!
 隟	erik
 隠	erji
 隡	erij
@@ -18755,8 +18738,8 @@ columns:
 隦	erbi
 隧	ersv
 隨	ersv
-隩	eerk	#!!!
-隩	erao	#!!!
+隩	eerk	!!!
+隩	erao	!!!
 險	erqm
 隫	erbf
 隬	erer
@@ -18916,8 +18899,8 @@ columns:
 靆	ypdl
 靇	yuls
 靈	lywu
-靉	yunl	#!!!
-靉	ypai	#!!!
+靉	yunl	!!!
+靉	ypai	!!!
 靊	yufg
 靋	yuli
 靌	yubk
@@ -18965,8 +18948,8 @@ columns:
 靶	geba
 靷	geyn
 靸	geji
-靹	genz	#!!!
-靹	gfei	#!!!
+靹	genz	!!!
+靹	gfei	!!!
 靺	gemo
 靻	geqx
 靼	gedj
@@ -18985,8 +18968,8 @@ columns:
 鞉	gevk
 鞊	geji
 鞋	gegv
-鞌	ange	#!!!
-鞌	ahee	#!!!
+鞌	ange	!!!
+鞌	ahee	!!!
 鞍	gean
 鞎	gegf
 鞏	gsge
@@ -18997,8 +18980,8 @@ columns:
 鞔	gemm
 鞕	gegg
 鞖	geto
-鞗	rfge	#!!!
-鞗	rgee	#!!!
+鞗	rfge	!!!
+鞗	rgee	!!!
 鞘	gexc
 鞙	geyr
 鞚	geks
@@ -19029,8 +19012,8 @@ columns:
 鞳	geda
 鞴	geys
 鞵	gexi
-鞶	bjge	#!!!
-鞶	bhee	#!!!
+鞶	bjge	!!!
+鞶	bhee	!!!
 鞷	gege
 鞸	gebi
 鞹	gego
@@ -19115,8 +19098,8 @@ columns:
 須	ujye
 頉	viye
 頊	whye
-頋	eeye	#!!!
-頋	eyee	#!!!
+頋	eeye	!!!
+頋	eyee	!!!
 頌	gsye
 頍	viye
 頎	jnye
@@ -19183,8 +19166,8 @@ columns:
 顋	siye
 題	uiye
 額	keye
-顎	eeye	#!!!
-顎	eyee	#!!!
+顎	eeye	!!!
+顎	eyee	!!!
 顏	yjye
 顐	jpye
 顑	xmye
@@ -19232,8 +19215,8 @@ columns:
 须	ujye
 顼	whye
 顽	yrye
-顾	eeye	#!!!
-顾	eyee	#!!!
+顾	eeye	!!!
+顾	eyee	!!!
 顿	tpye
 颀	jnye
 颁	ffye
@@ -19261,8 +19244,8 @@ columns:
 颗	goye
 题	uiye
 颙	yuye
-颚	eeye	#!!!
-颚	eyee	#!!!
+颚	eeye	!!!
+颚	eyee	!!!
 颛	drye
 颜	yjye
 额	keye
@@ -19462,8 +19445,8 @@ columns:
 饟	uixd
 饠	uilo
 饡	uizj
-饢	uinh	#!!!
-饢	unah	#!!!
+饢	uinh	!!!
+饢	unah	!!!
 饣	pxyi
 饤	uidy
 饥	uiji
@@ -19514,8 +19497,8 @@ columns:
 馒	uimj
 馓	uisj
 馔	uixp
-馕	uinh	#!!!
-馕	unah	#!!!
+馕	uinh	!!!
+馕	unah	!!!
 首	bamu
 馗	jqub
 馘	ubho
@@ -19996,8 +19979,8 @@ columns:
 魳	yuza
 魴	yufh
 魵	yuff
-魶	yunz	#!!!
-魶	ypei	#!!!
+魶	yunz	!!!
+魶	ypei	!!!
 魷	yuyb
 魸	yupm
 魹	yumk
@@ -20038,8 +20021,8 @@ columns:
 鮜	yuhb
 鮝	jryu
 鮞	yuer
-鮟	yuan	#!!!
-鮟	ywen	#!!!
+鮟	yuan	!!!
+鮟	ywen	!!!
 鮠	yuwz
 鮡	yuvk
 鮢	yuvu
@@ -20977,8 +20960,8 @@ columns:
 齆	biys
 齇	biqx
 齈	bins
-齉	binh	#!!!
-齉	bnah	#!!!
+齉	binh	!!!
+齉	bnah	!!!
 齊	erer
 齋	qixc
 齌	qiho
@@ -21117,8 +21100,8 @@ columns:
 鿑	uvyu
 鿒	ckye
 鿓	ckye
-鿔	jnge	#!!!
-鿔	jyee	#!!!
+鿔	jnge	!!!
+鿔	jyee	!!!
 鿕	yudj
 鿖	hehg
 鿗	rfyi
@@ -21298,8 +21281,8 @@ columns:
 㒅	rfdo
 㒆	rfyu
 㒇	rfwu
-㒈	rfgj	#!!!
-㒈	rgan	#!!!
+㒈	rfgj	!!!
+㒈	rgan	!!!
 㒉	rfth
 㒊	rfvi
 㒋	rfsi
@@ -21408,8 +21391,8 @@ columns:
 㓲	bmdk
 㓳	uidk
 㓴	erdk
-㓵	eedk	#!!!
-㓵	edao	#!!!
+㓵	eedk	!!!
+㓵	edao	!!!
 㓶	qidk
 㓷	nxdk
 㓸	yadk
@@ -21716,8 +21699,8 @@ columns:
 㘥	kbxi
 㘦	tuli
 㘧	tuyu
-㘨	tunz	#!!!
-㘨	tpei	#!!!
+㘨	tunz	!!!
+㘨	tpei	!!!
 㘩	tubi
 㘪	tumk
 㘫	tujy
@@ -21807,8 +21790,8 @@ columns:
 㙿	tuxi
 㚀	tuxi
 㚁	ykyk
-㚂	tunh	#!!!
-㚂	tpah	#!!!
+㚂	tunh	!!!
+㚂	tpah	!!!
 㚃	uihg
 㚄	uipi
 㚅	wfug
@@ -22127,8 +22110,8 @@ columns:
 㞾	ujni
 㞿	ujia
 㟀	heuj
-㟁	ujgj	#!!!
-㟁	uhan	#!!!
+㟁	ujgj	!!!
+㟁	uhan	!!!
 㟂	ujmu
 㟃	ujsi
 㟄	ujyh
@@ -22159,16 +22142,16 @@ columns:
 㟝	ujpb
 㟞	ujjm
 㟟	ujxd
-㟠	ujgh	#!!!
-㟠	uhah	#!!!
+㟠	ujgh	!!!
+㟠	uhah	!!!
 㟡	ujjr
 㟢	ujqi
 㟣	ujss
 㟤	ujlu
 㟥	ujcj
 㟦	ujjp
-㟧	uane	#!!!
-㟧	ujee	#!!!
+㟧	uane	!!!
+㟧	ujee	!!!
 㟨	ujdr
 㟩	mnuj
 㟪	ujwz
@@ -22178,8 +22161,8 @@ columns:
 㟮	ujtu
 㟯	ujke
 㟰	ujmy
-㟱	ujgk	#!!!
-㟱	uhao	#!!!
+㟱	ujgk	!!!
+㟱	uhao	!!!
 㟲	ujyr
 㟳	ujli
 㟴	ujgv
@@ -22190,15 +22173,15 @@ columns:
 㟹	ujlc
 㟺	ujlb
 㟻	vjuj
-㟼	uank	#!!!
-㟼	ujao	#!!!
+㟼	uank	!!!
+㟼	ujao	!!!
 㟽	ujpc
 㟾	ujys
 㟿	ujmh
 㠀	ncuj
 㠁	ujcj
-㠂	uank	#!!!
-㠂	ujao	#!!!
+㠂	uank	!!!
+㠂	ujao	!!!
 㠃	ujdi
 㠄	ujxi
 㠅	ujfu
@@ -22219,8 +22202,8 @@ columns:
 㠔	ujbi
 㠕	ujgv
 㠖	ujyi
-㠗	uank	#!!!
-㠗	ujao	#!!!
+㠗	uank	!!!
+㠗	ujao	!!!
 㠘	ujyu
 㠙	ujhk
 㠚	ujdv
@@ -22287,8 +22270,8 @@ columns:
 㡗	jnhu
 㡘	jnjm
 㡙	jnbi
-㡚	jngb	#!!!
-㡚	jyou	#!!!
+㡚	jngb	!!!
+㡚	jyou	!!!
 㡛	jnhd
 㡜	jnji
 㡝	jnfg
@@ -22338,8 +22321,8 @@ columns:
 㢉	gdto
 㢊	gdqi
 㢋	gdii
-㢌	grga	#!!!
-㢌	gdaa	#!!!
+㢌	grga	!!!
+㢌	gdaa	!!!
 㢍	gdyy
 㢎	gdia
 㢏	gdyu
@@ -22467,8 +22450,8 @@ columns:
 㤉	xnya
 㤊	xnyk
 㤋	xnff
-㤌	xngj	#!!!
-㤌	xyan	#!!!
+㤌	xngj	!!!
+㤌	xyan	!!!
 㤍	qcxn
 㤎	jwxn
 㤏	xnds
@@ -22592,8 +22575,8 @@ columns:
 㦅	xndl
 㦆	xnhu
 㦇	xnlu
-㦈	xngl	#!!!
-㦈	xyai	#!!!
+㦈	xngl	!!!
+㦈	xyai	!!!
 㦉	xnyi
 㦊	xnhw
 㦋	xnue
@@ -22602,8 +22585,8 @@ columns:
 㦎	xnhw
 㦏	xnxp
 㦐	xner
-㦑	xngj	#!!!
-㦑	xyan	#!!!
+㦑	xngj	!!!
+㦑	xyan	!!!
 㦒	xnyj
 㦓	xnrj
 㦔	rixn
@@ -22946,8 +22929,8 @@ columns:
 㫥	rimy
 㫦	rfri
 㫧	rimi
-㫨	rian	#!!!
-㫨	rwen	#!!!
+㫨	rian	!!!
+㫨	rwen	!!!
 㫩	hvri
 㫪	ipjq
 㫫	riya
@@ -23017,8 +23000,8 @@ columns:
 㬫	yjri
 㬬	riqu
 㬭	rijt
-㬮	rinj	#!!!
-㬮	rnan	#!!!
+㬮	rinj	!!!
+㬮	rnan	!!!
 㬯	rilz
 㬰	rirf
 㬱	xmri
@@ -23037,8 +23020,8 @@ columns:
 㬾	yiyt
 㬿	ytdp
 㭀	ytwu
-㭁	munl	#!!!
-㭁	mpai	#!!!
+㭁	munl	!!!
+㭁	mpai	!!!
 㭂	muxc
 㭃	muyk
 㭄	muxp
@@ -23092,8 +23075,8 @@ columns:
 㭴	mujm
 㭵	mudm
 㭶	mufh
-㭷	munj	#!!!
-㭷	mpan	#!!!
+㭷	munj	!!!
+㭷	mpan	!!!
 㭸	mutu
 㭹	muxm
 㭺	muyj
@@ -23110,16 +23093,16 @@ columns:
 㮅	muvv
 㮆	muyh
 㮇	mutm
-㮈	munl	#!!!
-㮈	mpai	#!!!
+㮈	munl	!!!
+㮈	mpai	!!!
 㮉	muxw
 㮊	lnyu
 㮋	muyu
 㮌	mumm
 㮍	qmmu
 㮎	mumn
-㮏	munl	#!!!
-㮏	mpai	#!!!
+㮏	munl	!!!
+㮏	mpai	!!!
 㮐	muug
 㮑	muia
 㮒	mutu
@@ -23257,8 +23240,8 @@ columns:
 㰖	mulj
 㰗	muzu
 㰘	muyi
-㰙	munj	#!!!
-㰙	mpan	#!!!
+㰙	munj	!!!
+㰙	mpan	!!!
 㰚	muli
 㰛	muyk
 㰜	mudm
@@ -23289,8 +23272,8 @@ columns:
 㰵	zuqm
 㰶	jqqm
 㰷	siqm
-㰸	qian	#!!!
-㰸	qwen	#!!!
+㰸	qian	!!!
+㰸	qwen	!!!
 㰹	xmqm
 㰺	jwqm
 㰻	vuqm
@@ -23862,14 +23845,14 @@ columns:
 㹱	qrzu
 㹲	qrxc
 㹳	qrwu
-㹴	qrgg	#!!!
-㹴	qdeg	#!!!
+㹴	qrgg	!!!
+㹴	qdeg	!!!
 㹵	qrjy
 㹶	qrty
 㹷	xiqr
 㹸	qrmk
-㹹	qrgg	#!!!
-㹹	qdeg	#!!!
+㹹	qrgg	!!!
+㹹	qdeg	!!!
 㹺	qrda
 㹻	qrwz
 㹼	qrju
@@ -23879,8 +23862,8 @@ columns:
 㺀	qrhu
 㺁	qrxn
 㺂	qrxm
-㺃	qrgb	#!!!
-㺃	qdou	#!!!
+㺃	qrgb	!!!
+㺃	qdou	!!!
 㺄	qryu
 㺅	qrhb
 㺆	qrbz
@@ -23899,8 +23882,8 @@ columns:
 㺓	qrze
 㺔	qrwz
 㺕	qrfj
-㺖	qrgj	#!!!
-㺖	qdan	#!!!
+㺖	qrgj	!!!
+㺖	qdan	!!!
 㺗	qrdj
 㺘	qrjc
 㺙	qrbz
@@ -24148,8 +24131,8 @@ columns:
 㾋	byxq
 㾌	byxm
 㾍	byer
-㾎	bngk	#!!!
-㾎	byao	#!!!
+㾎	bngk	!!!
+㾎	byao	!!!
 㾏	bygv
 㾐	bylx
 㾑	byhe
@@ -24185,8 +24168,8 @@ columns:
 㾯	bywz
 㾰	byhu
 㾱	byfa
-㾲	bngk	#!!!
-㾲	byao	#!!!
+㾲	bngk	!!!
+㾲	byao	!!!
 㾳	byzi
 㾴	byia
 㾵	byji
@@ -24559,8 +24542,8 @@ columns:
 䄤	uill
 䄥	uily
 䄦	helc
-䄧	henl	#!!!
-䄧	hfai	#!!!
+䄧	henl	!!!
+䄧	hfai	!!!
 䄨	heyu
 䄩	heyi
 䄪	heuk
@@ -24571,8 +24554,8 @@ columns:
 䄯	hekl
 䄰	heya
 䄱	hefh
-䄲	henz	#!!!
-䄲	hfei	#!!!
+䄲	henz	!!!
+䄲	hfei	!!!
 䄳	hevi
 䄴	heyt
 䄵	henq
@@ -24796,8 +24779,8 @@ columns:
 䈏	vufu
 䈐	vuhv
 䈑	vugo
-䈒	vunj	#!!!
-䈒	vpan	#!!!
+䈒	vunj	!!!
+䈒	vpan	!!!
 䈓	vuhe
 䈔	vujw
 䈕	vuui
@@ -24822,8 +24805,8 @@ columns:
 䈨	vuxm
 䈩	vujm
 䈪	vuge
-䈫	vuna	#!!!
-䈫	vpaa	#!!!
+䈫	vuna	!!!
+䈫	vpaa	!!!
 䈬	vupu
 䈭	vugv
 䈮	vuju
@@ -24930,8 +24913,8 @@ columns:
 䊓	miui
 䊔	miyy
 䊕	mijm
-䊖	minj	#!!!
-䊖	mnan	#!!!
+䊖	minj	!!!
+䊖	mnan	!!!
 䊗	mihd
 䊘	miyt
 䊙	yjmi
@@ -25032,7 +25015,7 @@ columns:
 䋸	sidp
 䋹	sifu
 䋺	siqq
-䋻	sinj	#!!!
+䋻	sinj	!!!
 䋼	siyy
 䋽	sifg
 䋾	sido
@@ -25099,7 +25082,7 @@ columns:
 䌻	siyu
 䌼	sidv
 䌽	sicl
-䌾	sinj	#!!!
+䌾	sinj	!!!
 䌿	sifu
 䍀	sijm
 䍁	sisv
@@ -26060,8 +26043,8 @@ columns:
 䛼	yjgs
 䛽	yjia
 䛾	yjsu
-䛿	yjge	#!!!
-䛿	yhee	#!!!
+䛿	yjge	!!!
+䛿	yhee	!!!
 䜀	yjvi
 䜁	yjda
 䜂	yjbf
@@ -26079,16 +26062,16 @@ columns:
 䜎	yjlk
 䜏	yjsv
 䜐	svyj
-䜑	yane	#!!!
-䜑	yjee	#!!!
-䜒	yank	#!!!
-䜒	yjao	#!!!
+䜑	yane	!!!
+䜑	yjee	!!!
+䜒	yank	!!!
+䜒	yjao	!!!
 䜓	yjye
 䜔	yjsv
 䜕	yjwj
 䜖	yjjw
-䜗	yjgj	#!!!
-䜗	yhan	#!!!
+䜗	yjgj	!!!
+䜗	yhan	!!!
 䜘	yjjy
 䜙	yjsi
 䜚	yjxc
@@ -26285,8 +26268,8 @@ columns:
 䟙	zuqx
 䟚	zuqi
 䟛	zufu
-䟜	zunz	#!!!
-䟜	zpei	#!!!
+䟜	zunz	!!!
+䟜	zpei	!!!
 䟝	zuuu
 䟞	zuuk
 䟟	iizu
@@ -26607,8 +26590,8 @@ columns:
 䤚	ytli
 䤛	jnjq
 䤜	jnqi
-䤝	jinh	#!!!
-䤝	jnah	#!!!
+䤝	jinh	!!!
+䤝	jnah	!!!
 䤞	jnyb
 䤟	jnrs
 䤠	jnvi
@@ -26644,8 +26627,8 @@ columns:
 䤾	jnyk
 䤿	jnub
 䥀	jnii
-䥁	jngj	#!!!
-䥁	jyan	#!!!
+䥁	jngj	!!!
+䥁	jyan	!!!
 䥂	jnui
 䥃	jnhe
 䥄	jnxi
@@ -26694,8 +26677,8 @@ columns:
 䥯	jnba
 䥰	jnis
 䥱	jnxx
-䥲	jinb	#!!!
-䥲	jnou	#!!!
+䥲	jinb	!!!
+䥲	jnou	!!!
 䥳	jnyb
 䥴	jngv
 䥵	jnxc
@@ -26720,8 +26703,8 @@ columns:
 䦈	ihzo
 䦉	ihsi
 䦊	ihxc
-䦋	ijgk	#!!!
-䦋	ihao	#!!!
+䦋	ijgk	!!!
+䦋	ihao	!!!
 䦌	mftu
 䦍	mfqi
 䦎	mfyr
@@ -26734,8 +26717,8 @@ columns:
 䦕	mfby
 䦖	mfji
 䦗	mfxt
-䦘	mfgf	#!!!
-䦘	mgen	#!!!
+䦘	mfgf	!!!
+䦘	mgen	!!!
 䦙	mfsi
 䦚	mfue
 䦛	mfvg
@@ -27086,8 +27069,8 @@ columns:
 䫴	jnye
 䫵	ziye
 䫶	fjye
-䫷	eeye	#!!!
-䫷	eyee	#!!!
+䫷	eeye	!!!
+䫷	eyee	!!!
 䫸	fgdk
 䫹	fggs
 䫺	hsfg
@@ -27446,8 +27429,8 @@ columns:
 䱛	yuho
 䱜	yuxi
 䱝	yubz
-䱞	yunl	#!!!
-䱞	ypai	#!!!
+䱞	yunl	!!!
+䱞	ypai	!!!
 䱟	yuju
 䱠	yujm
 䱡	yuju
@@ -27978,8 +27961,8 @@ columns:
 𠂮	ihyi
 𠂯	qmer
 𠂰	ihjn
-𠂱	cinl	#!!!
-𠂱	cnai	#!!!
+𠂱	cinl	!!!
+𠂱	cnai	!!!
 𠂲	pxll
 𠂳	xsyk
 𠂴	ubdj
@@ -28193,8 +28176,8 @@ columns:
 𠆄	lqbz
 𠆅	ermu
 𠆆	ergj
-𠆇	eerk	#!!!
-𠆇	erao	#!!!
+𠆇	eerk	!!!
+𠆇	erao	!!!
 𠆈	ernv
 𠆉	erui
 𠆊	erya
@@ -28291,8 +28274,8 @@ columns:
 𠇥	rfwf
 𠇦	rfrj
 𠇧	jxjq
-𠇨	rfgj	#!!!
-𠇨	rgan	#!!!
+𠇨	rfgj	!!!
+𠇨	rgan	!!!
 𠇩	rfmk
 𠇪	rfui
 𠇫	rfui
@@ -28339,8 +28322,8 @@ columns:
 𠈔	rfhg
 𠈕	rfkd
 𠈖	rffu
-𠈗	rfgf	#!!!
-𠈗	rgen	#!!!
+𠈗	rfgf	!!!
+𠈗	rgen	!!!
 𠈘	rfgv
 𠈙	rfjm
 𠈚	rfzl
@@ -28379,8 +28362,8 @@ columns:
 𠈻	rfgu
 𠈼	rfyb
 𠈽	dkrf
-𠈾	rfgj	#!!!
-𠈾	rgan	#!!!
+𠈾	rfgj	!!!
+𠈾	rgan	!!!
 𠈿	rfyb
 𠉀	rftm
 𠉁	qqqq
@@ -28402,8 +28385,8 @@ columns:
 𠉑	rfxq
 𠉒	csdm
 𠉓	rfxc
-𠉔	rfgj	#!!!
-𠉔	rgan	#!!!
+𠉔	rfgj	!!!
+𠉔	rgan	!!!
 𠉕	rfyb
 𠉖	rfwu
 𠉗	rflr
@@ -28447,8 +28430,8 @@ columns:
 𠉽	rfir
 𠉾	rfjn
 𠉿	vswf
-𠊀	renj	#!!!
-𠊀	rfan	#!!!
+𠊀	renj	!!!
+𠊀	rfan	!!!
 𠊁	rfyp
 𠊂	rfwf
 𠊃	rfza
@@ -28560,8 +28543,8 @@ columns:
 𠋭	rfkb
 𠋮	rfnz
 𠋯	rfyk
-𠋰	rfge	#!!!
-𠋰	rgee	#!!!
+𠋰	rfge	!!!
+𠋰	rgee	!!!
 𠋱	rfxx
 𠋲	rfso
 𠋳	rfui
@@ -28602,8 +28585,8 @@ columns:
 𠌖	rfmu
 𠌗	rfbz
 𠌘	rfxw
-𠌙	rfge	#!!!
-𠌙	rgee	#!!!
+𠌙	rfge	!!!
+𠌙	rgee	!!!
 𠌚	rfdj
 𠌛	rfkb
 𠌜	rfyj
@@ -28636,8 +28619,8 @@ columns:
 𠌷	rfvi
 𠌸	rfpy
 𠌹	rfuk
-𠌺	rfge	#!!!
-𠌺	rgee	#!!!
+𠌺	rfge	!!!
+𠌺	rgee	!!!
 𠌻	rffj
 𠌼	rfhr
 𠌽	rffh
@@ -28667,8 +28650,8 @@ columns:
 𠍕	rfkp
 𠍖	rfdc
 𠍗	hejq
-𠍘	rfgj	#!!!
-𠍘	rgan	#!!!
+𠍘	rfgj	!!!
+𠍘	rgan	!!!
 𠍙	rfdl
 𠍚	rfkb
 𠍛	rfnv
@@ -28748,8 +28731,8 @@ columns:
 𠎥	rfri
 𠎦	rfqd
 𠎧	rfxx
-𠎨	rfgz	#!!!
-𠎨	rgei	#!!!
+𠎨	rfgz	!!!
+𠎨	rgei	!!!
 𠎩	rfbz
 𠎪	rflv
 𠎫	rfik
@@ -28776,8 +28759,8 @@ columns:
 𠏀	rfgo
 𠏁	rfgv
 𠏂	rftu
-𠏃	rene	#!!!
-𠏃	rfee	#!!!
+𠏃	rene	!!!
+𠏃	rfee	!!!
 𠏄	rfug
 𠏅	rfku
 𠏆	rfpu
@@ -28794,11 +28777,11 @@ columns:
 𠏑	rfyh
 𠏒	rfwf
 𠏓	chtl
-𠏔	rfge	#!!!
-𠏔	rgee	#!!!
+𠏔	rfge	!!!
+𠏔	rgee	!!!
 𠏕	xqyk
-𠏖	rfgk	#!!!
-𠏖	rgao	#!!!
+𠏖	rfgk	!!!
+𠏖	rgao	!!!
 𠏗	rfho
 𠏘	rfyj
 𠏙	rfuu
@@ -28806,8 +28789,8 @@ columns:
 𠏛	rffh
 𠏜	rfyj
 𠏝	rfmu
-𠏞	rfge	#!!!
-𠏞	rgee	#!!!
+𠏞	rfge	!!!
+𠏞	rgee	!!!
 𠏟	rfby
 𠏠	rfgv
 𠏡	rfly
@@ -28839,8 +28822,8 @@ columns:
 𠏻	rfrv
 𠏼	rfjw
 𠏽	rfho
-𠏾	rfgf	#!!!
-𠏾	rgen	#!!!
+𠏾	rfgf	!!!
+𠏾	rgen	!!!
 𠏿	rfbi
 𠐀	rfqm
 𠐁	rfmg
@@ -28916,8 +28899,8 @@ columns:
 𠑇	rfbz
 𠑈	rflj
 𠑉	sutv
-𠑊	rfgj	#!!!
-𠑊	rgan	#!!!
+𠑊	rfgj	!!!
+𠑊	rgan	!!!
 𠑋	sjns
 𠑌	rfyi
 𠑍	rfnk
@@ -28937,8 +28920,8 @@ columns:
 𠑛	rfwf
 𠑜	chmn
 𠑝	yudi
-𠑞	rfgf	#!!!
-𠑞	rgen	#!!!
+𠑞	rfgf	!!!
+𠑞	rgen	!!!
 𠑟	rfbm
 𠑠	rfjq
 𠑡	rfmf
@@ -29107,8 +29090,8 @@ columns:
 𠔄	bayi
 𠔅	baui
 𠔆	baui
-𠔇	bana	#!!!
-𠔇	bjaa	#!!!
+𠔇	bana	!!!
+𠔇	bjaa	!!!
 𠔈	bavs
 𠔉	xctm
 𠔊	qqba
@@ -29246,8 +29229,8 @@ columns:
 𠖎	glvo
 𠖏	glqi
 𠖐	gltm
-𠖑	yngf	#!!!
-𠖑	yyen	#!!!
+𠖑	yngf	!!!
+𠖑	yyen	!!!
 𠖒	rspl
 𠖓	glsi
 𠖔	glsv
@@ -30127,8 +30110,8 @@ columns:
 𠣾	bkfu
 𠣿	bkuu
 𠤀	dkwu
-𠤁	eebk	#!!!
-𠤁	ebao	#!!!
+𠤁	eebk	!!!
+𠤁	ebao	!!!
 𠤂	bkgs
 𠤃	nlbk
 𠤄	bkxy
@@ -30204,8 +30187,8 @@ columns:
 𠥊	kdqi
 𠥋	kdbo
 𠥌	kdbi
-𠥍	krga	#!!!
-𠥍	kdaa	#!!!
+𠥍	krga	!!!
+𠥍	kdaa	!!!
 𠥎	kdwz
 𠥏	kdfu
 𠥐	kdch
@@ -30303,8 +30286,8 @@ columns:
 𠦬	pxui
 𠦭	uvui
 𠦮	yubf
-𠦯	bjgf	#!!!
-𠦯	bhen	#!!!
+𠦯	bjgf	!!!
+𠦯	bhen	!!!
 𠦰	uiqm
 𠦱	uili
 𠦲	voug
@@ -30612,7 +30595,7 @@ columns:
 𠫠	siji
 𠫡	simu
 𠫢	fgsi
-𠫣	sinz	#!!!
+𠫣	sinz	!!!
 𠫤	iahs
 𠫥	basi
 𠫦	sijn
@@ -32274,8 +32257,8 @@ columns:
 𡅞	kbyj
 𡅟	erjs
 𡅠	kbug
-𡅡	eege	#!!!
-𡅡	egee	#!!!
+𡅡	eege	!!!
+𡅡	egee	!!!
 𡅢	kbjn
 𡅣	kbxc
 𡅤	xijn
@@ -32499,8 +32482,8 @@ columns:
 𡈾	yitu
 𡈿	tuui
 𡉀	batu
-𡉁	tunl	#!!!
-𡉁	tpai	#!!!
+𡉁	tunl	!!!
+𡉁	tpai	!!!
 𡉂	litu
 𡉃	tuih
 𡉄	hgtu
@@ -32699,8 +32682,8 @@ columns:
 𡌅	fotu
 𡌆	yutu
 𡌇	tudk
-𡌈	tuna	#!!!
-𡌈	tpaa	#!!!
+𡌈	tuna	!!!
+𡌈	tpaa	!!!
 𡌉	tuxc
 𡌊	qqtu
 𡌋	tuqq
@@ -32785,8 +32768,8 @@ columns:
 𡍚	tuln
 𡍛	turf
 𡍜	tumf
-𡍝	tunz	#!!!
-𡍝	tpei	#!!!
+𡍝	tunz	!!!
+𡍝	tpei	!!!
 𡍞	tutm
 𡍟	tuui
 𡍠	tumu
@@ -32849,8 +32832,8 @@ columns:
 𡎙	vitu
 𡎚	tubm
 𡎛	tupf
-𡎜	tunj	#!!!
-𡎜	tpan	#!!!
+𡎜	tunj	!!!
+𡎜	tpan	!!!
 𡎝	tugv
 𡎞	tuvf
 𡎟	tuxd
@@ -33209,8 +33192,8 @@ columns:
 𡔀	ybtu
 𡔁	tulz
 𡔂	gltu
-𡔃	tunj	#!!!
-𡔃	tpan	#!!!
+𡔃	tunj	!!!
+𡔃	tpan	!!!
 𡔄	tuxy
 𡔅	vktu
 𡔆	uvtu
@@ -33225,8 +33208,8 @@ columns:
 𡔏	gdtu
 𡔐	tuii
 𡔑	tulj
-𡔒	tunh	#!!!
-𡔒	tpah	#!!!
+𡔒	tunh	!!!
+𡔒	tpah	!!!
 𡔓	tulu
 𡔔	tulj
 𡔕	vhtu
@@ -33478,8 +33461,8 @@ columns:
 𡘋	tltl
 𡘌	cida
 𡘍	dagf
-𡘎	dana	#!!!
-𡘎	djaa	#!!!
+𡘎	dana	!!!
+𡘎	djaa	!!!
 𡘏	dahk
 𡘐	dari
 𡘑	jqda
@@ -33624,8 +33607,8 @@ columns:
 𡚜	dagr
 𡚝	daqu
 𡚞	doho
-𡚟	danj	#!!!
-𡚟	djan	#!!!
+𡚟	danj	!!!
+𡚟	djan	!!!
 𡚠	dajt
 𡚡	suda
 𡚢	dasu
@@ -33961,8 +33944,8 @@ columns:
 𡟬	nvmx
 𡟭	nvxn
 𡟮	ifnv
-𡟯	nven	#!!!
-𡟯	nten	#!!!
+𡟯	nven	!!!
+𡟯	nten	!!!
 𡟰	nvyr
 𡟱	nvxp
 𡟲	nvhl
@@ -35326,8 +35309,8 @@ columns:
 𡵀	ujwh
 𡵁	dkuj
 𡵂	ujji
-𡵃	ujgj	#!!!
-𡵃	uhan	#!!!
+𡵃	ujgj	!!!
+𡵃	uhan	!!!
 𡵄	ujui
 𡵅	ujir
 𡵆	ujsi
@@ -35349,8 +35332,8 @@ columns:
 𡵖	ujho
 𡵗	ujda
 𡵘	ujhu
-𡵙	uanh	#!!!
-𡵙	ujah	#!!!
+𡵙	uanh	!!!
+𡵙	ujah	!!!
 𡵚	ujjx
 𡵛	ujfu
 𡵜	ujnq
@@ -35383,8 +35366,8 @@ columns:
 𡵷	ujji
 𡵸	ujii
 𡵹	jiuj
-𡵺	ujgb	#!!!
-𡵺	uhou	#!!!
+𡵺	ujgb	!!!
+𡵺	uhou	!!!
 𡵻	ujkh
 𡵼	ujho
 𡵽	yiuj
@@ -35407,8 +35390,8 @@ columns:
 𡶎	ujwz
 𡶏	ujiu
 𡶐	ujjw
-𡶑	ujgj	#!!!
-𡶑	uhan	#!!!
+𡶑	ujgj	!!!
+𡶑	uhan	!!!
 𡶒	ujfu
 𡶓	uuuj
 𡶔	ujwu
@@ -35471,8 +35454,8 @@ columns:
 𡷍	ujjd
 𡷎	ujyu
 𡷏	ujyu
-𡷐	ujgf	#!!!
-𡷐	uhen	#!!!
+𡷐	ujgf	!!!
+𡷐	uhen	!!!
 𡷑	ujci
 𡷒	bzuj
 𡷓	ujck
@@ -35619,8 +35602,8 @@ columns:
 𡹠	ujyi
 𡹡	ujjy
 𡹢	ujjn
-𡹣	uana	#!!!
-𡹣	ujaa	#!!!
+𡹣	uana	!!!
+𡹣	ujaa	!!!
 𡹤	ujqp
 𡹥	ujtu
 𡹦	ujdy
@@ -35722,8 +35705,8 @@ columns:
 𡻆	ujui
 𡻇	ujfg
 𡻈	ujqn
-𡻉	ujgb	#!!!
-𡻉	uhou	#!!!
+𡻉	ujgb	!!!
+𡻉	uhou	!!!
 𡻊	ujhe
 𡻋	ujgu
 𡻌	ujif
@@ -35805,8 +35788,8 @@ columns:
 𡼘	ujjn
 𡼙	ujkv
 𡼚	kbuj
-𡼛	ujge	#!!!
-𡼛	uhee	#!!!
+𡼛	ujge	!!!
+𡼛	uhee	!!!
 𡼜	ujpg
 𡼝	ujbf
 𡼞	ujdu
@@ -35827,8 +35810,8 @@ columns:
 𡼭	ujqm
 𡼮	ujjy
 𡼯	djuj
-𡼰	uane	#!!!
-𡼰	ujee	#!!!
+𡼰	uane	!!!
+𡼰	ujee	!!!
 𡼱	ujwz
 𡼲	ujqn
 𡼳	ujzg
@@ -35873,8 +35856,8 @@ columns:
 𡽚	yuuj
 𡽛	ujvv
 𡽜	ujyj
-𡽝	ujgk	#!!!
-𡽝	uhao	#!!!
+𡽝	ujgk	!!!
+𡽝	uhao	!!!
 𡽞	ujxi
 𡽟	ujlq
 𡽠	ujpo
@@ -35912,8 +35895,8 @@ columns:
 𡾀	ujkv
 𡾁	ujts
 𡾂	ujpu
-𡾃	ujge	#!!!
-𡾃	uhee	#!!!
+𡾃	ujge	!!!
+𡾃	uhee	!!!
 𡾄	ujuu
 𡾅	ujlv
 𡾆	ujye
@@ -35935,8 +35918,8 @@ columns:
 𡾖	ujgv
 𡾗	ujyy
 𡾘	ujui
-𡾙	uane	#!!!
-𡾙	ujee	#!!!
+𡾙	uane	!!!
+𡾙	ujee	!!!
 𡾚	ujmu
 𡾛	ujby
 𡾜	ujho
@@ -35969,8 +35952,8 @@ columns:
 𡾷	ujlz
 𡾸	ujyy
 𡾹	ujmu
-𡾺	ujge	#!!!
-𡾺	uhee	#!!!
+𡾺	ujge	!!!
+𡾺	uhee	!!!
 𡾻	ujzh
 𡾼	ujud
 𡾽	ujzg
@@ -35979,8 +35962,8 @@ columns:
 𡿀	ujgv
 𡿁	wzuj
 𡿂	isli
-𡿃	uane	#!!!
-𡿃	ujee	#!!!
+𡿃	uane	!!!
+𡿃	ujee	!!!
 𡿄	ujch
 𡿅	ujys
 𡿆	ujwz
@@ -36128,8 +36111,8 @@ columns:
 𢁔	sijn
 𢁕	jnuk
 𢁖	jnda
-𢁗	jngj	#!!!
-𢁗	jyan	#!!!
+𢁗	jngj	!!!
+𢁗	jyan	!!!
 𢁘	jnuj
 𢁙	wfjn
 𢁚	jnsj
@@ -36203,8 +36186,8 @@ columns:
 𢂞	ykbu
 𢂟	ybjn
 𢂠	hdjn
-𢂡	jngf	#!!!
-𢂡	jyen	#!!!
+𢂡	jngf	!!!
+𢂡	jyen	!!!
 𢂢	jnlk
 𢂣	jncp
 𢂤	fuba
@@ -36285,8 +36268,8 @@ columns:
 𢃯	jngv
 𢃰	jnui
 𢃱	jnmb
-𢃲	jnge	#!!!
-𢃲	jyee	#!!!
+𢃲	jnge	!!!
+𢃲	jyee	!!!
 𢃳	vbba
 𢃴	lajn
 𢃵	jqjn
@@ -36400,8 +36383,8 @@ columns:
 𢅡	jnjm
 𢅢	ujyb
 𢅣	jntl
-𢅤	jngl	#!!!
-𢅤	jyai	#!!!
+𢅤	jngl	!!!
+𢅤	jyai	!!!
 𢅥	jniu
 𢅦	vbui
 𢅧	jnmm
@@ -36575,8 +36558,8 @@ columns:
 𢈏	gdba
 𢈐	gdji
 𢈑	gdff
-𢈒	grgl	#!!!
-𢈒	gdai	#!!!
+𢈒	grgl	!!!
+𢈒	gdai	!!!
 𢈓	gdyb
 𢈔	gdri
 𢈕	gdpl
@@ -37273,8 +37256,8 @@ columns:
 𢓈	rfyp
 𢓉	rffj
 𢓊	rfvi
-𢓋	renh	#!!!
-𢓋	rfah	#!!!
+𢓋	renh	!!!
+𢓋	rfah	!!!
 𢓌	rflq
 𢓍	rftm
 𢓎	rfyk
@@ -37291,8 +37274,8 @@ columns:
 𢓙	rfrf
 𢓚	rfni
 𢓛	rfwz
-𢓜	rfge	#!!!
-𢓜	rgee	#!!!
+𢓜	rfge	!!!
+𢓜	rgee	!!!
 𢓝	rfvk
 𢓞	rfig
 𢓟	rfvb
@@ -37384,8 +37367,8 @@ columns:
 𢔵	rfrj
 𢔶	rfcp
 𢔷	rftu
-𢔸	rfge	#!!!
-𢔸	rgee	#!!!
+𢔸	rfge	!!!
+𢔸	rgee	!!!
 𢔹	rfuj
 𢔺	rfwh
 𢔻	rfjw
@@ -37424,8 +37407,8 @@ columns:
 𢕜	rfer
 𢕝	rffg
 𢕞	rfxn
-𢕟	renk	#!!!
-𢕟	rfao	#!!!
+𢕟	renk	!!!
+𢕟	rfao	!!!
 𢕠	rfgr
 𢕡	rfwf
 𢕢	rfrr
@@ -37439,8 +37422,8 @@ columns:
 𢕪	rfqc
 𢕫	rfkr
 𢕬	rfvi
-𢕭	rfgj	#!!!
-𢕭	rgan	#!!!
+𢕭	rfgj	!!!
+𢕭	rgan	!!!
 𢕮	rfkb
 𢕯	rftj
 𢕰	rfzp
@@ -37456,8 +37439,8 @@ columns:
 𢕺	rfsv
 𢕻	rfvj
 𢕼	rfhr
-𢕽	rfge	#!!!
-𢕽	rgee	#!!!
+𢕽	rfge	!!!
+𢕽	rgee	!!!
 𢕾	rfbi
 𢕿	rfwf
 𢖀	lvir
@@ -37489,8 +37472,8 @@ columns:
 𢖚	rfxn
 𢖛	rfhz
 𢖜	rfwf
-𢖝	rfge	#!!!
-𢖝	rgee	#!!!
+𢖝	rfge	!!!
+𢖝	rgee	!!!
 𢖞	rftu
 𢖟	rfxi
 𢖠	rfyy
@@ -37546,13 +37529,13 @@ columns:
 𢗒	xnfg
 𢗓	yuxn
 𢗔	xnmm
-𢗕	xngb	#!!!
-𢗕	xyou	#!!!
+𢗕	xngb	!!!
+𢗕	xyou	!!!
 𢗖	xnrf
 𢗗	xnqr
 𢗘	xnwu
-𢗙	xngl	#!!!
-𢗙	xyai	#!!!
+𢗙	xngl	!!!
+𢗙	xyai	!!!
 𢗚	xndl
 𢗛	xnui
 𢗜	xnii
@@ -37589,8 +37572,8 @@ columns:
 𢗻	lqxn
 𢗼	xnhu
 𢗽	xnbi
-𢗾	xinh	#!!!
-𢗾	xnah	#!!!
+𢗾	xinh	!!!
+𢗾	xnah	!!!
 𢗿	xnmo
 𢘀	xnba
 𢘁	kdxn
@@ -37718,8 +37701,8 @@ columns:
 𢙻	yuli
 𢙼	xnjy
 𢙽	mzxn
-𢙾	xngg	#!!!
-𢙾	xyeg	#!!!
+𢙾	xngg	!!!
+𢙾	xyeg	!!!
 𢙿	xnjn
 𢚀	xnyj
 𢚁	xnji
@@ -37771,8 +37754,8 @@ columns:
 𢚯	xnkd
 𢚰	xnxs
 𢚱	baxn
-𢚲	xngl	#!!!
-𢚲	xyai	#!!!
+𢚲	xngl	!!!
+𢚲	xyai	!!!
 𢚳	cpxn
 𢚴	xnrf
 𢚵	xnvi
@@ -37881,8 +37864,8 @@ columns:
 𢜜	xnhu
 𢜝	xnui
 𢜞	xnll
-𢜟	xngh	#!!!
-𢜟	xyah	#!!!
+𢜟	xngh	!!!
+𢜟	xyah	!!!
 𢜠	xnmy
 𢜡	xnqx
 𢜢	xnbi
@@ -37909,13 +37892,13 @@ columns:
 𢜷	xtxn
 𢜸	xnrb
 𢜹	kbxn
-𢜺	xinl	#!!!
-𢜺	xnai	#!!!
+𢜺	xinl	!!!
+𢜺	xnai	!!!
 𢜻	xnrj
 𢜼	xnig
 𢜽	xngv
-𢜾	xnge	#!!!
-𢜾	xyee	#!!!
+𢜾	xnge	!!!
+𢜾	xyee	!!!
 𢜿	xnjw
 𢝀	xntu
 𢝁	xnyj
@@ -37985,8 +37968,8 @@ columns:
 𢞁	xnfg
 𢞂	xnpf
 𢞃	xnhs
-𢞄	xngb	#!!!
-𢞄	xyou	#!!!
+𢞄	xngb	!!!
+𢞄	xyou	!!!
 𢞅	xnyk
 𢞆	xnyj
 𢞇	xntl
@@ -38013,11 +37996,11 @@ columns:
 𢞜	xnxx
 𢞝	glxn
 𢞞	xnmi
-𢞟	xngk	#!!!
-𢞟	xyao	#!!!
+𢞟	xngk	!!!
+𢞟	xyao	!!!
 𢞠	xnta
-𢞡	xngb	#!!!
-𢞡	xyou	#!!!
+𢞡	xngb	!!!
+𢞡	xyou	!!!
 𢞢	gdxn
 𢞣	rfxn
 𢞤	xtxn
@@ -38036,8 +38019,8 @@ columns:
 𢞱	jixn
 𢞲	xnvl
 𢞳	xnuj
-𢞴	xinf	#!!!
-𢞴	xnen	#!!!
+𢞴	xinf	!!!
+𢞴	xnen	!!!
 𢞵	fzbi
 𢞶	xnui
 𢞷	xndm
@@ -38073,16 +38056,16 @@ columns:
 𢟕	xnna
 𢟖	xnjn
 𢟗	xnnx
-𢟘	xnge	#!!!
-𢟘	xyee	#!!!
+𢟘	xnge	!!!
+𢟘	xyee	!!!
 𢟙	xnvf
 𢟚	xnyr
 𢟛	iidc
 𢟜	xwxn
 𢟝	xnyn
 𢟞	xnds
-𢟟	xnge	#!!!
-𢟟	xyee	#!!!
+𢟟	xnge	!!!
+𢟟	xyee	!!!
 𢟠	xnvv
 𢟡	xnys
 𢟢	xnli
@@ -38124,8 +38107,8 @@ columns:
 𢠆	xnts
 𢠇	xnxu
 𢠈	xnpn
-𢠉	xinb	#!!!
-𢠉	xnou	#!!!
+𢠉	xinb	!!!
+𢠉	xnou	!!!
 𢠊	xnsj
 𢠋	xnxn
 𢠌	xnqd
@@ -38193,8 +38176,8 @@ columns:
 𢡊	xnxn
 𢡋	xnui
 𢡌	xnnv
-𢡍	xnge	#!!!
-𢡍	xyee	#!!!
+𢡍	xnge	!!!
+𢡍	xyee	!!!
 𢡎	xnyu
 𢡏	xndo
 𢡐	xner
@@ -38213,13 +38196,13 @@ columns:
 𢡝	xnbz
 𢡞	xnrp
 𢡟	fjxn
-𢡠	xnge	#!!!
-𢡠	xyee	#!!!
+𢡠	xnge	!!!
+𢡠	xyee	!!!
 𢡡	xnxn
 𢡢	svxn
 𢡣	iuxn
-𢡤	xngj	#!!!
-𢡤	xyan	#!!!
+𢡤	xngj	!!!
+𢡤	xyan	!!!
 𢡥	mfxn
 𢡦	xnke
 𢡧	xnji
@@ -38269,8 +38252,8 @@ columns:
 𢢓	xnys
 𢢔	xnfh
 𢢕	xnqr
-𢢖	xnge	#!!!
-𢢖	xyee	#!!!
+𢢖	xnge	!!!
+𢢖	xyee	!!!
 𢢗	xnuu
 𢢘	xnyu
 𢢙	xnmu
@@ -38309,12 +38292,12 @@ columns:
 𢢺	xnmu
 𢢻	xnbz
 𢢼	xnpc
-𢢽	xngf	#!!!
-𢢽	xyen	#!!!
+𢢽	xngf	!!!
+𢢽	xyen	!!!
 𢢾	xnzi
 𢢿	kexn
-𢣀	xinl	#!!!
-𢣀	xnai	#!!!
+𢣀	xinl	!!!
+𢣀	xnai	!!!
 𢣁	xnxn
 𢣂	xnyi
 𢣃	xnsv
@@ -38329,8 +38312,8 @@ columns:
 𢣌	xnwf
 𢣍	rfxn
 𢣎	xnsi
-𢣏	xngl	#!!!
-𢣏	xyai	#!!!
+𢣏	xngl	!!!
+𢣏	xyai	!!!
 𢣐	xnbn
 𢣑	xnxn
 𢣒	xngv
@@ -38387,8 +38370,8 @@ columns:
 𢤅	dlxn
 𢤆	xnli
 𢤇	xnma
-𢤈	xngj	#!!!
-𢤈	xyan	#!!!
+𢤈	xngj	!!!
+𢤈	xyan	!!!
 𢤉	vuxn
 𢤊	uixn
 𢤋	xnba
@@ -38406,8 +38389,8 @@ columns:
 𢤗	xnuh
 𢤘	ckxn
 𢤙	iexn
-𢤚	xnge	#!!!
-𢤚	xyee	#!!!
+𢤚	xnge	!!!
+𢤚	xyee	!!!
 𢤛	xnba
 𢤜	xnvg
 𢤝	xnvf
@@ -38496,8 +38479,8 @@ columns:
 𢥰	ibxn
 𢥱	xnri
 𢥲	erxn
-𢥳	xnge	#!!!
-𢥳	xyee	#!!!
+𢥳	xnge	!!!
+𢥳	xyee	!!!
 𢥴	xnyj
 𢥵	xnud
 𢥶	xnnc
@@ -38515,8 +38498,8 @@ columns:
 𢦂	xnlj
 𢦃	xngu
 𢦄	xnib
-𢦅	xngj	#!!!
-𢦅	xyan	#!!!
+𢦅	xngj	!!!
+𢦅	xyan	!!!
 𢦆	yixn
 𢦇	xnxn
 𢦈	xnmj
@@ -38533,8 +38516,8 @@ columns:
 𢦓	wudk
 𢦔	clge
 𢦕	gefj
-𢦖	qrge	#!!!
-𢦖	qdee	#!!!
+𢦖	qrge	!!!
+𢦖	qdee	!!!
 𢦗	gewj
 𢦘	gehg
 𢦙	geyk
@@ -38548,8 +38531,8 @@ columns:
 𢦡	wugj
 𢦢	xcge
 𢦣	geri
-𢦤	pmge	#!!!
-𢦤	pdee	#!!!
+𢦤	pmge	!!!
+𢦤	pdee	!!!
 𢦥	gelq
 𢦦	gejw
 𢦧	mkge
@@ -38564,8 +38547,8 @@ columns:
 𢦰	gevi
 𢦱	geri
 𢦲	wujn
-𢦳	rfge	#!!!
-𢦳	rgee	#!!!
+𢦳	rfge	!!!
+𢦳	rgee	!!!
 𢦴	gevu
 𢦵	gemk
 𢦶	geba
@@ -38577,10 +38560,10 @@ columns:
 𢦼	zlvk
 𢦽	wuvk
 𢦾	getu
-𢦿	ifge	#!!!
-𢦿	igee	#!!!
-𢧀	hjge	#!!!
-𢧀	hhee	#!!!
+𢦿	ifge	!!!
+𢦿	igee	!!!
+𢧀	hjge	!!!
+𢧀	hhee	!!!
 𢧁	buge
 𢧂	pbge
 𢧃	jpge
@@ -38595,10 +38578,10 @@ columns:
 𢧌	horf
 𢧍	uhge
 𢧎	gsge
-𢧏	tmge	#!!!
-𢧏	tdee	#!!!
-𢧐	djge	#!!!
-𢧐	dhee	#!!!
+𢧏	tmge	!!!
+𢧏	tdee	!!!
+𢧐	djge	!!!
+𢧐	dhee	!!!
 𢧑	zltu
 𢧒	wuhj
 𢧓	wuig
@@ -38609,8 +38592,8 @@ columns:
 𢧘	goge
 𢧙	ysge
 𢧚	nmig
-𢧛	vjge	#!!!
-𢧛	vhee	#!!!
+𢧛	vjge	!!!
+𢧛	vhee	!!!
 𢧜	zlig
 𢧝	buge
 𢧞	wuvb
@@ -38620,8 +38603,8 @@ columns:
 𢧢	voge
 𢧣	uige
 𢧤	geig
-𢧥	jmge	#!!!
-𢧥	jdee	#!!!
+𢧥	jmge	!!!
+𢧥	jdee	!!!
 𢧦	wuyk
 𢧧	uujx
 𢧨	zlip
@@ -38646,16 +38629,16 @@ columns:
 𢧻	dyge
 𢧼	gezs
 𢧽	luge
-𢧾	ujge	#!!!
-𢧾	uhee	#!!!
-𢧿	wunz	#!!!
-𢧿	wpei	#!!!
+𢧾	ujge	!!!
+𢧾	uhee	!!!
+𢧿	wunz	!!!
+𢧿	wpei	!!!
 𢨀	getu
 𢨁	gejq
 𢨂	gevg
 𢨃	moge
-𢨄	jrge	#!!!
-𢨄	jdee	#!!!
+𢨄	jrge	!!!
+𢨄	jdee	!!!
 𢨅	geig
 𢨆	zlfz
 𢨇	geyi
@@ -38671,15 +38654,15 @@ columns:
 𢨑	zher
 𢨒	tsge
 𢨓	uage
-𢨔	qmge	#!!!
-𢨔	qdee	#!!!
-𢨕	vjge	#!!!
-𢨕	vhee	#!!!
+𢨔	qmge	!!!
+𢨔	qdee	!!!
+𢨕	vjge	!!!
+𢨕	vhee	!!!
 𢨖	ckge
 𢨗	dage
 𢨘	huge
-𢨙	jnge	#!!!
-𢨙	jyee	#!!!
+𢨙	jnge	!!!
+𢨙	jyee	!!!
 𢨚	zlyi
 𢨛	ihge
 𢨜	geis
@@ -40295,8 +40278,8 @@ columns:
 𣁦	bnqr
 𣁧	yjwf
 𣁨	hgwf
-𣁩	wfgf	#!!!
-𣁩	wgen	#!!!
+𣁩	wfgf	!!!
+𣁩	wgen	!!!
 𣁪	wfqx
 𣁫	wfxt
 𣁬	kdui
@@ -40516,8 +40499,8 @@ columns:
 𣅂	rier
 𣅃	ribu
 𣅄	viri
-𣅅	rinl	#!!!
-𣅅	rnai	#!!!
+𣅅	rinl	!!!
+𣅅	rnai	!!!
 𣅆	hgri
 𣅇	riwh
 𣅈	wfri
@@ -40538,8 +40521,8 @@ columns:
 𣅗	riji
 𣅘	rikv
 𣅙	rikv
-𣅚	rinz	#!!!
-𣅚	rnei	#!!!
+𣅚	rinz	!!!
+𣅚	rnei	!!!
 𣅛	ihri
 𣅜	biri
 𣅝	riyb
@@ -40983,16 +40966,16 @@ columns:
 𣌓	rigr
 𣌔	riee
 𣌕	rixp
-𣌖	rinj	#!!!
-𣌖	rnan	#!!!
+𣌖	rinj	!!!
+𣌖	rnan	!!!
 𣌗	rijt
 𣌘	ripu
 𣌙	rigj
 𣌚	djjy
 𣌛	djsh
 𣌜	xyli
-𣌝	rinh	#!!!
-𣌝	rnah	#!!!
+𣌝	rinh	!!!
+𣌝	rnah	!!!
 𣌞	puyh
 𣌟	rily
 𣌠	ipip
@@ -41182,8 +41165,8 @@ columns:
 𣏘	mujn
 𣏙	muqi
 𣏚	muui
-𣏛	muna	#!!!
-𣏛	mpaa	#!!!
+𣏛	muna	!!!
+𣏛	mpaa	!!!
 𣏜	mumm
 𣏝	murs
 𣏞	muyb
@@ -41260,8 +41243,8 @@ columns:
 𣐥	mumu
 𣐦	ximu
 𣐧	muli
-𣐨	munl	#!!!
-𣐨	mpai	#!!!
+𣐨	munl	!!!
+𣐨	mpai	!!!
 𣐩	blmu
 𣐪	muyb
 𣐫	uvmu
@@ -41416,8 +41399,8 @@ columns:
 𣓀	xnmu
 𣓁	tmmu
 𣓂	mubz
-𣓃	munz	#!!!
-𣓃	mpei	#!!!
+𣓃	munz	!!!
+𣓃	mpei	!!!
 𣓄	muci
 𣓅	mumu
 𣓆	murf
@@ -41599,8 +41582,8 @@ columns:
 𣕶	mufh
 𣕷	biln
 𣕸	muza
-𣕹	muna	#!!!
-𣕹	mpaa	#!!!
+𣕹	muna	!!!
+𣕹	mpaa	!!!
 𣕺	muyy
 𣕻	mukj
 𣕼	ufmu
@@ -41679,8 +41662,8 @@ columns:
 𣗅	nmll
 𣗆	vbmu
 𣗇	muho
-𣗈	muan	#!!!
-𣗈	mwen	#!!!
+𣗈	muan	!!!
+𣗈	mwen	!!!
 𣗉	muxd
 𣗊	mumj
 𣗋	mudh
@@ -41697,8 +41680,8 @@ columns:
 𣗖	muli
 𣗗	lnji
 𣗘	mutl
-𣗙	munj	#!!!
-𣗙	mpan	#!!!
+𣗙	munj	!!!
+𣗙	mpan	!!!
 𣗚	lnqm
 𣗛	muge
 𣗜	whmu
@@ -41720,8 +41703,8 @@ columns:
 𣗬	muib
 𣗭	musi
 𣗮	muho
-𣗯	muna	#!!!
-𣗯	mpaa	#!!!
+𣗯	muna	!!!
+𣗯	mpaa	!!!
 𣗰	ffmu
 𣗱	lixw
 𣗲	qqmu
@@ -41744,8 +41727,8 @@ columns:
 𣘃	muhl
 𣘄	muto
 𣘅	muwf
-𣘆	muna	#!!!
-𣘆	mpaa	#!!!
+𣘆	muna	!!!
+𣘆	mpaa	!!!
 𣘇	mugf
 𣘈	vulp
 𣘉	muhj
@@ -42117,8 +42100,8 @@ columns:
 𣝷	ubmu
 𣝸	muxi
 𣝹	lngv
-𣝺	lnge	#!!!
-𣝺	lyee	#!!!
+𣝺	lnge	!!!
+𣝺	lyee	!!!
 𣝻	muyh
 𣝼	mujs
 𣝽	mugj
@@ -42325,8 +42308,8 @@ columns:
 𣡆	hush
 𣡇	fjwz
 𣡈	tsgo
-𣡉	sjgk	#!!!
-𣡉	shao	#!!!
+𣡉	sjgk	!!!
+𣡉	shao	!!!
 𣡊	muyi
 𣡋	muer
 𣡌	muxm
@@ -42353,8 +42336,8 @@ columns:
 𣡡	fbcp
 𣡢	muip
 𣡣	mukb
-𣡤	munh	#!!!
-𣡤	mpah	#!!!
+𣡤	munh	!!!
+𣡤	mpah	!!!
 𣡥	erln
 𣡦	uimu
 𣡧	mufb
@@ -42967,8 +42950,8 @@ columns:
 𣫆	qyvg
 𣫇	keui
 𣫈	keyb
-𣫉	gunl	#!!!
-𣫉	gpai	#!!!
+𣫉	gunl	!!!
+𣫉	gpai	!!!
 𣫊	qygu
 𣫋	buuu
 𣫌	kefu
@@ -45003,8 +44986,8 @@ columns:
 𤊹	hobo
 𤊺	hotr
 𤊻	homk
-𤊼	yjgj	#!!!
-𤊼	yhan	#!!!
+𤊼	yjgj	!!!
+𤊼	yhan	!!!
 𤊽	daho
 𤊾	ckho
 𤊿	hoia
@@ -45255,8 +45238,8 @@ columns:
 𤎴	viho
 𤎵	viho
 𤎶	howz
-𤎷	ynge	#!!!
-𤎷	yyee	#!!!
+𤎷	ynge	!!!
+𤎷	yyee	!!!
 𤎸	ujho
 𤎹	pjho
 𤎺	hozj
@@ -45714,8 +45697,8 @@ columns:
 𤕾	pjqq
 𤕿	pjtu
 𤖀	pjfg
-𤖁	pjgj	#!!!
-𤖁	phan	#!!!
+𤖁	pjgj	!!!
+𤖁	phan	!!!
 𤖂	pjuu
 𤖃	pjli
 𤖄	pjqi
@@ -45760,8 +45743,8 @@ columns:
 𤖫	pmfj
 𤖬	pmuu
 𤖭	pmff
-𤖮	pmgb	#!!!
-𤖮	pdou	#!!!
+𤖮	pmgb	!!!
+𤖮	pdou	!!!
 𤖯	pmbu
 𤖰	pmyb
 𤖱	pmhe
@@ -45817,8 +45800,8 @@ columns:
 𤗣	pmmu
 𤗤	pmgs
 𤗥	pmmu
-𤗦	pmge	#!!!
-𤗦	pdee	#!!!
+𤗦	pmge	!!!
+𤗦	pdee	!!!
 𤗧	pmgv
 𤗨	pmxi
 𤗩	pmys
@@ -46156,8 +46139,8 @@ columns:
 𤜵	qrkl
 𤜶	qrvk
 𤜷	qrhu
-𤜸	qwne	#!!!
-𤜸	qree	#!!!
+𤜸	qwne	!!!
+𤜸	qree	!!!
 𤜹	qrqm
 𤜺	qrvi
 𤜻	qrbi
@@ -46263,8 +46246,8 @@ columns:
 𤞟	qrdb
 𤞠	qrua
 𤞡	qrxx
-𤞢	qrgj	#!!!
-𤞢	qdan	#!!!
+𤞢	qrgj	!!!
+𤞢	qdan	!!!
 𤞣	jrqr
 𤞤	qryj
 𤞥	qrdl
@@ -46288,14 +46271,14 @@ columns:
 𤞷	muqr
 𤞸	qrhv
 𤞹	qrjy
-𤞺	qrgk	#!!!
-𤞺	qdao	#!!!
+𤞺	qrgk	!!!
+𤞺	qdao	!!!
 𤞻	qrhj
 𤞼	qrln
 𤞽	qrmh
 𤞾	qrgs
-𤞿	qrgj	#!!!
-𤞿	qdan	#!!!
+𤞿	qrgj	!!!
+𤞿	qdan	!!!
 𤟀	blqr
 𤟁	qrkb
 𤟂	qryt
@@ -46305,8 +46288,8 @@ columns:
 𤟆	qria
 𤟇	qryj
 𤟈	qrds
-𤟉	qwnj	#!!!
-𤟉	qran	#!!!
+𤟉	qwnj	!!!
+𤟉	qran	!!!
 𤟊	qrwj
 𤟋	qrxc
 𤟌	pjqr
@@ -46367,10 +46350,10 @@ columns:
 𤠃	qrjn
 𤠄	qrke
 𤠅	qrbz
-𤠆	qwnl	#!!!
-𤠆	qrai	#!!!
-𤠇	qrge	#!!!
-𤠇	qdee	#!!!
+𤠆	qwnl	!!!
+𤠆	qrai	!!!
+𤠇	qrge	!!!
+𤠇	qdee	!!!
 𤠈	qrck
 𤠉	qryy
 𤠊	xrqr
@@ -46385,12 +46368,12 @@ columns:
 𤠓	qrxi
 𤠔	qryr
 𤠕	qrxu
-𤠖	qrgk	#!!!
-𤠖	qdao	#!!!
+𤠖	qrgk	!!!
+𤠖	qdao	!!!
 𤠗	qrng
 𤠘	qrzk
-𤠙	qrge	#!!!
-𤠙	qdee	#!!!
+𤠙	qrge	!!!
+𤠙	qdee	!!!
 𤠚	qrsu
 𤠛	qrir
 𤠜	qrty
@@ -46413,10 +46396,10 @@ columns:
 𤠭	qrue
 𤠮	qriu
 𤠯	qrth
-𤠰	qrgb	#!!!
-𤠰	qdou	#!!!
-𤠱	qwnl	#!!!
-𤠱	qrai	#!!!
+𤠰	qrgb	!!!
+𤠰	qdou	!!!
+𤠱	qwnl	!!!
+𤠱	qrai	!!!
 𤠲	qrqi
 𤠳	qrqi
 𤠴	qryr
@@ -46535,8 +46518,8 @@ columns:
 𤢥	qrwj
 𤢦	qrxn
 𤢧	qrxx
-𤢨	qrgk	#!!!
-𤢨	qdao	#!!!
+𤢨	qrgk	!!!
+𤢨	qdao	!!!
 𤢩	qrsv
 𤢪	qrlx
 𤢫	qrbf
@@ -46691,8 +46674,8 @@ columns:
 𤥀	whdo
 𤥁	whmy
 𤥂	whyi
-𤥃	wjgj	#!!!
-𤥃	whan	#!!!
+𤥃	wjgj	!!!
+𤥃	whan	!!!
 𤥄	whmi
 𤥅	whvb
 𤥆	whzl
@@ -46899,8 +46882,8 @@ columns:
 𤨏	whbz
 𤨐	ykyu
 𤨑	whda
-𤨒	wjgf	#!!!
-𤨒	when	#!!!
+𤨒	wjgf	!!!
+𤨒	when	!!!
 𤨓	whia
 𤨔	whyi
 𤨕	whle
@@ -47188,8 +47171,8 @@ columns:
 𤬯	wajn
 𤬰	jnwa
 𤬱	wawu
-𤬲	wanz	#!!!
-𤬲	wjei	#!!!
+𤬲	wanz	!!!
+𤬲	wjei	!!!
 𤬳	gswa
 𤬴	lvwa
 𤬵	diwa
@@ -47326,15 +47309,15 @@ columns:
 𤮸	lywa
 𤮹	lywa
 𤮺	uusj
-𤮻	gjgj	#!!!
-𤮻	ghan	#!!!
+𤮻	gjgj	!!!
+𤮻	ghan	!!!
 𤮼	yigj
-𤮽	gjgj	#!!!
-𤮽	ghan	#!!!
+𤮽	gjgj	!!!
+𤮽	ghan	!!!
 𤮾	wugj
 𤮿	gjwu
-𤯀	gjgj	#!!!
-𤯀	ghan	#!!!
+𤯀	gjgj	!!!
+𤯀	ghan	!!!
 𤯁	uigj
 𤯂	gjqr
 𤯃	mugj
@@ -47429,10 +47412,10 @@ columns:
 𤰜	tmsi
 𤰝	tmir
 𤰞	tmui
-𤰟	tmgj	#!!!
-𤰟	tdan	#!!!
-𤰠	tmgj	#!!!
-𤰠	tdan	#!!!
+𤰟	tmgj	!!!
+𤰟	tdan	!!!
+𤰠	tmgj	!!!
+𤰠	tdan	!!!
 𤰡	whtm
 𤰢	tmqi
 𤰣	ybbi
@@ -47781,8 +47764,8 @@ columns:
 𤵺	byye
 𤵻	byxs
 𤵼	byxd
-𤵽	bngl	#!!!
-𤵽	byai	#!!!
+𤵽	bngl	!!!
+𤵽	byai	!!!
 𤵾	byvl
 𤵿	byby
 𤶀	byjc
@@ -47935,8 +47918,8 @@ columns:
 𤸓	byvi
 𤸔	bypn
 𤸕	byvi
-𤸖	bngl	#!!!
-𤸖	byai	#!!!
+𤸖	bngl	!!!
+𤸖	byai	!!!
 𤸗	byqr
 𤸘	byvf
 𤸙	bymn
@@ -47999,8 +47982,8 @@ columns:
 𤹒	byqu
 𤹓	byjp
 𤹔	byph
-𤹕	bngf	#!!!
-𤹕	byen	#!!!
+𤹕	bngf	!!!
+𤹕	byen	!!!
 𤹖	byxr
 𤹗	bywg
 𤹘	byru
@@ -48112,8 +48095,8 @@ columns:
 𤻂	byxy
 𤻃	byuu
 𤻄	bysv
-𤻅	bngl	#!!!
-𤻅	byai	#!!!
+𤻅	bngl	!!!
+𤻅	byai	!!!
 𤻆	bywj
 𤻇	byiu
 𤻈	byyh
@@ -48382,8 +48365,8 @@ columns:
 𤿏	nzpi
 𤿐	klpi
 𤿑	bapi
-𤿒	pinz	#!!!
-𤿒	pnei	#!!!
+𤿒	pinz	!!!
+𤿒	pnei	!!!
 𤿓	ykpi
 𤿔	djpi
 𤿕	mnpi
@@ -48696,8 +48679,8 @@ columns:
 𥄈	lqmu
 𥄉	muir
 𥄊	muir
-𥄋	munz	#!!!
-𥄋	mpei	#!!!
+𥄋	munz	!!!
+𥄋	mpei	!!!
 𥄌	muui
 𥄍	mujx
 𥄎	mupu
@@ -48787,8 +48770,8 @@ columns:
 𥅢	muyb
 𥅣	mugs
 𥅤	zlkb
-𥅥	muan	#!!!
-𥅥	mwen	#!!!
+𥅥	muan	!!!
+𥅥	mwen	!!!
 𥅦	mulz
 𥅧	muxt
 𥅨	mugf
@@ -48918,8 +48901,8 @@ columns:
 𥇤	mujx
 𥇥	muqm
 𥇦	muxi
-𥇧	munl	#!!!
-𥇧	mpai	#!!!
+𥇧	munl	!!!
+𥇧	mpai	!!!
 𥇨	bumu
 𥇩	mukk
 𥇪	mufz
@@ -48977,8 +48960,8 @@ columns:
 𥈞	muuj
 𥈟	muyb
 𥈠	bumu
-𥈡	munl	#!!!
-𥈡	mpai	#!!!
+𥈡	munl	!!!
+𥈡	mpai	!!!
 𥈢	mumz
 𥈣	muri
 𥈤	muzb
@@ -48999,8 +48982,8 @@ columns:
 𥈳	mutu
 𥈴	munt
 𥈵	mujm
-𥈶	munj	#!!!
-𥈶	mpan	#!!!
+𥈶	munj	!!!
+𥈶	mpan	!!!
 𥈷	uimu
 𥈸	mumu
 𥈹	muir
@@ -49465,13 +49448,13 @@ columns:
 𥐄	puui
 𥐅	uipu
 𥐆	drbj
-𥐇	drgf	#!!!
-𥐇	dden	#!!!
+𥐇	drgf	!!!
+𥐇	dden	!!!
 𥐈	uiuu
 𥐉	gfdr
 𥐊	uijc
-𥐋	dwnl	#!!!
-𥐋	drai	#!!!
+𥐋	dwnl	!!!
+𥐋	drai	!!!
 𥐌	uiqi
 𥐍	drdb
 𥐎	uixu
@@ -49595,8 +49578,8 @@ columns:
 𥒄	uimi
 𥒅	uili
 𥒆	uigr
-𥒇	uian	#!!!
-𥒇	uwen	#!!!
+𥒇	uian	!!!
+𥒇	uwen	!!!
 𥒈	uivl
 𥒉	uiyu
 𥒊	uimy
@@ -49754,8 +49737,8 @@ columns:
 𥔢	uiyu
 𥔣	uijd
 𥔤	uigs
-𥔥	uink	#!!!
-𥔥	unao	#!!!
+𥔥	uink	!!!
+𥔥	unao	!!!
 𥔦	uibz
 𥔧	uivs
 𥔨	uiuv
@@ -49972,11 +49955,11 @@ columns:
 𥗻	uiyu
 𥗼	uilz
 𥗽	uilj
-𥗾	uinh	#!!!
-𥗾	unah	#!!!
+𥗾	uinh	!!!
+𥗾	unah	!!!
 𥗿	uilo
-𥘀	uinh	#!!!
-𥘀	unah	#!!!
+𥘀	uinh	!!!
+𥘀	unah	!!!
 𥘁	uilo
 𥘂	uibm
 𥘃	uily
@@ -50060,8 +50043,8 @@ columns:
 𥙑	uigd
 𥙒	liqu
 𥙓	liys
-𥙔	uian	#!!!
-𥙔	uwen	#!!!
+𥙔	uian	!!!
+𥙔	uwen	!!!
 𥙕	uilk
 𥙖	uigs
 𥙗	uikb
@@ -50429,8 +50412,8 @@ columns:
 𥟁	heyb
 𥟂	hell
 𥟃	buhe
-𥟄	henl	#!!!
-𥟄	hfai	#!!!
+𥟄	henl	!!!
+𥟄	hfai	!!!
 𥟅	hejq
 𥟆	hezi
 𥟇	heqq
@@ -50536,8 +50519,8 @@ columns:
 𥠫	hesi
 𥠬	hezb
 𥠭	vshe
-𥠮	henj	#!!!
-𥠮	hfan	#!!!
+𥠮	henj	!!!
+𥠮	hfan	!!!
 𥠯	hevj
 𥠰	heji
 𥠱	hehu
@@ -51237,8 +51220,8 @@ columns:
 𥫧	gevu
 𥫨	vuir
 𥫩	vuuk
-𥫪	vuna	#!!!
-𥫪	vpaa	#!!!
+𥫪	vuna	!!!
+𥫪	vpaa	!!!
 𥫫	vuxw
 𥫬	vuqi
 𥫭	vunv
@@ -51377,8 +51360,8 @@ columns:
 𥭲	vulk
 𥭳	vudi
 𥭴	vuxn
-𥭵	vuna	#!!!
-𥭵	vpaa	#!!!
+𥭵	vuna	!!!
+𥭵	vpaa	!!!
 𥭶	vumh
 𥭷	vurf
 𥭸	vuvi
@@ -51541,8 +51524,8 @@ columns:
 𥰕	vubi
 𥰖	vujm
 𥰗	vuba
-𥰘	vung	#!!!
-𥰘	vpeg	#!!!
+𥰘	vung	!!!
+𥰘	vpeg	!!!
 𥰙	vuwf
 𥰚	vuuk
 𥰛	vufu
@@ -51906,8 +51889,8 @@ columns:
 𥶁	vula
 𥶂	jido
 𥶃	vumg
-𥶄	vunf	#!!!
-𥶄	vpen	#!!!
+𥶄	vunf	!!!
+𥶄	vpen	!!!
 𥶅	vulq
 𥶆	vulv
 𥶇	vulu
@@ -51986,8 +51969,8 @@ columns:
 𥷐	vugj
 𥷑	vujc
 𥷒	vuli
-𥷓	vunz	#!!!
-𥷓	vpei	#!!!
+𥷓	vunz	!!!
+𥷓	vpei	!!!
 𥷔	vuyu
 𥷕	vuye
 𥷖	vuwa
@@ -52033,8 +52016,8 @@ columns:
 𥷾	vuxs
 𥷿	vuuu
 𥸀	vuyu
-𥸁	vunj	#!!!
-𥸁	vpan	#!!!
+𥸁	vunj	!!!
+𥸁	vpan	!!!
 𥸂	vuuu
 𥸃	vuuu
 𥸄	vuzf
@@ -52051,8 +52034,8 @@ columns:
 𥸏	vufj
 𥸐	vulu
 𥸑	vujs
-𥸒	vunh	#!!!
-𥸒	vpah	#!!!
+𥸒	vunh	!!!
+𥸒	vpah	!!!
 𥸓	vuue
 𥸔	vujx
 𥸕	vulz
@@ -52285,8 +52268,8 @@ columns:
 𥻸	mibf
 𥻹	miia
 𥻺	mixi
-𥻻	mina	#!!!
-𥻻	mnaa	#!!!
+𥻻	mina	!!!
+𥻻	mnaa	!!!
 𥻼	miwu
 𥻽	lzji
 𥻾	miji
@@ -52430,7 +52413,7 @@ columns:
 𥾈	basi
 𥾉	sibk
 𥾊	siji
-𥾋	sinl	#!!!
+𥾋	sinl	!!!
 𥾌	sizi
 𥾍	sigj
 𥾎	siqi
@@ -52444,7 +52427,7 @@ columns:
 𥾖	siir
 𥾗	sixc
 𥾘	siui
-𥾙	sina	#!!!
+𥾙	sina	!!!
 𥾚	sirs
 𥾛	siqx
 𥾜	xssi
@@ -52544,8 +52527,8 @@ columns:
 𥿺	siwh
 𥿻	sivi
 𥿼	sihd
-𥿽	sian	#!!!
-𥿽	swen	#!!!
+𥿽	sian	!!!
+𥿽	swen	!!!
 𥿾	siub
 𥿿	ersi
 𦀀	ansi
@@ -52588,7 +52571,7 @@ columns:
 𦀥	jqsi
 𦀦	sijn
 𦀧	uksi
-𦀨	sina	#!!!
+𦀨	sina	!!!
 𦀩	siyb
 𦀪	sibo
 𦀫	siqy
@@ -52608,7 +52591,7 @@ columns:
 𦀹	sicp
 𦀺	siie
 𦀻	sigl
-𦀼	sinz	#!!!
+𦀼	sinz	!!!
 𦀽	sigk
 𦀾	siid
 𦀿	siwz
@@ -52729,7 +52712,7 @@ columns:
 𦂲	sibi
 𦂳	ifsi
 𦂴	siuj
-𦂵	sina	#!!!
+𦂵	sina	!!!
 𦂶	sike
 𦂷	siwf
 𦂸	sipo
@@ -53063,7 +53046,7 @@ columns:
 𦈀	csny
 𦈁	cslv
 𦈂	sirk
-𦈃	sinh	#!!!
+𦈃	sinh	!!!
 𦈄	siji
 𦈅	sidx
 𦈆	wfbk
@@ -53380,7 +53363,7 @@ columns:
 𦌽	siyj
 𦌾	sihr
 𦌿	sili
-𦍀	sinj	#!!!
+𦍀	sinj	!!!
 𦍁	sisi
 𦍂	sixp
 𦍃	whhr
@@ -53402,8 +53385,8 @@ columns:
 𦍓	yhqi
 𦍔	yhye
 𦍕	qryh
-𦍖	bana	#!!!
-𦍖	bjaa	#!!!
+𦍖	bana	!!!
+𦍖	bjaa	!!!
 𦍗	yhyu
 𦍘	yhyr
 𦍙	dlyh
@@ -53898,8 +53881,8 @@ columns:
 𦕂	muer
 𦕃	erdj
 𦕄	erjn
-𦕅	eerh	#!!!
-𦕅	erah	#!!!
+𦕅	eerh	!!!
+𦕅	erah	!!!
 𦕆	erya
 𦕇	eryk
 𦕈	eruk
@@ -54648,8 +54631,8 @@ columns:
 𦠯	ytxm
 𦠰	jmvo
 𦠱	ytfa
-𦠲	yuee	#!!!
-𦠲	ytee	#!!!
+𦠲	yuee	!!!
+𦠲	ytee	!!!
 𦠳	ytij
 𦠴	ytqn
 𦠵	ytdv
@@ -54826,8 +54809,8 @@ columns:
 𦣠	ifrf
 𦣡	ifff
 𦣢	iffu
-𦣣	ifge	#!!!
-𦣣	igee	#!!!
+𦣣	ifge	!!!
+𦣣	igee	!!!
 𦣤	kdkd
 𦣥	ifbi
 𦣦	ifif
@@ -54879,8 +54862,8 @@ columns:
 𦤔	zifh
 𦤕	ibjt
 𦤖	zizu
-𦤗	zinl	#!!!
-𦤗	znai	#!!!
+𦤗	zinl	!!!
+𦤗	znai	!!!
 𦤘	erzi
 𦤙	nxiu
 𦤚	ibba
@@ -55022,8 +55005,8 @@ columns:
 𦦢	ihjq
 𦦣	jqzv
 𦦤	xnqu
-𦦥	xngj	#!!!
-𦦥	xyan	#!!!
+𦦥	xngj	!!!
+𦦥	xyan	!!!
 𦦦	yuwh
 𦦧	tsuu
 𦦨	ykyj
@@ -55324,8 +55307,8 @@ columns:
 𦫏	ldby
 𦫐	kwld
 𦫑	xild
-𦫒	nmgf	#!!!
-𦫒	nden	#!!!
+𦫒	nmgf	!!!
+𦫒	nden	!!!
 𦫓	sexi
 𦫔	dgse
 𦫕	wzse
@@ -55348,8 +55331,8 @@ columns:
 𦫦	yrse
 𦫧	mzse
 𦫨	yjse
-𦫩	eese	#!!!
-𦫩	esee	#!!!
+𦫩	eese	!!!
+𦫩	esee	!!!
 𦫪	xtse
 𦫫	wgse
 𦫬	xise
@@ -56049,8 +56032,8 @@ columns:
 𦶢	ckhh
 𦶣	cklx
 𦶤	ckyr
-𦶥	caoe	#!!!
-𦶥	ckee	#!!!
+𦶥	caoe	!!!
+𦶥	ckee	!!!
 𦶦	ckna
 𦶧	ckyi
 𦶨	ckwf
@@ -56099,8 +56082,8 @@ columns:
 𦷓	ckho
 𦷔	ckvi
 𦷕	ckbi
-𦷖	caoe	#!!!
-𦷖	ckee	#!!!
+𦷖	caoe	!!!
+𦷖	ckee	!!!
 𦷗	ckli
 𦷘	ckui
 𦷙	ckvj
@@ -56405,8 +56388,8 @@ columns:
 𦼄	ckkv
 𦼅	ckye
 𦼆	ckyu
-𦼇	caoe	#!!!
-𦼇	ckee	#!!!
+𦼇	caoe	!!!
+𦼇	ckee	!!!
 𦼈	ckho
 𦼉	ckvv
 𦼊	cklg
@@ -57128,8 +57111,8 @@ columns:
 𧇖	humu
 𧇗	humu
 𧇘	buqx
-𧇙	hunj	#!!!
-𧇙	hpan	#!!!
+𧇙	hunj	!!!
+𧇙	hpan	!!!
 𧇚	hubo
 𧇛	hult
 𧇜	ifhu
@@ -58204,8 +58187,8 @@ columns:
 𧘉	yikd
 𧘊	yiji
 𧘋	yiba
-𧘌	yinl	#!!!
-𧘌	ynai	#!!!
+𧘌	yinl	!!!
+𧘌	ynai	!!!
 𧘍	yigs
 𧘎	yikv
 𧘏	yigs
@@ -58431,8 +58414,8 @@ columns:
 𧛫	eryi
 𧛬	ckyi
 𧛭	yiro
-𧛮	yinl	#!!!
-𧛮	ynai	#!!!
+𧛮	yinl	!!!
+𧛮	ynai	!!!
 𧛯	qmyi
 𧛰	yimz
 𧛱	bkyi
@@ -58666,8 +58649,8 @@ columns:
 𧟕	yixt
 𧟖	yijq
 𧟗	yiui
-𧟘	yinh	#!!!
-𧟘	ynah	#!!!
+𧟘	yinh	!!!
+𧟘	ynah	!!!
 𧟙	yily
 𧟚	yiis
 𧟛	liyi
@@ -58704,8 +58687,8 @@ columns:
 𧟺	xily
 𧟻	xivo
 𧟼	xigv
-𧟽	xing	#!!!
-𧟽	xneg	#!!!
+𧟽	xing	!!!
+𧟽	xneg	!!!
 𧟾	xifb
 𧟿	xirf
 𧠀	xigj
@@ -58902,8 +58885,8 @@ columns:
 𧢿	jcfu
 𧣀	jcpu
 𧣁	jcyn
-𧣂	jwoe	#!!!
-𧣂	jcee	#!!!
+𧣂	jwoe	!!!
+𧣂	jcee	!!!
 𧣃	jcba
 𧣄	jcvi
 𧣅	bijc
@@ -59071,20 +59054,20 @@ columns:
 𧥧	xiyj
 𧥨	yjui
 𧥩	yjyb
-𧥪	yjgj	#!!!
-𧥪	yhan	#!!!
+𧥪	yjgj	!!!
+𧥪	yhan	!!!
 𧥫	yjto
 𧥬	yjfj
 𧥭	yjjq
 𧥮	yjhu
-𧥯	yjgj	#!!!
-𧥯	yhan	#!!!
+𧥯	yjgj	!!!
+𧥯	yhan	!!!
 𧥰	yjrg
 𧥱	yjfu
 𧥲	wuyj
 𧥳	yjhg
-𧥴	yanh	#!!!
-𧥴	yjah	#!!!
+𧥴	yanh	!!!
+𧥴	yjah	!!!
 𧥵	yjri
 𧥶	yjwh
 𧥷	yjqi
@@ -59094,8 +59077,8 @@ columns:
 𧥻	bkyj
 𧥼	yjyp
 𧥽	eryj
-𧥾	yjge	#!!!
-𧥾	yhee	#!!!
+𧥾	yjge	!!!
+𧥾	yhee	!!!
 𧥿	uvyj
 𧦀	yjyb
 𧦁	yjru
@@ -59106,8 +59089,8 @@ columns:
 𧦆	yjyb
 𧦇	ytyj
 𧦈	yjhu
-𧦉	yjgl	#!!!
-𧦉	yhai	#!!!
+𧦉	yjgl	!!!
+𧦉	yhai	!!!
 𧦊	riyj
 𧦋	yjuv
 𧦌	yjub
@@ -59130,10 +59113,10 @@ columns:
 𧦝	yjhu
 𧦞	yjbu
 𧦟	yjfa
-𧦠	yane	#!!!
-𧦠	yjee	#!!!
-𧦡	yjgj	#!!!
-𧦡	yhan	#!!!
+𧦠	yane	!!!
+𧦠	yjee	!!!
+𧦡	yjgj	!!!
+𧦡	yhan	!!!
 𧦢	yjhk
 𧦣	yjnv
 𧦤	yjjw
@@ -59195,8 +59178,8 @@ columns:
 𧧜	yjwh
 𧧝	yjya
 𧧞	vkyb
-𧧟	yjge	#!!!
-𧧟	yhee	#!!!
+𧧟	yjge	!!!
+𧧟	yhee	!!!
 𧧠	yjxt
 𧧡	yjsi
 𧧢	yjhd
@@ -59247,8 +59230,8 @@ columns:
 𧨏	yjyi
 𧨐	yjnv
 𧨑	yjhg
-𧨒	yjgg	#!!!
-𧨒	yheg	#!!!
+𧨒	yjgg	!!!
+𧨒	yheg	!!!
 𧨓	yjri
 𧨔	yjmh
 𧨕	yjmm
@@ -59264,8 +59247,8 @@ columns:
 𧨟	yjyj
 𧨠	yjyb
 𧨡	yjjp
-𧨢	yjgj	#!!!
-𧨢	yhan	#!!!
+𧨢	yjgj	!!!
+𧨢	yhan	!!!
 𧨣	nzyj
 𧨤	yjgs
 𧨥	yjri
@@ -59274,8 +59257,8 @@ columns:
 𧨨	yjuj
 𧨩	yjtm
 𧨪	yjyt
-𧨫	yjgj	#!!!
-𧨫	yhan	#!!!
+𧨫	yjgj	!!!
+𧨫	yhan	!!!
 𧨬	yjbi
 𧨭	woyj
 𧨮	yjfu
@@ -59305,8 +59288,8 @@ columns:
 𧩆	yjtu
 𧩇	yjji
 𧩈	yjli
-𧩉	yjgg	#!!!
-𧩉	yheg	#!!!
+𧩉	yjgg	!!!
+𧩉	yheg	!!!
 𧩊	yjkw
 𧩋	lnyj
 𧩌	yjmg
@@ -59317,8 +59300,8 @@ columns:
 𧩑	yjyt
 𧩒	yjmu
 𧩓	yjhu
-𧩔	yjgj	#!!!
-𧩔	yhan	#!!!
+𧩔	yjgj	!!!
+𧩔	yhan	!!!
 𧩕	yjqx
 𧩖	yjib
 𧩗	yjyb
@@ -59404,8 +59387,8 @@ columns:
 𧪧	yjya
 𧪨	yjma
 𧪩	yjxi
-𧪪	yanh	#!!!
-𧪪	yjah	#!!!
+𧪪	yanh	!!!
+𧪪	yjah	!!!
 𧪫	yjbi
 𧪬	ytsi
 𧪭	yjlq
@@ -59419,16 +59402,16 @@ columns:
 𧪵	gvyj
 𧪶	yjbo
 𧪷	nmjn
-𧪸	yjgb	#!!!
-𧪸	yhou	#!!!
+𧪸	yjgb	!!!
+𧪸	yhou	!!!
 𧪹	yjzl
 𧪺	yjjy
 𧪻	yjli
 𧪼	yjyr
 𧪽	yjjn
 𧪾	yjsp
-𧪿	yjgb	#!!!
-𧪿	yhou	#!!!
+𧪿	yjgb	!!!
+𧪿	yhou	!!!
 𧫀	yjgp
 𧫁	yjyr
 𧫂	yjzi
@@ -59466,8 +59449,8 @@ columns:
 𧫢	yjwh
 𧫣	uuyj
 𧫤	yjbi
-𧫥	yanj	#!!!
-𧫥	yjan	#!!!
+𧫥	yanj	!!!
+𧫥	yjan	!!!
 𧫦	yiyj
 𧫧	yjyb
 𧫨	yjmu
@@ -59545,8 +59528,8 @@ columns:
 𧬰	xdyj
 𧬱	yjke
 𧬲	yjiu
-𧬳	yjgj	#!!!
-𧬳	yhan	#!!!
+𧬳	yjgj	!!!
+𧬳	yhan	!!!
 𧬴	yjyt
 𧬵	yjzu
 𧬶	yjlq
@@ -59601,10 +59584,10 @@ columns:
 𧭧	yjve
 𧭨	csyj
 𧭩	yjtu
-𧭪	yjge	#!!!
-𧭪	yhee	#!!!
-𧭫	yjgj	#!!!
-𧭫	yhan	#!!!
+𧭪	yjge	!!!
+𧭪	yhee	!!!
+𧭫	yjgj	!!!
+𧭫	yhan	!!!
 𧭬	yjjx
 𧭭	ihyj
 𧭮	yjmm
@@ -59619,8 +59602,8 @@ columns:
 𧭷	yjlu
 𧭸	yjjq
 𧭹	pnyj
-𧭺	yjgj	#!!!
-𧭺	yhan	#!!!
+𧭺	yjgj	!!!
+𧭺	yhan	!!!
 𧭻	yjyj
 𧭼	yjqn
 𧭽	yjyj
@@ -59854,8 +59837,8 @@ columns:
 𧱡	uiks
 𧱢	uily
 𧱣	uiyb
-𧱤	trge	#!!!
-𧱤	tdee	#!!!
+𧱤	trge	!!!
+𧱤	tdee	!!!
 𧱥	uizl
 𧱦	uils
 𧱧	uiwz
@@ -60041,8 +60024,8 @@ columns:
 𧴛	vijx
 𧴜	vizk
 𧴝	vimj
-𧴞	ving	#!!!
-𧴞	vneg	#!!!
+𧴞	ving	!!!
+𧴞	vneg	!!!
 𧴟	vipg
 𧴠	vili
 𧴡	vill
@@ -60735,8 +60718,8 @@ columns:
 𧿐	zuqm
 𧿑	zuyi
 𧿒	zuyn
-𧿓	zuna	#!!!
-𧿓	zpaa	#!!!
+𧿓	zuna	!!!
+𧿓	zpaa	!!!
 𧿔	zuib
 𧿕	zuhw
 𧿖	zuxs
@@ -60857,8 +60840,8 @@ columns:
 𨁉	zukp
 𨁊	zujn
 𨁋	zudb
-𨁌	zuna	#!!!
-𨁌	zpaa	#!!!
+𨁌	zuna	!!!
+𨁌	zpaa	!!!
 𨁍	zujm
 𨁎	zuig
 𨁏	zufu
@@ -60885,8 +60868,8 @@ columns:
 𨁤	zuid
 𨁥	duzu
 𨁦	zuns
-𨁧	zunz	#!!!
-𨁧	zpei	#!!!
+𨁧	zunz	!!!
+𨁧	zpei	!!!
 𨁨	zukd
 𨁩	zuba
 𨁪	zuyb
@@ -60973,8 +60956,8 @@ columns:
 𨂻	zujq
 𨂼	zuvi
 𨂽	zubg
-𨂾	zunj	#!!!
-𨂾	zpan	#!!!
+𨂾	zunj	!!!
+𨂾	zpan	!!!
 𨂿	zuwl
 𨃀	zujm
 𨃁	zucl
@@ -60994,8 +60977,8 @@ columns:
 𨃏	zuqn
 𨃐	zutl
 𨃑	zutc
-𨃒	zunj	#!!!
-𨃒	zpan	#!!!
+𨃒	zunj	!!!
+𨃒	zpan	!!!
 𨃓	zuia
 𨃔	zunx
 𨃕	zuxu
@@ -61028,16 +61011,16 @@ columns:
 𨃰	zujm
 𨃱	lizu
 𨃲	yuzu
-𨃳	zung	#!!!
-𨃳	zpeg	#!!!
+𨃳	zung	!!!
+𨃳	zpeg	!!!
 𨃴	zugu
 𨃵	zuvf
 𨃶	zuge
 𨃷	zuvu
 𨃸	zuls
 𨃹	zulh
-𨃺	zuna	#!!!
-𨃺	zpaa	#!!!
+𨃺	zuna	!!!
+𨃺	zpaa	!!!
 𨃻	zulx
 𨃼	zuzo
 𨃽	zuru
@@ -61330,8 +61313,8 @@ columns:
 𨈜	ufrj
 𨈝	ufdj
 𨈞	ufyb
-𨈟	ufge	#!!!
-𨈟	ugee	#!!!
+𨈟	ufge	!!!
+𨈟	ugee	!!!
 𨈠	ufyk
 𨈡	ufwf
 𨈢	ufkh
@@ -61414,8 +61397,8 @@ columns:
 𨉯	ufkk
 𨉰	uflh
 𨉱	ufro
-𨉲	ufgk	#!!!
-𨉲	ugao	#!!!
+𨉲	ufgk	!!!
+𨉲	ugao	!!!
 𨉳	ufwg
 𨉴	ufrs
 𨉵	ufgv
@@ -61425,8 +61408,8 @@ columns:
 𨉹	ufgo
 𨉺	ufpn
 𨉻	ufrr
-𨉼	uene	#!!!
-𨉼	ufee	#!!!
+𨉼	uene	!!!
+𨉼	ufee	!!!
 𨉽	ufwh
 𨉾	ufmu
 𨉿	ufer
@@ -61593,8 +61576,8 @@ columns:
 𨌠	ielu
 𨌡	ieyb
 𨌢	ievg
-𨌣	ienz	#!!!
-𨌣	ifei	#!!!
+𨌣	ienz	!!!
+𨌣	ifei	!!!
 𨌤	erie
 𨌥	whie
 𨌦	ieui
@@ -61852,8 +61835,8 @@ columns:
 𨐢	bick
 𨐣	xnmu
 𨐤	xnjm
-𨐥	xnge	#!!!
-𨐥	xyee	#!!!
+𨐥	xnge	!!!
+𨐥	xyee	!!!
 𨐦	xnfg
 𨐧	bitu
 𨐨	bijy
@@ -63122,8 +63105,8 @@ columns:
 𨤗	bmmu
 𨤘	bmye
 𨤙	bmsi
-𨤚	bmgb	#!!!
-𨤚	bdou	#!!!
+𨤚	bmgb	!!!
+𨤚	bdou	!!!
 𨤛	bmrs
 𨤜	bmui
 𨤝	bmck
@@ -63319,11 +63302,11 @@ columns:
 𨧛	jnyk
 𨧜	jnbh
 𨧝	jndj
-𨧞	jinh	#!!!
-𨧞	jnah	#!!!
+𨧞	jinh	!!!
+𨧞	jnah	!!!
 𨧟	jnrf
-𨧠	jngj	#!!!
-𨧠	jyan	#!!!
+𨧠	jngj	!!!
+𨧠	jyan	!!!
 𨧡	jnjp
 𨧢	jnbx
 𨧣	jnke
@@ -63450,16 +63433,16 @@ columns:
 𨩜	jnyu
 𨩝	jnjn
 𨩞	jnnq
-𨩟	jnge	#!!!
-𨩟	jyee	#!!!
+𨩟	jnge	!!!
+𨩟	jyee	!!!
 𨩠	jnug
 𨩡	jndl
 𨩢	jnkj
 𨩣	jnpf
 𨩤	jnkk
 𨩥	jnfg
-𨩦	jngb	#!!!
-𨩦	jyou	#!!!
+𨩦	jngb	!!!
+𨩦	jyou	!!!
 𨩧	njjn
 𨩨	jnia
 𨩩	jnmk
@@ -63496,8 +63479,8 @@ columns:
 𨪈	jngv
 𨪉	jnhu
 𨪊	jnzk
-𨪋	jngb	#!!!
-𨪋	jyou	#!!!
+𨪋	jngb	!!!
+𨪋	jyou	!!!
 𨪌	jnqi
 𨪍	jnso
 𨪎	jnho
@@ -63514,8 +63497,8 @@ columns:
 𨪙	jnjd
 𨪚	jnxr
 𨪛	jnyr
-𨪜	jinf	#!!!
-𨪜	jnen	#!!!
+𨪜	jinf	!!!
+𨪜	jnen	!!!
 𨪝	jnqm
 𨪞	jnys
 𨪟	jnui
@@ -63577,8 +63560,8 @@ columns:
 𨫗	jnyu
 𨫘	jnuj
 𨫙	jnwf
-𨫚	jngj	#!!!
-𨫚	jyan	#!!!
+𨫚	jngj	!!!
+𨫚	jyan	!!!
 𨫛	jnui
 𨫜	jnxc
 𨫝	jnvv
@@ -63612,8 +63595,8 @@ columns:
 𨫹	dajn
 𨫺	jnuk
 𨫻	jntv
-𨫼	jink	#!!!
-𨫼	jnao	#!!!
+𨫼	jink	!!!
+𨫼	jnao	!!!
 𨫽	jnxn
 𨫾	jnwf
 𨫿	jnkv
@@ -63635,8 +63618,8 @@ columns:
 𨬏	jnli
 𨬐	jtjn
 𨬑	ihjn
-𨬒	jngj	#!!!
-𨬒	jyan	#!!!
+𨬒	jngj	!!!
+𨬒	jyan	!!!
 𨬓	jnyt
 𨬔	jnrp
 𨬕	jngu
@@ -63663,8 +63646,8 @@ columns:
 𨬪	nmjn
 𨬫	jnkl
 𨬬	jnfu
-𨬭	jngj	#!!!
-𨬭	jyan	#!!!
+𨬭	jngj	!!!
+𨬭	jyan	!!!
 𨬮	lnjn
 𨬯	jnxi
 𨬰	jnxd
@@ -63683,8 +63666,8 @@ columns:
 𨬽	xdjn
 𨬾	jnbi
 𨬿	jnvi
-𨭀	jngj	#!!!
-𨭀	jyan	#!!!
+𨭀	jngj	!!!
+𨭀	jyan	!!!
 𨭁	jnuv
 𨭂	jncs
 𨭃	jnig
@@ -63711,8 +63694,8 @@ columns:
 𨭘	jnmm
 𨭙	jnsi
 𨭚	jnpc
-𨭛	jnge	#!!!
-𨭛	jyee	#!!!
+𨭛	jnge	!!!
+𨭛	jyee	!!!
 𨭜	jnfh
 𨭝	jnua
 𨭞	whjn
@@ -63847,8 +63830,8 @@ columns:
 𨯟	jnho
 𨯠	jnmg
 𨯡	jner
-𨯢	jngj	#!!!
-𨯢	jyan	#!!!
+𨯢	jngj	!!!
+𨯢	jyan	!!!
 𨯣	jnyu
 𨯤	jnyy
 𨯥	jnbi
@@ -63863,8 +63846,8 @@ columns:
 𨯮	jnye
 𨯯	jnyi
 𨯰	jnxt
-𨯱	jnge	#!!!
-𨯱	jyee	#!!!
+𨯱	jnge	!!!
+𨯱	jyee	!!!
 𨯲	jntb
 𨯳	yejn
 𨯴	jnjn
@@ -64017,8 +64000,8 @@ columns:
 𨲇	ihzs
 𨲈	ihvv
 𨲉	ihiv
-𨲊	ijgj	#!!!
-𨲊	ihan	#!!!
+𨲊	ijgj	!!!
+𨲊	ihan	!!!
 𨲋	ihbz
 𨲌	ihvg
 𨲍	ihih
@@ -64104,8 +64087,8 @@ columns:
 𨳝	mfrf
 𨳞	mfib
 𨳟	mfyb
-𨳠	mfgh	#!!!
-𨳠	mgah	#!!!
+𨳠	mfgh	!!!
+𨳠	mgah	!!!
 𨳡	mfck
 𨳢	mfpu
 𨳣	mfxi
@@ -64119,8 +64102,8 @@ columns:
 𨳫	mfbu
 𨳬	mfyn
 𨳭	mfpm
-𨳮	mfge	#!!!
-𨳮	mgee	#!!!
+𨳮	mfge	!!!
+𨳮	mgee	!!!
 𨳯	mfnq
 𨳰	mfwu
 𨳱	wumf
@@ -64134,8 +64117,8 @@ columns:
 𨳹	mfmk
 𨳺	mfui
 𨳻	mfer
-𨳼	mfgj	#!!!
-𨳼	mgan	#!!!
+𨳼	mfgj	!!!
+𨳼	mgan	!!!
 𨳽	mfju
 𨳾	mfyb
 𨳿	mfwl
@@ -64174,8 +64157,8 @@ columns:
 𨴠	mfxy
 𨴡	mfvk
 𨴢	mfdo
-𨴣	menj	#!!!
-𨴣	mfan	#!!!
+𨴣	menj	!!!
+𨴣	mfan	!!!
 𨴤	mfwh
 𨴥	mfvl
 𨴦	ybmf
@@ -64184,8 +64167,8 @@ columns:
 𨴩	mfyu
 𨴪	mffu
 𨴫	mffu
-𨴬	mfgk	#!!!
-𨴬	mgao	#!!!
+𨴬	mfgk	!!!
+𨴬	mgao	!!!
 𨴭	mfys
 𨴮	mfxn
 𨴯	mfui
@@ -64217,8 +64200,8 @@ columns:
 𨵉	mfxy
 𨵊	mfjm
 𨵋	mfwz
-𨵌	mena	#!!!
-𨵌	mfaa	#!!!
+𨵌	mena	!!!
+𨵌	mfaa	!!!
 𨵍	mfvj
 𨵎	mfke
 𨵏	mfcp
@@ -64266,8 +64249,8 @@ columns:
 𨵹	mfck
 𨵺	mfxi
 𨵻	mfjq
-𨵼	mfge	#!!!
-𨵼	mgee	#!!!
+𨵼	mfge	!!!
+𨵼	mgee	!!!
 𨵽	mfri
 𨵾	mfwz
 𨵿	mfck
@@ -64276,8 +64259,8 @@ columns:
 𨶂	mfyi
 𨶃	mfto
 𨶄	mfvv
-𨶅	mfgk	#!!!
-𨶅	mgao	#!!!
+𨶅	mfgk	!!!
+𨶅	mgao	!!!
 𨶆	mfch
 𨶇	mfwu
 𨶈	mfth
@@ -64313,8 +64296,8 @@ columns:
 𨶦	mfkr
 𨶧	mflu
 𨶨	mfce
-𨶩	mfgl	#!!!
-𨶩	mgai	#!!!
+𨶩	mfgl	!!!
+𨶩	mgai	!!!
 𨶪	mflq
 𨶫	mfji
 𨶬	mfhw
@@ -64405,8 +64388,8 @@ columns:
 𨸁	mfwh
 𨸂	mffh
 𨸃	mfmk
-𨸄	mfgf	#!!!
-𨸄	mgen	#!!!
+𨸄	mfgf	!!!
+𨸄	mgen	!!!
 𨸅	mfvi
 𨸆	mffu
 𨸇	mfbm
@@ -64570,8 +64553,8 @@ columns:
 𨺥	erxs
 𨺦	eryb
 𨺧	erqq
-𨺨	eere	#!!!
-𨺨	eree	#!!!
+𨺨	eere	!!!
+𨺨	eree	!!!
 𨺩	erjm
 𨺪	eruj
 𨺫	yufu
@@ -64922,8 +64905,8 @@ columns:
 𩀄	ykvv
 𩀅	trvv
 𩀆	tuvv
-𩀇	eevv	#!!!
-𩀇	ezhv	#!!!
+𩀇	eevv	!!!
+𩀇	ezhv	!!!
 𩀈	xrvv
 𩀉	huvv
 𩀊	jxvv
@@ -65078,8 +65061,8 @@ columns:
 𩂟	yuwu
 𩂠	yudl
 𩂡	yugw
-𩂢	yuna	#!!!
-𩂢	ypaa	#!!!
+𩂢	yuna	!!!
+𩂢	ypaa	!!!
 𩂣	yuge
 𩂤	yuvb
 𩂥	yuyn
@@ -65190,8 +65173,8 @@ columns:
 𩄎	yumz
 𩄏	yufg
 𩄐	yujd
-𩄑	yunj	#!!!
-𩄑	ypan	#!!!
+𩄑	yunj	!!!
+𩄑	ypan	!!!
 𩄒	yuyn
 𩄓	yuye
 𩄔	yuvg
@@ -65227,8 +65210,8 @@ columns:
 𩄲	yumi
 𩄳	yuli
 𩄴	yufg
-𩄵	yuna	#!!!
-𩄵	ypaa	#!!!
+𩄵	yuna	!!!
+𩄵	ypaa	!!!
 𩄶	yuqm
 𩄷	yuvj
 𩄸	yupu
@@ -65271,8 +65254,8 @@ columns:
 𩅝	ypyj
 𩅞	yuvs
 𩅟	yujy
-𩅠	yunj	#!!!
-𩅠	ypan	#!!!
+𩅠	yunj	!!!
+𩅠	ypan	!!!
 𩅡	yusv
 𩅢	yujc
 𩅣	ypyp
@@ -65437,8 +65420,8 @@ columns:
 𩈂	fzbz
 𩈃	mmcp
 𩈄	mmrf
-𩈅	mmgj	#!!!
-𩈅	mdan	#!!!
+𩈅	mmgj	!!!
+𩈅	mdan	!!!
 𩈆	mmba
 𩈇	mmib
 𩈈	mmfg
@@ -65551,8 +65534,8 @@ columns:
 𩉳	geji
 𩉴	geee
 𩉵	geff
-𩉶	genl	#!!!
-𩉶	gfai	#!!!
+𩉶	genl	!!!
+𩉶	gfai	!!!
 𩉷	gehr
 𩉸	geju
 𩉹	geni
@@ -65632,8 +65615,8 @@ columns:
 𩋃	getk
 𩋄	gequ
 𩋅	getm
-𩋆	ifge	#!!!
-𩋆	igee	#!!!
+𩋆	ifge	!!!
+𩋆	igee	!!!
 𩋇	gebi
 𩋈	geia
 𩋉	geho
@@ -65832,8 +65815,8 @@ columns:
 𩎊	gelo
 𩎋	geyb
 𩎌	gexm
-𩎍	xmge	#!!!
-𩎍	xdee	#!!!
+𩎍	xmge	!!!
+𩎍	xdee	!!!
 𩎎	geci
 𩎏	geyi
 𩎐	gema
@@ -66615,8 +66598,8 @@ columns:
 𩚘	uigb
 𩚙	uiuk
 𩚚	uiee
-𩚛	uinz	#!!!
-𩚛	unei	#!!!
+𩚛	uinz	!!!
+𩚛	unei	!!!
 𩚜	jnui
 𩚝	uili
 𩚞	uiyk
@@ -66675,8 +66658,8 @@ columns:
 𩛓	uier
 𩛔	uixm
 𩛕	fbui
-𩛖	uian	#!!!
-𩛖	uwen	#!!!
+𩛖	uian	!!!
+𩛖	uwen	!!!
 𩛗	fzui
 𩛘	uigs
 𩛙	uifh
@@ -66760,8 +66743,8 @@ columns:
 𩜧	uiji
 𩜨	uhui
 𩜩	uigv
-𩜪	uinl	#!!!
-𩜪	unai	#!!!
+𩜪	uinl	!!!
+𩜪	unai	!!!
 𩜫	uimz
 𩜬	ifui
 𩜭	uike
@@ -66970,13 +66953,13 @@ columns:
 𩟸	glui
 𩟹	uiqu
 𩟺	uilj
-𩟻	uinh	#!!!
-𩟻	unah	#!!!
+𩟻	uinh	!!!
+𩟻	unah	!!!
 𩟼	nzyh
 𩟽	uily
 𩟾	uiui
-𩟿	uinz	#!!!
-𩟿	unei	#!!!
+𩟿	uinz	!!!
+𩟿	unei	!!!
 𩠀	uiba
 𩠁	uigj
 𩠂	uiye
@@ -67063,8 +67046,8 @@ columns:
 𩡓	xdwg
 𩡔	xdhl
 𩡕	phxd
-𩡖	xmgl	#!!!
-𩡖	xdai	#!!!
+𩡖	xmgl	!!!
+𩡖	xdai	!!!
 𩡗	xdib
 𩡘	xdxw
 𩡙	xdmj
@@ -67077,8 +67060,8 @@ columns:
 𩡠	uuxd
 𩡡	xdbi
 𩡢	xdho
-𩡣	xmgl	#!!!
-𩡣	xdai	#!!!
+𩡣	xmgl	!!!
+𩡣	xdai	!!!
 𩡤	xdgl
 𩡥	xdxc
 𩡦	xdmu
@@ -67087,8 +67070,8 @@ columns:
 𩡩	maba
 𩡪	uima
 𩡫	jima
-𩡬	mana	#!!!
-𩡬	mjaa	#!!!
+𩡬	mana	!!!
+𩡬	mjaa	!!!
 𩡭	mabu
 𩡮	marf
 𩡯	mady
@@ -67173,8 +67156,8 @@ columns:
 𩢾	lxma
 𩢿	mafb
 𩣀	marb
-𩣁	manz	#!!!
-𩣁	mjei	#!!!
+𩣁	manz	!!!
+𩣁	mjei	!!!
 𩣂	xmma
 𩣃	mauj
 𩣄	mabi
@@ -67385,8 +67368,8 @@ columns:
 𩦑	makb
 𩦒	majt
 𩦓	makl
-𩦔	mank	#!!!
-𩦔	mjao	#!!!
+𩦔	mank	!!!
+𩦔	mjao	!!!
 𩦕	madb
 𩦖	maxp
 𩦗	macv
@@ -67418,8 +67401,8 @@ columns:
 𩦱	mahv
 𩦲	mawf
 𩦳	mayi
-𩦴	mank	#!!!
-𩦴	mjao	#!!!
+𩦴	mank	!!!
+𩦴	mjao	!!!
 𩦵	gdma
 𩦶	huma
 𩦷	majx
@@ -67549,8 +67532,8 @@ columns:
 𩨳	iugu
 𩨴	guhk
 𩨵	guvi
-𩨶	guna	#!!!
-𩨶	gpaa	#!!!
+𩨶	guna	!!!
+𩨶	gpaa	!!!
 𩨷	gubi
 𩨸	guiu
 𩨹	gujw
@@ -68093,37 +68076,37 @@ columns:
 𩱒	gsge
 𩱓	erge
 𩱔	ihge
-𩱕	xmge	#!!!
-𩱕	xdee	#!!!
+𩱕	xmge	!!!
+𩱕	xdee	!!!
 𩱖	uuge
 𩱗	ybge
 𩱘	geqq
 𩱙	mige
 𩱚	boge
 𩱛	gewf
-𩱜	ifge	#!!!
-𩱜	igee	#!!!
+𩱜	ifge	!!!
+𩱜	igee	!!!
 𩱝	geqq
 𩱞	xcge
 𩱟	mzge
 𩱠	gsge
-𩱡	kjge	#!!!
-𩱡	khee	#!!!
+𩱡	kjge	!!!
+𩱡	khee	!!!
 𩱢	mzge
 𩱣	fzge
-𩱤	jmge	#!!!
-𩱤	jdee	#!!!
-𩱥	sjge	#!!!
-𩱥	shee	#!!!
+𩱤	jmge	!!!
+𩱤	jdee	!!!
+𩱥	sjge	!!!
+𩱥	shee	!!!
 𩱦	iuge
 𩱧	gkge
 𩱨	ruge
-𩱩	xmge	#!!!
-𩱩	xdee	#!!!
+𩱩	xmge	!!!
+𩱩	xdee	!!!
 𩱪	qxge
 𩱫	suge
-𩱬	lnge	#!!!
-𩱬	lyee	#!!!
+𩱬	lnge	!!!
+𩱬	lyee	!!!
 𩱭	zgge
 𩱮	quge
 𩱯	mige
@@ -68621,10 +68604,10 @@ columns:
 𩹛	yumk
 𩹜	yuku
 𩹝	yudu
-𩹞	yunj	#!!!
-𩹞	ypan	#!!!
-𩹟	yunl	#!!!
-𩹟	ypai	#!!!
+𩹞	yunj	!!!
+𩹞	ypan	!!!
+𩹟	yunl	!!!
+𩹟	ypai	!!!
 𩹠	yumm
 𩹡	yumk
 𩹢	yugo
@@ -68655,8 +68638,8 @@ columns:
 𩹻	yubi
 𩹼	voyu
 𩹽	yuyj
-𩹾	yuna	#!!!
-𩹾	ypaa	#!!!
+𩹾	yuna	!!!
+𩹾	ypaa	!!!
 𩹿	yuge
 𩺀	yuji
 𩺁	ckyu
@@ -68912,8 +68895,8 @@ columns:
 𩽻	yufu
 𩽼	yujp
 𩽽	yuvl
-𩽾	yuan	#!!!
-𩽾	ywen	#!!!
+𩽾	yuan	!!!
+𩽾	ywen	!!!
 𩽿	yudo
 𩾀	yugu
 𩾁	yuqq
@@ -70544,8 +70527,8 @@ columns:
 𪗚	iiyi
 𪗛	iikl
 𪗜	iikh
-𪗝	iinz	#!!!
-𪗝	inei	#!!!
+𪗝	iinz	!!!
+𪗝	inei	!!!
 𪗞	iiqi
 𪗟	iiqi
 𪗠	iige
@@ -70845,8 +70828,8 @@ columns:
 𪜦	tylq
 𪜧	rfia
 𪜨	rfnv
-𪜩	rfgb	#!!!
-𪜩	rgou	#!!!
+𪜩	rfgb	!!!
+𪜩	rgou	!!!
 𪜪	rfbi
 𪜫	rfib
 𪜬	rfwz
@@ -70871,8 +70854,8 @@ columns:
 𪜿	rfnv
 𪝀	rfjc
 𪝁	rgii
-𪝂	rfgf	#!!!
-𪝂	rgen	#!!!
+𪝂	rfgf	!!!
+𪝂	rgen	!!!
 𪝃	yuia
 𪝄	rfkv
 𪝅	rfmz
@@ -70902,8 +70885,8 @@ columns:
 𪝝	rfvf
 𪝞	rfyi
 𪝟	rfro
-𪝠	rfge	#!!!
-𪝠	rgee	#!!!
+𪝠	rfge	!!!
+𪝠	rgee	!!!
 𪝡	rfmo
 𪝢	rfyi
 𪝣	rfji
@@ -71140,8 +71123,8 @@ columns:
 𪡊	kbvi
 𪡋	kbqm
 𪡌	cikb
-𪡍	lnge	#!!!
-𪡍	lyee	#!!!
+𪡍	lnge	!!!
+𪡍	lyee	!!!
 𪡎	lyly
 𪡏	kblm
 𪡐	ybhv
@@ -71269,8 +71252,8 @@ columns:
 𪣊	tubi
 𪣋	tucp
 𪣌	tuer
-𪣍	tunl	#!!!
-𪣍	tpai	#!!!
+𪣍	tunl	!!!
+𪣍	tpai	!!!
 𪣎	tuvu
 𪣏	tuvb
 𪣐	tuvd
@@ -71319,8 +71302,8 @@ columns:
 𪣻	tulb
 𪣼	tuyi
 𪣽	ugbo
-𪣾	tung	#!!!
-𪣾	tpeg	#!!!
+𪣾	tung	!!!
+𪣾	tpeg	!!!
 𪣿	ertu
 𪤀	iftu
 𪤁	tucp
@@ -71646,23 +71629,23 @@ columns:
 𪩁	ujzu
 𪩂	ujnj
 𪩃	ujui
-𪩄	ujge	#!!!
-𪩄	uhee	#!!!
+𪩄	ujge	!!!
+𪩄	uhee	!!!
 𪩅	ujhd
 𪩆	ujxx
 𪩇	ujlb
 𪩈	ujhe
 𪩉	ujfu
-𪩊	uanf	#!!!
-𪩊	ujen	#!!!
+𪩊	uanf	!!!
+𪩊	ujen	!!!
 𪩋	ujff
 𪩌	ujqy
 𪩍	ujvr
 𪩎	ujyy
 𪩏	ujlu
 𪩐	ujvv
-𪩑	uanj	#!!!
-𪩑	ujan	#!!!
+𪩑	uanj	!!!
+𪩑	ujan	!!!
 𪩒	ujyi
 𪩓	ujhw
 𪩔	ujvj
@@ -71823,13 +71806,13 @@ columns:
 𪫯	xnho
 𪫰	lvxn
 𪫱	ffxn
-𪫲	xinj	#!!!
-𪫲	xnan	#!!!
+𪫲	xinj	!!!
+𪫲	xnan	!!!
 𪫳	yixn
 𪫴	fzxn
 𪫵	nsxn
-𪫶	nmge	#!!!
-𪫶	ndee	#!!!
+𪫶	nmge	!!!
+𪫶	ndee	!!!
 𪫷	ubxn
 𪫸	xnqt
 𪫹	xngu
@@ -71907,8 +71890,8 @@ columns:
 𪭁	yixn
 𪭂	vhxn
 𪭃	xnlu
-𪭄	xine	#!!!
-𪭄	xnee	#!!!
+𪭄	xine	!!!
+𪭄	xnee	!!!
 𪭅	gexn
 𪭆	xnkv
 𪭇	xnyj
@@ -71925,10 +71908,10 @@ columns:
 𪭒	gefu
 𪭓	muge
 𪭔	bljm
-𪭕	vjge	#!!!
-𪭕	vhee	#!!!
-𪭖	grge	#!!!
-𪭖	gdee	#!!!
+𪭕	vjge	!!!
+𪭕	vhee	!!!
+𪭖	grge	!!!
+𪭖	gdee	!!!
 𪭗	lrwo
 𪭘	huju
 𪭙	hukb
@@ -72076,8 +72059,8 @@ columns:
 𪯧	wfjn
 𪯨	ijiu
 𪯩	wfvi
-𪯪	wfgk	#!!!
-𪯪	wgao	#!!!
+𪯪	wfgk	!!!
+𪯪	wgao	!!!
 𪯫	dbqq
 𪯬	hbdb
 𪯭	fzdb
@@ -72615,8 +72598,8 @@ columns:
 𪸁	dupo
 𪸂	uvxx
 𪸃	qyqi
-𪸄	ljge	#!!!
-𪸄	lhee	#!!!
+𪸄	ljge	!!!
+𪸄	lhee	!!!
 𪸅	uvxi
 𪸆	uvrs
 𪸇	uvif
@@ -72718,8 +72701,8 @@ columns:
 𪹧	hodi
 𪹨	hoys
 𪹩	ykho
-𪹪	huoe	#!!!
-𪹪	hoee	#!!!
+𪹪	huoe	!!!
+𪹪	hoee	!!!
 𪹫	hopg
 𪹬	kbho
 𪹭	txho
@@ -72775,8 +72758,8 @@ columns:
 𪺟	pjzl
 𪺠	pjcs
 𪺡	pjtm
-𪺢	pmgf	#!!!
-𪺢	pden	#!!!
+𪺢	pmgf	!!!
+𪺢	pden	!!!
 𪺣	pmub
 𪺤	pmbx
 𪺥	pmnm
@@ -72806,8 +72789,8 @@ columns:
 𪺽	llqr
 𪺾	qrya
 𪺿	qrmf
-𪻀	qrge	#!!!
-𪻀	qdee	#!!!
+𪻀	qrge	!!!
+𪻀	qdee	!!!
 𪻁	qrby
 𪻂	qrdp
 𪻃	qrlv
@@ -72833,8 +72816,8 @@ columns:
 𪻗	whtu
 𪻘	whgf
 𪻙	whui
-𪻚	wjgl	#!!!
-𪻚	whai	#!!!
+𪻚	wjgl	!!!
+𪻚	whai	!!!
 𪻛	whts
 𪻜	whxq
 𪻝	whyu
@@ -72907,8 +72890,8 @@ columns:
 𪼠	whfa
 𪼡	whjd
 𪼢	whyi
-𪼣	wjgk	#!!!
-𪼣	whao	#!!!
+𪼣	wjgk	!!!
+𪼣	whao	!!!
 𪼤	whvj
 𪼥	whlm
 𪼦	whyi
@@ -73100,8 +73083,8 @@ columns:
 𪿠	uiyr
 𪿡	uihj
 𪿢	uixn
-𪿣	uina	#!!!
-𪿣	unaa	#!!!
+𪿣	uina	!!!
+𪿣	unaa	!!!
 𪿤	uibk
 𪿥	uimz
 𪿦	uibc
@@ -73133,8 +73116,8 @@ columns:
 𫀀	hgui
 𫀁	uinv
 𫀂	vhui
-𫀃	uinz	#!!!
-𫀃	unei	#!!!
+𫀃	uinz	!!!
+𫀃	unei	!!!
 𫀄	wuui
 𫀅	uivj
 𫀆	uibk
@@ -73323,8 +73306,8 @@ columns:
 𫂽	mirs
 𫂾	miyn
 𫂿	uami
-𫃀	mian	#!!!
-𫃀	mwen	#!!!
+𫃀	mian	!!!
+𫃀	mwen	!!!
 𫃁	miqq
 𫃂	miqu
 𫃃	miqq
@@ -73405,7 +73388,7 @@ columns:
 𫄎	silv
 𫄏	sivf
 𫄐	ffpl
-𫄑	sinz	#!!!
+𫄑	sinz	!!!
 𫄒	siwf
 𫄓	simo
 𫄔	silm
@@ -73577,17 +73560,17 @@ columns:
 𫆺	rbnk
 𫆻	virr
 𫆼	ytph
-𫆽	yung	#!!!
-𫆽	ypeg	#!!!
+𫆽	yung	!!!
+𫆽	ypeg	!!!
 𫆾	yttg
 𫆿	wzmi
 𫇀	ytli
 𫇁	vsly
-𫇂	wunk	#!!!
-𫇂	wpao	#!!!
+𫇂	wunk	!!!
+𫇂	wpao	!!!
 𫇃	ytli
-𫇄	yunh	#!!!
-𫇄	ypah	#!!!
+𫇄	yunh	!!!
+𫇄	ypah	!!!
 𫇅	ifwu
 𫇆	ifif
 𫇇	ifwo
@@ -73981,8 +73964,8 @@ columns:
 𫍋	yjwf
 𫍌	yjts
 𫍍	mbuk
-𫍎	yjge	#!!!
-𫍎	yhee	#!!!
+𫍎	yjge	!!!
+𫍎	yhee	!!!
 𫍏	yjuu
 𫍐	pnyj
 𫍑	yjvv
@@ -74021,8 +74004,8 @@ columns:
 𫍲	yjsb
 𫍳	yjvs
 𫍴	yjlb
-𫍵	yank	#!!!
-𫍵	yjao	#!!!
+𫍵	yank	!!!
+𫍵	yjao	!!!
 𫍶	yjvi
 𫍷	yjgv
 𫍸	yjuj
@@ -74093,8 +74076,8 @@ columns:
 𫎹	zbde
 𫎺	zbcj
 𫎻	zbxy
-𫎼	qian	#!!!
-𫎼	qwen	#!!!
+𫎼	qian	!!!
+𫎼	qwen	!!!
 𫎽	zbhe
 𫎾	zbfj
 𫎿	zbud
@@ -74169,8 +74152,8 @@ columns:
 𫐄	iewu
 𫐅	ieuj
 𫐆	ieli
-𫐇	ienz	#!!!
-𫐇	ifei	#!!!
+𫐇	ienz	!!!
+𫐇	ifei	!!!
 𫐈	ieba
 𫐉	iely
 𫐊	siie
@@ -74192,8 +74175,8 @@ columns:
 𫐚	xnyi
 𫐛	xnci
 𫐜	xnxn
-𫐝	xngl	#!!!
-𫐝	xyai	#!!!
+𫐝	xngl	!!!
+𫐝	xyai	!!!
 𫐞	zbuu
 𫐟	zbyi
 𫐠	zbmu
@@ -74321,8 +74304,8 @@ columns:
 𫒚	jnyi
 𫒛	jnzi
 𫒜	jntu
-𫒝	jngg	#!!!
-𫒝	jyeg	#!!!
+𫒝	jngg	!!!
+𫒝	jyeg	!!!
 𫒞	jnjx
 𫒟	jnyu
 𫒠	jnxi
@@ -74372,8 +74355,8 @@ columns:
 𫓌	jnda
 𫓍	jnfu
 𫓎	jnbi
-𫓏	jngj	#!!!
-𫓏	jyan	#!!!
+𫓏	jngj	!!!
+𫓏	jyan	!!!
 𫓐	jnli
 𫓑	jncs
 𫓒	jnns
@@ -74398,8 +74381,8 @@ columns:
 𫓥	jnba
 𫓦	jnzi
 𫓧	jnfu
-𫓨	jnge	#!!!
-𫓨	jyee	#!!!
+𫓨	jnge	!!!
+𫓨	jyee	!!!
 𫓩	jncs
 𫓪	jngs
 𫓫	jnxi
@@ -74532,8 +74515,8 @@ columns:
 𫕪	yulx
 𫕫	yuvf
 𫕬	yule
-𫕭	yunk	#!!!
-𫕭	ypao	#!!!
+𫕭	yunk	!!!
+𫕭	ypao	!!!
 𫕮	yuer
 𫕯	yuwz
 𫕰	yufg
@@ -74634,12 +74617,12 @@ columns:
 𫗏	uiyb
 𫗐	uiqr
 𫗑	uiuu
-𫗒	uian	#!!!
-𫗒	uwen	#!!!
+𫗒	uian	!!!
+𫗒	uwen	!!!
 𫗓	uigk
 𫗔	uida
-𫗕	uinj	#!!!
-𫗕	unan	#!!!
+𫗕	uinj	!!!
+𫗕	unan	!!!
 𫗖	uimm
 𫗗	uimz
 𫗘	uimn
@@ -74682,8 +74665,8 @@ columns:
 𫗽	xdqr
 𫗾	xdvi
 𫗿	xdfz
-𫘀	xmgk	#!!!
-𫘀	xdao	#!!!
+𫘀	xmgk	!!!
+𫘀	xdao	!!!
 𫘁	xdze
 𫘂	xdji
 𫘃	xdxn
@@ -75294,8 +75277,8 @@ columns:
 𫡨	yiqq
 𫡩	yeye
 𫡪	mbyi
-𫡫	yinj	#!!!
-𫡫	ynan	#!!!
+𫡫	yinj	!!!
+𫡫	ynan	!!!
 𫡬	wjgo
 𫡭	mlyi
 𫡮	miyi
@@ -75305,8 +75288,8 @@ columns:
 𫡲	wuxw
 𫡳	jyji
 𫡴	ermu
-𫡵	wunj	#!!!
-𫡵	wpan	#!!!
+𫡵	wunj	!!!
+𫡵	wpan	!!!
 𫡶	ypuf
 𫡷	yabl
 𫡸	erqy
@@ -75326,8 +75309,8 @@ columns:
 𫢆	rfkk
 𫢇	rfuu
 𫢈	rfdk
-𫢉	rfgj	#!!!
-𫢉	rgan	#!!!
+𫢉	rfgj	!!!
+𫢉	rgan	!!!
 𫢊	bage
 𫢋	rftm
 𫢌	rfdj
@@ -75385,17 +75368,17 @@ columns:
 𫣀	rfwl
 𫣁	rfzk
 𫣂	rfyy
-𫣃	lngj	#!!!
-𫣃	lyan	#!!!
+𫣃	lngj	!!!
+𫣃	lyan	!!!
 𫣄	rfyj
 𫣅	rfqi
-𫣆	renf	#!!!
-𫣆	rfen	#!!!
+𫣆	renf	!!!
+𫣆	rfen	!!!
 𫣇	lvpu
 𫣈	lvwf
 𫣉	rfjm
-𫣊	renl	#!!!
-𫣊	rfai	#!!!
+𫣊	renl	!!!
+𫣊	rfai	!!!
 𫣋	rfyb
 𫣌	rfqd
 𫣍	rfyt
@@ -75420,8 +75403,8 @@ columns:
 𫣠	rfvi
 𫣡	rffu
 𫣢	rfmj
-𫣣	renl	#!!!
-𫣣	rfai	#!!!
+𫣣	renl	!!!
+𫣣	rfai	!!!
 𫣤	rfwz
 𫣥	rfdi
 𫣦	rfty
@@ -75462,8 +75445,8 @@ columns:
 𫤉	qylv
 𫤊	furf
 𫤋	yuyh
-𫤌	rfgj	#!!!
-𫤌	rgan	#!!!
+𫤌	rfgj	!!!
+𫤌	rgan	!!!
 𫤍	qrlp
 𫤎	qyvg
 𫤏	qyyy
@@ -75678,8 +75661,8 @@ columns:
 𫧠	ykui
 𫧡	gufg
 𫧢	qmqm
-𫧣	njge	#!!!
-𫧣	nhee	#!!!
+𫧣	njge	!!!
+𫧣	nhee	!!!
 𫧤	uivr
 𫧥	uimj
 𫧦	lvge
@@ -76492,8 +76475,8 @@ columns:
 𫴍	glyj
 𫴎	glbi
 𫴏	gljm
-𫴐	hjgj	#!!!
-𫴐	hhan	#!!!
+𫴐	hjgj	!!!
+𫴐	hhan	!!!
 𫴑	bnuj
 𫴒	glgv
 𫴓	hlkb
@@ -76560,8 +76543,8 @@ columns:
 𫵐	ytwu
 𫵑	bavo
 𫵒	bagv
-𫵓	uinz	#!!!
-𫵓	unei	#!!!
+𫵓	uinz	!!!
+𫵓	unei	!!!
 𫵔	uiyt
 𫵕	uivk
 𫵖	uiui
@@ -76601,17 +76584,17 @@ columns:
 𫵸	ujjy
 𫵹	ujdv
 𫵺	ujse
-𫵻	uanj	#!!!
-𫵻	ujan	#!!!
-𫵼	ujgg	#!!!
-𫵼	uheg	#!!!
+𫵻	uanj	!!!
+𫵻	ujan	!!!
+𫵼	ujgg	!!!
+𫵼	uheg	!!!
 𫵽	ujri
 𫵾	mzuj
 𫵿	ujxq
 𫶀	ujss
 𫶁	ujyi
-𫶂	uanj	#!!!
-𫶂	ujan	#!!!
+𫶂	uanj	!!!
+𫶂	ujan	!!!
 𫶃	ujxn
 𫶄	ujbm
 𫶅	ujcj
@@ -76624,8 +76607,8 @@ columns:
 𫶌	ujlq
 𫶍	ujmy
 𫶎	ujrs
-𫶏	uane	#!!!
-𫶏	ujee	#!!!
+𫶏	uane	!!!
+𫶏	ujee	!!!
 𫶐	ujsh
 𫶑	ujbz
 𫶒	ujln
@@ -76639,8 +76622,8 @@ columns:
 𫶚	ujdk
 𫶛	ujwf
 𫶜	ssge
-𫶝	ujgj	#!!!
-𫶝	uhan	#!!!
+𫶝	ujgj	!!!
+𫶝	uhan	!!!
 𫶞	viuj
 𫶟	ujpu
 𫶠	ujqy
@@ -76664,8 +76647,8 @@ columns:
 𫶲	qyjy
 𫶳	gsuu
 𫶴	ialv
-𫶵	banl	#!!!
-𫶵	bjai	#!!!
+𫶵	banl	!!!
+𫶵	bjai	!!!
 𫶶	sike
 𫶷	lvba
 𫶸	bali
@@ -76682,8 +76665,8 @@ columns:
 𫷃	jncs
 𫷄	ckjn
 𫷅	jnjp
-𫷆	jngh	#!!!
-𫷆	jyah	#!!!
+𫷆	jngh	!!!
+𫷆	jyah	!!!
 𫷇	xdjn
 𫷈	xujn
 𫷉	jnxm
@@ -76898,8 +76881,8 @@ columns:
 𫺚	vbxn
 𫺛	kjxn
 𫺜	tuxn
-𫺝	xngg	#!!!
-𫺝	xyeg	#!!!
+𫺝	xngg	!!!
+𫺝	xyeg	!!!
 𫺞	hoxn
 𫺟	xnjn
 𫺠	poxn
@@ -76908,8 +76891,8 @@ columns:
 𫺣	xntj
 𫺤	xnvf
 𫺥	hjdk
-𫺦	ffgj	#!!!
-𫺦	fgan	#!!!
+𫺦	ffgj	!!!
+𫺦	fgan	!!!
 𫺧	xnkb
 𫺨	xnbl
 𫺩	uvxn
@@ -76987,8 +76970,8 @@ columns:
 𫻱	gejc
 𫻲	qqge
 𫻳	gevs
-𫻴	kfge	#!!!
-𫻴	kgee	#!!!
+𫻴	kfge	!!!
+𫻴	kgee	!!!
 𫻵	gkge
 𫻶	wukb
 𫻷	vege
@@ -77222,8 +77205,8 @@ columns:
 𫿛	ugwf
 𫿜	gkwf
 𫿝	miwf
-𫿞	yjgj	#!!!
-𫿞	yhan	#!!!
+𫿞	yjgj	!!!
+𫿞	yhan	!!!
 𫿟	plwf
 𫿠	erwf
 𫿡	luwf
@@ -77366,8 +77349,8 @@ columns:
 𬁪	ziri
 𬁫	uuqx
 𬁬	jymk
-𬁭	zfga	#!!!
-𬁭	zgaa	#!!!
+𬁭	zfga	!!!
+𬁭	zgaa	!!!
 𬁮	zgtm
 𬁯	xtri
 𬁰	ytui
@@ -77510,8 +77493,8 @@ columns:
 𬃹	muli
 𬃺	mukb
 𬃻	goli
-𬃼	muen	#!!!
-𬃼	mten	#!!!
+𬃼	muen	!!!
+𬃼	mten	!!!
 𬃽	mukb
 𬃾	muig
 𬃿	temu
@@ -77547,8 +77530,8 @@ columns:
 𬄝	muxd
 𬄞	wzvu
 𬄟	mufz
-𬄠	munl	#!!!
-𬄠	mpai	#!!!
+𬄠	munl	!!!
+𬄠	mpai	!!!
 𬄡	mupg
 𬄢	muvi
 𬄣	mujy
@@ -77668,8 +77651,8 @@ columns:
 𬆕	dlck
 𬆖	dlzo
 𬆗	tlsi
-𬆘	sian	#!!!
-𬆘	swen	#!!!
+𬆘	sian	!!!
+𬆘	swen	!!!
 𬆙	dlyu
 𬆚	dllu
 𬆛	dlnk
@@ -77971,8 +77954,8 @@ columns:
 𬋃	holm
 𬋄	hoyk
 𬋅	hohv
-𬋆	lmge	#!!!
-𬋆	ldee	#!!!
+𬋆	lmge	!!!
+𬋆	ldee	!!!
 𬋇	erho
 𬋈	vvho
 𬋉	hovi
@@ -78096,8 +78079,8 @@ columns:
 𬌿	qrph
 𬍀	qryi
 𬍁	qrlm
-𬍂	qrgk	#!!!
-𬍂	qdao	#!!!
+𬍂	qrgk	!!!
+𬍂	qdao	!!!
 𬍃	qrvo
 𬍄	qrma
 𬍅	qryn
@@ -78108,8 +78091,8 @@ columns:
 𬍊	jqqr
 𬍋	yuqr
 𬍌	gbku
-𬍍	vunj	#!!!
-𬍍	vpan	#!!!
+𬍍	vunj	!!!
+𬍍	vpan	!!!
 𬍎	vuns
 𬍏	lvxw
 𬍐	whiu
@@ -78219,8 +78202,8 @@ columns:
 𬎸	erug
 𬎹	ugvb
 𬎺	ugqr
-𬎻	ijge	#!!!
-𬎻	ihee	#!!!
+𬎻	ijge	!!!
+𬎻	ihee	!!!
 𬎼	svug
 𬎽	ysge
 𬎾	jnys
@@ -78239,11 +78222,11 @@ columns:
 𬏋	tmyi
 𬏌	ybqi
 𬏍	ufuf
-𬏎	fjgj	#!!!
-𬏎	fhan	#!!!
+𬏎	fjgj	!!!
+𬏎	fhan	!!!
 𬏏	vktm
-𬏐	tmgk	#!!!
-𬏐	tdao	#!!!
+𬏐	tmgk	!!!
+𬏐	tdao	!!!
 𬏑	tmdm
 𬏒	tmnd
 𬏓	fjba
@@ -78269,8 +78252,8 @@ columns:
 𬏧	byvi
 𬏨	byto
 𬏩	bylx
-𬏪	bngj	#!!!
-𬏪	byan	#!!!
+𬏪	bngj	!!!
+𬏪	byan	!!!
 𬏫	byjp
 𬏬	byyu
 𬏭	byii
@@ -78410,8 +78393,8 @@ columns:
 𬑳	uidi
 𬑴	uill
 𬑵	bjdr
-𬑶	drgf	#!!!
-𬑶	dden	#!!!
+𬑶	drgf	!!!
+𬑶	dden	!!!
 𬑷	uivk
 𬑸	drtu
 𬑹	uiih
@@ -78485,8 +78468,8 @@ columns:
 𬒽	uijp
 𬒾	uibc
 𬒿	uidm
-𬓀	uian	#!!!
-𬓀	uwen	#!!!
+𬓀	uian	!!!
+𬓀	uwen	!!!
 𬓁	uijn
 𬓂	uhui
 𬓃	uipg
@@ -78594,8 +78577,8 @@ columns:
 𬔩	lirf
 𬔪	libz
 𬔫	qnml
-𬔬	vunl	#!!!
-𬔬	vpai	#!!!
+𬔬	vunl	!!!
+𬔬	vpai	!!!
 𬔭	vukb
 𬔮	vufu
 𬔯	vuqu
@@ -78720,8 +78703,8 @@ columns:
 𬖦	mihb
 𬖧	midy
 𬖨	lnkb
-𬖩	lnge	#!!!
-𬖩	lyee	#!!!
+𬖩	lnge	!!!
+𬖩	lyee	!!!
 𬖪	mipy
 𬖫	suuu
 𬖬	viba
@@ -78942,8 +78925,8 @@ columns:
 𬚃	yuzu
 𬚄	suyu
 𬚅	yuge
-𬚆	yung	#!!!
-𬚆	ypeg	#!!!
+𬚆	yung	!!!
+𬚆	ypeg	!!!
 𬚇	ujjt
 𬚈	yuyn
 𬚉	tujq
@@ -79033,8 +79016,8 @@ columns:
 𬛝	tlyj
 𬛞	ytts
 𬛟	jcgu
-𬛠	yunz	#!!!
-𬛠	ypei	#!!!
+𬛠	yunz	!!!
+𬛠	ypei	!!!
 𬛡	ihpc
 𬛢	ibyi
 𬛣	yixp
@@ -79240,8 +79223,8 @@ columns:
 𬞫	cklj
 𬞬	ckrs
 𬞭	ckxi
-𬞮	lmge	#!!!
-𬞮	ldee	#!!!
+𬞮	lmge	!!!
+𬞮	ldee	!!!
 𬞯	ckwf
 𬞰	cklb
 𬞱	ckmu
@@ -79481,8 +79464,8 @@ columns:
 𬢛	yjbk
 𬢜	yjyi
 𬢝	hgyj
-𬢞	yjge	#!!!
-𬢞	yhee	#!!!
+𬢞	yjge	!!!
+𬢞	yhee	!!!
 𬢟	yjpu
 𬢠	yjxp
 𬢡	yjui
@@ -79492,8 +79475,8 @@ columns:
 𬢥	yjjm
 𬢦	yjkk
 𬢧	kbyj
-𬢨	yanj	#!!!
-𬢨	yjan	#!!!
+𬢨	yanj	!!!
+𬢨	yjan	!!!
 𬢩	yjuv
 𬢪	yjub
 𬢫	yjcp
@@ -79549,8 +79532,8 @@ columns:
 𬣝	yjyp
 𬣞	yjhg
 𬣟	yjdb
-𬣠	yjgj	#!!!
-𬣠	yhan	#!!!
+𬣠	yjgj	!!!
+𬣠	yhan	!!!
 𬣡	yjjm
 𬣢	yjta
 𬣣	yjvu
@@ -79569,8 +79552,8 @@ columns:
 𬣰	yjzi
 𬣱	yjvb
 𬣲	yjby
-𬣳	yjgf	#!!!
-𬣳	yhen	#!!!
+𬣳	yjgf	!!!
+𬣳	yhen	!!!
 𬣴	yjml
 𬣵	yjda
 𬣶	yjva
@@ -79599,14 +79582,14 @@ columns:
 𬤍	yjhd
 𬤎	yjxr
 𬤏	yjdu
-𬤐	yjge	#!!!
-𬤐	yhee	#!!!
-𬤑	yjge	#!!!
-𬤑	yhee	#!!!
+𬤐	yjge	!!!
+𬤐	yhee	!!!
+𬤑	yjge	!!!
+𬤑	yhee	!!!
 𬤒	yjhe
 𬤓	yjqi
-𬤔	yanh	#!!!
-𬤔	yjah	#!!!
+𬤔	yanh	!!!
+𬤔	yjah	!!!
 𬤕	yjta
 𬤖	yjjp
 𬤗	yjlr
@@ -79619,8 +79602,8 @@ columns:
 𬤞	yjyi
 𬤟	yjlc
 𬤠	yjuj
-𬤡	yank	#!!!
-𬤡	yjao	#!!!
+𬤡	yank	!!!
+𬤡	yjao	!!!
 𬤢	yjzp
 𬤣	yjdp
 𬤤	yjzg
@@ -79646,8 +79629,8 @@ columns:
 𬤸	dbvb
 𬤹	qizi
 𬤺	fgbk
-𬤻	uinl	#!!!
-𬤻	unai	#!!!
+𬤻	uinl	!!!
+𬤻	unai	!!!
 𬤼	xsui
 𬤽	uiib
 𬤾	muui
@@ -79748,8 +79731,8 @@ columns:
 𬦝	zbxn
 𬦞	zbjd
 𬦟	zbsh
-𬦠	zunl	#!!!
-𬦠	zpai	#!!!
+𬦠	zunl	!!!
+𬦠	zpai	!!!
 𬦡	zuge
 𬦢	zumf
 𬦣	zuli
@@ -79812,8 +79795,8 @@ columns:
 𬧜	zuma
 𬧝	zuyy
 𬧞	zuba
-𬧟	zunh	#!!!
-𬧟	zpah	#!!!
+𬧟	zunh	!!!
+𬧟	zpah	!!!
 𬧠	ufyi
 𬧡	uflq
 𬧢	ufls
@@ -80101,14 +80084,14 @@ columns:
 𬫼	whjn
 𬫽	jnlv
 𬫾	jnuv
-𬫿	jnge	#!!!
-𬫿	jyee	#!!!
-𬬀	jngh	#!!!
-𬬀	jyah	#!!!
+𬫿	jnge	!!!
+𬫿	jyee	!!!
+𬬀	jngh	!!!
+𬬀	jyah	!!!
 𬬁	jnli
 𬬂	jnli
-𬬃	jnge	#!!!
-𬬃	jyee	#!!!
+𬬃	jnge	!!!
+𬬃	jyee	!!!
 𬬄	jnji
 𬬅	jnyi
 𬬆	iejn
@@ -80144,8 +80127,8 @@ columns:
 𬬤	jnxc
 𬬥	jnnh
 𬬦	jnlm
-𬬧	jngj	#!!!
-𬬧	jyan	#!!!
+𬬧	jngj	!!!
+𬬧	jyan	!!!
 𬬨	jnkv
 𬬩	jnyi
 𬬪	jnkb
@@ -80282,8 +80265,8 @@ columns:
 𬮭	mfgv
 𬮮	mfqi
 𬮯	mfgw
-𬮰	mena	#!!!
-𬮰	mfaa	#!!!
+𬮰	mena	!!!
+𬮰	mfaa	!!!
 𬮱	mftu
 𬮲	mfyk
 𬮳	mfpn
@@ -80327,23 +80310,23 @@ columns:
 𬯙	erlr
 𬯚	erdm
 𬯛	erqr
-𬯜	aanz	#!!!
-𬯜	anei	#!!!
+𬯜	aanz	!!!
+𬯜	anei	!!!
 𬯝	erxn
 𬯞	eryb
 𬯟	erwf
 𬯠	eria
 𬯡	ercl
 𬯢	eryn
-𬯣	aazg	#!!!
-𬯣	azeg	#!!!
+𬯣	aazg	!!!
+𬯣	azeg	!!!
 𬯤	eruj
 𬯥	ertm
 𬯦	erlq
 𬯧	eryi
 𬯨	er
-𬯩	aall	#!!!
-𬯩	alai	#!!!
+𬯩	aall	!!!
+𬯩	alai	!!!
 𬯪	vvvi
 𬯫	vvtu
 𬯬	gdvv
@@ -80495,8 +80478,8 @@ columns:
 𬱾	fgln
 𬱿	fgho
 𬲀	fghu
-𬲁	jinj	#!!!
-𬲁	jnan	#!!!
+𬲁	jinj	!!!
+𬲁	jnan	!!!
 𬲂	jiyu
 𬲃	jisu
 𬲄	jirs
@@ -80563,8 +80546,8 @@ columns:
 𬳁	uiyk
 𬳂	uivo
 𬳃	uifu
-𬳄	uinj	#!!!
-𬳄	unan	#!!!
+𬳄	uinj	!!!
+𬳄	unan	!!!
 𬳅	uiyb
 𬳆	uiyj
 𬳇	uixr
@@ -80963,8 +80946,8 @@ columns:
 𬹐	hdfj
 𬹑	hdtu
 𬹒	blhd
-𬹓	hrge	#!!!
-𬹓	hdee	#!!!
+𬹓	hrge	!!!
+𬹓	hdee	!!!
 𬹔	uuuu
 𬹕	hzvf
 𬹖	hzns
@@ -81004,8 +80987,8 @@ columns:
 𬹸	iiln
 𬹹	iixp
 𬹺	iiya
-𬹻	iinz	#!!!
-𬹻	inei	#!!!
+𬹻	iinz	!!!
+𬹻	inei	!!!
 𬹼	iijx
 𬹽	iikh
 𬹾	iigj
@@ -81228,8 +81211,8 @@ columns:
 𬽥	rfxw
 𬽦	rfwj
 𬽧	rfjq
-𬽨	rfge	#!!!
-𬽨	rgee	#!!!
+𬽨	rfge	!!!
+𬽨	rgee	!!!
 𬽩	rfbi
 𬽪	rfri
 𬽫	rfdb
@@ -81296,8 +81279,8 @@ columns:
 𬾨	rfys
 𬾩	rfqx
 𬾪	rfly
-𬾫	rfge	#!!!
-𬾫	rgee	#!!!
+𬾫	rfge	!!!
+𬾫	rgee	!!!
 𬾬	rfuu
 𬾭	rfju
 𬾮	rfdk
@@ -81341,8 +81324,8 @@ columns:
 𬿔	rfua
 𬿕	rfya
 𬿖	rfqq
-𬿗	rfgb	#!!!
-𬿗	rgou	#!!!
+𬿗	rfgb	!!!
+𬿗	rgou	!!!
 𬿘	rfli
 𬿙	rfli
 𬿚	rflu
@@ -81361,14 +81344,14 @@ columns:
 𬿧	rfli
 𬿨	rfvi
 𬿩	rfbz
-𬿪	renk	#!!!
-𬿪	rfao	#!!!
+𬿪	renk	!!!
+𬿪	rfao	!!!
 𬿫	rfjn
 𬿬	rfpi
 𬿭	wziu
 𬿮	rfwf
-𬿯	rfgj	#!!!
-𬿯	rgan	#!!!
+𬿯	rfgj	!!!
+𬿯	rgan	!!!
 𬿰	rfye
 𬿱	rfho
 𬿲	rfba
@@ -81684,8 +81667,8 @@ columns:
 𭄨	ufli
 𭄩	ncli
 𭄪	tlli
-𭄫	banj	#!!!
-𭄫	bjan	#!!!
+𭄫	banj	!!!
+𭄫	bjan	!!!
 𭄬	xyli
 𭄭	qili
 𭄮	yali
@@ -81962,8 +81945,8 @@ columns:
 𭈽	kbye
 𭈾	kbmk
 𭈿	kbtm
-𭉀	hjgj	#!!!
-𭉀	hhan	#!!!
+𭉀	hjgj	!!!
+𭉀	hhan	!!!
 𭉁	hejc
 𭉂	kbhf
 𭉃	kbmn
@@ -82801,8 +82784,8 @@ columns:
 𭖃	ujjq
 𭖄	ujxw
 𭖅	ujsi
-𭖆	uane	#!!!
-𭖆	ujee	#!!!
+𭖆	uane	!!!
+𭖆	ujee	!!!
 𭖇	ujvi
 𭖈	ujuu
 𭖉	ujyn
@@ -82815,8 +82798,8 @@ columns:
 𭖐	ujfu
 𭖑	ujbi
 𭖒	ujvu
-𭖓	ujgj	#!!!
-𭖓	uhan	#!!!
+𭖓	ujgj	!!!
+𭖓	uhan	!!!
 𭖔	jwuj
 𭖕	ujkd
 𭖖	ujbl
@@ -82862,8 +82845,8 @@ columns:
 𭖾	ujqd
 𭖿	ujhg
 𭗀	ujve
-𭗁	ujgf	#!!!
-𭗁	uhen	#!!!
+𭗁	ujgf	!!!
+𭗁	uhen	!!!
 𭗂	ghgd
 𭗃	ujdk
 𭗄	ujwf
@@ -82878,8 +82861,8 @@ columns:
 𭗍	ujvh
 𭗎	luuj
 𭗏	ujmi
-𭗐	ujgj	#!!!
-𭗐	uhan	#!!!
+𭗐	ujgj	!!!
+𭗐	uhan	!!!
 𭗑	ujlb
 𭗒	ujwf
 𭗓	ujwf
@@ -82895,10 +82878,10 @@ columns:
 𭗝	ujjn
 𭗞	ujwz
 𭗟	ujjc
-𭗠	ujgj	#!!!
-𭗠	uhan	#!!!
-𭗡	ujgl	#!!!
-𭗡	uhai	#!!!
+𭗠	ujgj	!!!
+𭗠	uhan	!!!
+𭗡	ujgl	!!!
+𭗡	uhai	!!!
 𭗢	ujyu
 𭗣	ujpo
 𭗤	viyr
@@ -82920,8 +82903,8 @@ columns:
 𭗴	ujyh
 𭗵	ujnx
 𭗶	ujch
-𭗷	ujgj	#!!!
-𭗷	uhan	#!!!
+𭗷	ujgj	!!!
+𭗷	uhan	!!!
 𭗸	ujvf
 𭗹	ujmm
 𭗺	irqi
@@ -82960,8 +82943,8 @@ columns:
 𭘛	jnhv
 𭘜	jngd
 𭘝	jnvl
-𭘞	jnge	#!!!
-𭘞	jyee	#!!!
+𭘞	jnge	!!!
+𭘞	jyee	!!!
 𭘟	bufa
 𭘠	jnij
 𭘡	jnig
@@ -83205,8 +83188,8 @@ columns:
 𭜏	xnbi
 𭜐	xnwu
 𭜑	ckxn
-𭜒	xine	#!!!
-𭜒	xnee	#!!!
+𭜒	xine	!!!
+𭜒	xnee	!!!
 𭜓	hgxn
 𭜔	xnze
 𭜕	xnkl
@@ -83320,8 +83303,8 @@ columns:
 𭞁	rfxn
 𭞂	ybrf
 𭞃	xuxn
-𭞄	xinl	#!!!
-𭞄	xnai	#!!!
+𭞄	xinl	!!!
+𭞄	xnai	!!!
 𭞅	xnss
 𭞆	xnxc
 𭞇	tybi
@@ -83337,8 +83320,8 @@ columns:
 𭞑	fuxn
 𭞒	xnbm
 𭞓	tvxn
-𭞔	eeiu	#!!!
-𭞔	echu	#!!!
+𭞔	eeiu	!!!
+𭞔	echu	!!!
 𭞕	rixn
 𭞖	xnji
 𭞗	uhxn
@@ -83360,8 +83343,8 @@ columns:
 𭞧	jixn
 𭞨	ihxn
 𭞩	xnyt
-𭞪	xine	#!!!
-𭞪	xnee	#!!!
+𭞪	xine	!!!
+𭞪	xnee	!!!
 𭞫	xyxn
 𭞬	xnlq
 𭞭	xniu
@@ -83392,8 +83375,8 @@ columns:
 𭟆	xnmu
 𭟇	xnch
 𭟈	xnuu
-𭟉	xnge	#!!!
-𭟉	xyee	#!!!
+𭟉	xnge	!!!
+𭟉	xyee	!!!
 𭟊	xnys
 𭟋	nyxn
 𭟌	jmxn
@@ -83445,8 +83428,8 @@ columns:
 𭟺	hgri
 𭟻	hoig
 𭟼	buge
-𭟽	ujge	#!!!
-𭟽	uhee	#!!!
+𭟽	ujge	!!!
+𭟽	uhee	!!!
 𭟾	huge
 𭟿	huyi
 𭠀	hugs
@@ -83731,8 +83714,8 @@ columns:
 𭤗	wfvg
 𭤘	wfdj
 𭤙	mnwf
-𭤚	wfgj	#!!!
-𭤚	wgan	#!!!
+𭤚	wfgj	!!!
+𭤚	wgan	!!!
 𭤛	ykwf
 𭤜	hudb
 𭤝	kbkb
@@ -83778,8 +83761,8 @@ columns:
 𭥅	fhge
 𭥆	fhdj
 𭥇	fher
-𭥈	pjgj	#!!!
-𭥈	phan	#!!!
+𭥈	pjgj	!!!
+𭥈	phan	!!!
 𭥉	fhyh
 𭥊	jifg
 𭥋	riyi
@@ -83844,8 +83827,8 @@ columns:
 𭦆	rida
 𭦇	rimh
 𭦈	riba
-𭦉	rinj	#!!!
-𭦉	rnan	#!!!
+𭦉	rinj	!!!
+𭦉	rnan	!!!
 𭦊	rifu
 𭦋	riyj
 𭦌	dkri
@@ -83863,10 +83846,10 @@ columns:
 𭦘	ufby
 𭦙	hgri
 𭦚	blri
-𭦛	rinl	#!!!
-𭦛	rnai	#!!!
-𭦜	hjgj	#!!!
-𭦜	hhan	#!!!
+𭦛	rinl	!!!
+𭦛	rnai	!!!
+𭦜	hjgj	!!!
+𭦜	hhan	!!!
 𭦝	hjly
 𭦞	zkxm
 𭦟	riwj
@@ -84130,8 +84113,8 @@ columns:
 𭪡	mugb
 𭪢	rbmu
 𭪣	mubi
-𭪤	muan	#!!!
-𭪤	mwen	#!!!
+𭪤	muan	!!!
+𭪤	mwen	!!!
 𭪥	gojn
 𭪦	muyj
 𭪧	muyy
@@ -84391,8 +84374,8 @@ columns:
 𭮥	dlxu
 𭮦	dlho
 𭮧	xnxn
-𭮨	eeuu	#!!!
-𭮨	eshu	#!!!
+𭮨	eeuu	!!!
+𭮨	eshu	!!!
 𭮩	bluu
 𭮪	jiuu
 𭮫	vvuu
@@ -84599,8 +84582,8 @@ columns:
 𭱴	uvip
 𭱵	uvss
 𭱶	uvni
-𭱷	wunj	#!!!
-𭱷	wpan	#!!!
+𭱷	wunj	!!!
+𭱷	wpan	!!!
 𭱸	uviu
 𭱹	uvke
 𭱺	uvie
@@ -85169,8 +85152,8 @@ columns:
 𭺭	gjyh
 𭺮	xcgj
 𭺯	gjwj
-𭺰	bjgj	#!!!
-𭺰	bhan	#!!!
+𭺰	bjgj	!!!
+𭺰	bhan	!!!
 𭺱	ujug
 𭺲	kbug
 𭺳	ugwj
@@ -85186,8 +85169,8 @@ columns:
 𭺽	ufpx
 𭺾	jwck
 𭺿	tmyb
-𭻀	tmge	#!!!
-𭻀	tdee	#!!!
+𭻀	tmge	!!!
+𭻀	tdee	!!!
 𭻁	tmvi
 𭻂	xctm
 𭻃	tmff
@@ -85212,8 +85195,8 @@ columns:
 𭻖	tmxi
 𭻗	tmgu
 𭻘	tmdi
-𭻙	vunj	#!!!
-𭻙	vpan	#!!!
+𭻙	vunj	!!!
+𭻙	vpan	!!!
 𭻚	njbk
 𭻛	djjw
 𭻜	tmln
@@ -85367,8 +85350,8 @@ columns:
 𭽰	pivs
 𭽱	pilq
 𭽲	piiu
-𭽳	ping	#!!!
-𭽳	pneg	#!!!
+𭽳	ping	!!!
+𭽳	pneg	!!!
 𭽴	zepi
 𭽵	lppi
 𭽶	bapi
@@ -85546,8 +85529,8 @@ columns:
 𮀢	uivk
 𮀣	uiuu
 𮀤	uilk
-𮀥	uinz	#!!!
-𮀥	unei	#!!!
+𮀥	uinz	!!!
+𮀥	unei	!!!
 𮀦	fzui
 𮀧	uipi
 𮀨	uiqx
@@ -85599,8 +85582,8 @@ columns:
 𮁖	uinx
 𮁗	uivr
 𮁘	mavo
-𮁙	uinj	#!!!
-𮁙	unan	#!!!
+𮁙	uinj	!!!
+𮁙	unan	!!!
 𮁚	uiyk
 𮁛	uini
 𮁜	uidk
@@ -85638,13 +85621,13 @@ columns:
 𮁼	uiji
 𮁽	uiyi
 𮁾	uiys
-𮁿	uinl	#!!!
-𮁿	unai	#!!!
+𮁿	uinl	!!!
+𮁿	unai	!!!
 𮂀	uiju
 𮂁	uikb
 𮂂	uisi
-𮂃	nunl	#!!!
-𮂃	npai	#!!!
+𮂃	nunl	!!!
+𮂃	npai	!!!
 𮂄	bihe
 𮂅	uixm
 𮂆	uihb
@@ -86934,8 +86917,8 @@ columns:
 𮖊	glyi
 𮖋	yitu
 𮖌	yikl
-𮖍	yina	#!!!
-𮖍	ynaa	#!!!
+𮖍	yina	!!!
+𮖍	ynaa	!!!
 𮖎	ncyi
 𮖏	yihw
 𮖐	goyi
@@ -87003,8 +86986,8 @@ columns:
 𮗎	guij
 𮗏	dkij
 𮗐	nmij
-𮗑	jmgf	#!!!
-𮗑	jden	#!!!
+𮗑	jmgf	!!!
+𮗑	jden	!!!
 𮗒	jyij
 𮗓	uuij
 𮗔	lvij
@@ -87056,8 +87039,8 @@ columns:
 𮘂	yjyb
 𮘃	mkyj
 𮘄	yjys
-𮘅	yjgj	#!!!
-𮘅	yhan	#!!!
+𮘅	yjgj	!!!
+𮘅	yhan	!!!
 𮘆	hsyj
 𮘇	yjpi
 𮘈	yjrf
@@ -87077,8 +87060,8 @@ columns:
 𮘖	yjna
 𮘗	yjfg
 𮘘	yjbu
-𮘙	yjgf	#!!!
-𮘙	yhen	#!!!
+𮘙	yjgf	!!!
+𮘙	yhen	!!!
 𮘚	yjpg
 𮘛	yjfh
 𮘜	yjks
@@ -87117,8 +87100,8 @@ columns:
 𮘽	yjpu
 𮘾	yjxm
 𮘿	yjly
-𮙀	yanl	#!!!
-𮙀	yjai	#!!!
+𮙀	yanl	!!!
+𮙀	yjai	!!!
 𮙁	yjjx
 𮙂	yjye
 𮙃	yjma
@@ -87280,8 +87263,8 @@ columns:
 𮛟	zuqn
 𮛠	zugy
 𮛡	zuyk
-𮛢	zunl	#!!!
-𮛢	zpai	#!!!
+𮛢	zunl	!!!
+𮛢	zpai	!!!
 𮛣	uuzu
 𮛤	zuih
 𮛥	zuyt
@@ -87358,8 +87341,8 @@ columns:
 𮜬	zuwf
 𮜭	lrzu
 𮜮	ufye
-𮜯	uene	#!!!
-𮜯	ufee	#!!!
+𮜯	uene	!!!
+𮜯	ufee	!!!
 𮜰	ufzo
 𮜱	ufyi
 𮜲	ufgs
@@ -87720,8 +87703,8 @@ columns:
 𮢕	jnqi
 𮢖	jnip
 𮢗	uvjn
-𮢘	jngg	#!!!
-𮢘	jyeg	#!!!
+𮢘	jngg	!!!
+𮢘	jyeg	!!!
 𮢙	jnvg
 𮢚	jnrs
 𮢛	jnys
@@ -87739,8 +87722,8 @@ columns:
 𮢧	jnbz
 𮢨	jnwh
 𮢩	jnxw
-𮢪	jngh	#!!!
-𮢪	jyah	#!!!
+𮢪	jngh	!!!
+𮢪	jyah	!!!
 𮢫	jnys
 𮢬	jnwu
 𮢭	jnbg
@@ -87860,14 +87843,14 @@ columns:
 𮤟	mfjn
 𮤠	mfli
 𮤡	mfxi
-𮤢	mfgf	#!!!
-𮤢	mgen	#!!!
+𮤢	mfgf	!!!
+𮤢	mgen	!!!
 𮤣	mfji
-𮤤	mfgk	#!!!
-𮤤	mgao	#!!!
+𮤤	mfgk	!!!
+𮤤	mgao	!!!
 𮤥	mfjq
-𮤦	menk	#!!!
-𮤦	mfao	#!!!
+𮤦	menk	!!!
+𮤦	mfao	!!!
 𮤧	mfly
 𮤨	mfmi
 𮤩	mfgv
@@ -87965,8 +87948,8 @@ columns:
 𮦅	yumf
 𮦆	zacs
 𮦇	tmyu
-𮦈	yunz	#!!!
-𮦈	ypei	#!!!
+𮦈	yunz	!!!
+𮦈	ypei	!!!
 𮦉	yuho
 𮦊	yukb
 𮦋	yumu
@@ -88128,8 +88111,8 @@ columns:
 𮨧	fgwh
 𮨨	lyfg
 𮨩	fgis
-𮨪	ffgj	#!!!
-𮨪	fgan	#!!!
+𮨪	ffgj	!!!
+𮨪	fgan	!!!
 𮨫	fghl
 𮨬	fgxn
 𮨭	fgln
@@ -88304,8 +88287,8 @@ columns:
 𮫖	kdbi
 𮫗	muyb
 𮫘	jquj
-𮫙	gjgj	#!!!
-𮫙	ghan	#!!!
+𮫙	gjgj	!!!
+𮫙	ghan	!!!
 𮫚	gsge
 𮫛	gsgs
 𮫜	gvyk
@@ -88364,8 +88347,8 @@ columns:
 𮬑	yufu
 𮬒	yuzi
 𮬓	yuwf
-𮬔	yunk	#!!!
-𮬔	ypao	#!!!
+𮬔	yunk	!!!
+𮬔	ypao	!!!
 𮬕	hkyu
 𮬖	yuzj
 𮬗	yulu
@@ -88692,8 +88675,8 @@ columns:
 𰁷	ufyi
 𰁸	rfdh
 𰁹	rfzk
-𰁺	rfgh	#!!!
-𰁺	rgah	#!!!
+𰁺	rfgh	!!!
+𰁺	rgah	!!!
 𰁻	rfdc
 𰁼	rfxd
 𰁽	jxjx
@@ -88717,8 +88700,8 @@ columns:
 𰂏	rfml
 𰂐	fuff
 𰂑	rfld
-𰂒	rfgh	#!!!
-𰂒	rgah	#!!!
+𰂒	rfgh	!!!
+𰂒	rgah	!!!
 𰂓	rfgy
 𰂔	rfyu
 𰂕	rfyt
@@ -88898,8 +88881,8 @@ columns:
 𰅃	xiff
 𰅄	iadk
 𰅅	lelx
-𰅆	cinj	#!!!
-𰅆	cnan	#!!!
+𰅆	cinj	!!!
+𰅆	cnan	!!!
 𰅇	didk
 𰅈	mmdk
 𰅉	jyli
@@ -89311,8 +89294,8 @@ columns:
 𰋟	tmtm
 𰋠	iptp
 𰋡	tmfj
-𰋢	danj	#!!!
-𰋢	djan	#!!!
+𰋢	danj	!!!
+𰋢	djan	!!!
 𰋣	uiui
 𰋤	dapu
 𰋥	lida
@@ -89385,8 +89368,8 @@ columns:
 𰌨	zixc
 𰌩	llzi
 𰌪	ziqi
-𰌫	zinl	#!!!
-𰌫	znai	#!!!
+𰌫	zinl	!!!
+𰌫	znai	!!!
 𰌬	zimk
 𰌭	ziyj
 𰌮	ujsp
@@ -89462,8 +89445,8 @@ columns:
 𰍴	ncyi
 𰍵	viii
 𰍶	uixy
-𰍷	uink	#!!!
-𰍷	unao	#!!!
+𰍷	uink	!!!
+𰍷	unao	!!!
 𰍸	uiji
 𰍹	uiie
 𰍺	wzda
@@ -89480,8 +89463,8 @@ columns:
 𰎅	wzih
 𰎆	uiwz
 𰎇	ujwz
-𰎈	ujge	#!!!
-𰎈	uhee	#!!!
+𰎈	ujge	!!!
+𰎈	uhee	!!!
 𰎉	ujgs
 𰎊	qxuj
 𰎋	ujyt
@@ -89511,8 +89494,8 @@ columns:
 𰎣	huuj
 𰎤	ujrs
 𰎥	ujlu
-𰎦	uanb	#!!!
-𰎦	ujou	#!!!
+𰎦	uanb	!!!
+𰎦	ujou	!!!
 𰎧	fuuj
 𰎨	heuj
 𰎩	ujhb
@@ -89532,20 +89515,20 @@ columns:
 𰎷	ujye
 𰎸	ujuj
 𰎹	ujxm
-𰎺	ujgj	#!!!
-𰎺	uhan	#!!!
+𰎺	ujgj	!!!
+𰎺	uhan	!!!
 𰎻	ujvg
-𰎼	uanb	#!!!
-𰎼	ujou	#!!!
-𰎽	uane	#!!!
-𰎽	ujee	#!!!
+𰎼	uanb	!!!
+𰎼	ujou	!!!
+𰎽	uane	!!!
+𰎽	ujee	!!!
 𰎾	ujvg
 𰎿	ujjx
 𰏀	ujcj
 𰏁	ujzj
 𰏂	ujyj
-𰏃	irgf	#!!!
-𰏃	iden	#!!!
+𰏃	irgf	!!!
+𰏃	iden	!!!
 𰏄	irzk
 𰏅	jyfu
 𰏆	irys
@@ -89672,8 +89655,8 @@ columns:
 𰐿	xnyh
 𰑀	ybxn
 𰑁	xnvr
-𰑂	xngh	#!!!
-𰑂	xyah	#!!!
+𰑂	xngh	!!!
+𰑂	xyah	!!!
 𰑃	xnri
 𰑄	xnlp
 𰑅	xncs
@@ -89756,8 +89739,8 @@ columns:
 𰒒	vixn
 𰒓	xnuu
 𰒔	xnli
-𰒕	xnge	#!!!
-𰒕	xyee	#!!!
+𰒕	xnge	!!!
+𰒕	xyee	!!!
 𰒖	vixn
 𰒗	xnjy
 𰒘	ugvi
@@ -89780,8 +89763,8 @@ columns:
 𰒩	gezk
 𰒪	dbge
 𰒫	geri
-𰒬	vjge	#!!!
-𰒬	vhee	#!!!
+𰒬	vjge	!!!
+𰒬	vhee	!!!
 𰒭	geze
 𰒮	uuuu
 𰒯	kdge
@@ -90025,8 +90008,8 @@ columns:
 𰖝	rilq
 𰖞	xydv
 𰖟	rilh
-𰖠	rinj	#!!!
-𰖠	rnan	#!!!
+𰖠	rinj	!!!
+𰖠	rnan	!!!
 𰖡	rier
 𰖢	riao
 𰖣	riyu
@@ -90049,8 +90032,8 @@ columns:
 𰖴	cjri
 𰖵	rijn
 𰖶	ripj
-𰖷	aanj	#!!!
-𰖷	anan	#!!!
+𰖷	aanj	!!!
+𰖷	anan	!!!
 𰖸	riuf
 𰖹	uuxy
 𰖺	ridl
@@ -90657,8 +90640,8 @@ columns:
 𰠓	pjzi
 𰠔	pjig
 𰠕	pjui
-𰠖	pjgk	#!!!
-𰠖	phao	#!!!
+𰠖	pjgk	!!!
+𰠖	phao	!!!
 𰠗	pjzi
 𰠘	pjzi
 𰠙	pmvk
@@ -90666,8 +90649,8 @@ columns:
 𰠛	pmjm
 𰠜	pmbi
 𰠝	pmfa
-𰠞	pmgg	#!!!
-𰠞	pdeg	#!!!
+𰠞	pmgg	!!!
+𰠞	pdeg	!!!
 𰠟	pmqy
 𰠠	yaxw
 𰠡	yaui
@@ -91003,11 +90986,11 @@ columns:
 𰥫	muqu
 𰥬	mujx
 𰥭	mumm
-𰥮	muan	#!!!
-𰥮	mwen	#!!!
+𰥮	muan	!!!
+𰥮	mwen	!!!
 𰥯	muxn
-𰥰	kjgb	#!!!
-𰥰	khou	#!!!
+𰥰	kjgb	!!!
+𰥰	khou	!!!
 𰥱	mufu
 𰥲	whmu
 𰥳	mudm
@@ -91965,8 +91948,8 @@ columns:
 𰴫	yjwz
 𰴬	dlyj
 𰴭	hgyj
-𰴮	yjgf	#!!!
-𰴮	yhen	#!!!
+𰴮	yjgf	!!!
+𰴮	yhen	!!!
 𰴯	yyyj
 𰴰	yjlv
 𰴱	ytyb
@@ -92020,8 +92003,8 @@ columns:
 𰵡	yjjy
 𰵢	yjjw
 𰵣	yjhe
-𰵤	yjge	#!!!
-𰵤	yhee	#!!!
+𰵤	yjge	!!!
+𰵤	yhee	!!!
 𰵥	yjdo
 𰵦	yjjc
 𰵧	yjvi
@@ -92048,17 +92031,17 @@ columns:
 𰵼	yjjx
 𰵽	yjyk
 𰵾	yjxi
-𰵿	yjgk	#!!!
-𰵿	yhao	#!!!
+𰵿	yjgk	!!!
+𰵿	yhao	!!!
 𰶀	yjyu
 𰶁	yjyi
 𰶂	yjxn
 𰶃	yjxi
 𰶄	yjue
-𰶅	yjgk	#!!!
-𰶅	yhao	#!!!
-𰶆	yjgj	#!!!
-𰶆	yhan	#!!!
+𰶅	yjgk	!!!
+𰶅	yhao	!!!
+𰶆	yjgj	!!!
+𰶆	yhan	!!!
 𰶇	yjsv
 𰶈	yjxi
 𰶉	yjdj
@@ -92250,8 +92233,8 @@ columns:
 𰹃	ufro
 𰹄	ufdr
 𰹅	ufbl
-𰹆	uenl	#!!!
-𰹆	ufai	#!!!
+𰹆	uenl	!!!
+𰹆	ufai	!!!
 𰹇	ufwz
 𰹈	ieyi
 𰹉	ieyi
@@ -92472,13 +92455,13 @@ columns:
 𰼠	jnfz
 𰼡	ffjn
 𰼢	jnfu
-𰼣	jngl	#!!!
-𰼣	jyai	#!!!
+𰼣	jngl	!!!
+𰼣	jyai	!!!
 𰼤	jnmo
 𰼥	jnlu
 𰼦	jnfa
-𰼧	jngf	#!!!
-𰼧	jyen	#!!!
+𰼧	jngf	!!!
+𰼧	jyen	!!!
 𰼨	jnjm
 𰼩	xijn
 𰼪	mbjn
@@ -92533,8 +92516,8 @@ columns:
 𰽛	jnxc
 𰽜	jnqu
 𰽝	jnli
-𰽞	jine	#!!!
-𰽞	jnee	#!!!
+𰽞	jine	!!!
+𰽞	jnee	!!!
 𰽟	jnjy
 𰽠	jnvi
 𰽡	jnri
@@ -92607,24 +92590,24 @@ columns:
 𰾤	jnjw
 𰾥	jngv
 𰾦	jntr
-𰾧	jink	#!!!
-𰾧	jnao	#!!!
-𰾨	jngb	#!!!
-𰾨	jyou	#!!!
+𰾧	jink	!!!
+𰾧	jnao	!!!
+𰾨	jngb	!!!
+𰾨	jyou	!!!
 𰾩	jnhe
-𰾪	jine	#!!!
-𰾪	jnee	#!!!
+𰾪	jine	!!!
+𰾪	jnee	!!!
 𰾫	jnjm
 𰾬	jnta
-𰾭	jinl	#!!!
-𰾭	jnai	#!!!
+𰾭	jinl	!!!
+𰾭	jnai	!!!
 𰾮	jnjm
 𰾯	jnth
 𰾰	jncv
 𰾱	jnxn
 𰾲	jnlu
-𰾳	jngj	#!!!
-𰾳	jyan	#!!!
+𰾳	jngj	!!!
+𰾳	jyan	!!!
 𰾴	jnsi
 𰾵	jngu
 𰾶	jnhv
@@ -92636,8 +92619,8 @@ columns:
 𰾼	jnxp
 𰾽	jnuu
 𰾾	jnxm
-𰾿	jnge	#!!!
-𰾿	jyee	#!!!
+𰾿	jnge	!!!
+𰾿	jyee	!!!
 𰿀	jnjm
 𰿁	jnbi
 𰿂	jnxu
@@ -92790,8 +92773,8 @@ columns:
 𱁕	yutu
 𱁖	yujm
 𱁗	yuba
-𱁘	yunj	#!!!
-𱁘	ypan	#!!!
+𱁘	yunj	!!!
+𱁘	ypan	!!!
 𱁙	yuwo
 𱁚	yufh
 𱁛	yuds
@@ -92906,8 +92889,8 @@ columns:
 𱃈	fgyb
 𱃉	glfg
 𱃊	fgtm
-𱃋	ffgk	#!!!
-𱃋	fgao	#!!!
+𱃋	ffgk	!!!
+𱃋	fgao	!!!
 𱃌	dkfg
 𱃍	fgxc
 𱃎	fgqn
@@ -93105,10 +93088,10 @@ columns:
 𱆎	pxge
 𱆏	geyu
 𱆐	quge
-𱆑	tmge	#!!!
-𱆑	tdee	#!!!
-𱆒	xmge	#!!!
-𱆒	xdee	#!!!
+𱆑	tmge	!!!
+𱆑	tdee	!!!
+𱆒	xmge	!!!
+𱆒	xdee	!!!
 𱆓	gkge
 𱆔	uige
 𱆕	mxge
@@ -93174,8 +93157,8 @@ columns:
 𱇑	yufu
 𱇒	yubi
 𱇓	yuhu
-𱇔	yunz	#!!!
-𱇔	ypei	#!!!
+𱇔	yunz	!!!
+𱇔	ypei	!!!
 𱇕	yuwf
 𱇖	yufj
 𱇗	yulp
@@ -93207,8 +93190,8 @@ columns:
 𱇱	rfyu
 𱇲	yufu
 𱇳	yujp
-𱇴	yuna	#!!!
-𱇴	ypaa	#!!!
+𱇴	yuna	!!!
+𱇴	ypaa	!!!
 𱇵	yuze
 𱇶	yulu
 𱇷	yuxi
@@ -93568,8 +93551,8 @@ columns:
 𱍞	yeci
 𱍟	yunm
 𱍠	pnxw
-𱍡	bunk	#!!!
-𱍡	bpao	#!!!
+𱍡	bunk	!!!
+𱍡	bpao	!!!
 𱍢	uidy
 𱍣	kddq
 𱍤	buui
@@ -93603,8 +93586,8 @@ columns:
 𱎀	yixt
 𱎁	yibu
 𱎂	jqlq
-𱎃	yinl	#!!!
-𱎃	ynai	#!!!
+𱎃	yinl	!!!
+𱎃	ynai	!!!
 𱎄	yidh
 𱎅	yige
 𱎆	yijc
@@ -93623,8 +93606,8 @@ columns:
 𱎓	erwf
 𱎔	tler
 𱎕	erdv
-𱎖	wunj	#!!!
-𱎖	wpan	#!!!
+𱎖	wunj	!!!
+𱎖	wpan	!!!
 𱎗	wzer
 𱎘	erhg
 𱎙	ldgd
@@ -93662,13 +93645,13 @@ columns:
 𱎹	rfyb
 𱎺	rfmg
 𱎻	yuyu
-𱎼	rfge	#!!!
-𱎼	rgee	#!!!
+𱎼	rfge	!!!
+𱎼	rgee	!!!
 𱎽	rfqr
 𱎾	rfma
 𱎿	rfjn
-𱏀	rene	#!!!
-𱏀	rfee	#!!!
+𱏀	rene	!!!
+𱏀	rfee	!!!
 𱏁	rfhv
 𱏂	rfyh
 𱏃	rflh
@@ -93679,8 +93662,8 @@ columns:
 𱏈	rfbf
 𱏉	zuqx
 𱏊	rfij
-𱏋	renj	#!!!
-𱏋	rfan	#!!!
+𱏋	renj	!!!
+𱏋	rfan	!!!
 𱏌	rfis
 𱏍	rfji
 𱏎	bofo
@@ -94295,8 +94278,8 @@ columns:
 𱘯	keda
 𱘰	dajm
 𱘱	nsda
-𱘲	danj	#!!!
-𱘲	djan	#!!!
+𱘲	danj	!!!
+𱘲	djan	!!!
 𱘳	rfda
 𱘴	jwji
 𱘵	daln
@@ -94354,8 +94337,8 @@ columns:
 𱙩	nvwf
 𱙪	nvji
 𱙫	nvyn
-𱙬	nunj	#!!!
-𱙬	npan	#!!!
+𱙬	nunj	!!!
+𱙬	npan	!!!
 𱙭	nvyj
 𱙮	nvcl
 𱙯	nvli
@@ -94367,8 +94350,8 @@ columns:
 𱙵	ziuj
 𱙶	tlzi
 𱙷	zibz
-𱙸	zinz	#!!!
-𱙸	znei	#!!!
+𱙸	zinz	!!!
+𱙸	znei	!!!
 𱙹	ziiu
 𱙺	yplp
 𱙻	llzi
@@ -94449,8 +94432,8 @@ columns:
 𱛆	ujlc
 𱛇	ujyu
 𱛈	ypuj
-𱛉	uane	#!!!
-𱛉	ujee	#!!!
+𱛉	uane	!!!
+𱛉	ujee	!!!
 𱛊	ujjm
 𱛋	ujnz
 𱛌	ujrg
@@ -94464,8 +94447,8 @@ columns:
 𱛔	ujqu
 𱛕	ujbu
 𱛖	ujjw
-𱛗	uank	#!!!
-𱛗	ujao	#!!!
+𱛗	uank	!!!
+𱛗	ujao	!!!
 𱛘	ujgw
 𱛙	ujle
 𱛚	ujwu
@@ -94532,8 +94515,8 @@ columns:
 𱜗	lvju
 𱜘	lpju
 𱜙	julp
-𱜚	wunj	#!!!
-𱜚	wpan	#!!!
+𱜚	wunj	!!!
+𱜚	wpan	!!!
 𱜛	juyj
 𱜜	lcju
 𱜝	julj
@@ -94569,8 +94552,8 @@ columns:
 𱜻	jnkb
 𱜼	jnls
 𱜽	gjbx
-𱜾	ganl	#!!!
-𱜾	gjai	#!!!
+𱜾	ganl	!!!
+𱜾	gjai	!!!
 𱜿	xymz
 𱝀	byjm
 𱝁	xyml
@@ -94666,8 +94649,8 @@ columns:
 𱞛	xnwo
 𱞜	pxxn
 𱞝	kdxn
-𱞞	xinh	#!!!
-𱞞	xnah	#!!!
+𱞞	xinh	!!!
+𱞞	xnah	!!!
 𱞟	xnba
 𱞠	xnxm
 𱞡	dexn
@@ -94715,8 +94698,8 @@ columns:
 𱟋	xnfz
 𱟌	xnjt
 𱟍	lixn
-𱟎	xnge	#!!!
-𱟎	xyee	#!!!
+𱟎	xnge	!!!
+𱟎	xyee	!!!
 𱟏	xnqu
 𱟐	kyyi
 𱟑	xnuu
@@ -95024,8 +95007,8 @@ columns:
 𱣿	muge
 𱤀	mulz
 𱤁	muse
-𱤂	munz	#!!!
-𱤂	mpei	#!!!
+𱤂	munz	!!!
+𱤂	mpei	!!!
 𱤃	uamu
 𱤄	muyi
 𱤅	uayi
@@ -95518,8 +95501,8 @@ columns:
 𱫬	holc
 𱫭	idho
 𱫮	yuho
-𱫯	huoe	#!!!
-𱫯	hoee	#!!!
+𱫯	huoe	!!!
+𱫯	hoee	!!!
 𱫰	ubho
 𱫱	jiho
 𱫲	hoxc
@@ -95608,8 +95591,8 @@ columns:
 𱭅	vktm
 𱭆	bucp
 𱭇	vkcp
-𱭈	kenl	#!!!
-𱭈	kfai	#!!!
+𱭈	kenl	!!!
+𱭈	kfai	!!!
 𱭉	aijx
 𱭊	fufu
 𱭋	yuyk
@@ -95628,8 +95611,8 @@ columns:
 𱭘	pjbu
 𱭙	pmfz
 𱭚	pjfa
-𱭛	pwnj	#!!!
-𱭛	pman	#!!!
+𱭛	pwnj	!!!
+𱭛	pman	!!!
 𱭜	pmze
 𱭝	pmbm
 𱭞	pmcj
@@ -95668,8 +95651,8 @@ columns:
 𱭿	hgqr
 𱮀	qrml
 𱮁	baqr
-𱮂	qrgh	#!!!
-𱮂	qdah	#!!!
+𱮂	qrgh	!!!
+𱮂	qdah	!!!
 𱮃	qrwu
 𱮄	qrpg
 𱮅	qrvb
@@ -95679,8 +95662,8 @@ columns:
 𱮉	qrzo
 𱮊	qrfu
 𱮋	qrwf
-𱮌	qrgj	#!!!
-𱮌	qdan	#!!!
+𱮌	qrgj	!!!
+𱮌	qdan	!!!
 𱮍	qryu
 𱮎	qrmn
 𱮏	qrho
@@ -95693,8 +95676,8 @@ columns:
 𱮖	qrxt
 𱮗	qruo
 𱮘	qrnj
-𱮙	qrge	#!!!
-𱮙	qdee	#!!!
+𱮙	qrge	!!!
+𱮙	qdee	!!!
 𱮚	qryt
 𱮛	qrfg
 𱮜	qrtj
@@ -96093,8 +96076,8 @@ columns:
 𱴥	uiso
 𱴦	uijs
 𱴧	uiyb
-𱴨	uien	#!!!
-𱴨	uxen	#!!!
+𱴨	uien	!!!
+𱴨	uxen	!!!
 𱴩	uiba
 𱴪	uiyj
 𱴫	djui
@@ -96472,7 +96455,7 @@ columns:
 𱺟	sidk
 𱺠	sizo
 𱺡	sild
-𱺢	sina	#!!!
+𱺢	sina	!!!
 𱺣	silk
 𱺤	sixx
 𱺥	sivv
@@ -96486,7 +96469,7 @@ columns:
 𱺭	silz
 𱺮	sihk
 𱺯	sicl
-𱺰	sinh	#!!!
+𱺰	sinh	!!!
 𱺱	fbyp
 𱺲	fbby
 𱺳	fbyj
@@ -96637,8 +96620,8 @@ columns:
 𱽄	vbdi
 𱽅	vbxw
 𱽆	vbyi
-𱽇	wfgf	#!!!
-𱽇	wgen	#!!!
+𱽇	wfgf	!!!
+𱽇	wgen	!!!
 𱽈	pxgf
 𱽉	semi
 𱽊	sezf
@@ -96689,8 +96672,8 @@ columns:
 𱽷	ckmn
 𱽸	xpzi
 𱽹	ckyp
-𱽺	caoe	#!!!
-𱽺	ckee	#!!!
+𱽺	caoe	!!!
+𱽺	ckee	!!!
 𱽻	cktm
 𱽼	ckij
 𱽽	ckxi
@@ -96736,8 +96719,8 @@ columns:
 𱾥	cktu
 𱾦	bzcl
 𱾧	ckli
-𱾨	caoe	#!!!
-𱾨	ckee	#!!!
+𱾨	caoe	!!!
+𱾨	ckee	!!!
 𱾩	ckck
 𱾪	lbfu
 𱾫	ckvs
@@ -96941,8 +96924,8 @@ columns:
 𲁱	yjyu
 𲁲	yjxw
 𲁳	yjuy
-𲁴	yjgf	#!!!
-𲁴	yhen	#!!!
+𲁴	yjgf	!!!
+𲁴	yhen	!!!
 𲁵	yjdr
 𲁶	yjcp
 𲁷	yjis
@@ -97151,8 +97134,8 @@ columns:
 𲅂	iemu
 𲅃	xnie
 𲅄	xnpx
-𲅅	xngf	#!!!
-𲅅	xyen	#!!!
+𲅅	xngf	!!!
+𲅅	xyen	!!!
 𲅆	xnyu
 𲅇	uixn
 𲅈	zigu
@@ -97293,8 +97276,8 @@ columns:
 𲇏	jnjm
 𲇐	jnci
 𲇑	bzjn
-𲇒	jnge	#!!!
-𲇒	jyee	#!!!
+𲇒	jnge	!!!
+𲇒	jyee	!!!
 𲇓	jnwj
 𲇔	ifjn
 𲇕	jnjm
@@ -97327,8 +97310,8 @@ columns:
 𲇰	jnrf
 𲇱	jnvi
 𲇲	jnvr
-𲇳	jinh	#!!!
-𲇳	jnah	#!!!
+𲇳	jinh	!!!
+𲇳	jnah	!!!
 𲇴	jnxn
 𲇵	jnud
 𲇶	jnyn
@@ -97365,8 +97348,8 @@ columns:
 𲈕	jnqm
 𲈖	jien
 𲈗	jnvh
-𲈘	jngl	#!!!
-𲈘	jyai	#!!!
+𲈘	jngl	!!!
+𲈘	jyai	!!!
 𲈙	jnsu
 𲈚	jnjy
 𲈛	jnts
@@ -97440,14 +97423,14 @@ columns:
 𲉟	erda
 𲉠	eryt
 𲉡	sivb
-𲉢	aaye	#!!!
-𲉢	ayee	#!!!
+𲉢	aaye	!!!
+𲉢	ayee	!!!
 𲉣	erfu
-𲉤	aack	#!!!
-𲉤	acao	#!!!
+𲉤	aack	!!!
+𲉤	acao	!!!
 𲉥	erls
-𲉦	aalz	#!!!
-𲉦	alei	#!!!
+𲉦	aalz	!!!
+𲉦	alei	!!!
 𲉧	dkvv
 𲉨	jqvv
 𲉩	vvud
@@ -97457,8 +97440,8 @@ columns:
 𲉭	yivi
 𲉮	yevv
 𲉯	wfnj
-𲉰	yunl	#!!!
-𲉰	ypai	#!!!
+𲉰	yunl	!!!
+𲉰	ypai	!!!
 𲉱	yuyt
 𲉲	yuji
 𲉳	yumx
@@ -97657,8 +97640,8 @@ columns:
 𲌴	yuzl
 𲌵	wuyu
 𲌶	tuwf
-𲌷	yunj	#!!!
-𲌷	ypan	#!!!
+𲌷	yunj	!!!
+𲌷	ypan	!!!
 𲌸	yutk
 𲌹	yuyk
 𲌺	yugu
