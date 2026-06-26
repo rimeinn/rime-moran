@@ -15,7 +15,7 @@ chaifen: opencc/moran_chaifen.txt
 
 moran.chars.dict.yaml: tools/data/chars.txt tools/data/moran_chai.txt tools/gen_chars.py
 	uv run tools/gen_chars.py > $@
-zrlf.dict.yaml: tools/data/zrlf.txt tools/data/chars.txt tools/data/moran_chai.txt tools/gen_zrlf.py
+zrlf.dict.yaml: tools/data/zrlf.txt tools/gen_zrlf.py
 	uv run tools/gen_zrlf.py > $@
 lua/zrmdb.txt: tools/data/moran_chai.txt tools/gen_zrmdb.py
 	uv run tools/gen_zrmdb.py > $@
