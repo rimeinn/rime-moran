@@ -7348,7 +7348,7 @@
 兗	lx wx
 兘	yt
 兙	ku
-党	xx dx ek
+党	ek xx dx
 兛	kq
 兜	ek be
 兝	kf
@@ -16592,7 +16592,7 @@
 畳	tq
 畴	tu
 畵	yh yk
-當	dt tk xt
+當	tk xt dt
 畷	tu tv
 畸	tq
 畹	tw

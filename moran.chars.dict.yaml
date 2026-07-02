@@ -6,7 +6,7 @@
 
 ---
 name: moran.chars
-version: "20260627"
+version: "20260702"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -11633,9 +11633,9 @@ use_preset_vocabulary: false
 兗	yj;wx	0
 兘	ui;yt	0
 兙	ui;ku	0
+党	dh;ek	242508
 党	dh;xx	242508
 党	dh;dx	242508
-党	dh;ek	242508
 兛	qm;kq	0
 兜	db;ek	44209
 兜	db;be	44209
@@ -28646,9 +28646,9 @@ use_preset_vocabulary: false
 畴	ib;tu	11750
 畵	hw;yh	0
 畵	hw;yk	0
-當	dh;dt	0
 當	dh;tk	0
 當	dh;xt	0
+當	dh;dt	0
 畷	vv;tu	0
 畷	vv;tv	0
 畸	ji;tq	5545
