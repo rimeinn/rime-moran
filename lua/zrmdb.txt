@@ -50197,7 +50197,7 @@
 𦥬	jv
 𦥭	jn jc qj
 𦥮	aj
-𦥯	pb
+𦥯	jb
 𦥰	jg
 𦥱	jj
 𦥲	ja pj
@@ -52266,7 +52266,7 @@
 𧌦	ii si
 𧌧	id
 𧌨	ip
-𧌩	ai
+𧌩	iw
 𧌪	ij ji
 𧌫	ij
 𧌬	ij
@@ -84000,6 +84000,7 @@
 𬢠	yf
 𬮷	mj mf
 𭕙	uf
+𰃮	db
 𱎪	rf
 𱢣	oj of
 𲈫	mf
