@@ -96149,6 +96149,7 @@
 𰃪	gang	0	0
 𰃫	jiong	0	0
 𰃭	jing	0	0
+𰃮	xue	0	0
 𰃯	san	0	0
 𰃰	zai	0	0
 𰃰	zi	0	0
