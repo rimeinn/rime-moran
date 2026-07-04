@@ -60313,7 +60313,7 @@
 𦥭	jc	臼屮	
 𦥭	qj	䒑臼	
 𦥮	aj	一臼	auto
-𦥯	pb	𠂆冖	auto
+𦥯	jb	臼冖	auto
 𦥰	jg	臼光	auto
 𦥱	jj	臼巾	auto
 𦥲	ja	臼一	
@@ -62568,7 +62568,7 @@
 𧌦	si	厶虫	auto
 𧌧	id	虫丁	auto
 𧌨	ip	虫片	auto
-𧌩	ai	丆虫	auto
+𧌩	iw	虫旡	auto
 𧌪	ij	虫具	auto
 𧌪	ji	具虫	auto
 𧌫	ij	虫臼	auto
@@ -114258,7 +114258,7 @@
 #𰃟	bb	巴八	
 #𰃬	cj	廿今	
 #𰃮	bb	冖丷	
-#𰃮	db	丶冖	
+𰃮	db	丶冖	
 #𰃶	df	冫风	
 #𰃾	dl	冫良	
 #𰄀	dl	冫拉	
