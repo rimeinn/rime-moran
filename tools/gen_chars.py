@@ -1,7 +1,8 @@
 # gen_chars.py -- 生成單字表
 
-from utils import *
 import argparse
+
+from utils import *
 from zrmify import zrmify
 
 parser = argparse.ArgumentParser()

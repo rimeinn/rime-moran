@@ -4,6 +4,9 @@ quick: chars zrmdb chaifen opencc zrlf
 dict: update-compact-dicts
 all: quick dict
 
+lint-python:
+	uv run --with ruff ruff check tools
+
 ############
 # 單字信息 #
 ############
@@ -97,4 +100,4 @@ test: dist
 	mira -C /tmp/mira-cache tests/moran_aux.test.yaml
 	rm -rf /tmp/mira-cache
 
-.PHONY: quick all dict chars zrlf zrmdb chaifen update-compact-dicts sync-essay dazhu opencc mdict dist test
+.PHONY: quick all dict chars zrlf zrmdb chaifen update-compact-dicts sync-essay dazhu opencc mdict dist test lint-python

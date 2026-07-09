@@ -1,8 +1,11 @@
-from collections import defaultdict
 import re
-import requests
+from collections import defaultdict
+
 import pandas as pd
+import requests
+
 from opencc import OpenCC
+
 
 def read_compact_dict(filename):
     RE_COMPACT_DICT_LINE = re.compile(r"^(.+)\t([ ;a-z]+)\t(\d*)$")

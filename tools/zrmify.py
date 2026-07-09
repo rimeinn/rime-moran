@@ -75,6 +75,7 @@ def 韻母轉換(pinyin: str) -> str:
 
 ################################################################################
 from collections import defaultdict
+
 可接i介音聲母 = {'b','p','m','f','d','t','n','l','j','q','x','y'}
 反向映射表 = defaultdict(list)
 
@@ -129,8 +130,8 @@ ALL_PINYIN = ["a", "ai", "an", "ang", "ao", "ba", "bai", "ban", "bang", "bao", "
 
 ALL_ZRMSP = [zrmify1(py) for py in ALL_PINYIN]
 
-import string
 import itertools
+import string
 
 ALL_NON_SP = sorted(list(set(a+b for (a,b) in itertools.product(string.ascii_lowercase, string.ascii_lowercase)) - set(ALL_ZRMSP)))
 

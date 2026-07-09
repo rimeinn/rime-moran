@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
 
+import sys
+
 from mdict_utils.base.writemdict import MDictWriter
 from utils import *
 from zrmify import zrmify
-import sys
-import os
-
 
 if len(sys.argv) != 2:
     print('Usage: gen_mdx.py <output path>')

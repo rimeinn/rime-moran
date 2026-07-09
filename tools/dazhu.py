@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 import argparse
-import opencc
 import os
-from collections import defaultdict
 import re
 import sys
+from collections import defaultdict
+
+import opencc
 
 
 class FakeOpenCC:

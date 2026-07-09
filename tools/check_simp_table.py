@@ -1,6 +1,6 @@
-import opencc
 import re
-import os
+
+import opencc
 
 cc = opencc.OpenCC('t2s.json')
 RE_ENTRY = re.compile(r'^([^\t]+)\t')

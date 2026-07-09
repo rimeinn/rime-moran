@@ -8,11 +8,13 @@ sync_moe.py -- 同步上游萌百詞條
 4. 調用 gen-dict 將其轉換成
 """
 
-import requests
-from collections import defaultdict
-import opencc
 import re
+from collections import defaultdict
+
+import requests
 from utils import *
+
+import opencc
 
 t2s = opencc.OpenCC('t2s.json')
 s2t = opencc.OpenCC('s2t.json')
@@ -158,4 +160,4 @@ def count_tokens(text: str) -> int:
 
 with open('out_ambi.txt', 'w') as f:
     f.write(str_ambi(ambi))
-print(f'歧義詞語已寫入 out_ambi.txt')
+print('歧義詞語已寫入 out_ambi.txt')
