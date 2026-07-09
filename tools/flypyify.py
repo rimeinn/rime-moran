@@ -70,6 +70,7 @@ def 韻母轉換(pinyin: str) -> str:
 
 ################################################################################
 from collections import defaultdict
+
 可接i介音聲母 = {'b','p','m','f','d','t','n','l','j','q','x','y'}
 反向映射表 = defaultdict(list)
 

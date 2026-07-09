@@ -3,11 +3,10 @@
 # 本項目詞庫自提交至 rime/rime-essay 後，承衆高手校對糾錯。本腳本自動
 # 從 rime-essay 拉取修改到項目詞庫中。
 
-import requests
-import opencc
 import pandas as pd
 from rime_dict import base_dict, latest_essay
 
+import opencc
 
 CC = opencc.OpenCC('t2s.json')
 def normalize(s):

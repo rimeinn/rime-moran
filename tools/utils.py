@@ -1,7 +1,7 @@
-from collections import defaultdict, OrderedDict
 import os
+from collections import OrderedDict, defaultdict
 from datetime import datetime
-from typing import Generator, Iterable, Tuple, Iterator, overload
+from typing import Iterable, Iterator, Tuple, overload
 
 
 def tsv_reader(path: str) -> Iterator[list[str]]:

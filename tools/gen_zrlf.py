@@ -1,7 +1,8 @@
 # gen_zrlf.py -- 生成兩分詞庫
 
-from utils import *
 import argparse
+
+from utils import *
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--simplified', action='store_true')

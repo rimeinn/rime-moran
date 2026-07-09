@@ -9,20 +9,18 @@
 # 序的使用者所有.)
 #
 
-import sys
 import argparse
 import traceback
 from collections import *
 from itertools import *
-import zrmify
-import flypyify
-import math
-import opencc
-from pypinyin import lazy_pinyin
 from operator import *
-import re
-import regex
 
+import flypyify
+import regex
+import zrmify
+from pypinyin import lazy_pinyin
+
+import opencc
 
 double_pinyin_choices = ['zrm', 'flypy']
 auxiliary_code_choices = ['zrm', 'user']

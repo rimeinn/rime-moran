@@ -142,6 +142,8 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       - uses: astral-sh/setup-uv@v7
+      - name: 檢查 Python 工具格式與 import 順序
+        run: make lint-python
       - name: 檢查簡體碼表是否有繁體字
         run: uv run tools/check_simp_table.py
       - name: 檢查詞庫裏是否混入了多空格

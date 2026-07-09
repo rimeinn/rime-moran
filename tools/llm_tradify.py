@@ -4,12 +4,13 @@
 注意，LLM 輸出爲臺標，最後需用 opencc 轉爲 opencc 標。
 """
 
-import requests
-import json
-import sys
-import os
-import time
 import argparse
+import os
+import sys
+import time
+
+import requests
+
 
 def read_input_file(filename):
     """Read the input file and return list of (word, pinyin) tuples"""
@@ -165,7 +166,7 @@ def main():
         sys.exit(1)
     
     print(f"Processing {len(words)} words in batches of {args.batch_size}...")
-    print(f"Each batch will be saved as separate .in and .out files")
+    print("Each batch will be saved as separate .in and .out files")
     
     # Process in batches
     successful_batches = process_in_batches(words, api_key, args.input_file, args.batch_size)

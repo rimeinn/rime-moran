@@ -20,3 +20,13 @@ license = {text = "GPLv3"}
 
 [tool.pdm]
 distribution = false
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+extend-exclude = [
+    "dist",
+]
+
+[tool.ruff.lint]
+select = ["E9", "F401", "F541", "I"]
