@@ -23,6 +23,13 @@
 - **moran_aux** options: https://zrmfans.cn/book/schemas/fushai/features.md
 - **moran_sentence** is a cut-down version of moran, see the yaml file and compare to moran.schema.yaml
 
+## Commit message conventions
+
+- Follow the repository's existing commit style. Prefer short imperative subjects with a lowercase prefix such as `dict:`, `dict(chai):`, `fix:`, `fix(lua):`, `ci:`, `docs:`, `feat:` when applicable.
+- Do not use generic Title Case subjects like `Update ...`, `Add ...`, `Fix ...` unless that casing/pattern already matches nearby history for the same kind of change. Match local history first.
+- Pick the narrowest accurate prefix for the files changed. For example: CI/workflow changes should usually use `ci:`, documentation-only changes `docs:`, dictionary updates `dict:` or `dict(...)`, and user-visible bug fixes `fix:` or `fix(...)`.
+- Before committing, inspect recent history with `git log --oneline origin/main -n 20` and mirror the dominant style.
+
 ## Change workflow
 
 - Prefer minimal source-data edits. For dictionary entries with generated auxiliary-code comments, edit the spelling/code or word form before generated auxiliary data; do not hand-edit generated auxiliary-code fields unless the repository documentation says that field is source data.
