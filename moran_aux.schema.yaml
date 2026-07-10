@@ -379,6 +379,15 @@ moran:
   # 該功能不顯示拆分，建議使用 Ctrl+i 顯示單字拆分
   enable_aux_hint: false
 
+  # 簡快碼提示（包括字和詞）
+  # 僅在 moran/fix/use_dict 開啓時生效，且只提示長度不超過
+  # moran/fix/use_dict_max_length 的編碼。
+  enable_quick_code_hint: false
+  # 默認值 null 表示使用 quick_code_indicator，可按需設爲其他提示符或 ""。
+  quick_code_hint_indicator: null
+  # 取消單字的簡快碼提示
+  quick_code_hint_skip_chars: false
+
   # 「置頂」功能相關設置
   # 輸入時通過快捷鍵 Ctrl+t 可以將高亮顯示的候選置頂，被置頂的候選位置固定，不再參與調頻
   # 對同一輸入碼最高支持8個置頂詞，當嘗試置頂第9個詞時，最早被置頂的詞將會失效
