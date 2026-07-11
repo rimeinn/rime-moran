@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260620"
+version: "20260626"
 sort: by_weight
 columns:
   - text
@@ -2903,6 +2903,7 @@ AVL樹	avlu
 不出差錯	biic
 鼻翅	biii
 保持沉默	biim
+避重	biis
 保持傳統	biit
 壁櫥	biiu
 筆觸	biiu
@@ -21360,6 +21361,7 @@ F盤	fpj
 噶倫	galp
 伽馬	gama
 公安民警	gamj
+戛納	gana
 朒	gao
 玍	gap
 高矮胖瘦	gapu
@@ -26084,13 +26086,13 @@ G盤	gpj
 鼓舞鬥志	gwdv
 聒耳	gwer
 掛	gwf
-颪	gwf
 瓜分	gwff
 颳風	gwfg
 挂	gwfg
 寡婦	gwfu
 括	gwfu
 颳	gwfu
+颪	gwfx
 掛鉤	gwgb
 各玩各的	gwgd
 瓜葛	gwge
@@ -54923,6 +54925,7 @@ JK制服	jkvf
 綿綿瓜瓞	mmgd
 盲目跟風	mmgf
 貓貓狗狗	mmgg
+密碼管理器	mmgq
 麪館	mmgr
 免冠	mmgr
 蒙面歌王	mmgw
@@ -95933,7 +95936,7 @@ WiFi	wifi
 文字改革	wzgg
 桅杆	wzgj
 位高	wzgk
-物資管理	wzgl
+微改	wzgl
 爲國	wzgo
 衛國	wzgo
 圍觀	wzgr
@@ -116027,6 +116030,7 @@ WiFi	wifi
 廆	wkgg
 桅杆	wkgj
 位高	wkgk
+微改	wkgl
 爲國	wkgo
 衛國	wkgo
 圍觀	wkgr
@@ -118137,6 +118141,7 @@ Excel	eks
 服務部	fwb
 方位詞	fwc
 服務端	fwd
+氛圍感	fwg
 俯臥撐	fwi
 蜂王漿	fwj
 蜂窩煤	fwm

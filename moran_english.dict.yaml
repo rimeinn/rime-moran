@@ -6,7 +6,7 @@
 
 ---
 name: moran_english
-version: "20260610"
+version: "20260617"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -57330,3 +57330,7 @@ coding	coding
 podman	podman
 tradeoff	tradeoff
 diff	diff
+AGENTS.md	AGENTSmd
+Stanford	Stanford
+Yale	Yale
+Harvard	Harvard

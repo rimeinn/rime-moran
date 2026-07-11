@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20260610"
+version: "20260711"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9401,6 +9401,13 @@ PV师	5	PV ui;vb
 切墩
 切配
 款号	1
+避重	5
+微改	100
+雄竞	10
+雌竞	10
+雄堕	5
+雌堕	5
+词堕
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0
