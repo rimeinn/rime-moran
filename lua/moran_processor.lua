@@ -283,6 +283,12 @@ local function variant_toggle_processor(key_event, env)
         -- 默认安装中，首选项是 zh_t 或 zh_s（无 opencc），故选择第二选项。
         ctx:set_option(v2, true)
         ctx:set_option(v1, false)
+    elseif not ctx:get_option(v1) and not ctx:get_option(v2) then
+        -- 其他用字标准被激活时，切换到第一个
+        for _, v in ipairs(env.variants) do
+            ctx:set_option(v, false)
+        end
+        ctx:set_option(v1, true)
     end
 
     return kAccepted
