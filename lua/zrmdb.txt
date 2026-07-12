@@ -6454,12 +6454,12 @@
 䶘	il
 䶙	ij
 䶚	ii
-䶛	li
+䶛	il
 䶜	ig
 䶝	ij
 䶞	iq
 䶟	ij
-䶠	xi
+䶠	ix
 䶡	iz
 䶢	ix
 䶣	iq
@@ -25400,7 +25400,7 @@
 韛	wy
 韜	wy
 韝	wg wr
-韞	ww
+韞	wm ww
 韟	wg wu
 韠	wb
 韡	wh
@@ -60831,7 +60831,7 @@
 𩦘	mv
 𩦙	mu
 𩦚	mx
-𩦛	ma rm
+𩦛	ma pm
 𩦜	mu um
 𩦞	mg
 𩦟	mk
@@ -60855,8 +60855,8 @@
 𩦲	mw
 𩦳	md
 𩦴	mu
-𩦵	gm mv
-𩦶	hm me
+𩦵	mv gm
+𩦶	hm mf
 𩦷	mj
 𩦸	my
 𩦹	mj
@@ -60890,13 +60890,13 @@
 𩧗	mi
 𩧘	mq
 𩧙	mm
-𩧚	qm mq
+𩧚	mq mv
 𩧛	mj
 𩧜	mv
 𩧝	mg
 𩧟	mh
 𩧠	mn
-𩧡	mj jm
+𩧡	mj
 𩧢	mm
 𩧣	mf
 𩧤	ma
@@ -60908,7 +60908,7 @@
 𩧫	my
 𩧬	mr
 𩧭	mu
-𩧮	lm
+𩧮	ml
 𩧯	mf
 𩧰	mj
 𩧱	mq
@@ -60916,7 +60916,7 @@
 𩧳	mv
 𩧴	mq
 𩧵	mj
-𩧶	im
+𩧶	mi mf xm
 𩧺	mj
 𩧻	mw
 𩧼	mb
