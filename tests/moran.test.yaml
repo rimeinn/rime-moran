@@ -76,6 +76,16 @@ deploy:
         assert: eq(commit, '為')
       - send: 'w{Control+s}{Control+s}{Control+s}2'
         assert: eq(commit, '为')
+  std_switcher_third_active:
+    patch:
+      switches/@4/+:
+        options: [std_t2tw, std_t2s, std_t2hk]
+        states: [台, 简, 港]
+    options:
+      std_t2hk: true
+    tests:
+      - send: 'w{Control+s}2'
+        assert: eq(commit, '為')
 
   emoji:
     options:
