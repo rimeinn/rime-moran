@@ -28,31 +28,6 @@ deploy:
       - send: 'keyima'
         assert: eq(cand[1].text, '可以嗎')
 
-  quick_code_hint_without_fix_dict:
-    patch:
-      moran/enable_quick_code_hint: true
-    tests:
-      - send: 'yyteer'
-        assert: cand[1].text == '英特爾' and eq(cand[1].comment, '')
-
-  quick_code_hint_with_fix_dict:
-    patch:
-      moran/enable_quick_code_hint: true
-      moran/fix/use_dict: true
-      moran/fix/use_dict_max_length: 3
-    tests:
-      - send: 'yyteer'
-        assert: cand[1].text == '英特爾' and eq(cand[1].comment, '⚡yte')
-
-  quick_code_hint_respects_fix_dict_max_length:
-    patch:
-      moran/enable_quick_code_hint: true
-      moran/fix/use_dict: true
-      moran/fix/use_dict_max_length: 2
-    tests:
-      - send: 'yyteer'
-        assert: cand[1].text == '英特爾' and eq(cand[1].comment, '')
-
   tab:
     tests:
       - send: 'lmjx{Tab}j{space}{space}'

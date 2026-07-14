@@ -1,12 +1,10 @@
 -- Moran Translator (for Express Editor)
 -- Copyright (c) 2023-2026 ksqsf
 --
--- Ver: 0.5.0
+-- Ver: 0.4.1
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
---
--- 0.5.0: 輔篩模式支持簡碼提示。
 --
 -- 0.4.1: 修復 aux_table 格式未適配問題。
 --
@@ -33,16 +31,9 @@ function Module.init(env)
     end
 
     env.is_auxfilter = env.name_space == "auxfilter"
-    env.enable_quick_code_hint = env.engine.schema.config:get_bool("moran/enable_quick_code_hint") or false
-    env.quick_code_hint_max_length = nil
-    if env.is_auxfilter then
-        -- 輔篩的簡碼來源就是掛接碼表，因而只在掛接開啓時提示，
-        -- 並與掛接使用同一碼長限制。
-        env.enable_quick_code_hint = env.enable_quick_code_hint
-            and (env.engine.schema.config:get_bool("moran/fix/use_dict") or false)
-        env.quick_code_hint_max_length = env.engine.schema.config:get_int("moran/fix/use_dict_max_length") or 3
-    end
-    if env.enable_quick_code_hint then
+    env.enable_quick_code_hint = env.engine.schema.config:get_bool("moran/enable_quick_code_hint")
+    -- 輔篩模式禁止簡碼提示
+    if env.enable_quick_code_hint and not env.is_auxfilter then
         -- The user might have changed it.
         local dict = env.engine.schema.config:get_string("fixed/dictionary")
         env.quick_code_hint_reverse = ReverseLookup(dict)
@@ -65,7 +56,6 @@ function Module.fini(env)
     env.aux_table = nil
     env.enable_quick_code_hint = nil
     env.quick_code_hint_reverse = nil
-    env.quick_code_hint_max_length = nil
     collectgarbage()
 end
 
@@ -122,13 +112,7 @@ function Module.get_quickcode_hint(env, cand, gcand)
     local in_use = false
     local codes = {}
     for code in all_codes:gmatch("%S+") do
-        local code_is_hintable
-        if env.quick_code_hint_max_length then
-            code_is_hintable = #code <= env.quick_code_hint_max_length
-        else
-            code_is_hintable = #code < 4 or (env.inject_fixed_words and len >= 3)
-        end
-        if code_is_hintable then
+        if #code < 4 or (env.inject_fixed_words and len >= 3) then
             if code == cand.preedit:gsub("%s", "") then
                 in_use = true
             else
