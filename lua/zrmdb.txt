@@ -6984,7 +6984,7 @@
 俫	rl
 俬	rs
 俭	ra rq
-修	rp
+修	rp pw
 俯	rf
 俰	rh
 俱	rj
@@ -19587,7 +19587,7 @@
 脦	ot
 脧	oj ow
 脨	ou
-脩	ro
+脩	ro ow
 脪	ox
 脫	od
 脬	of

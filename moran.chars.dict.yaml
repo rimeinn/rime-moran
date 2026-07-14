@@ -6,7 +6,7 @@
 
 ---
 name: moran.chars
-version: "20260712"
+version: "20260714"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -11024,6 +11024,7 @@ use_preset_vocabulary: false
 俭	jm;ra	0
 俭	jm;rq	0
 修	xq;rp	7497
+修	xq;pw	7497
 俯	fu;rf	871
 俰	ho;rh	317
 俱	ju;rj	1806
@@ -33820,8 +33821,11 @@ use_preset_vocabulary: false
 脨	cu;ou	0
 脨	ji;ou	454
 脩	xq;ro	640
+脩	xq;ow	640
 脩	yb;ro	0
+脩	yb;ow	0
 脩	tc;ro	0
+脩	tc;ow	0
 脪	ii;ox	432
 脪	xn;ox	0
 脫	to;od	3598
