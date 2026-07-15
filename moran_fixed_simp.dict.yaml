@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260626"
+version: "20260715"
 sort: original
 columns:
   - text
@@ -4121,8 +4121,8 @@ AVL树	avlu
 白虎	blhu
 拜会	blhv
 白话	blhw
-碧蓝航线	blhx
 本来还想	blhx
+碧蓝航线	blhx
 败坏	blhy
 白茶	blia
 掰扯	blie
@@ -23103,8 +23103,8 @@ F盘	fpj
 顾虑重重	glii
 古老传统	glit
 钙	glj
-管理机构	gljg
 古灵精怪	gljg
+管理机构	gljg
 过了几个世纪	gljj
 改建	gljm
 过了几秒	gljm
@@ -26433,8 +26433,8 @@ G盘	gpj
 还不足以	hbzy
 毫不在意	hbzy
 好不自在	hbzz
-何曾	hc
 缓存	hc
+何曾	hc
 厚此薄彼	hcbb
 怀才不遇	hcby
 荒草丛生	hccu
