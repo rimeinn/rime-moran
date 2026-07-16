@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260626"
+version: "20260715"
 sort: by_weight
 columns:
   - text
@@ -4244,8 +4244,8 @@ AVL樹	avlu
 白虎	blhu
 拜會	blhv
 白話	blhw
-碧藍航線	blhx
 本來還想	blhx
+碧藍航線	blhx
 敗壞	blhy
 白茶	blia
 掰扯	blie
@@ -23815,8 +23815,8 @@ F盤	fpj
 顧慮重重	glii
 古老傳統	glit
 鈣	glj
-管理機構	gljg
 古靈精怪	gljg
+管理機構	gljg
 過了幾個世紀	gljj
 改建	gljm
 過了幾秒	gljm
@@ -27220,8 +27220,8 @@ G盤	gpj
 還不足以	hbzy
 毫不在意	hbzy
 好不自在	hbzz
-何曾	hc
 緩存	hc
+何曾	hc
 厚此薄彼	hcbb
 懷才不遇	hcby
 荒草叢生	hccu
