@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260718"
+version: "20260723"
 sort: by_weight
 columns:
   - text
@@ -16086,9 +16086,9 @@ D盤	dpj
 對應的是	dydu
 得意的笑	dydx
 得意地笑	dydx
+釘釘	dydy
 大眼瞪小眼	dydy
-鼎鼎	dydy
-斷崖第一	dydy
+大於等於	dydy
 多有得罪	dydz
 得意弟子	dydz
 耵	dye
@@ -41399,8 +41399,8 @@ JK制服	jkvf
 今日今時	jrju
 見仁見智	jrjv
 盡人皆知	jrjv
-假仁假義	jrjy
 肌肉記憶	jrjy
+假仁假義	jrjy
 圈	jrk
 計日可待	jrkd
 鐫刻	jrke
@@ -72471,6 +72471,7 @@ P站	pvj
 嗩吶	sona
 所能	song
 索尼	soni
+睃	soo
 鎖屏	sopy
 索賠	sopz
 欶	soq
@@ -72491,7 +72492,6 @@ P站	pvj
 挲	sou
 所受	soub
 縮手	soub
-睃	soo
 所設	soue
 鎖上	souh
 瑣事	soui
@@ -73547,6 +73547,7 @@ P站	pvj
 思想活躍	sxhy
 思想成熟	sxiu
 三硝基甲苯	sxjb
+所想即所得	sxjd
 思想警察	sxji
 思想境界	sxjj
 三姓家奴	sxjn
@@ -97383,8 +97384,8 @@ WiFi	wifi
 相逢一笑	xfyx
 心煩意燥	xfyz
 興風作浪	xfzl
-修改	xg
 習慣	xg
+修改	xg
 興國安邦	xgab
 星光黯淡	xgad
 星光暗淡	xgad
@@ -102093,6 +102094,7 @@ WiFi	wifi
 胸有大志	xydv
 涬	xydx
 曉以大義	xydy
+小於等於	xydy
 邢	xye
 陘	xyeg
 洶湧而出	xyei
@@ -109556,10 +109558,11 @@ WiFi	wifi
 雨刷	yuuw
 以身涉險	yuux
 嶼	yuuy
-餘	yuuy
+禦	yuuy
 飫	yuuy
 嵛	yuuy
 嵎	yuuy
+餘	yuuy
 延時攝影	yuuy
 祤	yuuy
 礜	yuuy
@@ -117541,6 +117544,7 @@ CD機	cdj
 得人心	drx
 電褥子	drz
 第三遍	dsb
+第三次	dsc
 第四次	dsc
 第三方	dsf
 第三個	dsg
