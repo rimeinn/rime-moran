@@ -4,16 +4,16 @@
 
 <p align="center">
 <a href="https://github.com/rimeinn/rime-moran/issues"><img src="https://img.shields.io/badge/%E6%AD%A1%E8%BF%8E-%E5%8F%83%E8%88%87%E8%B2%A2%E7%8D%BB-1dd3b0?style=for-the-badge&logo=github"/></a>
-<a href="https://zrmfans.cn/demo/"><img src="https://img.shields.io/badge/Fcitx5-線上試用-1dd3b0?style=for-the-badge&logo=github"/></a>
+<a href="https://moran.rimeinn.org/demo/"><img src="https://img.shields.io/badge/Fcitx5-線上試用-1dd3b0?style=for-the-badge&logo=github"/></a>
 </p>
 
 授權協議：完整的方案發行依 [GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html) 協議發佈。若某文件中另有說明，則該文件可依對應許可協議再發行。
 
 ---
 
-配方：℞ `rimeinn/rime-moran@trad` 傳承字版 ([線上試用](https://zrmfans.cn/demo/))
+配方：℞ `rimeinn/rime-moran@trad` 傳承字版 ([線上試用](https://moran.rimeinn.org/demo/))
 
-配方：℞ `rimeinn/rime-moran@simp` 簡化字版 ([線上試用](https://zrmfans.cn/zh-Hans/demo/))
+配方：℞ `rimeinn/rime-moran@simp` 簡化字版 ([線上試用](https://moran.rimeinn.org/zh-Hans/demo/))
 
 本項目爲基於自然碼（雙拼和輔助碼）的、原生支持傳承字的 Rime 方案，簡稱「魔然」。它試圖在「漢字字形」、「效率和確定性」與「輸入體驗」之間取得平衡。具有[多種模式](https://github.com/rimeinn/rime-moran/wiki/%E5%90%84%E8%BC%B8%E5%85%A5%E6%A8%A1%E5%BC%8F%E8%AA%AA%E6%98%8E)、[五重反查](https://github.com/rimeinn/rime-moran/wiki/%E6%95%99%E7%A8%8B#%E5%85%B6%E4%BA%94%E6%9B%B0%E4%BA%94%E9%87%8D%E5%8F%8D%E6%9F%A5)、八萬字、百萬詞庫和多種快捷輸入功能。詳情請參閱[本項目維基](https://github.com/rimeinn/rime-moran/wiki)。
 
@@ -23,9 +23,9 @@
 > [!TIP]
 > 如果您對其他音碼或其他輔助碼感興趣，可參閱 [魔龍（rime-molong）](https://github.com/rimeinn/rime-molong) 項目。
 
-魔然是開放的、[社區維護](https://zrmfans.cn/book/misc/acknowledgement.html)的項目。它的樣貌由每一位輸入者定義，歡迎提交 PR 或 Issue。
+魔然是開放的、[社區維護](https://moran.rimeinn.org/book/misc/acknowledgement.html)的項目。它的樣貌由每一位輸入者定義，歡迎提交 PR 或 Issue。
 
-- [瞭解更多](https://zrmfans.cn)
+- [瞭解更多](https://moran.rimeinn.org)
 
 | 簡快碼                              | 整句輔助模式                             |
 |-------------------------------------|------------------------------------------|

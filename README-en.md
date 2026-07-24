@@ -4,16 +4,16 @@
 
 <p align="center">
 <a href="https://github.com/rimeinn/rime-moran/issues"><img src="https://img.shields.io/badge/Make-Together-1dd3b0?style=for-the-badge&logo=github"/></a>
-<a href="https://zrmfans.cn/demo/"><img src="https://img.shields.io/badge/Fcitx5-Try%20Online-1dd3b0?style=for-the-badge&logo=github"/></a>
+<a href="https://moran.rimeinn.org/demo/"><img src="https://img.shields.io/badge/Fcitx5-Try%20Online-1dd3b0?style=for-the-badge&logo=github"/></a>
 </p>
 
 License: [GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html). If a file indicates another license, you may use/redistribute it according to that license as well.
 
 ---
 
-Plum Recipe: ℞ `rimeinn/rime-moran@trad` for Traditional Chinese ([Try Online](https://zrmfans.cn/demo/))
+Plum Recipe: ℞ `rimeinn/rime-moran@trad` for Traditional Chinese ([Try Online](https://moran.rimeinn.org/demo/))
 
-Plum Recipe: ℞ `rimeinn/rime-moran@simp` for Simplified Chinese ([Try Online](https://zrmfans.cn/zh-Hans/demo/))
+Plum Recipe: ℞ `rimeinn/rime-moran@simp` for Simplified Chinese ([Try Online](https://moran.rimeinn.org/zh-Hans/demo/))
 
 Moran is an advanced Rime schema based on Ziranma, designed for fast, precise, and intuitive Chinese typing. The name "Moran" signifies a "Radically-modified Ziranma" in Chinese. It attempts to strike a balance among "Orthography", "Efficiency", and "Experience".
 
@@ -22,9 +22,9 @@ Moran prioritizes native support for Traditional Chinese Characters. It utilizes
 > [!TIP]
 > If you are interested in other phonetic schemas or auxiliary code schemas, please refer to [rime-molong](https://github.com/rimeinn/rime-molong).
 
-Moran is an open, [community-maintained](https://zrmfans.cn/book/misc/acknowledgement.html) project. Join us!
+Moran is an open, [community-maintained](https://moran.rimeinn.org/book/misc/acknowledgement.html) project. Join us!
 
-- [Learn more](https://zrmfans.cn)
+- [Learn more](https://moran.rimeinn.org)
 
 | Quick Code                              | Assisted Sentence Composition                               |   |
 |-----------------------------------------|-------------------------------------------------------------|---|
