@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260718"
+version: "20260723"
 sort: original
 columns:
   - text
@@ -15597,9 +15597,9 @@ D盘	dpj
 对应的是	dydu
 得意的笑	dydx
 得意地笑	dydx
+钉钉	dydy
 大眼瞪小眼	dydy
-鼎鼎	dydy
-断崖第一	dydy
+大于等于	dydy
 多有得罪	dydz
 得意弟子	dydz
 耵	dye
@@ -40205,8 +40205,8 @@ JK制服	jkvf
 今日今时	jrju
 见仁见智	jrjv
 尽人皆知	jrjv
-假仁假义	jrjy
 肌肉记忆	jrjy
+假仁假义	jrjy
 圈	jrk
 计日可待	jrkd
 镌刻	jrke
@@ -58925,7 +58925,6 @@ JK制服	jkvf
 偶像崇拜	oxib
 呕心沥血	oxlx
 偶像天团	oxtt
-偶遇	oyu
 欧亚大陆	oydl
 哦呀斯密	oysm
 呕哑嘲哳	oyvv
@@ -70456,6 +70455,7 @@ P站	pvj
 唢呐	sona
 所能	song
 索尼	soni
+睃	soo
 锁屏	sopy
 索赔	sopz
 索桥	soqc
@@ -70474,7 +70474,6 @@ P站	pvj
 索	sou
 所受	soub
 缩手	soub
-睃	soo
 所设	soue
 锁上	souh
 琐事	soui
@@ -71502,6 +71501,7 @@ P站	pvj
 思想活跃	sxhy
 思想成熟	sxiu
 三硝基甲苯	sxjb
+所想即所得	sxjd
 思想警察	sxji
 思想境界	sxjj
 三姓家奴	sxjn
@@ -94733,8 +94733,8 @@ U盘	upj
 相逢一笑	xfyx
 心烦意燥	xfyz
 兴风作浪	xfzl
-修改	xg
 习惯	xg
+修改	xg
 兴国安邦	xgab
 星光黯淡	xgad
 星光暗淡	xgad
@@ -99247,6 +99247,7 @@ U盘	upj
 心有独钟	xydv
 胸有大志	xydv
 晓以大义	xydy
+小于等于	xydy
 邢	xye
 陉	xyeg
 汹涌而出	xyei
