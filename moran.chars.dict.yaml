@@ -6,7 +6,7 @@
 
 ---
 name: moran.chars
-version: "20260724"
+version: "20260725"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -32199,7 +32199,6 @@ use_preset_vocabulary: false
 絯	gl;sh	522
 絯	hl;sh	522
 絰	dx;sv	389
-絰	vi;sv	389
 統	ts;si	1530
 絲	si;ss	3369
 絳	jd;sj	826
@@ -45917,7 +45916,6 @@ use_preset_vocabulary: false
 鵴	ju;nj	209
 鵵	tu;nt	216
 鵶	ya;ny	338
-鵷	wj;nw	401
 鵷	yr;nw	401
 鵸	qi;nq	291
 鵹	li;nd	270
