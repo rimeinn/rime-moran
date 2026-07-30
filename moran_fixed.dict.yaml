@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260723"
+version: "20260730"
 sort: by_weight
 columns:
   - text
@@ -124528,6 +124528,7 @@ Word	wrd
 綜合性	zhx
 自畫像	zhx
 綜合語	zhy
+組合子	zhz
 走出去	ziq
 自己的	zjd
 總覺得	zjd

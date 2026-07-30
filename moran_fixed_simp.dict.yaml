@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260723"
+version: "20260730"
 sort: original
 columns:
   - text
@@ -121145,6 +121145,7 @@ Word	wrd
 综合性	zhx
 自画像	zhx
 综合语	zhy
+组合子	zhz
 走出去	ziq
 自己的	zjd
 总觉得	zjd
