@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260730"
+version: "20260805"
 sort: by_weight
 columns:
   - text
@@ -101071,6 +101071,7 @@ WiFi	wifi
 閒着沒事	xvmu
 賢者模式	xvmu
 細斟慢酌	xvmv
+心智模型	xvmx
 新殖民主義	xvmy
 小豬佩奇	xvpq
 行政區劃	xvqh
@@ -111307,12 +111308,12 @@ WiFi	wifi
 牙牙學語	yyxy
 欲抑先揚	yyxy
 音樂學院	yyxy
-潁	yyy
+瑩	yyy
 應由	yyyb
 應有	yyyb
 溢於言表	yyyb
-瑩	yyyb
 褮	yyyb
+瑩	yyyb
 一月一次	yyyc
 有氧運動	yyyd
 也有一點	yyyd
