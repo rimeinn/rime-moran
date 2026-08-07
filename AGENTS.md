@@ -2,6 +2,7 @@
 
 ## Conventions
 
+- This is rime-moran. It is based on ZiRanMa shuangpin and auxiliary code.
 - Always consult **rime-workflow** _and_ **rime-gears** skills. Even if you think you know Rime, double check! Moran is a set of modern and advanced Rime schemas. You need up-to-date Rime knowledge first to answer questions accurately.
   + These skills may be found at https://github.com/rimeinn/agent-skills/ . If you couldn't find them locally, request for their installation, or directly read them from GitHub.
 - If user's choice of moran schema is undecided, confirm which schema the user is asking about, and always refer to the documentation.
@@ -11,6 +12,8 @@
   + If it is, both the "User Customization" and "Development" sections apply.
   + If the directory is not a user Rime directory, only "Development" applies.
 - Check the librime version the user is using. Some features are only available on latest librime.
+- Verify that your examples are correct by checking the actual dictionary files.
+- Check the Chinese variant used in dictionaries -- whether it is simplified Chinese or traditional Chinese.
 
 ## Useful Docs
 
@@ -29,15 +32,31 @@ This section applies when the current directory is the user's Rime directory.
 - Always refer back to the docs, and list references.
 - Teach the user *why* and *how* you do anything.
   + Proactively teach the user how to use Rime/Moran effectively.
-  + Do not blindly follow user suggestions. Try to push back lightly when they are at odds with the design of Rime or Moran.
 - **Customize**: Prefer `foo.custom.yaml` for changes, unless it's not possible or too tedious. Consult moran docs and rime skills.
 - **Git** : Consider making the user Rime directory a Git repo, if the user allows. Commit changes locally, and pull with rebase for updating. Automatically resolve conflicts where possible.
+  + Only stage/commit persistent files. Do not commit *.userdb and sync files.
   + If not possible, consider do upgrades manually but do check the list of files.
 - **Uninstall**: Check moran's recipe and delete these files. Unprefixed files (e.g. `tiger*`) may be shared, so confirm with the user.
 - **Add new words**: Prefer adding them to `moran.extended.dict.yaml`. The code should usually be left out.
 - **Add new dictionaries**: Prefer creating new dictionaries, import them in `moran.extended.dict.yaml`.
 - **User interface**: Moran has nothing to do with the rime frontend. Determine the frontend the user is using, and consult their docs.
 - **Lua**: Prefer Rime-native (i.e. yaml-based) solutions. Unless no other way around, do not offer solutions based on Lua scripting.
+- **Key bindings**: Some keys are handled in `lua/moran_processor.lua`. Check them as well. Do not only read yaml files.
+
+### Mandatory push-back gate
+
+For any requested change in a user's Rime directory:
+
+1. First perform only the read-only inspection needed to understand the request.
+2. Before editing files, generating files, downloading dependencies, or otherwise preparing the implementation, explain:
+   - the existing Rime/Moran design;
+   - the officially supported or lower-maintenance alternative;
+   - the concrete disadvantages of the requested approach.
+3. Recommend the supported approach and stop. Ask the user whether they still want the original approach.
+4. The user's initial request never counts as confirmation. Proceed with the discouraged approach only after a later message explicitly confirms it, such as “仍然这样改”, “继续”, or an equally unambiguous response.
+5. After explicit confirmation, do not repeat the same objection; implement the requested approach.
+
+This gate may be skipped only when the requested change is directly documented and recommended by Rime or Moran. When skipping it, cite the supporting documentation before making changes.
 
 ### Commonly customized options
 
