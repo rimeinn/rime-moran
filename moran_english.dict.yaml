@@ -6,7 +6,7 @@
 
 ---
 name: moran_english
-version: "20260617"
+version: "20260806"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -22905,7 +22905,6 @@ GPL	GPL
 GPO	GPO
 GPS	GPS
 GPT	GPT
-GPT-4	GPT4
 GPU	GPU
 grab	grab
 grabble	grabble
@@ -57167,10 +57166,10 @@ asynchrounous	asynchrounous
 Spring Boot	SpringBoot
 Suno AI	SunoAI
 Sora	Sora
-GPT-4o	GPT4o
 GPTs	GPTs
 Kimi	Kimi
 Kimi Chat	KimiChat
+Kimi Code	Kimi Code
 Moonshot	Moonshot
 Moonshot AI	MoonshotAI
 citywalk	citywalk

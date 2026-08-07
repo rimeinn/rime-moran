@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20260727"
+version: "20260805"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9373,6 +9373,7 @@ columns:
 场贩	50
 常返	10
 配布	50
+配布	0
 PV师	5	PV ui;vb
 音屋	50
 特设页	5
