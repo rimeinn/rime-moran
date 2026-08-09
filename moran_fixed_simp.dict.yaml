@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260805"
+version: "20260809"
 sort: original
 columns:
   - text
@@ -84151,6 +84151,7 @@ U盘	upj
 这厮	vesi
 折伞	vesj
 这所	veso
+折损	vesp
 折算	vesr
 知恩图报	vetb
 这条	vetc
@@ -118777,6 +118778,7 @@ SD卡	sdk
 抬头纹	ttw
 踢踏舞	ttw
 唐太宗	ttz
+提示词	tuc
 提示符	tuf
 图书馆	tug
 听说过	tug
@@ -119533,6 +119535,7 @@ SD卡	sdk
 中年人	vnr
 这年头	vnt
 智囊团	vnt
+智能体	vnt
 只能说	vnu
 终南山	vnu
 之能事	vnu
