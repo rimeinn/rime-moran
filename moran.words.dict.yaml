@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20260805"
+version: "20260808"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9410,6 +9410,7 @@ PV師	5	PV ui;vb
 雌墮	5
 詞墮
 雅可比	100
+海龜殼	47
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0

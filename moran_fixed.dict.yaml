@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260805"
+version: "20260809"
 sort: by_weight
 columns:
   - text
@@ -86459,6 +86459,7 @@ U盤	upj
 這廝	vesi
 折傘	vesj
 這所	veso
+折損	vesp
 折算	vesr
 知恩圖報	vetb
 這條	vetc
@@ -122165,6 +122166,7 @@ SD卡	sdk
 抬頭紋	ttw
 踢踏舞	ttw
 唐太宗	ttz
+提示詞	tuc
 提示符	tuf
 圖書館	tug
 聽說過	tug
@@ -122921,6 +122923,7 @@ SD卡	sdk
 中年人	vnr
 這年頭	vnt
 智囊團	vnt
+智能體	vnt
 只能說	vnu
 終南山	vnu
 之能事	vnu
