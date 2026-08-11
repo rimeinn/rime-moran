@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260809"
+version: "20260811"
 sort: original
 columns:
   - text
@@ -10487,7 +10487,6 @@ C语言	cyy
 篼	dbvd
 倒不知道	dbvd
 斗争	dbvg
-导播赵干	dbvg
 斗志	dbvi
 对不住了	dbvl
 顶不住了	dbvl
@@ -28369,7 +28368,6 @@ H股	hgu
 海盗	hldk
 海岛	hldk
 海带	hldl
-很蓝的啦	hldl
 海淀	hldm
 合理搭配	hldp
 欢乐斗地主	hldv
