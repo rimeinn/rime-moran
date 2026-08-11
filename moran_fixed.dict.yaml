@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260809"
+version: "20260811"
 sort: by_weight
 columns:
   - text
@@ -10795,7 +10795,6 @@ C盤	cpj
 篼	dbvd
 倒不知道	dbvd
 鬥爭	dbvg
-導播趙幹	dbvg
 鬥志	dbvi
 對不住了	dbvl
 頂不住了	dbvl
@@ -29197,7 +29196,6 @@ H股	hgu
 海盜	hldk
 海島	hldk
 海帶	hldl
-很藍的啦	hldl
 海淀	hldm
 合理搭配	hldp
 歡樂鬥地主	hldv
