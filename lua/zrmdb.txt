@@ -27631,7 +27631,7 @@
 𠃆	pm
 𠃇	qb
 𠃈	pe
-𠃌	gb
+𠃌	gb gg
 𠃐	yy
 𠃓	yp ap
 𠃕	pg
@@ -83980,6 +83980,97 @@
 𨛗	ey ye
 𰛄	aa
 𣦶	aa
+𣄯	pw
+𱘭	dx
+𤢪	qu
+𱤦	ml am
+𨘇	zm zf
+𲆰	yy
+𡿰	ji
+𱗎	ty
+𱮿	wb
+𱗖	tz
+𢏈	ga gg
+𧿓	zd
+𨰆	jd
+𠲑	bg
+𨺫	ya
+𱽿	cj
+𡼻	iv
+𲌞	ix
+𣲖	dd
+𥄉	oi
+𲆦	yx
+𧦮	yd
+𠃊	aa
+𱶡	ut
+𰀢	ad
+𨺀	vg
+𦥚	jk
+𢩦	yu
+𱗋	tg
+𱍕	ad ar
+𡋬	th
+𱰤	yt
+𢖎	xa xg
+𨦜	jk
+𠀁	ag
+𱓰	kr
+𱗉	ty
+𱗢	th
+𥭢	vk
+𨺅	pa
+𠮾	kw
+𠛱	dx
+𦊗	ke
+𦦩	je fe
+𥱺	vg
+𲌡	is
+𱛔	uq
+𱩂	dy
+𱸜	vt
+𣫬	ac vc
+𠞤	du da
+𦜸	op
+𢎘	gg
+𱣄	mw
+𠑹	ek kk
+𡬞	yc cy
+𢦍	gp ad
+𱑖	ba bg
+𡒏	ta tu
+𱜀	uy
+𥾬	sy
+𠄌	aa
+𨷒	ma mu
+𡴎	cv
+𱖝	tz
+𱗤	tg
+𠳋	ka va kg vg
+𠀀	aa
+𠘧	pa
+𱘆	tj
+灰	uh hu
+𲀄	ix
+𱐿	wa
+𰯲	is
+𧺽	za zg
+𲄀	zm
+𢈂	ga gg
+𱖟	tk
+𡇑	ka kg
+𱿅	cc
+𤿄	bi
+𠃫	ug
+𢁤	jd
+𦘳	oa og
+𡿨	aa
+𱗂	tu
+𱹁	mq
+𡿼	au
+𦸊	ce
+𡪑	bk
+𤳭	te
 𣮚	mf
 𣴅	df
 𨯾	jj
