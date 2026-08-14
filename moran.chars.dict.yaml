@@ -6,7 +6,7 @@
 
 ---
 name: moran.chars
-version: "20260812"
+version: "20260814"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -12190,10 +12190,10 @@ use_preset_vocabulary: false
 劐	ho;dh	22
 劐	ho;dy	22
 劑	ji;dq	0
-劒	jm;pd	0
 劒	jm;rq	0
 劓	yi;db	74
 劔	jm;rq	0
+劔	jm;rc	0
 劕	vi;dv	0
 劖	ij;di	0
 劖	ij;dt	0
@@ -115213,6 +115213,7 @@ use_preset_vocabulary: false
 𰅈	ij;md	0
 𰅉	qn;jl	0
 𰅉	qn;lj	0
+𰅊	ld;ol	0
 𰅊	ld;dl	0
 𰅊	ld;ld	0
 𰅋	ks;bl	0

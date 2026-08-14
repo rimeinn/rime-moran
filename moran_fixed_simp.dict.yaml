@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260811"
+version: "20260814"
 sort: original
 columns:
   - text
@@ -6808,6 +6808,7 @@ B盘	bpj
 不幸遭遇	bxzy
 并	by
 不要	by
+必要	by
 丙	bya
 并案	byan
 病案	byan
@@ -44350,6 +44351,7 @@ JK制服	jkvf
 开机自启	kjzq
 苛捐杂税	kjzu
 靠	kk
+看看	kk
 靠岸	kkan
 苦苦哀求	kkaq
 磕磕绊绊	kkbb
@@ -50280,7 +50282,6 @@ JK制服	jkvf
 孪生兄弟	luxd
 历史新低	luxd
 历史新高	luxg
-蓝瘦香菇	luxg
 芦席	luxi
 历史学家	luxj
 流水线计算机	luxj
@@ -56096,7 +56097,6 @@ JK制服	jkvf
 难度很高	ndhg
 年代后期	ndhq
 难得糊涂	ndht
-你滴寒王	ndhw
 难度很小	ndhx
 难道还要	ndhy
 难道还有	ndhy
@@ -110188,7 +110188,6 @@ U盘	upj
 字面意思	zmys
 怎么又是	zmyu
 怎么也是	zmyu
-赞美愚者	zmyv
 怎么也在	zmyz
 怎么做到	zmzd
 做没做过	zmzg

@@ -7660,9 +7660,9 @@
 劏	dd
 劐	dh dy
 劑	dq
-劒	pd rq
+劒	rq
 劓	db
-劔	rq
+劔	rq rc
 劕	dv
 劖	di dt
 劗	dz
@@ -75723,7 +75723,7 @@
 𰅆	cn
 𰅈	md
 𰅉	jl lj
-𰅊	dl ld
+𰅊	ol dl ld
 𰅋	bl lb
 𰅍	jl lj
 𰅏	jl
