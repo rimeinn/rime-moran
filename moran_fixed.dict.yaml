@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260811"
+version: "20260814"
 sort: by_weight
 columns:
   - text
@@ -6963,6 +6963,7 @@ Bilibili	bvj
 不幸遭遇	bxzy
 並	by
 不要	by
+必要	by
 丙	bya
 併案	byan
 病案	byan
@@ -33647,7 +33648,7 @@ H盤	hpj
 稱呼	ighu
 出國護照	ighv
 騁懷	ighy
-蛏	igi
+蟶	igi
 乘車	igie
 稱臣	igif
 城池	igii
@@ -45686,6 +45687,7 @@ JK制服	jkvf
 開機自啓	kjzq
 苛捐雜稅	kjzu
 靠	kk
+看看	kk
 靠岸	kkan
 苦苦哀求	kkaq
 磕磕絆絆	kkbb
@@ -51781,7 +51783,6 @@ JK制服	jkvf
 孿生兄弟	luxd
 歷史新低	luxd
 歷史新高	luxg
-藍瘦香菇	luxg
 蘆蓆	luxi
 歷史學家	luxj
 流水線計算機	luxj
@@ -57758,7 +57759,6 @@ JK制服	jkvf
 難度很高	ndhg
 年代後期	ndhq
 難得糊塗	ndht
-你滴寒王	ndhw
 難度很小	ndhx
 難道還要	ndhy
 難道還有	ndhy
@@ -96921,7 +96921,7 @@ WiFi	wifi
 相接	xdjx
 下定決心	xdjx
 香精	xdjy
-響	xdk
+响	xdk
 巷口	xdkb
 相框	xdkd
 相剋	xdke
@@ -113379,7 +113379,6 @@ WiFi	wifi
 字面意思	zmys
 怎麼又是	zmyu
 怎麼也是	zmyu
-讚美愚者	zmyv
 怎麼也在	zmyz
 怎麼做到	zmzd
 做沒做過	zmzg
@@ -113559,6 +113558,7 @@ WiFi	wifi
 作痛	zots
 作圖	zotu
 左腿	zotv
+左	zou
 左手	zoub
 作甚	zouf
 做聲	zoug
@@ -116335,12 +116335,8 @@ WiFi	wifi
 
 ##隨心碼
 #（本質上是無理碼）
-莊	vdg		#來自簡化字寫法 庄；以空碼加
-豬	vuq		#來自簡化字寫法 猪；以空碼加
 議	yiyw		#取末尾的「我」
 誼	yiyq		#取末尾的「且」
-左	zou		#取上部
-右	ybu		#取上部
 凄	qidn		#取「女」
 沏	qidt		#qid + tea
 詩	uiyc		#取末尾小部件
