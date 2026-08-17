@@ -74675,7 +74675,7 @@
 𮢹	ji
 𮢻	jj
 𮢾	jg
-𮢿	jo
+𮢿	jg jo
 𮣀	jy
 𮣁	jm
 𮣆	jb
@@ -84071,6 +84071,7 @@
 𦸊	ce
 𡪑	bk
 𤳭	te
+𠀫	ap cp
 𣮚	mf
 𣴅	df
 𨯾	jj
