@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260814"
+version: "20260815"
 sort: original
 columns:
   - text
@@ -51805,6 +51805,7 @@ JK制服	jkvf
 摩擦阻力	mczl
 苗族	mczu
 母慈子孝	mczx
+面对	md
 目的	md
 磨刀不误砍柴工	mdbg
 目的不纯	mdbi
@@ -93233,9 +93234,9 @@ U盘	upj
 无以言表	wyyb
 唯一一次	wyyc
 惟一一次	wyyc
-无氧运动	wyyd
 无言以对	wyyd
 无颜以对	wyyd
+无氧运动	wyyd
 我有一个大胆的想法	wyyf
 唯一一个	wyyg
 我有一个	wyyg
@@ -93248,7 +93249,6 @@ U盘	upj
 为有源头活水来	wyyl
 无业游民	wyym
 惟有饮者留其名	wyym
-网易云课堂	wyyt
 无以言说	wyyu
 无以言状	wyyv
 我有一种	wyyv

@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260814"
+version: "20260815"
 sort: by_weight
 columns:
   - text
@@ -53344,6 +53344,7 @@ JK制服	jkvf
 摩擦阻力	mczl
 苗族	mczu
 母慈子孝	mczx
+面對	md
 目的	md
 磨刀不誤砍柴工	mdbg
 目的不純	mdbi
@@ -95800,9 +95801,9 @@ WiFi	wifi
 無以言表	wyyb
 唯一一次	wyyc
 惟一一次	wyyc
-無氧運動	wyyd
 無言以對	wyyd
 無顏以對	wyyd
+無氧運動	wyyd
 我有一個大膽的想法	wyyf
 唯一一個	wyyg
 我有一個	wyyg
@@ -95815,7 +95816,6 @@ WiFi	wifi
 爲有源頭活水來	wyyl
 無業遊民	wyym
 惟有飲者留其名	wyym
-網易雲課堂	wyyt
 無以言說	wyyu
 無以言狀	wyyv
 我有一種	wyyv
