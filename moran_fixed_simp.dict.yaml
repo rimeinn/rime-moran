@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260815"
+version: "20260818"
 sort: original
 columns:
   - text
@@ -114757,7 +114757,6 @@ Excel	eks
 服务端	fwd
 氛围感	fwg
 俯卧撑	fwi
-蜂王浆	fwj
 蜂窝煤	fwm
 犯为难	fwn
 服务器	fwq
@@ -114803,12 +114802,10 @@ Excel	eks
 抚养费	fyf
 发言稿	fyg
 发一个	fyg
-放映场	fyi
 复印件	fyj
 复印机	fyj
 反映了	fyl
 发芽率	fyl
-仿羊皮	fyp
 发言权	fyq
 发言人	fyr
 反应热	fyr
@@ -114828,6 +114825,7 @@ Excel	eks
 分子式	fzu
 复杂性	fzx
 副作用	fzy
+反作用	fzy
 公安部	gab
 公安局	gaj
 谷氨酸	gas
@@ -116043,9 +116041,7 @@ git	git
 交汇点	jhd
 救护队	jhd
 绝活儿	jhe
-季候风	jhf
 脚后跟	jhg
-金合欢	jhh
 救护车	jhi
 交汇处	jhi
 菊花茶	jhi
@@ -116079,7 +116075,6 @@ git	git
 精简版	jjb
 交接班	jjb
 经济舱	jjc
-芨芨草	jjc
 就觉得	jjd
 渐渐的	jjd
 聚集地	jjd
@@ -116090,7 +116085,6 @@ git	git
 几句话	jjh
 基金会	jjh
 交际花	jjh
-卷积核	jjh
 竞技场	jji
 交界处	jji
 歼击机	jjj

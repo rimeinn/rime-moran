@@ -6,7 +6,7 @@
 
 ---
 name: moran.chars
-version: "20260817"
+version: "20260819"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -40991,6 +40991,7 @@ use_preset_vocabulary: false
 醀	wz;yv	194
 醁	lu;yl	369
 醂	lj;yl	318
+醂	ln;yl	8
 醃	yj;yd	833
 醃	yj;yy	833
 醄	tk;yt	310
