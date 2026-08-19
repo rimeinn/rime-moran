@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260815"
+version: "20260818"
 sort: by_weight
 columns:
   - text
@@ -118142,7 +118142,6 @@ Excel	eks
 服務端	fwd
 氛圍感	fwg
 俯臥撐	fwi
-蜂王漿	fwj
 蜂窩煤	fwm
 犯爲難	fwn
 服務器	fwq
@@ -118188,12 +118187,10 @@ Excel	eks
 撫養費	fyf
 發言稿	fyg
 發一個	fyg
-放映場	fyi
 複印件	fyj
 複印機	fyj
 反映了	fyl
 發芽率	fyl
-仿羊皮	fyp
 發言權	fyq
 發言人	fyr
 反應熱	fyr
@@ -118213,6 +118210,7 @@ Excel	eks
 分子式	fzu
 複雜性	fzx
 副作用	fzy
+反作用	fzy
 公安部	gab
 公安局	gaj
 穀氨酸	gas
@@ -119426,9 +119424,7 @@ git	git
 交匯點	jhd
 救護隊	jhd
 絕活兒	jhe
-季候風	jhf
 腳後跟	jhg
-金合歡	jhh
 救護車	jhi
 交匯處	jhi
 菊花茶	jhi
@@ -119464,7 +119460,6 @@ git	git
 精簡版	jjb
 交接班	jjb
 經濟艙	jjc
-芨芨草	jjc
 就覺得	jjd
 漸漸的	jjd
 聚集地	jjd
@@ -119475,7 +119470,6 @@ git	git
 幾句話	jjh
 基金會	jjh
 交際花	jjh
-卷積核	jjh
 競技場	jji
 交界處	jji
 殲擊機	jjj
