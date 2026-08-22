@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260818"
+version: "20260822"
 sort: by_weight
 columns:
   - text
@@ -55215,7 +55215,7 @@ JK制服	jkvf
 米諾環素	mnhs
 沒那回事	mnhu
 敏慧	mnhv
-闽	mni
+閩	mni
 民船	mnir
 閩江	mnjd
 模擬計算機	mnjj
