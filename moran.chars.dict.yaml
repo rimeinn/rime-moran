@@ -6,7 +6,7 @@
 
 ---
 name: moran.chars
-version: "20260819"
+version: "20260822"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -8716,7 +8716,9 @@ use_preset_vocabulary: false
 䩂	xm;mj	0
 䩃	ui;mb	0
 䩄	mm;mj	0
+䩄	mm;jm	0
 䩄	tm;mj	0
+䩄	tm;jm	0
 䩅	nj;mp	0
 䩅	vj;mp	0
 䩆	jm;mv	0
@@ -42627,7 +42629,9 @@ use_preset_vocabulary: false
 閧	xd;mg	0
 閨	gv;mg	0
 閩	mn;mi	0
+閩	mn;im	0
 閩	wf;mi	0
+閩	wf;im	0
 閪	hl;mx	0
 閪	se;mx	0
 閪	xi;mx	0
@@ -101270,9 +101274,10 @@ use_preset_vocabulary: false
 𫌦	zj;jx	0
 𫌨	lo;je	0
 𫌩	hb;jj	0
-𫌪	mi;pj	0
+𫌪	mi;jp	0
+𫌪	mi;jd	0
 𫌫	lm;jj	0
-𫌬	pc;pj	0
+𫌬	pc;jp	0
 𫌭	wz;jw	0
 𫌯	jc;jq	0
 𫌰	uh;jw	0
@@ -105151,6 +105156,7 @@ use_preset_vocabulary: false
 𬊤	dj;hd	0
 𬊥	lj;hh	0
 𬊦	uj;yj	0
+𬊦	uj;jy	0
 𬊧	pg;jh	0
 𬊩	jw;hi	0
 𬊪	fj;hy	0
@@ -106521,19 +106527,24 @@ use_preset_vocabulary: false
 𬢆	xr;hj	0
 𬢆	xr;jh	0
 𬢇	ia;yj	0
-𬢈	ds;dj	0
-𬢉	ci;uj	0
+𬢈	ds;jd	0
+𬢉	ci;jp	0
 𬢊	si;js	0
 𬢋	tc;jv	0
-𬢌	vi;vj	0
-𬢍	ci;uj	0
-𬢎	du;vj	0
-𬢏	dj;uj	0
+𬢌	vi;jv	0
+𬢍	ci;jc	0
+𬢎	du;jv	0
+𬢏	dj;ju	0
+𬢐	qi;jq	0
 𬢐	qi;qj	0
+𬢑	yy;jy	0
 𬢑	yy;yj	0
+𬢒	my;jm	0
 𬢒	my;mj	0
+𬢓	px;jb	0
+𬢓	px;jw	0
 𬢓	px;bj	0
-𬢔	ig;dj	0
+𬢔	ig;jd	0
 𬢕	vj;jj	0
 𬢙	lz;jk	0
 𬢙	lz;wf	0
@@ -107959,7 +107970,8 @@ use_preset_vocabulary: false
 𬺝	qy;ul	0
 𬺞	gv;dm	0
 𬺞	jp;dm	0
-𬺟	yk;yj	0
+𬺟	yk;jy	0
+𬺟	yk;jc	0
 𬺠	jc;ly	0
 𬺠	jc;yl	0
 𬺠	jt;ly	0
@@ -118134,20 +118146,25 @@ use_preset_vocabulary: false
 𰴐	gv;uj	0
 𰴒	lo;jy	0
 𰴒	lo;yj	0
-𰴔	gr;cj	0
 𰴔	gr;jv	0
-𰴕	mx;bj	0
-𰴕	px;bj	0
-𰴖	jc;vj	0
-𰴖	uk;vj	0
-𰴗	li;lj	0
+𰴕	mx;jb	0
+𰴕	px;jb	0
+𰴖	jc;jv	0
+𰴖	uk;jv	0
+𰴗	li;jl	0
 𰴘	jm;jj	0
 𰴙	jp;jj	0
-𰴚	lb;lj	0
-𰴚	lv;lj	0
+𰴚	lb;jl	0
+𰴚	lv;jl	0
+𰴜	qu;jq	0
 𰴜	qu;hj	0
+𰴝	lr;jl	0
+𰴝	lr;jy	0
 𰴝	lr;vj	0
+𰴝	lo;jl	0
+𰴝	lo;jy	0
 𰴝	lo;vj	0
+𰴞	qu;jd	0
 𰴞	qu;hj	0
 𰴟	jc;do	0
 𰴟	jt;do	0
@@ -122549,11 +122566,16 @@ use_preset_vocabulary: false
 𲁏	jr;jj	0
 𲁑	mi;bj	0
 𲁓	bd;jj	0
+𲁔	li;jl	0
 𲁔	li;lj	0
 𲁕	ji;jj	0
+𲁖	yy;jb	0
 𲁖	yy;cj	0
+𲁗	qn;jq	0
 𲁗	qn;qj	0
+𲁗	qy;jq	0
 𲁗	qy;qj	0
+𲁙	ph;jp	0
 𲁙	ph;pj	0
 𲁛	di;jt	0
 𲁞	jm;jm	0

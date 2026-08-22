@@ -5605,7 +5605,7 @@
 䩁	fc
 䩂	mj
 䩃	mb
-䩄	mj
+䩄	mj jm
 䩅	mp
 䩆	mv
 䩇	mv
@@ -24835,7 +24835,7 @@
 閦	mv
 閧	mg
 閨	mg
-閩	mi
+閩	mi im
 閪	mx
 閫	mk
 閬	ml
@@ -66056,9 +66056,9 @@
 𫌦	xj jx
 𫌨	je
 𫌩	jj
-𫌪	pj
+𫌪	jp jd
 𫌫	jj
-𫌬	pj
+𫌬	jp
 𫌭	jw
 𫌯	jq
 𫌰	jw
@@ -68758,7 +68758,7 @@
 𬊣	hj
 𬊤	hd
 𬊥	hh
-𬊦	yj
+𬊦	yj jy
 𬊧	jh
 𬊩	hi
 𬊪	hy yh
@@ -69765,19 +69765,19 @@
 𬢅	jv vj
 𬢆	hj jh
 𬢇	yj
-𬢈	dj
-𬢉	uj
+𬢈	jd
+𬢉	jp
 𬢊	js
 𬢋	jv
-𬢌	vj
-𬢍	uj
-𬢎	vj
-𬢏	uj
-𬢐	qj
-𬢑	yj
-𬢒	mj
-𬢓	bj
-𬢔	dj
+𬢌	jv
+𬢍	jc
+𬢎	jv
+𬢏	ju
+𬢐	jq qj
+𬢑	jy yj
+𬢒	jm mj
+𬢓	jb jw bj
+𬢔	jd
 𬢕	jj
 𬢙	jk wf
 𬢚	py ya
@@ -70891,7 +70891,7 @@
 𬺜	lm
 𬺝	ul
 𬺞	dm
-𬺟	yj
+𬺟	jy jc
 𬺠	ly yl
 𬺳	ad
 𬺵	ae
@@ -77723,16 +77723,16 @@
 𰴏	jj
 𰴐	ju uj
 𰴒	jy yj
-𰴔	cj jv
-𰴕	bj
-𰴖	vj
-𰴗	lj
+𰴔	jv
+𰴕	jb
+𰴖	jv
+𰴗	jl
 𰴘	jj
 𰴙	jj
-𰴚	lj
-𰴜	hj
-𰴝	vj
-𰴞	hj
+𰴚	jl
+𰴜	jq hj
+𰴝	jl jy vj
+𰴞	jd hj
 𰴟	do
 𰴠	jy
 𰴡	jc
@@ -80919,11 +80919,11 @@
 𲁏	jj
 𲁑	bj
 𲁓	jj
-𲁔	lj
+𲁔	jl lj
 𲁕	jj
-𲁖	cj
-𲁗	qj
-𲁙	pj
+𲁖	jb cj
+𲁗	jq qj
+𲁙	jp pj
 𲁛	jt
 𲁞	jm
 𲁟	hj jh

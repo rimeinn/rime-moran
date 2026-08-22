@@ -6,7 +6,7 @@
 
 ---
 name: moran_english
-version: "20260806"
+version: "20260821"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -57333,3 +57333,4 @@ AGENTS.md	AGENTSmd
 Stanford	Stanford
 Yale	Yale
 Harvard	Harvard
+playlist	playlist
