@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260822"
+version: "20260823"
 sort: by_weight
 columns:
   - text
@@ -5415,6 +5415,7 @@ B盤	bpj
 不請自坐	bqzz
 不如	br
 別人	br
+不然	br
 被人暗算	bras
 幫人幫到底	brbd
 般若波羅蜜多	brbd

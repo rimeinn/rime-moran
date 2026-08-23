@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260818"
+version: "20260823"
 sort: original
 columns:
   - text
@@ -5271,6 +5271,7 @@ B盘	bpj
 不请自坐	bqzz
 不如	br
 别人	br
+不然	br
 被人暗算	bras
 帮人帮到底	brbd
 般若波罗蜜多	brbd
