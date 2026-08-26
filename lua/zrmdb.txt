@@ -26860,7 +26860,7 @@
 鶏	nf
 鶐	nu
 鶑	hn nh
-鶒	nl un
+鶒	ni nl un
 鶓	nm
 鶔	nr
 鶕	ny
