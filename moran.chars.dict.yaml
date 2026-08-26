@@ -6,7 +6,7 @@
 
 ---
 name: moran.chars
-version: "20260823"
+version: "20260826"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -45957,6 +45957,7 @@ use_preset_vocabulary: false
 鶐	uu;nu	0
 鶑	yy;hn	0
 鶑	yy;nh	0
+鶒	ii;ni	0
 鶒	ii;nl	0
 鶒	ii;un	0
 鶓	mc;nm	0
