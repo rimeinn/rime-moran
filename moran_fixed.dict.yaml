@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260823"
+version: "20260827"
 sort: by_weight
 columns:
   - text
@@ -26830,6 +26830,7 @@ G盤	gpj
 哈希	haxi
 哈腰	hayk
 後	hb
+何必	hb
 厚愛	hbai
 齁	hbb
 厚彼薄此	hbbc
@@ -57545,8 +57546,9 @@ JK制服	jkvf
 雫	nayx
 拿走	nazb
 那座	nazo
-內部	nb
 牛逼	nb
+那邊	nb
+內部	nb
 你被捕了	nbbl
 你並不是	nbbs
 你並不是	nbbu
@@ -91697,8 +91699,9 @@ U盤	upj
 襪子	wazi
 娃子	wazi
 佤族	wazu
-外部	wb
+無比	wb
 未必	wb
+外部	wb
 微博	wb
 無比	wbb
 歪比巴卜	wbbb
@@ -95417,10 +95420,10 @@ WiFi	wifi
 五味雜陳	wwzi
 勿忘在莒	wwzj
 嗡嗡作響	wwzx
-微信	wx
+危險	wx
 微笑	wx
 微小	wx
-危險	wx
+微信	wx
 外興安嶺	wxal
 吳下阿蒙	wxam
 我想不到	wxbd
@@ -96256,6 +96259,7 @@ WiFi	wifi
 雄安新區	xaxq
 相愛相殺	xaxu
 喜愛夜蒲	xayp
+相比	xb
 想必	xb
 小寶貝兒	xbbe
 下半部分	xbbf
@@ -117335,7 +117339,6 @@ CD機	cdj
 大而全	deq
 第二天	det
 德爾塔	det
-開發者	dev
 第二種	dev
 第二位	dew
 第二性	dex
@@ -120719,6 +120722,7 @@ Keynote	knt
 拿不定	nbd
 諾貝爾	nbe
 尼泊爾	nbe
+那部分	nbf
 拗不過	nbg
 那不會	nbh
 弄不好	nbh
@@ -122711,6 +122715,7 @@ SD卡	sdk
 真不錯	vbc
 找不到	vbd
 長不大	vbd
+這部分	vbf
 枕邊風	vbf
 只不過	vbg
 準備好	vbh
