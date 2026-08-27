@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260823"
+version: "20260827"
 sort: original
 columns:
   - text
@@ -26046,6 +26046,7 @@ G盘	gpj
 哈希	haxi
 哈腰	hayk
 后	hb
+何必	hb
 厚爱	hbai
 齁	hbb
 厚彼薄此	hbbc
@@ -55889,8 +55890,9 @@ JK制服	jkvf
 雫	nayx
 拿走	nazb
 那座	nazo
-内部	nb
 牛逼	nb
+那边	nb
+内部	nb
 你被捕了	nbbl
 你并不是	nbbs
 你别不信	nbbx
@@ -89193,8 +89195,9 @@ U盘	upj
 袜子	wazi
 娃子	wazi
 佤族	wazu
-外部	wb
+无比	wb
 未必	wb
+外部	wb
 微博	wb
 无比	wbb
 歪比巴卜	wbbb
@@ -92850,10 +92853,10 @@ U盘	upj
 五味杂陈	wwzi
 勿忘在莒	wwzj
 嗡嗡作响	wwzx
-微信	wx
+危险	wx
 微笑	wx
 微小	wx
-危险	wx
+微信	wx
 外兴安岭	wxal
 吴下阿蒙	wxam
 我想不到	wxbd
@@ -93646,6 +93649,7 @@ U盘	upj
 雄安新区	xaxq
 相爱相杀	xaxu
 喜爱夜蒲	xayp
+相比	xb
 想必	xb
 小宝贝儿	xbbe
 下半部分	xbbf
@@ -113949,7 +113953,6 @@ CD机	cdj
 大而全	deq
 第二天	det
 德尔塔	det
-开发者	dev
 第二种	dev
 第二位	dew
 第二性	dex
@@ -117334,6 +117337,7 @@ Keynote	knt
 拿不动	nbd
 尼泊尔	nbe
 诺贝尔	nbe
+那部分	nbf
 拗不过	nbg
 弄不好	nbh
 捏把汗	nbh
@@ -119326,6 +119330,7 @@ SD卡	sdk
 真不错	vbc
 找不到	vbd
 长不大	vbd
+这部分	vbf
 枕边风	vbf
 只不过	vbg
 准备好	vbh
