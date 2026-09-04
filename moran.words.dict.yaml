@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20260808"
+version: "20260831"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9411,6 +9411,8 @@ PV師	5	PV ui;vb
 詞墮
 雅可比	100
 海龜殼	47
+香香軟軟	10
+化用	1000
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0
@@ -24634,6 +24636,9 @@ H股	10	H gu;ou
 K線	10	K xm;sq
 K線圖	10	K xm;sq tu;kh
 大V	10	da;ad V
+X光	10	X gd;ea
+X光片	10	X gd;ea pm;pa
+
 
 # 整句可用的無理碼
 幾	1	jo;yd

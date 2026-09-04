@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260827"
+version: "20260831"
 sort: original
 columns:
   - text
@@ -30914,6 +30914,7 @@ H盘	hpj
 话音	hwyn
 和我一起	hwyq
 花园	hwyr
+化用	hwys
 混为一谈	hwyt
 合为一体	hwyt
 话语	hwyu
@@ -103114,8 +103115,8 @@ U盘	upj
 延展	yjvj
 眼罩	yjvk
 饮鸠止渴	yjvk
-演技炸裂	yjvl
 一己之力	yjvl
+演技炸裂	yjvl
 研究证明	yjvm
 一击致命	yjvm
 眼拙	yjvo
@@ -114512,7 +114513,6 @@ Excel	eks
 犯错误	fcw
 辅导班	fdb
 发大财	fdc
-反对党	fdd
 肥嘟嘟	fdd
 梵蒂冈	fdg
 负电荷	fdh
@@ -119138,8 +119138,8 @@ SD卡	sdk
 生死簿	usb
 十三点	usd
 生死观	usg
-啥时候	ush
 是时候	ush
+啥时候	ush
 十三经	usj
 十三陵	usl
 是什么	usm
