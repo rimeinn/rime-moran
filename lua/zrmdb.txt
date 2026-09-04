@@ -58795,7 +58795,7 @@
 𩃞	yh
 𩃟	yx
 𩃠	yn
-𩃡	yj
+𩃡	ya yj
 𩃢	yg
 𩃣	yz
 𩃦	yv
@@ -66847,7 +66847,7 @@
 𫝆	ra
 𫝇	rd
 𫝈	rj
-𫝉	rk
+𫝉	rj
 𫝊	rc
 𫝋	rd
 𫝌	ab ba
@@ -84072,6 +84072,7 @@
 𡪑	bk
 𤳭	te
 𠀫	ap cp
+𫹱	xi
 𣮚	mf
 𣴅	df
 𨯾	jj
