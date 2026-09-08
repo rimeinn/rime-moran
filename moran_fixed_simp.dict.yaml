@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260831"
+version: "20260909"
 sort: original
 columns:
   - text
@@ -1068,6 +1068,7 @@ AVL树	avlu
 哎哟，不错哦	aybo
 奥运冠军	aygj
 爱一个人	aygr
+阿月浑子	ayhz
 奥运健儿	ayje
 暗夜精灵	ayjl
 奥运精神	ayju
@@ -110504,6 +110505,7 @@ U盘	upj
 自取其乐	zqql
 自欺欺人	zqqr
 自取其辱	zqqr
+暂且如此	zqrc
 在气头上	zqtu
 增强体质	zqtv
 在其他情况下	zqtx
@@ -114994,7 +114996,6 @@ git	git
 公开赛	gks
 刚开始	gku
 公开信	gkx
-芥蓝菜	glc
 高利贷	gld
 规律化	glh
 过来了	gll
