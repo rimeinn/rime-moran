@@ -1,7 +1,7 @@
 -- Moran Translator (for Express Editor)
 -- Copyright (c) 2023, 2024, 2025, 2026 ksqsf
 --
--- Ver: 0.12.1
+-- Ver: 0.12.2
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
