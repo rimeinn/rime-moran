@@ -479,6 +479,11 @@ moran:
   # （如需要自定義/增加/刪除略碼，請編輯 moran_processor.lua 中的 shorthands 定義。）
   shorthands: false
 
+  # 在輸入超過該長度前，禁止整句輸出。
+  # 例：若設爲 1，則在輸入 2 碼時才產生整句輸出。
+  # 默認爲：0
+  disable_sentence_candidates_upto: 0
+
 # 默認啓用語言模型
 __include: moran:/octagram/enable_for_sentence
 # 若要禁用，可直接刪掉上面的 __include，或在 custom 文件中寫入：

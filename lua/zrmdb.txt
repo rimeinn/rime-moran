@@ -28627,8 +28627,8 @@
 𠕃	kw
 𠕄	ay aa
 𠕅	ae ke
-𠕆	ka pa
-𠕇	kd
+𠕆	ua ka
+𠕇	ud kd
 𠕈	kr
 𠕉	de ke
 𠕊	kd

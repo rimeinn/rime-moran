@@ -6,6 +6,9 @@
 -- This file is part of Project Moran
 -- Licensed under GPLv3
 --
+-- 0.12.2: 增加 disable_sentence_candidates_upto 設置，用於在特定碼數
+-- 前禁止整句輸出。
+--
 -- 0.12.1: 造詞模式阻止輸出簡碼碼表多字詞
 --
 -- 0.12.0: 引入惰性加載
@@ -123,6 +126,9 @@ function top.init(env)
     env.enable_quick_code_hint = env.engine.schema.config:get_bool("moran/enable_quick_code_hint") or false
     env.quick_code_indicator_skip_chars = env.engine.schema.config:get_bool("moran/quick_code_indicator_skip_chars") or false
 
+    -- disable_sentence_candidates_upto
+    env.disable_sentence_candidates_upto = env.engine.schema.config:get_int("moran/disable_sentence_candidates_upto") or 0
+
     -- output 狀態
     env.output_i = 0
     env.output_injected_secondary = {}
@@ -147,6 +153,7 @@ function top.func(input, seg, env)
     local input_len = utf8.len(input)
     local inflexible = env.engine.context:get_option("inflexible")
     local indicator = env.quick_code_indicator
+    local suppress_smart = env.disable_sentence_candidates_upto >= input_len
 
     -- 用戶尚未選過字時，調用碼表。
     local is_sentence_making = not (env.engine.context.input == input)
@@ -246,7 +253,7 @@ function top.func(input, seg, env)
     end
 
     -- 詞輔在正常輸出之前，以提高其優先級
-    if env.enable_word_filter and (input_len == 5 or input_len == 7) then
+    if env.enable_word_filter and not suppress_smart and (input_len == 5 or input_len == 7) then
         local real_input = input:sub(1, input_len - 1)
         local user_ac = input:sub(input_len, input_len)
         local iter = top.raw_query_smart(env, real_input, seg, true)
@@ -270,7 +277,10 @@ function top.func(input, seg, env)
 
     -- smart 在 fixed 之後輸出。
     -- 當需要詞輔時，保留 comment，以「提前」（用戶輸入詞輔前）提示輔助碼。
-    local smart_iter = top.raw_query_smart(env, input, seg, env.enable_word_filter and env.enable_aux_hint)
+    local smart_iter = nil
+    if not suppress_smart then
+        smart_iter = top.raw_query_smart(env, input, seg, env.enable_word_filter and env.enable_aux_hint)
+    end
     if smart_iter ~= nil then
         local ijrq_enabled = env.ijrq_enable
             and (env.engine.context.input == input)
