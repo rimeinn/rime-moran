@@ -95,9 +95,14 @@ function Module.func(t_input, env)
             return
         end
 
-        -- If the user types auxcode super fast, then we should NOT
+        if not Module.debounce(env)
+        -- ^ If the user types auxcode super fast, then we should NOT
         -- attempt to postpone first cand.
-        if not Module.debounce(env) then
+            or not moran.str_is_chinese(first.text)
+        -- ^ Should only postpone candidates from the smart
+        -- translator.  But, alas, it's impossible to know for sure.
+        -- This is just a heuristic.
+        then
             moran.yield_all(iter)
             return
         end
