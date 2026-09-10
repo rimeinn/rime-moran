@@ -35287,7 +35287,7 @@
 𠣽	gg	勹敢	auto
 𠣾	gf	勹復	auto
 𠣿	gu	勹殳	auto
-𠤀	gp	勹丿	auto
+𠤀	ww	勿夂	
 𠤀	dw	⺈勿	
 𠤁	gs	勹巳	auto
 𠤁	kb	口包	auto
@@ -56597,7 +56597,8 @@
 𥧌	xw	穴未	auto
 𥧍	xd	穴旦	auto
 𥧏	xv	穴者	auto
-𥧐	bd	北兑	auto
+𥧐	bx	北兄	
+𥧐	bd	北兑	
 𥧑	xv	穴真	auto
 𥧒	xr	穴冉	auto
 𥧓	xm	穴馬	auto

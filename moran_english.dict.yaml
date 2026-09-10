@@ -6,7 +6,7 @@
 
 ---
 name: moran_english
-version: "20260823"
+version: "20260916"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -54946,6 +54946,8 @@ Pythia	Pythia
 Pythian	Pythian
 Python	Python
 Pyxis	Pyxis
+QED	QED
+QED	Q.E.D.
 QKtP	QKtP
 QNP	QNP
 QSpace	QSpace
