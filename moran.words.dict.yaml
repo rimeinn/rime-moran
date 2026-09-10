@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20260831"
+version: "20260909"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -8853,6 +8853,16 @@ columns:
 飛碼	1
 聲筆飛碼	1
 聲筆飛單	1
+飛單	0
+飛延	0
+飛訊	0
+飛簡	0
+象碼	0
+猛碼	0
+易拼	0
+二拼	0
+三拼	0
+四拼	0
 星空鍵道	1
 星貓鍵道	1
 鍵道	1
@@ -9413,6 +9423,14 @@ PV師	5	PV ui;vb
 海龜殼	47
 香香軟軟	10
 化用	1000
+宇浩	5
+星陳	1
+靈明	1
+清韻	1
+冰雪清韻	1
+冰雪四拼	1
+運鏡	100
+銅頭皮帶	1
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0

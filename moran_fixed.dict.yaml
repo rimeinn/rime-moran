@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260831"
+version: "20260909"
 sort: by_weight
 columns:
   - text
@@ -1106,6 +1106,7 @@ AVL樹	avlu
 哎喲，不錯哦	aybo
 奧運冠軍	aygj
 愛一個人	aygr
+阿月渾子	ayhz
 奧運健兒	ayje
 暗夜精靈	ayjl
 奧運精神	ayju
@@ -113704,6 +113705,7 @@ WiFi	wifi
 自取其樂	zqql
 自欺欺人	zqqr
 自取其辱	zqqr
+暫且如此	zqrc
 在氣頭上	zqtu
 增強體質	zqtv
 在其他情況下	zqtx
@@ -118379,7 +118381,6 @@ git	git
 公開賽	gks
 剛開始	gku
 公開信	gkx
-芥藍菜	glc
 高利貸	gld
 規律化	glh
 過來了	gll

@@ -6,7 +6,7 @@
 
 ---
 name: moran.chars
-version: "20260908"
+version: "20260910"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -20223,8 +20223,6 @@ use_preset_vocabulary: false
 探	tj;fm	2602
 探	tj;fu	2602
 掣	ie;uv	689
-掣	vi;uv	689
-掣	ii;uv	0
 掤	by;fp	458
 接	jx;fq	18638
 接	xx;fq	0
