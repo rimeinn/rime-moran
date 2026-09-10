@@ -159,6 +159,8 @@ deploy:
         assert: eq(commit, "億")
       - send: yiry/
         assert: eq(cand[1].text, "億")
+      - send: "abrea"
+        assert: eq(cand[1].text, "abreact")
   word_ijrq_defer:
     patch:
       moran/ijrq/enable_word: true
