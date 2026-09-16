@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20260909"
+version: "20260916"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9431,6 +9431,7 @@ PV師	5	PV ui;vb
 冰雪四拼	1
 運鏡	100
 銅頭皮帶	1
+證畢	100
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0

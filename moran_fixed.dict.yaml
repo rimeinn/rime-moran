@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260909"
+version: "20260913"
 sort: by_weight
 columns:
   - text
@@ -6315,6 +6315,7 @@ B盤	bpj
 不知從何說起	bvcq
 不知從何時起	bvcq
 不知從什麼時候開始	bvcu
+不知從何時開始	bvcu
 本週詞雲	bvcy
 標準答案	bvda
 不知道怎麼辦	bvdb
@@ -6365,6 +6366,7 @@ B盤	bpj
 不知好壞	bvhh
 不知何處	bvhi
 不着痕跡	bvhj
+不知何時起	bvhq
 別裝糊塗	bvht
 不知何時	bvhu
 不知火舞	bvhw
@@ -82674,7 +82676,6 @@ T恤衫	txuj
 曬場	ulih
 十里長亭	ulit
 順理成章	uliv
-十六進制	ulj
 上來就是	ulje
 生理健康	uljk
 勝利結算	uljs
@@ -88175,6 +88176,7 @@ U盤	upj
 煮酒論英雄	vjlx
 佔領	vjly
 棧	vjm
+盞	vjm
 戰馬	vjma
 氈	vjmd
 栴	vjmd
@@ -95423,10 +95425,10 @@ WiFi	wifi
 五味雜陳	wwzi
 勿忘在莒	wwzj
 嗡嗡作響	wwzx
-危險	wx
+微信	wx
 微笑	wx
 微小	wx
-微信	wx
+危險	wx
 外興安嶺	wxal
 吳下阿蒙	wxam
 我想不到	wxbd
@@ -110010,6 +110012,7 @@ WiFi	wifi
 宇宙中心	yvvx
 由衷之言	yvvy
 一直這樣	yvvy
+一致	yvw
 勇者無敵	yvwd
 嚴重危害	yvwh
 嚴重違紀	yvwj
@@ -122803,7 +122806,6 @@ SD卡	sdk
 證監會	vjh
 張家界	vjj
 張家口	vjk
-炸醬麪	vjm
 這幾年	vjn
 中間派	vjp
 椎間盤	vjp
