@@ -29489,7 +29489,7 @@
 𠣽	gg
 𠣾	gf
 𠣿	gu
-𠤀	gp dw
+𠤀	ww dw
 𠤁	gs kb
 𠤂	gg
 𠤃	gs db
@@ -46906,7 +46906,7 @@
 𥧌	xw
 𥧍	xd
 𥧏	xv
-𥧐	bd
+𥧐	bx bd
 𥧑	xv
 𥧒	xr
 𥧓	xm
