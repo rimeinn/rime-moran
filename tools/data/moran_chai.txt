@@ -37838,7 +37838,8 @@
 𡌓	tq	土囚	auto
 𡌔	tx	土肖	auto
 𡌕	ti	土旵	auto
-𡌖	ta	土一	auto
+𡌖	tf	土𠀆	
+𡌖	ta	土丨	
 𡌗	te	土儿	auto
 𡌘	ty	土余	auto
 𡌚	tz	土坐	auto
@@ -79224,8 +79225,8 @@
 𫌣	jm	見木	auto
 𫌤	ju	見殳	auto
 𫌤	uj	声見	auto
-𫌦	xj	先見	auto
-𫌦	jx	見先	auto
+𫌦	jx	見先	
+𫌦	xj	先見	
 𫌨	je	见尔	
 𫌩	jj	见句	
 𫌪	jp	见𠂢	
@@ -80925,7 +80926,7 @@
 𫬫	jk	彑口	auto
 𫬫	kj	口巾	auto
 𫬭	kx	口轄	auto
-𫬯	ke	口二	auto
+𫬯	gg	古乚	
 𫬲	kh	口虎	auto
 𫬲	lh	吕虎	auto
 𫬴	kb	口冖	
@@ -84809,7 +84810,8 @@
 𬻋	ad	丨丶	auto
 𬻎	qj	七加	auto
 𬻐	ad	一丁	auto
-𬻑	pd	丿丶	auto
+𬻑	dd	⺈丶	
+𬻑	pd	丿丶	
 𬻔	ad	一丶	auto
 𬻕	ae	一二	
 𬻕	ao	一目	
@@ -84853,9 +84855,12 @@
 𬼎	nc	乃囱	
 𬼕	pm	丿賣	auto
 𬼖	ka	匚一	auto
-𬼘	qa	七丨	auto
-𬼙	ga	乚一	auto
-𬼚	bb	匕匕	auto
+𬼘	ga	乚丨	
+𬼘	ag	丨乚	
+𬼙	gq	乚七	
+𬼙	ag	一乚	
+𬼚	gb	乚匕	
+𬼚	bb	匕匕	
 𬼜	dy	⺈也	
 𬼠	qq	乞乞	auto
 𬼨	my	名也	auto
@@ -86654,7 +86659,8 @@
 𭥜	io	尺日	auto
 𭥜	oi	日尺	auto
 𭥞	oy	日尹	auto
-𭥟	oa	日一	auto
+𭥟	aa	αα	
+𭥟	oa	日α	
 𭥣	bo	北日	auto
 𭥣	ob	日北	auto
 𭥥	oj	日几	auto
@@ -100318,6 +100324,11 @@
 𠀫	ap	一丿	
 𠀫	cp	艹丿	
 𫹱	xi	心巛	
+𠋓	rk	人凵	
+𠃉	py	丿乙	
+𠃉	gg	乚乚	
+𬻒	ag	一乚	
+𠁢	ay	丨乙	
 
 # 待考
 

@@ -8,7 +8,7 @@
 
 ---
 name: moran.moe
-version: "20260916"
+version: "20260923"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -93146,7 +93146,6 @@ use_preset_vocabulary: false
 醫不了	yi;yu bu;ad lc;aa
 醫務室	yi;yu wu;mw ui;bv
 醫生	yi;yu ug;na
-醫生都死了死了死了死了死了死了死了	yi;yu ug;na db;ev si;db le;aa si;db le;aa si;db le;aa si;db le;aa si;db le;aa si;db le;aa si;db le;aa
 醫療兵	yi;yu lc;bl by;qb
 醫療運輸機	yi;yu lc;bl yp;zj uu;iy ji;mj
 醫術師奧莉安娜	yi;yu uu;xu ui;vb ao;db li;cl an;bn na;nn
@@ -106876,7 +106875,7 @@ use_preset_vocabulary: false
 阿爾比昂	aa;ek er;ay bi;bb ah;oe
 旁觀的罪惡	ph;wf gr;jv de;bu zv;sf ee;xy
 丸尾末男	wj;jd wz;um mo;ad nj;tl
-新艾利都	xn;jq ai;ci li;hd db;ev
+新艾利都	xn;jq ai;ci li;hd du;ev
 惡魔傑瑞	ee;xy mo;gm jx;rj rv;we
 夜門琥珀	ye;wd mf;aa hu;wh po;wb
 廣東打工人日誌	gd;gh ds;ad da;fd gs;aa rf;pd ri;aa vi;yv
@@ -107358,7 +107357,7 @@ use_preset_vocabulary: false
 波蘭不能上太空	bo;dp lj;cj bu;ad ng;sb uh;aa tl;dd ks;xg
 學校怪談	xt;zb xc;mj gy;xu tj;yy
 離索	li;vl so;sb
-新艾利都治安局	xn;jq ai;ci li;hd db;ev vi;dt an;bn ju;uk
+新艾利都治安局	xn;jq ai;ci li;hd du;ev vi;dt an;bn ju;uk
 貓屋敷雪	mk;vm wu;uv fu;wf xt;yx
 謫星	ve;yd xy;ou
 拉塔託斯克	la;fl ta;td to;yq si;jq ke;eg
@@ -107780,7 +107779,7 @@ use_preset_vocabulary: false
 便宜動畫	pm;rg yi;bq ds;lv hw;ya
 甘織玲奈子	gj;ca vi;sg ly;wl nl;du zi;aa
 萊因哈魯特	ll;cl yn;kd ha;kh lu;yo te;ns
-枯萎之都	ku;mg wz;cw vi;dd db;ev
+枯萎之都	ku;mg wz;cw vi;dd du;ev
 朱顏城	vu;pw yj;yy ig;ti
 我在意的人不是異性	wo;pd zl;ut yi;xy de;bu rf;pd bu;ad ui;op yi;tg xy;xu
 賓利飛馳	bn;bb li;hd fz;ff ii;my
@@ -110537,7 +110536,7 @@ use_preset_vocabulary: false
 檐羽	yj;mv yu;xx
 判處勇者刑	pj;db iu;hi ys;ly ve;ol xy;dk
 全部刪掉	qr;rw bu;ek uj;dc dc;fv
-藤都子	tg;ct db;ev zi;aa
+藤都子	tg;ct du;ev zi;aa
 宮下朋美	gs;bl xw;ab pg;oo mz;dy
 稀有鋼鐵化魔法反射裝甲	xi;hx yb;ou gh;jg tx;jg hw;rb mo;gm fa;dq fj;py ue;cu vd;yv jw;aa
 戌狗	xu;ga gb;qj
@@ -111072,6 +111071,7 @@ use_preset_vocabulary: false
 決戰的吶喊	jt;dd vj;gd de;bu na;kn hj;kx
 強盜廠	qd;gi dk;mc ih;gi
 八奇煉桃都	ba;pd qi;dk lm;hj tk;mv db;ev
+八奇煉桃都	ba;pd qi;dk lm;hj tk;mv du;ev
 璀璨結合	cv;wc cj;wc jx;sj he;rk
 亞路比奧尼	ya;aa lu;zg bi;bb ao;db ni;ub
 淵獸	yr;da ub;qu
@@ -113735,7 +113735,7 @@ use_preset_vocabulary: false
 傳說的暗之魔導師	ir;rv uo;yd de;bu an;oy vi;dd mo;gm dk;cd ui;vb
 梁軍	ld;md jp;bi
 薩邁爾	sa;ci ml;zw er;ay
-新艾利都防衛軍	xn;jq ai;ci li;hd db;ev fh;ef wz;xw jp;bi
+新艾利都防衛軍	xn;jq ai;ci li;hd du;ev fh;ef wz;xw jp;bi
 熊出沒電影	xs;hn iu;aa mo;du dm;yd yy;pj
 吉吉國	ji;ku ji;ku go;kh
 藤山富士子	tg;ct uj;aa fu;bf ui;aa zi;aa
@@ -116346,7 +116346,7 @@ use_preset_vocabulary: false
 莉緹亞	li;cl ti;su ya;aa
 瓔緋	yy;wy fz;sf
 張允	vh;gi yp;se
-瑪那桃圓鄉多利洛斯歌都	ma;wm na;el tk;mv yr;ky xd;el do;xx li;hd lo;dg si;jq ge;qg db;ev
+瑪那桃圓鄉多利洛斯歌都	ma;wm na;el tk;mv yr;ky xd;el do;xx li;hd lo;dg si;jq ge;qg du;ev
 櫻花寫真	yy;my hw;ch xx;bh vf;uj
 白色閃電	bl;pa se;db uj;mr dm;yd
 崩源體	bg;up yr;dy ti;gd
@@ -117195,7 +117195,7 @@ use_preset_vocabulary: false
 伏拉魯達力烏斯	fu;rq la;fl lu;yo da;zy li;gp wu;ph si;jq
 人格故事	rf;pd ge;mg gu;wg ui;aa
 年輪	nm;ra lp;il
-菲澤莉努阿烏古斯都斯阿烏羅拉	fz;cf ze;dx li;cl nu;ln aa;ek wu;ph gu;uk si;jq db;ev si;jq aa;ek wu;ph lo;sv la;fl
+菲澤莉努·阿烏古斯都斯·阿烏羅拉	fz;cf ze;dx li;cl nu;ln aa;ek wu;ph gu;uk si;jq du;ev si;jq aa;ek wu;ph lo;sv la;fl
 構築部挑戰	gb;mg vu;vm bu;ek tc;fv vj;gd
 尹美那	yn;ap mz;dy na;el
 真實的心情	vf;uj ui;bg de;bu xn;dd qy;xq
@@ -117332,7 +117332,6 @@ use_preset_vocabulary: false
 將逃離只有你一人的黃昏	jd;pc tk;zv li;vl vi;kb yb;ou ni;re yi;aa rf;pd de;bu hd;cb hp;ou
 虐待動物	nt;ha dl;xs ds;lv wu;nw
 驚樂	jy;mj le;my
-都子的主題曲	db;ev zi;aa de;bu vu;dw ti;uy qu;aa
 生魚片	ug;na yu;dh pm;pa
 巨屍啞劇演員	ju;kk ui;us ya;ky ju;dj yj;dy yr;kb
 半田空	bj;bf tm;aa ks;xg
@@ -119532,6 +119531,7 @@ use_preset_vocabulary: false
 巔峯戰鬥	dm;ud fg;uf vj;gd db;wa
 乾紗壽叶	qm;uq ua;su ub;uc xx;ku
 紗壽叶	ua;su ub;uc xx;ku
+再串打死	zl;aa ir;aa da;fd si;db
 
 # 讀音未校對
 彗星與馬戲團王	hv;fx xy;ou yu;ba ma;ah xi;gd tr;kv wh;aa
@@ -119824,7 +119824,7 @@ use_preset_vocabulary: false
 功夫沙袋	gs;lg fu;ad ua;du dl;yd
 瘋虎	fg;bf hu;hj
 甘織遙奈	gj;ca vi;sg yk;zf nl;du
-天都己一香	tm;ad db;ev ji;ag yi;aa xd;ho
+天都己一香	tm;ad du;ev ji;ag yi;aa xd;ho
 充電千竹	is;wy dm;yd qm;pa vu;gg
 迷你風扇	mi;zm ni;re fg;ji uj;hy
 穿越憂傷吧	ir;xy yt;zy yb;xw uh;ry ba;kb
@@ -119906,7 +119906,7 @@ use_preset_vocabulary: false
 莫那魯道	mo;cd na;el lu;yo dk;zu
 早川太陽	zk;ou ir;pa tl;dd yh;ey
 張曉佳	vh;gi xc;oy jw;rg
-天都己一愛	tm;ad db;ev ji;ag yi;aa ai;xw
+天都己一愛	tm;ad du;ev ji;ag yi;aa ai;xw
 片葉之葦	pm;pa ye;cm vi;dd wz;cw
 魔法少女的魔女裁判	mo;gm fa;dq uk;xp nv;aa de;bu mo;gm nv;aa cl;yg pj;db
 天球儀	tm;ad qq;wq yi;ry
@@ -121150,7 +121150,7 @@ use_preset_vocabulary: false
 特恩布蘭特	te;ns en;xy bu;ju lj;cj te;ns
 嗚嗚物流	wu;kw wu;kw wu;nw lq;di
 貴鬼	gv;bg gv;pd
-幸運之都凡圖拉	xy;tu yp;zj vi;dd db;ev fj;jd tu;kh la;fl
+幸運之都凡圖拉	xy;tu yp;zj vi;dd du;ev fj;jd tu;kh la;fl
 美少女對我實行管理	mz;dy uk;xp nv;aa dv;ct wo;pd ui;bg xy;xi gr;vg li;wl
 荀蒔	xp;cx ui;cu
 醉手夜客	zv;yz ub;pa ye;wd ke;bg
@@ -121244,7 +121244,7 @@ use_preset_vocabulary: false
 羅伊冰原	lo;sv yi;ry by;du yr;ix
 點唱機	dm;hv ih;ki ji;mj
 生命的延續	ug;na my;re de;bu yj;zv xu;sm
-千都世	qm;pa db;ev ui;ca
+千都世	qm;pa du;ev ui;ca
 定個小目標	dy;bp ge;rg xc;ad mu;aa bc;mp
 茲白	zi;cy bl;pa
 風牙	fg;ji ya;ap
@@ -121352,7 +121352,7 @@ use_preset_vocabulary: false
 全面戰場語音	qr;rw mm;aa vj;gd ih;ty yu;yw yn;lo
 向着月兒射去	xd;pk ve;yo yt;pa er;ej ue;cu qu;ts
 彩虹的去向	cl;pc hs;ig de;bu qu;ts xd;pk
-洛聖都搖滾臺	lo;dg ug;wk db;ev yk;ff gp;dg tl;uv
+洛聖都搖滾臺	lo;dg ug;wk du;ev yk;ff gp;dg tl;uv
 奇面組	qi;dk mm;aa zu;sq
 智鬥巔峯	vi;ov db;wa dm;ud fg;uf
 東雲春	ds;ad yp;yy ip;of
@@ -121614,7 +121614,7 @@ use_preset_vocabulary: false
 速戰	su;zu vj;gd
 犀牛軍刀	xi;nu nq;pa jp;bi dk;gp
 阿大	aa;ek da;ad
-西路費都	xi;aa lu;zg fz;bf db;ev
+西路費都	xi;aa lu;zg fz;bf du;ev
 聶菲斯	nx;ee fz;cf si;jq
 慈愛的怪盜	ci;xz ai;xw de;bu gy;xu dk;mc
 啊哈哈笑	aa;ka ha;kh ha;kh xc;vy
@@ -122018,7 +122018,7 @@ use_preset_vocabulary: false
 無能的丈夫	wu;rh ng;sb de;bu vh;ad fu;ad
 哀拉伯克	ai;wy la;fl bo;rb ke;eg
 動物塑	ds;lv wu;nw su;to
-新艾利都入住指南	xn;jq ai;ci li;hd db;ev ru;pd vu;rv vi;fv nj;ua
+新艾利都入住指南	xn;jq ai;ci li;hd du;ev ru;pd vu;rv vi;fv nj;ua
 明天爲我放晴吧	my;oo tm;ad wz;vh wo;pd fh;wf qy;oq ba;kb
 窩腰煙牌	wo;xk yk;oy yj;ht pl;pb
 馬帥	ma;ah uy;jv
@@ -124815,7 +124815,7 @@ use_preset_vocabulary: false
 男孩子	nj;tl hl;zh zi;aa
 蘇離	su;ch li;vl
 平靜火	py;aa jy;qv ho;dd
-華天都	hw;ca tm;ad db;ev
+華天都	hw;ca tm;ad du;ev
 赤野	ii;tb ye;ly
 斐希司	fz;wf xi;ib si;gk
 獸神戰隊擊魂連者	ub;qu uf;uu vj;gd dv;eu ji;fu hp;gy lm;zi ve;ol
