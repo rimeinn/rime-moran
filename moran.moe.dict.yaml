@@ -4,11 +4,11 @@
 # https://github.com/outloudvi/mw2fcitx
 # 原詞典釋出到公共域，本詞典亦釋出到公共域發佈
 
-# Upstream version: 20260812
+# Upstream version: 20260911
 
 ---
 name: moran.moe
-version: "20260831"
+version: "20260916"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -125886,3 +125886,714 @@ use_preset_vocabulary: false
 魚板鯊	yu;dh bj;mf ua;yu
 降谷萌路	jd;ef gu;bk mg;cm lu;zg
 歷代特殊武器	li;iv dl;ry te;ns uu;dv wu;vy qi;kk
+卡謝伊	ka;ub xx;yu yi;ry
+莉妮絲	li;cl ni;nn si;ss
+龍宮穗紫	ls;lg gs;bl sv;hh zi;sc
+超電導戰士	ik;zv dm;yd dk;cd vj;gd ui;aa
+德奇亞金	de;xx qi;dk ya;aa jn;ra
+墨西哥國際航空	mo;th xi;aa ge;kd go;kh ji;ej hh;vk ks;xg
+新月的祈禱	xn;jq yt;pa de;bu qi;uj dk;uu
+村主左由	cp;mc vu;dw zo;ug yb;aa
+息彌	xi;xz mi;ge
+獨影	du;qu yy;pj
+橘知未	ju;mk vi;ku wz;ex
+孔賢奧特曼	ks;zg xm;by ao;db te;ns mj;oy
+槙喜屋澄香	dm;mv xi;uk wu;uv ig;dd xd;ho
+猩紅玫瑰	xy;qx hs;sg mz;ww gv;wg
+一之江瑞惠	yi;aa vi;dd jd;dg rv;we hv;xh
+藤田彩	tg;ct tm;aa cl;pc
+海蘭德鐵道學園	hl;dm lj;cj de;xx tx;jg dk;zu xt;zb yr;ky
+澪音	ly;dl yn;lo
+冬香	ds;wd xd;ho
+愛是衝動	ai;xw ui;op is;xv ds;lv
+超越天堂	ik;zv yt;zy tm;ad th;tk
+崩壞世界的魔杖匠人	bg;up hy;th ui;ca jx;tj de;bu mo;gm vh;mv jd;kj rf;pd
+篠原由美	xc;vt yr;ix yb;aa mz;dy
+澤塔殺手薩烏魯斯	ze;dx ta;td ua;uu ub;pa sa;ci wu;ph lu;yo si;jq
+佐口澌的祭品	zo;rz kb;aa si;ds de;bu ji;uy pn;kk
+貝勞克恩	bz;ob lk;lb ke;eg en;xy
+英雄與賢者的轉生婚姻	yy;cy xs;vh yu;ba xm;by ve;ol de;bu vr;iv ug;na hp;nh yn;ny
+海鱔	hl;dm uj;yu
+楠莉爺爺	nj;mn li;cl ye;fy ye;fy
+遊戲障礙	yb;zy xi;gd vh;ev ai;uy
+戴西馬尼爾	dl;gg xi;aa ma;ah ni;ub er;ay
+連結心靈	lm;zi jx;sj xn;dd ly;wl
+耍寶	uw;ne bk;bb
+水梨美也	uv;ad li;ml mz;dy ye;gg
+雙域之戀	ud;vy yu;th vi;dd lm;xs
+荊鈴音	jy;cx ly;jl yn;lo
+空條喬	ks;xg tc;rt qc;ph
+車窗之外的景色	ie;aa id;xx vi;dd wl;xb de;bu jy;oj se;db
+融化的風花與白兔	rs;ig hw;rb de;bu fg;ji hw;ch yu;ba bl;pa tu;dd
+琺琳綺堂艾爾莉希凱特	fa;wf ln;wl qi;sq th;tk ai;ci er;ay li;cl xi;ib kl;jq te;ns
+西條風實	xi;aa tc;rt fg;ji ui;bg
+古代王	gu;uk dl;ry wh;aa
+我已忘不掉那一個夏天	wo;pd yi;vg wh;xw bu;ad dc;fv na;el yi;aa ge;rg xw;wz tm;ad
+黑瀨櫻良	hz;ha ll;dl yy;my ld;dg
+水鳥亞鳥	uv;ad nc;ph ya;aa nc;ph
+死刑手勢	si;db xy;dk ub;pa ui;lv
+百羽鳳凰火	bl;ab yu;xx fg;na hd;jh ho;dd
+銀之都	yn;jg vi;dd du;ev
+雙生千穗理	ud;vy ug;na qm;pa sv;hh li;wl
+研學篇室友彙總	yj;uk xt;zb pm;vb ui;bv yb;yu hv;jg zs;sc
+濱岸凪	bn;db an;ug vi;jv
+羊羽先生	yh;da yu;xx xm;ne ug;na
+帕尤卡卡	pa;jb yb;ad ka;ub ka;ub
+並不是我想當祕書	by;qy bu;ad ui;op wo;pd xd;xx dh;tk mi;ub uu;oy
+木戶美鈴	mu;ad hu;pk mz;dy ly;jl
+田中傘	tm;aa vs;aa sj;ru
+圖窮匕見	tu;kh qs;xg bi;pg xm;oe
+塞麗娜高坂維克塞爾	sl;tb li;ll na;nn gk;wk bj;tf wz;sv ke;eg sl;tb er;ay
+和我戀愛吧	he;hk wo;pd lm;xs ai;xw ba;kb
+快樂蘿莉	ky;xd le;my lo;cl li;cl
+月之雫	yt;pa vi;dd na;yx
+印度航空	yn;ey du;gy hh;vk ks;xg
+花期	hw;ch qi;oq
+朝霞美奈子	vk;ou xw;yj mz;dy nl;du zi;aa
+大韓航空	da;ad hj;wu hh;vk ks;xg
+艾米婭	ai;ci mi;dd ya;ny
+莫諾切羅	mo;cd no;yr qx;dq lo;sv
+真鯛	vf;uj dc;yv
+杜滋琪席娜	du;mt zi;dz qi;wq xi;jc na;nn
+棲棲子	xi;mq xi;mq zi;aa
+超人大戰光與影	ik;zv rf;pd da;ad vj;gd gd;ea yu;ba yy;pj
+青羽美波	qy;of yu;xx mz;dy bo;dp
+石原美由	ui;kp yr;ix mz;dy yb;aa
+等離子手槍	dg;vs li;vl zi;aa ub;pa qd;mc
+克洛諾斯學園	ke;eg lo;dg no;yr si;jq xt;zb yr;ky
+心崎美奈	xn;dd qi;uq mz;dy nl;du
+翻車魚	fj;yf ie;aa yu;dh
+巧取豪奪	qc;gk qu;ey hk;ub do;dc
+然而空轉	rj;hq er;aa ks;xg vr;iv
+原來這就是所謂的世界	yr;ix ll;ad ve;zy jq;yj ui;op so;hj wz;yw de;bu ui;ca jx;tj
+野乃香	ye;ly nl;pg xd;ho
+勇者傳說	ys;ly ve;ol ir;rv uo;yd
+來棲光流	ll;ad qi;mq gd;ea lq;di
+綺麗的光芒	qi;sq li;ll de;bu gd;ea mh;cw
+黑暗洛普斯賽羅	hz;ha an;oy lo;dg pu;ob si;jq sl;bb lo;sv
+夢日誌	mg;cx ri;aa vi;yv
+昨日之聲	zo;ov ri;aa vi;dd ug;eq
+黃昏輪迴	hd;cb hp;ou lp;il hv;zh
+奶龍裝備	nl;nn ls;lg vd;yv bz;ry
+羽賀琉璃	yu;xx he;bj lq;wi li;wl
+徒有可愛的女孩子	tu;xz yb;ou ke;dk ai;xw de;bu nv;aa hl;zh zi;aa
+星之牽絆	xy;ou vi;dd qm;ns bj;sb
+夏彥的家	xw;wz yj;pi de;bu jw;bu
+顏輝	yj;yy hv;gj
+高杉	gk;wk uj;mp
+我說	wo;pd uo;yd
+瑪瑙百合佳	ma;wm nk;wi bl;ab he;rk jw;rg
+藤澤木乃莉	tg;ct ze;dx mu;ad nl;pg li;cl
+言出必行三姐妹	yj;wk iu;aa bi;dd xy;xi sj;aa jx;nq mz;nw
+冬契軍	ds;wd qi;dd jp;bi
+志津香	vi;xu jn;dy xd;ho
+斬鬼劍	vj;ji gv;pd jm;dq
+恣意天變	zi;xc yi;xy tm;ad bm;ws
+同步超車	ts;kk bu;vx ik;zv ie;aa
+路西史黛拉伊卡雷特	lu;zg xi;aa ui;ki dl;hd la;fl yi;ry ka;ub lz;yt te;ns
+夜哭郎	ye;wd ku;kq lh;el
+半山遇鬼	bj;bf uj;aa yu;zy gv;pd
+法國航空	fa;dq go;kh hh;vk ks;xg
+淺坂愛莉	qm;dj bj;tf ai;xw li;cl
+化作熱情	hw;rb zo;rv re;hv qy;xq
+陰角戀愛喜劇	yn;ey jc;dy lm;xs ai;xw xi;uk ju;dj
+筋肉人	jn;vl rb;ad rf;pd
+劉盼兮	lq;dj pj;of xi;bk
+天然衰	tm;ad rj;hq uy;yv
+琉克	lq;wi ke;eg
+相田	xd;mo tm;aa
+臨淄中學娘	ln;ik zi;dt vs;aa xt;zb nd;nl
+警視廳美人局	jy;yj ui;ju ty;gt mz;dy rf;pd ju;uk
+迪斯托比姆	di;zy si;jq to;fq bi;bb mu;nm
+大賀美世	da;ad he;bj mz;dy ui;ca
+月野剎那	yt;pa ye;ly ia;du na;el
+壽林檎	ub;uc ln;mm qn;mq
+遊離軌道	yb;zy li;vl gv;ij dk;zu
+捏臉頰	nx;fn lm;oq jw;yj
+潮間帶	ik;di jm;mo dl;jb
+天音綺羅	tm;ad yn;lo qi;sq lo;sv
+草壁五十鈴	ck;cz bi;tb wu;aa ui;aa ly;jl
+獻給友人的夏夜之歌	xm;qg gz;sh yb;yu rf;pd de;bu xw;wz ye;wd vi;dd ge;qg
+劉楨	lq;dj vf;mv
+能海水映	ng;sb hl;dm uv;ad yy;oy
+異端的儀式	yi;tg dr;le de;bu yi;ry ui;gy
+童年玩伴的他	ts;ll nm;ra wj;wy bj;rb de;bu ta;ry
+村雨鼓實	cp;mc yu;ad gu;vd ui;bg
+亞倫	ya;aa lp;rl
+奇妙萌可之魔法鑰匙	qi;dk mc;nu mg;cm ke;dk vi;dd mo;gm fa;dq yk;jc ui;bu
+九州鼎	jq;py vb;id dy;oa
+你說	ni;re uo;yd
+最耀眼的光芒	zv;oq yk;gd yj;og de;bu gd;ea mh;cw
+株式會社咱	vu;mv ui;gy hv;ro ue;ut zj;kz
+分道揚鑣	ff;bd dk;zu yh;fy bc;jb
+初音未來的熱唱	iu;yd yn;lo wz;ex ll;ad de;bu re;hv ih;ki
+佐久真詩	zo;rz jq;pd vf;uj ui;ys
+王小月	wh;aa xc;ad yt;pa
+曙之羈絆	uu;ou vi;dd ji;sm bj;sb
+天野麻理	tm;ad ye;ly ma;gl li;wl
+黎吉星蘭	li;hu ji;ku xy;ou lj;cj
+激論激議激辯學生會	ji;dj lp;yl ji;dj yi;yy ji;dj bm;yx xt;zb ug;na hv;ro
+姜白葉	jd;ny bl;pa ye;cm
+迷宮都市阿薩伊拉姆	mi;zm gs;bl du;ev ui;wj aa;ek sa;ci yi;ry la;fl mu;nm
+石長姬	ui;kp vh;ad ji;ni
+守屋美紀	ub;bc wu;uv mz;dy ji;sj
+八重櫻純	ba;pd is;pa yy;my ip;st
+明日相逢的少女	my;oo ri;aa xd;mo fg;zf de;bu uk;xp nv;aa
+天涯	tm;ad ya;dy
+米提亞	mi;dd ti;fu ya;aa
+櫻花幻舞	yy;my hw;ch hr;yg wu;rf
+冰室紗江	by;du ui;bv ua;su jd;dg
+伊瓦格	yi;ry wa;ad ge;mg
+展昭	vj;uy vk;ov
+小山奈櫻	xc;ad uj;aa nl;du yy;my
+羽歌	yu;xx ge;qg
+五十嵐祥子	wu;aa ui;aa lj;uf xd;uy zi;aa
+赤血刃	ii;tb xt;pa rf;dd
+川田澪	ir;pa tm;aa ly;dl
+紅點鮭	hs;sg dm;hv gv;yg
+眼中的夕陽	yj;og vs;aa de;bu xi;pd yh;ey
+纜車	lj;sj ie;aa
+扎連	va;fg lm;zi
+風花的花束	fg;ji hw;ch de;bu hw;ch uu;ad
+羅晞橋	lo;sv xi;ox qc;mq
+高梨雙葉	gk;wk li;ml ud;vy ye;cm
+何亦雅	he;rk yi;wb ya;vy
+葦原大輝	wz;cw yr;ix da;ad hv;gj
+嵐忌龍	lj;uf ji;xj ls;lg
+金晨曦	jn;ra if;oi xi;ox
+尼古拉帕克汗伊茲梅洛	ni;ub gu;uk la;fl pa;jb ke;eg hj;dg yi;ry zi;cy mz;mm lo;dg
+雨宮希沙	yu;ad gs;bl xi;ib ua;du
+無人知曉的超級英雄	wu;rh rf;pd vi;ku xc;oy de;bu ik;zv ji;sj yy;cy xs;vh
+簪花記	zj;vo hw;ch ji;yj
+光石息吹	gd;ea ui;kp xi;xz iv;kq
+高見澤沙蘭	gk;wk jm;oe ze;dx ua;du lj;cj
+吒克斯	va;kq ke;eg si;jq
+火浣衣	ho;dd hr;dw yi;dd
+北海道狼	bz;ag hl;dm dk;zu lh;ql
+遁甲天書	dp;zd jw;aa tm;ad uu;oy
+動畫會社	ds;lv hw;ya hv;ro ue;ut
+水島七惠	uv;ad dk;nu qi;ag hv;xh
+長崎柊燻	ih;ad qi;uq vs;md xp;hx
+遲然	ii;zn rj;hq
+乘着光和風	ig;pb ve;yo gd;ea he;hk fg;ji
+祕儀共鳴	mi;ub yi;ry gs;cb my;kn
+新海幸	xn;jq hl;dm xy;tu
+柯鎮惡	ke;mk vf;jv ee;xy
+喜歡暴食的望月小姐	xi;uk hr;qv bk;ou ui;rl de;bu wh;wo yt;pa xc;ad jx;nq
+加巴頓	jw;lk ba;ag dp;yt
+魔法黑驢	mo;gm fa;dq hz;ha lv;ml
+橘雫	ju;mk na;yx
+印度尼西亞鷹航空	yn;ey du;gy ni;ub xi;aa ya;aa yy;nv hh;vk ks;xg
+須臾偈言	xu;py yu;jr ji;rh yj;wk
+將這股溫度稱爲你	jd;pc ve;zy gu;ou wf;dm du;gy ig;hr wz;vh ni;re
+喬貝利艾	qc;ph bz;ob li;hd ai;ci
+男孩子氣的女友超級可愛	nj;tl hl;zh zi;aa qi;qm de;bu nv;aa yb;yu ik;zv ji;sj ke;dk ai;xw
+姬宮結莉夏	ji;ni gs;bl jx;sj li;cl xw;wz
+飛鳶	fz;ff yr;ny
+小森江陽菜停不下來	xc;ad sf;ml jd;dg yh;ey cl;cc ty;rt bu;ad xw;ab ll;ad
+來自天空的禮物	ll;ad zi;pa tm;ad ks;xg de;bu li;ud wu;nw
+花宮鈴音	hw;ch gs;bl ly;jl yn;lo
+魔溶生物	mo;gm rs;dr ug;na wu;nw
+佐薙聖	zo;rz ti;cv ug;wk
+艾莉森阿羅哈歐艾	ai;ci li;cl sf;ml aa;ek lo;sv ha;kh ou;qq ai;ci
+集體無意識	ji;vm ti;gd wu;rh yi;xy ui;yg
+元素樂章	yr;aw su;sf yt;my vh;lz
+魔法交響譚	mo;gm fa;dq jc;li xd;yx tj;yt
+加魯拉	jw;lk lu;yo la;fl
+露西範佩特	lu;yl xi;aa fj;ve pz;rb te;ns
+空條仗子	ks;xg tc;rt vh;rv zi;aa
+桃原琉生	tk;mv yr;ix lq;wi ug;na
+史地克斯神父	ui;ki di;ty ke;eg si;jq uf;uu fu;pd
+弗蘭藍鈴	fu;aa lj;cj lj;cj ly;jl
+最兇勇者	zv;oq xs;ex ys;ly ve;ol
+我戀	wo;pd lm;xs
+月村忍	yt;pa cp;mc rf;xr
+閆子蔚	yj;ms zi;aa wz;cw
+奧德賽海洋高中	ao;db de;xx sl;bb hl;dm yh;dy gk;wk vs;aa
+待雪霧	dl;xs xt;yx wu;yw
+未解之謎	wz;ex jx;jn vi;dd mi;ym
+菲歐妮蕾法愛菈	fz;cf ou;qq ni;nn lz;cl fa;dq ai;xw la;cl
+翻車魨	fj;yf ie;aa tp;yt
+車軸草	ie;aa vb;iy ck;cz
+銅橋正清	ts;jt qc;mq vg;av qy;dq
+世永泰然	ui;ca ys;dd tl;uf rj;hq
+兔神	tu;dd uf;uu
+整個修真界的妹子都想抓我	vg;vi ge;rg xq;rp vf;uj jx;tj de;bu mz;nw zi;aa db;ev xd;xx vw;fv wo;pd
+反天賦論	fj;py tm;ad fu;bw lp;yl
+洛天一	lo;dg tm;ad yi;aa
+扎拉布星人	va;fg la;fl bu;ju xy;ou rf;pd
+芬蘭航空	ff;cf lj;cj hh;vk ks;xg
+田多野愛	tm;aa do;xx ye;ly ai;xw
+暹羅戰士特輯	xm;zv lo;sv vj;gd ui;aa te;ns ji;ie
+花環與桂冠	hw;ch hr;wh yu;ba gv;mg gr;bc
+道本語	dk;zu bf;aa yu;yw
+具志堅修普	ju;ba vi;xu jm;ty xq;rp pu;ob
+鐵鏽子	tx;jg xq;js zi;aa
+冬日花火	ds;wd ri;aa hw;ch ho;dd
+花夢雪	hw;ch mg;cx xt;yx
+空良	ks;xg ld;dg
+影舞者	yy;pj wu;rf ve;ol
+西曼德妮	xi;aa mj;oy de;xx ni;nn
+澤塔殺手	ze;dx ta;td ua;uu ub;pa
+廢材皇子們的皇位爭讓戰	fz;gf cl;mc hd;bw zi;aa mf;rm de;bu hd;bw wz;rl vg;va rh;yx vj;gd
+棒子機組	bh;mf zi;aa ji;mj zu;sq
+大吉尼奧爾	da;ad ji;ku ni;ub ao;db er;ay
+地府美食家	di;ty fu;gf mz;dy ui;rl jw;bu
+說的就是你啊	uo;yd de;bu jq;yj ui;op ni;re aa;ka
+朱聰	vu;pw cs;ec
+法比奧烏布	fa;dq bi;bb ao;db wu;ph bu;ju
+戀臀	lm;xs tp;od
+不喝烈酒	bu;ad he;kh lx;hl jq;dy
+北歐航空	bz;ag ou;qq hh;vk ks;xg
+淑女的品格	uu;du nv;aa de;bu pn;kk ge;mg
+待雪晴季	dl;xs xt;yx qy;oq ji;hz
+伊藤達文	yi;ry tg;ct da;zy wf;wi
+紫陽花權兵衛	zi;sc yh;ey hw;ch qr;mv by;qb wz;xw
+倘若成爲童話就好	th;ru ro;cy ig;gg wz;vh ts;ll hw;yu jq;yj hk;nz
+楠美穗	nj;mn mz;dy sv;hh
+陽燧槍	yh;ey sv;hs qd;mc
+當飲	dh;tk yn;uq
+黃景彰	hd;cb jy;oj vh;pv
+興宮署長	xy;ba gs;bl uu;sv vh;ad
+誓言的詠歎調	ui;yv yj;wk de;bu ys;yy tj;qh dc;yv
+手冢由美美	ub;pa vs;bd yb;aa mz;dy mz;dy
+月行水上	yt;pa xy;xi uv;ad uh;aa
+我喜歡的她喜歡的人	wo;pd xi;uk hr;qv de;bu ta;ny xi;uk hr;qv de;bu rf;pd
+你是主人我是僕	ni;re ui;op vu;dw rf;pd wo;pd ui;op pu;rp
+戀愛連載中	lm;xs ai;xw lm;zi zl;ig vs;aa
+星海的迴響	xy;ou hl;dm de;bu hv;zh xd;yx
+慕魚	mu;xm yu;dh
+吉爾格雷姆	ji;ku er;ay ge;mg lz;yt mu;nm
+灰白的少女	hv;hu bl;pa de;bu uk;xp nv;aa
+金清佳	jn;ra qy;dq jw;rg
+扎菲拉	va;fg fz;cf la;fl
+鄭在成	vg;ed zl;ut ig;gg
+陶德方古	tk;et de;xx fh;wd gu;uk
+辛勃	xn;lu bo;lb
+笑美餅	xc;vy mz;dy by;ub
+愛爾蘭航空	ai;xw er;ay lj;cj hh;vk ks;xg
+同居四姐妹	ts;kk ju;ug si;aa jx;nq mz;nw
+東金宙北	ds;ad jn;ra vb;by bz;ag
+久瀨森羅	jq;pd ll;dl sf;ml lo;sv
+世永青葉	ui;ca ys;dd qy;of ye;cm
+開玩笑啦	kl;mk wj;wy xc;vy la;kl
+三戶早苗	sj;aa hu;pk zk;ou mc;ct
+左右腦互搏	zo;ug yb;ku nk;oi hu;aa bo;fc
+認真和我談戀愛	rf;yr vf;uj he;hk wo;pd tj;yy lm;xs ai;xw
+拆遷地球及愛情事故	il;fi qm;zs di;ty qq;wq ji;nd ai;xw qy;xq ui;aa gu;wg
+音樂還會繼續	yn;lo yt;my hl;zh hv;ro ji;sy xu;sm
+木清禾	mu;ad qy;dq he;pd
+第三人稱	di;vp sj;aa rf;pd ig;hr
+魔法天使錄	mo;gm fa;dq tm;ad ui;rl lu;jl
+破浪者	po;up lh;dl ve;ol
+變色龍兄弟	bm;ws se;db ls;lg xs;ke di;bp
+水夏	uv;ad xw;wz
+監原美鈴	jm;mv yr;ix mz;dy ly;jl
+槙喜屋華澄	dm;mv xi;uk wu;uv hw;ca ig;dd
+環塔商會	hr;wh ta;td uh;wk hv;ro
+斬蛇劍	vj;ji ue;it jm;dq
+牧原紀子	mu;nw yr;ix ji;sj zi;aa
+元芳	yr;aw fh;cf
+錯姑蘇	co;jx gu;ng su;ch
+吉原正行	ji;ku yr;ix vg;av xy;xi
+銀鮫	yn;jg jc;yj
+櫻井美露	yy;my jy;aa mz;dy lu;yl
+真鳥友惠	vf;uj nc;ph yb;yu hv;xh
+川神百代	ir;pa uf;uu bl;ab dl;ry
+特工鼠隊	te;ns gs;aa uu;ju dv;eu
+幻褲女俠	hr;yg ku;yk nv;aa xw;rj
+我相信你	wo;pd xd;mo xn;ry ni;re
+犀綺玄磨	xi;nu qi;sq xr;wy mo;um
+藤原佐織	tg;ct yr;ix zo;rz vi;sg
+魔鏡啊魔鏡	mo;gm jy;jj aa;ka mo;gm jy;jj
+碎巖龜	sv;uz yj;uy gv;da
+星野五月	xy;ou ye;ly wu;aa yt;pa
+名人堂	my;xk rf;pd th;tk
+黑暗奧特曼	hz;ha an;oy ao;db te;ns mj;oy
+配信創意	pz;yj xn;ry id;dc yi;xy
+淵上琴音	yr;da uh;aa qn;wj yn;lo
+王笙	wh;aa ug;vu
+原夢儀	yr;ix mg;cx yi;ry
+成爲校園三大美女的小白臉	ig;gg wz;vh xc;mj yr;ky sj;aa da;ad mz;dy nv;aa de;bu xc;ad bl;pa lm;oq
+夏雨雪	xw;wz yu;ad xt;yx
+免費主義	mm;de fz;bf vu;dw yi;yw
+行星網絡之星	xy;xi xy;ou wh;sw lo;sg vi;dd xy;ou
+機流音	ji;mj lq;di yn;lo
+薔薇的驕傲	qd;ch wz;cw de;bu jc;mq ao;ra
+棚田美代子	pg;mp tm;aa mz;dy dl;ry zi;aa
+阿依達	aa;ek yi;ry da;zy
+實戰精選	ui;bg vj;gd jy;mq xr;zx
+諾愛爾綺堂艾爾莉希凱特	no;yr ai;xw er;ay qi;sq th;tk ai;ci er;ay li;cl xi;ib kl;jq te;ns
+源初之結	yr;dy iu;yd vi;dd jx;sj
+四時小路	si;aa ui;os xc;ad lu;zg
+迦樓羅傳奇	jw;zj lb;ml lo;sv ir;rv qi;dk
+擇日生	ze;fx ri;aa ug;na
+依舊透明	yi;ry jq;cj tb;zx my;oo
+瀧澤夏子	ls;dl ze;dx xw;wz zi;aa
+畢瑩超	bi;aa yy;yb ik;zv
+彩瀨奈露	cl;pc ll;dl nl;du lu;yl
+幸咲來瑠	xy;tu xc;kg ll;ad lq;wl
+川越一生	ir;pa yt;zy yi;aa ug;na
+拉姆塞斯	la;fl mu;nm sl;tb si;jq
+斯特拉的漂流日記	si;jq te;ns la;fl de;bu pc;dp lq;di ri;aa ji;yj
+克洛諾哈拉溫	ke;eg lo;dg no;yr ha;kh la;fl wf;dm
+富良野良子	fu;bf ld;dg ye;ly ld;dg zi;aa
+佐藤光敏	zo;rz tg;ct gd;ea mn;wm
+他予回聲	ta;ry yu;sa hv;kk ug;eq
+佐久真紡	zo;rz jq;pd vf;uj fh;sf
+太陽勇者	tl;dd yh;ey ys;ly ve;ol
+在此	zl;ut ci;vb
+無法攀登的坡道	wu;rh fa;dq pj;ud dg;dd de;bu po;tp dk;zu
+誰纔是我的百合呢	uv;yv cl;si ui;op wo;pd de;bu bl;ab he;rk ne;kn
+西篠琳果	xi;aa xc;vt ln;wl go;tm
+山海同心	uj;aa hl;dm ts;kk xn;dd
+渡海心	du;dd hl;dm xn;dd
+上葉美愛	uh;aa ye;cm mz;dy ai;xw
+代嫁丞相	dl;ry jw;nj ig;la xd;mo
+黑車長	hz;ha ie;aa vh;ad
+巖田由貴	yj;uy tm;aa yb;aa gv;bg
+白宮艾莉	bl;pa gs;bl ai;ci li;cl
+心愈	xn;dd yu;xy
+藍芳春	lj;cj fh;cf ip;of
+好友革命	hk;nz yb;yu ge;ca my;re
+鐵扇仙	tx;jg uj;hy xm;ru
+山野希乃子	uj;aa ye;ly xi;ib nl;pg zi;aa
+日揭馬賽克	ri;aa jx;fh ma;ah sl;bb ke;eg
+天蓬元帥	tm;ad pg;cf yr;aw uy;jv
+加油舞	jw;lk yb;dy wu;rf
+笹橋楓	ti;vu qc;mq fg;mf
+島原京香	dk;nu yr;ix jy;wx xd;ho
+小夏鈍帆	xc;ad xw;wz dp;jt fj;jf
+荷蘭皇家航空	he;ch lj;cj hd;bw jw;bu hh;vk ks;xg
+夏日幻夢列車	xw;wz ri;aa hr;yg mg;cx lx;dd ie;aa
+精英編號	jy;mq yy;cy bm;sb hk;hh
+同居生活即刻開始	ts;kk ju;ug ug;na ho;du ji;eg ke;dh kl;mk ui;nt
+空中幼彩	ks;xg vs;aa yb;ly cl;pc
+調和之天救龍	tc;yv he;hk vi;dd tm;ad jq;wq ls;lg
+廣瀨綾那	gd;gh ll;dl ly;sl na;el
+白取英治郎	bl;pa qu;ey yy;cy vi;dt lh;el
+靈可	ly;wl ke;dk
+傘護	sj;ru hu;yh
+少女羅曼史	uk;xp nv;aa lo;sv mj;oy ui;ki
+皆村愛理	jx;bb cp;mc ai;xw li;wl
+片瀨櫻	pm;pa ll;dl yy;my
+鮮洋芋	xm;yy yh;dy yu;cy
+飛翼貓	fz;ff yi;yg mk;vm
+楊素汐	yh;my su;sf xi;dx
+君冢薰	jp;ky vs;bd xp;cx
+新堂明佳	xn;jq th;tk my;oo jw;rg
+芭妮菈佩修茲	ba;cb ni;nn la;cl pz;rb xq;rp zi;cy
+終宵	vs;sd xc;bx
+救世之曉	jq;wq ui;ca vi;dd xc;oy
+鎖縛龍	so;jb fu;sc ls;lg
+三條櫻	sj;aa tc;rt yy;my
+最愛母親角色的反派貴族	zv;oq ai;xw mu;vd qn;jq jt;dy se;db de;bu fj;py pl;dp gv;bg zu;fu
+春暖飛花	ip;of nr;oy fz;ff hw;ch
+朝倉美久	vk;ou ch;rk mz;dy jq;pd
+安部胡桃	an;bn bu;ek hu;og tk;mv
+村主右由	cp;mc vu;dw yb;ku yb;aa
+呂布貂蟬	lv;kk bu;ju dc;vv ij;id
+求訂閱	qq;ad dy;yd yt;md
+上古五尊	uh;aa gu;uk wu;aa zp;cq
+八重櫻神愛	ba;pd is;pa yy;my uf;uu ai;xw
+橘高早苗	ju;mk gk;wk zk;ou mc;ct
+塑料小豬銷售中心	su;to lc;md xc;ad vu;uv xc;jx ub;kv vs;aa xn;dd
+浮世之澱	fu;df ui;ca vi;dd dm;dd
+卡累利阿	ka;ub lz;st li;hd aa;ek
+中國結	vs;aa go;kh jx;sj
+黑暗迪迦	hz;ha an;oy di;zy jw;zj
+糕點師	gk;mg dm;hv ui;vb
+肥貓也是貓	fz;ob mk;vm ye;gg ui;op mk;vm
+三田蝶子	sj;aa tm;aa dx;im zi;aa
+護酉美少女	hu;yh yb;aa mz;dy uk;xp nv;aa
+日食	ri;aa ui;rl
+暗野愛理	an;oy ye;ly ai;xw li;wl
+我們的起跑線	wo;pd mf;rm de;bu qi;zj pk;zb xm;sq
+笹穗久留美	ti;vu sv;hh jq;pd lq;td mz;dy
+克蕾雅的抗爭	ke;eg lz;cl ya;vy de;bu kh;fk vg;va
+冰見山玲	by;du jm;oe uj;aa ly;wl
+唐策	th;gk ce;vc
+提弗洛斯	ti;fu fu;aa lo;dg si;jq
+羽啾	yu;xx jq;kq
+入殮	ru;pd lm;dq
+博南拉桿	bo;uc nj;ua la;fl gj;mh
+高田沙希	gk;wk tm;aa ua;du xi;ib
+戴斯法薩	dl;gg si;jq fa;dq sa;ci
+楊文波	yh;my wf;wi bo;dp
+彩門鷹子	cl;pc mf;aa yy;nv zi;aa
+德意志軍人	de;xx yi;xy vi;xu jp;bi rf;pd
+跳旦戲	tc;zv dj;oa xi;gd
+有袋鼷獸	yb;ou dl;yd xi;ux ub;qu
+夏樹瑪利亞	xw;wz uu;mc ma;wm li;hd ya;aa
+被窩喫人事件	bz;yp wo;xk ii;kq rf;pd ui;aa jm;rn
+艾麗茜亞泰斯特羅莎	ai;ci li;ll qm;cx ya;aa tl;uf si;jq te;ns lo;sv ua;cu
+夏日又續寫	xw;wz ri;aa yb;vd xu;sm xx;bh
+學園邏輯	xt;zb yr;ky lo;zl ji;ie
+琴石奈瑠	qn;wj ui;kp nl;du lq;wl
+水母病	uv;ad mu;vd by;bb
+虎傳京	hu;hj ir;rv jy;wx
+夜航船	ye;wd hh;vk ir;vk
+康吉鰻	kh;gl ji;ku mj;ym
+宿聲	su;bb ug;eq
+島田由乃	dk;nu tm;aa yb;aa nl;pg
+鸚鵡杯	yy;ny wu;nw bz;mb
+握手	wo;fw ub;pa
+愛之筆記	ai;xw vi;dd bi;vy ji;yj
+鹿骨市長	lu;gb gu;go ui;wj vh;ad
+把夢想傳遞給未來	ba;fb mg;cx xd;xx ir;rv di;zh gz;sh wz;ex ll;ad
+中津川孝廣	vs;aa jn;dy ir;pa xc;zl gd;gh
+橘高倫	ju;mk gk;wk lp;rl
+水瀨伊月	uv;ad ll;dl yi;ry yt;pa
+歸於星塵	gv;vj yu;fd xy;ou if;tl
+異邦人之歌	yi;tg bh;ef rf;pd vi;dd ge;qg
+忍者喵隊	rf;xr ve;ol mc;km dv;eu
+玉野唯	yu;wd ye;ly wz;kv
+梅莉特與埃及之神	mz;mm li;cl te;ns yu;ba ai;tu ji;nd vi;dd uf;uu
+貓村秋穗	mk;vm cp;mc qq;hh sv;hh
+再見菈菈	zl;aa jm;oe la;cl la;cl
+天晴	tm;ad qy;oq
+山本未萌	uj;aa bf;aa wz;ex mg;cm
+伊比利亞航空	yi;ry bi;bb li;hd ya;aa hh;vk ks;xg
+護守七海	hu;yh ub;bc qi;ag hl;dm
+洛克茜伊芙莉塔普萊斯	lo;dg ke;eg qm;cx yi;ry fu;cf li;cl ta;td pu;ob ll;cl si;jq
+犬飼克樹	qr;dd si;us ke;eg uu;mc
+西口司	xi;aa kb;aa si;gk
+西野遙	xi;aa ye;ly yk;zf
+無慈悲的笑顏	wu;rh ci;xz bz;xf de;bu xc;vy yj;yy
+麋鹿	mi;lm lu;gb
+渡邊涼子	du;dd bm;zf ld;dj zi;aa
+牡羊座流星羣	mu;nt yh;da zo;gz lq;di xy;ou qp;yj
+反轉半球	fj;py vr;iv bj;bf qq;wq
+玥辰	yt;wo if;iy
+宣告者之神巫	xr;bg gk;kn ve;ol vi;dd uf;uu wu;gc
+時代精神	ui;os dl;ry jy;mq uf;uu
+黑暗奧特賽文	hz;ha an;oy ao;db te;ns sl;bb wf;wi
+黑暗布萊澤	hz;ha an;oy bu;ju ll;cl ze;dx
+妖護使	yk;ny hu;yh ui;rl
+阿克西妮婭	aa;ek ke;eg xi;aa ni;nn ya;ny
+狗尾續貂	gb;qj wz;um xu;sm dc;vv
+爆夏	bk;hb xw;wz
+三門綾菜	sj;aa mf;aa ly;sl cl;cc
+噗切娜	pu;kp qx;dq na;nn
+古橋桃香	gu;uk qc;mq tk;mv xd;ho
+西蒙妮	xi;aa mg;cm ni;nn
+樂透心	le;my tb;zx xn;dd
+橘高冬香	ju;mk gk;wk ds;wd xd;ho
+白又又	bl;pa yb;vd yb;vd
+最終聖戰	zv;oq vs;sd ug;wk vj;gd
+黑瀨悠真	hz;ha ll;dl yb;xw vf;uj
+伊椿南實	yi;ry ip;mi nj;ua ui;bg
+童年玩伴忍不住	ts;ll nm;ra wj;wy bj;rb rf;xr bu;ad vu;rv
+珍妮英格威	vf;wp ni;nn yy;cy ge;mg wz;gn
+碓冰珊瑚	dv;uv by;du uj;wc hu;wh
+陸奧笑穗	lu;et ao;db xc;vy sv;hh
+小鹿野實夏	xc;ad lu;gb ye;ly ui;bg xw;wz
+回憶的謎題	hv;kk yi;xy de;bu mi;ym ti;uy
+赤和亦	ii;tb he;hk yi;wb
+中江悟	vs;aa jd;dg wu;xw
+氘恐龍	dk;qp ks;xg ls;lg
+嚴陣以待	yj;kg vf;ei yi;rd dl;xs
+石寬	ui;kp kr;bd
+淺坂時治	qm;dj bj;tf ui;os vi;dt
+家明	jw;bu my;oo
+朝野雀	ik;ou ye;ly qt;vx
+二宮靜香	er;aa gs;bl jy;qv xd;ho
+萊娣珞蘭	ll;cl di;nd lo;wg lj;cj
+丸迫奈扎	wj;jd po;zb nl;du va;fg
+在龍的胃中休息	zl;ut ls;lg de;bu wz;ot vs;aa xq;rm xi;xz
+延續的旋律	yj;zv xu;sm de;bu xr;fp lv;xy
+夜乃櫻	ye;wd nl;pg yy;my
+星塵旅者	xy;ou if;tl lv;fp ve;ol
+紐帶少女	nq;si dl;jb uk;xp nv;aa
+小異	xc;ad yi;tg
+伊蒂達	yi;ry di;cd da;zy
+綾羅	ly;sl lo;sv
+虛空奧美迦	xu;hy ks;xg ao;db mz;dy jw;zj
+山吹諾亞	uj;aa iv;kq no;yr ya;aa
+渡邊步	du;dd bm;zf bu;vx
+赤坂理佳	ii;tb bj;tf li;wl jw;rg
+世界責思考	ui;ca jx;tj ze;bf si;xt kk;lk
+心的軌跡	xn;dd de;bu gv;ij ji;zy
+白取葉	bl;pa qu;ey ye;cm
+撒克遜	sa;fs ke;eg xp;zs
+安瑟倫	an;bn se;wb lp;rl
+太三郎	tl;dd sj;aa lh;el
+撐杆跳撐杆跳	ig;fi gj;mg tc;zv ig;fi gj;mg tc;zv
+高城冬羽	gk;wk ig;ti ds;wd yu;xx
+玄歌吹	xr;wy ge;qg iv;kq
+永恆星辰下的日常	ys;dd hg;xa xy;ou if;iy xw;ab de;bu ri;aa ih;jk
+連中三元者	lm;zi vs;aa sj;aa yr;aw ve;ol
+地獄繪圖	di;ty yu;qq hv;sh tu;kh
+佐藤威	zo;rz tg;ct wz;gn
+京都幻都	jy;wx du;ev hr;yg du;ev
+木原數多	mu;ad yr;ix uu;wl do;xx
+榎戶正勝	jw;mx hu;pk vg;av ug;lf
+收到	ub;wj dk;dv
+相坂紗理奈	xd;mo bj;tf ua;su li;wl nl;du
+近江希未	jn;zj jd;dg xi;ib wz;ex
+燈花挽月	dg;hd hw;ch wj;fm yt;pa
+火火熱熱	ho;dd ho;dd re;hv re;hv
+鈴芽之淚	ly;jl ya;cy vi;dd lz;dl
+姜子翰	jd;ny zi;aa hj;yu
+吉良吉影的同事	ji;ku ld;dg ji;ku yy;pj de;bu ts;kk ui;aa
+噴衝鳥	pf;kb is;xv nc;ph
+漢莎航空	hj;dh ua;cu hh;vk ks;xg
+神林始	uf;uu ln;mm ui;nt
+字跡潦草	zi;bz ji;zy lc;dl ck;cz
+零技能的廚師	ly;yl ji;fv ng;sb de;bu iu;gc ui;vb
+通往明天的路	ts;zy wh;xv my;oo tm;ad de;bu lu;zg
+艾蜜莉米艾特	ai;ci mi;ib li;cl mi;dd ai;ci te;ns
+空元行者	ks;xg yr;aw xy;xi ve;ol
+佐爾	zo;rz er;ay
+帕祖祖	pa;jb zu;uq zu;uq
+木原相似	mu;ad yr;ix xd;mo si;ry
+柳瀨雄之	lq;mm ll;dl xs;vh vi;dd
+羅伯茨醫生	lo;sv bo;rb ci;cc yi;yu ug;na
+富士見照	fu;bf ui;aa jm;oe vk;hv
+朝倉成巳	vk;ou ch;rk ig;gg si;ag
+波蘭航空	bo;dp lj;cj hh;vk ks;xg
+鯨鯊	jy;yj ua;yu
+奧克塔維婭塞法洛斯	ao;db ke;eg ta;td wz;sv ya;ny sl;tb fa;dq lo;dg si;jq
+夢遊病	mg;cx yb;zy by;bb
+夜唱夜唱霧茫茫	ye;wd ih;ki ye;wd ih;ki wu;yw mh;cw mh;cw
+沃雅妮莎	wo;dy ya;vy ni;nn ua;cu
+壞堂真白	hy;th th;tk vf;uj bl;pa
+奧菲	ao;db fz;cf
+美國民謠研究會	mz;dy go;kh mn;ag yk;yf yj;uk jq;xj hv;ro
+蕊沃爾	rv;cr wo;dy er;ay
+鐵甲蛹	tx;jg jw;aa ys;iy
+穗坂陽奈	sv;hh bj;tf yh;ey nl;du
+角兔之家	jc;dy tu;dd vi;dd jw;bu
+精靈守護者	jy;mq ly;wl ub;bc hu;yh ve;ol
+尋訣	xp;ck jt;yd
+水無月紫緒	uv;ad wu;rh yt;pa zi;sc xu;sv
+棕熊	zs;mz xs;hn
+哉阿斯奧特曼	zl;kg aa;ek si;jq ao;db te;ns mj;oy
+想要守護你	xd;xx yk;xn ub;bc hu;yh ni;re
+阿壯	aa;ek vd;up
+呂色麗的冥婚論	lv;kk se;db li;ll de;bu my;bl hp;nh lp;yl
+葉風	ye;cm fg;ji
+天下第一	tm;ad xw;ab di;vp yi;aa
+喧譁上等	xr;kx hw;yh uh;aa dg;vs
+以暗殺技能成爲異世界最強	yi;rd an;oy ua;uu ji;fv ng;sb ig;gg wz;vh yi;tg ui;ca jx;tj zv;oq qd;gi
+因你而相遇的我們	yn;kd ni;re er;aa xd;mo yu;zy de;bu wo;pd mf;rm
+卡嘉莉美美	ka;ub jw;uj li;cl mz;dy mz;dy
+王皚	wh;aa ai;bq
+多通戈	do;xx ts;zy ge;ad
+相羽凜	xd;mo yu;xx ln;db
+延邊朝鮮族自治州	yj;zv bm;zf ik;ou xm;yy zu;fu zi;pa vi;dt vb;id
+雨之森菖	yu;ad vi;dd sf;ml ih;ci
+海藍星之夢	hl;dm lj;cj xy;ou vi;dd mg;cx
+森園水穗	sf;ml yr;ky uv;ad sv;hh
+恆星際觀光航空公司	hg;xa xy;ou ji;ej gr;jv gd;ea hh;vk ks;xg gs;sb si;gk
+季節透鏡	ji;hz jx;vj tb;zx jy;jj
+靈魂之蠟	ly;wl hp;gy vi;dd la;il
+大賀稔	da;ad he;bj rf;hn
+星河追夢	xy;ou he;dk vv;zv mg;cx
+獄門撫子在此	yu;qq mf;aa fu;fw zi;aa zl;ut ci;vb
+羽衣乃良	yu;xx yi;dd nl;pg ld;dg
+花咲薰子	hw;ch xc;kg xp;cx zi;aa
+一葉	yi;aa ye;cm
+阿狼佛吉尼婭	aa;ek lh;ql fu;rf ji;ku ni;ub ya;ny
+八神甘夏	ba;pd uf;uu gj;ca xw;wz
+元氣丸子	yr;aw qi;qm wj;jd zi;aa
+狐日和	hu;qg ri;aa he;hk
+鈴野芽衣	ly;jl ye;ly ya;cy yi;dd
+遠島舞奈	yr;zy dk;nu wu;rf nl;du
+心上人來看我的墳頭草	xn;dd uh;aa rf;pd ll;ad kj;ou wo;pd de;bu ff;tb tb;yd ck;cz
+星海糖	xy;ou hl;dm th;mt
+心一等	xn;dd yi;aa dg;vs
+星星大人的眼淚	xy;ou xy;ou da;ad rf;pd de;bu yj;og lz;dl
+八神美穗乃	ba;pd uf;uu mz;dy sv;hh nl;pg
+白井繪利	bl;pa jy;aa hv;sh li;hd
+耶爾德茲香音	ye;ee er;ay de;xx zi;cy xd;ho yn;lo
+莫斯基諾	mo;cd si;jq ji;tq no;yr
+成對的邊界線	ig;gg dv;ct de;bu bm;zf jx;tj xm;sq
+如同繁星	ru;nk ts;kk fj;sm xy;ou
+心血來潮的浪漫故事	xn;dd xt;pa ll;ad ik;di de;bu lh;dl mj;dm gu;wg ui;aa
+綿貫絹	mm;sb gr;bm jr;so
+朱衛民推杆	vu;pw wz;xw mn;ag tv;fv gj;mg
+南希仁	nj;ua xi;ib rf;re
+夏負之殼	xw;wz fu;db vi;dd ke;uj
+高宮菜菜華	gk;wk gs;bl cl;cc cl;cc hw;ca
+蕾耶拉	lz;cl ye;ee la;fl
+辛月疏	xn;lu yt;pa uu;pi
+青春離婚	qy;of ip;of li;vl hp;nh
+峯越琴雛	fg;uf yt;zy qn;wj iu;vc
+角兔圖書館	jc;dy tu;dd tu;kh uu;oy gr;ug
+雷霆龍	lz;yt ty;yt ls;lg
+拋物線	pk;fl wu;nw xm;sq
+花山院要	hw;ch uj;aa yr;ew yk;xn
+荷莉喬斯達的替身	he;ch li;cl qc;ph si;jq da;zy de;bu ti;of uf;pp
+祕書室	mi;ub uu;oy ui;bv
+奇妙萌可之魔法甜心	qi;dk mc;nu mg;cm ke;dk vi;dd mo;gm fa;dq tm;ug xn;dd
+來購買成人用品的優等生	ll;ad gb;bg ml;bs ig;gg rf;pd ys;kf pn;kk de;bu yb;rw dg;vs ug;na
+阿狼喬治	aa;ek lh;ql qc;ph vi;dt
+獵妻迷宮	lx;ql qi;na mi;zm gs;bl
+酸楚韓	sr;yj iu;mp hj;wu
+與花逝去的我	yu;ba hw;ch ui;zv qu;ts de;bu wo;pd
+我的身影是海市蜃樓	wo;pd de;bu uf;pp yy;pj ui;op hl;dm ui;wj uf;ii lb;ml
+無眠幻想	wu;rh mm;om hr;yg xd;xx
+洞燭	ds;dt vu;hu
+能幹的學妹小葵	ng;sb gj;ug de;bu xt;zb mz;nw xc;ad kv;cg
+日向翔太郎	ri;aa xd;pk xd;yy tl;dd lh;el
+白銀奏斗	bl;pa yn;jg zb;tf db;du
+水中純真面紗	uv;ad vs;aa ip;st vf;uj mm;aa ua;su
+絳色向日葵	jd;sj se;db xd;pk ri;aa kv;cg
+也許死掉就好了吧	ye;gg xu;yw si;db dc;fv jq;yj hk;nz le;aa ba;kb
+修復	xq;rp fu;xf
+瓦列里	wa;ad lx;dd li;aa
+飯罪系寫真偶像毫無抵抗力	fj;uf zv;sf xi;ps xx;bh vf;uj ou;ry xd;rx hk;mb wu;rh di;fd kh;fk li;gp
+葦原希里乃	wz;cw yr;ix xi;ib li;aa nl;pg
+爛漫嚮導蕾莉	lj;hj mj;dm xd;xe dk;cd lz;cl li;cl
+乾依鈴	gj;uq yi;ry ly;jl
+消滅奧特曼的計劃是佐菲定的	xc;dx mx;dh ao;db te;ns mj;oy de;bu ji;yu hw;dh ui;op zo;rz fz;cf dy;bp de;bu
+羽香里父親	yu;xx xd;ho li;aa fu;pd qn;jq
+日向遙	ri;aa xd;pk yk;zf
+雲青青兮	yp;yy qy;of qy;of xi;bk
+狂獵藝術學園	kd;qw lx;ql yi;cy uu;xu xt;zb yr;ky
+時鐘誅機	ui;os vs;jt vu;yv ji;mj
+好像拿錯了女主劇本	hk;nz xd;rx na;uh co;jx le;aa nv;aa vu;dw ju;dj bf;aa
+水原明鐘	uv;ad yr;ix my;oo vs;jt
+假面騎士夢現	jw;rj mm;aa qi;mq ui;aa mg;cx xm;wj
+與你一起醒來的若干方法	yu;ba ni;re yi;aa qi;zj xy;yx ll;ad de;bu ro;cy gj;aa fh;wd fa;dq
+漫威鬥魂	mj;dm wz;gn db;wa hp;gy
+除了你別無所求	iu;ey le;aa ni;re bx;dd wu;rh so;hj qq;ad
+佐谷霞巳不能沒有你	zo;rz gu;bk xw;yj si;ag bu;ad ng;sb mz;du yb;ou ni;re
+橘高美里	ju;mk gk;wk mz;dy li;aa
+不小心救了江湖公敵	bu;ad xc;ad xn;dd jq;wq le;aa jd;dg hu;dh gs;sb di;wd
+一之瀨里香	yi;aa vi;dd ll;dl li;aa xd;ho
+下週去海邊吧	xw;ab vb;zv qu;ts hl;dm bm;zf ba;kb
+向着回憶的另一邊	xd;pk ve;yo hv;kk yi;xy de;bu ly;kl yi;aa bm;zf
+日本最強武術家決定戰	ri;aa bf;aa zv;oq qd;gi wu;vy uu;xu jw;bu jt;dd dy;bp vj;gd
+京谷透子	jy;wx gu;bk tb;zx zi;aa
+四大發明	si;aa da;ad fa;du my;oo
+竹野里子	vu;gg ye;ly li;aa zi;aa
+醜形恐怖症	ib;yg xy;pk ks;xg bu;xb vg;bv
+周槿薇	vb;kt jn;mj wz;cw
+雲端舞者	yp;yy dr;le wu;rf ve;ol
+沐征	mu;dm vg;xv
+日向久遠	ri;aa xd;pk jq;pd yr;zy
+優谷優	yb;rw gu;bk yb;rw
+紅髮歌姬	hs;sg fa;ib ge;qg ji;ni
+莫德亞里	mo;cd de;xx ya;aa li;aa
+意識複刻	yi;xy ui;yg fu;yf ke;dh
+谷瓦目	gu;bk wa;ad mu;aa
+死靈術士	si;db ly;wl uu;xu ui;aa
+宿傘之魂的南臺雨	su;bb sj;ru vi;dd hp;gy de;bu nj;ua tl;uv yu;ad
+異種合成魔獸	yi;tg vs;hv he;rk ig;gg mo;gm ub;qu
+東雲梓	ds;ad yp;yy zi;mx
+艾里克	ai;ci li;aa ke;eg
+願望喵喵	yr;yy wh;wo mc;km mc;km
+被逐出勇者小隊的精靈術士	bz;yp vu;zu iu;aa ys;ly ve;ol xc;ad dv;eu de;bu jy;mq ly;wl uu;xu ui;aa
+八神瀨里香	ba;pd uf;uu ll;dl li;aa xd;ho
+熊谷繪里	xs;hn gu;bk hv;sh li;aa
+里奧斯	li;aa ao;db si;jq
+雲隱	yp;yy yn;ej
+我被男同學包圍了	wo;pd bz;yp nj;tl ts;kk xt;zb bk;gs wz;kw le;aa
+御莉姬	yu;xx li;cl ji;ni
+雨後輕風有香	yu;ad hb;xw qy;ig fg;ji yb;ou xd;ho
+魔王與勇者的戰鬥背後	mo;gm wh;aa yu;ba ys;ly ve;ol de;bu vj;gd db;wa bz;ob hb;xw
+輸到最後的一定是我	uu;iy dk;dv zv;oq hb;xw de;bu yi;aa dy;bp ui;op wo;pd
+流星劃過	lq;di xy;ou hw;dh go;zg
+小松綠	xc;ad ss;mg lv;sl
