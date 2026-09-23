@@ -283,7 +283,6 @@ function top.func(input, seg, env)
     end
     if smart_iter ~= nil then
         local ijrq_enabled = env.ijrq_enable
-            and (env.engine.context.input == input)
             and ((input_len == 4) or (input_len == 5 and input:sub(5,5) == env.ijrq_suffix))
         if not ijrq_enabled then
             -- 不啓用出簡讓全時
