@@ -43,7 +43,6 @@ deploy:
     patch:
       moran/ijrq/enable: true
     tests:
-      - send: "pmm;hemho"
       - send: "byudogoc{Tab}"
         assert: eq(cand[1].text, "氷")
 
