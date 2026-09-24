@@ -38,5 +38,12 @@ deploy:
         assert: eq(cand[1].text, "實現")
       - send: juuvt
         assert: eq(cand[1].text, "聚水潭")
+  
+  ijrq_in_sentence_making:
+    patch:
+      moran/ijrq/enable: true
+    tests:
+      - send: "byudogoc{Tab}"
+        assert: eq(cand[1].text, "氷")
 
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rimeinn/mira/refs/heads/master/spec/mira.schema.json
