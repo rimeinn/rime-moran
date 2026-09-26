@@ -31635,7 +31635,7 @@
 𡌓	bt tq
 𡌔	tx
 𡌕	ti
-𡌖	ta
+𡌖	tf ta
 𡌗	te
 𡌘	ty
 𡌚	tz
@@ -66053,7 +66053,7 @@
 𫌡	fj jf
 𫌣	jm
 𫌤	ju uj
-𫌦	xj jx
+𫌦	jx xj
 𫌨	je
 𫌩	jj
 𫌪	jp jd
@@ -67523,7 +67523,7 @@
 𫬨	ky
 𫬫	jk kj
 𫬭	kx
-𫬯	ke
+𫬯	gg
 𫬲	kh lh
 𫬴	kb jk
 𫬹	kx
@@ -70912,7 +70912,7 @@
 𬻋	ad
 𬻎	qj
 𬻐	ad
-𬻑	pd
+𬻑	dd pd
 𬻔	ad
 𬻕	ae ao
 𬻛	bq
@@ -70942,9 +70942,9 @@
 𬼎	nc
 𬼕	pm
 𬼖	ka
-𬼘	qa
-𬼙	ga
-𬼚	bb
+𬼘	ga ag
+𬼙	gq ag
+𬼚	gb bb
 𬼜	dy
 𬼠	qq
 𬼨	my
@@ -72403,7 +72403,7 @@
 𭥚	ou
 𭥜	io oi
 𭥞	oy
-𭥟	oa
+𭥟	aa oa
 𭥣	bo ob
 𭥥	oj
 𭥦	oe
@@ -84073,6 +84073,10 @@
 𤳭	te
 𠀫	ap cp
 𫹱	xi
+𠋓	rk
+𠃉	py gg
+𬻒	ag
+𠁢	ay
 𣮚	mf
 𣴅	df
 𨯾	jj

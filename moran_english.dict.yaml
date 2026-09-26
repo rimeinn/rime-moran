@@ -6,7 +6,7 @@
 
 ---
 name: moran_english
-version: "20260916"
+version: "20260921"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -13583,7 +13583,6 @@ dysuria	dysuria
 dziggetai	dziggetai
 décolleté	decollete
 décor	decor
-déjà vu	dejavu
 déjà vu	dejavu
 döner	doner
 dürüm	durum
@@ -34624,6 +34623,7 @@ raise	raise
 raised	raised
 raisin	raisin
 raising	raising
+raison d'être	raisondetre
 raja	raja
 rajah	rajah
 rake	rake
@@ -47107,10 +47107,9 @@ zymometer	zymometer
 zymosis	zymosis
 zymotic	zymotic
 à la carte	alacarte
-Škoda	Skoda
 μTorrent	uTorrent
 
-# 非小寫字母起始的詞語
+# 大寫母起始的詞語
 
 3D	3D
 404 Not Found	404NotFound
@@ -50101,7 +50100,6 @@ Dylan	Dylan
 Dynel	Dynel
 Dzerzhinsk	Dzerzhinsk
 Dzungaria	Dzungaria
-Déjà vu	Dejavu
 EAM	EAM
 ECG	ECG
 EDP	EDP
@@ -57339,3 +57337,4 @@ Zwinglian	Zwinglian
 Zwolle	Zwolle
 Zworykin	Zworykin
 Zyrian	Zyrian
+Škoda	Skoda
