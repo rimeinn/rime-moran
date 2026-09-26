@@ -6,7 +6,7 @@
 
 ---
 name: moran.chars
-version: "20260924"
+version: "20260926"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -53106,6 +53106,7 @@ use_preset_vocabulary: false
 𡌓	lu;tq	0
 𡌔	qc;tx	0
 𡌕	gh;ti	0
+𡌖	kg;tf	0
 𡌖	kg;ta	0
 𡌗	hr;te	0
 𡌗	yr;te	0
@@ -86980,6 +86981,7 @@ use_preset_vocabulary: false
 𨊢	vr;ts	0
 𨊤	du;ir	0
 𨊥	wz;ik	0
+𨊥	ji;ik	0
 𨊦	zl;ia	0
 𨊦	zl;pi	0
 𨊧	gh;ig	0
@@ -101274,8 +101276,8 @@ use_preset_vocabulary: false
 𫌣	ve;jm	0
 𫌤	ug;ju	0
 𫌤	ug;uj	0
-𫌦	zj;xj	0
 𫌦	zj;jx	0
+𫌦	zj;xj	0
 𫌨	lo;je	0
 𫌩	hb;jj	0
 𫌪	mi;jp	0
@@ -103341,8 +103343,8 @@ use_preset_vocabulary: false
 𫬫	si;jk	0
 𫬫	si;kj	0
 𫬭	xw;kx	0
-𫬯	rh;ke	0
-𫬯	xd;ke	0
+𫬯	rh;gg	0
+𫬯	xd;gg	0
 𫬲	he;kh	0
 𫬲	he;lh	0
 𫬲	hu;kh	0
@@ -108010,6 +108012,7 @@ use_preset_vocabulary: false
 𬻋	pu;ad	0
 𬻎	jw;qj	0
 𬻐	so;ad	0
+𬻑	iu;dd	0
 𬻑	iu;pd	0
 𬻔	so;ad	0
 𬻕	yb;ae	0
@@ -108060,8 +108063,11 @@ use_preset_vocabulary: false
 𬼕	xx;pm	0
 𬼖	wh;ka	0
 𬼖	wu;ka	0
-𬼘	ci;qa	0
-𬼙	vk;ga	0
+𬼘	ci;ga	0
+𬼘	ci;ag	0
+𬼙	vk;gq	0
+𬼙	vk;ag	0
+𬼚	vk;gb	0
 𬼚	vk;bb	0
 𬼜	se;dy	0
 𬼜	ul;dy	0
@@ -110381,6 +110387,7 @@ use_preset_vocabulary: false
 𭥜	uu;io	0
 𭥜	uu;oi	0
 𭥞	lr;oy	0
+𭥟	yn;aa	0
 𭥟	yn;oa	0
 𭥣	jx;bo	0
 𭥣	jx;ob	0
@@ -127092,3 +127099,9 @@ use_preset_vocabulary: false
 𠀫	ji;cp	0
 𫹱	xp;xi	0
 𫹱	up;xi	0
+𠋓	qt;rk	0
+𠋓	qc;rk	0
+𠃉	yi;py	0
+𠃉	yi;gg	0
+𬻒	yi;ag	0
+𠁢	bu;ay	0

@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260913"
+version: "20260926"
 sort: by_weight
 columns:
   - text
@@ -16867,14 +16867,12 @@ D盤	dpj
 二級域名	ejym
 而況	ek
 而來	el
-二〇二	ele
 二輪複習	elfx
 惡劣環境	elhj
 二連浩特	elht
 二硫化硒	elhx
 鄂倫春族	eliz
 二連擊破	eljp
-二〇〇	ell
 二力平衡	elph
 餓狼撲食	elpu
 惡龍咆哮	elpx
@@ -16893,7 +16891,6 @@ D盤	dpj
 而立之年	elvn
 二龍戲鳳	elxf
 二龍戲珠	elxv
-二〇一	ely
 耳聾眼花	elyh
 本來已經	elyj
 二零一零	elyl
@@ -17058,7 +17055,6 @@ E盤	epj
 耳輪	erlp
 二流	erlq
 耳聾	erls
-二〇	erly
 二類	erlz
 駬	erm
 二碼	erma
@@ -25706,6 +25702,7 @@ G盤	gpj
 鼓足	guzu
 該是怎樣就怎樣	guzy
 貴	gv
+各種	gv
 归	gva
 共築愛巢	gvai
 歸案	gvan
@@ -49592,6 +49589,8 @@ JK制服	jkvf
 狫	lkq
 老氣	lkqi
 撈錢	lkqm
+老千	lkqm
+老錢	lkqm
 老親	lkqn
 老拳	lkqr
 撈取	lkqu
@@ -51591,8 +51590,8 @@ JK制服	jkvf
 錄	luj
 鹿角	lujc
 廬江	lujd
-歷史階段	lujd
 老實交代	lujd
+歷史階段	lujd
 零售價格	lujg
 連聲叫好	lujh
 路基	luji
@@ -100601,8 +100600,8 @@ WiFi	wifi
 欣賞不來	xubl
 顯示不了	xubl
 續編	xubm
-西雙版納	xubn
 心神不寧	xubn
+西雙版納	xubn
 消受不起	xubq
 形勢比人強	xubq
 新手保護期	xubq
@@ -117807,18 +117806,11 @@ CD機	cdj
 已經是	eju
 二進制	ejv
 Excel	eks
-二〇八	elb
 鄂倫春	eli
-二〇九	elj
-二〇六	ell
 餓了麼	elm
-二〇七	elq
 俄羅斯	els
-二〇三	els
-二〇四	els
 二郎腿	elt
 鵝卵石	elu
-二〇五	elw
 二流子	elz
 二面角	emj
 峨眉山	emu
@@ -118315,7 +118307,7 @@ Excel	eks
 高分子	gfz
 怪怪的	ggd
 感光度	ggd
-剛果紅	ggh
+剛剛好	ggh
 骨骼肌	ggj
 呱呱叫	ggj
 乖乖女	ggn
@@ -122386,6 +122378,7 @@ SD卡	sdk
 生成器	uiq
 雙肩包	ujb
 神經病	ujb
+時間點	ujd
 十幾個	ujg
 世界觀	ujg
 手機號	ujh
@@ -123224,8 +123217,9 @@ SD卡	sdk
 無重碼	wim
 未成年	win
 無產者	wiv
-微程序	wix
+未承想	wix
 無襯線	wix
+微程序	wix
 文昌魚	wiy
 微積分	wjf
 微架構	wjg

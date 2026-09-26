@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20260916"
+version: "20260923"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -8778,6 +8778,7 @@ columns:
 整句引擎	1
 玫枫	1
 玫枫跟打器	1
+跟打器	1
 馨香馥郁	1
 五重	100	wu;aa is;pa
 六重	100	lq;wb is;pa
@@ -9432,6 +9433,19 @@ PV师	5	PV ui;vb
 运镜	100
 铜头皮带	1
 证毕	100
+美美隐身	200
+信工所	100
+地质地球所	100
+古脊椎所	100
+应化所	100
+微系统所	100
+工业智能所	100
+岩土所	100
+先研院	100
+近物所	100
+盐湖所	100
+生地所	100
+老钱	100
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0
