@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20260926"
+version: "20260930"
 sort: by_weight
 columns:
   - text
@@ -27538,6 +27538,7 @@ G盤	gpj
 黃癬	hdxr
 憨豆先生	hdxu
 獲得性免疫缺陷綜合徵	hdxv
+旱地行舟	hdxv
 很大希望	hdxw
 獲得學位	hdxw
 怳	hdxx
@@ -48281,6 +48282,7 @@ JK制服	jkvf
 浪得虛名	ldxm
 良心	ldxn
 來電顯示	ldxu
+陸地行舟	ldxv
 兩下	ldxw
 涼鞋	ldxx
 良性	ldxy
