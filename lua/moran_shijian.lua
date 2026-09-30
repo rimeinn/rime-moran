@@ -106,7 +106,7 @@ function Top.yield_solar_terms(segment)
     local start_date = os.date("%Y%m%d", os.time({year = date.year, month = date.month,
         day = date.day - 15, hour = 12, min = 0, sec = 0}))
     for _, term_text in ipairs(Solar.upcoming_terms(start_date)) do
-        Top.emit(segment, "jwql", term_text, "〔节气〕")
+        Top.emit(segment, "solar_terms", term_text, "〔节气〕")
     end
 end
 
