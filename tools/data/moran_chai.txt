@@ -58410,8 +58410,9 @@
 𦈃	sn	糸囊	auto
 𦈄	ss	糸糸	auto
 𦈅	sd	糸疊	auto
-𦈇	ps	𠂆糸	auto
-𦈇	sj	糸冏	auto
+𦈇	js	臼糸	
+𦈇	ms	矛糸	
+𦈇	sj	糸冏	
 𦈈	si	纟斥	auto
 𦈉	sj	纟军	auto
 𦈋	sy	纟酉	auto
