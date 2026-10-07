@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20260923"
+version: "20261004"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9446,6 +9446,9 @@ PV師	5	PV ui;vb
 鹽湖所	100
 生地所	100
 老錢	100
+霶霈
+霮䨴
+樂評	100
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0

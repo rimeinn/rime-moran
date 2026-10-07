@@ -48569,7 +48569,7 @@
 𦈃	sn
 𦈄	ss
 𦈅	sd
-𦈇	ps sj
+𦈇	js ms sj
 𦈈	si
 𦈉	sj
 𦈋	sy
