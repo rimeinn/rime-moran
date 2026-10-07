@@ -239,7 +239,7 @@ deploy:
       - send: 'mzfadsl2{Control+l}{Control+l}'
         assert: eq(cand[1].text, '塞')
       - send: 'ljflkr'
-        assert: eq(cand[1].text, '攔款')
+        assert: eq(cand[1].text, '攬款')
       - send: 'ljflkr2'
         assert: eq(cand[1].text, '寬')
       - send: 'ljflkr2{Control+l}'
