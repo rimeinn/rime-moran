@@ -8,7 +8,7 @@
 #
 # Primary Author: ksqsf
 # Contributors: 吕奉先, SunShine, 吥捨洳楓, 三山剑客, Kuroame, 吾因孰
-# Last-Modified-Date: 2026-10-09
+# Last-Modified-Date: 2026-10-12
 
 ⺁	px	{⺁}	
 ⺄	yi	{乙}	
@@ -6010,7 +6010,8 @@
 䨯	yi	雨陳	auto
 䨰	yg	雨革	auto
 䨱	yf	雨復	auto
-䨲	xt	需兔	auto
+䨲	tx	兔需	
+䨲	xt	需兔	
 䨳	yj	雨見	auto
 䨴	yd	雨對	auto
 䨵	yt	雨潭	auto
@@ -56406,7 +56407,8 @@
 𥤆	hj	禾薦	auto
 𥤇	hc	禾參	auto
 𥤈	hy	禾又	auto
-𥤉	hy	禾龠	auto
+𥤉	hc	禾冊	
+𥤉	hy	禾龠	
 𥤊	hv	禾隹	auto
 𥤋	hn	禾聶	auto
 𥤋	nh	聶禾	auto
@@ -68861,7 +68863,8 @@
 𨫐	jv	金窒	auto
 𨫑	jh	金患	auto
 𨫒	jy	金雨	auto
-𨫓	ji	金呈	auto
+𨫓	jw	金王	
+𨫓	ji	金呈	
 𨫔	jw	金丸	auto
 𨫔	tj	土金	auto
 𨫕	jw	金攵	auto
