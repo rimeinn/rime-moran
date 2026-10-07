@@ -22,5 +22,9 @@ print(header)
 
 for ((char, py), w) in freq_table.items():
     sp = zrmify(py)
-    for aux in aux_table[char]:
-        print(f'{char}\t{sp};{aux}\t{w}')
+    for i, aux in enumerate(aux_table[char]):
+        if i == 0:
+            weight = int(w)
+        else:
+            weight = int(w) // 4 * 3
+        print(f'{char}\t{sp};{aux}\t{weight}')
