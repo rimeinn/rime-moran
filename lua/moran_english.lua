@@ -163,6 +163,10 @@ local function make_candidate(env, input)
 end
 
 function WordCreator.func(t_input, env)
+    if not env.enabled then
+        moran.yield_all(t_input:iter())
+        return
+    end
     local context = env.engine.context
     local composition = context.composition
     if composition:empty() then
