@@ -91,7 +91,6 @@ engine:
     - lua_translator@*moran_number         # 數字轉大寫, 大寫S引導, 如 S123
     - lua_translator@*moran_unicode        # Unicode輸入, 大寫U引導, 如 U9b54
     - lua_translator@*moran_pin*panacea_translator
-    - lua_translator@*moran_english*word_creator_translator
     - history_translator@quick_repeat
   filters:
     - lua_filter@*moran_charset_filter
@@ -110,6 +109,7 @@ engine:
     - lua_filter@*moran_charset_comment_filter  # Unicode 區位提示
     - lua_filter@*moran_unicode_display_filter  # Unicode 編碼提示
     - lua_filter@*moran_english*capitalizer_filter
+    - lua_filter@*moran_english*word_creator_filter
     - uniquifier
 
 navigator:
@@ -487,11 +487,11 @@ moran:
 
   # 英語混輸相關設置
   english:
-    # 當前輸入編碼視作潛在的用戶詞。
     # 新詞將攜帶 indicator 標記，上屏後會添加到用戶詞庫中。
     word_creator:
       enable: true
-      indicator: "*"
+      indicator: "*"     # comment
+      trigger: "/ad?d?"
 
 # 默認啓用語言模型
 __include: moran:/octagram/enable_for_sentence
