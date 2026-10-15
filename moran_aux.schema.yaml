@@ -1,7 +1,7 @@
 schema:
   schema_id: moran_aux
   name: 輔篩·魔然
-  version: "20260605"
+  version: "20261015"
   author:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
@@ -69,6 +69,7 @@ engine:
     - lua_translator@*moran_number         # 數字轉大寫, 大寫S引導, 如 S123
     - lua_translator@*moran_unicode        # Unicode輸入, 大寫U引導, 如 U9b54
     - lua_translator@*moran_pin*panacea_translator
+    - lua_translator@*moran_english*word_creator_translator
   filters:
     - lua_filter@*moran_hint_filter@auxfilter
     - lua_filter@*moran_charset_filter
@@ -85,7 +86,7 @@ engine:
     - simplifier@pinyinhint
     - lua_filter@*moran_charset_comment_filter  # Unicode 區位提示
     - lua_filter@*moran_unicode_display_filter  # Unicode 編碼提示
-    - lua_filter@*moran_english_filter
+    - lua_filter@*moran_english*capitalizer_filter
     - uniquifier
 
 speller:
@@ -419,6 +420,13 @@ moran:
   # Q: 輸入 pkQ 直接上屏「跑來跑去」。
   # （如需要自定義/增加/刪除略碼，請編輯 moran_processor.lua 中的 shorthands 定義。）
   shorthands: false
+
+  # 英語混輸相關設置
+  english:
+    # 添加英文用戶詞
+    word_creator:
+      enable: false
+      indicator: "*"
 
 # 默認啓用語言模型
 __include: moran:/octagram/enable_for_sentence
