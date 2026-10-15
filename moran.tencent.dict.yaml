@@ -9,7 +9,7 @@
 
 ---
 name: moran.tencent
-version: "20260805"
+version: "20261015"
 sort: by_weight
 columns:
   - text
@@ -212258,7 +212258,6 @@ columns:
 墨景琛	mo;th jy;oj if;wm	0
 墨景祈	mo;th jy;oj qi;uj	0
 墨景黎	mo;th jy;oj li;hu	0
-墨水屏	mo;th uv;ad py;ub	1
 墨水心	mo;th uv;ad xn;dd	0
 墨水河	mo;th uv;ad he;dk	0
 墨水湖	mo;th uv;ad hu;dh	0
