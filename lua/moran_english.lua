@@ -159,10 +159,6 @@ function WordCreator.fini(env)
     env.memory:disconnect()
 end
 
-local function make_candidate(env, input)
-    return cand:toCandidate()
-end
-
 function WordCreator.func(t_input, env)
     local iter = moran.iter_translation(t_input)
     if not env.enabled then
