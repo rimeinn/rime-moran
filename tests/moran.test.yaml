@@ -42,6 +42,8 @@ deploy:
         assert: eq(cand[1].text, '十一萬四千五百一十四')
       - send: olfuvuv
         assert: eq(cand[1].text, '冰') and eq(cand[1].comment, 'by[du] ny[du]')
+      - send: 5.5
+        assert: eq(commit, ".5")
 
   std_t2s:
     options:
