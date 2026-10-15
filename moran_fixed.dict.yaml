@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20261013"
+version: "20261015"
 sort: by_weight
 columns:
   - text
@@ -120487,7 +120487,8 @@ Keynote	knt
 沒事了	mul
 馬上來	mul
 美少女	mun
-名士派	mup
+墨水屏	mup
+貓砂盆	mup
 賣身契	muq
 陌生人	mur
 魔術師	muu
