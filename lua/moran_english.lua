@@ -150,9 +150,9 @@ local WordCreator = {}
 
 function WordCreator.init(env)
     env.memory = Memory(env.engine, env.engine.schema, "english")
-    env.enabled = moran.get_config_bool(env, "moran/english/word_creator/enable", true)
-    env.indicator = env.engine.schema.config:get_string("moran/english/word_creator/indicator") or "*"
-    env.trigger = env.engine.schema.config:get_string("moran/english/word_creator/trigger") or "/ad?d?"
+    env.enabled = moran.get_config_bool(env, "moran/english/add_word/enable", true)
+    env.indicator = env.engine.schema.config:get_string("moran/english/add_word/indicator") or "*"
+    env.trigger = env.engine.schema.config:get_string("moran/english/add_word/trigger") or "/ad?d?"
 end
 
 function WordCreator.fini(env)
@@ -163,8 +163,9 @@ local function make_candidate(env, input)
 end
 
 function WordCreator.func(t_input, env)
+    local iter = moran.iter_translation(t_input)
     if not env.enabled then
-        moran.yield_all(t_input:iter())
+        moran.yield_all(iter)
         return
     end
     local context = env.engine.context
@@ -172,7 +173,6 @@ function WordCreator.func(t_input, env)
     if composition:empty() then
         return
     end
-    local iter = moran.iter_translation(t_input)
     local iter = moran.make_peekable(iter)
     local input = context.input
     if iter:peek() == nil or input:match(env.trigger .. "$") then
@@ -191,7 +191,7 @@ end
 
 return {
     capitalizer_filter = Capitalizer,
-    word_creator_filter = WordCreator,
+    add_word_filter = WordCreator,
 }
 
 -- Local Variables:
