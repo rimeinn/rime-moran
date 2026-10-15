@@ -1,14 +1,17 @@
 -- moran_english.lua
 --
--- Version: 0.2.0
+-- Version: 0.3.0
 -- Author:  ksqsf
 -- License: GPLv3
 --
+-- 0.3.0: Added Translator to search user words using non-proper spelling.
 -- 0.2.0: Added WordCreator.  Renamed from moran_english_filter.lua.
 -- 0.1.1: Relax matching criteria.
 -- 0.1: Add.
 --
 -- This module contains the following components:
+--
+-- * Translator: query the original input and its lowercase spelling.
 --
 -- * Capitalizer: automatically fix the case of the output candidates
 --   to match the input.  For example, if you type "Monkey", and the
@@ -71,6 +74,43 @@ end
 -- | A fast check on the first byte of the string.
 local function not_filterable(s)
     return #s > 0 and s:byte(1) >= 128
+end
+
+-----------------------------------------------------------------------
+-- Translator
+-----------------------------------------------------------------------
+local Translator = {}
+
+function Translator.init(env)
+    env.translator = Component.Translator(env.engine, "", "table_translator@english")
+end
+
+function Translator.fini(env)
+    env.translator = nil
+    collectgarbage()
+end
+
+function Translator.func(input, seg, env)
+    local original = moran.make_peekable(moran.query_translation(env.translator, input, seg))
+    local lower = input:lower()
+    if lower == input then
+        moran.yield_all(original)
+        return
+    end
+    -- Case fold by querying lowercase.
+    local folded = moran.make_peekable(moran.query_translation(env.translator, lower, seg, function(c)
+        c.preedit = input
+        return c
+    end))
+    while original:peek() and folded:peek() do
+        if original:peek().quality >= folded:peek().quality then
+            yield(original())
+        else
+            yield(folded())
+        end
+    end
+    moran.yield_all(original)
+    moran.yield_all(folded)
 end
 
 -----------------------------------------------------------------------
@@ -149,7 +189,14 @@ end
 local WordCreator = {}
 
 function WordCreator.init(env)
-    env.memory = Memory(env.engine, env.engine.schema, "english")
+    -- 'english_add_word' must not enable user dict!  The trick here
+    -- is that table_translator@english also listens for commits and
+    -- hence user dict updates.  The point of this memory is just to
+    -- pass 'language' to that Memory.
+    --
+    -- If we do not disable user dict here, there will be TWO Memory
+    -- objects listening for deletion.
+    env.memory = Memory(env.engine, env.engine.schema, "english_add_word")
     env.enabled = moran.get_config_bool(env, "moran/english/add_word/enable", true)
     env.indicator = env.engine.schema.config:get_string("moran/english/add_word/indicator") or "*"
     env.trigger = env.engine.schema.config:get_string("moran/english/add_word/trigger") or "/ad?d?"
@@ -180,7 +227,7 @@ function WordCreator.func(t_input, env)
         local entry = DictEntry()
         entry.text = word
         entry.preedit = word
-        entry.custom_code = word .. " "
+        entry.custom_code = word:lower() .. " "
         entry.weight = -1e10         -- slightly below 0
         local phrase = Phrase(env.memory, "english", 0, #input, entry)
         phrase.comment = env.indicator
@@ -190,6 +237,7 @@ function WordCreator.func(t_input, env)
 end
 
 return {
+    translator = Translator,
     capitalizer_filter = Capitalizer,
     add_word_filter = WordCreator,
 }
