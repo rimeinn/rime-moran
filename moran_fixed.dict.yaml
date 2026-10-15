@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20261006"
+version: "20261013"
 sort: by_weight
 columns:
   - text
@@ -35352,6 +35352,7 @@ H盤	hpj
 長篇大論	ipdl
 蠢動	ipds
 純度	ipdu
+IP地址	ipdv
 春分	ipff
 春風	ipfg
 產品分類	ipfl
@@ -69546,6 +69547,7 @@ P站	pvj
 人民軍隊	rmjd
 人民解放	rmjf
 人民警察	rmji
+入門教程	rmji
 人民解放軍	rmjj
 容貌焦慮	rmjl
 人民教師	rmju
@@ -86281,7 +86283,7 @@ U盤	upj
 值得珍惜	vdvx
 中等專科學校	vdvx
 值得注意	vdvy
-直到我的膝蓋中了一箭	vdwj
+裝完	vdwj
 賺點外快	vdwk
 值得我們	vdwm
 制度文明	vdwm
@@ -92047,6 +92049,7 @@ U盤	upj
 我的想法	wdxf
 萬道霞光	wdxg
 我的膝蓋	wdxg
+我的膝蓋中了一箭	wdxj
 味道鮮美	wdxm
 無定形碳	wdxt
 爲點小事	wdxu
@@ -115218,125 +115221,6 @@ WiFi	wifi
 鐿	ocyb
 鋅	oczn
 鋯	oczr
-##for testing again
-# 䥑	Mt
-# 坨	Tl
-# 氖	Ne
-# 氙	Xe
-# 氟	F
-# 氡	Rn
-# 氦	He
-# 氧	O
-# 氪	Kr
-# 氫	H
-# 氬	Ar
-# 氮	N
-# 氯	Cl
-# 汞	Hg
-# 溴	Br
-# 砷	As
-# 砹	At
-# 硅	Si
-# 硒	Se
-# 硫	S
-# 硼	B
-# 碘	I
-# 碲	Te
-# 碳	C
-# 磷	P
-# 金	Au
-# 釓	Gd
-# 釔	Y
-# 釕	Ru
-# 釙	Po
-# 釤	Sm
-# 釩	V
-# 釷	Th
-# 釹	Nd
-# 鈀	Pd
-# 鈁	Fr
-# 鈇	Fl
-# 鈈	Pu
-# 鈉	Na
-# 鈣	Ca
-# 鈥	Ho
-# 鈦	Ti
-# 鈧	Sc
-# 鈮	Nb
-# 鈰	Ce
-# 鈷	Co
-# 鈹	Be
-# 鉀	K
-# 鉍	Bi
-# 鉑	Pt
-# 鉕	Pm
-# 鉛	Pb
-# 鉝	Lv
-# 鉨	Nh
-# 鉬	Mo
-# 鉭	Ta
-# 鉺	Er
-# 鉻	Cr
-# 鉿	Hf
-# 銀	Ag
-# 銅	Cu
-# 銠	Rh
-# 銣	Rb
-# 銥	Ir
-# 銦	In
-# 銩	Tm
-# 銪	Eu
-# 銫	Cs
-# 銻	Sb
-# 鋁	Al
-# 鋅	Zn
-# 鋇	Ba
-# 鋦	Cm
-# 鋨	Os
-# 鋯	Zr
-# 鋰	Li
-# 鋱	Tb
-# 錀	Rg
-# 錇	Bk
-# 錒	Ac
-# 錫	Sn
-# 錳	Mn
-# 錸	Re
-# 鍀	Te
-# 鍆	Md
-# 鍩	No
-# 鍶	Sr
-# 鍺	Ge
-# 鎂	Mg
-# 鎄	Es
-# 鎇	Am
-# 鎘	Cd
-# 鎢	W
-# 鎳	Ni
-# 鎵	Ga
-# 鎶	Cn
-# 鎿	Np
-# 鏌	Mc
-# 鏑	Dy
-# 鏷	Pa
-# 鐒	Lr
-# 鐠	Pr
-# 鐦	Cf
-# 鐨	Fm
-# 鐳	Ra
-# 鐵	Fe
-# 鐽	Ds
-# 鐿	Yb
-# 鑥	Lu
-# 鑪	Rf
-# 鑭	La
-# 铀	U
-# 鿫	Og
-# 鿬	Ts
-# 𨨏	Bh
-# 𨭆	Hs
-# 𨭎	Sg
-# 𬭊	Db
 
 # 開始飛鍵 xq -> xo
 罷休	baxo
@@ -116368,9 +116252,7 @@ WiFi	wifi
 按道理	adl
 暗地裏	adl
 奧地利	adl
-奧達曼	adm
 愛迪生	adu
-安釘子	adz
 阿爾法	aef
 愛爾蘭	ael
 阿爾泰	aet
@@ -117579,6 +117461,8 @@ CD機	cdj
 洞庭湖	dth
 大團結	dtj
 到頭來	dtl
+地圖炮	dtp
+當頭炮	dtp
 打頭炮	dtp
 大提琴	dtq
 帶頭人	dtr
@@ -119635,13 +119519,16 @@ git	git
 就這麼	jvm
 精製品	jvp
 截止日	jvr
-晶狀體	jvt
 腳趾頭	jvt
+晶狀體	jvt
 就直說	jvu
 簡直是	jvu
+截止至	jvv
+金鐘罩	jvv
+救助站	jvv
 居住證	jvv
-急轉彎	jvw
 建築物	jvw
+急轉彎	jvw
 就這些	jvx
 甲狀腺	jvx
 集裝箱	jvx

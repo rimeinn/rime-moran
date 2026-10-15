@@ -8,7 +8,7 @@
 
 ---
 name: moran.moe
-version: "20260923"
+version: "20261009"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -2407,7 +2407,6 @@ use_preset_vocabulary: false
 世界文	ui;ca jx;tj wf;wi
 世界是座魔方大厦	ui;ca jx;tj ui;op zo;gz mo;gm fh;wd da;ad ua;ix
 世界是我的	ui;ca jx;tj ui;op wo;pd de;bu
-世界最强暗杀者转生成异世界贵族	ui;ca jx;tj zv;oq qd;gs an;oy ua;mi ve;ol vr;iv ug;na ig;gg yi;cs ui;ca jx;tj gv;ba zu;fu
 世界最后之日	ui;ca jx;tj zv;oq hb;pk vi;dd ri;aa
 世界末日	ui;ca jx;tj mo;ad ri;aa
 世界末日俱乐部	ui;ca jx;tj mo;ad ri;aa ju;rj le;pd bu;ek
@@ -18177,58 +18176,6 @@ use_preset_vocabulary: false
 喜羊羊小顽皮	xi;uk yh;da yh;da xc;ad wj;yy pi;ad
 喜羊羊灰太狼之歌	xi;uk yh;da yh;da hv;hu tl;dd lh;ql vi;dd ge;qg
 喜羊羊与灰太狼	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql
-喜羊羊与灰太狼之兔年顶呱呱	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd tu;dd nm;ra dy;yd gw;kg gw;kg
-喜羊羊与灰太狼之勇闯四季城	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd ys;ly id;mm si;aa ji;hz ig;ti
-喜羊羊与灰太狼之原始世界历险记	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd yr;ix ui;nt ui;ca jx;tj li;il xm;ea ji;yj
-喜羊羊与灰太狼之原始新时代	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd yr;ix ui;nt xn;jq ui;oc dl;ry
-喜羊羊与灰太狼之古古怪界大作战	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd gu;uk gu;uk gy;xu jx;tj da;ad zo;rv vj;gv
-喜羊羊与灰太狼之名羊四海	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd my;xk yh;da si;aa hl;dm
-喜羊羊与灰太狼之喜气洋洋过蛇年	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd xi;uk qi;py yh;dy yh;dy go;zc ue;it nm;ra
-喜羊羊与灰太狼之喜气羊羊过蛇年	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd xi;uk qi;py yh;da yh;da go;zc ue;it nm;ra
-喜羊羊与灰太狼之喜羊羊游世博	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd xi;uk yh;da yh;da yb;dz ui;ca bo;uc
-喜羊羊与灰太狼之嘻哈闯世界	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd xi;kx ha;kh id;mm ui;ca jx;tj
-喜羊羊与灰太狼之天空大冒险	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd tm;ad ks;xg da;ad mk;oo xm;ea
-喜羊羊与灰太狼之奇妙大营救	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd qi;dk mc;nu da;ad yy;cl jq;wq
-喜羊羊与灰太狼之奇幻天空岛	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd qi;dk hr;yg tm;ad ks;xg dk;nu
-喜羊羊与灰太狼之奇幻音乐之旅	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd qi;dk hr;yg yn;lo yt;pd vi;dd lv;fp
-喜羊羊与灰太狼之奇思妙想喜羊羊	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd qi;dk si;xt mc;nu xd;xx xi;uk yh;da yh;da
-喜羊羊与灰太狼之奇趣外星客	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd qi;dk qu;zq wl;xb xy;ou ke;bg
-喜羊羊与灰太狼之妈妈乐疯狂	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd ma;nm ma;nm le;pd fg;bf kd;qw
-喜羊羊与灰太狼之懒羊羊当大厨	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd lj;xl yh;da yh;da dh;xx da;ad iu;ic
-喜羊羊与灰太狼之我爱灰太狼	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd wo;pd ai;vy hv;hu tl;dd lh;ql
-喜羊羊与灰太狼之智趣羊学堂	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd vi;ov qu;zq yh;da xt;zb th;tk
-喜羊羊与灰太狼之决战次时代	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd jt;dd vj;gv ci;dq ui;oc dl;ry
-喜羊羊与灰太狼之深海历险记	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd uf;dm hl;dm li;il xm;ea ji;yj
-喜羊羊与灰太狼之漫镜头	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd mj;dm jy;jj tb;dd
-喜羊羊与灰太狼之牛气冲天	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd nq;pa qi;py is;dv tm;ad
-喜羊羊与灰太狼之异国大营救	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd yi;cs go;ky da;ad yy;cl jq;wq
-喜羊羊与灰太狼之发明大作战	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd fa;ay my;oo da;ad zo;rv vj;gv
-喜羊羊与灰太狼之竞技大联盟	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd jy;lx ji;fv da;ad lm;eg mg;mm
-喜羊羊与灰太狼之筐出胜利	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd kd;vk iu;aa ug;ou li;hd
-喜羊羊与灰太狼之筐出未来	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd kd;vk iu;aa wz;ex ll;am
-喜羊羊与灰太狼之给快乐加油	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd gz;sh ky;xd le;pd jw;lk yb;dy
-喜羊羊与灰太狼之羊年喜羊羊	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd yh;da nm;ra xi;uk yh;da yh;da
-喜羊羊与灰太狼之羊村大崩坏	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd yh;da cp;mc da;ad bg;up hy;tb
-喜羊羊与灰太狼之羊村守护者	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd yh;da cp;mc ub;bc hu;fh ve;ol
-喜羊羊与灰太狼之羊羊小侦探	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd yh;da yh;da xc;ad vf;rv tj;fm
-喜羊羊与灰太狼之羊羊小心愿	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd yh;da yh;da xc;ad xn;dd yr;xy
-喜羊羊与灰太狼之羊羊快乐的一年	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd yh;da yh;da ky;xd le;pd de;bu yi;aa nm;ra
-喜羊羊与灰太狼之羊羊趣冒险	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd yh;da yh;da qu;zq mk;oo xm;ea
-喜羊羊与灰太狼之羊羊游世博	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd yh;da yh;da yb;dz ui;ca bo;uc
-喜羊羊与灰太狼之羊羊运动会	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd yh;da yh;da yp;zy ds;ly hv;ry
-喜羊羊与灰太狼之虎胆羊威	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd hu;hj dj;od yh;da wz;gn
-喜羊羊与灰太狼之虎胆羊威电影原声大碟	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd hu;hj dj;od yh;da wz;gn dm;ag yy;pj yr;ix ug;um da;ad dx;um
-喜羊羊与灰太狼之虎虎生威	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd hu;hj hu;hj ug;na wz;gn
-喜羊羊与灰太狼之虎虎生威电影原声大碟	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd hu;hj hu;hj ug;na wz;gn dm;ag yy;pj yr;ix ug;um da;ad dx;um
-喜羊羊与灰太狼之衣橱大冒险	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd yi;dd iu;mi da;ad mk;oo xm;ea
-喜羊羊与灰太狼之跨时空救兵	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd kw;zk ui;oc ks;xg jq;wq by;qb
-喜羊羊与灰太狼之运动英雄传	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd yp;zy ds;ly yy;cy xs;vh ir;rv
-喜羊羊与灰太狼之运动英雄传筐出胜利	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd yp;zy ds;ly yy;cy xs;vh ir;rv kd;vk iu;aa ug;ou li;hd
-喜羊羊与灰太狼之遨游神秘洋	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd ao;za yb;dz uf;uu mi;hb yh;dy
-喜羊羊与灰太狼之开心方程式	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd kl;ac xn;dd fh;wd ig;hi ui;gy
-喜羊羊与灰太狼之开心日记	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd kl;ac xn;dd ri;aa ji;yj
-喜羊羊与灰太狼之开心闯龙年	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd kl;ac xn;dd id;mm ls;ad nm;ra
-喜羊羊与灰太狼之飞马奇遇记	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd fz;yd ma;aa qi;dk yu;zy ji;yj
 喜羊羊与灰太狼大电影	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql da;ad dm;ag yy;pj
 喜羊羊游世博	xi;uk yh;da yh;da yb;dz ui;ca bo;uc
 喜翠庄	xi;uk cv;yz vd;gt
@@ -90416,27 +90363,17 @@ use_preset_vocabulary: false
 转换接触	vr;iv hr;fh jx;fq iu;ji
 转校前夜	vr;iv xc;mj qm;qd ye;wd
 转校生	vr;iv xc;mj ug;na
-转校生美少女竟是我曾经认为是男孩子的青梅竹马	vr;iv xc;mj ug;na mz;dy uk;xp nv;aa jy;le ui;op wo;pd cg;ob jy;sg rf;yr wz;dd ui;op nj;tl hl;zh zi;aa de;bu qy;of mz;mm vu;gg ma;aa
 转生	vr;iv ug;na
 转生七王子的魔法全解	vr;iv ug;na qi;ag wh;aa zi;aa de;bu mo;gm fa;dq qr;rw jx;jn
 转生之阵	vr;iv ug;na vi;dd vf;ei
 转生公主	vr;iv ug;na gs;sb vu;dw
 转生公主与天才千金的魔法革命	vr;iv ug;na gs;sb vu;dw yu;aa tm;ad cl;ap qm;pa jn;ra de;bu mo;gm fa;dq ge;ca my;re
-转生前是男的所以逆后宫容我拒绝	vr;iv ug;na qm;qd ui;op nj;tl de;bu so;hj yi;rd ni;zn hb;pk gs;bl rs;bg wo;pd ju;fj jt;ss
 转生史莱	vr;iv ug;na ui;ki ll;cl
 转生史莱姆	vr;iv ug;na ui;ki ll;cl mu;nm
 转生史莱姆日记	vr;iv ug;na ui;ki ll;cl mu;nm ri;aa ji;yj
-转生吸血鬼桑想要午睡一下	vr;iv ug;na xi;kj xt;pa gv;pd sh;mr xd;xx yk;xn wu;ru uv;oi yi;aa xw;ab
 转生就是剑	vr;iv ug;na jq;yj ui;op jm;da
 转生恶女的黑历史	vr;iv ug;na ee;xy nv;aa de;bu hz;ha li;il ui;ki
 转生恶役	vr;iv ug;na ee;xy yi;xu
-转生恶役千金玛丽安托瓦内特	vr;iv ug;na ee;xy yi;xu qm;pa jn;ra ma;wm li;ad an;bn to;fq wa;ad nz;ad te;ns
-转生恶役只好拔除破灭旗帜	vr;iv ug;na ee;xy yi;xu vi;kb hk;nz ba;fb iu;ey po;up mx;ah qi;fq vi;jv
-转生恶役只好拔除破灭旗标	vr;iv ug;na ee;xy yi;xu vi;kb hk;nz ba;fb iu;ey po;up mx;ah qi;fq bc;mu
-转生成了少女漫里的白豚千金	vr;iv ug;na ig;gg le;aa uk;xp nv;aa mj;dm li;aa de;bu bl;pa tp;ou qm;pa jn;ra
-转生成为魔剑	vr;iv ug;na ig;gg wz;dd mo;gm jm;da
-转生成为魔剑了	vr;iv ug;na ig;gg wz;dd mo;gm jm;da le;aa
-转生成自动贩卖机的我今天也在迷宫徘徊	vr;iv ug;na ig;gg zi;pa ds;ly fj;bf ml;um ji;mj de;bu wo;pd jn;ra tm;ad ye;gg zl;ut mi;zm gs;bl pl;xf hy;xh
 转生成蜘蛛又怎样	vr;iv ug;na ig;gg vi;iv vu;iv yb;vd zf;xv yh;my
 转生断绝	vr;iv ug;na dr;ja jt;ss
 转生升天抄	vr;iv ug;na ug;pc tm;ad ik;fu
@@ -90448,7 +90385,6 @@ use_preset_vocabulary: false
 转生炎兽的圣域	vr;iv ug;na yj;hh ub;ka de;bu ug;ty yu;th
 转生炎兽的赠礼	vr;iv ug;na yj;hh ub;ka de;bu zg;bc li;ug
 转生炎兽的降临	vr;iv ug;na yj;hh ub;ka de;bu jd;ef ln;ao
-转生为娇弱千金的弑神武人华丽无双录	vr;iv ug;na wz;dd jc;nq ro;gd qm;pa jn;ra de;bu ui;uu uf;uu wu;vy rf;pd hw;uh li;ad wu;ag ud;yy lu;au
 转生王女	vr;iv ug;na wh;aa nv;aa
 转生王女和天才千金的魔法革命	vr;iv ug;na wh;aa nv;aa he;hk tm;ad cl;ap qm;pa jn;ra de;bu mo;gm fa;dq ge;ca my;re
 转生王女与天才千金的魔法革命	vr;iv ug;na wh;aa nv;aa yu;aa tm;ad cl;ap qm;pa jn;ra de;bu mo;gm fa;dq ge;ca my;re
@@ -106985,7 +106921,6 @@ use_preset_vocabulary: false
 开心超人之时空营救	kl;ac xn;dd ik;zv rf;pd vi;dd ui;oc ks;xg yy;cl jq;wq
 水槽上的秋千	uv;ad ck;mc uh;aa de;bu qq;hh qm;pa
 耳鸣蝉	er;aa my;kn ij;id
-喜羊羊与灰太狼之异国破晓	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd yi;cs go;ky po;up xc;oy
 水上步梦	uv;ad uh;aa bu;vx mg;mx
 凶饿猛毒	xs;ik ee;uw mg;qm du;fm
 白玉莉子	bl;pa yu;wd li;cl zi;aa
@@ -109313,7 +109248,6 @@ use_preset_vocabulary: false
 藤山	tg;ct uj;aa
 追忆旋转木马	vv;zv yi;xy xr;fp vr;iv mu;ad ma;aa
 音理	yn;lo li;wl
-喜羊羊与灰太狼之心世界奇遇	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd xn;dd ui;ca jx;tj qi;dk yu;zy
 铁屑稻草人	tx;ju xx;ux dk;hj ck;cz rf;pd
 红魔姬	hs;sg mo;gm ji;ni
 闵妃	mn;mw fz;nj
@@ -116581,7 +116515,6 @@ use_preset_vocabulary: false
 佐奈树文明	zo;rz nl;du uu;md wf;wi my;oo
 太空埃列什基伽勒	tl;dd ks;xg ai;tu lx;dd uf;ru ji;tq ga;rj lz;lg
 棍记	gp;mk ji;yj
-转生成小小妖精	vr;iv ug;na ig;gg xc;ad xc;ad yk;ny jy;mq
 安川正吾	an;bn ir;pa vg;av wu;kw
 时光的灵摆读阵	ui;oc gd;ea de;bu ly;hx bl;fb du;ym vf;ei
 十手卫	ui;aa ub;pa wz;ga
@@ -116620,7 +116553,6 @@ use_preset_vocabulary: false
 魔优	mo;gm yb;ry
 青春紧急事件	qy;of ip;of jn;sy ji;xi ui;aa jm;rn
 我们都在用力地活着	wo;pd mf;rm db;ev zl;ut ys;kf li;gp di;ty ho;du ve;yo
-喜羊羊与灰太狼之奇侠大营救	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd qi;dk xw;rj da;ad yy;cl jq;wq
 执着列车	vi;fw vo;yo lx;dd ie;aa
 拉蒙萨拉札	la;fl mg;cm sa;ci la;fl va;mg
 戴荃	dl;gg qr;cq
@@ -117531,7 +117463,6 @@ use_preset_vocabulary: false
 川原和久	ir;pa yr;ix he;hk jq;pd
 三省	sj;aa ug;ou
 炎尾龙	yj;hh wz;um ls;ad
-喜羊羊与灰太狼之狂野新宇宙	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd kd;qw ye;ly xn;jq yu;by vb;by
 骆驼刺	lo;mg to;mt ci;dc
 乔迪	qc;ya di;zy
 唱明者	ih;ki my;oo ve;ol
@@ -119134,7 +119065,6 @@ use_preset_vocabulary: false
 向星星祈祷	xd;pk xy;ou xy;ou qi;uj dk;uu
 海龙种	hl;dm ls;ad vs;hv
 吃了就会死	ii;kq le;aa jq;yj hv;ry si;db
-转生成勇者的青梅竹马这职业的败北女角决定转职成调剂师了哦	vr;iv ug;na ig;gg ys;ly ve;ol de;bu qy;of mz;mm vu;gg ma;aa ve;zw vi;ev ye;aa de;bu bl;wb bz;ag nv;aa jc;dy jt;dd dy;bp vr;iv vi;ev ig;gg tc;yv ji;dq ui;ab le;aa oo;kw
 寄愿于乐	ji;bq yr;xy yu;aa le;pd
 抛向天空	pk;fl xd;pk tm;ad ks;xg
 那什么贝多芬时代	na;el uf;ru me;ps bz;ad do;xx ff;cf ui;oc dl;ry
@@ -119372,7 +119302,6 @@ use_preset_vocabulary: false
 向峠和喜	xd;pk qw;ux he;hk xi;uk
 注射	vu;dv ue;cu
 极具自我色彩的回复	ji;mj ju;ba zi;pa wo;pd se;db cl;pc de;bu da;kk fu;wo
-土气又不起眼的我从今天起就要结束了	tu;aa qi;py yb;vd bu;ad qi;zj yj;og de;bu wo;pd cs;rr jn;ra tm;ad qi;zj jq;yj yk;xn jx;sj uu;ad le;aa
 一切以结算为准	yi;aa qx;dq yi;rd jx;sj sr;vc wz;dd vp;dv
 蝴蝶谷	hu;ih dx;im gu;bk
 八城几子	ba;pd ig;ti ji;py zi;aa
@@ -120007,7 +119936,6 @@ use_preset_vocabulary: false
 寻找伪人	xp;cx vk;fg wz;rw rf;pd
 璧水金睛兽	bi;yb uv;ad jn;ra jy;oq ub;ka
 樱井美代	yy;my jy;aa mz;dy dl;ry
-衣衫褴褛的大小姐受到姐姐前未婚夫的宠爱	yi;dd uj;yp lj;yj lv;yl de;bu da;ad xc;ad jx;nq ub;vy dk;dv jx;nq jx;nq qm;qd wz;ex hp;nh fu;ad de;bu is;bl ai;vy
 真实夜琦	vf;uj ui;bt ye;wd qi;wq
 百眼魔君	bl;ab yj;og mo;gm jp;ky
 黄金的彼方	hd;cb jn;ra de;bu bi;xp fh;wd
@@ -120025,7 +119953,6 @@ use_preset_vocabulary: false
 噬恋少女	ui;ku lm;xy uk;xp nv;aa
 孙柏甫	sp;zx bo;mb fu;ad
 万缕千丝	wj;ag lv;sl qm;pa si;aa
-和沉默寡言的我深夜通话的是班上最漂亮的优等生	he;hk if;dj mo;hq gw;bf yj;wk de;bu wo;pd uf;dm ye;wd ts;zy hw;yu de;bu ui;op bj;dw uh;aa zv;oq pc;dp ld;wj de;bu yb;ry dg;vs ug;na
 高比	gk;wk bi;bb
 萝洁	lo;cl jx;dj
 明光院艺津	my;oo gd;ea yr;ew yi;cy jn;dy
@@ -120581,7 +120508,6 @@ use_preset_vocabulary: false
 在寅时蒸发的阵雨	zl;ut yn;bb ui;oc vg;hv fa;ay de;bu vf;ei yu;ad
 战术人形机甲	vj;gv uu;md rf;pd xy;pk ji;mj jw;aa
 东云胧	ds;ad yp;es ls;ol
-我做了一款有僵尸的游戏	wo;pd zo;rg le;aa yi;aa kr;qu yb;ou jd;rj ui;ap de;bu yb;dz xi;yg
 愿梦想绽放一生	yr;xy mg;mx xd;xx vj;sd fh;wf yi;aa ug;na
 凛御银灰	ln;db yu;xx yn;jg hv;hu
 香格里拉边境	xd;ho ge;mg li;aa la;fl bm;zl jy;tj
@@ -121248,7 +121174,6 @@ use_preset_vocabulary: false
 定个小目标	dy;bp ge;ra xc;ad mu;aa bc;mu
 兹白	zi;qy bl;pa
 风牙	fg;ji ya;ap
-我这渣滓一样的人生肯定全部都是狸猫的错	wo;pd ve;zw va;di zi;dz yi;aa yh;my de;bu rf;pd ug;na kf;ov dy;bp qr;rw bu;ek db;ev ui;op li;ql mk;qm de;bu co;jx
 寒热潮	hj;bd re;hv ik;di
 山吹丽	uj;aa iv;kq li;ad
 让我们说中文	rh;yu wo;pd mf;rm uo;yd vs;aa wf;wi
@@ -121511,7 +121436,6 @@ use_preset_vocabulary: false
 马场兰子	ma;aa ih;ty lj;qe zi;aa
 莉兹蓓特冯路斯特布鲁格	li;cl zi;qy bz;cb te;ns fg;dm lu;zg si;jq te;ns bu;ju lu;yo ge;mg
 柴圆圆	il;mc yr;ky yr;ky
-喜羊羊与灰太狼之古古怪界有古怪	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd gu;uk gu;uk gy;xu jx;tj yb;ou gu;uk gy;xu
 西格德斯蒂比约恩森	xi;aa ge;mg de;xx si;jq di;cd bi;bb yt;su en;xy sf;ml
 樱花绽放未来恋爱梦	yy;my hw;ch vj;sd fh;wf wz;ex ll;am lm;xy ai;vy mg;mx
 陆奥驹絽	lu;ej ao;dm ju;mj lv;sl
@@ -122688,7 +122612,6 @@ use_preset_vocabulary: false
 历尽千山万水	li;il jn;id qm;pa uj;aa wj;ag ui;ad
 格拉姆纳特的炼金术士	ge;mg la;fl mu;nm na;sn te;ns de;bu lm;hd jn;ra uu;md ui;aa
 假面的约定	jw;rj mm;aa de;bu yt;su dy;bp
-与其实是里账号者的邻座美少女二人独处的放学后	yu;aa qi;ba ui;bt ui;op li;aa vh;bi hk;kk ve;ol de;bu ln;el zo;gz mz;dy uk;xp nv;aa er;aa rf;pd du;qi iu;wb de;bu fh;wf xt;zb hb;pk
 亚兰德的炼金术士	ya;ay lj;qe de;xx de;bu lm;hd jn;ra uu;md ui;aa
 到了	dk;dv le;aa
 坐在联谊会角落的他是个肉食系	zo;tc zl;ut lm;eg yi;yy hv;ry jc;dy lo;cl de;bu ta;ry ui;op ge;ra rb;ad ui;rl xi;ps
@@ -122701,8 +122624,6 @@ use_preset_vocabulary: false
 太喜欢你了	tl;dd xi;uk hr;qy ni;re le;aa
 亡国的征服者	wh;da go;ky de;bu vg;xv fu;oy ve;ol
 那个魔物我就美美地享用了	na;el ge;ra mo;gm wu;nw wo;pd jq;yj mz;dy mz;dy di;ty xd;wz ys;kf le;aa
-转生成了薄志弱行的伯爵夫人	vr;iv ug;na ig;gg le;aa bk;cc vi;xu ro;gd xy;xi de;bu bo;rb jt;vc fu;ad rf;pd
-轻浮男消防员用笔直的目光抱住了我	qy;ig fu;df nj;tl xc;dx fh;ef yr;kb ys;kf bi;vm vi;uq de;bu mu;aa gd;ea bk;fb vu;rv le;aa wo;pd
 你到底在哪里啊	ni;re dk;dv di;gd zl;ut na;kn li;aa aa;ka
 组合技型亮相舞台	zu;sq he;rk ji;fv xy;tx ld;wj xd;mo wu;rf tl;sk
 最近出现的义理的弟弟太过亲密了	zv;oq jn;zj iu;aa xm;wj de;bu yi;id li;wl de;bu di;bp di;bp tl;dd go;zc qn;lm mi;ub le;aa
@@ -124974,7 +124895,6 @@ use_preset_vocabulary: false
 叶玄澈	ye;ku xr;wy ie;dw
 电梯小姐	dm;ag ti;md xc;ad jx;nq
 虫惑之诱	is;ad ho;xh vi;dd yb;yx
-喜羊羊与灰太狼之破界山海诀	xi;uk yh;da yh;da yu;aa hv;hu tl;dd lh;ql vi;dd po;up jx;tj uj;aa hl;dm jt;yd
 洛瑟菈	lo;dg se;wb la;cl
 天穹的碎片	tm;ad qs;xg de;bu sv;uz pm;pa
 梦与现实的故事	mg;mx yu;aa xm;wj ui;bt de;bu gu;wg ui;aa

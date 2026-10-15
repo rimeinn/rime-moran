@@ -10,7 +10,7 @@
 
 ---
 name: moran.base
-version: "20261005"
+version: "20261014"
 sort: by_weight
 columns:
   - text
@@ -148756,6 +148756,7 @@ columns:
 欠缺	qm;dr qt;fd	2394
 欠缺着	qm;dr qt;fd ve;yo	1
 欠肚儿亲家	qm;dr du;ot er;pg qy;lm jw;bu	0
+欠肚儿亲家	qm;dr du;ot er;pg qn;lm jw;bu	0
 欠薪	qm;dr xn;cx	353
 欠费	qm;dr fz;bf	345
 欠资	qm;dr zi;bc	1
@@ -235477,6 +235478,12 @@ columns:
 亲家礼道	qy;lm jw;bu li;ug dk;zu	0
 亲家翁	qy;lm jw;bu wg;yg	1
 亲家老爷	qy;lm jw;bu lk;lb ye;fe	0
+亲家	qn;lm jw;bu	210
+亲家公	qn;lm jw;bu gs;sb	9
+亲家母	qn;lm jw;bu mu;vd	13
+亲家礼道	qn;lm jw;bu li;ug dk;zu	0
+亲家翁	qn;lm jw;bu wg;yg	1
+亲家老爷	qn;lm jw;bu lk;lb ye;fe	0
 亲密	qn;lm mi;ub	1930
 亲密性	qn;lm mi;ub xy;xu	85
 亲密接触	qn;lm mi;ub jx;fq iu;ji	430
@@ -310158,6 +310165,7 @@ columns:
 儿娃子	er;pg wa;ng zi;aa	1
 儿科医院	er;pg ke;hd yi;ku yr;ew	28
 儿女亲家	er;pg nv;aa qy;lm jw;bu	44
+儿女亲家	er;pg nv;aa qn;lm jw;bu	44
 儿童公园	er;pg ts;ll gs;sb yr;ky	6
 儿童护理	er;pg ts;ll hu;fh li;wl	1
 儿童咳液	er;pg ts;ll ke;kh ye;dy	2
@@ -562798,6 +562806,7 @@ columns:
 蜻蜓眼	qy;iq ty;it yj;og	4
 蜻蜒点水	qy;iq yj;iy dm;hv uv;ad	1
 亲家见面	qy;lm jw;bu jm;ag mm;aa	2
+亲家见面	qn;lm jw;bu jm;ag mm;aa	2
 卿本佳人	qy;mg bf;aa jw;rg rf;pd	19
 卿卿我心	qy;mg qy;mg wo;pd xn;dd	1
 青布	qy;of bu;ju	10
@@ -655547,6 +655556,7 @@ columns:
 冤鬼路	yr;bt gv;pd lu;zg	1
 冤枉了	yr;bt wh;mw le;aa	145
 冤家亲家	yr;bt jw;bu qy;lm jw;bu	1
+冤家亲家	yr;bt jw;bu qn;lm jw;bu	1
 冤家债主	yr;bt jw;bu vl;rz vu;dw	1
 冤枉了你	yr;bt wh;mw le;aa ni;re	6
 冤仇可解不可结	yr;bt ib;rj ke;dk jx;jn bu;ad ke;dk jx;sj	1
@@ -659554,7 +659564,6 @@ columns:
 浴罩	yu;dg vk;sv	1
 浴液	yu;dg ye;dy	36
 浴足	yu;dg zu;kv	13
-浴德池	yu;dg de;xx ii;dy	1
 浴缸里	yu;dg gh;fg li;aa	227
 浴室镜	yu;dg ui;bv jy;jj	13
 浴室里	yu;dg ui;bv li;aa	141
@@ -792033,6 +792042,7 @@ columns:
 皆为利往	jx;bb wz;dd li;hd wh;xv	73
 结为秦晋	jx;sj wz;dd qn;hf jn;oy	1
 结为亲家	jx;sj wz;dd qy;lm jw;bu	5
+结为亲家	jx;sj wz;dd qn;lm jw;bu	5
 结尾时	jx;sj wz;um ui;oc	233
 皆为信仰	jx;bb wz;dd xn;ry yh;re	2
 皆为序章	jx;bb wz;dd xu;gy vh;lz	63
@@ -816633,6 +816643,7 @@ columns:
 踉跄了一下	ld;zl qd;zc le;aa yi;aa xw;ab	19
 良禽择木而栖	ld;dg qn;rl ze;ff mu;ad er;aa qi;mx	37
 两亲家	ld;ad qy;lm jw;bu	0
+两亲家	ld;ad qn;lm jw;bu	0
 两情若是长久时	ld;ad qy;xq ro;cy ui;op ih;pd jq;pd ui;oc	7
 两球落后	ld;ad qq;wq lo;cl hb;pk	31
 两驱车	ld;ad qu;mq ie;aa	10
@@ -915242,6 +915253,7 @@ columns:
 未来旅行	wz;ex ll;am lv;fp xy;xi	0
 未来七年	wz;ex ll;am qi;ag nm;ra	4
 未来亲家	wz;ex ll;am qy;lm jw;bu	1
+未来亲家	wz;ex ll;am qn;lm jw;bu	1
 未来三年	wz;ex ll;am sj;aa nm;ra	258
 未来闪影	wz;ex ll;am uj;mr yy;pj	1
 未来什么样	wz;ex ll;am uf;ru me;ps yh;my	7
@@ -1000516,6 +1000528,7 @@ columns:
 左前车门	zo;ug qm;qd ie;aa mf;dg	2
 左前降支	zo;ug qm;qd jd;ef vi;uy	4
 做亲家	zo;rg qy;lm jw;bu	1
+做亲家	zo;rg qn;lm jw;bu	1
 做区分	zo;rg qu;ki ff;bd	105
 做诠释	zo;rg qr;yq ui;pf	4
 做圈套	zo;rg qr;kj tk;di	0
