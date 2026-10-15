@@ -156,6 +156,7 @@ function WordCreator.init(env)
 end
 
 function WordCreator.fini(env)
+    env.memory:disconnect()
 end
 
 local function make_candidate(env, input)
