@@ -6,6 +6,13 @@ script: |
     print('Right = ' .. tostring(right))
     return left == right
   end
+  function count_text(text)
+    local count = 0
+    for _, c in ipairs(cand) do
+      if c.text == text then count = count + 1 end
+    end
+    return count
+  end
 
 deploy:
   default:
@@ -295,6 +302,20 @@ deploy:
         assert: eq(cand[1].text, 'Hello')
       - send: 'nihkHello/a'
         assert: eq(cand[1].comment, '*')
+      - send: 'RecABC/a recabc'
+        assert: eq(cand[1].text, 'RecABC') and eq(count_text('RecABC'), 1)
+      - send: 'RecABC'
+        assert: eq(#cand, 1) and eq(cand[1].text, 'RecABC')
+      - send: 'recab'
+        assert: eq(cand[1].text, 'RecABC')
+      - send: 'RecAB'
+        assert: eq(cand[1].text, 'RecABC') and eq(preedit, 'RecAB')
+      - send: 'CaseDeleteFoo/a CaseDeleteBar/a casedelete{Control+k}'
+        assert: eq(cand[1].text, 'CaseDeleteFoo') and eq(count_text('CaseDeleteBar'), 0)
+      - send: 'CaseDelete'
+        assert: eq(#cand, 1) and eq(cand[1].text, 'CaseDeleteFoo')
+      - send: 'CaseDelete{Control+k}{Escape}casedelete'
+        assert: eq(count_text('CaseDeleteFoo'), 0) and eq(count_text('CaseDeleteBar'), 0)
   english_enable_add_word:
     patch:
       moran/english/add_word/enable: true
