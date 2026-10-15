@@ -6,7 +6,7 @@
 
 ---
 name: moran_english
-version: "20260921"
+version: "20261015"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -48430,6 +48430,7 @@ Bloomfield	Bloomfield
 Bloomington	Bloomington
 Bloomsbury	Bloomsbury
 Bluebeard	Bluebeard
+Bluesky	Bluesky
 Blum	Blum
 Boabdil	Boabdil
 Boadicea	Boadicea
@@ -50715,6 +50716,8 @@ GDPR	GDPR
 GFM	GFM
 GFW	GFW
 GIF	GIF
+GIMP	GIMP
+GLM	GLM
 GMT	GMT
 GNOME	GNOME
 GNU	GNU
@@ -51744,6 +51747,7 @@ ICMP	ICMP
 ICP	ICP
 ICSH	ICSH
 IDA	IDA
+IDA Pro	IDAPro
 IDE	IDE
 IDEA Community	IDEACommunity
 IDEA Ultimate	IDEAUltimate
@@ -51861,6 +51865,7 @@ Ingres	Ingres
 Inhambane	Inhambane
 Injun	Injun
 Inkerman	Inkerman
+Inkscape Inkscape
 Inn	Inn
 Innsbruck	Innsbruck
 Instacast	Instacast
@@ -54118,6 +54123,7 @@ Nuristan	Nuristan
 Nurmi	Nurmi
 Nusku	Nusku
 Nut	Nut
+Nvidia	Nvidia
 Nvim	Nvim
 Nyasaland	Nyasaland
 Nyaya	Nyaya
