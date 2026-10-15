@@ -69,7 +69,6 @@ engine:
     - lua_translator@*moran_number         # 數字轉大寫, 大寫S引導, 如 S123
     - lua_translator@*moran_unicode        # Unicode輸入, 大寫U引導, 如 U9b54
     - lua_translator@*moran_pin*panacea_translator
-    - lua_translator@*moran_english*word_creator_translator
   filters:
     - lua_filter@*moran_hint_filter@auxfilter
     - lua_filter@*moran_charset_filter
@@ -87,6 +86,7 @@ engine:
     - lua_filter@*moran_charset_comment_filter  # Unicode 區位提示
     - lua_filter@*moran_unicode_display_filter  # Unicode 編碼提示
     - lua_filter@*moran_english*capitalizer_filter
+    - lua_translator@*moran_english*word_creator_filter
     - uniquifier
 
 speller:
