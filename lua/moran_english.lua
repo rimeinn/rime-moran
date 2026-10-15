@@ -150,32 +150,48 @@ local WordCreator = {}
 
 function WordCreator.init(env)
     env.memory = Memory(env.engine, env.engine.schema, "english")
-    env.enabled = moran.get_config_bool(env, "moran/english/word_creator/enable", true)
-    env.indicator = env.engine.schema.config:get_string("moran/english/word_creator/indicator") or "*"
+    env.enabled = moran.get_config_bool(env, "moran/english/add_word/enable", true)
+    env.indicator = env.engine.schema.config:get_string("moran/english/add_word/indicator") or "*"
+    env.trigger = env.engine.schema.config:get_string("moran/english/add_word/trigger") or "/ad?d?"
 end
 
 function WordCreator.fini(env)
 end
 
-function WordCreator.func(input, seg, env)
-    local len = #input
-    if not env.enabled or len == 0 or not seg:has_tag("english") then
+local function make_candidate(env, input)
+    return cand:toCandidate()
+end
+
+function WordCreator.func(t_input, env)
+    local iter = moran.iter_translation(t_input)
+    if not env.enabled then
+        moran.yield_all(iter)
         return
     end
-
-    local entry = DictEntry()
-    entry.text = input
-    entry.preedit = input
-    entry.custom_code = input .. " "
-    entry.weight = -1e10         -- slightly below 0
-    local cand = Phrase(env.memory, "english", seg.start, seg._end, entry)
-    cand.comment = "*"
-    yield(cand:toCandidate())
+    local context = env.engine.context
+    local composition = context.composition
+    if composition:empty() then
+        return
+    end
+    local iter = moran.make_peekable(iter)
+    local input = context.input
+    if iter:peek() == nil or input:match(env.trigger .. "$") then
+        local word = input:gsub(env.trigger .. "$", "", 1)
+        local entry = DictEntry()
+        entry.text = word
+        entry.preedit = word
+        entry.custom_code = word .. " "
+        entry.weight = -1e10         -- slightly below 0
+        local phrase = Phrase(env.memory, "english", 0, #input, entry)
+        phrase.comment = env.indicator
+        yield(phrase:toCandidate())
+    end
+    moran.yield_all(iter)
 end
 
 return {
     capitalizer_filter = Capitalizer,
-    word_creator_translator = WordCreator,
+    add_word_filter = WordCreator,
 }
 
 -- Local Variables:

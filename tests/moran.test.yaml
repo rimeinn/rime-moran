@@ -171,7 +171,7 @@ deploy:
 
   pin:
     patch:
-      moran/english/word_creator/enable: false
+      moran/english/add_word/enable: false
     options:
       emoji: false
     tests:
@@ -232,7 +232,7 @@ deploy:
 
   steal_auxcode:
     patch:
-      moran/english/word_creator/enable: false
+      moran/english/add_word/enable: false
       smart/max_sentences: 1
     tests:
       - send: 'mzfadsl2'
@@ -289,18 +289,28 @@ deploy:
         assert: eq(cand[1].text, 'u')
       - send: 'ArchL'
         assert: eq(cand[1].text, 'Arch Linux')
-      - send: 'ExcalidrawTest'
+      - send: 'nihkHello '
+        assert: eq(cand[1].text, 'Hello')
+      - send: 'nihkHello/a'
         assert: eq(cand[1].comment, '*')
+  english_enable_add_word:
+    patch:
+      moran/english/add_word/enable: true
+      moran/english/add_word/indicator: "➕"
+      moran/english/add_word/trigger: "JC"
+    tests:
       - send: 'ExcalidrawTest Excalidra'
         assert: eq(cand[1].text, 'ExcalidrawTest')
+      - send: 'nihkHelloJC'
+        assert: eq(cand[1].comment, "➕") and eq(cand[1].text, "nihkHello")
+      - send: 'nihkHello/a'
+        assert: cand[1].text ~= "nihkHello"
   english_disable_add_word:
     patch:
-      moran/english/word_creator/enable: false
+      moran/english/add_word/enable: false
     tests:
       - send: 'ExcalidrawTest'
         assert: eq(#cand, 0)
-      - send: 'nihkHello '
-        assert: eq(cand[1].text, 'Hello')
 
   shorthands:
     patch:
