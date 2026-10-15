@@ -171,8 +171,9 @@ function WordCreator.func(t_input, env)
         return
     end
     local iter = moran.make_peekable(iter)
+    local peek = iter:peek()
     local input = context.input
-    if iter:peek() == nil or input:match(env.trigger .. "$") then
+    if not peek or input:match(env.trigger .. "$") and peek.type ~= "punct" then
         local word = input:gsub(env.trigger .. "$", "", 1)
         local entry = DictEntry()
         entry.text = word
