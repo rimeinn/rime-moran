@@ -86,7 +86,7 @@ engine:
     - lua_filter@*moran_charset_comment_filter  # Unicode 區位提示
     - lua_filter@*moran_unicode_display_filter  # Unicode 編碼提示
     - lua_filter@*moran_english*capitalizer_filter
-    - lua_translator@*moran_english*word_creator_filter
+    - lua_translator@*moran_english*add_word_filter
     - uniquifier
 
 speller:
@@ -424,7 +424,7 @@ moran:
   # 英語混輸相關設置
   english:
     # 添加英文用戶詞
-    word_creator:
+    add_word:
       enable: false
       indicator: "*"
 

@@ -109,7 +109,7 @@ engine:
     - lua_filter@*moran_charset_comment_filter  # Unicode 區位提示
     - lua_filter@*moran_unicode_display_filter  # Unicode 編碼提示
     - lua_filter@*moran_english*capitalizer_filter
-    - lua_filter@*moran_english*word_creator_filter
+    - lua_filter@*moran_english*add_word_filter
     - uniquifier
 
 navigator:
@@ -488,7 +488,7 @@ moran:
   # 英語混輸相關設置
   english:
     # 新詞將攜帶 indicator 標記，上屏後會添加到用戶詞庫中。
-    word_creator:
+    add_word:
       enable: true
       indicator: "*"     # comment
       trigger: "/ad?d?"
