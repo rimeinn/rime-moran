@@ -303,6 +303,10 @@ deploy:
     tests:
       - send: 'ExcalidrawTest Excalidra'
         assert: eq(cand[1].text, 'ExcalidrawTest')
+      - send: 'AXYZFoo1AXYZBar1AXYZ'
+        assert: eq(cand[1].text, 'AXYZBar') and eq(cand[2].text, 'AXYZFoo')
+      - send: 'AXYZFoo1AXYZBar1AXYZ{Control+k}'
+        assert: eq(cand[1].text, 'AXYZFoo')
       - send: 'nihkHelloJC'
         assert: eq(cand[1].comment, "➕") and eq(cand[1].text, "nihkHello")
       - send: 'nihkHello/a'

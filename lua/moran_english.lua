@@ -149,7 +149,14 @@ end
 local WordCreator = {}
 
 function WordCreator.init(env)
-    env.memory = Memory(env.engine, env.engine.schema, "english")
+    -- 'english_add_word' must not enable user dict!  The trick here
+    -- is that table_translator@english also listens for commits and
+    -- hence user dict updates.  The point of this memory is just to
+    -- pass 'language' to that Memory.
+    --
+    -- If we do not disable user dict here, there will be TWO Memory
+    -- objects listening for deletion.
+    env.memory = Memory(env.engine, env.engine.schema, "english_add_word")
     env.enabled = moran.get_config_bool(env, "moran/english/add_word/enable", true)
     env.indicator = env.engine.schema.config:get_string("moran/english/add_word/indicator") or "*"
     env.trigger = env.engine.schema.config:get_string("moran/english/add_word/trigger") or "/ad?d?"

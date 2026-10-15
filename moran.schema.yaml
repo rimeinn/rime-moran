@@ -172,6 +172,10 @@ english:
   comment_format:
     - xform/.*//
 
+english_add_word:
+  dictionary: moran_english
+  enable_user_dict: false
+
 japanese:
   dictionary: moran_japanese
   enable_completion: false
