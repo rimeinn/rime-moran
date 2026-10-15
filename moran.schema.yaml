@@ -1,7 +1,7 @@
 schema:
   schema_id: moran
   name: 魔然
-  version: "20260605"
+  version: "20261015"
   author:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
@@ -92,6 +92,7 @@ engine:
     - lua_translator@*moran_unicode        # Unicode輸入, 大寫U引導, 如 U9b54
     - lua_translator@*moran_pin*panacea_translator
     - history_translator@quick_repeat
+    - lua_translator@*moran_english*word_creator_translator
   filters:
     - lua_filter@*moran_charset_filter
     - lua_filter@*moran_pin*pin_filter
@@ -108,7 +109,7 @@ engine:
     - simplifier@pinyinhint
     - lua_filter@*moran_charset_comment_filter  # Unicode 區位提示
     - lua_filter@*moran_unicode_display_filter  # Unicode 編碼提示
-    - lua_filter@*moran_english_filter
+    - lua_filter@*moran_english*capitalizer_filter
     - uniquifier
 
 navigator:

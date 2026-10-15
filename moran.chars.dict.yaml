@@ -6,7 +6,7 @@
 
 ---
 name: moran.chars
-version: "20261007"
+version: "20261015"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -8694,7 +8694,9 @@ use_preset_vocabulary: false
 䨯	vf;yi	0
 䨰	po;yg	0
 䨱	fu;yf	0
+䨲	nb;tx	0
 䨲	nb;xt	0
+䨲	wj;tx	0
 䨲	wj;xt	0
 䨳	xi;yj	0
 䨴	dv;yd	0
@@ -12515,8 +12517,6 @@ use_preset_vocabulary: false
 卆	cu;ju	457
 卆	zu;ju	457
 升	ug;pc	2921
-午	ho;ru	0
-午	ho;ur	0
 午	wu;ru	1555
 午	wu;ur	1164
 卉	bf;cu	0
@@ -74934,8 +74934,11 @@ use_preset_vocabulary: false
 𥤇	uj;hc	0
 𥤈	fz;hy	0
 𥤈	ff;hy	0
+𥤉	he;hc	0
 𥤉	he;hy	0
+𥤉	hu;hc	0
 𥤉	hu;hy	0
+𥤉	ho;hc	0
 𥤉	ho;hy	0
 𥤊	qr;hv	0
 𥤋	ve;hn	0
@@ -89502,6 +89505,7 @@ use_preset_vocabulary: false
 𨫐	vi;jv	0
 𨫑	hr;jh	0
 𨫒	lb;jy	0
+𨫓	tx;jw	0
 𨫓	tx;ji	0
 𨫔	xx;jw	0
 𨫔	xx;tj	0
@@ -105983,7 +105987,7 @@ use_preset_vocabulary: false
 𬘡	yn;sy	0
 𬘢	kd;sg	0
 𬘣	dc;sd	0
-𬘤	lu;sl	0
+𬘤	lv;sl	0
 𬘥	qr;sq	0
 𬘥	ur;sq	0
 𬘦	pl;sp	0

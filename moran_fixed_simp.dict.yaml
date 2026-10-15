@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20261001"
+version: "20261014"
 sort: original
 columns:
   - text
@@ -37278,8 +37278,8 @@ I盘	ipj
 机关刊物	jgkw
 几个礼拜	jglb
 几个来回	jglh
-结构力学	jglx
 居高临下	jglx
+结构力学	jglx
 进攻路线	jglx
 建功立业	jgly
 举个例子	jglz
@@ -50848,6 +50848,7 @@ JK制服	jkvf
 连续作战	lxzv
 另	ly
 零	ly
+〇	lya
 立业安邦	lyab
 令爱	lyai
 乐业安居	lyaj
@@ -67598,6 +67599,7 @@ P站	pvj
 人民军队	rmjd
 人民解放	rmjf
 人民警察	rmji
+人民警察	rmji
 人民解放军	rmjj
 容貌焦虑	rmjl
 人民教师	rmju
@@ -83977,7 +83979,7 @@ U盘	upj
 值得珍惜	vdvx
 中等专科学校	vdvx
 值得注意	vdvy
-直到我的膝盖中了一箭	vdwj
+装完	vdwj
 赚点外快	vdwk
 值得我们	vdwm
 制度文明	vdwm
@@ -89544,6 +89546,7 @@ U盘	upj
 我的想法	wdxf
 万道霞光	wdxg
 我的膝盖	wdxg
+我的膝盖中了一箭	wdxj
 味道鲜美	wdxm
 无定形碳	wdxt
 为点小事	wdxu
@@ -112990,9 +112993,7 @@ U盘	upj
 奥地利	adl
 按道理	adl
 暗地里	adl
-奥达曼	adm
 爱迪生	adu
-安钉子	adz
 阿尔法	aef
 爱尔兰	ael
 阿尔泰	aet
@@ -114194,6 +114195,8 @@ CD机	cdj
 洞庭湖	dth
 大团结	dtj
 到头来	dtl
+地图炮	dtp
+当头炮	dtp
 打头炮	dtp
 大提琴	dtq
 带头人	dtr
@@ -116251,10 +116254,13 @@ git	git
 就这么	jvm
 精制品	jvp
 截止日	jvr
-晶状体	jvt
 脚趾头	jvt
+晶状体	jvt
 简直是	jvu
 就直说	jvu
+截止至	jvv
+金钟罩	jvv
+救助站	jvv
 居住证	jvv
 建筑物	jvw
 急转弯	jvw

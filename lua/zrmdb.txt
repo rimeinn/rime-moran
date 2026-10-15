@@ -5587,7 +5587,7 @@
 䨯	yi
 䨰	yg
 䨱	yf
-䨲	xt
+䨲	tx xt
 䨳	yj
 䨴	yd
 䨵	yt
@@ -46721,7 +46721,7 @@
 𥤆	hj
 𥤇	hc
 𥤈	hy
-𥤉	hy
+𥤉	hc hy
 𥤊	hv
 𥤋	hn nh
 𥤌	hy
@@ -57502,7 +57502,7 @@
 𨫐	jv
 𨫑	jh
 𨫒	jy
-𨫓	ji
+𨫓	jw ji
 𨫔	jw tj
 𨫕	jw
 𨫖	jw

@@ -1,32 +1,22 @@
--- moran_english_filter.lua
+-- moran_english.lua
 --
--- Version: 0.1.1
+-- Version: 0.2.0
 -- Author:  ksqsf
 -- License: GPLv3
 --
+-- 0.2.0: Added WordCreator.  Renamed from moran_english_filter.lua.
 -- 0.1.1: Relax matching criteria.
 -- 0.1: Add.
-
--- == Developer notes ==
 --
--- A word is said to be 'proper' if it contains at least one uppercase
--- letter. The naming is from 'proper noun'.
+-- This module contains the following components:
 --
--- We assume that the way the English translator finds candidates is fuzzy:
---  1. Non-proper input can match any word.
---  2. ([a-zA-Z][a-z]*) can match non-proper word.
+-- * Capitalizer: automatically fix the case of the output candidates
+--   to match the input.  For example, if you type "Monkey", and the
+--   dictionary lookup returns "monkey", this filter will update
+--   "monkey" to be "Monkey".
 --
--- For example:
---  1. "hello" can find "hello", "hELLO", "Hello".
---  2. "Hello" can find "Hello", "hello", but not "HEllo".
---
--- The goal of this filter is to match the case of proper input with
--- proper candidates.
---
--- The expected use case is:
---  1. moran_english.dict.yaml contains a list of non-proper words, e.g. "hello"
---  2. Proper input "Hello" finds "hello"
---  3. This filter modifies the output so that the candidate becomes "Hello".
+-- * WordCreator: echo the segment code, but if you commit it, it will
+--   be stored into the English translator's user dict.
 
 local moran = require("moran")
 
@@ -84,14 +74,38 @@ local function not_filterable(s)
 end
 
 -----------------------------------------------------------------------
+-- Capitalizer
+-----------------------------------------------------------------------
+-- == Developer notes ==
+--
+-- A word is said to be 'proper' if it contains at least one uppercase
+-- letter. The naming is from 'proper noun'.
+--
+-- We assume that the way the English translator finds candidates is fuzzy:
+--  1. Non-proper input can match any word.
+--  2. ([a-zA-Z][a-z]*) can match non-proper word.
+--
+-- For example:
+--  1. "hello" can find "hello", "hELLO", "Hello".
+--  2. "Hello" can find "Hello", "hello", but not "HEllo".
+--
+-- The goal of this filter is to match the case of proper input with
+-- proper candidates.
+--
+-- The expected use case is:
+--  1. moran_english.dict.yaml contains a list of non-proper words, e.g. "hello"
+--  2. Proper input "Hello" finds "hello"
+--  3. This filter modifies the output so that the candidate becomes "Hello".
 
-function Module.init(env)
+local Capitalizer = {}
+
+function Capitalizer.init(env)
 end
 
-function Module.fini(env)
+function Capitalizer.fini(env)
 end
 
-function Module.func(t_input, env)
+function Capitalizer.func(t_input, env)
     local composition = env.engine.context.composition
     if composition:empty() then
         return
@@ -129,7 +143,40 @@ function Module.func(t_input, env)
     end
 end
 
-return Module
+-----------------------------------------------------------------------
+-- Word Creator
+-----------------------------------------------------------------------
+local WordCreator = {}
+
+function WordCreator.init(env)
+    env.memory = Memory(env.engine, env.engine.schema, "english")
+    env.enabled = moran.get_config_bool(env, "moran/english/word_creator/enable", true)
+    env.indicator = env.engine.schema.config:get_string("moran/english/word_creator/indicator") or "*"
+end
+
+function WordCreator.fini(env)
+end
+
+function WordCreator.func(input, seg, env)
+    local len = #input
+    if not env.enabled or len == 0 or not seg:has_tag("english") then
+        return
+    end
+
+    local entry = DictEntry()
+    entry.text = input
+    entry.preedit = input
+    entry.custom_code = input .. " "
+    entry.weight = -1e10         -- slightly below 0
+    local cand = Phrase(env.memory, "english", seg.start, seg._end, entry)
+    cand.comment = "*"
+    yield(cand:toCandidate())
+end
+
+return {
+    capitalizer_filter = Capitalizer,
+    word_creator_translator = WordCreator,
+}
 
 -- Local Variables:
 -- lua-indent-level: 4
