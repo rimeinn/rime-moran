@@ -1,9 +1,10 @@
 -- moran_english.lua
 --
--- Version: 0.3.2
+-- Version: 0.3.3
 -- Author:  ksqsf
 -- License: GPLv3
 --
+-- 0.3.3: Fix some corner cases.
 -- 0.3.2: Use segment code instead of all code for word creation.
 -- 0.3.1: Fix compatibility issue with rime-mkm.
 -- 0.3.0: Added Translator to search user words using non-proper spelling.
@@ -31,7 +32,8 @@ local Module = {}
 
 local PAT_UPPERCASE = "[A-Z]"
 local PAT_ENGLISH_WORD = "^[a-zA-Z0-9 &!@#$%^&*()-=_+[%]\\\\{}'\";,./<>?]+$"
-local PAT_NEW_WORD = "^[a-zA-Z]+$"
+local PAT_NEW_WORD_PREFIX = "^[a-zA-Z]+"
+local PAT_NEW_WORD_WHOLE = PAT_NEW_WORD_PREFIX .. "$"
 
 -- | Check if @s is proper: contains at least one capital letter.
 --
@@ -221,11 +223,16 @@ function WordCreator.func(t_input, env)
         return
     end
     local seg = composition:back()
-    local input = context.input:sub(seg.start + 1, seg._end + 1)
+    local input = context.input:sub(seg.start + 1, seg._end)
     local iter = moran.make_peekable(iter)
     local peek = iter:peek()
-    if (not peek and input:match(PAT_NEW_WORD)) -- reject input with non-alpha chars
-        or input:match(env.trigger .. "$")      -- has trigger
+    -- Notable corner cases:
+    -- 1. non-ascii code (e.g. in kagiroi and mungyeong)
+    -- 2. punct_number auto commit
+    -- 3. empty candidates from ("" + trigger)
+    -- and more.  See moran.test.yaml.
+    if (not peek and input:match(PAT_NEW_WORD_WHOLE))             -- reject input with non-alpha chars
+        or input:match(PAT_NEW_WORD_PREFIX .. env.trigger .. "$") -- has trigger
     then
         local word = input:gsub(env.trigger .. "$", "", 1)
         local entry = DictEntry()
