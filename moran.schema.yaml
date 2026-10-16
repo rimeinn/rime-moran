@@ -1,7 +1,7 @@
 schema:
   schema_id: moran
   name: 魔然
-  version: "20261015"
+  version: "20261016"
   author:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
@@ -495,7 +495,7 @@ moran:
     add_word:
       enable: true
       indicator: "*"     # comment
-      trigger: "/ad?d?"
+      trigger: "/add?"
 
 # 默認啓用語言模型
 __include: moran:/octagram/enable_for_sentence

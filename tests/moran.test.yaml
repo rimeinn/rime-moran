@@ -300,9 +300,9 @@ deploy:
         assert: eq(cand[1].text, 'Arch Linux')
       - send: 'nihkHello '
         assert: eq(cand[1].text, 'Hello')
-      - send: 'nihkHello/a'
+      - send: 'nihkHello/ad'
         assert: eq(cand[1].comment, '*')
-      - send: 'RecABC/a recabc'
+      - send: 'RecABC/ad recabc'
         assert: eq(cand[1].text, 'RecABC') and eq(count_text('RecABC'), 1)
       - send: 'RecABC'
         assert: eq(#cand, 1) and eq(cand[1].text, 'RecABC')
@@ -310,7 +310,7 @@ deploy:
         assert: eq(cand[1].text, 'RecABC')
       - send: 'RecAB'
         assert: eq(cand[1].text, 'RecABC') and eq(preedit, 'RecAB')
-      - send: 'CaseDeleteFoo/a CaseDeleteBar/a casedelete{Control+k}'
+      - send: 'CaseDeleteFoo/ad CaseDeleteBar/ad casedelete{Control+k}'
         assert: eq(cand[1].text, 'CaseDeleteFoo') and eq(count_text('CaseDeleteBar'), 0)
       - send: 'CaseDelete'
         assert: eq(#cand, 1) and eq(cand[1].text, 'CaseDeleteFoo')
@@ -324,6 +324,8 @@ deploy:
         assert: eq(#cand, 0)
       - send: 'Panda/Eats/Shoots/Leaves'
         assert: eq(cand[1].text, "Panda Eats Shoots Leaves")
+      - send: 'apt'
+        assert: eq(cand[1].comment, '')
   english_enable_add_word:
     patch:
       moran/english/add_word/enable: true
@@ -338,7 +340,7 @@ deploy:
         assert: eq(cand[1].text, 'AXYZFoo')
       - send: 'nihkHelloJC'
         assert: eq(cand[1].comment, "➕") and eq(cand[1].text, "nihkHello")
-      - send: 'nihkHello/a'
+      - send: 'nihkHello/ad'
         assert: cand[1].text ~= "nihkHello"
   english_disable_add_word:
     patch:
