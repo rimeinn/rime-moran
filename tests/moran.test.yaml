@@ -318,6 +318,8 @@ deploy:
         assert: eq(count_text('CaseDeleteFoo'), 0) and eq(count_text('CaseDeleteBar'), 0)
       - send: 'mujika===1'
         assert: eq(cand[1].text, "ika")
+      - send: '/a'
+        assert: eq(cand[1].text, "ā")
   english_enable_add_word:
     patch:
       moran/english/add_word/enable: true
