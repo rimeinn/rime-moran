@@ -320,6 +320,10 @@ deploy:
         assert: eq(cand[1].text, "ika")
       - send: '/a'
         assert: eq(cand[1].text, "ā")
+      - send: 'KaMenRaida/'
+        assert: eq(#cand, 0)
+      - send: 'Panda/Eats/Shoots/Leaves'
+        assert: eq(cand[1].text, "Panda Eats Shoots Leaves")
   english_enable_add_word:
     patch:
       moran/english/add_word/enable: true
