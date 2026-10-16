@@ -1,9 +1,10 @@
 -- moran_english.lua
 --
--- Version: 0.3.0
+-- Version: 0.3.1
 -- Author:  ksqsf
 -- License: GPLv3
 --
+-- 0.3.1: Fix compatibility issue with rime-mkm.
 -- 0.3.0: Added Translator to search user words using non-proper spelling.
 -- 0.2.0: Added WordCreator.  Renamed from moran_english_filter.lua.
 -- 0.1.1: Relax matching criteria.
@@ -29,6 +30,7 @@ local Module = {}
 
 local PAT_UPPERCASE = "[A-Z]"
 local PAT_ENGLISH_WORD = "^[a-zA-Z0-9 &!@#$%^&*()-=_+[%]\\\\{}'\";,./<>?]+$"
+local PAT_NEW_WORD = "^[a-zA-Z]+$"
 
 -- | Check if @s is proper: contains at least one capital letter.
 --
@@ -220,8 +222,8 @@ function WordCreator.func(t_input, env)
     local iter = moran.make_peekable(iter)
     local peek = iter:peek()
     local input = context.input
-    if (not peek and input:match("^[a-zA-Z]")) -- reject input starting with non-alpha chars
-        or input:match(env.trigger .. "$")     -- has trigger
+    if (not peek and input:match(PAT_NEW_WORD)) -- reject input with non-alpha chars
+        or input:match(env.trigger .. "$")      -- has trigger
     then
         local word = input:gsub(env.trigger .. "$", "", 1)
         local entry = DictEntry()
