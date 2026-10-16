@@ -239,7 +239,7 @@ function WordCreator.func(t_input, env)
         local entry = DictEntry()
         entry.text = word
         entry.preedit = word
-        entry.custom_code = word:lower() .. " "
+        entry.custom_code = word:gsub(" ", ""):lower() .. " "
         entry.weight = -1e10         -- slightly below 0
         local phrase = Phrase(env.memory, "english", seg.start, seg._end, entry)
         phrase.comment = env.indicator
