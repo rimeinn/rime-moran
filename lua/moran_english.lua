@@ -1,9 +1,10 @@
 -- moran_english.lua
 --
--- Version: 0.3.5
+-- Version: 0.3.6
 -- Author:  ksqsf
 -- License: GPLv3
 --
+-- 0.3.6: Restrict auto trigger.
 -- 0.3.5: Disable indicator for auto trigger.
 -- 0.3.4: Allow adding words with spaces.
 -- 0.3.3: Fix some corner cases.
@@ -226,6 +227,10 @@ function WordCreator.func(t_input, env)
     end
     local seg = composition:back()
     local input = context.input:sub(seg.start + 1, seg._end)
+    if not seg:has_tag("abc") then
+        moran.yield_all(iter)
+        return
+    end
     local iter = moran.make_peekable(iter)
     local peek = iter:peek()
     -- Notable corner cases:
@@ -234,6 +239,7 @@ function WordCreator.func(t_input, env)
     -- 3. empty candidates from ("" + trigger)
     -- and more.  See moran.test.yaml.
     local auto_trigger = not peek and input:match(PAT_NEW_WORD_WHOLE)  -- reject input with non-alpha chars
+        and not moran.segment_is_reverse_lookup(seg)
     if auto_trigger
         or input:match(PAT_NEW_WORD_PREFIX .. env.trigger .. "$")      -- manual trigger
     then

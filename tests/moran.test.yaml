@@ -326,6 +326,8 @@ deploy:
         assert: eq(cand[1].text, "Panda Eats Shoots Leaves")
       - send: 'apt'
         assert: eq(cand[1].comment, '')
+      - send: 'olfok'
+        assert: eq(#cand, 0)
   english_enable_add_word:
     patch:
       moran/english/add_word/enable: true
