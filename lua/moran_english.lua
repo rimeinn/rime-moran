@@ -1,9 +1,10 @@
 -- moran_english.lua
 --
--- Version: 0.3.1
+-- Version: 0.3.2
 -- Author:  ksqsf
 -- License: GPLv3
 --
+-- 0.3.2: Use segment code instead of all code for word creation.
 -- 0.3.1: Fix compatibility issue with rime-mkm.
 -- 0.3.0: Added Translator to search user words using non-proper spelling.
 -- 0.2.0: Added WordCreator.  Renamed from moran_english_filter.lua.
@@ -219,9 +220,10 @@ function WordCreator.func(t_input, env)
     if composition:empty() then
         return
     end
+    local seg = composition:back()
+    local input = context.input:sub(seg.start + 1, seg._end + 1)
     local iter = moran.make_peekable(iter)
     local peek = iter:peek()
-    local input = context.input
     if (not peek and input:match(PAT_NEW_WORD)) -- reject input with non-alpha chars
         or input:match(env.trigger .. "$")      -- has trigger
     then
@@ -231,7 +233,7 @@ function WordCreator.func(t_input, env)
         entry.preedit = word
         entry.custom_code = word:lower() .. " "
         entry.weight = -1e10         -- slightly below 0
-        local phrase = Phrase(env.memory, "english", 0, #input, entry)
+        local phrase = Phrase(env.memory, "english", seg.start, seg._end, entry)
         phrase.comment = env.indicator
         yield(phrase:toCandidate())
     end
