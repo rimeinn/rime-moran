@@ -4,6 +4,7 @@
 -- Author:  ksqsf
 -- License: GPLv3
 --
+-- 0.3.4: Allow adding words with spaces.
 -- 0.3.3: Fix some corner cases.
 -- 0.3.2: Use segment code instead of all code for word creation.
 -- 0.3.1: Fix compatibility issue with rime-mkm.
@@ -32,7 +33,7 @@ local Module = {}
 
 local PAT_UPPERCASE = "[A-Z]"
 local PAT_ENGLISH_WORD = "^[a-zA-Z0-9 &!@#$%^&*()-=_+[%]\\\\{}'\";,./<>?]+$"
-local PAT_NEW_WORD_PREFIX = "^[a-zA-Z]+"
+local PAT_NEW_WORD_PREFIX = "^[a-zA-Z][a-zA-Z/]*[^/]"  -- Reject trailing spaces and slashes
 local PAT_NEW_WORD_WHOLE = PAT_NEW_WORD_PREFIX .. "$"
 
 -- | Check if @s is proper: contains at least one capital letter.
@@ -234,7 +235,7 @@ function WordCreator.func(t_input, env)
     if (not peek and input:match(PAT_NEW_WORD_WHOLE))             -- reject input with non-alpha chars
         or input:match(PAT_NEW_WORD_PREFIX .. env.trigger .. "$") -- has trigger
     then
-        local word = input:gsub(env.trigger .. "$", "", 1)
+        local word = input:gsub(env.trigger .. "$", "", 1):gsub("/", " ")
         local entry = DictEntry()
         entry.text = word
         entry.preedit = word
