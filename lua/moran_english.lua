@@ -1,6 +1,6 @@
 -- moran_english.lua
 --
--- Version: 0.3.3
+-- Version: 0.3.4
 -- Author:  ksqsf
 -- License: GPLv3
 --
