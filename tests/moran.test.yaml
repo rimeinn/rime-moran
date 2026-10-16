@@ -328,6 +328,10 @@ deploy:
         assert: eq(cand[1].comment, '')
       - send: 'olfok'
         assert: eq(#cand, 0)
+      - send: 'aptx/add APTX'
+        assert: eq(cand[1].text, 'APTX')
+      - send: 'ApTX aptx'
+        assert: eq(count_text('ApTX'), 1)
   english_enable_add_word:
     patch:
       moran/english/add_word/enable: true
