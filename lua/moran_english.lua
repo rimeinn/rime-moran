@@ -1,9 +1,10 @@
 -- moran_english.lua
 --
--- Version: 0.3.4
+-- Version: 0.3.5
 -- Author:  ksqsf
 -- License: GPLv3
 --
+-- 0.3.5: Disable indicator for auto trigger.
 -- 0.3.4: Allow adding words with spaces.
 -- 0.3.3: Fix some corner cases.
 -- 0.3.2: Use segment code instead of all code for word creation.
@@ -205,7 +206,7 @@ function WordCreator.init(env)
     env.memory = Memory(env.engine, env.engine.schema, "english_add_word")
     env.enabled = moran.get_config_bool(env, "moran/english/add_word/enable", true)
     env.indicator = env.engine.schema.config:get_string("moran/english/add_word/indicator") or "*"
-    env.trigger = env.engine.schema.config:get_string("moran/english/add_word/trigger") or "/ad?d?"
+    env.trigger = env.engine.schema.config:get_string("moran/english/add_word/trigger") or "/add?"
 end
 
 function WordCreator.fini(env)
@@ -232,8 +233,9 @@ function WordCreator.func(t_input, env)
     -- 2. punct_number auto commit
     -- 3. empty candidates from ("" + trigger)
     -- and more.  See moran.test.yaml.
-    if (not peek and input:match(PAT_NEW_WORD_WHOLE))             -- reject input with non-alpha chars
-        or input:match(PAT_NEW_WORD_PREFIX .. env.trigger .. "$") -- has trigger
+    local auto_trigger = not peek and input:match(PAT_NEW_WORD_WHOLE)  -- reject input with non-alpha chars
+    if auto_trigger
+        or input:match(PAT_NEW_WORD_PREFIX .. env.trigger .. "$")      -- manual trigger
     then
         local word = input:gsub(env.trigger .. "$", "", 1):gsub("/", " ")
         local entry = DictEntry()
@@ -242,7 +244,9 @@ function WordCreator.func(t_input, env)
         entry.custom_code = word:gsub(" ", ""):lower() .. " "
         entry.weight = -1e10         -- slightly below 0
         local phrase = Phrase(env.memory, "english", seg.start, seg._end, entry)
-        phrase.comment = env.indicator
+        if not auto_trigger then
+            phrase.comment = env.indicator
+        end
         yield(phrase:toCandidate())
     end
     moran.yield_all(iter)
