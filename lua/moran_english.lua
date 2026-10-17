@@ -1,9 +1,11 @@
 -- moran_english.lua
 --
--- Version: 0.3.6
+-- Version: 0.3.7
 -- Author:  ksqsf
 -- License: GPLv3
 --
+-- 0.3.7: Capitalizer now upcase the entire word if input is all caps,
+--        and only fix the initial letter.
 -- 0.3.6: Restrict auto trigger.
 -- 0.3.5: Disable indicator for auto trigger.
 -- 0.3.4: Allow adding words with spaces.
@@ -42,7 +44,7 @@ local PAT_NEW_WORD_WHOLE = PAT_NEW_WORD_PREFIX .. "$"
 --
 -- @param s str
 -- @return true if proper; false otherwise
-local function str_is_proper(s)
+local function is_proper(s)
     return s:find(PAT_UPPERCASE) ~= nil
 end
 
@@ -50,38 +52,27 @@ end
 --
 -- @param s str
 -- @return true if it can be considered an English word
-local function str_is_english_word(s)
-    return s:find(PAT_ENGLISH_WORD) ~= nil
+local function is_english_word(s)
+    return s:match(PAT_ENGLISH_WORD)
 end
 
--- | Check if the common prefix of @a and @b are equal (case-sensitive).
-local function match_case(a, b)
-    -- local len = math.min(#a, #b)
-    -- return a:sub(1, len) == b:sub(1, len)
-
-    -- Should be more relaxed, because we only fuzzy match on the first letter.
-    return a:sub(1,1) == b:sub(1,1)
-end
-
--- | Fix the case of @str to match that of @std.
-local function fix_case(str, std)
-    -- if #std >= #str then
-    --    return std:sub(1, #str)
-    -- else
-    --    local len = math.min(#str, #std)
-    --    return std:sub(1, len) .. str:sub(len + 1, -1)
-    -- end
-
-    -- Should be more relaxed, because we only fuzzy match on the first letter.
-    if not str or not std then
-        return ""
+-- | Check if the common prefix of @a and @b are equal
+-- | (case-sensitive), but ignoring spaces in @a.
+local function match_case_ignoring_spaces(a, b)
+    if a:find(" ") then
+        a = a:gsub(" ", "")
     end
-    return std:sub(1,1) .. str:sub(2, -1)
+    if #a > #b then
+        a, b = b, a
+    end
+    return a == b:sub(1, #a)
 end
 
 -- | A fast check on the first byte of the string.
+--
+-- PRE: #s >= 1
 local function not_filterable(s)
-    return #s > 0 and s:byte(1) >= 128
+    return s:byte(1) >= 128
 end
 
 -----------------------------------------------------------------------
@@ -168,25 +159,38 @@ function Capitalizer.func(t_input, env)
     end
 
     -- If input is non-proper, do nothing.
-    local input = segmentation.input:sub(seg._start + 1, seg._end + 1)
-    if not str_is_proper(input) then
+    local input = segmentation.input:sub(seg._start + 1, seg._end)
+    if #input == 0 or input:match("^[a-z]+$") then
         moran.yield_all(iter)
         return
     end
 
-    -- Proper (non-trivial) input means we need to fix non-proper candidates.
+    local input_all_caps = input:match("^[A-Z]+$")
+    local input_only_first_cap = not input_all_caps and input:match("^[A-Z][a-z]*$")
+
+    -- If input is proper, i.e. contains at least one uppercase letter.
+    --
+    -- * when I is fuzzy (same case; and I must be all caps due to
+    --   being proper): the candidate should be fixed to be all caps.
+    --
+    -- * when I is exact, i.e., not fuzzy: match the case exactly, but
+    --   only fix the first letter.
+    local input = segmentation.input:sub(seg._start + 1, seg._end)
     for c in iter do
-        if not_filterable(c.text) or not str_is_english_word(c.text) then
+        if #c.text == 0 then
             yield(c)
-        elseif not str_is_proper(c.text) then
-            -- c is fixable.
-            local fixed_text = fix_case(c.text, input)
-            yield(ShadowCandidate(c, "english", fixed_text, "", true))
-        else
-            -- c is proper. It cannot be changed.
-            if match_case(c.text, input) then
+        elseif not_filterable(c.text) or not is_english_word(c.text) then
+            yield(c)
+        elseif is_proper(c.text) then
+            if match_case_ignoring_spaces(c.text, input) then
                 yield(c)
             end
+        elseif input_all_caps then
+            local fixed_text = c.text:upper()
+            yield(ShadowCandidate(c, "english", fixed_text, "", true))
+        elseif input_only_first_cap then
+            local fixed_text = input:sub(1,1) .. c.text:sub(2,-1)
+            yield(ShadowCandidate(c, "english", fixed_text, "", true))
         end
     end
 end
