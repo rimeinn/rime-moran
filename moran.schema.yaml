@@ -1,7 +1,7 @@
 schema:
   schema_id: moran
   name: 魔然
-  version: "20261016"
+  version: "20261018"
   author:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
@@ -358,8 +358,8 @@ recognizer:
 recognizer_emoji:
   patterns:
     # CAVEAT: 排除 ^; 避免 ;d 無法自動上屏
-    # CAVEAT: ^o 只保留 ^ou 和 ^o$，避免反查被干擾
-    has_emoji: '(^[a-np-z][a-z/]*$)|(^[a-z]$)|(^ou[a-z/]*$)'
+    # CAVEAT: ^o 只保留 ^oo, ^ou 和 ^o$，避免反查被干擾
+    has_emoji: '(^[a-np-z][a-z/]*$)|^o$|(^o[ou][a-z/]*$)'
 
 recognizer_secondary:
   patterns:
