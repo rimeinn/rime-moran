@@ -82,7 +82,7 @@ function Module.func(t_input, env)
         env.last_timestamp = env.get_time_ms()
         yield(first_cand)
         moran.yield_all(iter)
-    elseif input_len == 5 or input_len == 7 or input_len == 9 then
+    elseif (input_len == 5 or input_len == 7 or input_len == 9) and env.last_first_cand then
         local iter = moran.make_peekable(iter)
         local first = iter:peek()
         if not first then  -- No candidates

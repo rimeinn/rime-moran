@@ -517,7 +517,8 @@ local function charset_comment_filter(input,env)
     if b then
      for s, r in pairs(charset) do
        if (exists(is_charset(s), cand.text)) then
-         cand:get_genuine().comment = cand.comment .. " " .. s
+         local comment = cand.comment .. " " .. s
+         yield(ShadowCandidate(cand, cand.type, cand.text, comment))
          break
        end--if
       end--for
@@ -528,3 +529,7 @@ end
 
 
 return charset_comment_filter
+
+-- Local Variables:
+-- lua-indent-level: 2
+-- End:

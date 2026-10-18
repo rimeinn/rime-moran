@@ -43,7 +43,7 @@ function Module.init(env)
     end
     env.quick_code_hint_indicator = env.engine.schema.config:get_string("moran/quick_code_hint_indicator")
     if env.quick_code_hint_indicator == nil then
-        env.quick_code_hint_indicator = env.engine.schema.config:get_string("moran/quick_code_indicator")
+        env.quick_code_hint_indicator = env.engine.schema.config:get_string("moran/quick_code_indicator") or "⚡"
     end
 
     -- 若開啓 inject_fixed_words，則可以提示長詞（>=3）
