@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20261017"
+version: "20261018"
 sort: original
 columns:
   - text
@@ -15800,8 +15800,8 @@ D盘	dpj
 定时	dyui
 定势	dyui
 第一时间	dyuj
-第一书记	dyuj
 第一视角	dyuj
+第一书记	dyuj
 盯梢	dyuk
 第一手材料	dyul
 第一生产力	dyul

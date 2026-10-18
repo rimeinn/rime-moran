@@ -8,7 +8,7 @@
 #
 # Primary Author: ksqsf
 # Contributors: 吕奉先, SunShine, 吥捨洳楓, 三山剑客, Kuroame, 吾因孰
-# Last-Modified-Date: 2026-10-12
+# Last-Modified-Date: 2026-10-18
 
 ⺁	px	{⺁}	
 ⺄	yi	{乙}	
@@ -1804,35 +1804,25 @@
 㪓	pg	攴乖	auto
 㪓	gp	乖攴	auto
 㪔	pl	攴林	auto
-㪔	lp	林攴	auto
 㪕	pv	攴卓	auto
-㪕	vp	卓攴	auto
 㪖	pl	攴录	auto
-㪖	lp	录攴	auto
-㪗	pk	攴口	auto
-㪗	lp	立攴	auto
-㪘	rw	人攵	auto
-㪙	gw	果攵	auto
-㪚	xw	昔攵	auto
-㪛	pu	攴甚	auto
-㪛	up	甚攴	auto
-㪜	pd	攴耑	auto
-㪜	dp	耑攴	auto
-㪝	pj	攴柬	auto
-㪝	jp	柬攴	auto
-㪞	pm	攴冒	auto
-㪞	mp	冒攴	auto
+㪗	pk	攴口	
+㪘	wr	攵人	auto
+㪙	wg	攵果	
+㪚	wx	攵昔	
+㪛	pu	攴甚	
+㪜	pd	攴耑	
+㪝	pj	攴柬	
+㪞	pm	攴冒	
 㪟	wo	攵日	
-㪠	pj	攴兼	auto
-㪠	jp	兼攴	auto
-㪡	ph	攴害	auto
-㪡	hp	害攴	auto
-㪢	ps	攴叟	auto
-㪢	sp	叟攴	auto
-㪣	gw	高攵	auto
-㪤	bw	畢攵	auto
-㪥	pq	攴且	auto
-㪥	hp	虍攴	auto
+㪠	pj	攴兼	
+㪡	ph	攴害	
+㪢	ps	攴叟	
+㪣	wg	攵高	
+㪤	wb	攵畢	
+㪤	bw	畢攵	
+㪥	pq	攴且	
+㪥	hp	虍攴	
 㪦	yw	寅攵	auto
 㪧	px	攴翕	auto
 㪧	xp	翕攴	auto
@@ -4446,6 +4436,7 @@
 䑝	ib	舛冖	
 䑝	ki	口舛	
 䑞	ik	舛匚	
+䑞	ki	匚舛	
 䑟	uh	舜皇	auto
 䑠	vl	舟了	auto
 䑡	vi	舟叉	
@@ -32928,8 +32919,8 @@
 𠂷	pg	丿干	auto
 𠂷	yg	夭干	auto
 𠂸	pc	丿廾	auto
-𠂹	pr	丿人	auto
-𠂹	rr	亻人	auto
+𠂹	pr	丿人	
+𠂹	rr	亻人	
 𠂺	xc	囟廿	auto
 𠂺	xn	囟廿	auto
 𠂻	pp	丿丿	auto
@@ -33572,7 +33563,8 @@
 𠌴	ri	亻舂	auto
 𠌴	rj	人臼	auto
 𠌵	rn	亻鳥	auto
-𠌶	rk	亻亏	auto
+𠌶	pk	丿亏	
+𠌶	rk	亻亏	
 𠌷	rv	亻執	auto
 𠌸	rp	亻屏	auto
 𠌹	rp	亻丿	auto
@@ -37933,8 +37925,9 @@
 𡍬	tk	土冂	auto
 𡍭	ht	狠土	auto
 𡍭	th	土狠	auto
-𡍮	tr	土人	auto
-𡍮	ra	亻一	auto
+𡍮	tr	土人	
+𡍮	pt	亻土	
+𡍮	pa	亻一	
 𡍯	gt	弓土	auto
 𡍯	td	土丶	auto
 𡍰	tu	土殳	auto
@@ -38881,8 +38874,8 @@
 𡚟	dn	大難	auto
 𡚠	dj	大矍	auto
 𡚣	dl	大林	auto
-𡚤	dd	大大	auto
-𡚤	sd	罒大	auto
+𡚤	sd	罒大	
+𡚤	ds	大罒	
 𡚥	hc	奂藏	auto
 𡚦	nd	女丶	auto
 𡚧	nb	女匕	auto
@@ -53898,7 +53891,8 @@
 𤼴	dj	癶弆	auto
 𤼵	du	癶矢	auto
 𤼶	dl	登力	auto
-𤼷	dc	登廾	auto
+𤼷	cd	廾登	
+𤼷	dc	登廾	
 𤼹	db	癶敗	auto
 𤼺	du	癶殳	auto
 𤼻	di	癶齒	auto

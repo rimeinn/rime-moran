@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20261017"
+version: "20261018"
 sort: by_weight
 columns:
   - text
@@ -16297,8 +16297,8 @@ D盤	dpj
 定時	dyui
 定勢	dyui
 第一時間	dyuj
-第一書記	dyuj
 第一視角	dyuj
+第一書記	dyuj
 盯梢	dyuk
 第一手材料	dyul
 第一生產力	dyul
