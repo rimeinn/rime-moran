@@ -125,4 +125,13 @@ deploy:
       - send: lmjxz
         assert: cand[1].text == "連接" and eq(cand[1].comment, "")
 
+  # Unicode comment filter
+  unicode_comment:
+    options:
+      unicode_comment: true
+      std_t2s: true
+    tests:
+      - send: yuu
+        assert: eq(cand[1].comment, "⚡️ [基本][U+4f59]") and eq(cand[2].comment, "⚡️ [基本][U+9980]")
+
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rimeinn/mira/refs/heads/master/spec/mira.schema.json

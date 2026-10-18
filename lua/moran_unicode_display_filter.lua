@@ -54,7 +54,8 @@ local function unicode_display_filter(input, env)
             if utf8.len(char) == 1 then
                 local unicode_h = C2U(char)
                 --yield(Candidate(input_text, cand.start, cand._end, cand.text, cand.comment.."["..unicode_h.."]"))    --DEL
-                cand:get_genuine().comment = cand.comment.."[U+"..unicode_h.."]"
+                local comment = cand.comment.."[U+"..unicode_h.."]"
+                yield(ShadowCandidate(cand, cand.type, cand.text, comment))
             end  --if
         end  --if
         yield(cand)
