@@ -104,6 +104,8 @@ deploy:
         assert: eq(cand[2].text, "👌")
       - send: o
         assert: eq(cand[2].text, "😯")
+      - send: oo
+        assert: eq(cand[2].text, "😯")
       - send: ou
         assert: eq(cand[2].text, "€")
       - send: mzgo
