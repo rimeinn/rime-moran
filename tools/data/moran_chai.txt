@@ -8,7 +8,7 @@
 #
 # Primary Author: ksqsf
 # Contributors: 吕奉先, SunShine, 吥捨洳楓, 三山剑客, Kuroame, 吾因孰
-# Last-Modified-Date: 2026-10-18
+# Last-Modified-Date: 2026-10-26
 
 ⺁	px	{⺁}	
 ⺄	yi	{乙}	
@@ -6827,7 +6827,8 @@
 䵅	ma	麥敖	auto
 䵆	mm	麥蒙	auto
 䵇	mw	麻攵	auto
-䵈	mh	麻後	auto
+䵈	mh	麻後	
+䵈	hm	後麻	
 䵉	my	麻俞	auto
 䵊	dh	丹黄	auto
 䵊	hd	黄丹	auto
@@ -49339,7 +49340,8 @@
 𣰅	my	毛羽	auto
 𣰅	mx	毛翕	auto
 𣰆	md	毛登	auto
-𣰇	my	毛矞	auto
+𣰇	my	毛矞	
+𣰇	mk	毛口	
 𣰈	mj	毛幾	auto
 𣰉	bm	敝毛	auto
 𣰉	mb	毛敝	auto
@@ -80740,7 +80742,7 @@
 𫨬	ql	去來	auto
 𫨱	st	厶土	auto
 𫨱	yq	业去	auto
-𫨲	ay	一又	auto
+𫨲	yk	又丂	
 𫨳	dy	丹又	auto
 𫨳	yd	又丹	auto
 𫨴	wy	未又	auto
@@ -83921,38 +83923,45 @@
 𬩮	zb	辶壁	auto
 𬩰	li	連呈	auto
 𬩰	zi	辵呈	auto
-𬩳	le	力阝	auto
-𬩴	yy	邑又	auto
-𬩶	ne	牛阝	auto
-𬩷	ve	占阝	auto
-𬩺	gy	共邑	auto
-𬩺	yg	邑共	auto
+𬩳	el	阝力	
+𬩳	le	力阝	
+𬩴	yy	邑又	
+𬩶	en	阝牛	
+𬩶	ne	牛阝	
+𬩷	ev	阝占	
+𬩺	gy	共邑	
+𬩺	yg	邑共	
 𬩽	ex	阝寻	
-𬩽	xe	寻阝	auto
-𬩾	le	来阝	auto
-𬩿	ve	止阝	auto
-𬪀	oe	日阝	auto
-𬪄	na	那亅	auto
-𬪇	he	或阝	auto
-𬪉	ye	易阝	auto
-𬪌	de	旦阝	auto
+𬩾	el	阝来	
+𬩿	et	阝土	
+𬪀	en	阝女	
+𬪄	na	那亅	
+𬪄	ng	那亇	
+𬪄	eg	阝亇	
+𬪄	ea	阝亅	
+𬪇	eh	阝或	
+𬪉	ey	阝易	
+𬪌	ew	阝勿	
+𬪌	ey	阝昜	
 𬪍	em	阝贸	
-𬪎	be	白阝	auto
-𬪑	xe	芯阝	auto
-𬪒	ke	口阝	auto
-𬪓	je	今阝	auto
-𬪕	ce	艹阝	auto
-𬪗	se	罒阝	auto
-𬪙	be	稟阝	auto
-𬪚	ge	广阝	auto
-𬪛	we	尾阝	auto
-𬪜	qe	齊阝	auto
-𬪝	ce	蔡阝	auto
-𬪟	ze	自阝	auto
-𬪠	ee	噩阝	auto
-𬪡	we	無阝	auto
-𬪤	fe	繁阝	auto
-𬪥	se	罒阝	auto
+𬪎	em	阝木	
+𬪑	ec	阝廾	
+𬪒	ex	阝幸	
+𬪓	ey	阝酉	
+𬪕	eo	阝月	
+𬪗	eh	阝睘	
+𬪗	ey	阝𧘇	
+𬪙	eb	阝稟	
+𬪚	ev	阝隹	
+𬪚	ey	阝䧹	
+𬪛	et	阝尘	
+𬪜	eq	阝齊	
+𬪝	ec	阝蔡	
+𬪟	ef	阝方	
+𬪠	ee	阝噩	
+𬪡	eo	阝日	
+𬪤	ef	阝繁	
+𬪥	eo	阝日	
 𬪧	yq	酉区	auto
 𬪨	yj	酉戋	auto
 𬪩	yn	酉农	
@@ -91334,8 +91343,9 @@
 𰔼	fs	扌糸	auto
 𰔾	nt	拿提	auto
 𰕁	vx	支寻	auto
-𰕂	vq	支奇	auto
-𰕃	ap	一攴	auto
+𰕂	vk	支可	
+𰕂	vq	支奇	
+𰕃	pk	攴丂	
 𰕅	pq	攴区	auto
 𰕅	qp	区攴	auto
 𰕆	fp	方攴	auto
@@ -100328,6 +100338,7 @@
 𠃉	gg	乚乚	
 𬻒	ag	一乚	
 𠁢	ay	丨乙	
+𳏮	nh	鳥畫	
 
 # 待考
 
@@ -119993,8 +120004,6 @@
 #𳏪	nu	鳥善	
 #𳏭	dn	单鳥	
 #𳏭	ng	鳥戈	
-#𳏮	hn	畫鳥	
-#𳏮	nh	鳥畫	
 #𳏴	ny	鳥粤	
 #𳏻	nn	鳥鳥	
 #𳏻	in	厂鳥	

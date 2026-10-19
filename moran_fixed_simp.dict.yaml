@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20261018"
+version: "20261026"
 sort: original
 columns:
   - text
@@ -16566,6 +16566,7 @@ E盘	epj
 二人世界	eruj
 耳顺	erup
 耳熟	eruu
+哑然失笑	erux
 二者	erve
 耳针	ervf
 二战	ervj
@@ -22935,6 +22936,7 @@ F盘	fpj
 高台	gktl
 公开透明	gktm
 搞通	gkts
+隔空投送	gkts
 顾客投诉	gkts
 高空跳伞	gkts
 高徒	gktu
@@ -40098,8 +40100,8 @@ JK制服	jkvf
 见人矮三分	jraf
 眷爱	jrai
 蠲	jrb
-兼容并包	jrbb
 坚韧不拔	jrbb
+兼容并包	jrbb
 坚忍不拔	jrbb
 卷标	jrbc
 精锐部队	jrbd
@@ -67011,6 +67013,7 @@ P站	pvj
 人格尊严	rgzy
 让	rh
 然后	rh
+如何	rh
 任何办法	rhbf
 任何变化	rhbh
 攘臂	rhbi
@@ -81328,6 +81331,7 @@ U盘	upj
 是什么啊	usma
 慎思明辨	usmb
 是什么呢	usmn
+是什么意思	usms
 深色模式	usmu
 生死难料	usnl
 势所难免	usnm
@@ -97769,6 +97773,7 @@ U盘	upj
 需	xu
 小时	xu
 刑事案件	xuaj
+心生爱慕	xuam
 现实	xub
 心神不安	xuba
 学术不端	xubd
@@ -106412,12 +106417,12 @@ U盘	upj
 有事烧纸	yuuv
 雨刷	yuuw
 以身涉险	yuux
-屿	yuuy
 馀	yuuy
+嵎	yuuy
 饫	yuuy
 嵛	yuuy
-嵎	yuuy
 延时摄影	yuuy
+屿	yuuy
 竽	yuv
 宇宙	yuvb
 预装	yuvd
@@ -115041,8 +115046,8 @@ git	git
 过堂风	gtf
 刮台风	gtf
 高碳钢	gtg
-个体户	gth
 感叹号	gth
+个体户	gth
 共同处	gti
 钢铁厂	gti
 光通量	gtl
@@ -115833,6 +115838,7 @@ git	git
 超自然	izr
 创作者	izv
 创造者	izv
+出租屋	izw
 创造性	izx
 沉醉于	izy
 吹奏乐	izy
@@ -120186,7 +120192,6 @@ Word	wrd
 洗洁精	xjj
 小九九	xjj
 戏剧家	xjj
-玄简君	xjj
 小金库	xjk
 下结论	xjl
 下脚料	xjl
