@@ -6,7 +6,7 @@
 
 ---
 name: moran_english
-version: "20261015"
+version: "20261026"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -57167,6 +57167,7 @@ Word	Word
 WordPress	WordPress
 Wordle	Wordle
 Wordsworth	Wordsworth
+WorkBuddy	WorkBuddy
 WorkFlowy	WorkFlowy
 Workers	Workers
 Workflow	Workflow

@@ -10,7 +10,7 @@
 
 ---
 name: moran.base
-version: "20261014"
+version: "20261020"
 sort: by_weight
 columns:
   - text
@@ -33558,7 +33558,7 @@ columns:
 兼善天下	jm;qd uj;kq tm;ad xw;ab	13
 兼容	jm;qd rs;bg	3635
 兼容并包	jm;qd rs;bg by;bk bk;gs	143
-兼容並蓄	jm;qd rs;bg by;qy xu;ci	73
+兼容并蓄	jm;qd rs;bg by;bk xu;ci	73
 兼容性	jm;qd rs;bg xy;xu	1687
 兼容機	jm;qd rs;bg ji;mj	91
 兼差	jm;qd il;yg	3
@@ -57224,9 +57224,10 @@ columns:
 啞火	ya;ky ho;dd	169
 啞炮	ya;ky pk;hb	32
 啞然	ya;ky rj;hq	59
+啞然	ee;ky rj;hq	10
 啞然失笑	ya;ky rj;hq ui;pf xc;vy	96
+啞然失笑	ee;ky rj;hq ui;pf xc;vy	96
 啞然失色	ya;ky rj;hq ui;pf se;db	0
-啞然無生	ya;ky rj;hq wu;rh ug;na	0
 啞然無言	ya;ky rj;hq wu;rh yj;wk	0
 啞穴	ya;ky xt;bb	4
 啞終端	ya;ky vs;sd dr;le	1
@@ -946681,9 +946682,12 @@ columns:
 壓起來	ya;ty qi;zj ll;ad	6
 亞喬木	ya;aa qc;ph mu;ad	0
 啞然而笑	ya;ky rj;hq er;aa xc;vy	0
+啞然而笑	ee;ky rj;hq er;aa xc;vy	0
 啞然無聲	ya;ky rj;hq wu;rh ug;eq	0
 啞然一笑	ya;ky rj;hq yi;aa xc;vy	2
+啞然一笑	ee;ky rj;hq yi;aa xc;vy	2
 啞然自笑	ya;ky rj;hq zi;pa xc;vy	0
+啞然自笑	ee;ky rj;hq zi;pa xc;vy	0
 壓熱度	ya;ty re;hv du;gy	15
 亞人醬	ya;aa rf;pd jd;yj	0
 雅人深致	ya;vy rf;pd uf;dm vi;wv	9

@@ -6,7 +6,7 @@
 
 ---
 name: moran.chars
-version: "20261025"
+version: "20261026"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -9883,6 +9883,7 @@ use_preset_vocabulary: false
 䵆	mg;mm	0
 䵇	xm;mw	0
 䵈	ku;mh	0
+䵈	ku;hm	0
 䵉	tb;my	0
 䵊	tr;dh	0
 䵊	tr;hd	0
@@ -50997,6 +50998,7 @@ use_preset_vocabulary: false
 𠮧	tk;kd	0
 𠮨	rg;kn	0
 𠮩	lq;kl	0
+𠮩	lc;kl	0
 𠮪	jc;kg	0
 𠮫	yb;kw	0
 𠮫	yb;wk	0
@@ -66564,6 +66566,7 @@ use_preset_vocabulary: false
 𣰅	ta;mx	0
 𣰆	dg;md	0
 𣰇	rs;my	0
+𣰇	rs;mk	0
 𣰈	ji;mj	0
 𣰉	ih;bm	0
 𣰉	ih;mb	0
@@ -103111,7 +103114,7 @@ use_preset_vocabulary: false
 𫨬	gv;ql	0
 𫨱	ye;st	0
 𫨱	ye;yq	0
-𫨲	kk;ay	0
+𫨲	kk;yk	0
 𫨳	nj;dy	0
 𫨳	nj;yd	0
 𫨴	mz;wy	0
@@ -106977,51 +106980,61 @@ use_preset_vocabulary: false
 𬩮	bi;zb	0
 𬩰	vi;li	0
 𬩰	vi;zi	0
+𬩳	li;el	0
 𬩳	li;le	0
 𬩴	dg;yy	0
 𬩴	yi;yy	0
+𬩶	ld;en	0
 𬩶	ld;ne	0
-𬩷	vj;ve	0
+𬩷	vj;ev	0
 𬩺	hh;gy	0
 𬩺	hh;yg	0
 𬩺	xd;gy	0
 𬩺	xd;yg	0
 𬩽	xp;ex	0
-𬩽	xp;xe	0
-𬩾	ll;le	0
-𬩿	rh;ve	0
-𬩿	xd;ve	0
-𬪀	yj;oe	0
+𬩾	ll;el	0
+𬩿	rh;et	0
+𬩿	xd;et	0
+𬪀	yj;en	0
 𬪄	na;na	0
+𬪄	na;ng	0
+𬪄	na;eg	0
+𬪄	na;ea	0
 𬪄	no;na	0
-𬪇	go;he	0
-𬪇	ju;he	0
-𬪉	yh;ye	0
-𬪌	yh;de	0
+𬪄	no;ng	0
+𬪄	no;eg	0
+𬪄	no;ea	0
+𬪇	go;eh	0
+𬪇	ju;eh	0
+𬪉	yh;ey	0
+𬪌	yh;ew	0
+𬪌	yh;ey	0
 𬪍	mk;em	0
-𬪎	bl;be	0
-𬪎	bo;be	0
-𬪑	xn;xe	0
-𬪒	gk;ke	0
-𬪓	yj;je	0
-𬪕	ji;ce	0
-𬪕	xi;ce	0
-𬪗	hr;se	0
-𬪙	if;be	0
-𬪚	yy;ge	0
-𬪛	bh;we	0
-𬪜	qi;qe	0
-𬪝	cl;ce	0
-𬪟	bm;ze	0
-𬪟	xp;ze	0
+𬪎	bl;em	0
+𬪎	bo;em	0
+𬪑	xn;ec	0
+𬪒	gk;ex	0
+𬪓	yj;ey	0
+𬪕	ji;eo	0
+𬪕	xi;eo	0
+𬪗	hr;eh	0
+𬪗	hr;ey	0
+𬪙	if;eb	0
+𬪚	yy;ev	0
+𬪚	yy;ey	0
+𬪛	bh;et	0
+𬪜	qi;eq	0
+𬪝	cl;ec	0
+𬪟	bm;ef	0
+𬪟	xp;ef	0
 𬪠	ee;ee	0
-𬪡	xu;we	0
-𬪤	fj;fe	0
-𬪤	po;fe	0
-𬪥	hu;se	0
-𬪥	ou;se	0
-𬪥	wu;se	0
-𬪥	xu;se	0
+𬪡	xu;eo	0
+𬪤	fj;ef	0
+𬪤	po;ef	0
+𬪥	hu;eo	0
+𬪥	ou;eo	0
+𬪥	wu;eo	0
+𬪥	xu;eo	0
 𬪧	yu;yq	0
 𬪨	vj;yj	0
 𬪩	ns;yn	0
@@ -116199,10 +116212,13 @@ use_preset_vocabulary: false
 𰔼	jp;fs	0
 𰔾	te;nt	0
 𰕁	xp;vx	0
+𰕂	ji;vk	0
 𰕂	ji;vq	0
+𰕂	qi;vk	0
 𰕂	qi;vq	0
+𰕂	yi;vk	0
 𰕂	yi;vq	0
-𰕃	kk;ap	0
+𰕃	kk;pk	0
 𰕅	ou;pq	0
 𰕅	ou;qp	0
 𰕅	qu;pq	0
@@ -127101,3 +127117,5 @@ use_preset_vocabulary: false
 𠃉	yi;gg	0
 𬻒	yi;ag	0
 𠁢	bu;ay	0
+𳏮	hw;nh	0
+𳏮	wu;nh	0
