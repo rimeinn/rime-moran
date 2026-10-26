@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20261026"
+version: "20261106"
 sort: original
 columns:
   - text
@@ -45836,6 +45836,7 @@ JK制服	jkvf
 科学幻想小说	kxhu
 科学幻想	kxhx
 科学成果	kxig
+科学计数法	kxjf
 开心就好	kxjh
 苦心积虑	kxjl
 空虚寂寞冷	kxjl
@@ -89425,6 +89426,7 @@ U盘	upj
 无敌舰队	wdjd
 为的就是	wdje
 温带季风	wdjf
+围道积分	wdjf
 万道金光	wdjg
 五毒俱全	wdjq
 玩的就是心跳	wdjt
@@ -93017,7 +93019,6 @@ U盘	upj
 温馨一刻	wxyk
 卫星云图	wxyt
 文学艺术	wxyu
-文心一言	wxyy
 微信语音	wxyy
 五项原则	wxyz
 无形资产	wxzi
@@ -99934,8 +99935,8 @@ U盘	upj
 也不代表	ybdb
 一笔订单	ybdd
 迎宾大道	ybdd
-又得	ybde
 有的	ybde
+又得	ybde
 油灯	ybdg
 优等	ybdg
 一笔带过	ybdg
@@ -99968,6 +99969,7 @@ U盘	upj
 油	ybdy
 预备党员	ybdy
 浟	ybdy
+又得	ybdz
 邮	ybe
 掩鼻而过	ybeg
 言不二价	ybej
@@ -100139,8 +100141,8 @@ U盘	upj
 游龙	ybls
 一包辣条	yblt
 右路	yblu
-一不留神	yblu
 一般来说	yblu
+一不留神	yblu
 忧虑	yblv
 眼波流转	yblv
 也不例外	yblw
@@ -113687,6 +113689,7 @@ U盘	upj
 粗墩墩	cdd
 CD机	cdj
 磁带机	cdj
+菜单栏	cdl
 次大陆	cdl
 草垫子	cdz
 刺儿菜	cec
@@ -113781,6 +113784,7 @@ CD机	cdj
 村委会	cwh
 财务科	cwk
 错误率	cwl
+错误码	cwm
 财务室	cwu
 磁悬浮	cxf
 雌小鬼	cxg
@@ -114935,8 +114939,11 @@ git	git
 公积金	gjj
 高精尖	gjj
 攻击力	gjl
+工具栏	gjl
+工具链	gjl
 轨迹球	gjq
 工具人	gjr
+工具条	gjt
 工具箱	gjx
 关节炎	gjy
 关键字	gjz
@@ -119325,7 +119332,6 @@ SD卡	sdk
 直勾勾	vgg
 中国城	vgi
 诸葛亮	vgl
-中国梦	vgm
 这个人	vgr
 整个人	vgr
 撰稿人	vgr
@@ -119526,6 +119532,7 @@ SD卡	sdk
 整条街	vtj
 这条路	vtl
 状态栏	vtl
+状态码	vtm
 真他妈	vtm
 站台票	vtp
 主题曲	vtq
