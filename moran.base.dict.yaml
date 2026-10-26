@@ -10,7 +10,7 @@
 
 ---
 name: moran.base
-version: "20261014"
+version: "20261020"
 sort: by_weight
 columns:
   - text
@@ -57224,9 +57224,10 @@ columns:
 哑火	ya;ky ho;dd	169
 哑炮	ya;ky pk;hb	32
 哑然	ya;ky rj;hq	59
+哑然	ee;ky rj;hq	10
 哑然失笑	ya;ky rj;hq ui;pf xc;vy	96
+哑然失笑	ee;ky rj;hq ui;pf xc;vy	96
 哑然失色	ya;ky rj;hq ui;pf se;db	0
-哑然无生	ya;ky rj;hq wu;ag ug;na	0
 哑然无言	ya;ky rj;hq wu;ag yj;wk	0
 哑穴	ya;ky xt;bb	4
 哑终端	ya;ky vs;sd dr;le	1
@@ -946681,9 +946682,12 @@ columns:
 压起来	ya;id qi;zj ll;am	6
 亚乔木	ya;ay qc;ya mu;ad	0
 哑然而笑	ya;ky rj;hq er;aa xc;vy	0
+哑然而笑	ee;ky rj;hq er;aa xc;vy	0
 哑然无声	ya;ky rj;hq wu;ag ug;um	0
 哑然一笑	ya;ky rj;hq yi;aa xc;vy	2
+哑然一笑	ee;ky rj;hq yi;aa xc;vy	2
 哑然自笑	ya;ky rj;hq zi;pa xc;vy	0
+哑然自笑	ee;ky rj;hq zi;pa xc;vy	0
 压热度	ya;id re;hv du;gy	15
 亚人酱	ya;ay rf;pd jd;yx	0
 雅人深致	ya;vy rf;pd uf;dm vi;wv	9

@@ -8,7 +8,7 @@
 
 ---
 name: "zrlf"
-version: "261025+5.0"
+version: "261026+5.0"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -19495,7 +19495,7 @@ columns:
 饽	uibo	1827
 饾	uidb	0
 饿	uiwo	606677
-馀	uiyu	0
+馀	uiyu	10000
 馁	uito	5700
 馂	uijp	0
 馃	uigo	26

@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20261018"
+version: "20261026"
 sort: by_weight
 columns:
   - text
@@ -17095,6 +17095,7 @@ E盤	epj
 二人世界	eruj
 耳順	erup
 耳熟	eruu
+啞然失笑	erux
 二者	erve
 耳針	ervf
 二戰	ervj
@@ -21427,10 +21428,10 @@ F盤	fpj
 各奔東西	gbdx
 根本的原因	gbdy
 棍棒底下出孝子	gbdz
-拘	gbf
+搆	gbf
 個百分點	gbfd
-搆	gbfg
 購房	gbfh
+拘	gbfj
 狗吠	gbfz
 概不負責	gbfz
 勾	gbg
@@ -23641,6 +23642,8 @@ F盤	fpj
 高臺	gktl
 公開透明	gktm
 搞通	gkts
+高通	gkts
+隔空投送	gkts
 顧客投訴	gkts
 高空跳傘	gkts
 高徒	gktu
@@ -41289,8 +41292,8 @@ JK制服	jkvf
 捲	jr
 見人矮三分	jraf
 眷愛	jrai
-兼容并包	jrbb
 堅韌不拔	jrbb
+兼容并包	jrbb
 堅忍不拔	jrbb
 卷標	jrbc
 精銳部隊	jrbd
@@ -57408,6 +57411,7 @@ JK制服	jkvf
 納彩	nacl
 蒘	nacu
 納粹	nacv
+哪點	nad
 拿掉	nadc
 鈉燈	nadg
 拿到	nadk
@@ -57484,6 +57488,7 @@ JK制服	jkvf
 那艘	nasb
 那廝	nasi
 哪所	naso
+哪天	nat
 那條	natc
 那套	natk
 那臺	natl
@@ -68952,6 +68957,7 @@ P站	pvj
 人格尊嚴	rgzy
 讓	rh
 然後	rh
+如何	rh
 任何辦法	rhbf
 任何變化	rhbh
 攘臂	rhbi
@@ -83608,6 +83614,7 @@ U盤	upj
 是什麼啊	usma
 慎思明辨	usmb
 是什麼呢	usmn
+是什麼意思	usms
 深色模式	usmu
 生死難料	usnl
 勢所難免	usnm
@@ -89913,6 +89920,7 @@ U盤	upj
 偵探小說	vtxu
 這天下午	vtxw
 中體西用	vtxy
+只聽	vty
 專題研究	vtyj
 專題研討	vtyt
 整體優勢	vtyu
@@ -90956,6 +90964,7 @@ U盤	upj
 窒息孢子	vxbz
 真相纔是快刀	vxcd
 錐心刺骨	vxcg
+只想	vxd
 真相大白	vxdb
 鑄下大錯	vxdc
 中心地帶	vxdd
@@ -91059,6 +91068,7 @@ U盤	upj
 這下聽懂了	vxtl
 中興通訊	vxtx
 中學同學	vxtx
+只需	vxu
 中學時代	vxud
 這些時候	vxuh
 珍惜時間	vxuj
@@ -100544,6 +100554,7 @@ WiFi	wifi
 需	xu
 小時	xu
 刑事案件	xuaj
+心生愛慕	xuam
 現實	xub
 心神不安	xuba
 學術不端	xubd
@@ -118307,8 +118318,8 @@ git	git
 過堂風	gtf
 刮颱風	gtf
 高碳鋼	gtg
-個體戶	gth
 感嘆號	gth
+個體戶	gth
 共同處	gti
 鋼鐵廠	gti
 光通量	gtl
@@ -119098,6 +119109,7 @@ git	git
 超自然	izr
 創作者	izv
 創造者	izv
+出租屋	izw
 創造性	izx
 沉醉於	izy
 吹奏樂	izy
@@ -123452,7 +123464,6 @@ Word	wrd
 洗潔精	xjj
 小九九	xjj
 戲劇家	xjj
-玄簡君	xjj
 小金庫	xjk
 下結論	xjl
 下腳料	xjl
