@@ -8,7 +8,7 @@
 #
 # Primary Author: ksqsf
 # Contributors: 吕奉先, SunShine, 吥捨洳楓, 三山剑客, Kuroame, 吾因孰
-# Last-Modified-Date: 2026-10-26
+# Last-Modified-Date: 2026-11-06
 
 ⺁	px	{⺁}	
 ⺄	yi	{乙}	
@@ -36079,8 +36079,8 @@
 𠮫	wk	丸口	auto
 𠮬	kw	口丸	auto
 𠮭	ku	口勺	auto
-𠮮	ka	口一	auto
-𠮮	py	丿右	auto
+𠮮	kq	口千	
+𠮮	py	丿右	
 𠮯	kj	口己	auto
 𠮯	jk	己口	auto
 𠮱	kk	口亏	auto
@@ -100339,6 +100339,7 @@
 𬻒	ag	一乚	
 𠁢	ay	丨乙	
 𳏮	nh	鳥畫	
+𮤔	md	門丶	
 
 # 待考
 
@@ -113755,7 +113756,6 @@
 #𮤏	mj	門江	
 #𮤓	mu	門少	
 #𮤓	vm	止門	
-#𮤔	jd	間丶	
 #𮤔	md	門丶	
 #𮤛	mx	門西	
 #𮤠	ml	門梨	

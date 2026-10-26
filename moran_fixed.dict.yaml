@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20261026"
+version: "20261106"
 sort: by_weight
 columns:
   - text
@@ -11570,6 +11570,7 @@ C盤	cpj
 道法自然	dfzr
 毒副作用	dfzy
 等	dg
+大概	dg
 定國安邦	dgab
 登岸	dgan
 多個版本	dgbb
@@ -47216,6 +47217,7 @@ JK制服	jkvf
 科學幻想小說	kxhu
 科學幻想	kxhx
 科學成果	kxig
+科學計數法	kxjf
 開心就好	kxjh
 苦心積慮	kxjl
 空虛寂寞冷	kxjl
@@ -91937,6 +91939,7 @@ U盤	upj
 無敵艦隊	wdjd
 爲的就是	wdje
 溫帶季風	wdjf
+圍道積分	wdjf
 萬道金光	wdjg
 五毒俱全	wdjq
 玩的就是心跳	wdjt
@@ -95590,7 +95593,6 @@ WiFi	wifi
 溫馨一刻	wxyk
 衛星雲圖	wxyt
 文學藝術	wxyu
-文心一言	wxyy
 微信語音	wxyy
 五項原則	wxyz
 無形資產	wxzi
@@ -102800,8 +102802,8 @@ WiFi	wifi
 也不代表	ybdb
 一筆訂單	ybdd
 迎賓大道	ybdd
-又得	ybde
 有的	ybde
+又得	ybde
 油燈	ybdg
 優等	ybdg
 一筆帶過	ybdg
@@ -102837,6 +102839,7 @@ WiFi	wifi
 沋	ybdy
 瀀	ybdy
 褎	ybdy
+又得	ybdz
 郵	ybe
 掩鼻而過	ybeg
 言不二價	ybej
@@ -103016,8 +103019,8 @@ WiFi	wifi
 游龍	ybls
 一包辣條	yblt
 右路	yblu
-一不留神	yblu
 一般來說	yblu
+一不留神	yblu
 憂慮	yblv
 眼波流轉	yblv
 也不例外	yblw
@@ -116961,6 +116964,7 @@ WiFi	wifi
 粗墩墩	cdd
 CD機	cdj
 磁帶機	cdj
+菜單欄	cdl
 次大陸	cdl
 草墊子	cdz
 刺兒菜	cec
@@ -117055,6 +117059,7 @@ CD機	cdj
 村委會	cwh
 財務科	cwk
 錯誤率	cwl
+錯誤碼	cwm
 財務室	cwu
 磁懸浮	cxf
 雌小鬼	cxg
@@ -118208,8 +118213,11 @@ git	git
 公積金	gjj
 高精尖	gjj
 攻擊力	gjl
+工具欄	gjl
+工具鏈	gjl
 軌跡球	gjq
 工具人	gjr
+工具條	gjt
 工具箱	gjx
 關節炎	gjy
 關鍵字	gjz
@@ -122599,7 +122607,6 @@ SD卡	sdk
 直勾勾	vgg
 中國城	vgi
 諸葛亮	vgl
-中國夢	vgm
 這個人	vgr
 整個人	vgr
 撰稿人	vgr
@@ -122800,6 +122807,7 @@ SD卡	sdk
 整條街	vtj
 這條路	vtl
 狀態欄	vtl
+狀態碼	vtm
 真他媽	vtm
 站臺票	vtp
 主題曲	vtq
