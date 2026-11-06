@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20261021"
+version: "20261101"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9451,6 +9451,10 @@ PV師	5	PV ui;vb
 樂評	100
 墨水屏	100
 玄簡君	1
+圍道	10
+圍道積分	100
+玉兔毫	10
+冰博克	10
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0
