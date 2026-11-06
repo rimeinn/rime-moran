@@ -42,11 +42,12 @@ function user_db.acquire()
         if not pin_db:loaded() then
             pin_db:open()
             if not pin_db:loaded() then
-                return
+                return false
             end
         end
     end
     ref_count = ref_count + 1
+    return true
 end
 
 ---@param input string
@@ -333,7 +334,10 @@ function pin_processor.init(env)
     if not env.pin_enable then
         return
     end
-    user_db.acquire()
+    if not user_db.acquire() then
+        env.pin_enable = false
+        return
+    end
 end
 
 function pin_processor.fini(env)
@@ -415,7 +419,10 @@ function pin_filter.init(env)
         return
     end
     env.indicator = env.engine.schema.config:get_string("moran/pin/indicator") or "📌"
-    user_db.acquire()
+    if not user_db.acquire() then
+        env.pin_enable = false
+        return
+    end
 end
 
 function pin_filter.fini(env)
@@ -472,7 +479,10 @@ function panacea_translator.init(env)
     env.freestyle_text = ""
     env.freestyle_code = ""
 
-    user_db.acquire()
+    if not user_db.acquire() then
+        env.pin_enable = false
+        return
+    end
     local pattern = string.format("(.+)%s(.+)", env.escaped_infix)
     local function on_commit(ctx)
         local selected_cand = ctx:get_selected_candidate()
