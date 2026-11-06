@@ -9,7 +9,7 @@
 
 ---
 name: moran.tencent
-version: "20261015"
+version: "20261028"
 sort: by_weight
 columns:
   - text
@@ -98101,7 +98101,6 @@ columns:
 光伏业务	gd;ea fu;rq ye;aa wu;wl	0
 光伏产业	gd;ea fu;rq ij;wi ye;aa	0
 光伏产品	gd;ea fu;rq ij;wi pn;kk	0
-光伏人	gd;ea fu;rq rf;pd	0
 光伏企业	gd;ea fu;rq qi;rv ye;aa	0
 光伏储能	gd;ea fu;rq iu;rv ng;sb	0
 光伏公司	gd;ea fu;rq gs;sb si;gk	0

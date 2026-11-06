@@ -30112,7 +30112,7 @@
 𠮫	kw wk
 𠮬	kw
 𠮭	ku
-𠮮	ka py
+𠮮	kq py
 𠮯	kj jk
 𠮱	kk
 𠮲	kk
@@ -84078,6 +84078,7 @@
 𬻒	ag
 𠁢	ay
 𳏮	nh
+𮤔	md
 𣮚	mf
 𣴅	df
 𨯾	jj
