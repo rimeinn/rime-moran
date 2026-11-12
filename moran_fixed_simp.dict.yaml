@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20261106"
+version: "20261108"
 sort: original
 columns:
   - text
@@ -20727,6 +20727,7 @@ F盘	fpj
 高傲自大	gazd
 嘎子	gazi
 够	gb
+根本	gb
 苟安	gban
 孤标傲世	gbau
 购	gbb

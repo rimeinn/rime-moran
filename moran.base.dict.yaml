@@ -10,7 +10,7 @@
 
 ---
 name: moran.base
-version: "20261020"
+version: "20261109"
 sort: by_weight
 columns:
   - text
@@ -13077,8 +13077,6 @@ columns:
 干子	gj;aa zi;aa	1
 干季	gj;aa ji;hz	16
 乾宅	qm;uq vl;bq	1
-干安	gj;aa an;bn	1
-干安县	gj;aa an;bn xm;sq	1
 干尸	gj;aa ui;ap	232
 干屎橛	gj;aa ui;um jt;mj	1
 干巴	gj;aa ba;ag	94
@@ -20740,8 +20738,8 @@ columns:
 佛土	fu;rf tu;aa	10
 佛在心头坐	fu;rf zl;ut xn;dd tb;dd zo;tc	0
 佛地	fu;rf di;ty	0
-佛坪	fu;rf py;tp	4
-佛坪县	fu;rf py;tp xm;sq	3
+佛坪	fo;rf py;tp	4
+佛坪县	fo;rf py;tp xm;sq	3
 佛堂	fo;rf th;tk	129
 佛场	fu;rf ih;ty	0
 佛塔	fo;rf ta;td	146
@@ -20761,8 +20759,8 @@ columns:
 佛山地区	fo;rf uj;aa di;ty qu;ki	1
 佛山市	fo;rf uj;aa ui;wj	104
 佛山木版年画	fo;rf uj;aa mu;ad bj;pf nm;ra hw;ak	0
-佛冈	fu;rf gh;ki	4
-佛冈县	fu;rf gh;ki xm;sq	1
+佛冈	fo;rf gh;ki	4
+佛冈县	fo;rf gh;ki xm;sq	1
 佛布兹	fu;rf bu;ju zi;qy	1
 佛帕	fu;rf pa;jb	0
 佛度有缘人	fu;rf du;gy yb;ou yr;st rf;pd	0
@@ -72978,7 +72976,7 @@ columns:
 太子少保	tl;dd zi;aa uk;xp bk;rd	21
 太子少师	tl;dd zi;aa uk;xp ui;ab	3
 太子河区	tl;dd zi;aa he;dk qu;ki	1
-太子洗马	tl;dd zi;aa xi;dx ma;aa	7
+太子洗马	tl;dd zi;aa xm;dx ma;aa	7
 太子港	tl;dd zi;aa gh;dx	15
 太子舍人	tl;dd zi;aa ue;ru rf;pd	1
 太子党	tl;dd zi;aa dh;ek	109
@@ -89246,9 +89244,9 @@ columns:
 峿山	yu;uw uj;aa	0
 崁顶	kj;uk dy;yd	1
 崁顶乡	kj;uk dy;yd xd;ap	1
-崆峒	ks;uk ds;ut	42
-崆峒区	ks;uk ds;ut qu;ki	1
-崆峒山	ks;uk ds;ut uj;aa	38
+崆峒	ks;uk ts;ut	42
+崆峒区	ks;uk ts;ut qu;ki	1
+崆峒山	ks;uk ts;ut uj;aa	38
 崇仁	is;uz rf;re	13
 崇仁县	is;uz rf;re xm;sq	1
 崇仰	is;uz yh;re	3
@@ -93884,7 +93882,6 @@ columns:
 干女教师	gj;aa nv;aa jc;wx ui;ab	0
 干她	gj;aa ta;ny	1
 干好	gj;aa hk;nz	591
-干安	gj;aa an;bn	1
 干完	gj;aa wj;by	773
 干家	gj;aa jw;bu	1
 干家做活	gj;aa jw;bu zo;rg ho;du	0
@@ -96332,8 +96329,8 @@ columns:
 弓身	gs;vg uf;pp	67
 弓辰	gs;vg if;iy	1
 弓锯	gs;vg ju;jj	1
-弓长岭	gs;vg vh;pd ly;ul	1
-弓长岭区	gs;vg vh;pd ly;ul qu;ki	1
+弓长岭	gs;vg ih;pd ly;ul	1
+弓长岭区	gs;vg ih;pd ly;ul qu;ki	1
 弓虽	gs;vg sv;ki	1
 弓鞋	gs;vg xx;gg	6
 弓鞬	gs;vg jm;gj	0
@@ -153195,7 +153192,8 @@ columns:
 民业	mn;ag ye;aa	0
 民极	mn;ag ji;mj	1
 民乐	mn;ag yt;pd	770
-民乐县	mn;ag yt;pd xm;sq	3
+民乐	mn;ag le;pd	0
+民乐县	mn;ag le;pd xm;sq	3
 民权	mn;ag qr;my	169
 民权主义	mn;ag qr;my vu;dw yi;id	18
 民权初步	mn;ag qr;my iu;yd bu;vx	1
@@ -159514,6 +159512,7 @@ columns:
 洗头	xi;dx tb;dd	1429
 洗头房	xi;dx tb;dd fh;hf	37
 洗头发	xi;dx tb;dd fa;ay	218
+洗马	xm;dx ma;aa	9
 洗马	xi;dx ma;aa	9
 洗发	xi;dx fa;ay	268
 洗发乳	xi;dx fa;ay ru;gf	1
@@ -229387,7 +229386,7 @@ columns:
 蚊香	wf;iw xd;ho	713
 蚊香盒	wf;iw xd;ho he;mh	1
 蚌埠	bg;if bu;tf	133
-蚌埠市	bh;if fu;tf ui;wj	9
+蚌埠市	bg;if fu;tf ui;wj	9
 蚌山	bh;if uj;aa	1
 蚌山区	bh;if uj;aa qu;ki	1
 蚌壳	bh;if ke;uj	58
@@ -283499,19 +283498,21 @@ columns:
 马尼拉	ma;aa ni;ub la;fl	249
 马尼拉大学	ma;aa ni;ub la;fl da;ad xt;zb	1
 马尼拉麻	ma;aa ni;ub la;fl ma;gl	3
-马尾	ma;aa yi;um	501
+马尾	ma;aa wz;um	500
+马尾	ma;aa yi;um	1
 马尾中鬃豆腐	ma;aa yi;um vs;aa zs;iz db;aa fu;gr	0
 马尾儿穿豆腐	ma;aa yi;um er;pg ir;xy db;aa fu;gr	0
-马尾区	ma;aa yi;um qu;ki	5
-马尾巴	ma;aa yi;um ba;ag	16
+马尾区	ma;aa wz;um qu;ki	5
+马尾巴	ma;aa wz;um ba;ag	16
+马尾松	ma;aa wz;um ss;mg	26
 马尾松	ma;aa yi;um ss;mg	26
-马尾水	ma;aa yi;um uv;ad	1
-马尾水师学堂	ma;aa yi;um uv;ad ui;ab xt;zb th;tk	1
-马尾港	ma;aa yi;um gh;dx	1
+马尾水	ma;aa wz;um uv;ad	1
+马尾水师学堂	ma;aa wz;um uv;ad ui;ab xt;zb th;tk	1
+马尾港	ma;aa wz;um gh;dx	1
 马尾穿豆腐	ma;aa yi;um ir;xy db;aa fu;gr	1
-马尾藻	ma;aa yi;um zk;cz	1
-马尾军港	ma;aa yi;um jp;bi gh;dx	1
-马尾辫	ma;aa yi;um bm;sx	87
+马尾藻	ma;aa wz;um zk;cz	1
+马尾军港	ma;aa wz;um jp;bi gh;dx	1
+马尾辫	ma;aa wz;um bm;sx	87
 马屁	ma;aa pi;ub	457
 马屁大王	ma;aa pi;ub da;ad wh;aa	1
 马屁拍在马脚上	ma;aa pi;ub pl;fb zl;ut ma;aa jc;oq uh;aa	0
@@ -313432,7 +313433,7 @@ columns:
 佛岛加勒比海宝螺	fu;rf dk;nu jw;lk le;lg bi;bb hl;dm bk;by lo;il	1
 佛罗里达多管水母	fu;rf lo;sx li;aa da;zd do;xx gr;vg uv;ad mu;vd	1
 佛瑞斯塔号航空母舰	fu;rf rv;we si;jq ta;td hk;kk hh;vk ks;xg mu;vd jm;vj	0
-佛坪国家级自然保护区	fu;rf py;tp go;ky jw;bu ji;sj zi;pa rj;hq bk;rd hu;fh qu;ki	1
+佛坪国家级自然保护区	fo;rf py;tp go;ky jw;bu ji;sj zi;pa rj;hq bk;rd hu;fh qu;ki	1
 伏梁	fu;rq ld;md	1
 伏兔	fu;rq tu;dd	20
 伏完	fu;rq wj;by	9
@@ -343524,7 +343525,7 @@ columns:
 控制现金投放	ks;fk vi;dg xm;wj jn;ra tb;fu fh;wf	1
 控弦尽用阴山儿	ks;fk xm;gx jn;id ys;kf yn;eo uj;aa er;pg	1
 控制洗钱及相关犯罪法律问题研究	ks;fk vi;dg xi;dx qm;jj ji;nd xd;mo gr;qd fj;qe zv;sf fa;dq lv;xy wf;km ti;uy yj;uk jq;xj	1
-崆峒区西大街	ks;uk ds;ut qu;ki xi;aa da;ad jx;xg	1
+崆峒区西大街	ks;uk ts;ut qu;ki xi;aa da;ad jx;xg	1
 箜篌所悲竟不还	ks;vk hb;vh so;hj bz;xf jy;le bu;ad hl;zb	1
 空换	ks;xg hr;fh	6
 空开	ks;xg kl;ac	66
@@ -352402,8 +352403,8 @@ columns:
 马一龙	ma;aa yi;aa ls;ad	88
 马伊俐	ma;aa yi;ry li;rl	0
 马伊琍	ma;aa yi;ry li;wl	78
-马尾沟	ma;aa yi;um gb;dg	0
-马尾蟹	ma;aa yi;um xx;ij	0
+马尾沟	ma;aa wz;um gb;dg	0
+马尾蟹	ma;aa wz;um xx;ij	0
 马义兴	ma;aa yi;id xy;ba	1
 马燕红	ma;aa yj;ch hs;sg	1
 马艳丽	ma;aa yj;fs li;ad	26
@@ -352519,9 +352520,9 @@ columns:
 马行沟村	ma;aa xy;xi gb;dg cp;mc	1
 马益顺巷	ma;aa yi;mb up;yi xd;sg	1
 马依足乡	ma;aa yi;ry zu;kv xd;ap	1
-马尾海关	ma;aa yi;um hl;dm gr;qd	0
-马尾旧街	ma;aa yi;um jq;ao jx;xg	0
-马尾区委	ma;aa yi;um qu;ki wz;hn	0
+马尾海关	ma;aa wz;um hl;dm gr;qd	0
+马尾旧街	ma;aa wz;um jq;ao jx;xg	0
+马尾区委	ma;aa wz;um qu;ki wz;hn	0
 马营庄乡	ma;aa yy;cl vd;gt xd;ap	1
 马自达八	ma;aa zi;pa da;zd ba;pd	1
 马鞍池西路	ma;aa an;ga ii;dy xi;aa lu;zg	1
@@ -352580,10 +352581,10 @@ columns:
 马寨村委会	ma;aa vl;mb cp;mc wz;hn hv;ry	1
 马祥兴菜馆	ma;aa xd;uy xy;ba cl;cc gr;ug	1
 马耶墨头鱼	ma;aa ye;ee mo;th tb;dd yu;da	1
-马尾保税区	ma;aa yi;um bk;rd uv;hd qu;ki	0
-马尾罗星塔	ma;aa yi;um lo;sx xy;ou ta;td	0
-马尾造船厂	ma;aa yi;um zk;zg ir;vk ih;ap	0
-马尾综合征	ma;aa yi;um zs;sz he;rk vg;xv	0
+马尾保税区	ma;aa wz;um bk;rd uv;hd qu;ki	0
+马尾罗星塔	ma;aa wz;um lo;sx xy;ou ta;td	0
+马尾造船厂	ma;aa wz;um zk;zg ir;vk ih;ap	0
+马尾综合征	ma;aa wz;um zs;sz he;rk vg;xv	0
 马约特卷尾	ma;aa yt;su te;ns jr;ef wz;um	1
 马自达劲翔	ma;aa zi;pa da;zd jn;lg xd;yy	1
 马鬃苗族乡	ma;aa zs;iz mc;ct zu;fu xd;ap	1
@@ -352622,8 +352623,8 @@ columns:
 马寨村村委会	ma;aa vl;mb cp;mc cp;mc wz;hn hv;ry	1
 马巷镇桐梓村	ma;aa xd;sg vf;jv ts;mt zi;mx cp;mc	1
 马雅可夫斯基	ma;aa ya;vy ke;dk fu;ad si;jq ji;tq	33
-马尾松点尺蛾	ma;aa yi;um ss;mg dm;hv ii;ad ee;iw	0
-马尾松梢小蠹	ma;aa yi;um ss;mg uk;mx xc;ad du;iu	0
+马尾松点尺蛾	ma;aa wz;um ss;mg dm;hv ii;ad ee;iw	0
+马尾松梢小蠹	ma;aa wz;um ss;mg uk;mx xc;ad du;iu	0
 马约岛花蜜鸟	ma;aa yt;su dk;nu hw;ch mi;ib nc;pa	1
 马应龙痔疮膏	ma;aa yy;ga ls;ad vi;bs id;bc gk;og	11
 马自达普力马	ma;aa zi;pa da;zd pu;ob li;gp ma;aa	2
@@ -352669,7 +352670,7 @@ columns:
 马嵬坡下泥土中	ma;aa wz;ug po;tp xw;ab ni;dn tu;aa vs;aa	2
 马锡五审判方式	ma;aa xi;jy wu;aa uf;bu pj;db fh;wd ui;gy	1
 马歇尔岛拟雀鲷	ma;aa xx;qh er;dx dk;nu ni;fy qt;vx dc;yv	1
-马尾松梢小卷蛾	ma;aa yi;um ss;mg uk;mx xc;ad jr;ef ee;iw	0
+马尾松梢小卷蛾	ma;aa wz;um ss;mg uk;mx xc;ad jr;ef ee;iw	0
 马应龙八宝眼粉	ma;aa yy;ga ls;ad ba;pd bk;by yj;og ff;mf	1
 马达加斯加爱情鸟	ma;aa da;zd jw;lk si;jq jw;lk ai;vy qy;xq nc;pa	1
 马达加斯加残趾虎	ma;aa da;zd jw;lk si;jq jw;lk cj;dj vi;zv hu;hj	1
@@ -414595,7 +414596,7 @@ columns:
 药用植物害虫柑桔凤蝶	yk;cy ys;kf vi;mv wu;nw hl;bk is;ad gj;mg ju;mj fg;jy dx;im	1
 药用植物害虫光肩星天牛	yk;cy ys;kf vi;mv wu;nw hl;bk is;ad gd;ea jm;oh xy;ou tm;ad nq;pa	1
 药用植物害虫绿尾大蚕蛾	yk;cy ys;kf vi;mv wu;nw hl;bk is;ad lv;sl wz;um da;ad cj;it ee;iw	1
-药用植物害虫马尾松毛虫	yk;cy ys;kf vi;mv wu;nw hl;bk is;ad ma;aa yi;um ss;mg mk;pg is;ad	1
+药用植物害虫马尾松毛虫	yk;cy ys;kf vi;mv wu;nw hl;bk is;ad ma;aa wz;um ss;mg mk;pg is;ad	1
 药用植物害虫银杏大蚕蛾	yk;cy ys;kf vi;mv wu;nw hl;bk is;ad yn;jg xy;mk da;ad cj;it ee;iw	1
 药品监督管理政策法规汇编	yk;cy pn;kk jm;mv du;ou gr;vg li;wl vg;wv ce;vc fa;dq gv;fj hv;dk bm;sb	1
 药品监督行政处罚程序规定	yk;cy pn;kk jm;mv du;ou xy;xi vg;wv iu;wb fa;sd ig;hi xu;gy gv;fj dy;bp	1
@@ -825646,7 +825647,7 @@ columns:
 蚂蚁竞走	ma;im yi;iy jy;lx zb;tv	8
 骂一句	ma;km yi;aa ju;gk	212
 蚂蚁人	ma;im yi;iy rf;pd	4
-马尾杉	ma;aa yi;um uj;mp	0
+马尾杉	ma;aa wz;um uj;mp	0
 蚂蚁上市	ma;im yi;iy uh;aa ui;wj	30
 玛依塔斯	ma;wm yi;ry ta;td si;jq	0
 蚂蚁网	ma;im yi;iy wh;ki	0
@@ -825654,7 +825655,7 @@ columns:
 蚂蚁新村	ma;im yi;iy xn;jq cp;mc	0
 吗咿呀嘿	ma;km yi;ky ya;ky hz;kh	0
 蚂蚁在爬	ma;im yi;iy zl;ut pa;vb	12
-马尾藻科	ma;aa yi;um zk;cz ke;hd	0
+马尾藻科	ma;aa wz;um zk;cz ke;hd	0
 马宜中	ma;aa yi;bq vs;aa	2
 马印航空	ma;aa yn;ey hh;vk ks;xg	0
 马应龙	ma;aa yy;ga ls;ad	55
