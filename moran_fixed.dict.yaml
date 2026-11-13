@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20261106"
+version: "20261113"
 sort: by_weight
 columns:
   - text
@@ -122640,6 +122640,7 @@ SD卡	sdk
 中间人	vjr
 召集人	vjr
 這幾天	vjt
+中間態	vjt
 中間體	vjt
 這件事	vju
 浙江省	vju
