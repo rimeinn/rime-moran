@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20261108"
+version: "20261113"
 sort: original
 columns:
   - text
@@ -119366,6 +119366,7 @@ SD卡	sdk
 中间人	vjr
 召集人	vjr
 这几天	vjt
+中间态	vjt
 中间体	vjt
 这件事	vju
 浙江省	vju
