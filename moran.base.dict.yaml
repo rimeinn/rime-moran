@@ -10,7 +10,7 @@
 
 ---
 name: moran.base
-version: "20261109"
+version: "20261115"
 sort: by_weight
 columns:
   - text
@@ -285404,7 +285404,7 @@ columns:
 體院	ti;gd yr;ew	176
 體面	ti;gd mm;aa	2470
 體面起來	ti;gd mm;aa qi;zj ll;ad	1
-體香	ti;gd xd;ho	83
+體香	ti;gd xd;ho	183
 體香劑	ti;gd xd;ho ji;dq	1
 體驗	ti;gd yj;mq	80638
 體驗出	ti;gd yj;mq iu;aa	30
