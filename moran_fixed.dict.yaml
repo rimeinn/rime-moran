@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20261113"
+version: "20261114"
 sort: by_weight
 columns:
   - text
@@ -19696,7 +19696,9 @@ F盤	fpj
 夫妻肺片	fqfp
 分期分批	fqfp
 番茄工作法	fqgf
+夫妻共同財產	fqgi
 夫妻感情	fqgq
+夫妻共同債務	fqgv
 夫妻關係	fqgx
 發起話題	fqht
 負屈含冤	fqhy
@@ -25198,6 +25200,7 @@ G盤	gpj
 關停並轉	gtbv
 顧頭不顧尾	gtbw
 感嘆不已	gtby
+共同財產	gtci
 共同參與	gtcy
 感天動地	gtdd
 高頭大馬	gtdm
@@ -25283,6 +25286,7 @@ G盤	gpj
 鋼鐵直男	gtvn
 鋼鐵直女	gtvn
 寡頭政治	gtvv
+共同債務	gtvw
 各條戰線	gtvx
 個體主義	gtvy
 共同維護	gtwh
@@ -123514,6 +123518,7 @@ Word	wrd
 下禮拜	xlb
 性冷淡	xld
 巡邏隊	xld
+西里爾	xle
 洗理費	xlf
 修理工	xlg
 小狼毫	xlh
