@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20261113"
+version: "20261114"
 sort: original
 columns:
   - text
@@ -19093,7 +19093,9 @@ F盘	fpj
 夫妻肺片	fqfp
 分期分批	fqfp
 番茄工作法	fqgf
+夫妻共同财产	fqgi
 夫妻感情	fqgq
+夫妻共同债务	fqgv
 夫妻关系	fqgx
 发起话题	fqht
 负屈含冤	fqhy
@@ -24472,6 +24474,7 @@ G盘	gpj
 关停并转	gtbv
 顾头不顾尾	gtbw
 感叹不已	gtby
+共同财产	gtci
 共同参与	gtcy
 感天动地	gtdd
 高头大马	gtdm
@@ -24557,6 +24560,7 @@ G盘	gpj
 钢铁直男	gtvn
 钢铁直女	gtvn
 寡头政治	gtvv
+共同债务	gtvw
 各条战线	gtvx
 个体主义	gtvy
 共同维护	gtwh
@@ -120242,6 +120246,7 @@ Word	wrd
 下礼拜	xlb
 性冷淡	xld
 巡逻队	xld
+西里尔	xle
 洗理费	xlf
 修理工	xlg
 小狼毫	xlh

@@ -10,7 +10,7 @@
 
 ---
 name: moran.base
-version: "20261109"
+version: "20261116"
 sort: by_weight
 columns:
   - text
@@ -16845,7 +16845,9 @@ columns:
 人弃我取	rf;pd qi;cs wo;pd qu;ey	18
 人极	rf;pd ji;mj	1
 人模人样	rf;pd mo;mm rf;pd yh;my	48
+人模人样	rf;pd mu;mm rf;pd yh;my	48
 人模狗样	rf;pd mo;mm gb;qj yh;my	146
+人模狗样	rf;pd mu;mm gb;qj yh;my	146
 人样	rf;pd yh;my	148
 人样儿	rf;pd yh;my er;pg	0
 人样子	rf;pd yh;my zi;aa	10
@@ -27266,6 +27268,7 @@ columns:
 像是	xd;rx ui;op	12588
 像杯	xd;rx bz;mb	1
 像模像样	xd;rx mo;mm xd;rx yh;my	299
+像模像样	xd;rx mu;mm xd;rx yh;my	299
 像样	xd;rx yh;my	219
 像样儿	xd;rx yh;my er;pg	10
 像样的	xd;rx yh;my de;bu	1514
@@ -64640,6 +64643,7 @@ columns:
 坯布	pi;tp bu;ju	22
 坯料	pi;tp lc;md	17
 坯模	pi;tp mo;mm	1
+坯模	pi;tp mu;mm	1
 坯体	pi;tp ti;rb	0
 坰牧	js;tj mu;nw	0
 坰野	js;tj ye;ly	0
@@ -78371,6 +78375,7 @@ columns:
 字根通用码	zi;bz gf;mg ts;zy ys;kf ma;um	1
 字条	zi;bz tc;wm	248
 字模	zi;bz mo;mm	75
+字模	zi;bz mu;mm	75
 字样	zi;bz yh;my	1848
 字样学	zi;bz yh;my xt;zb	0
 字档	zi;bz dh;md	1
@@ -86090,6 +86095,7 @@ columns:
 小楼	xc;ad lb;ml	586
 小标题	xc;ad bc;mu ti;uy	627
 小模样儿	xc;ad mo;mm yh;my er;pg	0
+小模样儿	xc;ad mu;mm yh;my er;pg	0
 小样	xc;ad yh;my	699
 小样儿	xc;ad yh;my er;pg	40
 小树	xc;ad uu;md	272
@@ -103151,6 +103157,7 @@ columns:
 怪才	gy;xu cl;ap	104
 怪招	gy;xu vk;fv	35
 怪模怪样	gy;xu mo;mm gy;xu yh;my	26
+怪模怪样	gy;xu mu;mm gy;xu yh;my	26
 怪样	gy;xu yh;my	4
 怪样子	gy;xu yh;my zi;aa	10
 怪气	gy;xu qi;py	13
@@ -104810,6 +104817,7 @@ columns:
 恶业	ee;xy ye;aa	1
 恶极	ee;xy ji;mj	1
 恶模恶样	ee;xy mo;mm ee;xy yh;my	1
+恶模恶样	ee;xy mu;mm ee;xy yh;my	1
 恶岁	ee;xy sv;ux	1
 恶毒	ee;xy du;fm	619
 恶气	ee;xy qi;py	70
@@ -114995,6 +115003,7 @@ columns:
 拉绊着	la;fl bj;sb ve;yo	0
 拉丝	la;fl si;aa	659
 拉丝模	la;fl si;aa mo;mm	1
+拉丝模	la;fl si;aa mu;mm	1
 拉网	la;fl wh;ki	22
 拉紧	la;fl jn;sy	275
 拉线	la;fl xm;sj	226
@@ -138242,6 +138251,7 @@ columns:
 有枪	yb;ou qd;mc	235
 有模子	yb;ou mu;mm zi;aa	0
 有模有样	yb;ou mo;mm yb;ou yh;my	279
+有模有样	yb;ou mu;mm yb;ou yh;my	279
 有样	yb;ou yh;my	1
 有样子	yb;ou yh;my zi;aa	0
 有样学样	yb;ou yh;my xt;zb yh;my	232
@@ -139602,6 +139612,7 @@ columns:
 木乐	mu;ad le;pd	1
 木梁	mu;ad ld;md	1
 木模	mu;ad mo;mm	9
+木模	mu;ad mu;mm	9
 木樨	mu;ad xi;mx	13
 木樨地	mu;ad xi;mx di;ty	36
 木桥	mu;ad qc;mq	58
@@ -147390,6 +147401,7 @@ columns:
 模块板	mo;mm ky;td bj;mf	1
 模塑成形	mo;mm su;to ig;gg xy;pk	0
 模压	mo;mm ya;id	29
+模压	mu;mm ya;id	29
 模子	mu;mm zi;aa	302
 模写	mo;mm xx;by	0
 模写论	mo;mm xx;by lp;yl	0
@@ -151079,7 +151091,8 @@ columns:
 死板	si;db bj;mf	1225
 死板板	si;db bj;mf bj;mf	1
 死棋	si;db qi;mq	33
-死模活漾	si;db mo;mm ho;du yh;dy	0
+死模活样	si;db mo;mm ho;du yh;my	0
+死模活样	si;db mu;mm ho;du yh;my	0
 死机	si;db ji;mj	559
 死机蓝屏	si;db ji;mj lj;cj py;ub	1
 死死	si;db si;db	855
@@ -156889,6 +156902,7 @@ columns:
 冲服剂	is;dv fu;oy ji;dq	1
 冲末	is;dv mo;ad	1
 冲模	is;dv mo;mm	1
+冲模	is;dv mu;mm	1
 冲毁	is;dv hv;ug	65
 冲水	is;dv uv;ad	478
 冲决	is;dv jt;dd	10
@@ -174141,6 +174155,7 @@ columns:
 版本号	bj;pf bf;aa hk;kk	543
 版桩	bj;pf vd;mv	0
 版模	bj;pf mo;mm	1
+版模	bj;pf mu;mm	1
 版样	bj;pf yh;my	6
 版权	bj;pf qr;my	14048
 版权保护	bj;pf qr;my bk;rd hu;fh	668
@@ -191639,6 +191654,7 @@ columns:
 砂岛	ua;uu dk;nu	0
 砂布	ua;uu bu;ju	5
 砂模	ua;uu mo;mm	0
+砂模	ua;uu mu;mm	0
 砂样	ua;uu yh;my	1
 砂浆	ua;uu jd;ux	75
 砂滤器	ua;uu lv;dl qi;kk	1
@@ -216716,6 +216732,7 @@ columns:
 脱星	to;od xy;ou	1
 脱期	to;od qi;oq	3
 脱模	to;od mo;mm	173
+脱模	to;od mu;mm	173
 脱机	to;od ji;mj	73
 脱档	to;od dh;md	8
 脱壳	to;od qc;uj	80
@@ -230116,6 +230133,7 @@ columns:
 螺桨船	lo;il jd;mx ir;vk	0
 螺桨毂	lo;il jd;mx gu;iu	0
 螺模	lo;il mo;mm	0
+螺模	lo;il mu;mm	0
 螺母	lo;il mu;vd	171
 螺母螺栓	lo;il mu;vd lo;il ur;mq	1
 螺溪石砚	lo;il xi;dx ui;kp yj;uj	0
@@ -230130,6 +230148,7 @@ columns:
 螺丝扣	lo;il si;aa kb;fk	3
 螺丝攻	lo;il si;aa gs;wg	0
 螺丝模	lo;il si;aa mo;mm	0
+螺丝模	lo;il si;aa mu;mm	0
 螺丝母	lo;il si;aa mu;vd	1
 螺丝起子	lo;il si;aa qi;zj zi;aa	25
 螺丝钉	lo;il si;aa dy;jd	1151
@@ -233133,6 +233152,7 @@ columns:
 装束	vd;yv uu;ad	377
 装框	vd;yv kd;mk	41
 装模作样	vd;yv mo;mm zo;rv yh;my	485
+装模作样	vd;yv mu;mm zo;rv yh;my	485
 装样子	vd;yv yh;my zi;aa	44
 装机	vd;yv ji;mj	496
 装机容量	vd;yv ji;mj rs;bg ld;ol	87
@@ -233519,6 +233539,7 @@ columns:
 复合架	fu;wo he;rk jw;mj	1
 复合概念	fu;wo he;rk gl;mj nm;xj	1
 复合模	fu;wo he;rk mo;mm	1
+复合模	fu;wo he;rk mu;mm	1
 复合样式	fu;wo he;rk yh;my ui;gy	1
 复合机	fu;wo he;rk ji;mj	7
 复合母音	fu;wo he;rk mu;vd yn;lo	1
@@ -263007,6 +263028,7 @@ columns:
 金属杆	jn;ra uu;uy gj;mg	48
 金属棒	jn;ra uu;uy bh;mf	64
 金属模	jn;ra uu;uy mo;mm	3
+金属模	jn;ra uu;uy mu;mm	3
 金属氢	jn;ra uu;uy qy;qg	0
 金属片	jn;ra uu;uy pm;pa	115
 金属环	jn;ra uu;uy hr;wb	32
@@ -264061,6 +264083,7 @@ columns:
 铅条	qm;jk tc;wm	6
 铅椠	qm;jk qm;mv	0
 铅模	qm;jk mo;mm	1
+铅模	qm;jk mu;mm	1
 铅汞	qm;jk gs;ug	1
 铅活字印刷机	qm;jk ho;du zi;bz yn;ey uw;dj ji;mj	1
 铅泪	qm;jk lz;do	0
@@ -264454,6 +264477,7 @@ columns:
 铜棒	ts;jt bh;mf	1
 铜业	ts;jt ye;aa	38
 铜模	ts;jt mo;mm	7
+铜模	ts;jt mu;mm	7
 铜油	ts;jt yb;dy	1
 铜活	ts;jt ho;du	1
 铜漏	ts;jt lb;dl	1
@@ -265646,6 +265670,7 @@ columns:
 锻工	dr;jd gs;aa	5
 锻接	dr;jd jx;fq	1
 锻模	dr;jd mo;mm	1
+锻模	dr;jd mu;mm	1
 锻炼出	dr;jd lm;hd iu;aa	1
 锻烧	dr;jd uk;hy	6
 锻烧成	dr;jd uk;hy ig;gg	1
@@ -266132,6 +266157,7 @@ columns:
 钟楼区	vs;jv lb;ml qu;ki	1
 钟楼怪人	vs;jv lb;ml gy;xu rf;pd	1
 钟模	vs;jv mo;mm	1
+钟模	vs;jv mu;mm	1
 钟没	vs;jv mz;du	1
 钟漏	vs;jv lb;dl	1
 钟王	vs;jv wh;aa	1
@@ -266562,6 +266588,7 @@ columns:
 铸成	vu;ju ig;gg	264
 铸成大错	vu;ju ig;gg da;ad co;jx	35
 铸模	vu;ju mo;mm	14
+铸模	vu;ju mu;mm	14
 铸物	vu;ju wu;nw	1
 铸造	vu;ju zk;zg	1471
 铸造出	vu;ju zk;zg iu;aa	21
@@ -285404,7 +285431,7 @@ columns:
 体院	ti;rb yr;ew	176
 体面	ti;rb mm;aa	2470
 体面起来	ti;rb mm;aa qi;zj ll;am	1
-体香	ti;rb xd;ho	83
+体香	ti;rb xd;ho	183
 体香剂	ti;rb xd;ho ji;dq	1
 体验	ti;rb yj;ma	80638
 体验出	ti;rb yj;ma iu;aa	30
@@ -305669,6 +305696,7 @@ columns:
 倒巴	dk;rd ba;ag	1
 倒经	dk;rd jy;sg	1
 倒模	dk;rd mo;mm	36
+倒模	dk;rd mu;mm	36
 倒西	dk;rd xi;aa	5
 倒扣草	dk;rd kb;fk ck;cz	1
 倒钞胡同	dk;rd ik;ju hu;og ts;kk	1
@@ -324323,6 +324351,7 @@ columns:
 函数讲解	hj;lk uu;wl jd;yj jx;jn	1
 函数节流	hj;lk uu;wl jx;ce lq;di	3
 函数模版	hj;lk uu;wl mo;mm bj;pf	0
+函数模版	hj;lk uu;wl mu;mm bj;pf	0
 函数模型	hj;lk uu;wl mo;mm xy;tx	1
 函数模板	hj;lk uu;wl mu;mm bj;mf	5
 函数声明	hj;lk uu;wl ug;um my;oo	12
@@ -355255,6 +355284,7 @@ columns:
 默氏副半节鲂𫚒	mo;hq ui;pg fu;df bj;bf jx;ce fh;yf fu;yf	1
 默氏厉牙长尾鳕	mo;hq ui;pg li;iw ya;ap ih;pd wz;um xt;yx	1
 模版类	mo;mm bj;pf lz;md	0
+模版类	mu;mm bj;pf lz;md	0
 模毒蛾	mo;mm du;fm ee;iw	1
 模范乡	mo;mm fj;ce xd;ap	1
 模块外	mo;mm ky;td wl;xb	5
@@ -355265,7 +355295,9 @@ columns:
 模型论	mo;mm xy;tx lp;yl	6
 模运算	mo;mm yp;zy sr;vc	9
 模版方法	mo;mm bj;pf fh;wd fa;dq	0
+模版方法	mu;mm bj;pf fh;wd fa;dq	0
 模版引擎	mo;mm bj;pf yn;ga qy;uj	0
+模版引擎	mu;mm bj;pf yn;ga qy;uj	0
 模范马路	mo;mm fj;ce ma;aa lu;zg	1
 模范西路	mo;mm fj;ce xi;aa lu;zg	1
 模块安装	mo;mm ky;td an;bn vd;yv	7
@@ -355328,6 +355360,7 @@ columns:
 模数转换器	mo;mm uu;wl vr;iv hr;fh qi;kk	19
 模型生成器	mo;mm xy;tx ug;na ig;gg qi;kk	1
 模版方法模式	mo;mm bj;pf fh;wd fa;dq mo;mm ui;gy	0
+模版方法模式	mu;mm bj;pf fh;wd fa;dq mo;mm ui;gy	0
 模糊仿隐绵蟹	mo;mm hu;mh fh;rf yn;ej mm;sb xx;ij	1
 模里西斯宝螺	mo;mm li;aa xi;aa si;jq bk;by lo;il	1
 模拟电子技术	mo;mm ni;fy dm;ag zi;aa ji;fv uu;md	56
@@ -365656,6 +365689,7 @@ columns:
 灈阳镇	qu;dq yh;eo vf;jv	1
 取秒	qu;ey mc;hu	1
 取模	qu;ey mo;mm	99
+取模	qu;ey mu;mm	99
 取整	qu;ey vg;vi	215
 取指	qu;ey vi;fv	13
 取错误	qu;ey co;jx wu;yw	1
@@ -371551,6 +371585,7 @@ columns:
 算法理解	sr;vc fa;dq li;wl jx;jn	13
 算法理论	sr;vc fa;dq li;wl lp;yl	30
 算法模版	sr;vc fa;dq mo;mm bj;pf	0
+算法模版	sr;vc fa;dq mu;mm bj;pf	0
 算法模板	sr;vc fa;dq mu;mm bj;mf	15
 算法思想	sr;vc fa;dq si;xt xd;xx	63
 算法提高	sr;vc fa;dq ti;fu gk;wk	1
@@ -424646,6 +424681,7 @@ columns:
 把剑	ba;fb jm;da	301
 扒了	ba;fb le;aa	442
 拔模	ba;fb mo;mm	9
+拔模	ba;fb mu;mm	9
 把每	ba;fb mz;rm	123
 把您	ba;fb nn;xn	90
 把女	ba;fb nv;aa	16
@@ -431572,6 +431608,7 @@ columns:
 编纂者	bm;sb zr;vs ve;ol	53
 编组站	bm;sb zu;sq vj;lv	14
 编笆造模	bm;sb ba;vb zk;zg mo;mm	1
+编笆造模	bm;sb ba;vb zk;zg mu;mm	1
 编不出来	bm;sb bu;ad iu;aa ll;am	73
 编的谎话	bm;sb de;bu hd;yh hw;yu	3
 编的程序	bm;sb de;bu ig;hi xu;gy	3
@@ -449388,6 +449425,7 @@ columns:
 底栏	di;gd lj;ml	64
 底流	di;gd lq;di	5
 底模	di;gd mo;mm	9
+底模	di;gd mu;mm	9
 底图	di;gd tu;kd	246
 底商	di;gd uh;wk	96
 底妆	di;gd vd;np	206
@@ -454277,6 +454315,7 @@ columns:
 刀拉	dk;gp la;fl	3
 刀落	dk;gp lo;cl	12
 刀模	dk;gp mo;mm	21
+刀模	dk;gp mu;mm	21
 刀妹	dk;gp mz;nw	153
 刀劈	dk;gp pi;db	60
 刀盘	dk;gp pj;mv	134
@@ -470682,6 +470721,7 @@ columns:
 狗拉雪橇	gb;qj la;fl xt;yx qc;mm	23
 狗猛酒酸	gb;qj mg;qm jq;dy sr;yj	1
 狗模狗样	gb;qj mo;mm gb;qj yh;my	1
+狗模狗样	gb;qj mu;mm gb;qj yh;my	1
 狗年大吉	gb;qj nm;ra da;ad ji;ku	12
 狗头生角	gb;qj tb;dd ug;na jc;dy	1
 狗头鼠脑	gb;qj tb;dd uu;ju nk;ox	1
@@ -473476,6 +473516,7 @@ columns:
 钢轮	gh;jg lp;il	15
 钢门	gh;jg mf;dg	14
 钢模	gh;jg mo;mm	34
+钢模	gh;jg mu;mm	34
 钢木	gh;jg mu;ad	12
 钢盘	gh;jg pj;mv	5
 钢炮	gh;jg pk;hb	113
@@ -491403,6 +491444,7 @@ columns:
 胡肥钟瘦	hu;og fz;ob vs;jv ub;bs	1
 胡搞一气	hu;og gk;fg yi;aa qi;py	4
 胡场糖模	hu;og ih;ty th;mt mo;mm	1
+胡场糖模	hu;og ih;ty th;mt mu;mm	1
 胡吹海摔	hu;og iv;kq hl;dm uy;fl	1
 胡椒粉瓶	hu;og jc;mu ff;mf py;wb	1
 胡椒面儿	hu;og jc;mu mm;aa er;pg	1
@@ -496413,6 +496455,7 @@ columns:
 成宿儿	ig;gg xq;bb er;pg	1
 成形了	ig;gg xy;pk le;aa	38
 成形模	ig;gg xy;pk mo;mm	1
+成形模	ig;gg xy;pk mu;mm	1
 成形术	ig;gg xy;pk uu;md	27
 成型机	ig;gg xy;tx ji;mj	10
 成型性	ig;gg xy;tx xy;xu	9
@@ -498716,6 +498759,7 @@ columns:
 齿孔	ii;vk ks;zg	29
 齿面	ii;vk mm;aa	22
 齿模	ii;vk mo;mm	1
+齿模	ii;vk mu;mm	1
 齿盘	ii;vk pj;mv	4
 齿圈	ii;vk qr;kj	92
 齿痛	ii;vk ts;by	3
@@ -522441,6 +522485,7 @@ columns:
 靠紧	kk;fg jn;sy	17
 靠脸	kk;fg lm;oa	115
 靠模	kk;fg mo;mm	1
+靠模	kk;fg mu;mm	1
 靠恁	kk;fg nf;xr	1
 靠齐	kk;fg qi;wa	43
 靠人	kk;fg rf;pd	122
@@ -526887,6 +526932,7 @@ columns:
 冷茶肠	lg;dl ia;cm ih;oy	1
 冷春慧	lg;dl ip;of hv;xh	1
 冷冲模	lg;dl is;dv mo;mm	1
+冷冲模	lg;dl is;dv mu;mm	1
 冷挤压	lg;dl ji;fq ya;id	1
 冷看着	lg;dl kj;ou ve;yo	1
 冷烤鹅	lg;dl kk;hk ee;nw	1
@@ -540740,6 +540786,7 @@ columns:
 模塑	mo;mm su;to	9
 模铸	mo;mm vu;ju	10
 模温	mo;mm wf;dm	1
+模温	mu;mm wf;dm	1
 模因	mo;mm yn;kd	164
 模仿犯	mo;mm fh;rf fj;qe	19
 模仿者	mo;mm fh;rf ve;ol	330
@@ -540769,6 +540816,7 @@ columns:
 模型车	mo;mm xy;tx ie;aa	8
 模型图	mo;mm xy;tx tu;kd	60
 模压门	mo;mm ya;id mf;dg	5
+模压门	mu;mm ya;id mf;dg	5
 模仿不来	mo;mm fh;rf bu;ad ll;am	66
 模仿能力	mo;mm fh;rf ng;sb li;gp	127
 模范夫妻	mo;mm fj;ce fu;ad qi;na	48
@@ -541208,6 +541256,7 @@ columns:
 木杪	mu;ad mc;mu	1
 母猫	mu;vd mk;qm	153
 母模	mu;vd mo;mm	6
+母模	mu;vd mu;mm	6
 母娘	mu;vd nd;nl	1
 木盆	mu;ad pf;mf	28
 母盘	mu;vd pj;mv	23
@@ -566908,6 +566957,7 @@ columns:
 熔今铸古	rs;hr jn;ra vu;ju gu;uk	1
 熔经铸史	rs;hr jy;sg vu;ju ui;ki	1
 熔模铸造	rs;hr mo;mm vu;ju zk;zg	4
+熔模铸造	rs;hr mu;mm vu;ju zk;zg	4
 熔融指数	rs;hr rs;ig vi;fv uu;wl	1
 熔岩图腾	rs;hr yj;uu tu;kd tg;mf	1
 熔岩之地	rs;hr yj;uu vi;dd di;ty	1
@@ -572683,11 +572733,13 @@ columns:
 塑化城	su;to hw;rb ig;ti	1
 塑胶厂	su;to jc;oj ih;ap	4
 塑胶模	su;to jc;oj mo;mm	1
+塑胶模	su;to jc;oj mu;mm	1
 塑料板	su;to lc;md bj;mf	40
 塑料杯	su;to lc;md bz;mb	75
 塑料盒	su;to lc;md he;mh	106
 塑料件	su;to lc;md jm;rn	95
 塑料模	su;to lc;md mo;mm	3
+塑料模	su;to lc;md mu;mm	3
 塑料膜	su;to lc;md mo;om	133
 塑料盆	su;to lc;md pf;mf	108
 塑料片	su;to lc;md pm;pa	76
@@ -593336,6 +593388,7 @@ columns:
 石膏锯	ui;kp gk;og ju;jj	1
 石膏矿	ui;kp gk;og kd;ug	7
 石膏模	ui;kp gk;og mo;mm	1
+石膏模	ui;kp gk;og mu;mm	1
 石高峰	ui;kp gk;wk fg;uf	1
 石拱桥	ui;kp gs;fg qc;mq	47
 石固镇	ui;kp gu;kg vf;jv	1
@@ -606142,6 +606195,7 @@ columns:
 纸盒子	vi;su he;mh zi;aa	48
 纸护角	vi;su hu;fh jc;dy	1
 纸浆模	vi;su jd;ux mo;mm	1
+纸浆模	vi;su jd;ux mu;mm	1
 纸巾套	vi;su jn;aa tk;di	1
 纸加工	vi;su jw;lk gs;aa	1
 纸嫁衣	vi;su jw;nj yi;dd	65
@@ -609388,6 +609442,7 @@ columns:
 砖混	vr;uv hp;dk	18
 砖家	vr;uv jw;bu	419
 砖模	vr;uv mo;mm	1
+砖模	vr;uv mu;mm	1
 砖木	vr;uv mu;ad	8
 砖砌	vr;uv qi;uq	90
 砖塔	vr;uv ta;td	14
@@ -611792,6 +611847,7 @@ columns:
 注塑机	vu;dv su;to ji;mj	19
 注塑件	vu;dv su;to jm;rn	8
 注塑模	vu;dv su;to mo;mm	1
+注塑模	vu;dv su;to mu;mm	1
 注射法	vu;dv ue;cu fa;dq	2
 注射机	vu;dv ue;cu ji;mj	1
 注视者	vu;dv ui;ju ve;ol	4
@@ -636700,6 +636756,7 @@ columns:
 鞋履	xx;gg lv;uf	104
 鞋码	xx;gg ma;um	74
 鞋模	xx;gg mo;mm	3
+鞋模	xx;gg mu;mm	3
 鞋内	xx;gg nz;ad	36
 鞋头	xx;gg tb;dd	172
 鞋套	xx;gg tk;di	126
@@ -638623,6 +638680,7 @@ columns:
 牙骨质细胞	ya;ap gu;go vi;bu xi;st bk;ob	1
 牙买加海峡	ya;ap ml;at jw;lk hl;dm xw;uj	1
 牙模测试仪	ya;ap mo;mm ce;dz ui;yu yi;ry	1
+牙模测试仪	ya;ap mu;mm ce;dz ui;yu yi;ry	1
 牙周袋探针	ya;ap vb;kt dl;yd tj;fm vf;ju	1
 牙周塞治剂	ya;ap vb;kt sl;tb vi;dt ji;dq	1
 牙龈分离器	ya;ap yn;ig ff;bd li;ws qi;kk	1
@@ -638762,6 +638820,7 @@ columns:
 压面	ya;id mm;aa	35
 压敏	ya;id mn;wm	12
 压模	ya;id mo;mm	14
+压模	ya;id mu;mm	14
 压枪	ya;id qd;mc	356
 压入	ya;id ru;pd	134
 压塌	ya;id ta;ty	37
@@ -661686,6 +661745,7 @@ columns:
 硬拉	yy;ug la;fl	3590
 硬毛	yy;ug mk;pg	44
 硬模	yy;ug mo;mm	5
+硬模	yy;ug mu;mm	5
 硬碰	yy;ug pg;ub	27
 硬抢	yy;ug qd;fc	32
 硬驱	yy;ug qu;mq	2
@@ -669163,6 +669223,7 @@ columns:
 组合件	zu;sq he;rk jm;rn	3
 组合价	zu;sq he;rk jw;rj	4
 组合模	zu;sq he;rk mo;mm	1
+组合模	zu;sq he;rk mu;mm	1
 组合名	zu;sq he;rk my;xk	11
 组合器	zu;sq he;rk qi;kk	13
 组合拳	zu;sq he;rk qr;uf	401
@@ -686809,6 +686870,7 @@ columns:
 玻璃垫	bo;wp li;wl dm;tv	0
 玻璃店	bo;wp li;wl dm;gv	2
 玻璃钢模压化粪池	bo;wp li;wl gh;jg mo;mm ya;id hw;rb ff;mg ii;dy	0
+玻璃钢模压化粪池	bo;wp li;wl gh;jg mu;mm ya;id hw;rb ff;mg ii;dy	0
 玻璃钢模具	bo;wp li;wl gh;jg mu;mm ju;ba	1
 玻璃管儿	bo;wp li;wl gr;vg er;pg	0
 玻璃行业	bo;wp li;wl hh;xi ye;aa	4
@@ -697529,7 +697591,9 @@ columns:
 差旅管理	il;yg lv;fp gr;vg li;wl	2
 柴米夫妻	il;mc mi;dd fu;ad qi;na	2
 拆模后	il;fi mo;mm hb;pk	0
+拆模后	il;fi mu;mm hb;pk	0
 拆模时间	il;fi mo;mm ui;oc jm;mo	0
+拆模时间	il;fi mu;mm ui;oc jm;mo	0
 拆腻子	il;fi ni;oe zi;aa	5
 拆迁重建	il;fi qm;zq is;pa jm;zy	4
 拆迁地	il;fi qm;zq di;ty	3
@@ -704281,6 +704345,7 @@ columns:
 乘兴而去	ig;pb xy;ba er;aa qu;ts	5
 乘兴而往	ig;pb xy;ba er;aa wh;xv	0
 成型模	ig;gg xy;tx mo;mm	0
+成型模	ig;gg xy;tx mu;mm	0
 成型模具	ig;gg xy;tx mu;mm ju;ba	2
 成型收缩率	ig;gg xy;tx ub;wj so;ss lv;wu	0
 成型速度	ig;gg xy;tx su;zu du;gy	2
@@ -706446,6 +706511,7 @@ columns:
 重启问题	is;pa qi;hk wf;km ti;uy	0
 宠妻无度	is;bl qi;na wu;ag du;gy	0
 充气芯模	is;wy qi;py xn;cx mo;mm	0
+充气芯模	is;wy qi;py xn;cx mu;mm	0
 重启一	is;pa qi;hk yi;aa	0
 重启者	is;pa qi;hk ve;ol	0
 重启之后	is;pa qi;hk vi;dd hb;pk	56
@@ -712997,6 +713063,7 @@ columns:
 吹绵介壳虫	iv;kq mm;sb jx;ra ke;uj is;ad	0
 垂名后世	iv;pa my;xk hb;pk ui;ca	2
 吹膜机模头	iv;kq mo;om ji;mj mo;mm tb;dd	0
+吹膜机模头	iv;kq mo;om ji;mj mu;mm tb;dd	0
 吹呢吧	iv;kq ne;kn ba;kb	0
 吹你妈	iv;kq ni;re ma;nm	0
 吹你妈的	iv;kq ni;re ma;nm de;bu	0
@@ -735053,6 +735120,7 @@ columns:
 断雨残云	dr;ja yu;ad cj;dj yp;es	0
 锻造长板	dr;jd zk;zg ih;pd bj;mf	0
 锻造模板	dr;jd zk;zg mo;mm bj;mf	0
+锻造模板	dr;jd zk;zg mu;mm bj;mf	0
 锻造系统	dr;jd zk;zg xi;ps ts;si	22
 对氨基苯丙酮	dv;cy an;qa ji;tq bf;cb by;an ts;yt	0
 对吧对吧	dv;cy ba;kb dv;cy ba;kb	10
@@ -771204,7 +771272,9 @@ columns:
 核螺科	he;mh lo;il ke;hd	0
 核门槛	he;mh mf;dg kj;mj	2
 合模机	he;rk mo;mm ji;mj	0
+合模机	he;rk mu;mm ji;mj	0
 合模力	he;rk mo;mm li;gp	1
+合模力	he;rk mu;mm li;gp	1
 核模型	he;mh mo;mm xy;tx	6
 合目的性	he;rk mu;aa di;bu xy;xu	15
 河南建筑	he;dk nj;ua jm;zy vu;vg	0
@@ -781898,6 +781968,7 @@ columns:
 激光传真机	ji;dj gd;ea ir;rv vf;uj ji;mj	0
 激光打引机	ji;dj gd;ea da;fd yn;ga ji;mj	0
 激光刀模	ji;dj gd;ea dk;gp mo;mm	0
+激光刀模	ji;dj gd;ea dk;gp mu;mm	0
 激光对焦传感器	ji;dj gd;ea dv;cy jc;hv ir;rv gj;xx qi;kk	4
 激光功率	ji;dj gd;ea gs;lg lv;wu	19
 激光行业	ji;dj gd;ea hh;xi ye;aa	0
@@ -782037,6 +782108,7 @@ columns:
 积金累玉	ji;hv jn;ra lz;st yu;wd	0
 基金利率	ji;tq jn;ra li;hd lv;wu	2
 级进模	ji;sj jn;zj mo;mm	0
+级进模	ji;sj jn;zj mu;mm	0
 基金年度报告	ji;tq jn;ra nm;ra du;gy bk;fy gk;kn	0
 急进派	ji;xi jn;zj pl;dp	0
 基金排行	ji;tq jn;ra pl;ff hh;xi	55
@@ -836970,13 +837042,19 @@ columns:
 莫雪心	mo;cd xt;yx xn;dd	0
 磨牙棒	mo;um ya;ap bh;mf	13
 模压玻璃钢化粪池	mo;mm ya;id bo;wp li;wl gh;jg hw;rb ff;mg ii;dy	0
+模压玻璃钢化粪池	mu;mm ya;id bo;wp li;wl gh;jg hw;rb ff;mg ii;dy	0
 模压成型	mo;mm ya;id ig;gg xy;tx	12
+模压成型	mu;mm ya;id ig;gg xy;tx	12
 磨牙齿	mo;um ya;ap ii;vk	6
 模压法	mo;mm ya;id fa;dq	0
+模压法	mu;mm ya;id fa;dq	0
 抹牙膏	mo;fm ya;ap gk;og	2
 模压工艺	mo;mm ya;id gs;aa yi;cy	0
+模压工艺	mu;mm ya;id gs;aa yi;cy	0
 模压化粪池	mo;mm ya;id hw;rb ff;mg ii;dy	0
+模压化粪池	mu;mm ya;id hw;rb ff;mg ii;dy	0
 模压机	mo;mm ya;id ji;mj	0
+模压机	mu;mm ya;id ji;mj	0
 磨牙凿齿	mo;um ya;ap zk;yk ii;vk	0
 抹眼泪	mo;fm yj;og lz;do	235
 莫邪宝剑	mo;cd ye;ey bk;by jm;da	0
@@ -837339,8 +837417,11 @@ columns:
 模型制作公司	mo;mm xy;tx vi;dg zo;rv gs;sb si;gk	1
 抹胸吊带	mo;fm xs;ox dc;kj dl;jb	0
 模压板	mo;mm ya;id bj;mf	10
+模压板	mu;mm ya;id bj;mf	10
 模压门板	mo;mm ya;id mf;dg bj;mf	3
+模压门板	mu;mm ya;id mf;dg bj;mf	3
 模压制品	mo;mm ya;id vi;dg pn;kk	1
+模压制品	mu;mm ya;id vi;dg pn;kk	1
 抹药膏	mo;fm yk;cy gk;og	15
 没药属	mo;du yk;cy uu;uy	0
 没药树	mo;du yk;cy uu;md	0
@@ -854147,6 +854228,7 @@ columns:
 旗木蒴茂传	qi;fq mu;ad uo;co mk;cw vr;rv	0
 其那么早	qi;ba na;el me;ps zk;ou	0
 气囊内模	qi;py nh;ay nz;ad mo;mm	0
+气囊内模	qi;py nh;ay nz;ad mu;mm	0
 气囊弹出	qi;py nh;ay tj;gd iu;aa	14
 齐内丁齐达内	qi;wa nz;ad dy;aa qi;wa da;zd nz;ad	0
 气馁心怯	qi;py nz;ut xn;dd qx;xq	0
@@ -858734,6 +858816,7 @@ columns:
 巧合路人	qc;gk he;rk lu;zg rf;pd	0
 敲回车	qc;pg hv;kk ie;aa	18
 桥梁充气芯模	qc;mq ld;md is;wy qi;py xn;cx mo;mm	0
+桥梁充气芯模	qc;mq ld;md is;wy qi;py xn;cx mu;mm	0
 桥梁工事	qc;mq ld;md gs;aa ui;aa	0
 巧妙地结合在一起	qc;gk mc;nu de;ty jx;sj he;rk zl;ut yi;aa qi;zj	12
 巧妙地融合	qc;gk mc;nu de;ty rs;ig he;rk	13
@@ -867397,6 +867480,7 @@ columns:
 容纳度	rs;bg na;sn du;gy	11
 容纳格式	rs;bg na;sn ge;mg ui;gy	0
 熔喷模头	rs;hr pf;kb mo;mm tb;dd	0
+熔喷模头	rs;hr pf;kb mu;mm tb;dd	0
 容器运行	rs;bg qi;kk yp;zy xy;xi	7
 容器运行时	rs;bg qi;kk yp;zy xy;xi ui;oc	2
 融洽无间	rs;ig qw;dh wu;ag jm;mo	1
@@ -895020,7 +895104,6 @@ columns:
 斯摩格	si;jq mo;um ge;mg	161
 丝茉茉	si;aa mo;cm mo;cm	0
 四亩地	si;aa mu;wt di;ty	2
-死模活样	si;db mu;mm ho;du yh;my	0
 斯慕吉	si;jq mu;xm ji;ku	1
 似模似样	si;ry mu;mm si;ry yh;my	5
 四目相对	si;aa mu;aa xd;mo dv;cy	221
@@ -897649,6 +897732,7 @@ columns:
 塑料机械行业	su;to lc;md ji;mj xx;mj hh;xi ye;aa	0
 塑料姐妹花	su;to lc;md jx;nq mz;nw hw;ch	41
 塑料模壳	su;to lc;md mo;mm ke;uj	0
+塑料模壳	su;to lc;md mu;mm ke;uj	0
 塑料模特	su;to lc;md mo;mm te;ns	13
 塑料模型	su;to lc;md mo;mm xy;tx	8
 塑料模具钢	su;to lc;md mu;mm ju;ba gh;jg	0
@@ -897656,6 +897740,7 @@ columns:
 塑料模具设计	su;to lc;md mu;mm ju;ba ue;yu ji;yu	0
 塑料瓶模具	su;to lc;md py;wb mu;mm ju;ba	0
 塑料试模	su;to lc;md ui;yu mo;mm	0
+塑料试模	su;to lc;md ui;yu mu;mm	0
 溯流穷源	su;du lq;di qs;xl yr;dy	0
 速率低	su;zu lv;wu di;rd	7
 素履而往	su;sf lv;uf er;aa wh;xv	0
@@ -933228,6 +933313,7 @@ columns:
 香江豪园	xd;ho jd;dg hk;ub yr;ky	0
 香蕉便	xd;ho jc;cj bm;rg	0
 橡胶充气芯模	xd;mx jc;oj is;wy qi;py xn;cx mo;mm	0
+橡胶充气芯模	xd;mx jc;oj is;wy qi;py xn;cx mu;mm	0
 橡胶地垫	xd;mx jc;oj di;ty dm;tv	2
 橡胶耳塞	xd;mx jc;oj er;aa sl;tb	1
 橡胶行业	xd;mx jc;oj hh;xi ye;aa	4
@@ -933242,6 +933328,7 @@ columns:
 橡胶弹性接头	xd;mx jc;oj tj;gd xy;xu jx;fq tb;dd	0
 相交线	xd;mo jc;li xm;sj	17
 橡胶芯模	xd;mx jc;oj xn;cx mo;mm	0
+橡胶芯模	xd;mx jc;oj xn;cx mu;mm	0
 橡胶硬度计	xd;mx jc;oj yy;ug du;gy ji;yu	0
 香蕉油	xd;ho jc;cj yb;dy	4
 香娇玉嫩	xd;ho jc;nq yu;wd nf;ni	2
@@ -934307,6 +934394,7 @@ columns:
 香蜡纸马	xd;ho la;ix vi;su ma;aa	0
 像梁朝伟	xd;rx ld;md ik;ou wz;rw	21
 箱梁内模	xd;vx ld;md nz;ad mo;mm	0
+箱梁内模	xd;vx ld;md nz;ad mu;mm	0
 乡民代表	xd;ap mn;ag dl;ry bc;fy	0
 乡民代表会	xd;ap mn;ag dl;ry bc;fy hv;ry	0
 降魔录	xd;ef mo;gm lu;au	0
@@ -946667,6 +946755,7 @@ columns:
 衙门口朝南开	ya;xw mf;dg kb;aa ik;ou nj;ua kl;ac	2
 亚米拿达	ya;ay mi;dd na;uh da;zd	0
 压模地坪	ya;id mo;mm di;ty py;tp	0
+压模地坪	ya;id mu;mm di;ty py;tp	0
 雅木茶	ya;vy mu;ad ia;cm	298
 压哪边	ya;id na;kn bm;zl	0
 雅诺什	ya;vy no;yr ui;ru	3
@@ -961684,6 +961773,7 @@ columns:
 瘾头儿	yn;by tb;dd er;pg	0
 隐退娱乐圈	yn;ej tv;zg yu;nw le;pd qr;kj	0
 阴臀倒模	yn;eo tp;od dk;rd mo;mm	0
+阴臀倒模	yn;eo tp;od dk;rd mu;mm	0
 饮晚茶	yn;uq wj;om ia;cm	0
 因为爱上了	yn;kd wz;dd ai;vy uh;aa le;aa	10
 因为爱所以爱	yn;kd wz;dd ai;vy so;hj yi;rd ai;vy	29
