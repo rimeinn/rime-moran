@@ -12563,7 +12563,7 @@
 斶	ju
 斷	ja jv jy
 斸	ji ju
-方	wd dg dp dw
+方	dg wd dp dw
 斺	fj
 斻	fj
 於	fd
@@ -84079,6 +84079,7 @@
 𠁢	ay
 𳏮	nh
 𮤔	md
+𳋬	us
 𣮚	mf
 𣴅	df
 𨯾	jj

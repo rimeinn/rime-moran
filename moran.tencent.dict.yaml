@@ -9,7 +9,7 @@
 
 ---
 name: moran.tencent
-version: "20261028"
+version: "20261124"
 sort: by_weight
 columns:
   - text
@@ -159171,7 +159171,7 @@ columns:
 壓力大小	ya;ty li;gp da;ad xc;ad	0
 壓力大時	ya;ty li;gp da;ad ui;os	0
 壓力太大	ya;ty li;gp tl;dd da;ad	0
-壓力好大	ya;ty li;gp hk;nz da;ad	0
+壓力好大	ya;ty li;gp hk;nz da;ad	100
 壓力室	ya;ty li;gp ui;bv	0
 壓力小	ya;ty li;gp xc;ad	0
 壓力巨大	ya;ty li;gp ju;kk da;ad	0
@@ -693307,7 +693307,6 @@ columns:
 鴨掌木	ya;nj vh;uk mu;ad	0
 鴨架子	ya;nj jw;mj zi;aa	0
 鴨梨大	ya;nj li;ml da;ad	0
-鴨梨好大	ya;nj li;ml hk;nz da;ad	0
 鴨梨山大	ya;nj li;ml uj;aa da;ad	0
 鴨梨很大	ya;nj li;ml hf;xg da;ad	0
 鴨王電影	ya;nj wh;aa dm;yd yy;pj	0

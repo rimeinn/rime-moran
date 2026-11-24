@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20261114"
+version: "20261124"
 sort: original
 columns:
   - text
@@ -2959,6 +2959,7 @@ AVL树	avlu
 笔谈	bitj
 笔套	bitk
 补充体力	bitl
+必填	bitm
 畀	bitq
 笔筒	bits
 不成体统	bitt
@@ -7238,7 +7239,6 @@ B盘	bpj
 不亦说乎	byyh
 兵役	byyi
 表演艺术家	byyj
-不一样了	byyl
 不遗余力	byyl
 病因	byyn
 病源	byyr
@@ -8725,7 +8725,7 @@ C++	cjj
 猜题	clti
 菜摊	cltj
 彩陶	cltk
-菜苔	cltl
+菜薹	cltl
 财团	cltr
 彩图	cltu
 采收	club
@@ -18092,7 +18092,7 @@ E盘	epj
 方砖	fhvr
 房主	fhvu
 符号执行	fhvx
-方	fhw
+放	fhw
 风鬟雾鬓	fhwb
 发挥稳定	fhwd
 访问	fhwf
@@ -18852,6 +18852,7 @@ E盘	epj
 风流儒雅	flry
 法律诉讼	flss
 富丽堂皇	flth
+分类讨论	fltl
 法律条例	fltl
 风流倜傥	fltt
 犯了天条	fltt
@@ -19490,6 +19491,8 @@ F盘	fpj
 斧	fujf
 幞	fujf
 伏击	fuji
+腹肌	fuji
+父级	fuji
 丰神俊朗	fujl
 福建	fujm
 附件	fujm
@@ -26865,6 +26868,7 @@ G盘	gpj
 龢	hehy
 赫	hei
 喝茶	heia
+核查	heia
 何愁	heib
 河床	heid
 合成	heig
@@ -26971,6 +26975,7 @@ G盘	gpj
 饸	heuh
 合适	heui
 何时	heui
+核实	heui
 和善	heuj
 黑恶势力	heul
 和顺	heup
@@ -30696,8 +30701,8 @@ H盘	hpj
 划船	hwir
 画出	hwiu
 行伍出身	hwiu
-和往常一样	hwiy
 毫无诚意	hwiy
+和往常一样	hwiy
 海外赤子	hwiz
 铧	hwj
 花椒	hwjc
@@ -36845,7 +36850,7 @@ I盘	ipj
 尖端科学	jdkx
 简单可行	jdkx
 绝对可以	jdky
-浆料	jdlc
+酱料	jdlc
 加大力度	jdld
 绝对零度	jdld
 经典老番	jdlf
@@ -38001,6 +38006,7 @@ I盘	ipj
 接触生活	jiuh
 即使	jiui
 及时	jiui
+即食	jiui
 饥	jiuj
 矶	jiuj
 嵴	jiuj
@@ -43574,6 +43580,7 @@ JK制服	jkvf
 客店	kedm
 溘	kedm
 刻度	kedu
+可读	kedu
 客队	kedv
 克	kee
 可否	kefb
@@ -43740,6 +43747,7 @@ JK制服	jkvf
 颏	keyh
 可以	keyi
 刻意	keyi
+可疑	keyi
 科研	keyj
 可要	keyk
 刻印	keyn
@@ -48987,6 +48995,7 @@ JK制服	jkvf
 裸麦	loml
 落寞	lomo
 落幕	lomu
+螺母	lomu
 洛美	lomz
 荦	lon
 落难	lonj
@@ -51703,6 +51712,8 @@ JK制服	jkvf
 每次	mc
 秒表	mcbc
 妙笔	mcbi
+描边	mcbm
+秒变	mcbm
 苗	mcc
 藐	mcce
 没猜错的话	mcch
@@ -52990,6 +53001,7 @@ JK制服	jkvf
 贸易	mkyi
 毛衣	mkyi
 冒烟	mkyj
+猫眼	mkyj
 猫腰	mkyk
 目空一切	mkyq
 冒用	mkys
@@ -81369,8 +81381,8 @@ U盘	upj
 生死相随	usxs
 生死线上	usxu
 生死相许	usxx
-食色性也	usxy
 生死相依	usxy
+食色性也	usxy
 神色一黯	usya
 生死一搏	usyb
 生死予夺	usyd
@@ -85773,6 +85785,7 @@ U盘	upj
 着急忙慌	vjmh
 证件名称	vjmi
 栈	vjmj
+占满	vjmj
 沾满	vjmj
 展卖	vjml
 招军买马	vjmm
@@ -97258,6 +97271,7 @@ U盘	upj
 喧腾	xrtg
 选题	xrti
 陷入痛苦	xrtk
+选填	xrtm
 喧天	xrtm
 信任投票	xrtp
 宣统	xrts
@@ -97312,6 +97326,7 @@ U盘	upj
 血肉相连	xrxl
 悬心	xrxn
 选修	xrxq
+选秀	xrxq
 玄学	xrxt
 玄虚	xrxu
 笑容消失	xrxu
@@ -99468,6 +99483,7 @@ U盘	upj
 血液透析	xytx
 刑庭	xyty
 幸	xyty
+眩晕瘫坐	xytz
 荥	xyu
 下意识的	xyud
 下意识地	xyud
@@ -99477,6 +99493,8 @@ U盘	upj
 校园生活	xyuh
 形式	xyui
 形势	xyui
+行驶	xyui
+行事	xyui
 行善	xyuj
 享誉世界	xyuj
 虚盈实亏	xyuk
@@ -100435,6 +100453,7 @@ U盘	upj
 柚子	ybzi
 游子	ybzi
 悠哉	ybzl
+幼崽	ybzl
 也不怎么	ybzm
 一部作品	ybzp
 游踪	ybzs
@@ -106209,6 +106228,7 @@ U盘	upj
 遇剌	yula
 优胜劣败	yulb
 预料	yulc
+語料	yulc
 雨量	yuld
 因势利导	yuld
 娱乐	yule
@@ -109272,6 +109292,7 @@ U盘	upj
 秭	zih
 做出恢复	zihf
 自豪	zihk
+字号	zihk
 紫红	zihs
 自会	zihv
 字汇	zihv
@@ -112185,6 +112206,7 @@ U盘	upj
 袖子	xozi
 修造	xozk
 选修	xrxo
+选秀	xrxo
 星宿	xyxo
 兴修	xyxo
 优秀	ybxo
@@ -114154,6 +114176,7 @@ CD机	cdj
 大团结	dtj
 到头来	dtl
 地图炮	dtp
+代替品	dtp
 当头炮	dtp
 打头炮	dtp
 大提琴	dtq
@@ -115908,6 +115931,7 @@ git	git
 几点了	jdl
 惊呆了	jdl
 经得起	jdq
+接地气	jdq
 进度条	jdt
 绝对是	jdu
 几点钟	jdv
@@ -116597,6 +116621,7 @@ Keynote	knt
 两分半	lfb
 乱纷纷	lff
 卢浮宫	lfg
+立方根	lfg
 浪费了	lfl
 两方面	lfm
 立方米	lfm
@@ -117588,6 +117613,7 @@ Office	ofs
 跑不过	pbg
 瀑布汗	pbh
 平板车	pbi
+破壁机	pbj
 漂白剂	pbj
 跑不了	pbl
 怕不怕	pbp
@@ -117639,6 +117665,7 @@ PDF	pdf
 排行榜	phb
 平衡点	phd
 派活儿	phe
+拼好饭	phf
 胖乎乎	phh
 平滑肌	phj
 破坏力	phl
@@ -117938,6 +117965,7 @@ PVP	pvp
 强迫症	qpv
 起跑线	qpx
 欺骗性	qpx
+跷跷板	qqb
 蛐蛐儿	qqe
 亲切感	qqg
 全球化	qqh
@@ -118254,7 +118282,7 @@ PVP	pvp
 腮帮子	sbz
 速测镜	scj
 三次元	scy
-塞擦音	scy
+酸菜鱼	scy
 苏丹国	sdg
 三等奖	sdj
 SD卡	sdk
@@ -119567,6 +119595,7 @@ SD卡	sdk
 政治化	vvh
 着重号	vvh
 主战场	vvi
+榨汁机	vvj
 政治课	vvk
 找找看	vvk
 住宅楼	vvl
@@ -120251,6 +120280,7 @@ Word	wrd
 修理工	xlg
 小狼毫	xlh
 心里话	xlh
+西兰花	xlh
 修理厂	xli
 行李架	xlj
 小两口	xlk
