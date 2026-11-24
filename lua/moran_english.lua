@@ -1,9 +1,11 @@
 -- moran_english.lua
 --
--- Version: 0.3.7
+-- Version: 0.3.8
 -- Author:  ksqsf
 -- License: GPLv3
 --
+-- 0.3.8: WordCreator now offers capitalized and allcaps spellings if
+--        the input contains no capital letters.
 -- 0.3.7: Capitalizer now upcase the entire word if input is all caps,
 --        and only fix the initial letter.
 -- 0.3.6: Restrict auto trigger.
@@ -36,7 +38,7 @@ local Module = {}
 -----------------------------------------------------------------------
 
 local PAT_UPPERCASE = "[A-Z]"
-local PAT_ENGLISH_WORD = "^[a-zA-Z0-9 &!@#$%^&*()-=_+[%]\\\\{}'\";,./<>?]+$"
+local PAT_ENGLISH_WORD = "^[a-zA-Z0-9 &!@#$%^&*()%-=_+[%]\\\\{}'\";,./<>?]+$"
 local PAT_NEW_WORD_PREFIX = "^[a-zA-Z][a-zA-Z/]*[^/]"  -- Reject trailing spaces and slashes
 local PAT_NEW_WORD_WHOLE = PAT_NEW_WORD_PREFIX .. "$"
 
@@ -168,14 +170,13 @@ function Capitalizer.func(t_input, env)
     local input_all_caps = input:match("^[A-Z]+$")
     local input_only_first_cap = not input_all_caps and input:match("^[A-Z][a-z]*$")
 
-    -- If input is proper, i.e. contains at least one uppercase letter.
+    -- If input I is proper, i.e. contains at least one uppercase letter.
     --
     -- * when I is fuzzy (same case; and I must be all caps due to
     --   being proper): the candidate should be fixed to be all caps.
     --
     -- * when I is exact, i.e., not fuzzy: match the case exactly, but
     --   only fix the first letter.
-    local input = segmentation.input:sub(seg._start + 1, seg._end)
     for c in iter do
         if #c.text == 0 then
             yield(c)
@@ -218,6 +219,20 @@ function WordCreator.fini(env)
     env.memory:disconnect()
 end
 
+-- Make a Phrase candidate for @text.
+local function make_word_cand(env, seg, text, auto_trigger)
+    local entry = DictEntry()
+    entry.text = text
+    entry.preedit = text
+    entry.custom_code = text:gsub(" ", ""):lower() .. " "
+    entry.weight = -1e10        -- slightly below 0
+    local phrase = Phrase(env.memory, "english", seg.start, seg._end, entry)
+    if not auto_trigger then
+        phrase.comment = env.indicator
+    end
+    return phrase:toCandidate()
+end
+
 function WordCreator.func(t_input, env)
     local iter = moran.iter_translation(t_input)
     if not env.enabled then
@@ -248,16 +263,11 @@ function WordCreator.func(t_input, env)
         or input:match(PAT_NEW_WORD_PREFIX .. env.trigger .. "$")      -- manual trigger
     then
         local word = input:gsub(env.trigger .. "$", "", 1):gsub("/", " ")
-        local entry = DictEntry()
-        entry.text = word
-        entry.preedit = word
-        entry.custom_code = word:gsub(" ", ""):lower() .. " "
-        entry.weight = -1e10         -- slightly below 0
-        local phrase = Phrase(env.memory, "english", seg.start, seg._end, entry)
-        if not auto_trigger then
-            phrase.comment = env.indicator
+        yield(make_word_cand(env, seg, word, auto_trigger))
+        if not is_proper(word) then
+            yield(make_word_cand(env, seg, word:gsub("^%l", string.upper), auto_trigger))
+            yield(make_word_cand(env, seg, word:upper(), auto_trigger))
         end
-        yield(phrase:toCandidate())
     end
     moran.yield_all(iter)
 end

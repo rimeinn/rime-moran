@@ -350,6 +350,8 @@ deploy:
         assert: eq(cand[1].comment, "➕") and eq(cand[1].text, "nihkHello")
       - send: 'nihkHello/ad'
         assert: cand[1].text ~= "nihkHello"
+      - send: 'amodeiii'
+        assert: eq(cand[1].text, 'amodeiii') and eq(cand[2].text, 'Amodeiii') and eq(cand[3].text, 'AMODEIII')
   english_disable_add_word:
     patch:
       moran/english/add_word/enable: false
