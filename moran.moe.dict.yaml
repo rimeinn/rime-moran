@@ -185,9 +185,9 @@ use_preset_vocabulary: false
 一字冲击螺丝刀	yi;aa zi;bz is;dv ji;fk lo;il si;aa dk;gp
 一定	yi;aa dy;bp
 一定仅为所想	yi;aa dy;bp jn;ry wz;dd so;hj xd;xx
-一定是我打开方式不对	yi;aa dy;bp ui;op wo;pd da;fd kl;ac fh;wd ui;gy bu;ad dv;cy
+一定是我打开方式不对	yi;aa dy;bp ui;op wo;pd da;fd kl;ac fh;dg ui;gy bu;ad dv;cy
 一定是我打开的姿势不对	yi;aa dy;bp ui;op wo;pd da;fd kl;ac de;bu zi;nc ui;lv bu;ad dv;cy
-一定是我打开的方式不对	yi;aa dy;bp ui;op wo;pd da;fd kl;ac de;bu fh;wd ui;gy bu;ad dv;cy
+一定是我打开的方式不对	yi;aa dy;bp ui;op wo;pd da;fd kl;ac de;bu fh;dg ui;gy bu;ad dv;cy
 一定是阿共的阴谋	yi;aa dy;bp ui;op aa;ek gs;cb de;bu yn;eo mb;ym
 一定会到永远	yi;aa dy;bp hv;ry dk;dv ys;dd yr;zy
 一定会没事的	yi;aa dy;bp hv;ry mz;du ui;aa de;bu
@@ -268,7 +268,7 @@ use_preset_vocabulary: false
 一文字则宗	yi;aa wf;wi zi;bz ze;bd zs;bu
 一文字隼人	yi;aa wf;wi zi;bz sp;vu rf;pd
 一斤鸭梨	yi;aa jn;pa ya;nj li;ml
-一方通行	yi;aa fh;wd ts;zy xy;xi
+一方通行	yi;aa fh;dg ts;zy xy;xi
 一族之规	yi;aa zu;fu vi;dd gv;fj
 一族的团结	yi;aa zu;fu de;bu tr;kc jx;sj
 一日一恶	yi;aa ri;aa yi;aa ee;xy
@@ -462,7 +462,7 @@ use_preset_vocabulary: false
 一花依世界	yi;aa hw;ch yi;ry ui;ca jx;tj
 一芽大	yi;aa ya;cy da;ad
 一庄战	yi;aa vd;gt vj;gv
-一万个洗白方法	yi;aa wj;ag ge;ra xi;dx bl;pa fh;wd fa;dq
+一万个洗白方法	yi;aa wj;ag ge;ra xi;dx bl;pa fh;dg fa;dq
 一万万	yi;aa wj;ag wj;ag
 一叶之秋	yi;aa ye;ku vi;dd qq;hh
 一莲二幽三大八	yi;aa lm;cl er;aa yb;uy sj;aa da;ad ba;pd
@@ -1095,7 +1095,7 @@ use_preset_vocabulary: false
 三振障壁	sj;aa vf;fi vh;ev bi;tb
 三择老师	sj;aa ze;ff lk;lb ui;ab
 三文鱼寿司	sj;aa wf;wi yu;da ub;cf si;gk
-三方会谈	sj;aa fh;wd hv;ry tj;yy
+三方会谈	sj;aa fh;dg hv;ry tj;yy
 三日尻望	sj;aa ri;aa kk;uj wh;wo
 三日历	sj;aa ri;aa li;il
 三日月	sj;aa ri;aa yt;pa
@@ -1322,7 +1322,7 @@ use_preset_vocabulary: false
 三叶草娘	sj;aa ye;ku ck;cz nd;nl
 三叶草革命	sj;aa ye;ku ck;cz ge;ca my;re
 三蒲波旁	sj;aa pu;cp bo;dp ph;wf
-三藏方丈	sj;aa zh;cz fh;wd vh;ad
+三藏方丈	sj;aa zh;cz fh;dg vh;ad
 三藏法师	sj;aa zh;cz fa;dq ui;ab
 三号坦克	sj;aa hk;kk tj;td ke;eg
 三号小孩	sj;aa hk;kk xc;ad hl;zh
@@ -1335,7 +1335,7 @@ use_preset_vocabulary: false
 三角力量	sj;aa jc;dy li;gp ld;ol
 三角区	sj;aa jc;dy qu;ki
 三角千歌	sj;aa jc;dy qm;pa ge;qg
-三角圆方叉	sj;aa jc;dy yr;ky fh;wd ia;yd
+三角圆方叉	sj;aa jc;dy yr;ky fh;dg ia;yd
 三角嫉妒	sj;aa jc;dy ji;nj du;nh
 三角幻想曲	sj;aa jc;dy hr;yg xd;xx qu;aa
 三角形	sj;aa jc;dy xy;pk
@@ -1698,7 +1698,7 @@ use_preset_vocabulary: false
 上高凉枫	uh;aa gk;wk ld;dj fg;mf
 上鸣电气	uh;aa my;kn dm;ag qi;py
 下一个	xw;ab yi;aa ge;ra
-下一个远方	xw;ab yi;aa ge;ra yr;zy fh;wd
+下一个远方	xw;ab yi;aa ge;ra yr;zy fh;dg
 下一次	xw;ab yi;aa ci;dq
 下一站旅程	xw;ab yi;aa vj;lv lv;fp ig;hi
 下一站与你	xw;ab yi;aa vj;lv yu;aa ni;re
@@ -1880,7 +1880,7 @@ use_preset_vocabulary: false
 不好惹	bu;ad hk;nz re;xr
 不如小凛	bu;ad ru;nk xc;ad ln;db
 不如就从相遇讲起	bu;ad ru;nk jq;yj cs;rr xd;mo yu;zy jd;yj qi;zj
-不如旅行去远方	bu;ad ru;nk lv;fp xy;xi qu;ts yr;zy fh;wd
+不如旅行去远方	bu;ad ru;nk lv;fp xy;xi qu;ts yr;zy fh;dg
 不如练练剑	bu;ad ru;nk lm;sd lm;sd jm;da
 不如跳舞	bu;ad ru;nk tc;zv wu;rf
 不如逃吧	bu;ad ru;nk tk;zv ba;kb
@@ -2096,7 +2096,7 @@ use_preset_vocabulary: false
 不为众	bu;ad wz;dd vs;rc
 不理想人格	bu;ad li;wl xd;xx rf;pd ge;mg
 不甜的苹果	bu;ad tm;ug de;bu py;cp go;tm
-不用努力就能实现梦想的方法	bu;ad ys;kf nu;ln li;gp jq;yj ng;sb ui;bt xm;wj mg;mx xd;xx de;bu fh;wd fa;dq
+不用努力就能实现梦想的方法	bu;ad ys;kf nu;ln li;gp jq;yj ng;sb ui;bt xm;wj mg;mx xd;xx de;bu fh;dg fa;dq
 不留星痕	bu;ad lq;td xy;ou hf;bg
 不留痕迹	bu;ad lq;td hf;bg ji;zy
 不当哥哥了	bu;ad dh;xx ge;kd ge;kd le;aa
@@ -2133,7 +2133,7 @@ use_preset_vocabulary: false
 不知火衣	bu;ad vi;ku ho;dd yi;dd
 不知者无烦恼	bu;ad vi;ku ve;ol wu;ag fj;hy nk;xx
 不知道	bu;ad vi;ku dk;zu
-不知道梗曲的制作方法之歌	bu;ad vi;ku dk;zu gg;mg qu;aa de;bu vi;dg zo;rv fh;wd fa;dq vi;dd ge;qg
+不知道梗曲的制作方法之歌	bu;ad vi;ku dk;zu gg;mg qu;aa de;bu vi;dg zo;rv fh;dg fa;dq vi;dd ge;qg
 不知道的心情	bu;ad vi;ku dk;zu de;bu xn;dd qy;xq
 不知醉	bu;ad vi;ku zv;yz
 不破主骑论	bu;ad po;up vu;dw qi;mq lp;yl
@@ -2184,7 +2184,7 @@ use_preset_vocabulary: false
 不听话的猪猪猪猪	bu;ad ty;kj hw;yu de;bu vu;qv vu;qv vu;qv vu;qv
 不能同意更多	bu;ad ng;sb ts;kk yi;xy gg;ad do;xx
 不能和不去选举投票的男人交往的五个理由	bu;ad ng;sb he;hk bu;ad qu;ts xr;zx ju;df tb;fu pc;xu de;bu nj;tl rf;pd jc;li wh;xv de;bu wu;aa ge;ra li;wl yb;aa
-不能描写的方式	bu;ad ng;sb mc;fm xx;by de;bu fh;wd ui;gy
+不能描写的方式	bu;ad ng;sb mc;fm xx;by de;bu fh;dg ui;gy
 不能播放	bu;ad ng;sb bo;ff fh;wf
 不能死去	bu;ad ng;sb si;db qu;ts
 不能没有你	bu;ad ng;sb mz;du yb;ou ni;re
@@ -2296,7 +2296,7 @@ use_preset_vocabulary: false
 不运的爆弹	bu;ad yp;zy de;bu bk;hb dj;gd
 不过只限帅哥	bu;ad go;zc vi;kb xm;eg uy;aj ge;kd
 不过如此	bu;ad go;zc ru;nk ci;vb
-不过是在性方面的含意啦	bu;ad go;zc ui;op zl;ut xy;xu fh;wd mm;aa de;bu hj;rk yi;xy la;kl
+不过是在性方面的含意啦	bu;ad go;zc ui;op zl;ut xy;xu fh;dg mm;aa de;bu hj;rk yi;xy la;kl
 不过是蜘蛛什么的	bu;ad go;zc ui;op vi;iv vu;iv uf;ru me;ps de;bu
 不过是跟表姐妹的恋爱物语	bu;ad go;zc ui;op gf;zg bc;fy jx;nq mz;nw de;bu lm;xy ai;vy wu;nw yu;yw
 不道德公会	bu;ad dk;zu de;xx gs;sb hv;ry
@@ -2405,7 +2405,7 @@ use_preset_vocabulary: false
 世界怀抱着伤痛	ui;ca jx;tj hy;xb bk;fb ve;yo uh;rl ts;by
 世界战队联赛	ui;ca jx;tj vj;gv dv;er lm;eg sl;bb
 世界文	ui;ca jx;tj wf;wi
-世界是座魔方大厦	ui;ca jx;tj ui;op zo;gz mo;gm fh;wd da;ad ua;ix
+世界是座魔方大厦	ui;ca jx;tj ui;op zo;gz mo;gm fh;dg da;ad ua;ix
 世界是我的	ui;ca jx;tj ui;op wo;pd de;bu
 世界最后之日	ui;ca jx;tj zv;oq hb;pk vi;dd ri;aa
 世界末日	ui;ca jx;tj mo;ad ri;aa
@@ -2784,7 +2784,7 @@ use_preset_vocabulary: false
 中村大树	vs;aa cp;mc da;ad uu;md
 中村太亮	vs;aa cp;mc tl;dd ld;wj
 中村希	vs;aa cp;mc xi;ib
-中村彼方	vs;aa cp;mc bi;xp fh;wd
+中村彼方	vs;aa cp;mc bi;xp fh;dg
 中村悠一	vs;aa cp;mc yb;xw yi;aa
 中村慈	vs;aa cp;mc ci;xz
 中村明日美子	vs;aa cp;mc my;oo ri;aa mz;dy zi;aa
@@ -3393,7 +3393,7 @@ use_preset_vocabulary: false
 九层糕	jq;py cg;uy gk;mg
 九崎凛子	jq;py qi;uq ln;db zi;aa
 九州	jq;py vb;id
-九州方言	jq;py vb;id fh;wd yj;wk
+九州方言	jq;py vb;id fh;dg yj;wk
 九州腔	jq;py vb;id qd;ok
 九州话	jq;py vb;id hw;yu
 九年义务教育漏网之鱼	jq;py nm;ra yi;id wu;wl jc;wx yu;os lb;dl wh;ki vi;dd yu;da
@@ -3938,7 +3938,7 @@ use_preset_vocabulary: false
 五彩鸡	wu;aa cl;pc ji;ny
 五德刨	wu;aa de;xx pk;db
 五指茄	wu;aa vi;fv jw;cj
-五星出东方	wu;aa xy;ou iu;aa ds;ad fh;wd
+五星出东方	wu;aa xy;ou iu;aa ds;ad fh;dg
 五星花	wu;aa xy;ou hw;ch
 五星顶级株式会社	wu;aa xy;ou dy;yd ji;sj vu;mv ui;gy hv;ry ue;ut
 五更日向	wu;aa gg;ad ri;aa xd;pk
@@ -4473,7 +4473,7 @@ use_preset_vocabulary: false
 亨格利	hg;wl ge;mg li;hd
 享受慢生活音乐	xd;wz ub;vy mj;xm ug;na ho;du yn;lo yt;pd
 享受旅行吧	xd;wz ub;vy lv;fp xy;xi ba;kb
-享受这个世界的方法	xd;wz ub;vy ve;zw ge;ra ui;ca jx;tj de;bu fh;wd fa;dq
+享受这个世界的方法	xd;wz ub;vy ve;zw ge;ra ui;ca jx;tj de;bu fh;dg fa;dq
 享乐主义者的幸福餐桌	xd;wz le;pd vu;dw yi;id ve;ol de;bu xy;tu fu;uf cj;uy vo;mo
 享乐狂宴邀影	xd;wz le;pd kd;qw yj;bn yk;zj yy;pj
 京乃圆	jy;wx nl;pg yr;ky
@@ -4665,7 +4665,7 @@ use_preset_vocabulary: false
 人民的公主	rf;pd mn;ag de;bu gs;sb vu;dw
 人民邮电出版社	rf;pd mn;ag yb;ey dm;ag iu;aa bj;pf ue;ut
 人气妹妹与受难的我	rf;pd qi;py mz;nw mz;nw yu;aa ub;vy nj;vy de;bu wo;pd
-人气声优的养成方式	rf;pd qi;py ug;um yb;ry de;bu yh;ya ig;gg fh;wd ui;gy
+人气声优的养成方式	rf;pd qi;py ug;um yb;ry de;bu yh;ya ig;gg fh;dg ui;gy
 人海	rf;pd hl;dm
 人海战术	rf;pd hl;dm vj;gv uu;md
 人渣	rf;pd va;di
@@ -4770,7 +4770,7 @@ use_preset_vocabulary: false
 人间客	rf;pd jm;mo ke;bg
 人间布洛芬	rf;pd jm;mo bu;ju lo;dg ff;cf
 人间应又雪	rf;pd jm;mo yy;ga yb;vd xt;yx
-人间方程式	rf;pd jm;mo fh;wd ig;hi ui;gy
+人间方程式	rf;pd jm;mo fh;dg ig;hi ui;gy
 人间是什么颜色	rf;pd jm;mo ui;op uf;ru me;ps yj;yy se;db
 人间未遂	rf;pd jm;mo wz;ex sv;zu
 人间欢喜	rf;pd jm;mo hr;qy xi;uk
@@ -4807,7 +4807,7 @@ use_preset_vocabulary: false
 人类恐惧症	rf;pd lz;md ks;xg ju;xj vg;bv
 人类恶	rf;pd lz;md ee;xy
 人类才勇敢	rf;pd lz;md cl;ap ys;ly gj;we
-人类方程式	rf;pd lz;md fh;wd ig;hi ui;gy
+人类方程式	rf;pd lz;md fh;dg ig;hi ui;gy
 人类是无法相互理解的	rf;pd lz;md ui;op wu;ag fa;dq xd;mo hu;aa li;wl jx;jn de;bu
 人类暮光闪闪	rf;pd lz;md mu;om gd;ea uj;mr uj;mr
 人类未遂	rf;pd lz;md wz;ex sv;zu
@@ -5223,7 +5223,7 @@ use_preset_vocabulary: false
 以藏	yi;rd zh;cz
 以身戮恶	yi;rd uf;pp lu;gl ee;xy
 以逸待劳	yi;rd yi;zt dl;xs lk;lb
-以那种方式降世	yi;rd na;el vs;hv fh;wd ui;gy jd;ef ui;ca
+以那种方式降世	yi;rd na;el vs;hv fh;dg ui;gy jd;ef ui;ca
 以愿之名	yi;rd yr;xy vi;dd my;xk
 仰天遥望白云飘	yh;re tm;ad yk;zf wh;wo bl;pa yp;es pc;fp
 仰望半月之空	yh;re wh;wo bj;bf yt;pa vi;dd ks;xg
@@ -5292,7 +5292,7 @@ use_preset_vocabulary: false
 任天堂	rf;rr tm;ad th;tk
 任天堂公司	rf;rr tm;ad th;tk gs;sb si;gk
 任天堂力量	rf;rr tm;ad th;tk li;gp ld;ol
-任天堂官方中文化游戏	rf;rr tm;ad th;tk gr;bg fh;wd vs;aa wf;wi hw;rb yb;dz xi;yg
+任天堂官方中文化游戏	rf;rr tm;ad th;tk gr;bg fh;dg vs;aa wf;wi hw;rb yb;dz xi;yg
 任天堂战争	rf;rr tm;ad th;tk vj;gv vg;dy
 任天堂明星大乱斗	rf;rr tm;ad th;tk my;oo xy;ou da;ad lr;ug db;du
 任天堂直播会	rf;rr tm;ad th;tk vi;uq bo;ff hv;ry
@@ -6015,9 +6015,9 @@ use_preset_vocabulary: false
 伯尼	bo;rb ni;ub
 伯恩	bo;rb en;xy
 伯恩哈德	bo;rb en;xy ha;kh de;xx
-伯方真妃	bo;rb fh;wd vf;uj fz;nj
-伯方盐娘	bo;rb fh;wd yj;mb nd;nl
-伯方盐业	bo;rb fh;wd yj;mb ye;aa
+伯方真妃	bo;rb fh;dg vf;uj fz;nj
+伯方盐娘	bo;rb fh;dg yj;mb nd;nl
+伯方盐业	bo;rb fh;dg yj;mb ye;aa
 伯明翰	bo;rb my;oo hj;yu
 伯格柴慕斯	bo;rb ge;mg il;mc mu;xm si;jq
 伯乐	bo;rb le;pd
@@ -6061,7 +6061,7 @@ use_preset_vocabulary: false
 似乎达成共识	si;ry hu;pa da;zd ig;gg gs;cb ui;yv
 似似花	si;ry si;ry hw;ch
 似曾相识	si;ry cg;ob xd;mo ui;yv
-似曾相识的地方	si;ry cg;ob xd;mo ui;yv de;bu di;ty fh;wd
+似曾相识的地方	si;ry cg;ob xd;mo ui;yv de;bu di;ty fh;dg
 似月停空	si;ry yt;pa ty;rt ks;xg
 似李	si;ry li;mz
 似水旋律	si;ry uv;ad xr;fp lv;xy
@@ -6112,7 +6112,7 @@ use_preset_vocabulary: false
 但是但是因为啊	dj;rd ui;op dj;rd ui;op yn;kd wz;dd aa;ka
 但是仅限帅哥	dj;rd ui;op jn;ry xm;eg uy;aj ge;kd
 但是我拒绝	dj;rd ui;op wo;pd ju;fj jt;ss
-但是是性方面的意思	dj;rd ui;op ui;op xy;xu fh;wd mm;aa de;bu yi;xy si;xt
+但是是性方面的意思	dj;rd ui;op ui;op xy;xu fh;dg mm;aa de;bu yi;xy si;xt
 但是是男的	dj;rd ui;op ui;op nj;tl de;bu
 但书	dj;rd uu;ad
 但杜宇	dj;rd du;mt yu;by
@@ -6779,7 +6779,7 @@ use_preset_vocabulary: false
 你会记得你吃过多少片面包吗	ni;re hv;ry ji;yj de;xc ni;re ii;kq go;zc do;xx uk;xp pm;pa mm;aa bk;gs ma;km
 你会变成我看不见的花	ni;re hv;ry bm;wy ig;gg wo;pd kj;ou bu;ad jm;ag de;bu hw;ch
 你有什么不满吗	ni;re yb;ou uf;ru me;ps bu;ad mj;dl ma;km
-你有想去的地方吗	ni;re yb;ou xd;xx qu;ts de;bu di;ty fh;wd ma;km
+你有想去的地方吗	ni;re yb;ou xd;xx qu;ts de;bu di;ty fh;dg ma;km
 你未见过的天空	ni;re wz;ex jm;ag go;zc de;bu tm;ad ks;xg
 你欢喜最	ni;re hr;qy xi;uk zv;oq
 你死亡的夏天	ni;re si;db wh;da de;bu xw;wz tm;ad
@@ -7080,7 +7080,7 @@ use_preset_vocabulary: false
 来栖加奈子	ll;am qi;mx jw;lk nl;du zi;aa
 来栖夏芽	ll;am qi;mx xw;wz ya;cy
 来栖川姬子	ll;am qi;mx ir;pa ji;ni zi;aa
-来栖彼方	ll;am qi;mx bi;xp fh;wd
+来栖彼方	ll;am qi;mx bi;xp fh;dg
 来栖户亚	ll;am qi;mx hu;dp ya;ay
 来栖晓	ll;am qi;mx xc;oy
 来栖泊	ll;am qi;mx po;db
@@ -7114,7 +7114,7 @@ use_preset_vocabulary: false
 来自宇宙的威胁	ll;am zi;pa yu;by vb;by de;bu wz;gn xx;ob
 来自已完结的世界	ll;am zi;pa yi;vg wj;by jx;sj de;bu ui;ca jx;tj
 来自幸运逻辑	ll;am zi;pa xy;tu yp;zy lo;zl ji;ie
-来自彼方的镇魂歌	ll;am zi;pa bi;xp fh;wd de;bu vf;jv hp;gy ge;qg
+来自彼方的镇魂歌	ll;am zi;pa bi;xp fh;dg de;bu vf;jv hp;gy ge;qg
 来自微热的神秘	ll;am zi;pa wz;xw re;hv de;bu uf;uu mi;hb
 来自意大利的少年	ll;am zi;pa yi;xy da;ad li;hd de;bu uk;xp nm;ra
 来自爱因斯坦之爱	ll;am zi;pa ai;vy yn;kd si;jq tj;td vi;dd ai;vy
@@ -7127,7 +7127,7 @@ use_preset_vocabulary: false
 来自星遗物中的觉醒	ll;am zi;pa xy;ou yi;zg wu;nw vs;aa de;bu jt;jb xy;yx
 来自暗的呼声	ll;am zi;pa an;oy de;bu hu;kh ug;um
 来自暗黑的军势	ll;am zi;pa an;oy hz;ha de;bu jp;bi ui;lv
-来自东方的神秘力量	ll;am zi;pa ds;ad fh;wd de;bu uf;uu mi;hb li;gp ld;ol
+来自东方的神秘力量	ll;am zi;pa ds;ad fh;dg de;bu uf;uu mi;hb li;gp ld;ol
 来自死角的一击	ll;am zi;pa si;db jc;dy de;bu yi;aa ji;fk
 来自深渊	ll;am zi;pa uf;dm yr;da
 来自瓦纳海姆	ll;am zi;pa wa;ad na;sn hl;dm mu;nm
@@ -7297,8 +7297,8 @@ use_preset_vocabulary: false
 俄罗斯之旅	ee;rw lo;sx si;jq vi;dd lv;fp
 俄罗斯人	ee;rw lo;sx si;jq rf;pd
 俄罗斯套娃	ee;rw lo;sx si;jq tk;di wa;ng
-俄罗斯方块	ee;rw lo;sx si;jq fh;wd ky;td
-俄罗斯方块早期发行权纠纷	ee;rw lo;sx si;jq fh;wd ky;td zk;ou qi;oq fa;ay xy;xi qr;my jq;sj ff;sf
+俄罗斯方块	ee;rw lo;sx si;jq fh;dg ky;td
+俄罗斯方块早期发行权纠纷	ee;rw lo;sx si;jq fh;dg ky;td zk;ou qi;oq fa;ay xy;xi qr;my jq;sj ff;sf
 俄罗斯极端民族主义组织	ee;rw lo;sx si;jq ji;mj dr;le mn;ag zu;fu vu;dw yi;id zu;sq vi;sv
 俄罗斯联邦	ee;rw lo;sx si;jq lm;eg bh;ef
 俄罗斯联邦武装力量	ee;rw lo;sx si;jq lm;eg bh;ef wu;vy vd;yv li;gp ld;ol
@@ -7318,7 +7318,7 @@ use_preset_vocabulary: false
 俊达舞	jp;rj da;zd wu;rf
 俊达萌	jp;rj da;zd mg;cm
 俊达萌想听你说喜欢达萌	jp;rj da;zd mg;cm xd;xx ty;kj ni;re uo;yd xi;uk hr;qy da;zd mg;cm
-俊达饼的制作方法	jp;rj da;zd by;ub de;bu vi;dg zo;rv fh;wd fa;dq
+俊达饼的制作方法	jp;rj da;zd by;ub de;bu vi;dg zo;rv fh;dg fa;dq
 俏皮小当家	qc;rx pi;ad xc;ad dh;xx jw;bu
 俏皮小花仙	qc;rx pi;ad xc;ad hw;ch xm;ru
 俗称	su;rg ig;he
@@ -7947,7 +7947,7 @@ use_preset_vocabulary: false
 停服	ty;rt fu;oy
 停服手游	ty;rt fu;oy ub;pa yb;dz
 停止	ty;rt vi;aa
-停止作为温柔的人的方法	ty;rt vi;aa zo;rv wz;dd wf;dm rb;mm de;bu rf;pd de;bu fh;wd fa;dq
+停止作为温柔的人的方法	ty;rt vi;aa zo;rv wz;dd wf;dm rb;mm de;bu rf;pd de;bu fh;dg fa;dq
 停转的行星	ty;rt vr;iv de;bu xy;xi xy;ou
 停云	ty;rt yp;es
 停电	ty;rt dm;ag
@@ -8043,7 +8043,7 @@ use_preset_vocabulary: false
 偶像骑士团长伊娃	ou;ry xd;rx qi;mq ui;aa tr;kc vh;pd yi;ry wa;ng
 偶动画	ou;ry ds;ly hw;ak
 偶尤大肥羊	ou;ry yb;ad da;ad fz;ob yh;da
-偶方	ou;ry fh;wd
+偶方	ou;ry fh;dg
 偶活	ou;ry ho;du
 偶活友	ou;ry ho;du yb;yu
 偶活学园	ou;ry ho;du xt;zb yr;ky
@@ -8961,7 +8961,7 @@ use_preset_vocabulary: false
 光的信号	gd;ea de;bu xn;ry hk;kk
 光的去向	gd;ea de;bu qu;ts xd;pk
 光的岸面	gd;ea de;bu an;ug mm;aa
-光的彼方	gd;ea de;bu bi;xp fh;wd
+光的彼方	gd;ea de;bu bi;xp fh;dg
 光的战士	gd;ea de;bu vj;gv ui;aa
 光的战役	gd;ea de;bu vj;gv yi;xu
 光的尽头	gd;ea de;bu jn;id tb;dd
@@ -9037,7 +9037,7 @@ use_preset_vocabulary: false
 光遇	gd;ea yu;zy
 光道主宰者	gd;ea dk;zu vu;dw zl;bx ve;ol
 光道宰制者	gd;ea dk;zu zl;bx vi;dg ve;ol
-光道方舟大天使	gd;ea dk;zu fh;wd vb;pd da;ad tm;ad ui;rl
+光道方舟大天使	gd;ea dk;zu fh;dg vb;pd da;ad tm;ad ui;rl
 光道的裁决	gd;ea dk;zu de;bu cl;yg jt;dd
 光道细剑	gd;ea dk;zu xi;st jm;da
 光道圣域	gd;ea dk;zu ug;ty yu;th
@@ -9055,7 +9055,7 @@ use_preset_vocabulary: false
 光驱娘	gd;ea qu;mq nd;nl
 光点喵	gd;ea dm;hv mc;km
 光点科技	gd;ea dm;hv ke;hd ji;fv
-光点科技官方	gd;ea dm;hv ke;hd ji;fv gr;bg fh;wd
+光点科技官方	gd;ea dm;hv ke;hd ji;fv gr;bg fh;dg
 克伦威尔	ke;eg lp;rl wz;gn er;dx
 克伦特	ke;eg lp;rl te;ns
 克克	ke;eg ke;eg
@@ -9569,7 +9569,7 @@ use_preset_vocabulary: false
 内馆啜	nz;ad gr;ug io;ku
 内鬼	nz;ad gv;pd
 全不靠	qr;rw bu;ad kk;fg
-全世界最早的早晨出现的地方	qr;rw ui;ca jx;tj zv;oq zk;ou de;bu zk;ou if;oi iu;aa xm;wj de;bu di;ty fh;wd
+全世界最早的早晨出现的地方	qr;rw ui;ca jx;tj zv;oq zk;ou de;bu zk;ou if;oi iu;aa xm;wj de;bu di;ty fh;dg
 全世界都死了	qr;rw ui;ca jx;tj db;ev si;db le;aa
 全人类	qr;rw rf;pd lz;md
 全人类的天乐录	qr;rw rf;pd lz;md de;bu tm;ad le;pd lu;au
@@ -9677,7 +9677,7 @@ use_preset_vocabulary: false
 全虞美	qr;rw yu;hw mz;dy
 全装海盗姬	qr;rw vd;yv hl;dm dk;mc ji;ni
 全言叶	qr;rw yj;wk ye;ku
-全贵方	qr;rw gv;ba fh;wd
+全贵方	qr;rw gv;ba fh;dg
 全身扮装	qr;rw uf;pp bj;ff vd;yv
 全身而退	qr;rw uf;pp er;aa tv;zg
 全速	qr;rw su;zu
@@ -9872,7 +9872,7 @@ use_preset_vocabulary: false
 八戒	ba;pd jx;gc
 八户时惠	ba;pd hu;dp ui;oc hv;xh
 八手	ba;pd ub;pa
-八方旅人	ba;pd fh;wd lv;fp rf;pd
+八方旅人	ba;pd fh;dg lv;fp rf;pd
 八日堂朔莉	ba;pd ri;aa th;tk uo;on li;cl
 八月之风	ba;pd yt;pa vi;dd fg;ji
 八月的幽灵	ba;pd yt;pa de;bu yb;uy ly;hx
@@ -10319,7 +10319,7 @@ use_preset_vocabulary: false
 其其	qi;ba qi;ba
 其原有沙	qi;ba yr;ix yb;ou ua;du
 其实一旦接受了这种设定	qi;ba ui;bt yi;aa dj;oa jx;fq ub;vy le;aa ve;zw vs;hv ue;yu dy;bp
-其实宗方根本不会喝酒	qi;ba ui;bt zs;bu fh;wd gf;mg bf;aa bu;ad hv;ry he;kh jq;dy
+其实宗方根本不会喝酒	qi;ba ui;bt zs;bu fh;dg gf;mg bf;aa bu;ad hv;ry he;kh jq;dy
 其实我不会潜水	qi;ba ui;bt wo;pd bu;ad hv;ry qm;dt uv;ad
 其实我对混合咖啡还蛮有自信的	qi;ba ui;bt wo;pd dv;cy hp;dk he;rk ka;kj fz;kf hl;zb mj;iy yb;ou zi;pa xn;ry de;bu
 其实我是	qi;ba ui;bt wo;pd ui;op
@@ -10329,7 +10329,7 @@ use_preset_vocabulary: false
 其实是义妹啦	qi;ba ui;bt ui;op yi;id mz;nw la;kl
 其实是只有半价而已	qi;ba ui;bt ui;op vi;kb yb;ou bj;bf jw;rj er;aa yi;vg
 其实第一次我是拒绝的	qi;ba ui;bt di;vp yi;aa ci;dq wo;pd ui;op ju;fj jt;ss de;bu
-其方美铃	qi;ba fh;wd mz;dy ly;jl
+其方美铃	qi;ba fh;dg mz;dy ly;jl
 具现化	ju;ba xm;wj hw;rb
 具足虫之歌	ju;ba zu;kv is;ad vi;dd ge;qg
 典元泉	dm;ba yr;aw qr;ub
@@ -10799,7 +10799,7 @@ use_preset_vocabulary: false
 冰结界	by;du jx;sj jx;tj
 冰结界之镜	by;du jx;sj jx;tj vi;dd jy;jj
 冰结界之龙	by;du jx;sj jx;tj vi;dd ls;ad
-冰结界的三方阵	by;du jx;sj jx;tj de;bu sj;aa fh;wd vf;ei
+冰结界的三方阵	by;du jx;sj jx;tj de;bu sj;aa fh;dg vf;ei
 冰结界的依巫	by;du jx;sj jx;tj de;bu yi;ry wu;gc
 冰结界的纹章	by;du jx;sj jx;tj de;bu wf;sw vh;lz
 冰结界的舞姬	by;du jx;sj jx;tj de;bu wu;rf ji;ni
@@ -10948,7 +10948,7 @@ use_preset_vocabulary: false
 凌美雪	ly;dl mz;dy xt;yx
 凌翼航姬	ly;dl yi;yg hh;vk ji;ni
 凌肖	ly;dl xc;xo
-凌舞八方	ly;dl wu;rf ba;pd fh;wd
+凌舞八方	ly;dl wu;rf ba;pd fh;dg
 凌若	ly;dl ro;cy
 凌迟乙女	ly;dl ii;zi yi;aa nv;aa
 凌雪阁	ly;dl xt;yx ge;mg
@@ -11048,7 +11048,7 @@ use_preset_vocabulary: false
 凰清音	hd;jh qy;dq yn;lo
 凰泽美兔	hd;jh ze;df mz;dy tu;dd
 凰羽	hd;jh yu;xx
-凰莲皮埃尔阿方索	hd;jh lm;cl pi;ad ai;tu er;dx aa;ek fh;wd so;sb
+凰莲皮埃尔阿方索	hd;jh lm;cl pi;ad ai;tu er;dx aa;ek fh;dg so;sb
 凰铃音	hd;jh ly;jl yn;lo
 凯亚	kl;jj ya;ay
 凯亚亚尔伯里奇	kl;jj ya;ay ya;ay er;dx bo;rb li;aa qi;dk
@@ -11443,7 +11443,7 @@ use_preset_vocabulary: false
 初代埃罗芒阿老师	iu;yd dl;ry ai;tu lo;sx mh;cw aa;ek lk;lb ui;ab
 初代奥特曼	iu;yd dl;ry ao;dm te;ns mj;oy
 初代厨	iu;yd dl;ry iu;ic
-初代东方宪助	iu;yd dl;ry ds;ad fh;wd xm;bx vu;lq
+初代东方宪助	iu;yd dl;ry ds;ad fh;dg xm;bx vu;lq
 初代火影	iu;yd dl;ry ho;dd yy;pj
 初代目火影	iu;yd dl;ry mu;aa ho;dd yy;pj
 初代雷影	iu;yd dl;ry lz;yt yy;pj
@@ -11865,11 +11865,11 @@ use_preset_vocabulary: false
 前往霓虹灯海	qm;qd wh;xv ni;ye hs;ig dg;hd hl;dm
 前摇	qm;qd yk;ff
 前文明	qm;qd wf;wi my;oo
-前方之前	qm;qd fh;wd vi;dd qm;qd
-前方之风	qm;qd fh;wd vi;dd fg;ji
-前方无法歌唱	qm;qd fh;wd wu;ag fa;dq ge;qg ih;ki
-前方高能	qm;qd fh;wd gk;wk ng;sb
-前方高能反应	qm;qd fh;wd gk;wk ng;sb fj;py yy;ga
+前方之前	qm;qd fh;dg vi;dd qm;qd
+前方之风	qm;qd fh;dg vi;dd fg;ji
+前方无法歌唱	qm;qd fh;dg wu;ag fa;dq ge;qg ih;ki
+前方高能	qm;qd fh;dg gk;wk ng;sb
+前方高能反应	qm;qd fh;dg gk;wk ng;sb fj;py yy;ga
 前期剧情登场角色	qm;qd qi;oq ju;dj qy;xq dg;dd ih;ty jt;dy se;db
 前泊	qm;qd po;db
 前灯尾灯	qm;qd dg;hd wz;um dg;hd
@@ -12152,7 +12152,7 @@ use_preset_vocabulary: false
 刘志豪	lq;dw vi;xu hk;ub
 刘思岑	lq;dw si;xt cf;uj
 刘慈欣	lq;dw ci;xz xn;qj
-刘方单	lq;dw fh;wd dj;ba
+刘方单	lq;dw fh;dg dj;ba
 刘明月	lq;dw my;oo yt;pa
 刘明珠	lq;dw my;oo vu;wv
 刘易斯	lq;dw yi;ow si;jq
@@ -12240,7 +12240,7 @@ use_preset_vocabulary: false
 刽子手	gv;dh zi;aa ub;pa
 剑世界	jm;da ui;ca jx;tj
 剑之反射	jm;da vi;dd fj;py ue;cu
-剑之彼方	jm;da vi;dd bi;xp fh;wd
+剑之彼方	jm;da vi;dd bi;xp fh;dg
 剑之御巫	jm;da vi;dd yu;xx wu;gc
 剑之指挥	jm;da vi;dd vi;fv hv;fj
 剑之荣耀	jm;da vi;dd rs;cm yk;gd
@@ -12783,7 +12783,7 @@ use_preset_vocabulary: false
 动物爱好者	ds;ly wu;nw ai;vy hk;nz ve;ol
 动物控	ds;ly wu;nw ks;fk
 动物新世代	ds;ly wu;nw xn;jq ui;ca dl;ry
-动物方城市	ds;ly wu;nw fh;wd ig;ti ui;wj
+动物方城市	ds;ly wu;nw fh;dg ig;ti ui;wj
 动物朋友	ds;ly wu;nw pg;oo yb;yu
 动物朋友展览区	ds;ly wu;nw pg;oo yb;yu vj;uy lj;jv qu;ki
 动物森友会	ds;ly wu;nw sf;ml yb;yu hv;ry
@@ -12866,7 +12866,7 @@ use_preset_vocabulary: false
 胜利奖券	ug;ou li;hd jd;dx qr;df
 胜利的凯歌	ug;ou li;hd de;bu kl;jj ge;qg
 胜利的引导者	ug;ou li;hd de;bu yn;ga dk;cs ve;ol
-胜利的方程式	ug;ou li;hd de;bu fh;wd ig;hi ui;gy
+胜利的方程式	ug;ou li;hd de;bu fh;dg ig;hi ui;gy
 胜利的终点	ug;ou li;hd de;bu vs;sd dm;hv
 胜利者	ug;ou li;hd ve;ol
 胜利者们的挽歌	ug;ou li;hd ve;ol mf;rm de;bu wj;fm ge;qg
@@ -13111,21 +13111,21 @@ use_preset_vocabulary: false
 北斗星	bz;ag db;du xy;ou
 北斗星司	bz;ag db;du xy;ou si;gk
 北斗神拳	bz;ag db;du uf;uu qr;uf
-北方大藏	bz;ag fh;wd da;ad zh;cz
-北方奈月	bz;ag fh;wd nl;du yt;pa
-北方战役	bz;ag fh;wd vj;gv yi;xu
-北方拓芙	bz;ag fh;wd to;fu fu;cf
-北方栖妹	bz;ag fh;wd qi;mx mz;nw
-北方栖姬	bz;ag fh;wd qi;mx ji;ni
-北方水姬	bz;ag fh;wd uv;ad ji;ni
-北方海域	bz;ag fh;wd hl;dm yu;th
-北方联合阵营设备装备	bz;ag fh;wd lm;eg he;rk vf;ei yy;cl ue;yu bz;wt vd;yv bz;wt
-北方托芙	bz;ag fh;wd to;fq fu;cf
-北方迷彩	bz;ag fh;wd mi;zm cl;pc
-北方酱	bz;ag fh;wd jd;yx
-北方铁道萌化部	bz;ag fh;wd tx;ju dk;zu mg;cm hw;rb bu;ek
-北方风味	bz;ag fh;wd fg;ji wz;kw
-北方飞翔	bz;ag fh;wd fz;yd xd;yy
+北方大藏	bz;ag fh;dg da;ad zh;cz
+北方奈月	bz;ag fh;dg nl;du yt;pa
+北方战役	bz;ag fh;dg vj;gv yi;xu
+北方拓芙	bz;ag fh;dg to;fu fu;cf
+北方栖妹	bz;ag fh;dg qi;mx mz;nw
+北方栖姬	bz;ag fh;dg qi;mx ji;ni
+北方水姬	bz;ag fh;dg uv;ad ji;ni
+北方海域	bz;ag fh;dg hl;dm yu;th
+北方联合阵营设备装备	bz;ag fh;dg lm;eg he;rk vf;ei yy;cl ue;yu bz;wt vd;yv bz;wt
+北方托芙	bz;ag fh;dg to;fq fu;cf
+北方迷彩	bz;ag fh;dg mi;zm cl;pc
+北方酱	bz;ag fh;dg jd;yx
+北方铁道萌化部	bz;ag fh;dg tx;ju dk;zu mg;cm hw;rb bu;ek
+北方风味	bz;ag fh;dg fg;ji wz;kw
+北方飞翔	bz;ag fh;dg fz;yd xd;yy
 北朝鲜	bz;ag ik;ou xm;yy
 北木小梅	bz;ag mu;ad xc;ad mz;mm
 北木常胜	bz;ag mu;ad ih;jk ug;ou
@@ -13184,7 +13184,7 @@ use_preset_vocabulary: false
 北浦嗣巳	bz;ag pu;df si;sc si;ag
 北海道	bz;ag hl;dm dk;zu
 北海道娘	bz;ag hl;dm dk;zu nd;nl
-北海道方言	bz;ag hl;dm dk;zu fh;wd yj;wk
+北海道方言	bz;ag hl;dm dk;zu fh;dg yj;wk
 北海道的现役猎人被丢到异世界	bz;ag hl;dm dk;zu de;bu xm;wj yi;xu lx;qx rf;pd bz;yp dq;pq dk;dv yi;cs ui;ca jx;tj
 北海道腔	bz;ag hl;dm dk;zu qd;ok
 北海道辣妹贼拉可爱	bz;ag hl;dm dk;zu la;xu mz;nw zz;br la;fl ke;dk ai;vy
@@ -13312,7 +13312,7 @@ use_preset_vocabulary: false
 十二月的烟花	ui;aa er;aa yt;pa de;bu yj;hy hw;ch
 十二棱子	ui;aa er;aa lg;ml zi;aa
 十二兽	ui;aa er;aa ub;ka
-十二兽的方合	ui;aa er;aa ub;ka de;bu fh;wd he;rk
+十二兽的方合	ui;aa er;aa ub;ka de;bu fh;dg he;rk
 十二兽的会局	ui;aa er;aa ub;ka de;bu hv;ry ju;uk
 十二兽的相克	ui;aa er;aa ub;ka de;bu xd;mo ke;eg
 十二生肖	ui;aa er;aa ug;na xc;xo
@@ -13386,7 +13386,7 @@ use_preset_vocabulary: false
 十文字雅达利	ui;aa wf;wi zi;bz ya;vy da;zd li;hd
 十文字青	ui;aa wf;wi zi;bz qy;of
 十文字香穗	ui;aa wf;wi zi;bz xd;ho sv;hh
-十方侠骨	ui;aa fh;wd xw;rj gu;go
+十方侠骨	ui;aa fh;dg xw;rj gu;go
 十日草辅	ui;aa ri;aa ck;cz fu;if
 十日谈	ui;aa ri;aa tj;yy
 十时爱梨	ui;aa ui;oc ai;vy li;ml
@@ -13940,22 +13940,22 @@ use_preset_vocabulary: false
 南户唯	nj;ua hu;dp wz;kv
 南斯拉夫	nj;ua si;jq la;fl fu;ad
 南斯拉夫内战	nj;ua si;jq la;fl fu;ad nz;ad vj;gv
-南方公园	nj;ua fh;wd gs;sb yr;ky
-南方凛	nj;ua fh;wd ln;db
-南方四贱客	nj;ua fh;wd si;aa jm;bj ke;bg
-南方奸商	nj;ua fh;wd jm;ng uh;wk
-南方安保派驻	nj;ua fh;wd an;bn bk;rd pl;dp vu;mv
-南方彩虹的露西	nj;ua fh;wd cl;pc hs;ig de;bu lu;yl xi;aa
-南方日鹤	nj;ua fh;wd ri;aa he;nv
-南方普通话	nj;ua fh;wd pu;ob ts;zy hw;yu
-南方栖战姬	nj;ua fh;wd qi;mx vj;gv ji;ni
-南方栖战鬼	nj;ua fh;wd qi;mx vj;gv gv;pd
-南方栖鬼	nj;ua fh;wd qi;mx gv;pd
-南方海域	nj;ua fh;wd hl;dm yu;th
-南方海域强袭侦察	nj;ua fh;wd hl;dm yu;th qd;gs xi;ly vf;rv ia;bj
-南方海域强袭侦查	nj;ua fh;wd hl;dm yu;th qd;gs xi;ly vf;rv ia;md
-南方医科大学	nj;ua fh;wd yi;ku ke;hd da;ad xt;zb
-南方飞鹤	nj;ua fh;wd fz;yd he;nv
+南方公园	nj;ua fh;dg gs;sb yr;ky
+南方凛	nj;ua fh;dg ln;db
+南方四贱客	nj;ua fh;dg si;aa jm;bj ke;bg
+南方奸商	nj;ua fh;dg jm;ng uh;wk
+南方安保派驻	nj;ua fh;dg an;bn bk;rd pl;dp vu;mv
+南方彩虹的露西	nj;ua fh;dg cl;pc hs;ig de;bu lu;yl xi;aa
+南方日鹤	nj;ua fh;dg ri;aa he;nv
+南方普通话	nj;ua fh;dg pu;ob ts;zy hw;yu
+南方栖战姬	nj;ua fh;dg qi;mx vj;gv ji;ni
+南方栖战鬼	nj;ua fh;dg qi;mx vj;gv gv;pd
+南方栖鬼	nj;ua fh;dg qi;mx gv;pd
+南方海域	nj;ua fh;dg hl;dm yu;th
+南方海域强袭侦察	nj;ua fh;dg hl;dm yu;th qd;gs xi;ly vf;rv ia;bj
+南方海域强袭侦查	nj;ua fh;dg hl;dm yu;th qd;gs xi;ly vf;rv ia;md
+南方医科大学	nj;ua fh;dg yi;ku ke;hd da;ad xt;zb
+南方飞鹤	nj;ua fh;dg fz;yd he;nv
 南日向	nj;ua ri;aa xd;pk
 南早纪	nj;ua zk;ou ji;sj
 南昌舰娘	nj;ua ih;oo jm;vj nd;nl
@@ -14070,7 +14070,7 @@ use_preset_vocabulary: false
 博士杨	bo;uc ui;aa yh;my
 博士的家	bo;uc ui;aa de;bu jw;bu
 博士的鲨鱼和狗	bo;uc ui;aa de;bu ua;yu yu;da he;hk gb;qj
-博多东方祭	bo;uc do;xx ds;ad fh;wd ji;uy
+博多东方祭	bo;uc do;xx ds;ad fh;dg ji;uy
 博多藤四郎	bo;uc do;xx tg;ct si;aa lh;el
 博多豚骨拉面	bo;uc do;xx tp;ou gu;go la;fl mm;aa
 博多豚骨拉面团	bo;uc do;xx tp;ou gu;go la;fl mm;aa tr;kc
@@ -14170,7 +14170,7 @@ use_preset_vocabulary: false
 卡咪龟娘	ka;ub mi;km gv;dd nd;nl
 卡哇伊	ka;ub wa;kg yi;ry
 卡嘉莉尤拉阿斯哈	ka;ub jw;uj li;cl yb;ad la;fl aa;ek si;jq ha;kh
-卡在了奇怪的地方	ka;ub zl;ut le;aa qi;dk gy;xu de;bu di;ty fh;wd
+卡在了奇怪的地方	ka;ub zl;ut le;aa qi;dk gy;xu de;bu di;ty fh;dg
 卡坤	ka;ub kp;tu
 卡塔琳娜迈耶	ka;ub ta;td ln;wl na;nn ml;zw ye;ee
 卡塔莉娜克拉艾斯	ka;ub ta;td li;cl na;nn ke;eg la;fl ai;ci si;jq
@@ -14997,7 +14997,7 @@ use_preset_vocabulary: false
 友情的火箭钻头状态	yb;yu qy;xq de;bu ho;dd jm;vq zr;jv tb;dd vd;qp tl;xt
 友情破颜拳	yb;yu qy;xq po;up yj;yy qr;uf
 友情破颜掌	yb;yu qy;xq po;up yj;yy vh;uk
-友方误射	yb;yu fh;wd wu;yw ue;cu
+友方误射	yb;yu fh;dg wu;yw ue;cu
 友永朱音	yb;yu ys;dd vu;pw yn;lo
 友永队	yb;yu ys;dd dv;er
 友瓦日影	yb;yu wa;ad ri;aa yy;pj
@@ -15065,7 +15065,7 @@ use_preset_vocabulary: false
 反击的毒牙	fj;py ji;fk de;bu du;fm ya;ap
 反政教分离主义	fj;py vg;wv jc;wx ff;bd li;ws vu;dw yi;id
 反斗奇兵	fj;py db;du qi;dk by;qb
-反方向的钟	fj;py fh;wd xd;pk de;bu vs;jv
+反方向的钟	fj;py fh;dg xd;pk de;bu vs;jv
 反枕	fj;py vf;mg
 反查	fj;py ia;md
 反正不是亲生哒	fj;py vg;av bu;ad ui;op qn;lm ug;na da;kd
@@ -15324,7 +15324,7 @@ use_preset_vocabulary: false
 古式由加利	gu;uk ui;gy yb;aa jw;lk li;hd
 古式美雪	gu;uk ui;gy mz;dy xt;yx
 古役	gu;uk yi;xu
-古役与地方役种	gu;uk yi;xu yu;aa di;ty fh;wd yi;xu vs;hv
+古役与地方役种	gu;uk yi;xu yu;aa di;ty fh;dg yi;xu vs;hv
 古怒田健志	gu;uk nu;xn tm;aa jm;rj vi;xu
 古怪工作台	gu;uk gy;xu gs;aa zo;rv tl;sk
 古恩纳鲁戴姆	gu;uk en;xy na;sn lu;yo dl;gg mu;nm
@@ -15363,7 +15363,7 @@ use_preset_vocabulary: false
 古书屋敷杀人事件	gu;uk uu;ad wu;uv fu;wf ua;mi rf;pd ui;aa jm;rn
 古书屋杀人事件	gu;uk uu;ad wu;uv ua;mi rf;pd ui;aa jm;rn
 古月娜	gu;uk yt;pa na;nn
-古月方源	gu;uk yt;pa fh;wd yr;dy
+古月方源	gu;uk yt;pa fh;dg yr;dy
 古月鸟	gu;uk yt;pa nc;pa
 古朗基	gu;uk lh;ol ji;tq
 古朗基语	gu;uk lh;ol ji;tq yu;yw
@@ -15516,7 +15516,7 @@ use_preset_vocabulary: false
 只属于你的旅途	vi;kb uu;uy yu;aa ni;re de;bu lv;fp tu;zy
 只属于你的旋律	vi;kb uu;uy yu;aa ni;re de;bu xr;fp lv;xy
 只属于你的点点滴滴	vi;kb uu;uy yu;aa ni;re de;bu dm;hv dm;hv di;dd di;dd
-只属于两个人的方舟	vi;kb uu;uy yu;aa ld;ad ge;ra rf;pd de;bu fh;wd vb;pd
+只属于两个人的方舟	vi;kb uu;uy yu;aa ld;ad ge;ra rf;pd de;bu fh;dg vb;pd
 只属于我们的未来天空	vi;kb uu;uy yu;aa wo;pd mf;rm de;bu wz;ex ll;am tm;ad ks;xg
 只属于我的旅途	vi;kb uu;uy yu;aa wo;pd de;bu lv;fp tu;zy
 只属于我的秘密	vi;kb uu;uy yu;aa wo;pd de;bu mi;hb mi;ub
@@ -15529,7 +15529,7 @@ use_preset_vocabulary: false
 只是堕落	vi;kb ui;op do;td lo;cl
 只是很认真	vi;kb ui;op hf;xg rf;yr vf;uj
 只是朋友	vi;kb ui;op pg;oo yb;yu
-只是活着就已经圆形三角形正方形了	vi;kb ui;op ho;du ve;yo jq;yj yi;vg jy;sg yr;ky xy;pk sj;aa jc;dy xy;pk vg;av fh;wd xy;pk le;aa
+只是活着就已经圆形三角形正方形了	vi;kb ui;op ho;du ve;yo jq;yj yi;vg jy;sg yr;ky xy;pk sj;aa jc;dy xy;pk vg;av fh;dg xy;pk le;aa
 只是为你好	vi;kb ui;op wz;dd ni;re hk;nz
 只是穿着制服而已	vi;kb ui;op ir;xy ve;yo vi;dg fu;oy er;aa yi;vg
 只是被人讨厌这件事像死一样可怕	vi;kb ui;op bz;yp rf;pd tk;yc yj;qi ve;zw jm;rn ui;aa xd;rx si;db yi;aa yh;my ke;dk pa;xb
@@ -15581,7 +15581,7 @@ use_preset_vocabulary: false
 只要有梦想	vi;kb yk;xn yb;ou mg;mx xd;xx
 只要有妹妹就好了	vi;kb yk;xn yb;ou mz;nw mz;nw jq;yj hk;nz le;aa
 只要活着就好	vi;kb yk;xn ho;du ve;yo jq;yj hk;nz
-只要能到达那个地方	vi;kb yk;xn ng;sb dk;dv da;zd na;el ge;ra di;ty fh;wd
+只要能到达那个地方	vi;kb yk;xn ng;sb dk;dv da;zd na;el ge;ra di;ty fh;dg
 只要贝尔哲布布大小姐喜欢就好	vi;kb yk;xn bz;ad er;dx ve;kv bu;ju bu;ju da;ad xc;ad jx;nq xi;uk hr;qy jq;yj hk;nz
 只要还在响彻	vi;kb yk;xn hl;zb zl;ut xd;kx ie;xq
 只要还活着	vi;kb yk;xn hl;zb ho;du ve;yo
@@ -15618,7 +15618,7 @@ use_preset_vocabulary: false
 召唤师索拉诺	vk;kd hr;kh ui;ab so;sb la;fl no;yr
 召唤恶魔	vk;kd hr;kh ee;xy mo;gm
 召唤断路器	vk;kd hr;kh dr;ja lu;zg qi;kk
-召唤方式	vk;kd hr;kh fh;wd ui;gy
+召唤方式	vk;kd hr;kh fh;dg ui;gy
 召唤法师	vk;kd hr;kh fa;dq ui;ab
 召唤兽	vk;kd hr;kh ub;ka
 召唤兽技能	vk;kd hr;kh ub;ka ji;fv ng;sb
@@ -15710,7 +15710,7 @@ use_preset_vocabulary: false
 可爱即正义	ke;dk ai;vy ji;eg vg;av yi;id
 可爱大蚂蚁	ke;dk ai;vy da;ad ma;im yi;iy
 可爱女友	ke;dk ai;vy nv;aa yb;yu
-可爱女友的获取方法	ke;dk ai;vy nv;aa yb;yu de;bu ho;cq qu;ey fh;wd fa;dq
+可爱女友的获取方法	ke;dk ai;vy nv;aa yb;yu de;bu ho;cq qu;ey fh;dg fa;dq
 可爱妮可的女子之道	ke;dk ai;vy ni;nn ke;dk de;bu nv;aa zi;aa vi;dd dk;zu
 可爱小狼	ke;dk ai;vy xc;ad lh;ql
 可爱控	ke;dk ai;vy ks;fk
@@ -15928,7 +15928,7 @@ use_preset_vocabulary: false
 右岛铃桃	yb;ku dk;nu ly;jl tk;mv
 右手持盾左手持剑	yb;ku ub;pa ii;fs dp;po zo;ug ub;pa ii;fs jm;da
 右手换盾左手换剑	yb;ku ub;pa hr;fh dp;po zo;ug ub;pa hr;fh jm;da
-右方之火	yb;ku fh;wd vi;dd ho;dd
+右方之火	yb;ku fh;dg vi;dd ho;dd
 右田日日姬	yb;ku tm;aa ri;aa ri;aa ji;ni
 右田真暗	yb;ku tm;aa vf;uj an;oy
 右田双铁	yb;ku tm;aa ud;yy tx;ju
@@ -16293,7 +16293,7 @@ use_preset_vocabulary: false
 吉良吉广	ji;ku ld;dg ji;ku gd;dp
 吉良吉影	ji;ku ld;dg ji;ku yy;pj
 吉良小百合	ji;ku ld;dg xc;ad bl;ab he;rk
-吉良彼方	ji;ku ld;dg bi;xp fh;wd
+吉良彼方	ji;ku ld;dg bi;xp fh;dg
 吉良荷莉乔斯达	ji;ku ld;dg he;ch li;cl qc;ya si;jq da;zd
 吉茵珂丝	ji;ku yn;cy ke;wk si;aa
 吉蒙里	ji;ku mg;cm li;aa
@@ -16573,10 +16573,10 @@ use_preset_vocabulary: false
 向星星许愿	xd;pk xy;ou xy;ou xu;yw yr;xy
 向星空许愿	xd;pk xy;ou ks;xg xu;yw yr;xy
 向晚	xd;pk wj;om
-向有光的地方	xd;pk yb;ou gd;ea de;bu di;ty fh;wd
+向有光的地方	xd;pk yb;ou gd;ea de;bu di;ty fh;dg
 向朗	xd;pk lh;ol
 向朝阳之所在	xd;pk vk;ou yh;eo vi;dd so;hj zl;ut
-向朝霞的彼方	xd;pk vk;ou xw;yj de;bu bi;xp fh;wd
+向朝霞的彼方	xd;pk vk;ou xw;yj de;bu bi;xp fh;dg
 向未来的感谢	xd;pk wz;ex ll;am de;bu gj;xx xx;yu
 向未来连接	xd;pk wz;ex ll;am lm;zi jx;fq
 向森之魔物献上花束	xd;pk sf;ml vi;dd mo;gm wu;nw xm;qn uh;aa hw;ch uu;ad
@@ -16613,10 +16613,10 @@ use_preset_vocabulary: false
 向着繁星	xd;pk ve;yo fj;sm xy;ou
 向着遥远的那边	xd;pk ve;yo yk;zf yr;zy de;bu na;el bm;zl
 向着远处的天空	xd;pk ve;yo yr;zy iu;wb de;bu tm;ad ks;xg
-向着那个地方	xd;pk ve;yo na;el ge;ra di;ty fh;wd
+向着那个地方	xd;pk ve;yo na;el ge;ra di;ty fh;dg
 向着那广阔的夜空	xd;pk ve;yo na;el gd;dp ko;mh de;bu ye;wd ks;xg
-向着那片云之彼方	xd;pk ve;yo na;el pm;pa yp;es vi;dd bi;xp fh;wd
-向着闪烁的前方	xd;pk ve;yo uj;mr uo;hl de;bu qm;qd fh;wd
+向着那片云之彼方	xd;pk ve;yo na;el pm;pa yp;es vi;dd bi;xp fh;dg
+向着闪烁的前方	xd;pk ve;yo uj;mr uo;hl de;bu qm;qd fh;dg
 向着闪耀的未来	xd;pk ve;yo uj;mr yk;gd de;bu wz;ex ll;am
 向着黑暗的彼岸	xd;pk ve;yo hz;ha an;oy de;bu bi;xp an;ug
 向秋风挥手	xd;pk qq;hh fg;ji hv;fj ub;pa
@@ -16674,7 +16674,7 @@ use_preset_vocabulary: false
 君彼女	jp;ky bi;xp nv;aa
 君成田晃佑	jp;ky ig;gg tm;aa hd;og yb;ry
 君日本语本当上手	jp;ky ri;aa bf;aa yu;yw bf;aa dh;xx uh;aa ub;pa
-君月士方	jp;ky yt;pa ui;aa fh;wd
+君月士方	jp;ky yt;pa ui;aa fh;dg
 君有云	jp;ky yb;ou yp;es
 君望	jp;ky wh;wo
 君望永远	jp;ky wh;wo ys;dd yr;zy
@@ -16990,7 +16990,7 @@ use_preset_vocabulary: false
 告诉我你的秘密吧	gk;kn su;yi wo;pd ni;re de;bu mi;hb mi;ub ba;kb
 告诉我吧	gk;kn su;yi wo;pd ba;kb
 告诉我吧达尔文	gk;kn su;yi wo;pd ba;kb da;zd er;dx wf;wi
-告诉我忘记你的方法	gk;kn su;yi wo;pd wh;xw ji;yj ni;re de;bu fh;wd fa;dq
+告诉我忘记你的方法	gk;kn su;yi wo;pd wh;xw ji;yj ni;re de;bu fh;dg fa;dq
 周不疑	vb;kt bu;ad yi;bp
 周佶	vb;kt ji;rj
 周侗	vb;kt ds;rt
@@ -17219,7 +17219,7 @@ use_preset_vocabulary: false
 和你在一起的天空	he;hk ni;re zl;ut yi;aa qi;zj de;bu tm;ad ks;xg
 和你失联	he;hk ni;re ui;pf lm;eg
 和你恋爱什么的是不可能的	he;hk ni;re lm;xy ai;vy uf;ru me;ps de;bu ui;op bu;ad ke;dk ng;sb de;bu
-和你恋爱的恋爱方法	he;hk ni;re lm;xy ai;vy de;bu lm;xy ai;vy fh;wd fa;dq
+和你恋爱的恋爱方法	he;hk ni;re lm;xy ai;vy de;bu lm;xy ai;vy fh;dg fa;dq
 和你相似的我	he;hk ni;re xd;mo si;ry de;bu wo;pd
 和你约定	he;hk ni;re yt;su dy;bp
 和修旧多宗太	he;hk xq;rp jq;ao do;xx zs;bu tl;dd
@@ -17931,7 +17931,7 @@ use_preset_vocabulary: false
 唯是此般	wz;kv ui;op ci;vb bj;vu
 唯有呐喊的青春	wz;kv yb;ou na;kn hj;kx de;bu qy;of ip;of
 唯有永远可以两人共筑	wz;kv yb;ou ys;dd yr;zy ke;dk yi;rd ld;ad rf;pd gs;cb vu;vg
-唯有紧握之手方能谱写之物	wz;kv yb;ou jn;sy wo;fw vi;dd ub;pa fh;wd ng;sb pu;yp xx;by vi;dd wu;nw
+唯有紧握之手方能谱写之物	wz;kv yb;ou jn;sy wo;fw vi;dd ub;pa fh;dg ng;sb pu;yp xx;by vi;dd wu;nw
 唯有这拯救你的花	wz;kv yb;ou ve;zw vg;fi jq;wq ni;re de;bu hw;ch
 唯瑞树	wz;kv rv;we uu;md
 唯花	wz;kv hw;ch
@@ -18142,7 +18142,7 @@ use_preset_vocabulary: false
 喜欢你的心情	xi;uk hr;qy ni;re de;bu xn;dd qy;xq
 喜欢你万岁	xi;uk hr;qy ni;re wj;ag sv;ux
 喜欢到病入膏肓	xi;uk hr;qy dk;dv by;bb ru;pd gk;og hd;ow
-喜欢和喜欢的方程式	xi;uk hr;qy he;hk xi;uk hr;qy de;bu fh;wd ig;hi ui;gy
+喜欢和喜欢的方程式	xi;uk hr;qy he;hk xi;uk hr;qy de;bu fh;dg ig;hi ui;gy
 喜欢喜欢喜欢喜欢喜欢喜欢喜欢喜欢喜欢	xi;uk hr;qy xi;uk hr;qy xi;uk hr;qy xi;uk hr;qy xi;uk hr;qy xi;uk hr;qy xi;uk hr;qy xi;uk hr;qy xi;uk hr;qy
 喜欢喜欢亲爱的	xi;uk hr;qy xi;uk hr;qy qn;lm ai;vy de;bu
 喜欢喜欢软绵绵	xi;uk hr;qy xi;uk hr;qy rr;iq mm;sb mm;sb
@@ -18367,7 +18367,7 @@ use_preset_vocabulary: false
 单排轮玩家	dj;ba pl;ff lp;il wj;wy jw;bu
 单推	dj;ba tv;fv
 单摆刃拷问机械	dj;ba bl;fb rf;dd kk;fk wf;km ji;mj xx;mj
-单方面的爱	dj;ba fh;wd mm;aa de;bu ai;vy
+单方面的爱	dj;ba fh;dg mm;aa de;bu ai;vy
 单晓雨	dj;ba xc;oy yu;ad
 单曲	dj;ba qu;aa
 单核细胞	dj;ba he;mh xi;st bk;ob
@@ -18792,7 +18792,7 @@ use_preset_vocabulary: false
 四代水影	si;aa dl;ry uv;ad yy;pj
 四代火影	si;aa dl;ry ho;dd yy;pj
 四代目土影	si;aa dl;ry mu;aa tu;aa yy;pj
-四代目东方宪助	si;aa dl;ry mu;aa ds;ad fh;wd xm;bx vu;lq
+四代目东方宪助	si;aa dl;ry mu;aa ds;ad fh;dg xm;bx vu;lq
 四代目水影	si;aa dl;ry mu;aa uv;ad yy;pj
 四代目江户城	si;aa dl;ry mu;aa jd;dg hu;dp ig;ti
 四代目火影	si;aa dl;ry mu;aa ho;dd yy;pj
@@ -18894,13 +18894,13 @@ use_preset_vocabulary: false
 四散凋零	si;aa sj;wo dc;dv ly;yl
 四散的乌鸦与静谧的白色巨塔的崩塌	si;aa sj;wo de;bu wu;pa ya;ny yu;aa jy;qv mi;ym de;bu bl;pa se;db ju;kk ta;td de;bu bg;up ta;ty
 四斤大豆三根皮带	si;aa jn;pa da;ad db;aa sj;aa gf;mg pi;ad dl;jb
-四方八方肘铁炮	si;aa fh;wd ba;pd fh;wd vb;oc tx;ju pk;hb
-四方回忆	si;aa fh;wd hv;kk yi;xy
-四方川菖蒲	si;aa fh;wd ir;pa ih;ci pu;cp
-四方满	si;aa fh;wd mj;dl
-四方田犬丸	si;aa fh;wd tm;aa qr;dd wj;jd
-四方神白虎	si;aa fh;wd uf;uu bl;pa hu;hj
-四方茉莉	si;aa fh;wd mo;cm li;cl
+四方八方肘铁炮	si;aa fh;dg ba;pd fh;dg vb;oc tx;ju pk;hb
+四方回忆	si;aa fh;dg hv;kk yi;xy
+四方川菖蒲	si;aa fh;dg ir;pa ih;ci pu;cp
+四方满	si;aa fh;dg mj;dl
+四方田犬丸	si;aa fh;dg tm;aa qr;dd wj;jd
+四方神白虎	si;aa fh;dg uf;uu bl;pa hu;hj
+四方茉莉	si;aa fh;dg mo;cm li;cl
 四时如歌	si;aa ui;oc ru;nk ge;qg
 四时草之绿	si;aa ui;oc ck;cz vi;dd lv;sl
 四时草之缘	si;aa ui;oc ck;cz vi;dd yr;st
@@ -19529,14 +19529,14 @@ use_preset_vocabulary: false
 土御门静	tu;aa yu;xx mf;dg jy;qv
 土拨鼠	tu;aa bo;ff uu;ju
 土拨鼠兽	tu;aa bo;ff uu;ju ub;ka
-土方	tu;aa fh;wd
-土方令	tu;aa fh;wd ly;rs
-土方勇美	tu;aa fh;wd ys;ly mz;dy
-土方十四郎	tu;aa fh;wd ui;aa si;aa lh;el
-土方征美	tu;aa fh;wd vg;xv mz;dy
-土方岁三	tu;aa fh;wd sv;ux sj;aa
-土方纪风	tu;aa fh;wd ji;sj fg;ji
-土方葵	tu;aa fh;wd kv;cg
+土方	tu;aa fh;dg
+土方令	tu;aa fh;dg ly;rs
+土方勇美	tu;aa fh;dg ys;ly mz;dy
+土方十四郎	tu;aa fh;dg ui;aa si;aa lh;el
+土方征美	tu;aa fh;dg vg;xv mz;dy
+土方岁三	tu;aa fh;dg sv;ux sj;aa
+土方纪风	tu;aa fh;dg ji;sj fg;ji
+土方葵	tu;aa fh;dg kv;cg
 土木夏克	tu;aa mu;ad xw;wz ke;eg
 土狼犬娘	tu;aa lh;ql qr;dd nd;nl
 土王	tu;aa wh;aa
@@ -19657,7 +19657,7 @@ use_preset_vocabulary: false
 在希望之前相会	zl;ut xi;ib wh;wo vi;dd qm;qd xd;mo hv;ry
 在平常的夜晚的海边	zl;ut py;aa ih;jk de;bu ye;wd wj;om de;bu hl;dm bm;zl
 在座写轻小说的各位全都有病	zl;ut zo;gz xx;by qy;ig xc;ad uo;yd de;bu ge;wk wz;rl qr;rw db;ev yb;ou by;bb
-在彩虹的彼方	zl;ut cl;pc hs;ig de;bu bi;xp fh;wd
+在彩虹的彼方	zl;ut cl;pc hs;ig de;bu bi;xp fh;dg
 在想要消失的夜晚	zl;ut xd;xx yk;xn xc;dx ui;pf de;bu ye;wd wj;om
 在意的那个她	zl;ut yi;xy de;bu na;el ge;ra ta;ny
 在宪	zl;ut xm;bx
@@ -19666,7 +19666,7 @@ use_preset_vocabulary: false
 在投币洗衣房里睡着了	zl;ut tb;fu bi;pj xi;dx yi;dd fh;hf li;aa uv;oi vk;yo le;aa
 在拂晓的水平线上	zl;ut fu;ff xc;oy de;bu uv;ad py;aa xm;sj uh;aa
 在拉了翔之后把智能手机直接掉在了马桶里	zl;ut la;fl le;aa xd;yy vi;dd hb;pk ba;fb vi;ov ng;sb ub;pa ji;mj vi;uq jx;fq dc;fv zl;ut le;aa ma;aa ts;my li;aa
-在摇曳海波的彼方	zl;ut yk;ff ye;ap hl;dm bo;dp de;bu bi;xp fh;wd
+在摇曳海波的彼方	zl;ut yk;ff ye;ap hl;dm bo;dp de;bu bi;xp fh;dg
 在教室再会	zl;ut jc;wx ui;bv zl;aa hv;ry
 在星球终结之际呼吸着	zl;ut xy;ou qq;wq vs;sd jx;sj vi;dd ji;eu hu;kh xi;kj vo;yo
 在星遗物中沉睡的深层	zl;ut xy;ou yi;zg wu;nw vs;aa if;dj uv;oi de;bu uf;dm cg;uy
@@ -19682,7 +19682,7 @@ use_preset_vocabulary: false
 在樱吹雪飞舞之中	zl;ut yy;my iv;kq xt;yx fz;yd wu;rf vi;dd vs;aa
 在樱花树下	zl;ut yy;my hw;ch uu;md xw;ab
 在樱花纷飞的那天之后	zl;ut yy;my hw;ch ff;sf fz;yd de;bu na;el tm;ad vi;dd hb;pk
-在水一方	zl;ut uv;ad yi;aa fh;wd
+在水一方	zl;ut uv;ad yi;aa fh;dg
 在永恒的终点	zl;ut ys;dd hg;xg de;bu vs;sd dm;hv
 在没有你的世界里无论声音还是颜色都不存在	zl;ut mz;du yb;ou ni;re de;bu ui;ca jx;tj li;aa wu;ag lp;yl ug;um yn;lo hl;zb ui;op yj;yy se;db db;ev bu;ad cp;uz zl;ut
 在没有油的时候	zl;ut mz;du yb;ou yb;dy de;bu ui;oc hb;ru
@@ -19714,9 +19714,9 @@ use_preset_vocabulary: false
 在盛满秋色的风中起舞	zl;ut ug;mi mj;dl qq;hh se;db de;bu fg;ji vs;aa qi;zj wu;rf
 在相思树下	zl;ut xd;mo si;xt uu;md xw;ab
 在眉心点火	zl;ut mz;om xn;dd dm;hv ho;dd
-在看不见的地方死去	zl;ut kj;ou bu;ad jm;ag de;bu di;ty fh;wd si;db qu;ts
+在看不见的地方死去	zl;ut kj;ou bu;ad jm;ag de;bu di;ty fh;dg si;db qu;ts
 在睡不着的夜里把你喰食	zl;ut uv;oi bu;ad ve;yo de;bu ye;wd li;aa ba;fb ni;re cj;ku ui;rl
-在秘密的前方等待着	zl;ut mi;hb mi;ub de;bu qm;qd fh;wd dg;vs dl;xs ve;yo
+在秘密的前方等待着	zl;ut mi;hb mi;ub de;bu qm;qd fh;dg dg;vs dl;xs ve;yo
 在神圣的夜晚	zl;ut uf;uu ug;ty de;bu ye;wd wj;om
 在祭典上大喊	zl;ut ji;uy dm;ba uh;aa da;ad hj;kx
 在稻妻城说晚安	zl;ut dk;hj qi;na ig;ti uo;yd wj;om an;bn
@@ -19745,12 +19745,12 @@ use_preset_vocabulary: false
 在超市后吸烟的故事	zl;ut ik;zv ui;wj hb;pk xi;kj yj;hy de;bu gu;wg ui;aa
 在超市后门吸烟的二人	zl;ut ik;zv ui;wj hb;pk mf;dg xi;kj yj;hy de;bu er;aa rf;pd
 在路上	zl;ut lu;zg uh;aa
-在追逐的梦想前方	zl;ut vv;zv vu;zu de;bu mg;mx xd;xx qm;qd fh;wd
+在追逐的梦想前方	zl;ut vv;zv vu;zu de;bu mg;mx xd;xx qm;qd fh;dg
 在这世界	zl;ut ve;zw ui;ca jx;tj
 在这世界的角落	zl;ut ve;zw ui;ca jx;tj de;bu jc;dy lo;cl
 在这世界尽头咏唱爱的少女	zl;ut ve;zw ui;ca jx;tj jn;id tb;dd ys;ky ih;ki ai;vy de;bu uk;xp nv;aa
 在这个世界与你同行	zl;ut ve;zw ge;ra ui;ca jx;tj yu;aa ni;re ts;kk hh;xi
-在这个地方	zl;ut ve;zw ge;ra di;ty fh;wd
+在这个地方	zl;ut ve;zw ge;ra di;ty fh;dg
 在这崭新的季节里	zl;ut ve;zw vj;uv xn;jq de;bu ji;hz jx;ce li;aa
 在这春日的天空	zl;ut ve;zw ip;of ri;aa de;bu tm;ad ks;xg
 在这条街上现在和你一起	zl;ut ve;zw tc;wm jx;xg uh;aa xm;wj zl;ut he;hk ni;re yi;aa qi;zj
@@ -19774,7 +19774,7 @@ use_preset_vocabulary: false
 在那个夏天等待	zl;ut na;el ge;ra xw;wz tm;ad dg;vs dl;xs
 在那个夏日的某天	zl;ut na;el ge;ra xw;wz ri;aa de;bu mb;mg tm;ad
 在那座桥发誓	zl;ut na;el zo;gz qc;mq fa;ay ui;yv
-在那星的彼方	zl;ut na;el xy;ou de;bu bi;xp fh;wd
+在那星的彼方	zl;ut na;el xy;ou de;bu bi;xp fh;dg
 在那棵树下相会吧	zl;ut na;el ke;mg uu;md xw;ab xd;mo hv;ry ba;kb
 在那样的一天一步一步走	zl;ut na;el yh;my de;bu yi;aa tm;ad yi;aa bu;vx yi;aa bu;vx zb;tv
 在那样的雨天	zl;ut na;el yh;my de;bu yu;ad tm;ad
@@ -19795,7 +19795,7 @@ use_preset_vocabulary: false
 在雨中溺没	zl;ut yu;ad vs;aa ni;dr mz;du
 在雨被爆破的世界里	zl;ut yu;ad bz;yp bk;hb po;up de;bu ui;ca jx;tj li;aa
 在雪的尽头呼唤你的名字	zl;ut xt;yx de;bu jn;id tb;dd hu;kh hr;kh ni;re de;bu my;xk zi;bz
-在雪花绽开的那个地方	zl;ut xt;yx hw;ch vj;sd kl;ac de;bu na;el ge;ra di;ty fh;wd
+在雪花绽开的那个地方	zl;ut xt;yx hw;ch vj;sd kl;ac de;bu na;el ge;ra di;ty fh;dg
 在雪花闪耀的归路上	zl;ut xt;yx hw;ch uj;mr yk;gd de;bu gv;ax lu;zg uh;aa
 在雪融化之前	zl;ut xt;yx rs;ig hw;rb vi;dd qm;qd
 在青梅竹马的妹妹家开始家庭教师的工作后	zl;ut qy;of mz;mm vu;gg ma;aa de;bu mz;nw mz;nw jw;bu kl;ac ui;nt jw;bu ty;gt jc;wx ui;ab de;bu gs;aa zo;rv hb;pk
@@ -19887,7 +19887,7 @@ use_preset_vocabulary: false
 地心漂流	di;ty xn;dd pc;dp lq;di
 地心说	di;ty xn;dd uo;yd
 地怨虞	di;ty yr;xe yu;hw
-地方役	di;ty fh;wd yi;xu
+地方役	di;ty fh;dg yi;xu
 地星剑士	di;ty xy;ou jm;da ui;aa
 地核侠	di;ty he;mh xw;rj
 地榆	di;ty yu;my
@@ -20239,7 +20239,7 @@ use_preset_vocabulary: false
 埃及九柱神	ai;tu ji;nd jq;py vu;mv uf;uu
 埃及九荣神	ai;tu ji;nd jq;py rs;cm uf;uu
 埃及大动员	ai;tu ji;nd da;ad ds;ly yr;kb
-埃及方块	ai;tu ji;nd fh;wd ky;td
+埃及方块	ai;tu ji;nd fh;dg ky;td
 埃及王子	ai;tu ji;nd wh;aa zi;aa
 埃及神	ai;tu ji;nd uf;uu
 埃及神明们的日常	ai;tu ji;nd uf;uu my;oo mf;rm de;bu ri;aa ih;jk
@@ -20964,12 +20964,12 @@ use_preset_vocabulary: false
 境田翔一	jy;tj tm;aa xd;yy yi;aa
 境界	jy;tj jx;tj
 境界上的地平线	jy;tj jx;tj uh;aa de;bu di;ty py;aa xm;sj
-境界之彼方	jy;tj jx;tj vi;dd bi;xp fh;wd
+境界之彼方	jy;tj jx;tj vi;dd bi;xp fh;dg
 境界之轮回	jy;tj jx;tj vi;dd lp;il hv;kk
 境界亡灵	jy;tj jx;tj wh;da ly;hx
 境界战机	jy;tj jx;tj vj;gv ji;mj
 境界生命物语	jy;tj jx;tj ug;na my;re wu;nw yu;yw
-境界的彼方	jy;tj jx;tj de;bu bi;xp fh;wd
+境界的彼方	jy;tj jx;tj de;bu bi;xp fh;dg
 境界的轮回	jy;tj jx;tj de;bu lp;il hv;kk
 境界线	jy;tj jx;tj xm;sj
 境界线上的地平线	jy;tj jx;tj xm;sj uh;aa de;bu di;ty py;aa xm;sj
@@ -21597,7 +21597,7 @@ use_preset_vocabulary: false
 夏科娅	xw;wz ke;hd ya;ny
 夏空	xw;wz ks;xg
 夏空之光	xw;wz ks;xg vi;dd gd;ea
-夏空彼方	xw;wz ks;xg bi;xp fh;wd
+夏空彼方	xw;wz ks;xg bi;xp fh;dg
 夏空应援	xw;wz ks;xg yy;ga yr;fy
 夏空的英仙座	xw;wz ks;xg de;bu yy;cy xm;ru zo;gz
 夏空与海市蜃楼	xw;wz ks;xg yu;aa hl;dm ui;wj uf;ii lb;ml
@@ -21744,7 +21744,7 @@ use_preset_vocabulary: false
 夕神辉夜	xi;pd uf;uu hv;gj ye;wd
 夕神迅	xi;pd uf;uu xp;zu
 夕立	xi;pd li;da
-夕立方程式	xi;pd li;da fh;wd ig;hi ui;gy
+夕立方程式	xi;pd li;da fh;dg ig;hi ui;gy
 夕紫叶	xi;pd zi;sc ye;ku
 夕紫叶伊札瓦	xi;pd zi;sc ye;ku yi;ry va;mg wa;ad
 夕丝	xi;pd si;aa
@@ -22513,7 +22513,7 @@ use_preset_vocabulary: false
 梦璃凛	mg;mx li;wl ln;db
 梦璃夜天星	mg;mx li;wl ye;wd tm;ad xy;ou
 梦留别	mg;mx lq;td bx;dl
-梦的七次方	mg;mx de;bu qi;ag ci;dq fh;wd
+梦的七次方	mg;mx de;bu qi;ag ci;dq fh;dg
 梦的光点	mg;mx de;bu gd;ea dm;hv
 梦的前奏曲	mg;mx de;bu qm;qd zb;tf qu;aa
 梦的帷幕	mg;mx de;bu wz;jv mu;jm
@@ -22610,7 +22610,7 @@ use_preset_vocabulary: false
 梦野秘密子	mg;mx ye;ly mi;hb mi;ub zi;aa
 梦野纱鸟	mg;mx ye;ly ua;su nc;pa
 梦锥	mg;mx vv;jv
-梦开始的地方	mg;mx kl;ac ui;nt de;bu di;ty fh;wd
+梦开始的地方	mg;mx kl;ac ui;nt de;bu di;ty fh;dg
 梦间集	mg;mx jm;mo ji;vm
 梦阙山河	mg;mx qt;mj uj;aa he;dk
 梦关山	mg;mx gr;qd uj;aa
@@ -22654,14 +22654,14 @@ use_preset_vocabulary: false
 大久保蓝子	da;ad jq;pd bk;rd lj;cj zi;aa
 大久保贵	da;ad jq;pd bk;rd gv;ba
 大九	da;ad jq;py
-大九州东方祭	da;ad jq;py vb;id ds;ad fh;wd ji;uy
+大九州东方祭	da;ad jq;py vb;id ds;ad fh;dg ji;uy
 大乱斗	da;ad lr;ug db;du
 大事年表	da;ad ui;aa nm;ra bc;fy
 大井	da;ad jy;aa
 大井麻利衣	da;ad jy;aa ma;gl li;hd yi;dd
 大亚当	da;ad ya;ay dh;xx
 大人	da;ad rf;pd
-大人也不知道的寻梦方法	da;ad rf;pd ye;gg bu;ad vi;ku dk;zu de;bu xp;cx mg;mx fh;wd fa;dq
+大人也不知道的寻梦方法	da;ad rf;pd ye;gg bu;ad vi;ku dk;zu de;bu xp;cx mg;mx fh;dg fa;dq
 大人们的乐园	da;ad rf;pd mf;rm de;bu le;pd yr;ky
 大人渣	da;ad rf;pd va;di
 大人的玩具	da;ad rf;pd de;bu wj;wy ju;ba
@@ -23995,7 +23995,7 @@ use_preset_vocabulary: false
 天才王子的赤字国家重生术	tm;ad cl;ap wh;aa zi;aa de;bu ii;tb zi;bz go;ky jw;bu is;pa ug;na uu;md
 天才玩偶	tm;ad cl;ap wj;wy ou;ry
 天才病	tm;ad cl;ap by;bb
-天才美少女学生会长教你民主主义的破坏方法	tm;ad cl;ap mz;dy uk;xp nv;aa xt;zb ug;na hv;ry vh;pd jc;wx ni;re mn;ag vu;dw vu;dw yi;id de;bu po;up hy;tb fh;wd fa;dq
+天才美少女学生会长教你民主主义的破坏方法	tm;ad cl;ap mz;dy uk;xp nv;aa xt;zb ug;na hv;ry vh;pd jc;wx ni;re mn;ag vu;dw vu;dw yi;id de;bu po;up hy;tb fh;dg fa;dq
 天才般的我	tm;ad cl;ap bj;vu de;bu wo;pd
 天才麻将少女	tm;ad cl;ap ma;gl jd;jc uk;xp nv;aa
 天才麻将少女阿知贺篇	tm;ad cl;ap ma;gl jd;jc uk;xp nv;aa aa;ek vi;ku he;bj pm;vb
@@ -24305,7 +24305,7 @@ use_preset_vocabulary: false
 天空与风跳起的恋爱圆舞曲	tm;ad ks;xg yu;aa fg;ji tc;zv qi;zj de;bu lm;xy ai;vy yr;ky wu;rf qu;aa
 天空色广播	tm;ad ks;xg se;db gd;dp bo;ff
 天空覆层的观测者	tm;ad ks;xg fu;xf cg;uy de;bu gr;jy ce;dz ve;ol
-天空触手可及的地方	tm;ad ks;xg iu;ji ub;pa ke;dk ji;nd de;bu di;ty fh;wd
+天空触手可及的地方	tm;ad ks;xg iu;ji ub;pa ke;dk ji;nd de;bu di;ty fh;dg
 天空训练员	tm;ad ks;xg xp;yi lm;sd yr;kb
 天空轨道	tm;ad ks;xg gv;ij dk;zu
 天空追逐区域	tm;ad ks;xg vv;zv vu;zu qu;ki yu;th
@@ -24446,7 +24446,7 @@ use_preset_vocabulary: false
 天邪鬼黄	tm;ad xx;ey gv;pd hd;cb
 天邪龙王	tm;ad xx;ey ls;ad wh;aa
 天部秋成	tm;ad bu;ek qq;hh ig;gg
-天都彼方	tm;ad du;ev bi;xp fh;wd
+天都彼方	tm;ad du;ev bi;xp fh;dg
 天酒馨	tm;ad jq;dy xn;xu
 天里美奈	tm;ad li;aa mz;dy nl;du
 天野凛	tm;ad ye;ly ln;db
@@ -24514,7 +24514,7 @@ use_preset_vocabulary: false
 天青车道	tm;ad qy;of ie;aa dk;zu
 天音	tm;ad yn;lo
 天音巫呼	tm;ad yn;lo wu;gc hu;kh
-天音彼方	tm;ad yn;lo bi;xp fh;wd
+天音彼方	tm;ad yn;lo bi;xp fh;dg
 天音月咲	tm;ad yn;lo yt;pa xc;kg
 天音月夜	tm;ad yn;lo yt;pa ye;wd
 天音玛丽	tm;ad yn;lo ma;wm li;ad
@@ -24541,7 +24541,7 @@ use_preset_vocabulary: false
 天体图	tm;ad ti;rb tu;kd
 天体压制用最终兵器杰顿	tm;ad ti;rb ya;id vi;dg ys;kf zv;oq vs;sd by;qb qi;kk jx;hm dp;yt
 天体操控	tm;ad ti;rb ck;fz ks;fk
-天体的方式	tm;ad ti;rb de;bu fh;wd ui;gy
+天体的方式	tm;ad ti;rb de;bu fh;dg ui;gy
 天体的秩序	tm;ad ti;rb de;bu vi;hu xu;gy
 天体与生命体链接	tm;ad ti;rb yu;aa ug;na my;re ti;rb lm;jl jx;fq
 天体英雄	tm;ad ti;rb yy;cy xs;vh
@@ -25003,7 +25003,7 @@ use_preset_vocabulary: false
 奇迹之光临	qi;dk ji;zy vi;dd gd;ea ln;ao
 奇迹之年	qi;dk ji;zy vi;dd nm;ra
 奇迹之复活	qi;dk ji;zy vi;dd fu;wo ho;du
-奇迹之方舟	qi;dk ji;zy vi;dd fh;wd vb;pd
+奇迹之方舟	qi;dk ji;zy vi;dd fh;dg vb;pd
 奇迹之残照	qi;dk ji;zy vi;dd cj;dj vk;hv
 奇迹之海	qi;dk ji;zy vi;dd hl;dm
 奇迹之发掘	qi;dk ji;zy vi;dd fa;ay jt;fq
@@ -26139,7 +26139,7 @@ use_preset_vocabulary: false
 如果的话	ru;nk go;tm de;bu hw;yu
 如果突然想起我	ru;nk go;tm tu;xq rj;hq xd;xx qi;zj wo;pd
 如果窥见到梦想	ru;nk go;tm kv;xg jm;ag dk;dv mg;mx xd;xx
-如果终点还在前方	ru;nk go;tm vs;sd dm;hv hl;zb zl;ut qm;qd fh;wd
+如果终点还在前方	ru;nk go;tm vs;sd dm;hv hl;zb zl;ut qm;qd fh;dg
 如果给我打钱的话	ru;nk go;tm gz;sh wo;pd da;fd qm;jj de;bu hw;yu
 如果能在梦中改变世界	ru;nk go;tm ng;sb zl;ut mg;mx vs;aa gl;wj bm;wy ui;ca jx;tj
 如果能在梦中相遇	ru;nk go;tm ng;sb zl;ut mg;mx vs;aa xd;mo yu;zy
@@ -27512,7 +27512,7 @@ use_preset_vocabulary: false
 宅女	vl;bq nv;aa
 宅女是如何炼成的	vl;bq nv;aa ui;op ru;nk he;rk lm;hd ig;gg de;bu
 宅学家的自我修养	vl;bq xt;zb jw;bu de;bu zi;pa wo;pd xq;rp yh;ya
-宅方	vl;bq fh;wd
+宅方	vl;bq fh;dg
 宅物	vl;bq wu;nw
 宅男	vl;bq nj;tl
 宅男不该活在世界上事件	vl;bq nj;tl bu;ad gl;yh ho;du zl;ut ui;ca jx;tj uh;aa ui;aa jm;rn
@@ -27617,7 +27617,7 @@ use_preset_vocabulary: false
 宇宙神作	yu;by vb;by uf;uu zo;rv
 宇宙科学警备队	yu;by vb;by ke;hd xt;zb jy;yj bz;wt dv;er
 宇宙空间站	yu;by vb;by ks;xg jm;mo vj;lv
-宇宙立方	yu;by vb;by li;da fh;wd
+宇宙立方	yu;by vb;by li;da fh;dg
 宇宙第一小兔兔	yu;by vb;by di;vp yi;aa xc;ad tu;dd tu;dd
 宇宙级的爱	yu;by vb;by ji;sj de;bu ai;vy
 宇宙耀变龙	yu;by vb;by yk;gd bm;wy ls;ad
@@ -28263,8 +28263,8 @@ use_preset_vocabulary: false
 宗形巡	zs;bu xy;pk xp;zi
 宗教审判庭	zs;bu jc;wx uf;bu pj;db ty;gt
 宗教概念	zs;bu jc;wx gl;mj nm;xj
-宗方京助	zs;bu fh;wd jy;wx vu;lq
-宗方甚六	zs;bu fh;wd uf;qa lq;wb
+宗方京助	zs;bu fh;dg jy;wx vu;lq
+宗方甚六	zs;bu fh;dg uf;qa lq;wb
 宗次郎	zs;bu ci;dq lh;el
 宗次郎之歌	zs;bu ci;dq lh;el vi;dd ge;qg
 宗派	zs;bu pl;dp
@@ -28280,13 +28280,13 @@ use_preset_vocabulary: false
 宗预	zs;bu yu;yy
 宗黄红烧肉	zs;bu hd;cb hs;sg uk;hy rb;ad
 官志宏	gr;bg vi;xu hs;bh
-官方吐槽	gr;bg fh;wd tu;kt ck;mc
-官方图集	gr;bg fh;wd tu;kd ji;vm
-官方展板	gr;bg fh;wd vj;uy bj;mf
-官方整活	gr;bg fh;wd vg;vi ho;du
-官方有病	gr;bg fh;wd yb;ou by;bb
-官方玩梗	gr;bg fh;wd wj;wy gg;mg
-官方逼死同人	gr;bg fh;wd bi;zf si;db ts;kk rf;pd
+官方吐槽	gr;bg fh;dg tu;kt ck;mc
+官方图集	gr;bg fh;dg tu;kd ji;vm
+官方展板	gr;bg fh;dg vj;uy bj;mf
+官方整活	gr;bg fh;dg vg;vi ho;du
+官方有病	gr;bg fh;dg yb;ou by;bb
+官方玩梗	gr;bg fh;dg wj;wy gg;mg
+官方逼死同人	gr;bg fh;dg bi;zf si;db ts;kk rf;pd
 官渡之战	gr;bg du;dd vi;dd vj;gv
 官逼同死	gr;bg bi;zf ts;kk si;db
 官配	gr;bg pz;yj
@@ -28628,7 +28628,7 @@ use_preset_vocabulary: false
 家用机	jw;bu ys;kf ji;mj
 家用版曲目	jw;bu ys;kf bj;pf qu;aa mu;aa
 家用游戏机	jw;bu ys;kf yb;dz xi;yg ji;mj
-家的方向	jw;bu de;bu fh;wd xd;pk
+家的方向	jw;bu de;bu fh;dg xd;pk
 家破人亡	jw;bu po;up rf;pd wh;da
 家虎	jw;bu hu;hj
 家里有矿	jw;bu li;aa yb;ou kd;ug
@@ -28684,7 +28684,7 @@ use_preset_vocabulary: false
 寂静之道	ji;bu jy;qv vi;dd dk;zu
 寂静修女	ji;bu jy;qv xq;rp nv;aa
 寂静地绽放	ji;bu jy;qv di;ty vj;sd fh;wf
-寂静荣誉方舟骑士	ji;bu jy;qv rs;cm yu;yx fh;wd vb;pd qi;mq ui;aa
+寂静荣誉方舟骑士	ji;bu jy;qv rs;cm yu;yx fh;dg vb;pd qi;mq ui;aa
 寂静荣誉暗黑骑士	ji;bu jy;qv rs;cm yu;yx an;oy hz;ha qi;mq ui;aa
 寂静火焰	ji;bu jy;qv ho;dd yj;hj
 寂静的冬夜	ji;bu jy;qv de;bu ds;wd ye;wd
@@ -28838,7 +28838,7 @@ use_preset_vocabulary: false
 寒刃	hj;bd rf;dd
 寒千落	hj;bd qm;pa lo;cl
 寒哥	hj;bd ge;kd
-寒夜方舟	hj;bd ye;wd fh;wd vb;pd
+寒夜方舟	hj;bd ye;wd fh;dg vb;pd
 寒天	hj;bd tm;ad
 寒川谷寻	hj;bd ir;pa gu;bk xp;cx
 寒木春华	hj;bd mu;ad ip;of hw;uh
@@ -28906,7 +28906,7 @@ use_preset_vocabulary: false
 实现吧	ui;bt xm;wj ba;kb
 实现梦想者	ui;bt xm;wj mg;mx xd;xx ve;ol
 实现正义部	ui;bt xm;wj vg;av yi;id bu;ek
-实现的彼方	ui;bt xm;wj de;bu bi;xp fh;wd
+实现的彼方	ui;bt xm;wj de;bu bi;xp fh;dg
 实羽优希	ui;bt yu;xx yb;ry xi;ib
 实莉	ui;bt li;cl
 实践级	ui;bt jm;zj ji;sj
@@ -28970,7 +28970,7 @@ use_preset_vocabulary: false
 写给社交恐惧症的一首歌	xx;by gz;sh ue;ut jc;li ks;xg ju;xj vg;bv de;bu yi;aa ub;qz ge;qg
 写给秋末的你	xx;by gz;sh qq;hh mo;ad de;bu ni;re
 写给网球王子们	xx;by gz;sh wh;ki qq;wq wh;aa zi;aa mf;rm
-写给远方的歌	xx;by gz;sh yr;zy fh;wd de;bu ge;qg
+写给远方的歌	xx;by gz;sh yr;zy fh;dg de;bu ge;qg
 写轮眼	xx;by lp;il yj;og
 宽叔遗作	kr;bj uu;yx yi;zg zo;rv
 宽吻海豚	kr;bj wf;kw hl;dm tp;ou
@@ -29212,7 +29212,7 @@ use_preset_vocabulary: false
 将全世界的幸福	jd;jc qr;rw ui;ca jx;tj de;bu xy;tu fu;uf
 将凋逝的音乐盒	jd;jc dc;dv ui;zv de;bu yn;lo yt;pd he;mh
 将勇者的重要部位暴力拆迁	jd;jc ys;ly ve;ol de;bu vs;pa yk;xn bu;ek wz;rl bk;ou li;gp il;fi qm;zq
-将四方形的世界踏成相遇的圆	jd;jc si;aa fh;wd xy;pk de;bu ui;ca jx;tj ta;zt ig;gg xd;mo yu;zy de;bu yr;ky
+将四方形的世界踏成相遇的圆	jd;jc si;aa fh;dg xy;pk de;bu ui;ca jx;tj ta;zt ig;gg xd;mo yu;zy de;bu yr;ky
 将国之天鹰星	jd;jc go;ky vi;dd tm;ad yy;gn xy;ou
 将国之鹫星	jd;jc go;ky vi;dd jq;nj xy;ou
 将国戡乱记	jd;jc go;ky kj;gu lr;ug ji;yj
@@ -29533,7 +29533,7 @@ use_preset_vocabulary: false
 小动物之星	xc;ad ds;ly wu;nw vi;dd xy;ou
 小胜	xc;ad ug;ou
 小包	xc;ad bk;gs
-小北方	xc;ad bz;ag fh;wd
+小北方	xc;ad bz;ag fh;dg
 小千	xc;ad qm;pa
 小千早	xc;ad qm;pa zk;ou
 小千村柚柚	xc;ad qm;pa cp;mc yb;my yb;my
@@ -29610,7 +29610,7 @@ use_preset_vocabulary: false
 小型打磨机	xc;ad xy;tx da;fd mo;um ji;mj
 小型挖掘机	xc;ad xy;tx wa;fw jt;fq ji;mj
 小型挖沟机	xc;ad xy;tx wa;fw gb;dg ji;mj
-小型东方乐祭	xc;ad xy;tx ds;ad fh;wd le;pd ji;uy
+小型东方乐祭	xc;ad xy;tx ds;ad fh;dg le;pd ji;uy
 小型油压破碎机	xc;ad xy;tx yb;dy ya;id po;up sv;uz ji;mj
 小型活动剧情	xc;ad xy;tx ho;du ds;ly ju;dj qy;xq
 小型液压破碎机	xc;ad xy;tx ye;dy ya;id po;up sv;uz ji;mj
@@ -30256,7 +30256,7 @@ use_preset_vocabulary: false
 小白君的公寓	xc;ad bl;pa jp;ky de;bu gs;sb yu;by
 小白咲月	xc;ad bl;pa xc;kg yt;pa
 小白川爱菜	xc;ad bl;pa ir;pa ai;vy cl;cc
-小白方	xc;ad bl;pa fh;wd
+小白方	xc;ad bl;pa fh;dg
 小白狼	xc;ad bl;pa lh;ql
 小白球	xc;ad bl;pa qq;wq
 小白龙	xc;ad bl;pa ls;ad
@@ -30759,7 +30759,7 @@ use_preset_vocabulary: false
 少女地狱	uk;xp nv;aa di;ty yu;qq
 少女夜行性	uk;xp nv;aa ye;wd xy;xi xy;xu
 少女失格	uk;xp nv;aa ui;pf ge;mg
-少女如来的原谅方式	uk;xp nv;aa ru;nk ll;am de;bu yr;ix ld;yj fh;wd ui;gy
+少女如来的原谅方式	uk;xp nv;aa ru;nk ll;am de;bu yr;ix ld;yj fh;dg ui;gy
 少女妄想中	uk;xp nv;aa wh;nw xd;xx vs;aa
 少女学校	uk;xp nv;aa xt;zb xc;mj
 少女寸剧	uk;xp nv;aa cp;ad ju;dj
@@ -31039,7 +31039,7 @@ use_preset_vocabulary: false
 尤里亚斯	yb;ad li;aa ya;ay si;jq
 尤里兵营	yb;ad li;aa by;qb yy;cl
 尤里卡	yb;ad li;aa ka;ub
-尤里卡的施爱方式	yb;ad li;aa ka;ub de;bu ui;fy ai;vy fh;wd ui;gy
+尤里卡的施爱方式	yb;ad li;aa ka;ub de;bu ui;fy ai;vy fh;dg ui;gy
 尤里卡突袭者	yb;ad li;aa ka;ub tu;xq xi;ly ve;ol
 尤里卡农	yb;ad li;aa ka;ub ns;by
 尤里嘉诺	yb;ad li;aa jw;uj no;yr
@@ -32507,7 +32507,7 @@ use_preset_vocabulary: false
 左撇子	zo;ug px;fb zi;aa
 左文字小夜	zo;ug wf;wi zi;bz xc;ad ye;wd
 左文字派	zo;ug wf;wi zi;bz pl;dp
-左方之地	zo;ug fh;wd vi;dd di;ty
+左方之地	zo;ug fh;dg vi;dd di;ty
 左施	zo;ug ui;fy
 左木	zo;ug mu;ad
 左棻	zo;ug ff;cm
@@ -32674,7 +32674,7 @@ use_preset_vocabulary: false
 巫女志保	wu;gc nv;aa vi;xu bk;rd
 巫女抱	wu;gc nv;aa bk;fb
 巫女服	wu;gc nv;aa fu;oy
-巫女服穿戴方法	wu;gc nv;aa fu;oy ir;xy dl;gg fh;wd fa;dq
+巫女服穿戴方法	wu;gc nv;aa fu;oy ir;xy dl;gg fh;dg fa;dq
 巫女版	wu;gc nv;aa bj;pf
 巫女的求神	wu;gc nv;aa de;bu qq;ad uf;uu
 巫女神小依	wu;gc nv;aa uf;uu xc;ad yi;ry
@@ -33247,11 +33247,11 @@ use_preset_vocabulary: false
 希望的学园与绝望的高中生	xi;ib wh;wo de;bu xt;zb yr;ky yu;aa jt;ss wh;wo de;bu gk;wk vs;aa ug;na
 希望的宇宙的	xi;ib wh;wo de;bu yu;by vb;by de;bu
 希望的形状	xi;ib wh;wo de;bu xy;pk vd;qp
-希望的彼方	xi;ib wh;wo de;bu bi;xp fh;wd
+希望的彼方	xi;ib wh;wo de;bu bi;xp fh;dg
 希望的战士	xi;ib wh;wo de;bu vj;gv ui;aa
 希望的棱镜	xi;ib wh;wo de;bu lg;ml jy;jj
 希望的花蕾	xi;ib wh;wo de;bu hw;ch lz;cl
-希望的配方	xi;ib wh;wo de;bu pz;yj fh;wd
+希望的配方	xi;ib wh;wo de;bu pz;yj fh;dg
 希望的钟声	xi;ib wh;wo de;bu vs;jv ug;um
 希望皇	xi;ib wh;wo hd;bw
 希望皇霍普	xi;ib wh;wo hd;bw ho;yv pu;ob
@@ -34865,7 +34865,7 @@ use_preset_vocabulary: false
 广岛	gd;dp dk;nu
 广岛城	gd;dp dk;nu ig;ti
 广岛弁	gd;dp dk;nu bm;cs
-广岛方言	gd;dp dk;nu fh;wd yj;wk
+广岛方言	gd;dp dk;nu fh;dg yj;wk
 广岛县	gd;dp dk;nu xm;sq
 广岛县立竹原南高等学校	gd;dp dk;nu xm;sq li;da vu;gg yr;ix nj;ua gk;wk dg;vs xt;zb xc;mj
 广岛腔	gd;dp dk;nu qd;ok
@@ -34959,7 +34959,7 @@ use_preset_vocabulary: false
 建国后不许成精	jm;zy go;ky hb;pk bu;ad xu;yw ig;gg jy;mq
 建国后动物不许成精	jm;zy go;ky hb;pk ds;ly wu;nw bu;ad xu;yw ig;gg jy;mq
 建宁公主	jm;zy ny;bd gs;sb vu;dw
-建御名方	jm;zy yu;xx my;xk fh;wd
+建御名方	jm;zy yu;xx my;xk fh;dg
 建御雷	jm;zy yu;xx lz;yt
 建御雷之男神	jm;zy yu;xx lz;yt vi;dd nj;tl uf;uu
 建御雷神	jm;zy yu;xx lz;yt uf;uu
@@ -35018,7 +35018,7 @@ use_preset_vocabulary: false
 弓场拓磨	gs;vg ih;ty to;fu mo;um
 弓场沙织	gs;vg ih;ty ua;du vi;sv
 弓场队	gs;vg ih;ty dv;er
-弓家叶方	gs;vg jw;bu ye;ku fh;wd
+弓家叶方	gs;vg jw;bu ye;ku fh;dg
 弓弦艾莉欧诺拉	gs;vg xm;gx ai;ci li;cl ou;qq no;yr la;fl
 弓沙也加	gs;vg ua;du ye;gg jw;lk
 弓病黄泉	gs;vg by;bb hd;cb qr;ub
@@ -35423,7 +35423,7 @@ use_preset_vocabulary: false
 张飞	vh;gi fz;yd
 张飞娘	vh;gi fz;yd nd;nl
 张馨予	vh;gi xn;xu yu;sa
-张馨方	vh;gi xn;xu fh;wd
+张馨方	vh;gi xn;xu fh;dg
 张胡子	vh;gi hu;og zi;aa
 张鲁	vh;gi lu;yo
 张鹏飞	vh;gi pg;np fz;yd
@@ -35506,7 +35506,7 @@ use_preset_vocabulary: false
 强烈的打落	qd;gs lx;hl de;bu da;fd lo;cl
 强爸	qd;gs ba;fb
 强狼人	qd;gs lh;ql rf;pd
-强的不要脸的方程式	qd;gs de;bu bu;ad yk;xn lm;oa de;bu fh;wd ig;hi ui;gy
+强的不要脸的方程式	qd;gs de;bu bu;ad yk;xn lm;oa de;bu fh;dg ig;hi ui;gy
 强盗	qd;gs dk;mc
 强盗鼠	qd;gs dk;mc uu;ju
 强卢卡贝利可罗	qd;gs lu;bu ka;ub bz;ad li;hd ke;dk lo;sx
@@ -35703,7 +35703,7 @@ use_preset_vocabulary: false
 彩虹社学园	cl;pc hs;ig ue;ut xt;zb yr;ky
 彩虹社性癖组	cl;pc hs;ig ue;ut xy;xu pi;bb zu;sq
 彩虹糖	cl;pc hs;ig th;mt
-彩虹绽放的地方	cl;pc hs;ig vj;sd fh;wf de;bu di;ty fh;wd
+彩虹绽放的地方	cl;pc hs;ig vj;sd fh;wf de;bu di;ty fh;dg
 彩虹美华	cl;pc hs;ig mz;dy hw;uh
 彩虹色午后	cl;pc hs;ig se;db wu;ru hb;pk
 彩虹色天空	cl;pc hs;ig se;db tm;ad ks;xg
@@ -35909,13 +35909,13 @@ use_preset_vocabulary: false
 彼得潘综合症	bi;xp de;xc pj;df zs;sz he;rk vg;bv
 彼得班杰明帕克	bi;xp de;xc bj;dw jx;hm my;oo pa;jb ke;eg
 彼得菲茨杰拉德	bi;xp de;xc fz;cf ci;cc jx;hm la;fl de;xx
-彼方	bi;xp fh;wd
-彼方剑语	bi;xp fh;wd jm;da yu;yw
-彼方此方	bi;xp fh;wd ci;vb fh;wd
-彼方的阿斯特拉	bi;xp fh;wd de;bu aa;ek si;jq te;ns la;fl
-彼方尽舞樱之旋律	bi;xp fh;wd jn;id wu;rf yy;my vi;dd xr;fp lv;xy
-彼方而来的镇魂歌	bi;xp fh;wd er;aa ll;am de;bu vf;jv hp;gy ge;qg
-彼方飞舞的樱花的旋律	bi;xp fh;wd fz;yd wu;rf de;bu yy;my hw;ch de;bu xr;fp lv;xy
+彼方	bi;xp fh;dg
+彼方剑语	bi;xp fh;dg jm;da yu;yw
+彼方此方	bi;xp fh;dg ci;vb fh;dg
+彼方的阿斯特拉	bi;xp fh;dg de;bu aa;ek si;jq te;ns la;fl
+彼方尽舞樱之旋律	bi;xp fh;dg jn;id wu;rf yy;my vi;dd xr;fp lv;xy
+彼方而来的镇魂歌	bi;xp fh;dg er;aa ll;am de;bu vf;jv hp;gy ge;qg
+彼方飞舞的樱花的旋律	bi;xp fh;dg fz;yd wu;rf de;bu yy;my hw;ch de;bu xr;fp lv;xy
 彼时彼女	bi;xp ui;oc bi;xp nv;aa
 彼时蓝星	bi;xp ui;oc lj;cj xy;ou
 彼此不见的岁月	bi;xp ci;vb bu;ad jm;ag de;bu sv;ux yt;pa
@@ -35938,7 +35938,7 @@ use_preset_vocabulary: false
 往生歌	wh;xv ug;na ge;qg
 往异次元的缝隙	wh;xv yi;cs ci;dq yr;aw de;bu fg;sf xi;ex
 往耳中	wh;xv er;aa vs;aa
-往遥远的彼方去	wh;xv yk;zf yr;zy de;bu bi;xp fh;wd qu;ts
+往遥远的彼方去	wh;xv yk;zf yr;zy de;bu bi;xp fh;dg qu;ts
 征战者	vg;xv vj;gv ve;ol
 征服世界	vg;xv fu;oy ui;ca jx;tj
 征服欲	vg;xv fu;oy yu;qg
@@ -36181,7 +36181,7 @@ use_preset_vocabulary: false
 从前有座灵剑山	cs;rr qm;qd yb;ou zo;gz ly;hx jm;da uj;aa
 从前有座灵剑山歌曲	cs;rr qm;qd yb;ou zo;gz ly;hx jm;da uj;aa ge;qg qu;aa
 从口中绽放的花的话语	cs;rr kb;aa vs;aa vj;sd fh;wf de;bu hw;ch de;bu hw;yu yu;yw
-从同居开始的宅女友养成方法	cs;rr ts;kk ju;ug kl;ac ui;nt de;bu vl;bq nv;aa yb;yu yh;ya ig;gg fh;wd fa;dq
+从同居开始的宅女友养成方法	cs;rr ts;kk ju;ug kl;ac ui;nt de;bu vl;bq nv;aa yb;yu yh;ya ig;gg fh;dg fa;dq
 从塔楼一跃而下	cs;rr ta;td lb;ml yi;aa yt;zy er;aa xw;ab
 从妖灵到诶爱	cs;rr yk;ny ly;hx dk;dv ei;yu ai;vy
 从容欲	cs;rr rs;bg yu;qg
@@ -36196,7 +36196,7 @@ use_preset_vocabulary: false
 从森林之国而来	cs;rr sf;ml ln;mm vi;dd go;ky er;aa ll;am
 从极之渊	cs;rr ji;mj vi;dd yr;da
 从极星飘落的少女	cs;rr ji;mj xy;ou pc;fp lo;cl de;bu uk;xp nv;aa
-从此方到彼方	cs;rr ci;vb fh;wd dk;dv bi;xp fh;wd
+从此方到彼方	cs;rr ci;vb fh;dg dk;dv bi;xp fh;dg
 从此樽前唯故里	cs;rr ci;vb zp;mz qm;qd wz;kv gu;wg li;aa
 从漫画了解	cs;rr mj;dm hw;ak lc;aa jx;jn
 从乌托邦中逃出	cs;rr wu;pa to;fq bh;ef vs;aa tk;zv iu;aa
@@ -36209,7 +36209,7 @@ use_preset_vocabulary: false
 从者全鉴	cs;rr ve;ol qr;rw jm;jv
 从者宇宙	cs;rr ve;ol yu;by vb;by
 从者界	cs;rr ve;ol jx;tj
-从薄暮那方而来	cs;rr bo;cc mu;om na;el fh;wd er;aa ll;am
+从薄暮那方而来	cs;rr bo;cc mu;om na;el fh;dg er;aa ll;am
 从众心理	cs;rr vs;rc xn;dd li;wl
 从众效应	cs;rr vs;rc xc;wj yy;ga
 从被甩开始的恋爱喜剧	cs;rr bz;yp uy;pg kl;ac ui;nt de;bu lm;xy ai;vy xi;uk ju;dj
@@ -36229,7 +36229,7 @@ use_preset_vocabulary: false
 从零到无限	cs;rr ly;yl dk;dv wu;ag xm;eg
 从骑士	cs;rr qi;mq ui;aa
 御三家	yu;xx sj;aa jw;bu
-御世方那子	yu;xx ui;ca fh;wd na;el zi;aa
+御世方那子	yu;xx ui;ca fh;dg na;el zi;aa
 御主	yu;xx vu;dw
 御久间智	yu;xx jq;pd jm;mo vi;ov
 御伽之国	yu;xx ga;rj vi;dd go;ky
@@ -37141,7 +37141,7 @@ use_preset_vocabulary: false
 志摩寿奈樱	vi;xu mo;um ub;cf nl;du yy;my
 志摩子	vi;xu mo;um zi;aa
 志摩崎舞子	vi;xu mo;um qi;uq wu;rf zi;aa
-志方晶子	vi;xu fh;wd jy;oo zi;aa
+志方晶子	vi;xu fh;dg jy;oo zi;aa
 志朗	vi;xu lh;ol
 志木场寝亚	vi;xu mu;ad ih;ty qn;by ya;ay
 志村八惠	vi;xu cp;mc ba;pd hv;xh
@@ -37191,7 +37191,7 @@ use_preset_vocabulary: false
 志麻	vi;xu ma;gl
 志麻子	vi;xu ma;gl zi;aa
 志麻贺津纪	vi;xu ma;gl he;bj jn;dy ji;sj
-忘不了的地方	wh;xw bu;ad lc;aa de;bu di;ty fh;wd
+忘不了的地方	wh;xw bu;ad lc;aa de;bu di;ty fh;dg
 忘了吧	wh;xw le;aa ba;kb
 忘却	wh;xw qt;eq
 忘却中	wh;xw qt;eq vs;aa
@@ -37436,7 +37436,7 @@ use_preset_vocabulary: false
 思念合而为一吧	si;xt nm;xj he;rk er;aa wz;dd yi;aa ba;kb
 思念尘埃	si;xt nm;xj if;tx ai;tu
 思念于夏日离去的你	si;xt nm;xj yu;aa xw;wz ri;aa li;ws qu;ts de;bu ni;re
-思念的彼方	si;xt nm;xj de;bu bi;xp fh;wd
+思念的彼方	si;xt nm;xj de;bu bi;xp fh;dg
 思念着你	si;xt nm;xj ve;yo ni;re
 思念转晴	si;xt nm;xj vr;iv qy;oq
 思念体	si;xt nm;xj ti;rb
@@ -37836,7 +37836,7 @@ use_preset_vocabulary: false
 悲伤正处极光中	bz;xf uh;rl vg;av iu;wb ji;mj gd;ea vs;aa
 悲伤测量机	bz;xf uh;rl ce;dz ld;ol ji;mj
 悲伤的彼岸	bz;xf uh;rl de;bu bi;xp an;ug
-悲伤的方向	bz;xf uh;rl de;bu fh;wd xd;pk
+悲伤的方向	bz;xf uh;rl de;bu fh;dg xd;pk
 悲伤的早晨	bz;xf uh;rl de;bu zk;ou if;oi
 悲伤的星座	bz;xf uh;rl de;bu xy;ou zo;gz
 悲伤的沙漏	bz;xf uh;rl de;bu ua;du lb;dl
@@ -37950,7 +37950,7 @@ use_preset_vocabulary: false
 惠庭慧海	hv;xh ty;gt hv;xh hl;dm
 惠庭椎	hv;xh ty;gt vv;mv
 惠惠	hv;xh hv;xh
-惠方卷	hv;xh fh;wd jr;ef
+惠方卷	hv;xh fh;dg jr;ef
 惠比寿	hv;xh bi;bb ub;cf
 惠比寿司	hv;xh bi;bb ub;cf si;gk
 惠比寿小福	hv;xh bi;bb ub;cf xc;ad fu;uf
@@ -38106,8 +38106,8 @@ use_preset_vocabulary: false
 恶魔的手镜	ee;xy mo;gm de;bu ub;pa jy;jj
 恶魔的破坏	ee;xy mo;gm de;bu po;up hy;tb
 恶魔的圣域	ee;xy mo;gm de;bu ug;ty yu;th
-恶魔的舞蹈方式	ee;xy mo;gm de;bu wu;rf dk;zj fh;wd ui;gy
-恶魔的舞蹈方法	ee;xy mo;gm de;bu wu;rf dk;zj fh;wd fa;dq
+恶魔的舞蹈方式	ee;xy mo;gm de;bu wu;rf dk;zj fh;dg ui;gy
+恶魔的舞蹈方法	ee;xy mo;gm de;bu wu;rf dk;zj fh;dg fa;dq
 恶魔的行进	ee;xy mo;gm de;bu xy;xi jn;zj
 恶魔的谜语	ee;xy mo;gm de;bu mi;ym yu;yw
 恶魔的雄叫	ee;xy mo;gm de;bu xs;vh jc;kj
@@ -38259,7 +38259,7 @@ use_preset_vocabulary: false
 想象森林	xd;xx xd;du sf;ml ln;mm
 想象高潮	xd;xx xd;du gk;wk ik;di
 想起了你	xd;xx qi;zj le;aa ni;re
-想起远方陋室	xd;xx qi;zj yr;zy fh;wd lb;ea ui;bv
+想起远方陋室	xd;xx qi;zj yr;zy fh;dg lb;ea ui;bv
 想进入你的世界	xd;xx jn;zj ru;pd ni;re de;bu ui;ca jx;tj
 惹人成瘾	re;xr rf;pd ig;gg yn;by
 愁云使者	ib;xq yp;es ui;rl ve;ol
@@ -38353,7 +38353,7 @@ use_preset_vocabulary: false
 爱克雪拉诺亚奥勒	ai;vy ke;eg xt;yx la;fl no;yr ya;ay ao;dm le;lg
 爱内周太	ai;vy nz;ad vb;kt tl;dd
 爱到深处自然黑	ai;vy dk;dv uf;dm iu;wb zi;pa rj;hq hz;ha
-爱即良方	ai;vy ji;eg ld;dg fh;wd
+爱即良方	ai;vy ji;eg ld;dg fh;dg
 爱原亚里沙	ai;vy yr;ix ya;ay li;aa ua;du
 爱原圭织	ai;vy yr;ix gv;tt vi;sv
 爱及屋乌	ai;vy ji;nd wu;uv wu;pa
@@ -38826,8 +38826,8 @@ use_preset_vocabulary: false
 感谢型歌姬亚瑟	gj;xx xx;yu xy;tx ge;qg ji;ni ya;ay se;wb
 感谢型盗贼亚瑟	gj;xx xx;yu xy;tx dk;mc zz;br ya;ay se;wb
 感谢的经验值	gj;xx xx;yu de;bu jy;sg yj;ma vi;rv
-感质方舟	gj;xx vi;bu fh;wd vb;pd
-愧疚游戏的制作方法	kv;xg jq;bj yb;dz xi;yg de;bu vi;dg zo;rv fh;wd fa;dq
+感质方舟	gj;xx vi;bu fh;dg vb;pd
+愧疚游戏的制作方法	kv;xg jq;bj yb;dz xi;yg de;bu vi;dg zo;rv fh;dg fa;dq
 恺撒	kl;xj sa;fs
 恺撒加图索	kl;xj sa;fs jw;lk tu;kd so;sb
 恺撒大帝	kl;xj sa;fs da;ad di;jb
@@ -39098,7 +39098,7 @@ use_preset_vocabulary: false
 慑砂	ue;xn ua;uu
 懿岚	yi;yx lj;uf
 恋一夜梦一夜	lm;xy yi;aa ye;wd mg;mx yi;aa ye;wd
-恋上你的恋爱配方	lm;xy uh;aa ni;re de;bu lm;xy ai;vy pz;yj fh;wd
+恋上你的恋爱配方	lm;xy uh;aa ni;re de;bu lm;xy ai;vy pz;yj fh;dg
 恋上换装娃娃	lm;xy uh;aa hr;fh vd;yv wa;ng wa;ng
 恋上新月	lm;xy uh;aa xn;jq yt;pa
 恋上活死人	lm;xy uh;aa ho;du si;db rf;pd
@@ -39187,7 +39187,7 @@ use_preset_vocabulary: false
 恋爱小说	lm;xy ai;vy xc;ad uo;yd
 恋爱少女成为一只小猫咪	lm;xy ai;vy uk;xp nv;aa ig;gg wz;dd yi;aa vi;kb xc;ad mk;qm mi;km
 恋爱少女的笨拙舞台	lm;xy ai;vy uk;xp nv;aa de;bu bf;vb vo;fi wu;rf tl;sk
-恋爱少女的养成方法	lm;xy ai;vy uk;xp nv;aa de;bu yh;ya ig;gg fh;wd fa;dq
+恋爱少女的养成方法	lm;xy ai;vy uk;xp nv;aa de;bu yh;ya ig;gg fh;dg fa;dq
 恋爱少女与思念的奇迹	lm;xy ai;vy uk;xp nv;aa yu;aa si;xt nm;xj de;bu qi;dk ji;zy
 恋爱就是爆炸	lm;xy ai;vy jq;yj ui;op bk;hb va;hv
 恋爱巡航	lm;xy ai;vy xp;zi hh;vk
@@ -39285,7 +39285,7 @@ use_preset_vocabulary: false
 恋爱预演	lm;xy ai;vy yu;yy yj;dy
 恋爱食谱五星级	lm;xy ai;vy ui;rl pu;yp wu;aa xy;ou ji;sj
 恋爱闹铃	lm;xy ai;vy nk;mu ly;jl
-恋慕之心的交织方式	lm;xy mu;xm vi;dd xn;dd de;bu jc;li vi;sv fh;wd ui;gy
+恋慕之心的交织方式	lm;xy mu;xm vi;dd xn;dd de;bu jc;li vi;sv fh;dg ui;gy
 恋慕之心的假面舞会	lm;xy mu;xm vi;dd xn;dd de;bu jw;rj mm;aa wu;rf hv;ry
 恋慕之心的化妆舞会	lm;xy mu;xm vi;dd xn;dd de;bu hw;rb vd;np wu;rf hv;ry
 恋慕的全域	lm;xy mu;xm de;bu qr;rw yu;th
@@ -39309,7 +39309,7 @@ use_preset_vocabulary: false
 恋活	lm;xy ho;du
 恋物语	lm;xy wu;nw yu;yw
 恋狱月狂病	lm;xy yu;qq yt;pa kd;qw by;bb
-恋率方程式	lm;xy lv;wu fh;wd ig;hi ui;gy
+恋率方程式	lm;xy lv;wu fh;dg ig;hi ui;gy
 恋的寿命	lm;xy de;bu ub;cf my;re
 恋空予报	lm;xy ks;xg yu;sa bk;fy
 恋空预报	lm;xy ks;xg yu;yy bk;fy
@@ -39513,7 +39513,7 @@ use_preset_vocabulary: false
 成都娜	ig;gg du;ev na;nn
 成都市	ig;gg du;ev ui;wj
 成都猎人队	ig;gg du;ev lx;qx rf;pd dv;er
-成都艾尔平方文化传播有限公司	ig;gg du;ev ai;ci er;dx py;aa fh;wd wf;wi hw;rb ir;rv bo;ff yb;ou xm;eg gs;sb si;gk
+成都艾尔平方文化传播有限公司	ig;gg du;ev ai;ci er;dx py;aa fh;dg wf;wi hw;rb ir;rv bo;ff yb;ou xm;eg gs;sb si;gk
 成长的美德	ig;gg vh;pd de;bu mz;dy de;xx
 成长的路口	ig;gg vh;pd de;bu lu;zg kb;aa
 成长的军师	ig;gg vh;pd de;bu jp;bi ui;ab
@@ -39795,7 +39795,7 @@ use_preset_vocabulary: false
 我女友与青梅竹马的惨烈修罗场	wo;pd nv;aa yb;yu yu;aa qy;of mz;mm vu;gg ma;aa de;bu cj;xc lx;hl xq;rp lo;sx ih;ty
 我好了	wo;pd hk;nz le;aa
 我好想问你	wo;pd hk;nz xd;xx wf;km ni;re
-我好方	wo;pd hk;nz fh;wd
+我好方	wo;pd hk;nz fh;dg
 我好兴奋呀	wo;pd hk;nz xy;ba ff;dt ya;ky
 我好兴奋啊	wo;pd hk;nz xy;ba ff;dt aa;ka
 我好菜啊	wo;pd hk;nz cl;cc aa;ka
@@ -39864,7 +39864,7 @@ use_preset_vocabulary: false
 我已经看到结局了	wo;pd yi;vg jy;sg kj;ou dk;dv jx;sj ju;uk le;aa
 我已经看见了结局	wo;pd yi;vg jy;sg kj;ou jm;ag lc;aa jx;sj ju;uk
 我已经等了很久了	wo;pd yi;vg jy;sg dg;vs le;aa hf;xg jq;pd le;aa
-我希望能保持这种思考方式	wo;pd xi;ib wh;wo ng;sb bk;rd ii;fs ve;zw vs;hv si;xt kk;lk fh;wd ui;gy
+我希望能保持这种思考方式	wo;pd xi;ib wh;wo ng;sb bk;rd ii;fs ve;zw vs;hv si;xt kk;lk fh;dg ui;gy
 我师兄实在太稳健了	wo;pd ui;ab xs;ke ui;bt zl;ut tl;dd wf;hj jm;rj le;aa
 我带你们打	wo;pd dl;jb ni;re mf;rm da;fd
 我币没了	wo;pd bi;pj mz;du le;aa
@@ -39923,7 +39923,7 @@ use_preset_vocabulary: false
 我爱你肯德基爷爷	wo;pd ai;vy ni;re kf;ov de;xx ji;tq ye;fe ye;fe
 我爱平底锅	wo;pd ai;vy py;aa di;gd go;jg
 我爱灰太狼	wo;pd ai;vy hv;hu tl;dd lh;ql
-我爱着机器人那一方的你	wo;pd ai;vy ve;yo ji;mj qi;kk rf;pd na;el yi;aa fh;wd de;bu ni;re
+我爱着机器人那一方的你	wo;pd ai;vy ve;yo ji;mj qi;kk rf;pd na;el yi;aa fh;dg de;bu ni;re
 我爱罗	wo;pd ai;vy lo;sx
 我爱美乐蒂	wo;pd ai;vy mz;dy le;pd di;cd
 我感觉不太对劲	wo;pd gj;xx jt;jb bu;ad tl;dd dv;cy jn;lg
@@ -39946,7 +39946,7 @@ use_preset_vocabulary: false
 我我我防御	wo;pd wo;pd wo;pd fh;ef yu;xx
 我我我电击	wo;pd wo;pd wo;pd dm;ag ji;fk
 我所不愿看到的事情	wo;pd so;hj bu;ad yr;xy kj;ou dk;dv de;bu ui;aa qy;xq
-我所在的地方	wo;pd so;hj zl;ut de;bu di;ty fh;wd
+我所在的地方	wo;pd so;hj zl;ut de;bu di;ty fh;dg
 我所希冀的未来	wo;pd so;hj xi;ib ji;bg de;bu wz;ex ll;am
 我所拥有的	wo;pd so;hj ys;fy yb;ou de;bu
 我所能做到的事	wo;pd so;hj ng;sb zo;rg dk;dv de;bu ui;aa
@@ -39964,7 +39964,7 @@ use_preset_vocabulary: false
 我整个人都	wo;pd vg;vi ge;ra rf;pd db;ev
 我整个人都快崩溃了	wo;pd vg;vi ge;ra rf;pd db;ev ky;xd bg;up kv;dg le;aa
 我斑愿称你为最强	wo;pd bj;ww yr;xy ig;he ni;re wz;dd zv;oq qd;gs
-我方了	wo;pd fh;wd le;aa
+我方了	wo;pd fh;dg le;aa
 我于此刻恋上你	wo;pd yu;aa ci;vb ke;dh lm;xy uh;aa ni;re
 我日你仙人	wo;pd ri;aa ni;re xm;ru rf;pd
 我日你先人	wo;pd ri;aa ni;re xm;ne rf;pd
@@ -40414,7 +40414,7 @@ use_preset_vocabulary: false
 我开始做魔法使了	wo;pd kl;ac ui;nt zo;rg mo;gm fa;dq ui;rl le;aa
 我开始慌了	wo;pd kl;ac ui;nt hd;xh le;aa
 我开始扮演同班同学的男朋友	wo;pd kl;ac ui;nt bj;ff yj;dy ts;kk bj;dw ts;kk xt;zb de;bu nj;tl pg;oo yb;yu
-我开始方了	wo;pd kl;ac ui;nt fh;wd le;aa
+我开始方了	wo;pd kl;ac ui;nt fh;dg le;aa
 我开除了黑心公司	wo;pd kl;ac iu;ey le;aa hz;ha xn;dd gs;sb si;gk
 我阐释你的梦	wo;pd ij;md ui;pf ni;re de;bu mg;mx
 我隔着机器人爱着你	wo;pd ge;eg ve;yo ji;mj qi;kk rf;pd ai;vy ve;yo ni;re
@@ -40671,7 +40671,7 @@ use_preset_vocabulary: false
 战斗妖精雪风	vj;gv db;du yk;ny jy;mq xt;yx fg;ji
 战斗少女高校	vj;gv db;du uk;xp nv;aa gk;wk xc;mj
 战斗扳手	vj;gv db;du bj;ff ub;pa
-战斗方法	vj;gv db;du fh;wd fa;dq
+战斗方法	vj;gv db;du fh;dg fa;dq
 战斗暴龙兽	vj;gv db;du bk;ou ls;ad ub;ka
 战斗橄榄球员	vj;gv db;du gj;mg lj;ml qq;wq yr;kb
 战斗机	vj;gv db;du ji;mj
@@ -41240,7 +41240,7 @@ use_preset_vocabulary: false
 把爱夺回来	ba;fb ai;vy do;dc hv;kk ll;am
 把爱抢回来	ba;fb ai;vy qd;fc hv;kk ll;am
 把持不住	ba;fb ii;fs bu;ad vu;rv
-把方方的地球变圆	ba;fb fh;wd fh;wd de;bu di;ty qq;wq bm;wy yr;ky
+把方方的地球变圆	ba;fb fh;dg fh;dg de;bu di;ty qq;wq bm;wy yr;ky
 把暑假夺回来	ba;fb uu;ov jw;rj do;dc hv;kk ll;am
 把本命关进手机里	ba;fb bf;aa my;re gr;qd jn;zj ub;pa ji;mj li;aa
 把班上的孤单辣妹带回家改造成清纯美女的故事	ba;fb bj;dw uh;aa de;bu gu;zg dj;ba la;xu mz;nw dl;jb hv;kk jw;bu gl;wj zk;zg ig;gg qy;dq ip;st mz;dy nv;aa de;bu gu;wg ui;aa
@@ -41709,7 +41709,7 @@ use_preset_vocabulary: false
 招来者	vk;fv ll;am ve;ol
 招兵买马	vk;fv by;qb ml;at ma;aa
 招募	vk;fv mu;lm
-招待你去个好地方	vk;fv dl;xs ni;re qu;ts ge;ra hk;nz di;ty fh;wd
+招待你去个好地方	vk;fv dl;xs ni;re qu;ts ge;ra hk;nz di;ty fh;dg
 招手的墓场	vk;fv ub;pa de;bu mu;tm ih;ty
 招财女神	vk;fv cl;bc nv;aa uf;uu
 招财猫	vk;fv cl;bc mk;qm
@@ -41825,7 +41825,7 @@ use_preset_vocabulary: false
 拿撒勒努斯	na;uh sa;fs le;lg nu;ln si;jq
 拿瓦铠甲	na;uh wa;ad kl;jj jw;aa
 拿白	na;uh bl;pa
-拿着发条的你要去往何方	na;uh ve;yo fa;ay tc;wm de;bu ni;re yk;xn qu;ts wh;xv he;rk fh;wd
+拿着发条的你要去往何方	na;uh ve;yo fa;ay tc;wm de;bu ni;re yk;xn qu;ts wh;xv he;rk fh;dg
 拿破仑波拿巴	na;uh po;up lp;rb bo;dp na;uh ba;ag
 拿破仑	na;uh po;up lp;rb
 拿破仑少女	na;uh po;up lp;rb uk;xp nv;aa
@@ -42929,7 +42929,7 @@ use_preset_vocabulary: false
 救生员柚子	jq;wq ug;na yr;kb yb;my zi;aa
 救祓少女伊雷娜	jq;wq fu;ub uk;xp nv;aa yi;ry lz;yt na;nn
 救祓少女们的圣母颂歌	jq;wq fu;ub uk;xp nv;aa mf;rm de;bu ug;ty mu;vd ss;yg ge;qg
-救祓少女共赴何方	jq;wq fu;ub uk;xp nv;aa gs;cb fu;zb he;rk fh;wd
+救祓少女共赴何方	jq;wq fu;ub uk;xp nv;aa gs;cb fu;zb he;rk fh;dg
 救祓少女卡斯皮特尔	jq;wq fu;ub uk;xp nv;aa ka;ub si;jq pi;ad te;ns er;dx
 救祓少女卡组	jq;wq fu;ub uk;xp nv;aa ka;ub zu;sq
 救祓少女吉卜利娜	jq;wq fu;ub uk;xp nv;aa ji;ku bu;ad li;hd na;nn
@@ -43079,7 +43079,7 @@ use_preset_vocabulary: false
 敌我同源	di;wu wo;pd ts;kk yr;dy
 敌战列巡洋舰	di;wu vj;gv lx;dd xp;zi yh;dy jm;vj
 敌战列舰	di;wu vj;gv lx;dd jm;vj
-敌方数据	di;wu fh;wd uu;wl ju;fj
+敌方数据	di;wu fh;dg uu;wl ju;fj
 敌水面攻击装备	di;wu uv;ad mm;aa gs;wg ji;fk vd;yv bz;wt
 敌潜艇	di;wu qm;dt ty;vt
 敌羞吾去脱他衣	di;wu xq;yi wu;kw qu;ts to;od ta;ry yi;dd
@@ -43475,7 +43475,7 @@ use_preset_vocabulary: false
 斯皮什城堡	si;jq pi;ad ui;ru ig;ti bk;tb
 斯皮德	si;jq pi;ad de;xx
 斯皮鲁	si;jq pi;ad lu;yo
-斯皮鲁和方大炯历险记	si;jq pi;ad lu;yo he;hk fh;wd da;ad js;hk li;il xm;ea ji;yj
+斯皮鲁和方大炯历险记	si;jq pi;ad lu;yo he;hk fh;dg da;ad js;hk li;il xm;ea ji;yj
 斯皮鲁历险记	si;jq pi;ad lu;yo li;il xm;ea ji;yj
 斯福尔扎城堡	si;jq fu;uf er;dx va;fg ig;ti bk;tb
 斯科普	si;jq ke;hd pu;ob
@@ -43602,7 +43602,7 @@ use_preset_vocabulary: false
 新妻八惠	xn;jq qi;na ba;pd hv;xh
 新妻日和	xn;jq qi;na ri;aa he;hk
 新娘	xn;jq nd;nl
-新娘太好找了我很方	xn;jq nd;nl tl;dd hk;nz vk;fg le;aa wo;pd hf;xg fh;wd
+新娘太好找了我很方	xn;jq nd;nl tl;dd hk;nz vk;fg le;aa wo;pd hf;xg fh;dg
 新娘礼服	xn;jq nd;nl li;ug fu;oy
 新娘美梦	xn;jq nd;nl mz;dy mg;mx
 新娘花	xn;jq nd;nl hw;ch
@@ -43847,7 +43847,7 @@ use_preset_vocabulary: false
 新藤千寻	xn;jq tg;ct qm;pa xp;cx
 新藤景	xn;jq tg;ct jy;oj
 新藤浩二	xn;jq tg;ct hk;dg er;aa
-新藤须方	xn;jq tg;ct xu;py fh;wd
+新藤须方	xn;jq tg;ct xu;py fh;dg
 新藤丽子	xn;jq tg;ct li;ad zi;aa
 新萝乐娜的炼金工房	xn;jq lo;cl le;pd na;nn de;bu lm;hd jn;ra gs;aa fh;hf
 新虫	xn;jq is;ad
@@ -43913,74 +43913,74 @@ use_preset_vocabulary: false
 断首鱼	dr;ja ub;qz yu;da
 断发	dr;ja fa;ay
 断魂椒	dr;ja hp;gy jc;mu
-方便面	fh;wd bm;rg mm;aa
-方便面娘	fh;wd bm;rg mm;aa nd;nl
-方包	fh;wd bk;gs
-方向	fh;wd xd;pk
-方向音痴	fh;wd xd;pk yn;lo ii;bv
-方唯音	fh;wd wz;kv yn;lo
-方喰玉置	fh;wd cj;ku yu;wd vi;sv
-方圜千秋	fh;wd hr;kh qm;pa qq;hh
-方块	fh;wd ky;td
-方块三傻	fh;wd ky;td sj;aa ua;rw
-方块世界	fh;wd ky;td ui;ca jx;tj
-方块侦探社	fh;wd ky;td vf;rv tj;fm ue;ut
-方块动漫	fh;wd ky;td ds;ly mj;dm
-方块大陆	fh;wd ky;td da;ad lu;ej
-方块学园	fh;wd ky;td xt;zb yr;ky
-方块学院	fh;wd ky;td xt;zb yr;ew
-方大炯	fh;wd da;ad js;hk
-方天画戟	fh;wd tm;ad hw;ak ji;gu
-方娥孙	fh;wd ee;nw sp;zx
-方子游	fh;wd zi;aa yb;dz
-方宸	fh;wd if;bi
-方形瞳孔	fh;wd xy;pk ts;ot ks;zg
-方托马斯	fh;wd to;fq ma;aa si;jq
-方敏	fh;wd mn;wm
-方文山	fh;wd wf;wi uj;aa
-方方盒	fh;wd fh;wd he;mh
-方明华	fh;wd my;oo hw;uh
-方校长	fh;wd xc;mj vh;pd
-方根书简	fh;wd gf;mg uu;ad jm;vj
-方案舰	fh;wd an;ma jm;vj
-方桌骑士	fh;wd vo;mo qi;mq ui;aa
-方济各	fh;wd ji;dq ge;wk
-方特动漫	fh;wd te;ns ds;ly mj;dm
-方特乐园	fh;wd te;ns le;pd yr;ky
-方界合神	fh;wd jx;tj he;rk uf;uu
-方界曼荼罗	fh;wd jx;tj mj;oy tu;cy lo;sx
-方界业	fh;wd jx;tj ye;aa
-方界波动	fh;wd jx;tj bo;dp ds;ly
-方界轮回	fh;wd jx;tj lp;il hv;kk
-方皮提的一夜后宫	fh;wd pi;ad ti;fu de;bu yi;aa ye;wd hb;pk gs;bl
-方瞳	fh;wd ts;ot
-方程式同调士	fh;wd ig;hi ui;gy ts;kk dc;yv ui;aa
-方程式无法求解	fh;wd ig;hi ui;gy wu;ag fa;dq qq;ad jx;jn
-方程式运动员	fh;wd ig;hi ui;gy yp;zy ds;ly yr;kb
-方程式运动员下压力	fh;wd ig;hi ui;gy yp;zy ds;ly yr;kb xw;ab ya;id li;gp
-方程式运动员胜利团队	fh;wd ig;hi ui;gy yp;zy ds;ly yr;kb ug;ou li;hd tr;kc dv;er
-方程式运动员拉锯战	fh;wd ig;hi ui;gy yp;zy ds;ly yr;kb la;fl ju;jj vj;gv
-方程式运动员街道大奖赛	fh;wd ig;hi ui;gy yp;zy ds;ly yr;kb jx;xg dk;zu da;ad jd;dx sl;bb
-方程式运动员试跑	fh;wd ig;hi ui;gy yp;zy ds;ly yr;kb ui;yu pk;zb
-方程式运动员赛道大奖赛	fh;wd ig;hi ui;gy yp;zy ds;ly yr;kb sl;bb dk;zu da;ad jd;dx sl;bb
-方程式运动员过热	fh;wd ig;hi ui;gy yp;zy ds;ly yr;kb go;zc re;hv
-方糖社	fh;wd th;mt ue;ut
-方腊	fh;wd la;ox
-方舟指令	fh;wd vb;pd vi;fv ly;rs
-方舟方块世界	fh;wd vb;pd fh;wd ky;td ui;ca jx;tj
-方舟的选别	fh;wd vb;pd de;bu xr;zx bx;dl
-方舟号	fh;wd vb;pd hk;kk
-方芳	fh;wd fh;cf
-方苍玉	fh;wd ch;cc yu;wd
-方艺	fh;wd yi;cy
-方兰生	fh;wd lj;qe ug;na
-方言	fh;wd yj;wk
-方锐	fh;wd rv;jd
-方钻	fh;wd zr;jv
-方雁声	fh;wd yj;iv ug;um
-方雨亭	fh;wd yu;ad ty;wd
-方雯姗	fh;wd wf;yw uj;nc
-方丽凤	fh;wd li;ad fg;jy
+方便面	fh;dg bm;rg mm;aa
+方便面娘	fh;dg bm;rg mm;aa nd;nl
+方包	fh;dg bk;gs
+方向	fh;dg xd;pk
+方向音痴	fh;dg xd;pk yn;lo ii;bv
+方唯音	fh;dg wz;kv yn;lo
+方喰玉置	fh;dg cj;ku yu;wd vi;sv
+方圜千秋	fh;dg hr;kh qm;pa qq;hh
+方块	fh;dg ky;td
+方块三傻	fh;dg ky;td sj;aa ua;rw
+方块世界	fh;dg ky;td ui;ca jx;tj
+方块侦探社	fh;dg ky;td vf;rv tj;fm ue;ut
+方块动漫	fh;dg ky;td ds;ly mj;dm
+方块大陆	fh;dg ky;td da;ad lu;ej
+方块学园	fh;dg ky;td xt;zb yr;ky
+方块学院	fh;dg ky;td xt;zb yr;ew
+方大炯	fh;dg da;ad js;hk
+方天画戟	fh;dg tm;ad hw;ak ji;gu
+方娥孙	fh;dg ee;nw sp;zx
+方子游	fh;dg zi;aa yb;dz
+方宸	fh;dg if;bi
+方形瞳孔	fh;dg xy;pk ts;ot ks;zg
+方托马斯	fh;dg to;fq ma;aa si;jq
+方敏	fh;dg mn;wm
+方文山	fh;dg wf;wi uj;aa
+方方盒	fh;dg fh;dg he;mh
+方明华	fh;dg my;oo hw;uh
+方校长	fh;dg xc;mj vh;pd
+方根书简	fh;dg gf;mg uu;ad jm;vj
+方案舰	fh;dg an;ma jm;vj
+方桌骑士	fh;dg vo;mo qi;mq ui;aa
+方济各	fh;dg ji;dq ge;wk
+方特动漫	fh;dg te;ns ds;ly mj;dm
+方特乐园	fh;dg te;ns le;pd yr;ky
+方界合神	fh;dg jx;tj he;rk uf;uu
+方界曼荼罗	fh;dg jx;tj mj;oy tu;cy lo;sx
+方界业	fh;dg jx;tj ye;aa
+方界波动	fh;dg jx;tj bo;dp ds;ly
+方界轮回	fh;dg jx;tj lp;il hv;kk
+方皮提的一夜后宫	fh;dg pi;ad ti;fu de;bu yi;aa ye;wd hb;pk gs;bl
+方瞳	fh;dg ts;ot
+方程式同调士	fh;dg ig;hi ui;gy ts;kk dc;yv ui;aa
+方程式无法求解	fh;dg ig;hi ui;gy wu;ag fa;dq qq;ad jx;jn
+方程式运动员	fh;dg ig;hi ui;gy yp;zy ds;ly yr;kb
+方程式运动员下压力	fh;dg ig;hi ui;gy yp;zy ds;ly yr;kb xw;ab ya;id li;gp
+方程式运动员胜利团队	fh;dg ig;hi ui;gy yp;zy ds;ly yr;kb ug;ou li;hd tr;kc dv;er
+方程式运动员拉锯战	fh;dg ig;hi ui;gy yp;zy ds;ly yr;kb la;fl ju;jj vj;gv
+方程式运动员街道大奖赛	fh;dg ig;hi ui;gy yp;zy ds;ly yr;kb jx;xg dk;zu da;ad jd;dx sl;bb
+方程式运动员试跑	fh;dg ig;hi ui;gy yp;zy ds;ly yr;kb ui;yu pk;zb
+方程式运动员赛道大奖赛	fh;dg ig;hi ui;gy yp;zy ds;ly yr;kb sl;bb dk;zu da;ad jd;dx sl;bb
+方程式运动员过热	fh;dg ig;hi ui;gy yp;zy ds;ly yr;kb go;zc re;hv
+方糖社	fh;dg th;mt ue;ut
+方腊	fh;dg la;ox
+方舟指令	fh;dg vb;pd vi;fv ly;rs
+方舟方块世界	fh;dg vb;pd fh;dg ky;td ui;ca jx;tj
+方舟的选别	fh;dg vb;pd de;bu xr;zx bx;dl
+方舟号	fh;dg vb;pd hk;kk
+方芳	fh;dg fh;cf
+方苍玉	fh;dg ch;cc yu;wd
+方艺	fh;dg yi;cy
+方兰生	fh;dg lj;qe ug;na
+方言	fh;dg yj;wk
+方锐	fh;dg rv;jd
+方钻	fh;dg zr;jv
+方雁声	fh;dg yj;iv ug;um
+方雨亭	fh;dg yu;ad ty;wd
+方雯姗	fh;dg wf;yw uj;nc
+方丽凤	fh;dg li;ad fg;jy
 于今日奔跑的少女	yu;aa jn;ra ri;aa bf;dc pk;zb de;bu uk;xp nv;aa
 于你所想	yu;aa ni;re so;hj xd;xx
 于凯隆	yu;aa kl;jj ls;eu
@@ -44007,7 +44007,7 @@ use_preset_vocabulary: false
 于生辰展翅高飞	yu;aa ug;na if;iy vj;uy ii;yv gk;wk fz;yd
 于尽头	yu;aa jn;id tb;dd
 于菊虫	yu;aa ju;cj is;ad
-于虹之彼方	yu;aa hs;ig vi;dd bi;xp fh;wd
+于虹之彼方	yu;aa hs;ig vi;dd bi;xp fh;dg
 于丰硕	yu;aa fg;aa uo;uy
 于遥远时空飞翔	yu;aa yk;zf yr;zy ui;oc ks;xg fz;yd xd;yy
 于银河铁道之夜	yu;aa yn;jg he;dk tx;ju dk;zu vi;dd ye;wd
@@ -44068,7 +44068,7 @@ use_preset_vocabulary: false
 旅行青蛙	lv;fp xy;xi qy;of wa;ig
 旅途	lv;fp tu;zy
 旅途中的稻草人	lv;fp tu;zy vs;aa de;bu dk;hj ck;cz rf;pd
-旅途前方	lv;fp tu;zy qm;qd fh;wd
+旅途前方	lv;fp tu;zy qm;qd fh;dg
 旅途危机	lv;fp tu;zy wz;de ji;mj
 旅途的故事	lv;fp tu;zy de;bu gu;wg ui;aa
 旅途的终点	lv;fp tu;zy de;bu vs;sd dm;hv
@@ -44227,7 +44227,7 @@ use_preset_vocabulary: false
 日向大辅	ri;aa xd;pk da;ad fu;if
 日向宁次	ri;aa xd;pk ny;bd ci;dq
 日向小次郎	ri;aa xd;pk xc;ad ci;dq lh;el
-日向彼方	ri;aa xd;pk bi;xp fh;wd
+日向彼方	ri;aa xd;pk bi;xp fh;dg
 日向日足	ri;aa xd;pk ri;aa zu;kv
 日向晶也	ri;aa xd;pk jy;oo ye;gg
 日向朝阳	ri;aa xd;pk vk;ou yh;eo
@@ -44278,7 +44278,7 @@ use_preset_vocabulary: false
 日常报警	ri;aa ih;jk bk;fy jy;yj
 日常幻想指南	ri;aa ih;jk hr;yg xd;xx vi;fv nj;ua
 日常截图	ri;aa ih;jk jx;gv tu;kd
-日常方舟	ri;aa ih;jk fh;wd vb;pd
+日常方舟	ri;aa ih;jk fh;dg vb;pd
 日常番	ri;aa ih;jk fj;tm
 日常的城镇	ri;aa ih;jk de;bu ig;ti vf;jv
 日常的茵蒂克丝	ri;aa ih;jk de;bu yn;cy di;cd ke;eg si;aa
@@ -44741,11 +44741,11 @@ use_preset_vocabulary: false
 明日向咖啡店	my;oo ri;aa xd;pk ka;kj fz;kf dm;gv
 明日小路	my;oo ri;aa xc;ad lu;zg
 明日悠和	my;oo ri;aa yb;xw he;hk
-明日方舟	my;oo ri;aa fh;wd vb;pd
-明日方舟仙术杯	my;oo ri;aa fh;wd vb;pd xm;ru uu;md bz;mb
-明日方舟干员	my;oo ri;aa fh;wd vb;pd gj;aa yr;kb
-明日方舟终末地	my;oo ri;aa fh;wd vb;pd vs;sd mo;ad di;ty
-明日方舟游戏王	my;oo ri;aa fh;wd vb;pd yb;dz xi;yg wh;aa
+明日方舟	my;oo ri;aa fh;dg vb;pd
+明日方舟仙术杯	my;oo ri;aa fh;dg vb;pd xm;ru uu;md bz;mb
+明日方舟干员	my;oo ri;aa fh;dg vb;pd gj;aa yr;kb
+明日方舟终末地	my;oo ri;aa fh;dg vb;pd vs;sd mo;ad di;ty
+明日方舟游戏王	my;oo ri;aa fh;dg vb;pd yb;dz xi;yg wh;aa
 明日有希	my;oo ri;aa yb;ou xi;ib
 明日的世界	my;oo ri;aa de;bu ui;ca jx;tj
 明日的世界星光闪耀	my;oo ri;aa de;bu ui;ca jx;tj xy;ou gd;ea uj;mr yk;gd
@@ -44764,7 +44764,7 @@ use_preset_vocabulary: false
 明日花绪	my;oo ri;aa hw;ch xu;sv
 明日叶院兰	my;oo ri;aa ye;ku yr;ew lj;qe
 明日见奏大	my;oo ri;aa jm;ag zb;tf da;ad
-明日见彼方	my;oo ri;aa jm;ag bi;xp fh;wd
+明日见彼方	my;oo ri;aa jm;ag bi;xp fh;dg
 明日遥想	my;oo ri;aa yk;zf xd;xx
 明日边缘	my;oo ri;aa bm;zl yr;st
 明日乡	my;oo ri;aa xd;ap
@@ -45243,7 +45243,7 @@ use_preset_vocabulary: false
 星河	xy;ou he;dk
 星河光由	xy;ou he;dk gd;ea yb;aa
 星河希卡由	xy;ou he;dk xi;ib ka;ub yb;aa
-星河彼方	xy;ou he;dk bi;xp fh;wd
+星河彼方	xy;ou he;dk bi;xp fh;dg
 星河派	xy;ou he;dk pl;dp
 星河碎片	xy;ou he;dk sv;uz pm;pa
 星河圣罗	xy;ou he;dk ug;ty lo;sx
@@ -46620,7 +46620,7 @@ use_preset_vocabulary: false
 暗黑手甲	an;oy hz;ha ub;pa jw;aa
 暗黑拿破仑	an;oy hz;ha na;uh po;up lp;rb
 暗黑料理	an;oy hz;ha lc;md li;wl
-暗黑方界邪神	an;oy hz;ha fh;wd jx;tj xx;ey uf;uu
+暗黑方界邪神	an;oy hz;ha fh;dg jx;tj xx;ey uf;uu
 暗黑星黑芽	an;oy hz;ha xy;ou hz;ha ya;cy
 暗黑植物	an;oy hz;ha vi;mv wu;nw
 暗黑机关	an;oy hz;ha ji;mj gr;qd
@@ -46881,7 +46881,7 @@ use_preset_vocabulary: false
 曜日	yk;od ri;aa
 曜日任务	yk;od ri;aa rf;rr wu;wl
 旷野之息	kd;og ye;ly vi;dd xi;xz
-曦出东方	xi;ox iu;aa ds;ad fh;wd
+曦出东方	xi;ox iu;aa ds;ad fh;dg
 曦和律	xi;ox he;hk lv;xy
 曦夜	xi;ox ye;wd
 曦曜	xi;ox yk;od
@@ -47064,7 +47064,7 @@ use_preset_vocabulary: false
 曾想拯救的是	cg;ob xd;xx vg;fi jq;wq de;bu ui;op
 曾我部惠	zg;ob wo;pd bu;ek hv;xh
 曾我部英理	zg;ob wo;pd bu;ek yy;cy li;wl
-曾方羿	zg;ob fh;wd yi;cy
+曾方羿	zg;ob fh;dg yi;cy
 曾是那样的夜晚	cg;ob ui;op na;el yh;my de;bu ye;wd wj;om
 曾有你的森林	cg;ob yb;ou ni;re de;bu sf;ml ln;mm
 曾有大雪飘落	cg;ob yb;ou da;ad xt;yx pc;fp lo;cl
@@ -47454,7 +47454,7 @@ use_preset_vocabulary: false
 月光骑士	yt;pa gd;ea qi;mq ui;aa
 月儿谣	yt;pa er;pg yk;yf
 月兔	yt;pa tu;dd
-月兔的银色方舟	yt;pa tu;dd de;bu yn;jg se;db fh;wd vb;pd
+月兔的银色方舟	yt;pa tu;dd de;bu yn;jg se;db fh;dg vb;pd
 月兔耳	yt;pa tu;dd er;aa
 月兔与女神大人	yt;pa tu;dd yu;aa nv;aa uf;uu da;ad rf;pd
 月兔蕾雅	yt;pa tu;dd lz;cl ya;vy
@@ -47863,7 +47863,7 @@ use_preset_vocabulary: false
 有的人	yb;ou de;bu rf;pd
 有着你微笑的黄昏	yb;ou ve;yo ni;re wz;xw xc;vy de;bu hd;cb hp;ou
 有着你颜色的花水木	yb;ou ve;yo ni;re yj;yy se;db de;bu hw;ch uv;ad mu;ad
-有着可以回去的地方这件事	yb;ou ve;yo ke;dk yi;rd hv;kk qu;ts de;bu di;ty fh;wd ve;zw jm;rn ui;aa
+有着可以回去的地方这件事	yb;ou ve;yo ke;dk yi;rd hv;kk qu;ts de;bu di;ty fh;dg ve;zw jm;rn ui;aa
 有着各种各样的人生	yb;ou ve;yo ge;wk vs;hv ge;wk yh;my de;bu rf;pd ug;na
 有码公主	yb;ou ma;um gs;sb vu;dw
 有种流浪叫天依	yb;ou vs;hv lq;di lh;dl jc;kj tm;ad yi;ry
@@ -48108,7 +48108,7 @@ use_preset_vocabulary: false
 朝着光芒	ik;ou ve;yo gd;ea mh;cw
 朝约薇儿丹蒂	ik;ou yt;su wz;cw er;pg dj;pd di;cd
 朝闻道	vk;ou wf;em dk;zu
-朝声音传来的方向	ik;ou ug;um yn;lo ir;rv ll;am de;bu fh;wd xd;pk
+朝声音传来的方向	ik;ou ug;um yn;lo ir;rv ll;am de;bu fh;dg xd;pk
 朝花夕誓	vk;ou hw;ch xi;pd ui;yv
 朝菜优奈	vk;ou cl;cc yb;ry nl;du
 朝辞白帝城	vk;ou ci;ux bl;pa di;jb ig;ti
@@ -48191,7 +48191,7 @@ use_preset_vocabulary: false
 木乃伊巨人	mu;ad nl;pg yi;ry ju;kk rf;pd
 木乃伊僵尸	mu;ad nl;pg yi;ry jd;rj ui;ap
 木乃伊的呼声	mu;ad nl;pg yi;ry de;bu hu;kh ug;um
-木乃伊的饲养方法	mu;ad nl;pg yi;ry de;bu si;us yh;ya fh;wd fa;dq
+木乃伊的饲养方法	mu;ad nl;pg yi;ry de;bu si;us yh;ya fh;dg fa;dq
 木乃伊记忆	mu;ad nl;pg yi;ry ji;yj yi;xy
 木乃实芳助	mu;ad nl;pg ui;bt fh;cf vu;lq
 木乃美芳助	mu;ad nl;pg mz;dy fh;cf vu;lq
@@ -48564,7 +48564,7 @@ use_preset_vocabulary: false
 未知夜	wz;ex vi;ku ye;wd
 未知的世界地图	wz;ex vi;ku de;bu ui;ca jx;tj di;ty tu;kd
 未知的城市	wz;ex vi;ku de;bu ig;ti ui;wj
-未知的彼方	wz;ex vi;ku de;bu bi;xp fh;wd
+未知的彼方	wz;ex vi;ku de;bu bi;xp fh;dg
 未知的真相	wz;ex vi;ku de;bu vf;uj xd;mo
 未知能量	wz;ex vi;ku ng;sb ld;ol
 未知号码	wz;ex vi;ku hk;kk ma;um
@@ -49115,7 +49115,7 @@ use_preset_vocabulary: false
 李汭灿	li;mz rv;dn cj;hu
 李沈倩	li;mz uf;dg qm;rq
 李沐霏	li;mz mu;dm fz;yf
-李泰和方小甜的平行世界	li;mz tl;uf he;hk fh;wd xc;ad tm;ug de;bu py;aa xy;xi ui;ca jx;tj
+李泰和方小甜的平行世界	li;mz tl;uf he;hk fh;dg xc;ad tm;ug de;bu py;aa xy;xi ui;ca jx;tj
 李洋	li;mz yh;dy
 李洛伊詹金斯	li;mz lo;dg yi;ry vj;yb jn;ra si;jq
 李洛克	li;mz lo;dg ke;eg
@@ -49538,7 +49538,7 @@ use_preset_vocabulary: false
 东北堇菜	ds;ad bz;ag jn;ca cl;cc
 东北官话	ds;ad bz;ag gr;bg hw;yu
 东北往事	ds;ad bz;ag wh;xv ui;aa
-东北方面	ds;ad bz;ag fh;wd mm;aa
+东北方面	ds;ad bz;ag fh;dg mm;aa
 东北红血球	ds;ad bz;ag hs;sg xt;pa qq;wq
 东北虎	ds;ad bz;ag hu;hj
 东北话	ds;ad bz;ag hw;yu
@@ -49599,202 +49599,202 @@ use_preset_vocabulary: false
 东悦晴	ds;ad yt;xd qy;oq
 东惜雪	ds;ad xi;xx xt;yx
 东爱璃	ds;ad ai;vy li;wl
-东方	ds;ad fh;wd
-东方七色花	ds;ad fh;wd qi;ag se;db hw;ch
-东方三月精	ds;ad fh;wd sj;aa yt;pa jy;mq
-东方不败	ds;ad fh;wd bu;ad bl;wb
-东方之森	ds;ad fh;wd vi;dd sf;ml
-东方仗助	ds;ad fh;wd vh;rv vu;lq
-东方保卫图书馆	ds;ad fh;wd bk;rd wz;ga tu;kd uu;ad gr;ug
-东方伪神灵庙	ds;ad fh;wd wz;rw uf;uu ly;hx mc;gy
-东方光条阁	ds;ad fh;wd gd;ea tc;wm ge;mg
-东方入眠抄	ds;ad fh;wd ru;pd mm;om ik;fu
-东方八犬异闻	ds;ad fh;wd ba;pd qr;dd yi;cs wf;em
-东方则助	ds;ad fh;wd ze;bd vu;lq
-东方刚欲异闻	ds;ad fh;wd gh;dg yu;qg yi;cs wf;em
-东方剑	ds;ad fh;wd jm;da
-东方加农炮弹	ds;ad fh;wd jw;lk ns;by pk;hb dj;gd
-东方北陆祭	ds;ad fh;wd bz;ag lu;ej ji;uy
-东方千夜帖	ds;ad fh;wd qm;pa ye;wd tx;jv
-东方千幻抄	ds;ad fh;wd qm;pa hr;yg ik;fu
-东方合同动画企划	ds;ad fh;wd he;rk ts;kk ds;ly hw;ak qi;rv hw;dg
-东方合同动画企画	ds;ad fh;wd he;rk ts;kk ds;ly hw;ak qi;rv hw;ak
-东方同人堂	ds;ad fh;wd ts;kk rf;pd th;tk
-东方名异录	ds;ad fh;wd my;xk yi;cs lu;au
-东方名华祭	ds;ad fh;wd my;xk hw;uh ji;uy
-东方咒术泡泡	ds;ad fh;wd vb;kj uu;md pk;db pk;db
-东方地灵殿	ds;ad fh;wd di;ty ly;hx dm;ug
-东方夏夜祭	ds;ad fh;wd xw;wz ye;wd ji;uy
-东方夏淫梦	ds;ad fh;wd xw;wz yn;dr mg;mx
-东方外来韦编	ds;ad fh;wd wl;xb ll;am wz;aa bm;sb
-东方外来韦编网络版	ds;ad fh;wd wl;xb ll;am wz;aa bm;sb wh;ki lo;sg bj;pf
-东方多宴祭	ds;ad fh;wd do;xx yj;bn ji;uy
-东方夜神月	ds;ad fh;wd ye;wd uf;uu yt;pa
-东方夜神雪	ds;ad fh;wd ye;wd uf;uu xt;yx
-东方夜雀食堂	ds;ad fh;wd ye;wd qt;vx ui;rl th;tk
-东方梦工厂	ds;ad fh;wd mg;mx gs;aa ih;ap
-东方梦想曲	ds;ad fh;wd mg;mx xd;xx qu;aa
-东方梦日记	ds;ad fh;wd mg;mx ri;aa ji;yj
-东方梦时空	ds;ad fh;wd mg;mx ui;oc ks;xg
-东方梦月抄	ds;ad fh;wd mg;mx yt;pa ik;fu
-东方梦终剧	ds;ad fh;wd mg;mx vs;sd ju;dj
-东方梦旧市	ds;ad fh;wd mg;mx jq;ao ui;wj
-东方大弥	ds;ad fh;wd da;ad mi;ge
-东方大战争	ds;ad fh;wd da;ad vj;gv vg;dy
-东方大炮弹	ds;ad fh;wd da;ad pk;hb dj;gd
-东方天乙统女	ds;ad fh;wd tm;ad yi;aa ts;si nv;aa
-东方天星璋	ds;ad fh;wd tm;ad xy;ou vh;wv
-东方天空璋	ds;ad fh;wd tm;ad ks;xg vh;wv
-东方妖妖梦	ds;ad fh;wd yk;ny yk;ny mg;mx
-东方定助	ds;ad fh;wd dy;bp vu;lq
-东方定期幻想界	ds;ad fh;wd dy;bp qi;oq hr;yg xd;xx jx;tj
-东方家族	ds;ad fh;wd jw;bu zu;fu
-东方密叶	ds;ad fh;wd mi;ub ye;ku
-东方实在相	ds;ad fh;wd ui;bt zl;ut xd;mo
-东方封魔录	ds;ad fh;wd fg;cg mo;gm lu;au
-东方将白	ds;ad fh;wd jd;jc bl;pa
-东方导命树	ds;ad fh;wd dk;cs my;re uu;md
-东方导命树制作组	ds;ad fh;wd dk;cs my;re uu;md vi;dg zo;rv zu;sq
-东方少年	ds;ad fh;wd uk;xp nm;ra
-东方少年之击斗战车	ds;ad fh;wd uk;xp nm;ra vi;dd ji;fk db;du vj;gv ie;aa
-东方常助	ds;ad fh;wd ih;jk vu;lq
-东方常敏	ds;ad fh;wd ih;jk mn;wm
-东方常秀	ds;ad fh;wd ih;jk xq;hn
-东方幕华祭	ds;ad fh;wd mu;jm hw;uh ji;uy
-东方年代记	ds;ad fh;wd nm;ra dl;ry ji;yj
-东方幻仙乡	ds;ad fh;wd hr;yg xm;ru xd;ap
-东方幻梦笺	ds;ad fh;wd hr;yg mg;mx jm;vj
-东方幻想界	ds;ad fh;wd hr;yg xd;xx jx;tj
-东方幻想乡	ds;ad fh;wd hr;yg xd;xx xd;ap
-东方幻想麻将	ds;ad fh;wd hr;yg xd;xx ma;gl jd;jc
-东方幻想麻雀	ds;ad fh;wd hr;yg xd;xx ma;gl qt;vx
-东方幻想麻雀原声集	ds;ad fh;wd hr;yg xd;xx ma;gl qt;vx yr;ix ug;um ji;vm
-东方幻想麻雀绘叶书帖	ds;ad fh;wd hr;yg xd;xx ma;gl qt;vx hv;sh ye;ku uu;ad tx;jv
-东方幻灵录	ds;ad fh;wd hr;yg ly;hx lu;au
-东方幼灵梦	ds;ad fh;wd yb;ly ly;hx mg;mx
-东方幽幻簿	ds;ad fh;wd yb;uy hr;yg bu;vc
-东方延绪	ds;ad fh;wd yj;zv xu;sv
-东方弹幕神乐	ds;ad fh;wd dj;gd mu;jm uf;uu le;pd
-东方心绮楼	ds;ad fh;wd xn;dd qi;sq lb;ml
-东方怪绮谈	ds;ad fh;wd gy;xu qi;sq tj;yy
-东方爱	ds;ad fh;wd ai;vy
-东方凭依花	ds;ad fh;wd py;jr yi;ry hw;ch
-东方凭依华	ds;ad fh;wd py;jr yi;ry hw;uh
-东方宪助	ds;ad fh;wd xm;bx vu;lq
-东方恋觉想	ds;ad fh;wd lm;xy jt;jb xd;xx
-东方文果真报	ds;ad fh;wd wf;wi go;tm vf;uj bk;fy
-东方文花帖	ds;ad fh;wd wf;wi hw;ch tx;jv
-东方星期六	ds;ad fh;wd xy;ou qi;oq lq;wb
-东方星莲船	ds;ad fh;wd xy;ou lm;cl ir;vk
-东方春樱宴	ds;ad fh;wd ip;of yy;my yj;bn
-东方晴天	ds;ad fh;wd qy;oq tm;ad
-东方智灵奇传	ds;ad fh;wd vi;ov ly;hx qi;dk ir;rv
-东方晓	ds;ad fh;wd xc;oy
-东方曜	ds;ad fh;wd yk;od
-东方月初	ds;ad fh;wd yt;pa iu;yd
-东方月灵传	ds;ad fh;wd yt;pa ly;hx ir;rv
-东方月灵战	ds;ad fh;wd yt;pa ly;hx vj;gv
-东方朋子	ds;ad fh;wd pg;oo zi;aa
-东方未晞	ds;ad fh;wd wz;ex xi;ox
-东方朱元璋	ds;ad fh;wd vu;pw yr;aw vh;wv
-东方柏	ds;ad fh;wd bl;mb
-东方桃源宫	ds;ad fh;wd tk;mv yr;dy gs;bl
-东方桃源宫制作组	ds;ad fh;wd tk;mv yr;dy gs;bl vi;dg zo;rv zu;sq
-东方桅子	ds;ad fh;wd wz;mw zi;aa
-东方栀子	ds;ad fh;wd vi;me zi;aa
-东方乐祭	ds;ad fh;wd le;pd ji;uy
-东方乐祭准备会	ds;ad fh;wd le;pd ji;uy vp;dv bz;wt hv;ry
-东方归言录	ds;ad fh;wd gv;ax yj;wk lu;au
-东方杀	ds;ad fh;wd ua;mi
-东方永夜抄	ds;ad fh;wd ys;dd ye;wd ik;fu
-东方求败	ds;ad fh;wd qq;ad bl;wb
-东方求闻	ds;ad fh;wd qq;ad wf;em
-东方求闻口授	ds;ad fh;wd qq;ad wf;em kb;aa ub;fu
-东方求闻史纪	ds;ad fh;wd qq;ad wf;em ui;ki ji;sj
-东方求闻史记	ds;ad fh;wd qq;ad wf;em ui;ki ji;yj
-东方活动写真馆	ds;ad fh;wd ho;du ds;ly xx;by vf;uj gr;ug
-东方海惠堂	ds;ad fh;wd hl;dm hv;xh th;tk
-东方深秘录	ds;ad fh;wd uf;dm mi;hb lu;au
-东方清泉飨	ds;ad fh;wd qy;dq qr;ub xd;ux
-东方漫画	ds;ad fh;wd mj;dm hw;ak
-东方炮弹图	ds;ad fh;wd pk;hb dj;gd tu;kd
-东方焚戈录	ds;ad fh;wd ff;hl ge;ad lu;au
-东方热血汉	ds;ad fh;wd re;hv xt;pa hj;dy
-东方兽王园	ds;ad fh;wd ub;ka wh;aa yr;ky
-东方理那	ds;ad fh;wd li;wl na;el
-东方琴鼓歌	ds;ad fh;wd qn;wj gu;vd ge;qg
-东方异形乡	ds;ad fh;wd yi;cs xy;pk xd;ap
-东方白尘记	ds;ad fh;wd bl;pa if;tx ji;yj
-东方真珠岛	ds;ad fh;wd vf;uj vu;wv dk;nu
-东方祈华梦	ds;ad fh;wd qi;uj hw;uh mg;mx
-东方神娃	ds;ad fh;wd uf;uu wa;ng
-东方神居祭	ds;ad fh;wd uf;uu ju;ug ji;uy
-东方神灵庙	ds;ad fh;wd uf;uu ly;hx mc;gy
-东方箱庭解谜	ds;ad fh;wd xd;vx ty;gt jx;jn mi;ym
-东方节日	ds;ad fh;wd jx;ce ri;aa
-东方节日一览	ds;ad fh;wd jx;ce ri;aa yi;aa lj;jv
-东方红一号	ds;ad fh;wd hs;sg yi;aa hk;kk
-东方红楼梦	ds;ad fh;wd hs;sg lb;ml mg;mx
-东方红魔乡	ds;ad fh;wd hs;sg mo;gm xd;ap
-东方紫香花	ds;ad fh;wd zi;sc xd;ho hw;ch
-东方绀珠传	ds;ad fh;wd gj;sg vu;wv ir;rv
-东方绚文禄	ds;ad fh;wd xr;sx wf;wi lu;ul
-东方绚樱祭	ds;ad fh;wd xr;sx yy;my ji;uy
-东方绚樱祭同好会	ds;ad fh;wd xr;sx yy;my ji;uy ts;kk hk;nz hv;ry
-东方绚樱祭筹备委员会	ds;ad fh;wd xr;sx yy;my ji;uy ib;vu bz;wt wz;hn yr;kb hv;ry
-东方绿坝异空录	ds;ad fh;wd lv;sl ba;tb yi;cs ks;xg lu;au
-东方绯想天	ds;ad fh;wd fz;sf xd;xx tm;ad
-东方旧作	ds;ad fh;wd jq;ao zo;rv
-东方良平	ds;ad fh;wd ld;dg py;aa
-东方花映塚	ds;ad fh;wd hw;ch yy;oy vs;tv
-东方花蝴蝶	ds;ad fh;wd hw;ch hu;ih dx;im
-东方花都	ds;ad fh;wd hw;ch du;ev
-东方芸	ds;ad fh;wd yp;cy
-东方英雄	ds;ad fh;wd yy;cy xs;vh
-东方茨歌仙	ds;ad fh;wd ci;cc ge;qg xm;ru
-东方华	ds;ad fh;wd hw;uh
-东方华灯宴	ds;ad fh;wd hw;uh dg;hd yj;bn
-东方萃梦想	ds;ad fh;wd cv;cz mg;mx xd;xx
-东方苍神缘起	ds;ad fh;wd ch;cc uf;uu yr;st qi;zj
-东方虹龙洞	ds;ad fh;wd hs;ig ls;ad ds;dt
-东方螺茶会	ds;ad fh;wd lo;il ia;cm hv;ry
-东方蛮法天	ds;ad fh;wd mj;iy fa;dq tm;ad
-东方角色日	ds;ad fh;wd jt;dy se;db ri;aa
-东方计划	ds;ad fh;wd ji;yu hw;dg
-东方警察	ds;ad fh;wd jy;yj ia;bj
-东方警察事件	ds;ad fh;wd jy;yj ia;bj ui;aa jm;rn
-东方豹人传	ds;ad fh;wd bk;vu rf;pd ir;rv
-东方辉针城	ds;ad fh;wd hv;gj vf;ju ig;ti
-东方迎秋宴	ds;ad fh;wd yy;ze qq;hh yj;bn
-东方邪星章	ds;ad fh;wd xx;ey xy;ou vh;lz
-东方邪星章制作组	ds;ad fh;wd xx;ey xy;ou vh;lz vi;dg zo;rv zu;sq
-东方醉蝶华	ds;ad fh;wd zv;yz dx;im hw;uh
-东方铃奈庵	ds;ad fh;wd ly;jl nl;du an;gd
-东方键盘游戏	ds;ad fh;wd jm;jj pj;mv yb;dz xi;yg
-东方镜	ds;ad fh;wd jy;jj
-东方阿漕祭	ds;ad fh;wd aa;ek ck;dc ji;uy
-东方雪莲华	ds;ad fh;wd xt;yx lm;cl hw;uh
-东方灵异传	ds;ad fh;wd ly;hx yi;cs ir;rv
-东方灵灵梦	ds;ad fh;wd ly;hx ly;hx mg;mx
-东方非想天则	ds;ad fh;wd fz;aa xd;xx tm;ad ze;bd
-东方音道流	ds;ad fh;wd yn;lo dk;zu lq;di
-东方头破七分	ds;ad fh;wd tb;dd po;up qi;ag ff;bd
-东方风神录	ds;ad fh;wd fg;ji uf;uu lu;au
-东方馅挂炒饭	ds;ad fh;wd xm;uj gw;fg ik;hu fj;uf
-东方馅桂炒饭	ds;ad fh;wd xm;uj gv;mg ik;hu fj;uf
-东方香霖堂	ds;ad fh;wd xd;ho ln;yl th;tk
-东方鬼形兽	ds;ad fh;wd gv;pd xy;pk ub;ka
-东方鬼葬剑	ds;ad fh;wd gv;pd zh;cc jm;da
-东方魔宝城	ds;ad fh;wd mo;gm bk;by ig;ti
-东方魔宝城原声集	ds;ad fh;wd mo;gm bk;by ig;ti yr;ix ug;um ji;vm
-东方魔导录	ds;ad fh;wd mo;gm dk;cs lu;au
-东方鸠	ds;ad fh;wd jq;nj
-东方黄梁梦	ds;ad fh;wd hd;cb ld;md mg;mx
-东方黄粱梦	ds;ad fh;wd hd;cb ld;md mg;mx
-东方黄金圣斗士	ds;ad fh;wd hd;cb jn;ra ug;ty db;du ui;aa
-东方点击战	ds;ad fh;wd dm;hv ji;fk vj;gv
-东方龙	ds;ad fh;wd ls;ad
-东方龙隐谈	ds;ad fh;wd ls;ad yn;ej tj;yy
+东方	ds;ad fh;dg
+东方七色花	ds;ad fh;dg qi;ag se;db hw;ch
+东方三月精	ds;ad fh;dg sj;aa yt;pa jy;mq
+东方不败	ds;ad fh;dg bu;ad bl;wb
+东方之森	ds;ad fh;dg vi;dd sf;ml
+东方仗助	ds;ad fh;dg vh;rv vu;lq
+东方保卫图书馆	ds;ad fh;dg bk;rd wz;ga tu;kd uu;ad gr;ug
+东方伪神灵庙	ds;ad fh;dg wz;rw uf;uu ly;hx mc;gy
+东方光条阁	ds;ad fh;dg gd;ea tc;wm ge;mg
+东方入眠抄	ds;ad fh;dg ru;pd mm;om ik;fu
+东方八犬异闻	ds;ad fh;dg ba;pd qr;dd yi;cs wf;em
+东方则助	ds;ad fh;dg ze;bd vu;lq
+东方刚欲异闻	ds;ad fh;dg gh;dg yu;qg yi;cs wf;em
+东方剑	ds;ad fh;dg jm;da
+东方加农炮弹	ds;ad fh;dg jw;lk ns;by pk;hb dj;gd
+东方北陆祭	ds;ad fh;dg bz;ag lu;ej ji;uy
+东方千夜帖	ds;ad fh;dg qm;pa ye;wd tx;jv
+东方千幻抄	ds;ad fh;dg qm;pa hr;yg ik;fu
+东方合同动画企划	ds;ad fh;dg he;rk ts;kk ds;ly hw;ak qi;rv hw;dg
+东方合同动画企画	ds;ad fh;dg he;rk ts;kk ds;ly hw;ak qi;rv hw;ak
+东方同人堂	ds;ad fh;dg ts;kk rf;pd th;tk
+东方名异录	ds;ad fh;dg my;xk yi;cs lu;au
+东方名华祭	ds;ad fh;dg my;xk hw;uh ji;uy
+东方咒术泡泡	ds;ad fh;dg vb;kj uu;md pk;db pk;db
+东方地灵殿	ds;ad fh;dg di;ty ly;hx dm;ug
+东方夏夜祭	ds;ad fh;dg xw;wz ye;wd ji;uy
+东方夏淫梦	ds;ad fh;dg xw;wz yn;dr mg;mx
+东方外来韦编	ds;ad fh;dg wl;xb ll;am wz;aa bm;sb
+东方外来韦编网络版	ds;ad fh;dg wl;xb ll;am wz;aa bm;sb wh;ki lo;sg bj;pf
+东方多宴祭	ds;ad fh;dg do;xx yj;bn ji;uy
+东方夜神月	ds;ad fh;dg ye;wd uf;uu yt;pa
+东方夜神雪	ds;ad fh;dg ye;wd uf;uu xt;yx
+东方夜雀食堂	ds;ad fh;dg ye;wd qt;vx ui;rl th;tk
+东方梦工厂	ds;ad fh;dg mg;mx gs;aa ih;ap
+东方梦想曲	ds;ad fh;dg mg;mx xd;xx qu;aa
+东方梦日记	ds;ad fh;dg mg;mx ri;aa ji;yj
+东方梦时空	ds;ad fh;dg mg;mx ui;oc ks;xg
+东方梦月抄	ds;ad fh;dg mg;mx yt;pa ik;fu
+东方梦终剧	ds;ad fh;dg mg;mx vs;sd ju;dj
+东方梦旧市	ds;ad fh;dg mg;mx jq;ao ui;wj
+东方大弥	ds;ad fh;dg da;ad mi;ge
+东方大战争	ds;ad fh;dg da;ad vj;gv vg;dy
+东方大炮弹	ds;ad fh;dg da;ad pk;hb dj;gd
+东方天乙统女	ds;ad fh;dg tm;ad yi;aa ts;si nv;aa
+东方天星璋	ds;ad fh;dg tm;ad xy;ou vh;wv
+东方天空璋	ds;ad fh;dg tm;ad ks;xg vh;wv
+东方妖妖梦	ds;ad fh;dg yk;ny yk;ny mg;mx
+东方定助	ds;ad fh;dg dy;bp vu;lq
+东方定期幻想界	ds;ad fh;dg dy;bp qi;oq hr;yg xd;xx jx;tj
+东方家族	ds;ad fh;dg jw;bu zu;fu
+东方密叶	ds;ad fh;dg mi;ub ye;ku
+东方实在相	ds;ad fh;dg ui;bt zl;ut xd;mo
+东方封魔录	ds;ad fh;dg fg;cg mo;gm lu;au
+东方将白	ds;ad fh;dg jd;jc bl;pa
+东方导命树	ds;ad fh;dg dk;cs my;re uu;md
+东方导命树制作组	ds;ad fh;dg dk;cs my;re uu;md vi;dg zo;rv zu;sq
+东方少年	ds;ad fh;dg uk;xp nm;ra
+东方少年之击斗战车	ds;ad fh;dg uk;xp nm;ra vi;dd ji;fk db;du vj;gv ie;aa
+东方常助	ds;ad fh;dg ih;jk vu;lq
+东方常敏	ds;ad fh;dg ih;jk mn;wm
+东方常秀	ds;ad fh;dg ih;jk xq;hn
+东方幕华祭	ds;ad fh;dg mu;jm hw;uh ji;uy
+东方年代记	ds;ad fh;dg nm;ra dl;ry ji;yj
+东方幻仙乡	ds;ad fh;dg hr;yg xm;ru xd;ap
+东方幻梦笺	ds;ad fh;dg hr;yg mg;mx jm;vj
+东方幻想界	ds;ad fh;dg hr;yg xd;xx jx;tj
+东方幻想乡	ds;ad fh;dg hr;yg xd;xx xd;ap
+东方幻想麻将	ds;ad fh;dg hr;yg xd;xx ma;gl jd;jc
+东方幻想麻雀	ds;ad fh;dg hr;yg xd;xx ma;gl qt;vx
+东方幻想麻雀原声集	ds;ad fh;dg hr;yg xd;xx ma;gl qt;vx yr;ix ug;um ji;vm
+东方幻想麻雀绘叶书帖	ds;ad fh;dg hr;yg xd;xx ma;gl qt;vx hv;sh ye;ku uu;ad tx;jv
+东方幻灵录	ds;ad fh;dg hr;yg ly;hx lu;au
+东方幼灵梦	ds;ad fh;dg yb;ly ly;hx mg;mx
+东方幽幻簿	ds;ad fh;dg yb;uy hr;yg bu;vc
+东方延绪	ds;ad fh;dg yj;zv xu;sv
+东方弹幕神乐	ds;ad fh;dg dj;gd mu;jm uf;uu le;pd
+东方心绮楼	ds;ad fh;dg xn;dd qi;sq lb;ml
+东方怪绮谈	ds;ad fh;dg gy;xu qi;sq tj;yy
+东方爱	ds;ad fh;dg ai;vy
+东方凭依花	ds;ad fh;dg py;jr yi;ry hw;ch
+东方凭依华	ds;ad fh;dg py;jr yi;ry hw;uh
+东方宪助	ds;ad fh;dg xm;bx vu;lq
+东方恋觉想	ds;ad fh;dg lm;xy jt;jb xd;xx
+东方文果真报	ds;ad fh;dg wf;wi go;tm vf;uj bk;fy
+东方文花帖	ds;ad fh;dg wf;wi hw;ch tx;jv
+东方星期六	ds;ad fh;dg xy;ou qi;oq lq;wb
+东方星莲船	ds;ad fh;dg xy;ou lm;cl ir;vk
+东方春樱宴	ds;ad fh;dg ip;of yy;my yj;bn
+东方晴天	ds;ad fh;dg qy;oq tm;ad
+东方智灵奇传	ds;ad fh;dg vi;ov ly;hx qi;dk ir;rv
+东方晓	ds;ad fh;dg xc;oy
+东方曜	ds;ad fh;dg yk;od
+东方月初	ds;ad fh;dg yt;pa iu;yd
+东方月灵传	ds;ad fh;dg yt;pa ly;hx ir;rv
+东方月灵战	ds;ad fh;dg yt;pa ly;hx vj;gv
+东方朋子	ds;ad fh;dg pg;oo zi;aa
+东方未晞	ds;ad fh;dg wz;ex xi;ox
+东方朱元璋	ds;ad fh;dg vu;pw yr;aw vh;wv
+东方柏	ds;ad fh;dg bl;mb
+东方桃源宫	ds;ad fh;dg tk;mv yr;dy gs;bl
+东方桃源宫制作组	ds;ad fh;dg tk;mv yr;dy gs;bl vi;dg zo;rv zu;sq
+东方桅子	ds;ad fh;dg wz;mw zi;aa
+东方栀子	ds;ad fh;dg vi;me zi;aa
+东方乐祭	ds;ad fh;dg le;pd ji;uy
+东方乐祭准备会	ds;ad fh;dg le;pd ji;uy vp;dv bz;wt hv;ry
+东方归言录	ds;ad fh;dg gv;ax yj;wk lu;au
+东方杀	ds;ad fh;dg ua;mi
+东方永夜抄	ds;ad fh;dg ys;dd ye;wd ik;fu
+东方求败	ds;ad fh;dg qq;ad bl;wb
+东方求闻	ds;ad fh;dg qq;ad wf;em
+东方求闻口授	ds;ad fh;dg qq;ad wf;em kb;aa ub;fu
+东方求闻史纪	ds;ad fh;dg qq;ad wf;em ui;ki ji;sj
+东方求闻史记	ds;ad fh;dg qq;ad wf;em ui;ki ji;yj
+东方活动写真馆	ds;ad fh;dg ho;du ds;ly xx;by vf;uj gr;ug
+东方海惠堂	ds;ad fh;dg hl;dm hv;xh th;tk
+东方深秘录	ds;ad fh;dg uf;dm mi;hb lu;au
+东方清泉飨	ds;ad fh;dg qy;dq qr;ub xd;ux
+东方漫画	ds;ad fh;dg mj;dm hw;ak
+东方炮弹图	ds;ad fh;dg pk;hb dj;gd tu;kd
+东方焚戈录	ds;ad fh;dg ff;hl ge;ad lu;au
+东方热血汉	ds;ad fh;dg re;hv xt;pa hj;dy
+东方兽王园	ds;ad fh;dg ub;ka wh;aa yr;ky
+东方理那	ds;ad fh;dg li;wl na;el
+东方琴鼓歌	ds;ad fh;dg qn;wj gu;vd ge;qg
+东方异形乡	ds;ad fh;dg yi;cs xy;pk xd;ap
+东方白尘记	ds;ad fh;dg bl;pa if;tx ji;yj
+东方真珠岛	ds;ad fh;dg vf;uj vu;wv dk;nu
+东方祈华梦	ds;ad fh;dg qi;uj hw;uh mg;mx
+东方神娃	ds;ad fh;dg uf;uu wa;ng
+东方神居祭	ds;ad fh;dg uf;uu ju;ug ji;uy
+东方神灵庙	ds;ad fh;dg uf;uu ly;hx mc;gy
+东方箱庭解谜	ds;ad fh;dg xd;vx ty;gt jx;jn mi;ym
+东方节日	ds;ad fh;dg jx;ce ri;aa
+东方节日一览	ds;ad fh;dg jx;ce ri;aa yi;aa lj;jv
+东方红一号	ds;ad fh;dg hs;sg yi;aa hk;kk
+东方红楼梦	ds;ad fh;dg hs;sg lb;ml mg;mx
+东方红魔乡	ds;ad fh;dg hs;sg mo;gm xd;ap
+东方紫香花	ds;ad fh;dg zi;sc xd;ho hw;ch
+东方绀珠传	ds;ad fh;dg gj;sg vu;wv ir;rv
+东方绚文禄	ds;ad fh;dg xr;sx wf;wi lu;ul
+东方绚樱祭	ds;ad fh;dg xr;sx yy;my ji;uy
+东方绚樱祭同好会	ds;ad fh;dg xr;sx yy;my ji;uy ts;kk hk;nz hv;ry
+东方绚樱祭筹备委员会	ds;ad fh;dg xr;sx yy;my ji;uy ib;vu bz;wt wz;hn yr;kb hv;ry
+东方绿坝异空录	ds;ad fh;dg lv;sl ba;tb yi;cs ks;xg lu;au
+东方绯想天	ds;ad fh;dg fz;sf xd;xx tm;ad
+东方旧作	ds;ad fh;dg jq;ao zo;rv
+东方良平	ds;ad fh;dg ld;dg py;aa
+东方花映塚	ds;ad fh;dg hw;ch yy;oy vs;tv
+东方花蝴蝶	ds;ad fh;dg hw;ch hu;ih dx;im
+东方花都	ds;ad fh;dg hw;ch du;ev
+东方芸	ds;ad fh;dg yp;cy
+东方英雄	ds;ad fh;dg yy;cy xs;vh
+东方茨歌仙	ds;ad fh;dg ci;cc ge;qg xm;ru
+东方华	ds;ad fh;dg hw;uh
+东方华灯宴	ds;ad fh;dg hw;uh dg;hd yj;bn
+东方萃梦想	ds;ad fh;dg cv;cz mg;mx xd;xx
+东方苍神缘起	ds;ad fh;dg ch;cc uf;uu yr;st qi;zj
+东方虹龙洞	ds;ad fh;dg hs;ig ls;ad ds;dt
+东方螺茶会	ds;ad fh;dg lo;il ia;cm hv;ry
+东方蛮法天	ds;ad fh;dg mj;iy fa;dq tm;ad
+东方角色日	ds;ad fh;dg jt;dy se;db ri;aa
+东方计划	ds;ad fh;dg ji;yu hw;dg
+东方警察	ds;ad fh;dg jy;yj ia;bj
+东方警察事件	ds;ad fh;dg jy;yj ia;bj ui;aa jm;rn
+东方豹人传	ds;ad fh;dg bk;vu rf;pd ir;rv
+东方辉针城	ds;ad fh;dg hv;gj vf;ju ig;ti
+东方迎秋宴	ds;ad fh;dg yy;ze qq;hh yj;bn
+东方邪星章	ds;ad fh;dg xx;ey xy;ou vh;lz
+东方邪星章制作组	ds;ad fh;dg xx;ey xy;ou vh;lz vi;dg zo;rv zu;sq
+东方醉蝶华	ds;ad fh;dg zv;yz dx;im hw;uh
+东方铃奈庵	ds;ad fh;dg ly;jl nl;du an;gd
+东方键盘游戏	ds;ad fh;dg jm;jj pj;mv yb;dz xi;yg
+东方镜	ds;ad fh;dg jy;jj
+东方阿漕祭	ds;ad fh;dg aa;ek ck;dc ji;uy
+东方雪莲华	ds;ad fh;dg xt;yx lm;cl hw;uh
+东方灵异传	ds;ad fh;dg ly;hx yi;cs ir;rv
+东方灵灵梦	ds;ad fh;dg ly;hx ly;hx mg;mx
+东方非想天则	ds;ad fh;dg fz;aa xd;xx tm;ad ze;bd
+东方音道流	ds;ad fh;dg yn;lo dk;zu lq;di
+东方头破七分	ds;ad fh;dg tb;dd po;up qi;ag ff;bd
+东方风神录	ds;ad fh;dg fg;ji uf;uu lu;au
+东方馅挂炒饭	ds;ad fh;dg xm;uj gw;fg ik;hu fj;uf
+东方馅桂炒饭	ds;ad fh;dg xm;uj gv;mg ik;hu fj;uf
+东方香霖堂	ds;ad fh;dg xd;ho ln;yl th;tk
+东方鬼形兽	ds;ad fh;dg gv;pd xy;pk ub;ka
+东方鬼葬剑	ds;ad fh;dg gv;pd zh;cc jm;da
+东方魔宝城	ds;ad fh;dg mo;gm bk;by ig;ti
+东方魔宝城原声集	ds;ad fh;dg mo;gm bk;by ig;ti yr;ix ug;um ji;vm
+东方魔导录	ds;ad fh;dg mo;gm dk;cs lu;au
+东方鸠	ds;ad fh;dg jq;nj
+东方黄梁梦	ds;ad fh;dg hd;cb ld;md mg;mx
+东方黄粱梦	ds;ad fh;dg hd;cb ld;md mg;mx
+东方黄金圣斗士	ds;ad fh;dg hd;cb jn;ra ug;ty db;du ui;aa
+东方点击战	ds;ad fh;dg dm;hv ji;fk vj;gv
+东方龙	ds;ad fh;dg ls;ad
+东方龙隐谈	ds;ad fh;dg ls;ad yn;ej tj;yy
 东施喵	ds;ad ui;fy mc;km
 东日向	ds;ad ri;aa xd;pk
 东日本大地震	ds;ad ri;aa bf;aa da;ad di;ty vf;yi
@@ -49898,7 +49898,7 @@ use_preset_vocabulary: false
 东云悟	ds;ad yp;es wu;xw
 东云惠	ds;ad yp;es hv;xh
 东云校长	ds;ad yp;es xc;mj vh;pd
-东云楚方	ds;ad yp;es iu;mp fh;wd
+东云楚方	ds;ad yp;es iu;mp fh;dg
 东云皋月	ds;ad yp;es gk;bu yt;pa
 东云纺	ds;ad yp;es fh;sf
 东云绘名	ds;ad yp;es hv;sh my;xk
@@ -50013,7 +50013,7 @@ use_preset_vocabulary: false
 松平片栗虎	ss;mg py;aa pm;pa li;mx hu;hj
 松平瞳子	ss;mg py;aa ts;ot zi;aa
 松文馆事件	ss;mg wf;wi gr;ug ui;aa jm;rn
-松方正义	ss;mg fh;wd vg;av yi;id
+松方正义	ss;mg fh;dg vg;av yi;id
 松智洋	ss;mg vi;ov yh;dy
 松木达哉	ss;mg mu;ad da;zd zl;kg
 松本	ss;mg bf;aa
@@ -50498,7 +50498,7 @@ use_preset_vocabulary: false
 某个东西	mb;mg ge;ra ds;ad xi;aa
 某个计划现在也秘密进行着	mb;mg ge;ra ji;yu hw;dg xm;wj zl;ut ye;gg mi;hb mi;ub jn;zj xy;xi ve;yo
 某个迷宫	mb;mg ge;ra mi;zm gs;bl
-某偶像的一方通行大人	mb;mg ou;ry xd;rx de;bu yi;aa fh;wd ts;zy xy;xi da;ad rf;pd
+某偶像的一方通行大人	mb;mg ou;ry xd;rx de;bu yi;aa fh;dg ts;zy xy;xi da;ad rf;pd
 某先生	mb;mg xm;ne ug;na
 某冬幕的天谴之物	mb;mg ds;wd mu;jm de;bu tm;ad qm;yq vi;dd wu;nw
 某名娼妇之恋	mb;mg my;xk ih;ni fu;nx vi;dd lm;xy
@@ -50517,7 +50517,7 @@ use_preset_vocabulary: false
 某次出逃	mb;mg ci;dq iu;aa tk;zv
 某独白	mb;mg du;qi bl;pa
 某研究	mb;mg yj;uk jq;xj
-某科学的一方通行	mb;mg ke;hd xt;zb de;bu yi;aa fh;wd ts;zy xy;xi
+某科学的一方通行	mb;mg ke;hd xt;zb de;bu yi;aa fh;dg ts;zy xy;xi
 某科学的心理掌握	mb;mg ke;hd xt;zb de;bu xn;dd li;wl vh;uk wo;fw
 某科学的未元物质	mb;mg ke;hd xt;zb de;bu wz;ex yr;aw wu;nw vi;bu
 某科学的超乐曲集	mb;mg ke;hd xt;zb de;bu ik;zv yt;pd qu;aa ji;vm
@@ -50918,7 +50918,7 @@ use_preset_vocabulary: false
 校条祭	xc;mj tc;wm ji;uy
 校歌	xc;mj ge;qg
 校歌齐唱	xc;mj ge;qg qi;wa ih;ki
-校舍的后方埋藏着天使	xc;mj ue;ru de;bu hb;pk fh;wd ml;tl ch;cz ve;yo tm;ad ui;rl
+校舍的后方埋藏着天使	xc;mj ue;ru de;bu hb;pk fh;dg ml;tl ch;cz ve;yo tm;ad ui;rl
 校医	xc;mj yi;ku
 校长	xc;mj vh;pd
 校长先生	xc;mj vh;pd xm;ne ug;na
@@ -51935,8 +51935,8 @@ use_preset_vocabulary: false
 棘龙	ji;cc ls;ad
 棚桥铃音	pg;mp qc;mq ly;jl yn;lo
 棚町薰	pg;mp ty;td xp;cx
-栋方爱海	ds;md fh;wd ai;vy hl;dm
-栋方真梨子	ds;md fh;wd vf;uj li;ml zi;aa
+栋方爱海	ds;md fh;dg ai;vy hl;dm
+栋方真梨子	ds;md fh;dg vf;uj li;ml zi;aa
 棠棣血	th;mk di;ml xt;pa
 棣棠花	di;ml th;mk hw;ch
 森七菜	sf;ml qi;ag cl;cc
@@ -52616,14 +52616,14 @@ use_preset_vocabulary: false
 乐一通	le;pd yi;aa ts;zy
 乐不思蜀	le;pd bu;ad si;xt uu;si
 乐元素	le;pd yr;aw su;sf
-乐动魔方	le;pd ds;ly mo;gm fh;wd
+乐动魔方	le;pd ds;ly mo;gm fh;dg
 乐喵	le;pd mc;km
 乐器兵	yt;pd qi;kk by;qb
 乐园	le;pd yr;ky
 乐园之翼	le;pd yr;ky vi;dd yi;yg
 乐园已至	le;pd yr;ky yi;vg vi;tv
 乐园市街	le;pd yr;ky ui;wj jx;xg
-乐园是侦探不在的地方	le;pd yr;ky ui;op vf;rv tj;fm bu;ad zl;ut de;bu di;ty fh;wd
+乐园是侦探不在的地方	le;pd yr;ky ui;op vf;rv tj;fm bu;ad zl;ut de;bu di;ty fh;dg
 乐园杀手	le;pd yr;ky ua;mi ub;pa
 乐园的你	le;pd yr;ky de;bu ni;re
 乐园的基因	le;pd yr;ky de;bu ji;tq yn;kd
@@ -52804,7 +52804,7 @@ use_preset_vocabulary: false
 树莓毒药	uu;md mz;cm du;fm yk;cy
 树莓灌木	uu;md mz;cm gr;dv mu;ad
 树莓田里的守望者	uu;md mz;cm tm;aa li;aa de;bu ub;bc wh;wo ve;ol
-树莓立方体	uu;md mz;cm li;da fh;wd ti;rb
+树莓立方体	uu;md mz;cm li;da fh;dg ti;rb
 树叶车票	uu;md ye;ku ie;aa pc;xu
 树袋熊	uu;md dl;yd xs;hn
 树野杏	uu;md ye;ly xy;mk
@@ -53693,7 +53693,7 @@ use_preset_vocabulary: false
 次元酱	ci;dq yr;aw jd;yx
 次元镜像	ci;dq yr;aw jy;jj xd;rx
 次元障壁	ci;dq yr;aw vh;ev bi;tb
-次元魔方	ci;dq yr;aw mo;gm fh;wd
+次元魔方	ci;dq yr;aw mo;gm fh;dg
 次元魔法	ci;dq yr;aw mo;gm fa;dq
 次文化	ci;dq wf;wi hw;rb
 次日凌晨三点半	ci;dq ri;aa ly;dl if;oi sj;aa dm;hv bj;bf
@@ -53809,7 +53809,7 @@ use_preset_vocabulary: false
 歌蕾蒂娅	ge;qg lz;cl di;cd ya;ny
 歌兰蒂斯	ge;qg lj;qe di;cd si;jq
 歌兰蒂斯格拉西亚	ge;qg lj;qe di;cd si;jq ge;mg la;fl xi;aa ya;ay
-歌行四方	ge;qg xy;xi si;aa fh;wd
+歌行四方	ge;qg xy;xi si;aa fh;dg
 歌词	ge;qg ci;ys
 歌词本	ge;qg ci;ys bf;aa
 歌词自卑情结	ge;qg ci;ys zi;pa bz;pa qy;xq jx;sj
@@ -53872,7 +53872,7 @@ use_preset_vocabulary: false
 欧洲七叶树	ou;qq vb;dv qi;ag ye;ku uu;md
 欧洲冬青	ou;qq vb;dv ds;wd qy;of
 欧洲救援作战	ou;qq vb;dv jq;wq yr;fy zo;rv vj;gv
-欧洲方面反击作战	ou;qq vb;dv fh;wd mm;aa fj;py ji;fk zo;rv vj;gv
+欧洲方面反击作战	ou;qq vb;dv fh;dg mm;aa fj;py ji;fk zo;rv vj;gv
 欧洲栖姬	ou;qq vb;dv qi;mx ji;ni
 欧洲水姬	ou;qq vb;dv uv;ad ji;ni
 欧洲联盟	ou;qq vb;dv lm;eg mg;mm
@@ -53955,7 +53955,7 @@ use_preset_vocabulary: false
 欢乐颂	hr;qy le;pd ss;yg
 欢欣雀跃的动物进行曲	hr;qy xn;qj qt;vx yt;zy de;bu ds;ly wu;nw jn;zj xy;xi qu;aa
 欢欢乐乐安乐死	hr;qy hr;qy le;pd le;pd an;bn le;pd si;db
-欢笑方式	hr;qy xc;vy fh;wd ui;gy
+欢笑方式	hr;qy xc;vy fh;dg ui;gy
 欢脱的小水母	hr;qy to;od de;bu xc;ad uv;ad mu;vd
 欢迎	hr;qy yy;ze
 欢迎来到	hr;qy yy;ze ll;am dk;dv
@@ -54029,9 +54029,9 @@ use_preset_vocabulary: false
 正式名称	vg;av ui;gy my;xk ig;he
 正弦	vg;av xm;gx
 正弦娘	vg;av xm;gx nd;nl
-正后方的神威	vg;av hb;pk fh;wd de;bu uf;uu wz;gn
+正后方的神威	vg;av hb;pk fh;dg de;bu uf;uu wz;gn
 正教	vg;av jc;wx
-正方形	vg;av fh;wd xy;pk
+正方形	vg;av fh;dg xy;pk
 正月	vg;av yt;pa
 正月的土之牧师	vg;av yt;pa de;bu tu;aa vi;dd mu;nw ui;ab
 正月的土之骑士	vg;av yt;pa de;bu tu;aa vi;dd qi;mq ui;aa
@@ -54065,7 +54065,7 @@ use_preset_vocabulary: false
 正确的	vg;av qt;uj de;bu
 正确的卡多	vg;av qt;uj de;bu ka;ub do;xx
 正确答案	vg;av qt;uj da;vh an;ma
-正确饲养你的方法	vg;av qt;uj si;us yh;ya ni;re de;bu fh;wd fa;dq
+正确饲养你的方法	vg;av qt;uj si;us yh;ya ni;re de;bu fh;dg fa;dq
 正窗所对	vg;av id;xx so;hj dv;cy
 正统的血统	vg;av ts;si de;bu xt;pa ts;si
 正统观念	vg;av ts;si gr;jy nm;xj
@@ -54396,7 +54396,7 @@ use_preset_vocabulary: false
 岁衍流光处	sv;ux yj;xd lq;di gd;ea iu;wb
 岁远	sv;ux yr;zy
 历代一位回顾	li;il dl;ry yi;aa wz;rl hv;kk gu;ye
-历代怪人巨大化方式	li;il dl;ry gy;xu rf;pd ju;kk da;ad hw;rb fh;wd ui;gy
+历代怪人巨大化方式	li;il dl;ry gy;xu rf;pd ju;kk da;ad hw;rb fh;dg ui;gy
 历代时间线	li;il dl;ry ui;oc jm;mo xm;sj
 历代更新要素	li;il dl;ry gg;ad xn;jq yk;xn su;sf
 历代赛季更新	li;il dl;ry sl;bb ji;hz gg;ad xn;jq
@@ -54572,7 +54572,7 @@ use_preset_vocabulary: false
 死库水	si;db ku;gi uv;ad
 死后世界战线	si;db hb;pk ui;ca jx;tj vj;gv xm;sj
 死后文	si;db hb;pk wf;wi
-死后方得永恒	si;db hb;pk fh;wd de;xc ys;dd hg;xg
+死后方得永恒	si;db hb;pk fh;dg de;xc ys;dd hg;xg
 死徒	si;db tu;xz
 死徒二十七祖	si;db tu;xz er;aa ui;aa qi;ag zu;uq
 死恋电台	si;db lm;xy dm;ag tl;sk
@@ -54974,7 +54974,7 @@ use_preset_vocabulary: false
 比喻梗	bi;bb yu;ky gg;mg
 比嘉久美子	bi;bb jw;uj jq;pd mz;dy zi;aa
 比嘉光宏	bi;bb jw;uj gd;ea hs;bh
-比嘉彼方	bi;bb jw;uj bi;xp fh;wd
+比嘉彼方	bi;bb jw;uj bi;xp fh;dg
 比嘉良介	bi;bb jw;uj ld;dg jx;ra
 比土地更深沉的是我们的血	bi;bb tu;aa di;ty gg;ad uf;dm if;dj de;bu ui;op wo;pd mf;rm de;bu xt;pa
 比基尼	bi;bb ji;tq ni;ub
@@ -54988,9 +54988,9 @@ use_preset_vocabulary: false
 比夫龙	bi;bb fu;ad ls;ad
 比奈森沙耶	bi;bb nl;du sf;ml ua;du ye;ee
 比奥兰迪	bi;bb ao;dm lj;qe di;zy
-比宇宙更遥远的地方	bi;bb yu;by vb;by gg;ad yk;zf yr;zy de;bu di;ty fh;wd
-比宇宙更远的地方	bi;bb yu;by vb;by gg;ad yr;zy de;bu di;ty fh;wd
-比宇宙还远的地方	bi;bb yu;by vb;by hl;zb yr;zy de;bu di;ty fh;wd
+比宇宙更遥远的地方	bi;bb yu;by vb;by gg;ad yk;zf yr;zy de;bu di;ty fh;dg
+比宇宙更远的地方	bi;bb yu;by vb;by gg;ad yr;zy de;bu di;ty fh;dg
+比宇宙还远的地方	bi;bb yu;by vb;by hl;zb yr;zy de;bu di;ty fh;dg
 比安卡	bi;bb an;bn ka;ub
 比安卡幽兰黛尔阿塔吉娜	bi;bb an;bn ka;ub yb;uy lj;qe dl;hd er;dx aa;ek ta;td ji;ku na;nn
 比安卡真理	bi;bb an;bn ka;ub vf;uj li;wl
@@ -55831,7 +55831,7 @@ use_preset_vocabulary: false
 永远亭	ys;dd yr;zy ty;wd
 永远同在	ys;dd yr;zy ts;kk zl;ut
 永远在一起	ys;dd yr;zy zl;ut yi;aa qi;zj
-永远在这个地方	ys;dd yr;zy zl;ut ve;zw ge;ra di;ty fh;wd
+永远在这个地方	ys;dd yr;zy zl;ut ve;zw ge;ra di;ty fh;dg
 永远地	ys;dd yr;zy di;ty
 永远少年	ys;dd yr;zy uk;xp nm;ra
 永远是深夜有多好	ys;dd yr;zy ui;op uf;dm ye;wd yb;ou do;xx hk;nz
@@ -56333,7 +56333,7 @@ use_preset_vocabulary: false
 没有您就没有祖国	mz;du yb;ou nn;xn jq;yj mz;du yb;ou zu;uq go;ky
 没有情人就跟情人节一起过啊	mz;du yb;ou qy;xq rf;pd jq;yj gf;zg qy;xq rf;pd jx;ce yi;aa qi;zj go;zc aa;ka
 没有惹你们任何人	mz;du yb;ou re;xr ni;re mf;rm rf;rr he;rk rf;pd
-没有方向	mz;du yb;ou fh;wd xd;pk
+没有方向	mz;du yb;ou fh;dg xd;pk
 没有柏青哥的星球	mz;du yb;ou bo;mb qy;of ge;kd de;bu xy;ou qq;wq
 没有比我更有爱心的骑士了	mz;du yb;ou bi;bb wo;pd gg;ad yb;ou ai;vy xn;dd de;bu qi;mq ui;aa le;aa
 没有比道歉招待会更精彩的表演了	mz;du yb;ou bi;bb dk;zu qm;qj vk;fv dl;xs hv;ry gg;ad jy;mq cl;pc de;bu bc;fy yj;dy le;aa
@@ -56695,14 +56695,14 @@ use_preset_vocabulary: false
 泉卡迪斯	qr;ub ka;ub di;zy si;jq
 泉宗次郎	qr;ub zs;bu ci;dq lh;el
 泉尚挚	qr;ub uh;xk vi;uv
-泉彼方	qr;ub bi;xp fh;wd
+泉彼方	qr;ub bi;xp fh;dg
 泉户琥珀	qr;ub hu;dp hu;wh po;wb
 泉户真白	qr;ub hu;dp vf;uj bl;pa
 泉户裕理	qr;ub hu;dp yu;yg li;wl
 泉新一	qr;ub xn;jq yi;aa
 泉桃华	qr;ub tk;mv hw;uh
 泉欣雨	qr;ub xn;qj yu;ad
-泉此方	qr;ub ci;vb fh;wd
+泉此方	qr;ub ci;vb fh;dg
 泉比奈	qr;ub bi;bb nl;du
 泉水	qr;ub uv;ad
 泉水之灵	qr;ub uv;ad vi;dd ly;hx
@@ -57700,7 +57700,7 @@ use_preset_vocabulary: false
 浦岛太郎	pu;df dk;nu tl;dd lh;el
 浦岛虎彻	pu;df dk;nu hu;hj ie;xq
 浦彩	pu;df cl;pc
-浦方丽	pu;df fh;wd li;ad
+浦方丽	pu;df fh;dg li;ad
 浦波	pu;df bo;dp
 浦泽直树	pu;df ze;df vi;uq uu;md
 浦玥	pu;df yt;wo
@@ -58379,7 +58379,7 @@ use_preset_vocabulary: false
 淑女同萌	uu;du nv;aa ts;kk mg;cm
 淑女好逑	uu;du nv;aa hk;nz qq;zq
 淑女的小小提案	uu;du nv;aa de;bu xc;ad xc;ad ti;fu an;ma
-淑女草莓的制作方法	uu;du nv;aa ck;cz mz;cm de;bu vi;dg zo;rv fh;wd fa;dq
+淑女草莓的制作方法	uu;du nv;aa ck;cz mz;cm de;bu vi;dg zo;rv fh;dg fa;dq
 淑子	uu;du zi;aa
 淑馨	uu;du xn;xu
 淘气	tk;dt qi;py
@@ -59123,7 +59123,7 @@ use_preset_vocabulary: false
 港湾	gh;dx wj;dw
 港湾夏姬	gh;dx wj;dw xw;wz ji;ni
 港湾栖姬	gh;dx wj;dw qi;mx ji;ni
-港湾栖姬与北方酱	gh;dx wj;dw qi;mx ji;ni yu;aa bz;ag fh;wd jd;yx
+港湾栖姬与北方酱	gh;dx wj;dw qi;mx ji;ni yu;aa bz;ag fh;dg jd;yx
 港湾水鬼	gh;dx wj;dw uv;ad gv;pd
 港诡实录	gh;dx gv;yw ui;bt lu;au
 港道理	gh;dx dk;zu li;wl
@@ -59707,7 +59707,7 @@ use_preset_vocabulary: false
 汉萱儿	hj;dy xr;cx er;pg
 汉蒂卡拉	hj;dy di;cd ka;ub la;fl
 汉兰德	hj;dy lj;qe de;xx
-汉语方言	hj;dy yu;yw fh;wd yj;wk
+汉语方言	hj;dy yu;yw fh;dg yj;wk
 汉诺威	hj;dy no;yr wz;gn
 汉诺的崇高力量	hj;dy no;yr de;bu is;uz gk;wk li;gp ld;ol
 汉谟拉比	hj;dy mo;ym la;fl bi;bb
@@ -59774,7 +59774,7 @@ use_preset_vocabulary: false
 漫画密码	mj;dm hw;ak mi;ub ma;um
 漫画小说作品	mj;dm hw;ak xc;ad uo;yd zo;rv pn;kk
 漫画师	mj;dm hw;ak ui;ab
-漫画微分方程	mj;dm hw;ak wz;xw ff;bd fh;wd ig;hi
+漫画微分方程	mj;dm hw;ak wz;xw ff;bd fh;dg ig;hi
 漫画微积分	mj;dm hw;ak wz;xw ji;hv ff;bd
 漫画效果线	mj;dm hw;ak xc;wj go;tm xm;sj
 漫画数据库	mj;dm hw;ak uu;wl ju;fj ku;gi
@@ -59815,7 +59815,7 @@ use_preset_vocabulary: false
 漫游者日记	mj;dm yb;dz ve;ol ri;aa ji;yj
 漫镜头	mj;dm jy;jj tb;dd
 漫长的单相思	mj;dm ih;pd de;bu dj;ba xd;mo si;xt
-漫长的时间遥远的地方	mj;dm ih;pd de;bu ui;oc jm;mo yk;zf yr;zy de;bu di;ty fh;wd
+漫长的时间遥远的地方	mj;dm ih;pd de;bu ui;oc jm;mo yk;zf yr;zy de;bu di;ty fh;dg
 漫灵娘	mj;dm ly;hx nd;nl
 涨姿势	vh;dv zi;nc ui;lv
 涨点啊	vh;dv dm;hv aa;ka
@@ -61586,7 +61586,7 @@ use_preset_vocabulary: false
 无双全明星	wu;ag ud;yy qr;rw my;oo xy;ou
 无双剑姬	wu;ag ud;yy jm;da ji;ni
 无双大蛇	wu;ag ud;yy da;ad ue;it
-无双方天戟	wu;ag ud;yy fh;wd tm;ad ji;gu
+无双方天戟	wu;ag ud;yy fh;dg tm;ad ji;gu
 无双鬼	wu;ag ud;yy gv;pd
 无雪的故乡	wu;ag xt;yx de;bu gu;wg xd;ap
 无零	wu;ag ly;yl
@@ -61929,7 +61929,7 @@ use_preset_vocabulary: false
 热情迷唇	re;hv qy;xq mi;zm ip;ki
 热爱一百零五度的你	re;hv ai;vy yi;aa bl;ab ly;yl wu;aa du;gy de;bu ni;re
 热爱我们的生活	re;hv ai;vy wo;pd mf;rm de;bu ug;na ho;du
-热爱的前方	re;hv ai;vy de;bu qm;qd fh;wd
+热爱的前方	re;hv ai;vy de;bu qm;qd fh;dg
 热爱贩卖军火的你	re;hv ai;vy fj;bf ml;um jp;bi ho;dd de;bu ni;re
 热感觉	re;hv gj;xx jt;jb
 热恋之花	re;hv lm;xy vi;dd hw;ch
@@ -62276,7 +62276,7 @@ use_preset_vocabulary: false
 争霸	vg;dy ba;yo
 为了不忘却	wz;dd le;aa bu;ad wh;xw qt;eq
 为了你唱下去	wz;dd le;aa ni;re ih;ki xw;ab qu;ts
-为了到达那个地方	wz;dd le;aa dk;dv da;zd na;el ge;ra di;ty fh;wd
+为了到达那个地方	wz;dd le;aa dk;dv da;zd na;el ge;ra di;ty fh;dg
 为了努力的你而写的小夜曲	wz;dd le;aa nu;ln li;gp de;bu ni;re er;aa xx;by de;bu xc;ad ye;wd qu;aa
 为了印第的笑容	wz;dd le;aa yn;ey di;vp de;bu xc;vy rs;bg
 为了梦中见到的那孩子	wz;dd le;aa mg;mx vs;aa jm;ag dk;dv de;bu na;el hl;zh zi;aa
@@ -63567,10 +63567,10 @@ use_preset_vocabulary: false
 兽奴假面	ub;ka nu;ny jw;rj mm;aa
 兽娘	ub;ka nd;nl
 兽娘动物园	ub;ka nd;nl ds;ly wu;nw yr;ky
-兽娘育成方案	ub;ka nd;nl yu;os ig;gg fh;wd an;ma
-兽娘的抚育方法	ub;ka nd;nl de;bu fu;fw yu;os fh;wd fa;dq
-兽娘的育成方法	ub;ka nd;nl de;bu yu;os ig;gg fh;wd fa;dq
-兽娘的养成方法	ub;ka nd;nl de;bu yh;ya ig;gg fh;wd fa;dq
+兽娘育成方案	ub;ka nd;nl yu;os ig;gg fh;dg an;ma
+兽娘的抚育方法	ub;ka nd;nl de;bu fu;fw yu;os fh;dg fa;dq
+兽娘的育成方法	ub;ka nd;nl de;bu yu;os ig;gg fh;dg fa;dq
+兽娘的养成方法	ub;ka nd;nl de;bu yh;ya ig;gg fh;dg fa;dq
 兽娘的养育法	ub;ka nd;nl de;bu yh;ya yu;os fa;dq
 兽学	ub;ka xt;zb
 兽尾	ub;ka wz;um
@@ -64258,7 +64258,7 @@ use_preset_vocabulary: false
 珍贵的宝物	vf;wp gv;ba de;bu bk;by wu;nw
 珍贵的朋友	vf;wp gv;ba de;bu pg;oo yb;yu
 珍贵的鸡	vf;wp gv;ba de;bu ji;ny
-珍重的地方	vf;wp vs;pa de;bu di;ty fh;wd
+珍重的地方	vf;wp vs;pa de;bu di;ty fh;dg
 珍鱼	vf;wp yu;da
 珠世	vu;wv ui;ca
 珠世的猫	vu;wv ui;ca de;bu mk;qm
@@ -65395,7 +65395,7 @@ use_preset_vocabulary: false
 生存因子	ug;na cp;uz yn;kd zi;aa
 生存境界	ug;na cp;uz jy;tj jx;tj
 生存恐惧	ug;na cp;uz ks;xg ju;xj
-生存方式	ug;na cp;uz fh;wd ui;gy
+生存方式	ug;na cp;uz fh;dg ui;gy
 生存本能	ug;na cp;uz bf;aa ng;sb
 生存模式	ug;na cp;uz mo;mm ui;gy
 生存竞争	ug;na cp;uz jy;lx vg;dy
@@ -65509,7 +65509,7 @@ use_preset_vocabulary: false
 生盐乃爱	ug;na yj;mb nl;pg ai;vy
 生盐诺亚	ug;na yj;mb no;yr ya;ay
 产屋敷天音	ij;wi wu;uv fu;wf tm;ad yn;lo
-产屋敷彼方	ij;wi wu;uv fu;wf bi;xp fh;wd
+产屋敷彼方	ij;wi wu;uv fu;wf bi;xp fh;dg
 产屋敷日香	ij;wi wu;uv fu;wf ri;aa xd;ho
 产屋敷杭奈	ij;wi wu;uv fu;wf hh;mk nl;du
 产屋敷耀哉	ij;wi wu;uv fu;wf yk;gd zl;kg
@@ -65833,7 +65833,7 @@ use_preset_vocabulary: false
 男乱马	nj;tl lr;ug ma;aa
 男二光环	nj;tl er;aa gd;ea hr;wb
 男人就应该干男人	nj;tl rf;pd jq;yj yy;ga gl;yh gj;aa nj;tl rf;pd
-男人就要血气方刚	nj;tl rf;pd jq;yj yk;xn xt;pa qi;py fh;wd gh;dg
+男人就要血气方刚	nj;tl rf;pd jq;yj yk;xn xt;pa qi;py fh;dg gh;dg
 男人就该干男人	nj;tl rf;pd jq;yj gl;yh gj;aa nj;tl rf;pd
 男人变态有什么错	nj;tl rf;pd bm;wy tl;xt yb;ou uf;ru me;ps co;jx
 男人领域	nj;tl rf;pd ly;yl yu;th
@@ -65950,7 +65950,7 @@ use_preset_vocabulary: false
 毕姆	bi;bu mu;nm
 毕巴	bi;bu ba;ag
 毕巴娘	bi;bu ba;ag nd;nl
-毕方支援直升机	bi;bu fh;wd vi;uy yr;fy vi;uq ug;pc ji;mj
+毕方支援直升机	bi;bu fh;dg vi;uy yr;fy vi;uq ug;pc ji;mj
 毕业	bi;bu ye;aa
 毕业之歌	bi;bu ye;aa vi;dd ge;qg
 毕业了	bi;bu ye;aa le;aa
@@ -66701,7 +66701,7 @@ use_preset_vocabulary: false
 白天黑夜	bl;pa tm;ad hz;ha ye;wd
 白如雪的公主啊	bl;pa ru;nk xt;yx de;bu gs;sb vu;dw aa;ka
 白姬	bl;pa ji;ni
-白姬彼方	bl;pa ji;ni bi;xp fh;wd
+白姬彼方	bl;pa ji;ni bi;xp fh;dg
 白娘子	bl;pa nd;nl zi;aa
 白娅	bl;pa ya;ny
 白娅杜罗德赫尔梅尼姆	bl;pa ya;ny du;mt lo;sx de;xx he;ii er;dx mz;mm ni;ub mu;nm
@@ -67564,7 +67564,7 @@ use_preset_vocabulary: false
 皇家宰相佐尔洛克	hd;bw jw;bu zl;bx xd;mo zo;rz er;dx lo;dg ke;eg
 皇家幸运号	hd;bw jw;bu xy;tu yp;zy hk;kk
 皇家战斗	hd;bw jw;bu vj;gv db;du
-皇家方舟	hd;bw jw;bu fh;wd vb;pd
+皇家方舟	hd;bw jw;bu fh;dg vb;pd
 皇家荣耀	hd;bw jw;bu rs;cm yk;gd
 皇家橡树	hd;bw jw;bu xd;mx uu;md
 皇家版	hd;bw jw;bu bj;pf
@@ -67791,7 +67791,7 @@ use_preset_vocabulary: false
 盗贼的烟玉	dk;mc zz;br de;bu yj;hy yu;wd
 盗跖	dk;mc vi;zu
 盗链	dk;mc lm;jl
-盟约的彼方	mg;mm yt;su de;bu bi;xp fh;wd
+盟约的彼方	mg;mm yt;su de;bu bi;xp fh;dg
 盟约者	mg;mm yt;su ve;ol
 盟军	mg;mm jp;bi
 盟军兵营	mg;mm jp;bi by;qb yy;cl
@@ -68011,7 +68011,7 @@ use_preset_vocabulary: false
 直到能再次歌唱之前都要呼喊着你	vi;uq dk;dv ng;sb zl;aa ci;dq ge;qg ih;ki vi;dd qm;qd db;ev yk;xn hu;kh hj;kx ve;yo ni;re
 直到与你成为家人	vi;uq dk;dv yu;aa ni;re ig;gg wz;dd jw;bu rf;pd
 直到与约定永远做朋友的女性朋友不再是朋友	vi;uq dk;dv yu;aa yt;su dy;bp ys;dd yr;zy zo;rg pg;oo yb;yu de;bu nv;aa xy;xu pg;oo yb;yu bu;ad zl;aa ui;op pg;oo yb;yu
-直到那由他的远方	vi;uq dk;dv na;el yb;aa ta;ry de;bu yr;zy fh;wd
+直到那由他的远方	vi;uq dk;dv na;el yb;aa ta;ry de;bu yr;zy fh;dg
 直到银河系宇宙的尽头	vi;uq dk;dv yn;jg he;dk xi;ps yu;by vb;by de;bu jn;id tb;dd
 直升机	vi;uq ug;pc ji;mj
 直呼内行	vi;uq hu;kh nz;ad hh;xi
@@ -68737,7 +68737,7 @@ use_preset_vocabulary: false
 瞬间心动	up;ou jm;mo xn;dd ds;ly
 瞬间心跳	up;ou jm;mo xn;dd tc;zv
 瞬间戏剧性	up;ou jm;mo xi;yg ju;dj xy;xu
-瞬间明白界隈曲制作方法的视频	up;ou jm;mo my;oo bl;pa jx;tj wz;ew qu;aa vi;dg zo;rv fh;wd fa;dq de;bu ui;ju pn;yb
+瞬间明白界隈曲制作方法的视频	up;ou jm;mo my;oo bl;pa jx;tj wz;ew qu;aa vi;dg zo;rv fh;dg fa;dq de;bu ui;ju pn;yb
 瞬间爆炸	up;ou jm;mo bk;hb va;hv
 瞬间的永恒	up;ou jm;mo de;bu ys;dd hg;xg
 瞬间的闪耀	up;ou jm;mo de;bu uj;mr yk;gd
@@ -69638,7 +69638,7 @@ use_preset_vocabulary: false
 祈祷之国的莉莉艾尔	qi;uj dk;uu vi;dd go;ky de;bu li;cl li;cl ai;ci er;dx
 祈祷之歌	qi;uj dk;uu vi;dd ge;qg
 祈祷师	qi;uj dk;uu ui;ab
-祈祷的彼方	qi;uj dk;uu de;bu bi;xp fh;wd
+祈祷的彼方	qi;uj dk;uu de;bu bi;xp fh;dg
 祈祷的笔记	qi;uj dk;uu de;bu bi;vm ji;yj
 祈祷的花火诗	qi;uj dk;uu de;bu hw;ch ho;dd ui;ys
 祈祷的双翼	qi;uj dk;uu de;bu ud;yy yi;yg
@@ -70537,8 +70537,8 @@ use_preset_vocabulary: false
 禁忌西部	jn;ul ji;xj xi;aa bu;ek
 禁断恋爱	jn;ul dr;ja lm;xy ai;vy
 禁断水晶	jn;ul dr;ja uv;ad jy;oo
-禁断的偏方三八面体	jn;ul dr;ja de;bu pm;rb fh;wd sj;aa ba;pd mm;aa ti;rb
-禁断的偏方面体	jn;ul dr;ja de;bu pm;rb fh;wd mm;aa ti;rb
+禁断的偏方三八面体	jn;ul dr;ja de;bu pm;rb fh;dg sj;aa ba;pd mm;aa ti;rb
+禁断的偏方面体	jn;ul dr;ja de;bu pm;rb fh;dg mm;aa ti;rb
 禁断的果体乐园	jn;ul dr;ja de;bu go;tm ti;rb le;pd yr;ky
 禁断的异本	jn;ul dr;ja de;bu yi;cs bf;aa
 禁断的裸体乐园	jn;ul dr;ja de;bu lo;yg ti;rb le;pd yr;ky
@@ -70975,7 +70975,7 @@ use_preset_vocabulary: false
 科加斯	ke;hd jw;lk si;jq
 科塔尔汗	ke;hd ta;td er;dx hj;dg
 科塞特斯	ke;hd sl;tb te;ns si;jq
-科学一方通行	ke;hd xt;zb yi;aa fh;wd ts;zy xy;xi
+科学一方通行	ke;hd xt;zb yi;aa fh;dg ts;zy xy;xi
 科学冒险	ke;hd xt;zb mk;oo xm;ea
 科学家	ke;hd xt;zb jw;bu
 科学家类魂器	ke;hd xt;zb jw;bu lz;md hp;gy qi;kk
@@ -70989,7 +70989,7 @@ use_preset_vocabulary: false
 科学特搜队	ke;hd xt;zb te;ns sb;fs dv;er
 科学狂人	ke;hd xt;zb kd;qw rf;pd
 科学猴	ke;hd xt;zb hb;qh
-科学的一方通行	ke;hd xt;zb de;bu yi;aa fh;wd ts;zy xy;xi
+科学的一方通行	ke;hd xt;zb de;bu yi;aa fh;dg ts;zy xy;xi
 科学的超电磁炮	ke;hd xt;zb de;bu ik;zv dm;ag ci;uz pk;hb
 科学警备队	ke;hd xt;zb jy;yj bz;wt dv;er
 科学超乐曲集	ke;hd xt;zb ik;zv yt;pd qu;aa ji;vm
@@ -71027,7 +71027,7 @@ use_preset_vocabulary: false
 科斯米娅	ke;hd si;jq mi;dd ya;ny
 科斯莫古	ke;hd si;jq mo;cd gu;uk
 科斯魔	ke;hd si;jq mo;gm
-科方	ke;hd fh;wd
+科方	ke;hd fh;dg
 科曼	ke;hd mj;oy
 科林伊利亚特	ke;hd ln;mm yi;ry li;hd ya;ay te;ns
 科林麦克雷拉力赛	ke;hd ln;mm ml;fw ke;eg lz;yt la;fl li;gp sl;bb
@@ -71549,7 +71549,7 @@ use_preset_vocabulary: false
 空洞世界的前奏曲	ks;xg ds;dt ui;ca jx;tj de;bu qm;qd zb;tf qu;aa
 空洞怪物	ks;xg ds;dt gy;xu wu;nw
 空洞骑士	ks;xg ds;dt qi;mq ui;aa
-空深彼方	ks;xg uf;dm bi;xp fh;wd
+空深彼方	ks;xg uf;dm bi;xp fh;dg
 空无一物创作者	ks;xg wu;ag yi;aa wu;nw id;dc zo;rv ve;ol
 空无的念	ks;xg wu;ag de;bu nm;xj
 空爆	ks;xg bk;hb
@@ -71660,7 +71660,7 @@ use_preset_vocabulary: false
 穿衣显瘦	ir;xy yi;dd xm;oy ub;bs
 穿越	ir;xy yt;zy
 穿越宇宙的少女	ir;xy yt;zy yu;by vb;by de;bu uk;xp nv;aa
-穿越彼方的水线	ir;xy yt;zy bi;xp fh;wd de;bu uv;ad xm;sj
+穿越彼方的水线	ir;xy yt;zy bi;xp fh;dg de;bu uv;ad xm;sj
 穿越文	ir;xy yt;zy wf;wi
 穿越时空的少女	ir;xy yt;zy ui;oc ks;xg de;bu uk;xp nv;aa
 穿越暴风雨	ir;xy yt;zy bk;ou fg;ji yu;ad
@@ -71759,7 +71759,7 @@ use_preset_vocabulary: false
 穷鼠的进击	qs;xl uu;ju de;bu jn;zj ji;fk
 灶神	zk;ht uf;uu
 灶门六太	zk;ht mf;dg lq;wb tl;dd
-灶门彼方	zk;ht mf;dg bi;xp fh;wd
+灶门彼方	zk;ht mf;dg bi;xp fh;dg
 灶门炭十郎	zk;ht mf;dg tj;uh ui;aa lh;el
 灶门炭彦	zk;ht mf;dg tj;uh yj;ip
 灶门炭治郎	zk;ht mf;dg tj;uh vi;dt lh;el
@@ -72225,7 +72225,7 @@ use_preset_vocabulary: false
 第三新东京市	di;vp sj;aa xn;jq ds;ad jy;wx ui;wj
 第三新东京市第一中学	di;vp sj;aa xn;jq ds;ad jy;wx ui;wj di;vp yi;aa vs;aa xt;zb
 第三新东京市第一中学校	di;vp sj;aa xn;jq ds;ad jy;wx ui;wj di;vp yi;aa vs;aa xt;zb xc;mj
-第三方势力	di;vp sj;aa fh;wd ui;lv li;gp
+第三方势力	di;vp sj;aa fh;dg ui;lv li;gp
 第三期	di;vp sj;aa qi;oq
 第三次世界大战	di;vp sj;aa ci;dq ui;ca jx;tj da;ad vj;gv
 第三次失眠	di;vp sj;aa ci;dq ui;pf mm;om
@@ -72378,7 +72378,7 @@ use_preset_vocabulary: false
 第十期	di;vp ui;aa qi;oq
 第十章	di;vp ui;aa vh;lz
 第十赛季	di;vp ui;aa sl;bb ji;hz
-第四代东方宪助	di;vp si;aa dl;ry ds;ad fh;wd xm;bx vu;lq
+第四代东方宪助	di;vp si;aa dl;ry ds;ad fh;dg xm;bx vu;lq
 第四天灾	di;vp si;aa tm;ad zl;bh
 第四天灾流	di;vp si;aa tm;ad zl;bh lq;di
 第四届创天综合同人祭	di;vp si;aa jx;uy id;dc tm;ad zs;sz he;rk ts;kk rf;pd ji;uy
@@ -73029,7 +73029,7 @@ use_preset_vocabulary: false
 粟田口	su;mx tm;aa kb;aa
 粢爱丽丝	zi;mc ai;vy li;ad si;aa
 粢饭	zi;mc fj;uf
-粤方言	yt;pk fh;wd yj;wk
+粤方言	yt;pk fh;dg yj;wk
 粤语	yt;pk yu;yw
 精分	jy;mq ff;bd
 精子	jy;mq zi;aa
@@ -73269,7 +73269,7 @@ use_preset_vocabulary: false
 约定的梦幻岛	yt;su dy;bp de;bu mg;mx hr;yg dk;nu
 约定的梦想	yt;su dy;bp de;bu mg;mx xd;xx
 约定的天空	yt;su dy;bp de;bu tm;ad ks;xg
-约定的彼方	yt;su dy;bp de;bu bi;xp fh;wd
+约定的彼方	yt;su dy;bp de;bu bi;xp fh;dg
 约定的羁绊	yt;su dy;bp de;bu ji;sm bj;sb
 约定的话语	yt;su dy;bp de;bu hw;yu yu;yw
 约定的踏青之旅	yt;su dy;bp de;bu ta;zt qy;of vi;dd lv;fp
@@ -73684,7 +73684,7 @@ use_preset_vocabulary: false
 纳木维基	na;sn mu;ad wz;sv ji;tq
 纳村不道	na;sn cp;mc bu;ad dk;zu
 纳森	na;sn sf;ml
-纳比斯汀的方舟	na;sn bi;bb si;jq ty;dd de;bu fh;wd vb;pd
+纳比斯汀的方舟	na;sn bi;bb si;jq ty;dd de;bu fh;dg vb;pd
 纳沙幸子	na;sn ua;du xy;tu zi;aa
 纳凉型妮妙	na;sn ld;dj xy;tx ni;nn mc;nu
 纳凉型歌姬亚瑟	na;sn ld;dj xy;tx ge;qg ji;ni ya;ay se;wb
@@ -75321,16 +75321,16 @@ use_preset_vocabulary: false
 绪川堇子	xu;sv ir;pa jn;ca zi;aa
 绪川慎次	xu;sv ir;pa uf;xv ci;dq
 绪弥之花	xu;sv mi;ge vi;dd hw;ch
-绪方佑奈	xu;sv fh;wd yb;ry nl;du
-绪方修	xu;sv fh;wd xq;rp
-绪方惠美	xu;sv fh;wd hv;xh mz;dy
-绪方智绘里	xu;sv fh;wd vi;ov hv;sh li;aa
-绪方理奈	xu;sv fh;wd li;wl nl;du
-绪方理珠	xu;sv fh;wd li;wl vu;wv
-绪方环奈	xu;sv fh;wd hr;wb nl;du
-绪方稔二	xu;sv fh;wd rf;hn er;aa
-绪方贤一	xu;sv fh;wd xm;by yi;aa
-绪方黛	xu;sv fh;wd dl;hd
+绪方佑奈	xu;sv fh;dg yb;ry nl;du
+绪方修	xu;sv fh;dg xq;rp
+绪方惠美	xu;sv fh;dg hv;xh mz;dy
+绪方智绘里	xu;sv fh;dg vi;ov hv;sh li;aa
+绪方理奈	xu;sv fh;dg li;wl nl;du
+绪方理珠	xu;sv fh;dg li;wl vu;wv
+绪方环奈	xu;sv fh;dg hr;wb nl;du
+绪方稔二	xu;sv fh;dg rf;hn er;aa
+绪方贤一	xu;sv fh;dg xm;by yi;aa
+绪方黛	xu;sv fh;dg dl;hd
 绪言	xu;sv yj;wk
 缄默	jm;sx mo;hq
 缄默德克萨斯	jm;sx mo;hq de;xx ke;eg sa;ci si;jq
@@ -75931,7 +75931,7 @@ use_preset_vocabulary: false
 罗百江	lo;sx bl;ab jd;dg
 罗盛	lo;sx ug;mi
 罗盘娘	lo;sx pj;mv nd;nl
-罗盘的彼方	lo;sx pj;mv de;bu bi;xp fh;wd
+罗盘的彼方	lo;sx pj;mv de;bu bi;xp fh;dg
 罗真	lo;sx vf;uj
 罗砂	lo;sx ua;uu
 罗穆路斯	lo;sx mu;hp lu;zg si;jq
@@ -76132,7 +76132,7 @@ use_preset_vocabulary: false
 美味的妖怪	mz;dy wz;kw de;bu yk;ny gy;xu
 美味的布丁	mz;dy wz;kw de;bu bu;ju dy;aa
 美味的约会	mz;dy wz;kw de;bu yt;su hv;ry
-美味面包的制作方法	mz;dy wz;kw mm;aa bk;gs de;bu vi;dg zo;rv fh;wd fa;dq
+美味面包的制作方法	mz;dy wz;kw mm;aa bk;gs de;bu vi;dg zo;rv fh;dg fa;dq
 美和	mz;dy he;hk
 美和玛丽	mz;dy he;hk ma;wm li;ad
 美咲	mz;dy xc;kg
@@ -76421,7 +76421,7 @@ use_preset_vocabulary: false
 美丽的四季	mz;dy li;ad de;bu si;aa ji;hz
 美丽的夜莺	mz;dy li;ad de;bu ye;wd yy;cn
 美丽的大地	mz;dy li;ad de;bu da;ad di;ty
-美丽的天使在远方召唤你	mz;dy li;ad de;bu tm;ad ui;rl zl;ut yr;zy fh;wd vk;kd hr;kh ni;re
+美丽的天使在远方召唤你	mz;dy li;ad de;bu tm;ad ui;rl zl;ut yr;zy fh;dg vk;kd hr;kh ni;re
 美丽的悲剧	mz;dy li;ad de;bu bz;xf ju;dj
 美丽的果实	mz;dy li;ad de;bu go;tm ui;bt
 美丽的流星	mz;dy li;ad de;bu lq;di xy;ou
@@ -76570,7 +76570,7 @@ use_preset_vocabulary: false
 羽扇豆	yu;xx uj;hy db;aa
 羽斯缇萨	yu;xx si;jq ti;su sa;ci
 羽斯缇萨里姿莱希冯爱因兹贝伦	yu;xx si;jq ti;su sa;ci li;aa zi;nc ll;cl xi;ib fg;dm ai;vy yn;kd zi;qy bz;ad lp;rl
-羽方由佳	yu;xx fh;wd yb;aa jw;rg
+羽方由佳	yu;xx fh;dg yb;aa jw;rg
 羽日	yu;xx ri;aa
 羽月莉音的帝国	yu;xx yt;pa li;cl yn;lo de;bu di;jb go;ky
 羽村京平	yu;xx cp;mc jy;wx py;aa
@@ -76828,7 +76828,7 @@ use_preset_vocabulary: false
 老山龙	lk;lb uj;aa ls;ad
 老崔	lk;lb cv;uv
 老师	lk;lb ui;ab
-老师温柔的杀人方法	lk;lb ui;ab wf;dm rb;mm de;bu ua;mi rf;pd fh;wd fa;dq
+老师温柔的杀人方法	lk;lb ui;ab wf;dm rb;mm de;bu ua;mi rf;pd fh;dg fa;dq
 老师老师	lk;lb ui;ab lk;lb ui;ab
 老师听我说	lk;lb ui;ab ty;kj wo;pd uo;yd
 老师与二宫同学	lk;lb ui;ab yu;aa er;aa gs;bl ts;kk xt;zb
@@ -77218,7 +77218,7 @@ use_preset_vocabulary: false
 圣诞红	ug;ty dj;yy hs;sg
 圣诞老人	ug;ty dj;yy lk;lb rf;pd
 圣诞老人来到小镇	ug;ty dj;yy lk;lb rf;pd ll;am dk;dv xc;ad vf;jv
-圣诞老人是何方人士	ug;ty dj;yy lk;lb rf;pd ui;op he;rk fh;wd rf;pd ui;aa
+圣诞老人是何方人士	ug;ty dj;yy lk;lb rf;pd ui;op he;rk fh;dg rf;pd ui;aa
 圣诞老人服	ug;ty dj;yy lk;lb rf;pd fu;oy
 圣诞老人等不到天亮	ug;ty dj;yy lk;lb rf;pd dg;vs bu;ad dk;dv tm;ad ld;wj
 圣诞老人进城来	ug;ty dj;yy lk;lb rf;pd jn;zj ig;ti ll;am
@@ -77809,7 +77809,7 @@ use_preset_vocabulary: false
 脱出	to;od iu;aa
 脱出之国的爱丽丝	to;od iu;aa vi;dd go;ky de;bu ai;vy li;ad si;aa
 脱出游戏	to;od iu;aa yb;dz xi;yg
-脱女孩子衣服的方法	to;od nv;aa hl;zh zi;aa yi;dd fu;oy de;bu fh;wd fa;dq
+脱女孩子衣服的方法	to;od nv;aa hl;zh zi;aa yi;dd fu;oy de;bu fh;dg fa;dq
 脱掉小裤裤	to;od dc;fv xc;ad ku;yk ku;yk
 脱狱	to;od yu;qq
 脱线	to;od xm;sj
@@ -78413,8 +78413,8 @@ use_preset_vocabulary: false
 与你再次相会之日	yu;aa ni;re zl;aa ci;dq xd;mo hv;ry vi;dd ri;aa
 与你失去的东西	yu;aa ni;re ui;pf qu;ts de;bu ds;ad xi;aa
 与你心相连	yu;aa ni;re xn;dd xd;mo lm;zi
-与你恋爱的恋爱方法	yu;aa ni;re lm;xy ai;vy de;bu lm;xy ai;vy fh;wd fa;dq
-与你恋爱与恋爱的方法	yu;aa ni;re lm;xy ai;vy yu;aa lm;xy ai;vy de;bu fh;wd fa;dq
+与你恋爱的恋爱方法	yu;aa ni;re lm;xy ai;vy de;bu lm;xy ai;vy fh;dg fa;dq
+与你恋爱与恋爱的方法	yu;aa ni;re lm;xy ai;vy yu;aa lm;xy ai;vy de;bu fh;dg fa;dq
 与你成诗	yu;aa ni;re ig;gg ui;ys
 与你所见之梦	yu;aa ni;re so;hj jm;ag vi;dd mg;mx
 与你收集幸福	yu;aa ni;re ub;wj ji;vm xy;tu fu;uf
@@ -78457,7 +78457,7 @@ use_preset_vocabulary: false
 与君愿	yu;aa jp;ky yr;xy
 与咖啡娘的午茶时光	yu;aa ka;kj fz;kf nd;nl de;bu wu;ru ia;cm ui;oc gd;ea
 与喜欢的人相似的后辈	yu;aa xi;uk hr;qy de;bu rf;pd xd;mo si;ry de;bu hb;pk bz;if
-与吃货恋爱的唯一方法	yu;aa ii;kq ho;bh lm;xy ai;vy de;bu wz;kv yi;aa fh;wd fa;dq
+与吃货恋爱的唯一方法	yu;aa ii;kq ho;bh lm;xy ai;vy de;bu wz;kv yi;aa fh;dg fa;dq
 与天同行的观测者	yu;aa tm;ad ts;kk hh;xi de;bu gr;jy ce;dz ve;ol
 与天色相连	yu;aa tm;ad se;db xd;mo lm;zi
 与奈落的契约	yu;aa nl;du lo;cl de;bu qi;dd yt;su
@@ -78717,7 +78717,7 @@ use_preset_vocabulary: false
 航空站	hh;vk ks;xg vj;lv
 航空鲨	hh;vk ks;xg ua;yu
 航船赞歌	hh;vk ir;vk zj;bx ge;qg
-航迹云的彼方	hh;vk ji;zy yp;es de;bu bi;xp fh;wd
+航迹云的彼方	hh;vk ji;zy yp;es de;bu bi;xp fh;dg
 航速	hh;vk su;zu
 舶来的日之法师	bo;vb ll;am de;bu ri;aa vi;dd fa;dq ui;ab
 船久保浩子	ir;vk jq;pd bk;rd hk;dg zi;aa
@@ -78750,7 +78750,7 @@ use_preset_vocabulary: false
 舰娘一览	jm;vj nd;nl yi;aa lj;jv
 舰娘世界	jm;vj nd;nl ui;ca jx;tj
 舰娘乃歌	jm;vj nd;nl nl;pg ge;qg
-舰娘入手方式一览	jm;vj nd;nl ru;pd ub;pa fh;wd ui;gy yi;aa lj;jv
+舰娘入手方式一览	jm;vj nd;nl ru;pd ub;pa fh;dg ui;gy yi;aa lj;jv
 舰娘出击	jm;vj nd;nl iu;aa ji;fk
 舰娘国服	jm;vj nd;nl go;ky fu;oy
 舰娘在公寓里上任了不是吗	jm;vj nd;nl zl;ut gs;sb yu;by li;aa uh;aa rf;rr le;aa bu;ad ui;op ma;km
@@ -79018,7 +79018,7 @@ use_preset_vocabulary: false
 艾尔夏尔雷顿	ai;ci er;dx xw;wz er;dx lz;yt dp;yt
 艾尔女神	ai;ci er;dx nv;aa uf;uu
 艾尔希	ai;ci er;dx xi;ib
-艾尔平方	ai;ci er;dx py;aa fh;wd
+艾尔平方	ai;ci er;dx py;aa fh;dg
 艾尔库	ai;ci er;dx ku;gi
 艾尔弗	ai;ci er;dx fu;aa
 艾尔德利奇	ai;ci er;dx de;xx li;hd qi;dk
@@ -80586,7 +80586,7 @@ use_preset_vocabulary: false
 草帽	ck;cz mk;jm
 草帽一伙	ck;cz mk;jm yi;aa ho;rh
 草帽海贼团	ck;cz mk;jm hl;dm zz;br tr;kc
-草方块娘	ck;cz fh;wd ky;td nd;nl
+草方块娘	ck;cz fh;dg ky;td nd;nl
 草木皆兵	ck;cz mu;ad jx;bb by;qb
 草木语	ck;cz mu;ad yu;yw
 草榴	ck;cz lq;ml
@@ -81441,7 +81441,7 @@ use_preset_vocabulary: false
 华容道	hw;uh rs;bg dk;zu
 华小科	hw;uh xc;ad ke;hd
 华强劈瓜	hw;uh qd;gs pi;db gw;pd
-华强方特	hw;uh qd;gs fh;wd te;ns
+华强方特	hw;uh qd;gs fh;dg te;ns
 华强买瓜	hw;uh qd;gs ml;at gw;pd
 华彩	hw;uh cl;pc
 华彩月	hw;uh cl;pc yt;pa
@@ -81818,12 +81818,12 @@ use_preset_vocabulary: false
 萌拟人化	mg;cm ni;fy rf;pd hw;rb
 萌文化	mg;cm wf;wi hw;rb
 萌新	mg;cm xn;jq
-萌新二次方	mg;cm xn;jq er;aa ci;dq fh;wd
+萌新二次方	mg;cm xn;jq er;aa ci;dq fh;dg
 萌新基本法	mg;cm xn;jq ji;tq bf;aa fa;dq
 萌旅游	mg;cm lv;fp yb;dz
 萌日	mg;cm ri;aa
 萌日本史	mg;cm ri;aa bf;aa ui;ki
-萌东方游戏制作组	mg;cm ds;ad fh;wd yb;dz xi;yg vi;dg zo;rv zu;sq
+萌东方游戏制作组	mg;cm ds;ad fh;dg yb;dz xi;yg vi;dg zo;rv zu;sq
 萌死	mg;cm si;db
 萌死他卡多	mg;cm si;db ta;ry ka;ub do;xx
 萌死戳	mg;cm si;db io;gd
@@ -82566,8 +82566,8 @@ use_preset_vocabulary: false
 苍乃美希	ch;cc nl;pg mz;dy xi;ib
 苍乃辉	ch;cc nl;pg hv;gj
 苍乃云德拉歌莱茵	ch;cc nl;pg yp;es de;xx la;fl ge;qg ll;cl yn;cy
-苍之彼方	ch;cc vi;dd bi;xp fh;wd
-苍之彼方的四重奏	ch;cc vi;dd bi;xp fh;wd de;bu si;aa is;pa zb;tf
+苍之彼方	ch;cc vi;dd bi;xp fh;dg
+苍之彼方的四重奏	ch;cc vi;dd bi;xp fh;dg de;bu si;aa is;pa zb;tf
 苍之曜	ch;cc vi;dd yk;od
 苍之泪	ch;cc vi;dd lz;do
 苍之涛	ch;cc vi;dd tk;du
@@ -82663,7 +82663,7 @@ use_preset_vocabulary: false
 苍蓝反像	ch;cc lj;cj fj;py xd;rx
 苍蓝咆哮	ch;cc lj;cj pk;kb xc;kx
 苍蓝所栖	ch;cc lj;cj so;hj qi;mx
-苍蓝东方摇篮曲	ch;cc lj;cj ds;ad fh;wd yk;ff lj;vj qu;aa
+苍蓝东方摇篮曲	ch;cc lj;cj ds;ad fh;dg yk;ff lj;vj qu;aa
 苍蓝残响	ch;cc lj;cj cj;dj xd;kx
 苍蓝清净之歌	ch;cc lj;cj qy;dq jy;dv vi;dd ge;qg
 苍蓝冲动	ch;cc lj;cj is;dv ds;ly
@@ -82930,7 +82930,7 @@ use_preset_vocabulary: false
 萧薰儿	xc;cs xp;cx er;pg
 萧迪	xc;cs di;zy
 萧逸	xc;cs yi;zt
-萧隆库方	xc;cs ls;eu ku;gi fh;wd
+萧隆库方	xc;cs ls;eu ku;gi fh;dg
 萧云	xc;cs yp;es
 萧默歌	xc;cs mo;hq ge;qg
 蕾伊	lz;cl yi;ry
@@ -83385,7 +83385,7 @@ use_preset_vocabulary: false
 蓝天汽水	lj;cj tm;ad qi;dq uv;ad
 蓝天牵牛花	lj;cj tm;ad qm;nb nq;pa hw;ch
 蓝天的加缪	lj;cj tm;ad de;bu jw;lk mb;sl
-蓝天的制作方法	lj;cj tm;ad de;bu vi;dg zo;rv fh;wd fa;dq
+蓝天的制作方法	lj;cj tm;ad de;bu vi;dg zo;rv fh;dg fa;dq
 蓝天错觉症	lj;cj tm;ad co;jx jt;jb vg;bv
 蓝天飞行队物语	lj;cj tm;ad fz;yd xy;xi dv;er wu;nw yu;yw
 蓝婷	lj;cj ty;nt
@@ -83475,7 +83475,7 @@ use_preset_vocabulary: false
 蓝色天使队	lj;cj se;db tm;ad ui;rl dv;er
 蓝色学者与戏言跟班	lj;cj se;db xt;zb ve;ol yu;aa xi;yg yj;wk gf;zg bj;dw
 蓝色少年路	lj;cj se;db uk;xp nm;ra lu;zg
-蓝色平方	lj;cj se;db py;aa fh;wd
+蓝色平方	lj;cj se;db py;aa fh;dg
 蓝色恐惧	lj;cj se;db ks;xg ju;xj
 蓝色星原	lj;cj se;db xy;ou yr;ix
 蓝色星原旅谣	lj;cj se;db xy;ou yr;ix lv;fp yk;yf
@@ -84478,7 +84478,7 @@ use_preset_vocabulary: false
 虹之旋律	hs;ig vi;dd xr;fp lv;xy
 虹之桥梁	hs;ig vi;dd qc;mq ld;md
 虹之生命	hs;ig vi;dd ug;na my;re
-虹之行方	hs;ig vi;dd xy;xi fh;wd
+虹之行方	hs;ig vi;dd xy;xi fh;dg
 虹之衣	hs;ig vi;dd yi;dd
 虹之间	hs;ig vi;dd jm;mo
 虹之音	hs;ig vi;dd yn;lo
@@ -85830,8 +85830,8 @@ use_preset_vocabulary: false
 制作组通讯	vi;dg zo;rv zu;sq ts;zy xp;yu
 制冷女孩	vi;dg lg;dl nv;aa hl;zh
 制冷开始	vi;dg lg;dl kl;ac ui;nt
-制造婴孩的方法	vi;dg zk;zg yy;nb hl;zh de;bu fh;wd fa;dq
-制造小孩的正确方法	vi;dg zk;zg xc;ad hl;zh de;bu vg;av qt;uj fh;wd fa;dq
+制造婴孩的方法	vi;dg zk;zg yy;nb hl;zh de;bu fh;dg fa;dq
+制造小孩的正确方法	vi;dg zk;zg xc;ad hl;zh de;bu vg;av qt;uj fh;dg fa;dq
 复印者	fu;wo yn;ey ve;ol
 复写游戏	fu;wo xx;by yb;dz xi;yg
 复制中心	fu;wo vi;dg vs;aa xn;dd
@@ -85851,7 +85851,7 @@ use_preset_vocabulary: false
 褐果	he;yh go;tm
 褐发	he;yh fa;ay
 褐瞳	he;yh ts;ot
-褐色的彼方	he;yh se;db de;bu bi;xp fh;wd
+褐色的彼方	he;yh se;db de;bu bi;xp fh;dg
 褐色皮肤	he;yh se;db pi;ad fu;of
 褐色肌	he;yh se;db ji;oj
 褐色肌肤	he;yh se;db ji;oj fu;of
@@ -86014,13 +86014,13 @@ use_preset_vocabulary: false
 西拦花	xi;aa lj;fl hw;ch
 西斯	xi;aa si;jq
 西斯狄娜艾尔	xi;aa si;jq di;qh na;nn ai;ci er;dx
-西方五月雨	xi;aa fh;wd wu;aa yt;pa yu;ad
-西方再打通	xi;aa fh;wd zl;aa da;fd ts;zy
-西方幡紫龙	xi;aa fh;wd fj;jf zi;sc ls;ad
-西方海域	xi;aa fh;wd hl;dm yu;th
-西方秋霜玉	xi;aa fh;wd qq;hh ud;yx yu;wd
-西方稀翁玉	xi;aa fh;wd xi;hx wg;yg yu;wd
-西方苦瓜	xi;aa fh;wd ku;cg gw;pd
+西方五月雨	xi;aa fh;dg wu;aa yt;pa yu;ad
+西方再打通	xi;aa fh;dg zl;aa da;fd ts;zy
+西方幡紫龙	xi;aa fh;dg fj;jf zi;sc ls;ad
+西方海域	xi;aa fh;dg hl;dm yu;th
+西方秋霜玉	xi;aa fh;dg qq;hh ud;yx yu;wd
+西方稀翁玉	xi;aa fh;dg xi;hx wg;yg yu;wd
+西方苦瓜	xi;aa fh;dg ku;cg gw;pd
 西施	xi;aa ui;fy
 西施惠	xi;aa ui;fy hv;xh
 西日暮里	xi;aa ri;aa mu;om li;aa
@@ -86312,7 +86312,7 @@ use_preset_vocabulary: false
 规则怪谈	gv;fj ze;bd gy;xu tj;yy
 规则书	gv;fj ze;bd uu;ad
 规则系统集合	gv;fj ze;bd xi;ps ts;si ji;vm he;rk
-规则变体与地方规则	gv;fj ze;bd bm;wy ti;rb yu;aa di;ty fh;wd gv;fj ze;bd
+规则变体与地方规则	gv;fj ze;bd bm;wy ti;rb yu;aa di;ty fh;dg gv;fj ze;bd
 规则类怪谈	gv;fj ze;bd lz;md gy;xu tj;yy
 觅光	mi;jv gd;ea
 觅得宝物之日	mi;jv de;xc bk;by wu;nw vi;dd ri;aa
@@ -86459,7 +86459,7 @@ use_preset_vocabulary: false
 角元明日香	jc;dy yr;aw my;oo ri;aa xd;ho
 角卷棉芽	jc;dy jr;ef mm;mb ya;cy
 角卷绵芽	jc;dy jr;ef mm;sb ya;cy
-角圆方叉	jc;dy yr;ky fh;wd ia;yd
+角圆方叉	jc;dy yr;ky fh;dg ia;yd
 角姐	jc;dy jx;nq
 角宿一	jc;dy su;bb yi;aa
 角居裕也	jc;dy ju;ug yu;yg ye;gg
@@ -86599,7 +86599,7 @@ use_preset_vocabulary: false
 言灵编织的未来	yj;wk ly;hx bm;sb vi;sv de;bu wz;ex ll;am
 订婚是必然	dy;yd hp;nh ui;op bi;dd rj;hq
 讣告人	fu;yb gk;kn rf;pd
-计分方式	ji;yu ff;bd fh;wd ui;gy
+计分方式	ji;yu ff;bd fh;dg ui;gy
 计分规则	ji;yu ff;bd gv;fj ze;bd
 计划的一部分	ji;yu hw;dg de;bu yi;aa bu;ek ff;bd
 计划通	ji;yu hw;dg ts;zy
@@ -86712,7 +86712,7 @@ use_preset_vocabulary: false
 记忆抹消	ji;yj yi;xy mo;fm xc;dx
 记忆消除	ji;yj yi;xy xc;dx iu;ey
 记忆的怪物	ji;yj yi;xy de;bu gy;xu wu;nw
-记忆的方舟	ji;yj yi;xy de;bu fh;wd vb;pd
+记忆的方舟	ji;yj yi;xy de;bu fh;dg vb;pd
 记忆的水槽	ji;yj yi;xy de;bu uv;ad ck;mc
 记忆的碎片	ji;yj yi;xy de;bu sv;uz pm;pa
 记忆的神子	ji;yj yi;xy de;bu uf;uu zi;aa
@@ -86886,7 +86886,7 @@ use_preset_vocabulary: false
 诗织雾人	ui;ys vi;sv wu;yw rf;pd
 诗与命运之歌	ui;ys yu;aa my;re yp;zy vi;dd ge;qg
 诗与梦	ui;ys yu;aa mg;mx
-诗与没有他的远方	ui;ys yu;aa mz;du yb;ou ta;ry de;bu yr;zy fh;wd
+诗与没有他的远方	ui;ys yu;aa mz;du yb;ou ta;ry de;bu yr;zy fh;dg
 诗芙丽	ui;ys fu;cf li;ad
 诗花	ui;ys hw;ch
 诗诗	ui;ys ui;ys
@@ -87023,7 +87023,7 @@ use_preset_vocabulary: false
 语体教	yu;yw ti;rb jc;wx
 诚二	ig;yi er;aa
 诚哥	ig;yi ge;kd
-诚哥战斗过的地方	ig;yi ge;kd vj;gv db;du go;zc de;bu di;ty fh;wd
+诚哥战斗过的地方	ig;yi ge;kd vj;gv db;du go;zc de;bu di;ty fh;dg
 诚哥死得早	ig;yi ge;kd si;db de;xc zk;ou
 诚哥死的早	ig;yi ge;kd si;db de;bu zk;ou
 诚妖您来怪异户籍科	ig;yi yk;ny nn;xn ll;am gy;xu yi;cs hu;dp ji;vx ke;hd
@@ -87074,7 +87074,7 @@ use_preset_vocabulary: false
 说谎的魔女与灰色的彩虹	uo;yd hd;yh de;bu mo;gm nv;aa yu;aa hv;hu se;db de;bu cl;pc hs;ig
 说谎者的笔记	uo;yd hd;yh ve;ol de;bu bi;vm ji;yj
 说鸡不说吧文明你我他	uo;yd ji;ny bu;ad uo;yd ba;kb wf;wi my;oo ni;re wo;pd ta;ry
-谁人的远方	uv;yv rf;pd de;bu yr;zy fh;wd
+谁人的远方	uv;yv rf;pd de;bu yr;zy fh;dg
 谁来	uv;yv ll;am
 谁家的鸡	uv;yv jw;bu de;bu ji;ny
 谁彼	uv;yv bi;xp
@@ -87203,7 +87203,7 @@ use_preset_vocabulary: false
 请毒死我	qy;yq du;fm si;db wo;pd
 请求	qy;yq qq;ad
 请注意星期三	qy;yq vu;dv yi;xy xy;ou qi;oq sj;aa
-请注意自己的身份和说话方式	qy;yq vu;dv yi;xy zi;pa ji;ag de;bu uf;pp ff;rf he;hk uo;yd hw;yu fh;wd ui;gy
+请注意自己的身份和说话方式	qy;yq vu;dv yi;xy zi;pa ji;ag de;bu uf;pp ff;rf he;hk uo;yd hw;yu fh;dg ui;gy
 请留在我身边	qy;yq lq;td zl;ut wo;pd uf;pp bm;zl
 请神上身	qy;yq uf;uu uh;aa uf;pp
 请等一下	qy;yq dg;vs yi;aa xw;ab
@@ -87298,7 +87298,7 @@ use_preset_vocabulary: false
 诺亚帆船	no;yr ya;ay fj;jf ir;vk
 诺亚幻想	no;yr ya;ay hr;yg xd;xx
 诺亚教派	no;yr ya;ay jc;wx pl;dp
-诺亚方舟	no;yr ya;ay fh;wd vb;pd
+诺亚方舟	no;yr ya;ay fh;dg vb;pd
 诺亚的瓶子	no;yr ya;ay de;bu py;wb zi;aa
 诺亚第三章列王新世纪篇	no;yr ya;ay di;vp sj;aa vh;lz lx;dd wh;aa xn;jq ui;ca ji;sj pm;vb
 诺伊库洛姆	no;yr yi;ry ku;gi lo;dg mu;nm
@@ -87766,7 +87766,7 @@ use_preset_vocabulary: false
 让偶像绽放	rh;yu ou;ry xd;rx vj;sd fh;wf
 让偶像绽放光芒	rh;yu ou;ry xd;rx vj;sd fh;wf gd;ea mh;cw
 让其响彻	rh;yu qi;ba xd;kx ie;xq
-让可爱而过度谨慎的大小姐绽放笑容的方法	rh;yu ke;dk ai;vy er;aa go;zc du;gy jn;yj uf;xv de;bu da;ad xc;ad jx;nq vj;sd fh;wf xc;vy rs;bg de;bu fh;wd fa;dq
+让可爱而过度谨慎的大小姐绽放笑容的方法	rh;yu ke;dk ai;vy er;aa go;zc du;gy jn;yj uf;xv de;bu da;ad xc;ad jx;nq vj;sd fh;wf xc;vy rs;bg de;bu fh;dg fa;dq
 让嚣张的雌小鬼明白	rh;yu xc;kk vh;gi de;bu ci;vc xc;ad gv;pd my;oo bl;pa
 让回忆静止	rh;yu hv;kk yi;xy jy;qv vi;aa
 让基尔希斯坦	rh;yu ji;tq er;dx xi;ib si;jq tj;td
@@ -87795,8 +87795,8 @@ use_preset_vocabulary: false
 让我听到爱的歌声吧	rh;yu wo;pd ty;kj dk;dv ai;vy de;bu ge;qg ug;um ba;kb
 让我听见爱的歌声	rh;yu wo;pd ty;kj jm;ag ai;vy de;bu ge;qg ug;um
 让我跪下	rh;yu wo;pd gv;zw xw;ab
-让乌鸦啼叫的方式	rh;yu wu;pa ya;ny ti;kd jc;kj de;bu fh;wd ui;gy
-让独角兽长大成人的方法	rh;yu du;qi jc;dy ub;ka vh;pd da;ad ig;gg rf;pd de;bu fh;wd fa;dq
+让乌鸦啼叫的方式	rh;yu wu;pa ya;ny ti;kd jc;kj de;bu fh;dg ui;gy
+让独角兽长大成人的方法	rh;yu du;qi jc;dy ub;ka vh;pd da;ad ig;gg rf;pd de;bu fh;dg fa;dq
 让笨蛋登上舞台吧	rh;yu bf;vb dj;ip dg;dd uh;aa wu;rf tl;sk ba;kb
 让叶	rh;yu ye;ku
 让这一分钟停留	rh;yu ve;zw yi;aa ff;bd vs;jv ty;rt lq;td
@@ -89377,7 +89377,7 @@ use_preset_vocabulary: false
 超棒的男朋友	ik;zv bh;mf de;bu nj;tl pg;oo yb;yu
 超机器人生命体变形金刚	ik;zv ji;mj qi;kk rf;pd ug;na my;re ti;rb bm;wy xy;pk jn;ra gh;dg
 超机怪虫对观突触虫	ik;zv ji;mj gy;xu is;ad dv;cy gr;jy tu;xq iu;ji is;ad
-超机怪虫方舟感质虫	ik;zv ji;mj gy;xu is;ad fh;wd vb;pd gj;xx vi;bu is;ad
+超机怪虫方舟感质虫	ik;zv ji;mj gy;xu is;ad fh;dg vb;pd gj;xx vi;bu is;ad
 超机怪虫圣言神经元虫	ik;zv ji;mj gy;xu is;ad ug;ty yj;wk uf;uu jy;sg yr;aw is;ad
 超次元大海战	ik;zv ci;dq yr;aw da;ad hl;dm vj;gv
 超次元学院	ik;zv ci;dq yr;aw xt;zb yr;ew
@@ -89639,7 +89639,7 @@ use_preset_vocabulary: false
 越南语版	yt;zy nj;ua yu;yw bj;pf
 越女剑	yt;zy nv;aa jm;da
 越峰	yt;zy fg;uf
-越彼方	yt;zy bi;xp fh;wd
+越彼方	yt;zy bi;xp fh;dg
 越后屋浩介	yt;zy hb;pk wu;uv hk;dg jx;ra
 越后市子	yt;zy hb;pk ui;wj zi;aa
 越后莉拉	yt;zy hb;pk li;cl la;fl
@@ -89707,7 +89707,7 @@ use_preset_vocabulary: false
 赵怀真	vk;zi hy;xb vf;uj
 赵成晨	vk;zi ig;gg if;oi
 赵敏	vk;zi mn;wm
-赵方旭	vk;zi fh;wd xu;oj
+赵方旭	vk;zi fh;dg xu;oj
 赵日天	vk;zi ri;aa tm;ad
 赵昂	vk;zi ah;oe
 赵有劲	vk;zi yb;ou jn;lg
@@ -89836,7 +89836,7 @@ use_preset_vocabulary: false
 路上小心	lu;zg uh;aa xc;ad xn;dd
 路人	lu;zg rf;pd
 路人女主	lu;zg rf;pd nv;aa vu;dw
-路人女主的养成方法	lu;zg rf;pd nv;aa vu;dw de;bu yh;ya ig;gg fh;wd fa;dq
+路人女主的养成方法	lu;zg rf;pd nv;aa vu;dw de;bu yh;ya ig;gg fh;dg fa;dq
 路人甲	lu;zg rf;pd jw;aa
 路人男主	lu;zg rf;pd nj;tl vu;dw
 路人的我在你房间里做的事班里没人知道	lu;zg rf;pd de;bu wo;pd zl;ut ni;re fh;hf jm;mo li;aa zo;rg de;bu ui;aa bj;dw li;aa mz;du rf;pd vi;ku dk;zu
@@ -90129,7 +90129,7 @@ use_preset_vocabulary: false
 军工厂	jp;bi gs;aa ih;ap
 军师	jp;bi ui;ab
 军师什么的不干啦	jp;bi ui;ab uf;ru me;ps de;bu bu;ad gj;aa la;kl
-军方	jp;bi fh;wd
+军方	jp;bi fh;dg
 军服	jp;bi fu;oy
 军服公主	jp;bi fu;oy gs;sb vu;dw
 军械薄荷	jp;bi xx;mj bo;cc he;ch
@@ -90479,7 +90479,7 @@ use_preset_vocabulary: false
 辛西娅玛格丽特	xn;lu xi;aa ya;ny ma;wm ge;mg li;ad te;ns
 辛评	xn;lu py;yp
 辛诺克	xn;lu no;yr ke;eg
-辛辣方程式	xn;lu la;xu fh;wd ig;hi ui;gy
+辛辣方程式	xn;lu la;xu fh;dg ig;hi ui;gy
 辛迪	xn;lu di;zy
 辛迪沐恩	xn;lu di;zy mu;dm en;xy
 辛达菲利普	xn;lu da;zd fz;cf li;hd pu;ob
@@ -90580,14 +90580,14 @@ use_preset_vocabulary: false
 近松孝丞	jn;zj ss;mg xc;zl ig;la
 近江八幡城	jn;zj jd;dg ba;pd fj;jf ig;ti
 近江小小路	jn;zj jd;dg xc;ad xc;ad lu;zg
-近江彼方	jn;zj jd;dg bi;xp fh;wd
+近江彼方	jn;zj jd;dg bi;xp fh;dg
 近江知永	jn;zj jd;dg vi;ku ys;dd
 近江联合	jn;zj jd;dg lm;eg he;rk
 近江遥	jn;zj jd;dg yk;zf
 近海小型舰艇	jn;zj hl;dm xc;ad xy;tx jm;vj ty;vt
 近海与内河舰艇	jn;zj hl;dm yu;aa nz;ad he;dk jm;vj ty;vt
 近界	jn;zj jx;tj
-近畿方言	jn;zj ji;tg fh;wd yj;wk
+近畿方言	jn;zj ji;tg fh;dg yj;wk
 近藤亚纱子	jn;zj tg;ct ya;ay ua;su zi;aa
 近藤佳奈子	jn;zj tg;ct jw;rg nl;du zi;aa
 近藤勋	jn;zj tg;ct xp;ly
@@ -90771,7 +90771,7 @@ use_preset_vocabulary: false
 回响	hv;kk xd;kx
 回响的爱之歌	hv;kk xd;kx de;bu ai;vy vi;dd ge;qg
 回响的话语	hv;kk xd;kx de;bu hw;yu yu;yw
-回响着爱之名的地方	hv;kk xd;kx ve;yo ai;vy vi;dd my;xk de;bu di;ty fh;wd
+回响着爱之名的地方	hv;kk xd;kx ve;yo ai;vy vi;dd my;xk de;bu di;ty fh;dg
 迷一瞬间	mi;zm yi;aa up;ou jm;mo
 迷之凸起	mi;zm vi;dd tu;aa qi;zj
 迷之突起	mi;zm vi;dd tu;xq qi;zj
@@ -90820,7 +90820,7 @@ use_preset_vocabulary: false
 迷失	mi;zm ui;pf
 迷失之牙	mi;zm ui;pf vi;dd ya;ap
 迷失勇者传	mi;zm ui;pf ys;ly ve;ol ir;rv
-迷失方向的小绿	mi;zm ui;pf fh;wd xd;pk de;bu xc;ad lv;sl
+迷失方向的小绿	mi;zm ui;pf fh;dg xd;pk de;bu xc;ad lv;sl
 迷失未来	mi;zm ui;pf wz;ex ll;am
 迷失乐园	mi;zm ui;pf le;pd yr;ky
 迷失的世界	mi;zm ui;pf de;bu ui;ca jx;tj
@@ -91041,7 +91041,7 @@ use_preset_vocabulary: false
 逃离心灵废墟	tk;zv li;ws xn;dd ly;hx fz;gf xu;tx
 逃离怨灵神社	tk;zv li;ws yr;xe ly;hx uf;uu ue;ut
 逃离恐怖岛	tk;zv li;ws ks;xg bu;xb dk;nu
-逃离方块	tk;zv li;ws fh;wd ky;td
+逃离方块	tk;zv li;ws fh;dg ky;td
 逃离昔日	tk;zv li;ws xi;co ri;aa
 逃离无聊	tk;zv li;ws wu;ag lc;em
 逃离虚拟世界	tk;zv li;ws xu;hy ni;fy ui;ca jx;tj
@@ -91292,7 +91292,7 @@ use_preset_vocabulary: false
 这是一道送命题	ve;zw ui;op yi;aa dk;zu ss;zg my;re ti;uy
 这是人干的事吗	ve;zw ui;op rf;pd gj;aa de;bu ui;aa ma;km
 这是什么	ve;zw ui;op uf;ru me;ps
-这是什么地方	ve;zw ui;op uf;ru me;ps di;ty fh;wd
+这是什么地方	ve;zw ui;op uf;ru me;ps di;ty fh;dg
 这是何等的失态	ve;zw ui;op he;rk dg;vs de;bu ui;pf tl;xt
 这是何等的灵压啊	ve;zw ui;op he;rk dg;vs de;bu ly;hx ya;id aa;ka
 这是便宜糖	ve;zw ui;op pm;rg yi;bq th;mt
@@ -91349,7 +91349,7 @@ use_preset_vocabulary: false
 这腿我能玩一年	ve;zw tv;ot wo;pd ng;sb wj;wy yi;aa nm;ra
 这里	ve;zw li;aa
 这里一个老实人	ve;zw li;aa yi;aa ge;ra lk;lb ui;bt rf;pd
-这里不是你该死去的地方	ve;zw li;aa bu;ad ui;op ni;re gl;yh si;db qu;ts de;bu di;ty fh;wd
+这里不是你该死去的地方	ve;zw li;aa bu;ad ui;op ni;re gl;yh si;db qu;ts de;bu di;ty fh;dg
 这里并不存在正义	ve;zw li;aa by;bk bu;ad cp;uz zl;ut vg;av yi;id
 这里喜欢	ve;zw li;aa xi;uk hr;qy
 这里好像有寿命论的气息啊	ve;zw li;aa hk;nz xd;rx yb;ou ub;cf my;re lp;yl de;bu qi;py xi;xz aa;ka
@@ -91400,7 +91400,7 @@ use_preset_vocabulary: false
 通往明天的门	ts;zy wh;xv my;oo tm;ad de;bu mf;dg
 通往星遗物的钥匙	ts;zy wh;xv xy;ou yi;zg wu;nw de;bu yk;jo ui;bu
 通往财宝的秘道	ts;zy wh;xv cl;bc bk;by de;bu mi;hb dk;zu
-通往开始的地方	ts;zy wh;xv kl;ac ui;nt de;bu di;ty fh;wd
+通往开始的地方	ts;zy wh;xv kl;ac ui;nt de;bu di;ty fh;dg
 通心粉铅笔	ts;zy xn;dd ff;mf qm;jk bi;vm
 通感纪元	ts;zy gj;xx ji;sj yr;aw
 通明灯火	ts;zy my;oo dg;hd ho;dd
@@ -91577,7 +91577,7 @@ use_preset_vocabulary: false
 连缀起星星	lm;zi vv;su qi;zj xy;ou xy;ou
 连绵的雨水	lm;zi mm;sb de;bu yu;ad uv;ad
 连线	lm;zi xm;sj
-连线方法	lm;zi xm;sj fh;wd fa;dq
+连线方法	lm;zi xm;sj fh;dg fa;dq
 连缘	lm;zi yr;st
 连缘咖啡	lm;zi yr;st ka;kj fz;kf
 连缘天影战记	lm;zi yr;st tm;ad yy;pj vj;gv ji;yj
@@ -91629,7 +91629,7 @@ use_preset_vocabulary: false
 周刊虚拟歌手中文排行榜	vb;kt kj;dg xu;hy ni;fy ge;qg ub;pa vs;aa wf;wi pl;ff hh;xi bh;mp
 周刊虚拟歌手中文曲排行榜	vb;kt kj;dg xu;hy ni;fy ge;qg ub;pa vs;aa wf;wi qu;aa pl;ff hh;xi bh;mp
 周年庆类魂器	vb;kt nm;ra qy;gd lz;md hp;gy qi;kk
-周日南方公园	vb;kt ri;aa nj;ua fh;wd gs;sb yr;ky
+周日南方公园	vb;kt ri;aa nj;ua fh;dg gs;sb yr;ky
 周日暂停	vb;kt ri;aa zj;ov ty;rt
 周日版报纸僵尸	vb;kt ri;aa bj;pf bk;fy vi;su jd;rj ui;ap
 周日特刊僵尸	vb;kt ri;aa te;ns kj;dg jd;rj ui;ap
@@ -91802,7 +91802,7 @@ use_preset_vocabulary: false
 游戏王卡片	yb;dz xi;yg wh;aa ka;ub pm;pa
 游戏王卡牌	yb;dz xi;yg wh;aa ka;ub pl;pb
 游戏王卡组	yb;dz xi;yg wh;aa ka;ub zu;sq
-游戏王官方卡片游戏决斗怪兽	yb;dz xi;yg wh;aa gr;bg fh;wd ka;ub pm;pa yb;dz xi;yg jt;dd db;du gy;xu ub;ka
+游戏王官方卡片游戏决斗怪兽	yb;dz xi;yg wh;aa gr;bg fh;dg ka;ub pm;pa yb;dz xi;yg jt;dd db;du gy;xu ub;ka
 游戏王怪兽龙斗骰	yb;dz xi;yg wh;aa gy;xu ub;ka ls;ad db;du tb;gu
 游戏王角色	yb;dz xi;yg wh;aa jt;dy se;db
 游戏玩家	yb;dz xi;yg wj;wy jw;bu
@@ -91935,7 +91935,7 @@ use_preset_vocabulary: false
 遍布罂粟的回家路	bm;zb bu;ju yy;fb su;mx de;bu hv;kk jw;bu lu;zg
 遍布罂粟的回家路上	bm;zb bu;ju yy;fb su;mx de;bu hv;kk jw;bu lu;zg uh;aa
 过劳死	go;zc lk;lb si;db
-过去上下床的方式弱爆了	go;zc qu;ts uh;aa xw;ab id;gm de;bu fh;wd ui;gy ro;gd bk;hb le;aa
+过去上下床的方式弱爆了	go;zc qu;ts uh;aa xw;ab id;gm de;bu fh;dg ui;gy ro;gd bk;hb le;aa
 过去的影像	go;zc qu;ts de;bu yy;pj xd;rx
 过去的残像	go;zc qu;ts de;bu cj;dj xd;rx
 过呼吸	go;zc hu;kh xi;kj
@@ -91982,7 +91982,7 @@ use_preset_vocabulary: false
 道井悠	dk;zu jy;aa yb;xw
 道具	dk;zu ju;ba
 道具图鉴	dk;zu ju;ba tu;kd jm;jv
-道具屋经营妙方	dk;zu ju;ba wu;uv jy;sg yy;cl mc;nu fh;wd
+道具屋经营妙方	dk;zu ju;ba wu;uv jy;sg yy;cl mc;nu fh;dg
 道具收集线	dk;zu ju;ba ub;wj ji;vm xm;sj
 道具总汇	dk;zu ju;ba zs;xk hv;dk
 道别的早晨就用约定之花点缀吧	dk;zu bx;dl de;bu zk;ou if;oi jq;yj ys;kf yt;su dy;bp vi;dd hw;ch dm;hv vv;su ba;kb
@@ -92029,7 +92029,7 @@ use_preset_vocabulary: false
 道路切割机	dk;zu lu;zg qx;dq ge;dh ji;mj
 道路千万条	dk;zu lu;zg qm;pa wj;ag tc;wm
 道路千万条安全第一条行车不规范亲人两行泪	dk;zu lu;zg qm;pa wj;ag tc;wm an;bn qr;rw di;vp yi;aa tc;wm xy;xi ie;aa bu;ad gv;fj fj;ce qn;lm rf;pd ld;ad xy;xi lz;do
-道路的前方	dk;zu lu;zg de;bu qm;qd fh;wd
+道路的前方	dk;zu lu;zg de;bu qm;qd fh;dg
 达人	da;zd rf;pd
 达人僵尸	da;zd rf;pd jd;rj ui;ap
 达伊	da;zd yi;ry
@@ -92132,7 +92132,7 @@ use_preset_vocabulary: false
 达鲁伊	da;zd lu;yo yi;ry
 达默	da;zd mo;hq
 违和感	wz;zw he;hk gj;xx
-遥之彼方的接发球	yk;zf vi;dd bi;xp fh;wd de;bu jx;fq fa;ay qq;wq
+遥之彼方的接发球	yk;zf vi;dd bi;xp fh;dg de;bu jx;fq fa;ay qq;wq
 遥仰凰华	yk;zf yh;re hd;jh hw;uh
 遥名真帆	yk;zf my;xk vf;uj fj;jf
 遥弗雷泽	yk;zf fu;aa lz;yt ze;df
@@ -92148,7 +92148,7 @@ use_preset_vocabulary: false
 遥远	yk;zf yr;zy
 遥远之月	yk;zf yr;zy vi;dd yt;pa
 遥远之雨	yk;zf yr;zy vi;dd yu;ad
-遥远彼方	yk;zf yr;zy bi;xp fh;wd
+遥远彼方	yk;zf yr;zy bi;xp fh;dg
 遥远时空	yk;zf yr;zy ui;oc ks;xg
 遥远时空中	yk;zf yr;zy ui;oc ks;xg vs;aa
 遥远未来	yk;zf yr;zy wz;ex ll;am
@@ -92157,7 +92157,7 @@ use_preset_vocabulary: false
 遥远的你	yk;zf yr;zy de;bu ni;re
 遥远的呐喊	yk;zf yr;zy de;bu na;kn hj;kx
 遥远的梦	yk;zf yr;zy de;bu mg;mx
-遥远的彼方	yk;zf yr;zy de;bu bi;xp fh;wd
+遥远的彼方	yk;zf yr;zy de;bu bi;xp fh;dg
 遥远的故乡	yk;zf yr;zy de;bu gu;wg xd;ap
 遥远的时空中	yk;zf yr;zy de;bu ui;oc ks;xg vs;aa
 遥远的未来	yk;zf yr;zy de;bu wz;ex ll;am
@@ -92165,7 +92165,7 @@ use_preset_vocabulary: false
 遥远的相遇	yk;zf yr;zy de;bu xd;mo yu;zy
 遥远的蓝天	yk;zf yr;zy de;bu lj;cj tm;ad
 遥远的赠礼	yk;zf yr;zy de;bu zg;bc li;ug
-遥远的远方	yk;zf yr;zy de;bu yr;zy fh;wd
+遥远的远方	yk;zf yr;zy de;bu yr;zy fh;dg
 遥远的青空	yk;zf yr;zy de;bu qy;of ks;xg
 遥远的音乐	yk;zf yr;zy de;bu yn;lo yt;pd
 遥远的黄金乡	yk;zf yr;zy de;bu hd;cb jn;ra xd;ap
@@ -92218,13 +92218,13 @@ use_preset_vocabulary: false
 远征选拔战	yr;zy vg;xv xr;zx ba;fb vj;gv
 远心力	yr;zy xn;dd li;gp
 远房亲戚	yr;zy fh;hf qn;lm qi;gx
-远方	yr;zy fh;wd
-远方传来风笛	yr;zy fh;wd ir;rv ll;am fg;ji di;vy
-远方有星辰	yr;zy fh;wd yb;ou xy;ou if;iy
-远方的摇篮曲	yr;zy fh;wd de;bu yk;ff lj;vj qu;aa
-远方的气息	yr;zy fh;wd de;bu qi;py xi;xz
-远方的街道	yr;zy fh;wd de;bu jx;xg dk;zu
-远方的诗	yr;zy fh;wd de;bu ui;ys
+远方	yr;zy fh;dg
+远方传来风笛	yr;zy fh;dg ir;rv ll;am fg;ji di;vy
+远方有星辰	yr;zy fh;dg yb;ou xy;ou if;iy
+远方的摇篮曲	yr;zy fh;dg de;bu yk;ff lj;vj qu;aa
+远方的气息	yr;zy fh;dg de;bu qi;py xi;xz
+远方的街道	yr;zy fh;dg de;bu jx;xg dk;zu
+远方的诗	yr;zy fh;dg de;bu ui;ys
 远旅	yr;zy lv;fp
 远旅休憩中的邂逅	yr;zy lv;fp xq;rm qi;xz vs;aa de;bu xx;zj hb;zh
 远月学园	yr;zy yt;pa xt;zb yr;ky
@@ -92274,7 +92274,7 @@ use_preset_vocabulary: false
 远野志贵	yr;zy ye;ly vi;xu gv;ba
 远野想世木	yr;zy ye;ly xd;xx ui;ca mu;ad
 远野恋	yr;zy ye;ly lm;xy
-远野方助	yr;zy ye;ly fh;wd vu;lq
+远野方助	yr;zy ye;ly fh;dg vu;lq
 远野晶	yr;zy ye;ly jy;oo
 远野梵	yr;zy ye;ly fj;mf
 远野秋叶	yr;zy ye;ly qq;hh ye;ku
@@ -93241,7 +93241,7 @@ use_preset_vocabulary: false
 重要的事物	vs;pa yk;xn de;bu ui;aa wu;nw
 重要的人	vs;pa yk;xn de;bu rf;pd
 重要的朋友	vs;pa yk;xn de;bu pg;oo yb;yu
-重要的制作方法	vs;pa yk;xn de;bu vi;dg zo;rv fh;wd fa;dq
+重要的制作方法	vs;pa yk;xn de;bu vi;dg zo;rv fh;dg fa;dq
 重要的话语	vs;pa yk;xn de;bu hw;yu yu;yw
 重要的话说三遍	vs;pa yk;xn de;bu hw;yu uo;yd sj;aa bm;zb
 重要设定	vs;pa yk;xn ue;yu dy;bp
@@ -93352,7 +93352,7 @@ use_preset_vocabulary: false
 野怪	ye;ly gy;xu
 野户真昼	ye;ly hu;dp vf;uj vb;id
 野户真阳	ye;ly hu;dp vf;uj yh;eo
-野方美纱绪	ye;ly fh;wd mz;dy ua;su xu;sv
+野方美纱绪	ye;ly fh;dg mz;dy ua;su xu;sv
 野春菊终末论	ye;ly ip;of ju;cj vs;sd mo;ad lp;yl
 野本萤	ye;ly bf;aa yy;ci
 野村和也	ye;ly cp;mc he;hk ye;gg
@@ -93782,7 +93782,7 @@ use_preset_vocabulary: false
 金色的悲剧	jn;ra se;db de;bu bz;xf ju;dj
 金色的琴弦	jn;ra se;db de;bu qn;wj xm;gx
 金色的圣诞夜复活霜雪	jn;ra se;db de;bu ug;ty dj;yy ye;wd fu;wo ho;du ud;yx xt;yx
-金色的配方	jn;ra se;db de;bu pz;yj fh;wd
+金色的配方	jn;ra se;db de;bu pz;yj fh;dg
 金色的魔象	jn;ra se;db de;bu mo;gm xd;du
 金色马赛克	jn;ra se;db ma;aa sl;bb ke;eg
 金色鸢尾花	jn;ra se;db yr;ny wz;um hw;ch
@@ -93894,7 +93894,7 @@ use_preset_vocabulary: false
 针原翼	vf;ju yr;ix yi;yg
 针女	vf;ju nv;aa
 针妙丸	vf;ju mc;nu wj;jd
-针对渴望死亡病症的处方药	vf;ju dv;cy ke;dh wh;wo si;db wh;da by;bb vg;bv de;bu iu;wb fh;wd yk;cy
+针对渴望死亡病症的处方药	vf;ju dv;cy ke;dh wh;wo si;db wh;da by;bb vg;bv de;bu iu;wb fh;dg yk;cy
 针巢直市	vf;ju ik;ig vi;uq ui;wj
 针式墙体探测仪	vf;ju ui;gy qd;th ti;rb tj;fm ce;dz yi;ry
 针目缝	vf;ju mu;aa fg;sf
@@ -95393,8 +95393,8 @@ use_preset_vocabulary: false
 闪光的印记	uj;mr gd;ea de;bu yn;ey ji;yj
 闪光的哈萨维	uj;mr gd;ea de;bu ha;kh sa;ci wz;sv
 闪光的夜袭	uj;mr gd;ea de;bu ye;wd xi;ly
-闪光的彼方	uj;mr gd;ea de;bu bi;xp fh;wd
-闪光的硬币所指的方向	uj;mr gd;ea de;bu yy;ug bi;pj so;hj vi;fv de;bu fh;wd xd;pk
+闪光的彼方	uj;mr gd;ea de;bu bi;xp fh;dg
+闪光的硬币所指的方向	uj;mr gd;ea de;bu yy;ug bi;pj so;hj vi;fv de;bu fh;dg xd;pk
 闪光的花结	uj;mr gd;ea de;bu hw;ch jx;sj
 闪光的开始	uj;mr gd;ea de;bu kl;ac ui;nt
 闪光舞	uj;mr gd;ea wu;rf
@@ -95438,7 +95438,7 @@ use_preset_vocabulary: false
 闪耀未来	uj;mr yk;gd wz;ex ll;am
 闪耀泪光化为繁星	uj;mr yk;gd lz;do gd;ea hw;rb wz;dd fj;sm xy;ou
 闪耀炉心	uj;mr yk;gd lu;hh xn;dd
-闪耀的偏方三八面体	uj;mr yk;gd de;bu pm;rb fh;wd sj;aa ba;pd mm;aa ti;rb
+闪耀的偏方三八面体	uj;mr yk;gd de;bu pm;rb fh;dg sj;aa ba;pd mm;aa ti;rb
 闪耀的光芒	uj;mr yk;gd de;bu gd;ea mh;cw
 闪耀的星星	uj;mr yk;gd de;bu xy;ou xy;ou
 闪耀的海边	uj;mr yk;gd de;bu hl;dm bm;zl
@@ -95544,7 +95544,7 @@ use_preset_vocabulary: false
 开局一把刀装备全靠捡	kl;ac ju;uk yi;aa ba;fb dk;gp vd;yv bz;wt qr;rw kk;fg jm;fq
 开局一条狗	kl;ac ju;uk yi;aa tc;wm gb;qj
 开局一条鲲	kl;ac ju;uk yi;aa tc;wm kp;yk
-开幕方程式大奖赛	kl;ac mu;jm fh;wd ig;hi ui;gy da;ad jd;dx sl;bb
+开幕方程式大奖赛	kl;ac mu;jm fh;dg ig;hi ui;gy da;ad jd;dx sl;bb
 开幕雷击	kl;ac mu;jm lz;yt ji;fk
 开往宇宙返程列车	kl;ac wh;xv yu;by vb;by fj;zf ig;hi lx;dd ie;aa
 开心二人组	kl;ac xn;dd er;aa rf;pd zu;sq
@@ -95555,7 +95555,7 @@ use_preset_vocabulary: false
 开心宝贝之开心星星球	kl;ac xn;dd bk;by bz;ad vi;dd kl;ac xn;dd xy;ou xy;ou qq;wq
 开心宝贝之开心超人	kl;ac xn;dd bk;by bz;ad vi;dd kl;ac xn;dd ik;zv rf;pd
 开心往前飞	kl;ac xn;dd wh;xv qm;qd fz;yd
-开心方程式	kl;ac xn;dd fh;wd ig;hi ui;gy
+开心方程式	kl;ac xn;dd fh;dg ig;hi ui;gy
 开心日记	kl;ac xn;dd ri;aa ji;yj
 开心果	kl;ac xn;dd go;tm
 开心树朋友	kl;ac xn;dd uu;md pg;oo yb;yu
@@ -95743,7 +95743,7 @@ use_preset_vocabulary: false
 关之原瑛	gr;qd vi;dd yr;ix yy;wy
 关亚里亚	gr;qd ya;ay li;aa ya;ay
 关系	gr;qd xi;ps
-关系大于等于方程式	gr;qd xi;ps da;ad yu;aa dg;vs yu;aa fh;wd ig;hi ui;gy
+关系大于等于方程式	gr;qd xi;ps da;ad yu;aa dg;vs yu;aa fh;dg ig;hi ui;gy
 关俊彦	gr;qd jp;rj yj;ip
 关内玛丽亚太郎	gr;qd nz;ad ma;wm li;ad ya;ay tl;dd lh;el
 关公刀	gr;qd gs;sb dk;gp
@@ -96302,7 +96302,7 @@ use_preset_vocabulary: false
 阿斯兰萨拉	aa;ek si;jq lj;qe sa;ci la;fl
 阿斯酱	aa;ek si;jq jd;yx
 阿斯顿小真	aa;ek si;jq dp;yt xc;ad vf;uj
-阿方	aa;ek fh;wd
+阿方	aa;ek fh;dg
 阿明阿诺德	aa;ek my;oo aa;ek no;yr de;xx
 阿普萨拉斯三世	aa;ek pu;ob sa;ci la;fl si;jq sj;aa ui;ca
 阿昙矶良	aa;ek tj;oy ji;uj ld;dg
@@ -96443,7 +96443,7 @@ use_preset_vocabulary: false
 阿尔斯的巨兽	aa;ek er;dx si;jq de;bu ju;kk ub;ka
 阿尔斯兰	aa;ek er;dx si;jq lj;qe
 阿尔斯露西芬督特里希	aa;ek er;dx si;jq lu;yl xi;aa ff;cf du;ou te;ns li;aa xi;ib
-阿尔方球	aa;ek er;dx fh;wd qq;wq
+阿尔方球	aa;ek er;dx fh;dg qq;wq
 阿尔普	aa;ek er;dx pu;ob
 阿尔比恩	aa;ek er;dx bi;bb en;xy
 阿尔法	aa;ek er;dx fa;dq
@@ -97380,7 +97380,7 @@ use_preset_vocabulary: false
 随身听	sv;ey uf;pp ty;kj
 随风旅鸟	sv;ey fg;ji lv;fp nc;pa
 随风旅鸟卡组	sv;ey fg;ji lv;fp nc;pa ka;ub zu;sq
-随风的方向	sv;ey fg;ji de;bu fh;wd xd;pk
+随风的方向	sv;ey fg;ji de;bu fh;dg xd;pk
 随风翼	sv;ey fg;ji yi;yg
 随风而行	sv;ey fg;ji er;aa xy;xi
 随风舞月影兰	sv;ey fg;ji wu;rf yt;pa yy;pj lj;qe
@@ -97911,7 +97911,7 @@ use_preset_vocabulary: false
 离人愁	li;ws rf;pd ib;xq
 离兮	li;ws xi;bk
 离别之人们的华尔兹	li;ws bx;dl vi;dd rf;pd mf;rm de;bu hw;uh er;dx zi;qy
-离别之景的彼方	li;ws bx;dl vi;dd jy;oj de;bu bi;xp fh;wd
+离别之景的彼方	li;ws bx;dl vi;dd jy;oj de;bu bi;xp fh;dg
 离别之桥	li;ws bx;dl vi;dd qc;mq
 离别泪	li;ws bx;dl lz;do
 离别的去向	li;ws bx;dl de;bu qu;ts xd;pk
@@ -98539,7 +98539,7 @@ use_preset_vocabulary: false
 零的执行者	ly;yl de;bu vi;fw xy;xi ve;ol
 零的日常	ly;yl de;bu ri;aa ih;jk
 零的足迹	ly;yl de;bu zu;kv ji;zy
-零的零次方	ly;yl de;bu ly;yl ci;dq fh;wd
+零的零次方	ly;yl de;bu ly;yl ci;dq fh;dg
 零碎的拼图	ly;yl sv;uz de;bu pn;fb tu;kd
 零秒之依	ly;yl mc;hu vi;dd yi;ry
 零织十六夜	ly;yl vi;sv ui;aa lq;wb ye;wd
@@ -98955,7 +98955,7 @@ use_preset_vocabulary: false
 电气治疗	dm;ag qi;py vi;dt lc;bl
 电气看守	dm;ag qi;py kj;ou ub;bc
 电气看守者	dm;ag qi;py kj;ou ub;bc ve;ol
-电气立方体	dm;ag qi;py li;da fh;wd ti;rb
+电气立方体	dm;ag qi;py li;da fh;dg ti;rb
 电气羊	dm;ag qi;py yh;da
 电气美拉	dm;ag qi;py mz;dy la;fl
 电气钥匙	dm;ag qi;py yk;jo ui;bu
@@ -99702,7 +99702,7 @@ use_preset_vocabulary: false
 青之岚	qy;of vi;dd lj;uf
 青之恋	qy;of vi;dd lm;xy
 青之文学	qy;of vi;dd wf;wi xt;zb
-青之此方	qy;of vi;dd ci;vb fh;wd
+青之此方	qy;of vi;dd ci;vb fh;dg
 青之花	qy;of vi;dd hw;ch
 青之芦苇	qy;of vi;dd lu;ch wz;cw
 青之驱魔师	qy;of vi;dd qu;mq mo;gm ui;ab
@@ -99817,7 +99817,7 @@ use_preset_vocabulary: false
 青春综合症	qy;of ip;of zs;sz he;rk vg;bv
 青春线	qy;of ip;of xm;sj
 青春罩杯	qy;of ip;of vk;sv bz;mb
-青春与西方的天空	qy;of ip;of yu;aa xi;aa fh;wd de;bu tm;ad ks;xg
+青春与西方的天空	qy;of ip;of yu;aa xi;aa fh;dg de;bu tm;ad ks;xg
 青春色的含羞草	qy;of ip;of se;db de;bu hj;rk xq;yi ck;cz
 青春色的银荆	qy;of ip;of se;db de;bu yn;jg jy;dk
 青春变形记	qy;of ip;of bm;wy xy;pk ji;yj
@@ -99970,7 +99970,7 @@ use_preset_vocabulary: false
 青色交响	qy;of se;db jc;li xd;kx
 青色冰之城	qy;of se;db by;du vi;dd ig;ti
 青色天马	qy;of se;db tm;ad ma;aa
-青色乐章梦想的彼方	qy;of se;db yt;pd vh;lz mg;mx xd;xx de;bu bi;xp fh;wd
+青色乐章梦想的彼方	qy;of se;db yt;pd vh;lz mg;mx xd;xx de;bu bi;xp fh;dg
 青色灯	qy;of se;db dg;hd
 青色眼的巫女	qy;of se;db yj;og de;bu wu;gc nv;aa
 青色眼睛的威光	qy;of se;db yj;og jy;oq de;bu wz;gn gd;ea
@@ -100057,7 +100057,7 @@ use_preset_vocabulary: false
 青龙偃月刀	qy;of ls;ad yj;rn yt;pa dk;gp
 青龙战斗核心舰	qy;of ls;ad vj;gv db;du he;mh xn;dd jm;vj
 靖康之变	jy;lq kh;gl vi;dd bm;wy
-靛蓝乘方	dm;qd lj;cj ig;pb fh;wd
+靛蓝乘方	dm;qd lj;cj ig;pb fh;dg
 静候曙光	jy;qv hb;ru uu;ou gd;ea
 静凛	jy;qv ln;db
 静名雷姆御折木	jy;qv my;xk lz;yt mu;nm yu;xx ve;fj mu;ad
@@ -100254,7 +100254,7 @@ use_preset_vocabulary: false
 鞍马玄十郎	an;ga ma;aa xr;wy ui;aa lh;el
 鞍马祢音	an;ga ma;aa mi;ue yn;lo
 巩世风	gs;gf ui;ca fg;ji
-巩大方	gs;gf da;ad fh;wd
+巩大方	gs;gf da;ad fh;dg
 鞘蕊花	qc;gx rv;cr hw;ch
 鞠原夏生	ju;gj yr;ix xw;wz ug;na
 鞠婧祎	ju;gj jy;nq yi;uw
@@ -100400,7 +100400,7 @@ use_preset_vocabulary: false
 音乐少女	yn;lo yt;pd uk;xp nv;aa
 音乐少女手游	yn;lo yt;pd uk;xp nv;aa ub;pa yb;dz
 音乐工厂	yn;lo yt;pd gs;aa ih;ap
-音乐方块	yn;lo yt;pd fh;wd ky;td
+音乐方块	yn;lo yt;pd fh;dg ky;td
 音乐时间	yn;lo yt;pd ui;oc jm;mo
 音乐会	yn;lo yt;pd hv;ry
 音乐梗	yn;lo yt;pd gg;mg
@@ -100455,7 +100455,7 @@ use_preset_vocabulary: false
 音羽香	yn;lo yu;xx xd;ho
 音声作品	yn;lo ug;um zo;rv pn;kk
 音色	yn;lo se;db
-音色的彼方	yn;lo se;db de;bu bi;xp fh;wd
+音色的彼方	yn;lo se;db de;bu bi;xp fh;dg
 音色迷人的恋歌	yn;lo se;db mi;zm rf;pd de;bu lm;xy ge;qg
 音街鳗	yn;lo jx;xg mj;ym
 音译假名	yn;lo yi;yf jw;rj my;xk
@@ -100559,7 +100559,7 @@ use_preset_vocabulary: false
 须弥	xu;py mi;ge
 须弥地区	xu;py mi;ge di;ty qu;ki
 须弥教令院	xu;py mi;ge jc;wx ly;rs yr;ew
-须方直	xu;py fh;wd vi;uq
+须方直	xu;py fh;dg vi;uq
 须王环	xu;py wh;aa hr;wb
 须玖莉	xu;py jq;wj li;cl
 须理出未来	xu;py li;wl iu;aa wz;ex ll;am
@@ -100733,7 +100733,7 @@ use_preset_vocabulary: false
 愿望之花	yr;xy wh;wo vi;dd hw;ch
 愿望化作光	yr;xy wh;wo hw;rb zo;rv gd;ea
 愿望实现	yr;xy wh;wo ui;bt xm;wj
-愿望实现的地方	yr;xy wh;wo ui;bt xm;wj de;bu di;ty fh;wd
+愿望实现的地方	yr;xy wh;wo ui;bt xm;wj de;bu di;ty fh;dg
 愿望幽灵	yr;xy wh;wo yb;uy ly;hx
 愿望水	yr;xy wh;wo uv;ad
 愿望的形式	yr;xy wh;wo de;bu xy;pk ui;gy
@@ -100881,7 +100881,7 @@ use_preset_vocabulary: false
 风待草	fg;ji dl;xs ck;cz
 风息	fg;ji xi;xz
 风情客栈的公交车	fg;ji qy;xq ke;bg vj;mj de;bu gs;sb jc;li ie;aa
-风所到达的地方	fg;ji so;hj dk;dv da;zd de;bu di;ty fh;wd
+风所到达的地方	fg;ji so;hj dk;dv da;zd de;bu di;ty fh;dg
 风扇	fg;ji uj;hy
 风拂花	fg;ji fu;ff hw;ch
 风振	fg;ji vf;fi
@@ -100947,7 +100947,7 @@ use_preset_vocabulary: false
 风甜甜	fg;ji tm;ug tm;ug
 风生水起	fg;ji ug;na uv;ad qi;zj
 风町阳歌	fg;ji ty;td yh;eo ge;qg
-风的前方	fg;ji de;bu qm;qd fh;wd
+风的前方	fg;ji de;bu qm;qd fh;dg
 风的去向	fg;ji de;bu qu;ts xd;pk
 风的旋律	fg;ji de;bu xr;fp lv;xy
 风的练习曲	fg;ji de;bu lm;sd xi;ga qu;aa
@@ -101742,7 +101742,7 @@ use_preset_vocabulary: false
 马元义	ma;aa yr;aw yi;id
 马克	ma;aa ke;eg
 马克吐温	ma;aa ke;eg tu;kt wf;dm
-马克士威方程组	ma;aa ke;eg ui;aa wz;gn fh;wd ig;hi zu;sq
+马克士威方程组	ma;aa ke;eg ui;aa wz;gn fh;dg ig;hi zu;sq
 马克思	ma;aa ke;eg si;xt
 马克思主义哲学	ma;aa ke;eg si;xt vu;dw yi;id ve;kv xt;zb
 马克思佩恩	ma;aa ke;eg si;xt pz;rb en;xy
@@ -102012,8 +102012,8 @@ use_preset_vocabulary: false
 冯岚	fg;dm lj;uf
 冯志明	fg;dm vi;xu my;oo
 冯提莫	fg;dm ti;fu mo;cd
-冯方	fg;dm fh;wd
-冯方女	fg;dm fh;wd nv;aa
+冯方	fg;dm fh;dg
+冯方女	fg;dm fh;dg nv;aa
 冯曜	fg;dm yk;od
 冯森	fg;dm sf;ml
 冯熙	fg;dm xi;hs
@@ -102529,8 +102529,8 @@ use_preset_vocabulary: false
 高昂的兰斯洛特	gk;wk ah;oe de;bu lj;qe si;jq lo;dg te;ns
 高晗	gk;wk hj;oh
 高普尼克	gk;wk pu;ob ni;ub ke;eg
-高智能方程式	gk;wk vi;ov ng;sb fh;wd ig;hi ui;gy
-高智能方程式赛车	gk;wk vi;ov ng;sb fh;wd ig;hi ui;gy sl;bb ie;aa
+高智能方程式	gk;wk vi;ov ng;sb fh;dg ig;hi ui;gy
+高智能方程式赛车	gk;wk vi;ov ng;sb fh;dg ig;hi ui;gy sl;bb ie;aa
 高月	gk;wk yt;pa
 高木	gk;wk mu;ad
 高木俊	gk;wk mu;ad jp;rj
@@ -103007,8 +103007,8 @@ use_preset_vocabulary: false
 鬼接	gv;pd jx;fq
 鬼敲月下门	gv;pd qc;pg yt;pa xw;ab mf;dg
 鬼斩	gv;pd vj;ji
-鬼方佳世子	gv;pd fh;wd jw;rg ui;ca zi;aa
-鬼方佳代子	gv;pd fh;wd jw;rg dl;ry zi;aa
+鬼方佳世子	gv;pd fh;dg jw;rg ui;ca zi;aa
+鬼方佳代子	gv;pd fh;dg jw;rg dl;ry zi;aa
 鬼月	gv;pd yt;pa
 鬼束千穗	gv;pd uu;ad qm;pa sv;hh
 鬼柳京介	gv;pd lq;mm jy;wx jx;ra
@@ -103449,12 +103449,12 @@ use_preset_vocabulary: false
 魔救共振击	mo;gm jq;wq gs;cb vf;fi ji;fk
 魔救卡组	mo;gm jq;wq ka;ub zu;sq
 魔斯拉娘	mo;gm si;jq la;fl nd;nl
-魔方	mo;gm fh;wd
-魔方世界	mo;gm fh;wd ui;ca jx;tj
-魔方大厦	mo;gm fh;wd da;ad ua;ix
-魔方工作室群	mo;gm fh;wd gs;aa zo;rv ui;bv qp;yj
-魔方的奥秘	mo;gm fh;wd de;bu ao;dm mi;hb
-魔方军用化	mo;gm fh;wd jp;bi ys;kf hw;rb
+魔方	mo;gm fh;dg
+魔方世界	mo;gm fh;dg ui;ca jx;tj
+魔方大厦	mo;gm fh;dg da;ad ua;ix
+魔方工作室群	mo;gm fh;dg gs;aa zo;rv ui;bv qp;yj
+魔方的奥秘	mo;gm fh;dg de;bu ao;dm mi;hb
+魔方军用化	mo;gm fh;dg jp;bi ys;kf hw;rb
 魔族	mo;gm zu;fu
 魔族之链	mo;gm zu;fu vi;dd lm;jl
 魔族的咖喱	mo;gm zu;fu de;bu ga;kj li;kl
@@ -104702,7 +104702,7 @@ use_preset_vocabulary: false
 麦克斯维斯塔潘	ml;fw ke;eg si;jq wz;sv si;jq ta;td pj;df
 麦克斯韦女妖	ml;fw ke;eg si;jq wz;aa nv;aa yk;ny
 麦克斯韦妖	ml;fw ke;eg si;jq wz;aa yk;ny
-麦克斯韦方程组	ml;fw ke;eg si;jq wz;aa fh;wd ig;hi zu;sq
+麦克斯韦方程组	ml;fw ke;eg si;jq wz;aa fh;dg ig;hi zu;sq
 麦克斯韦的恶魔	ml;fw ke;eg si;jq wz;aa de;bu ee;xy mo;gm
 麦克斯冯克里格	ml;fw ke;eg si;jq fg;dm ke;eg li;aa ge;mg
 麦克尔娘	ml;fw ke;eg er;dx nd;nl
@@ -105772,7 +105772,7 @@ use_preset_vocabulary: false
 黑发妖狐	hz;ha fa;ay yk;ny hu;qg
 黑胡子汀奇	hz;ha hu;og zi;aa ty;dd qi;dk
 黑须参差	hz;ha xu;py cf;sp ci;yg
-黑须彼方	hz;ha xu;py bi;xp fh;wd
+黑须彼方	hz;ha xu;py bi;xp fh;dg
 黑须淳	hz;ha xu;py ip;dx
 黑须茱香	hz;ha xu;py vu;cv xd;ho
 黑须阿洛玛	hz;ha xu;py aa;ek lo;dg ma;wm
@@ -106764,7 +106764,7 @@ use_preset_vocabulary: false
 此地的天空	ci;vb di;ty de;bu tm;ad ks;xg
 霜刃冰牙龙	ud;yx rf;dd by;du ya;ap ls;ad
 奇隆	qi;dk ls;eu
-大陆北方网友	da;ad lu;ej bz;ag fh;wd wh;ki yb;yu
+大陆北方网友	da;ad lu;ej bz;ag fh;dg wh;ki yb;yu
 深宫曲	uf;dm gs;bl qu;aa
 等级测定	dg;vs ji;sj ce;dz dy;bp
 时光胶囊	ui;oc gd;ea jc;oj nh;ay
@@ -106853,7 +106853,7 @@ use_preset_vocabulary: false
 重力索引	vs;pa li;gp so;sb yn;ga
 终会抵达那片蔚蓝	vs;sd hv;ry di;fd da;zd na;el pm;pa wz;cw lj;cj
 羊羹	yh;da gg;ym
-四次方动画	si;aa ci;dq fh;wd ds;ly hw;ak
+四次方动画	si;aa ci;dq fh;dg ds;ly hw;ak
 在风中飞舞的花	zl;ut fg;ji vs;aa fz;yd wu;rf de;bu hw;ch
 查斯维克图曼	ia;md si;jq wz;sv ke;eg tu;kd mj;oy
 小萨	xc;ad sa;ci
@@ -106944,7 +106944,7 @@ use_preset_vocabulary: false
 腰无骨	yk;oy wu;ag gu;go
 关于我转生变成兽人这档事	gr;qd yu;aa wo;pd vr;iv ug;na bm;wy ig;gg ub;ka rf;pd ve;zw dh;md ui;aa
 锯齿牙怪文书	ju;jj ii;vk ya;ap gy;xu wf;wi uu;ad
-开始的地方	kl;ac ui;nt de;bu di;ty fh;wd
+开始的地方	kl;ac ui;nt de;bu di;ty fh;dg
 揽星	lj;fl xy;ou
 红炉	hs;sg lu;hh
 摔角鹰人	uy;fl jc;dy yy;gn rf;pd
@@ -107111,7 +107111,7 @@ use_preset_vocabulary: false
 二十四节气	er;aa ui;aa si;aa jx;ce qi;py
 完美小姐她又没猜到结局	wj;by mz;dy xc;ad jx;nq ta;ny yb;vd mz;du cl;qq dk;dv jx;sj ju;uk
 月梦千年	yt;pa mg;mx qm;pa nm;ra
-矢方美纪	ui;rd fh;wd mz;dy ji;sj
+矢方美纪	ui;rd fh;dg mz;dy ji;sj
 妮莎娜薇琳斯	ni;nn ua;cu na;nn wz;cw ln;wl si;jq
 廖铁头	lc;gl tx;ju tb;dd
 萪比	ke;ck bi;bb
@@ -107177,7 +107177,7 @@ use_preset_vocabulary: false
 电击蜈蚣	dm;ag ji;fk wu;iw gs;ig
 水属性的魔法师	uv;ad uu;uy xy;xu de;bu mo;gm fa;dq ui;ab
 夜半子太郎	ye;wd bj;bf zi;aa tl;dd lh;el
-冲方丁	is;dv fh;wd dy;aa
+冲方丁	is;dv fh;dg dy;aa
 山田卓	uj;aa tm;aa vo;uo
 七诗无铭	qi;ag ui;ys wu;ag my;jm
 达鲁菲亚霏希奈露	da;zd lu;yo fz;cf ya;ay fz;yf xi;ib nl;du lu;yl
@@ -107224,7 +107224,7 @@ use_preset_vocabulary: false
 贝利亚尔	bz;ad li;hd ya;ay er;dx
 阿思翠娅	aa;ek si;xt cv;yz ya;ny
 妖兰	yk;ny lj;qe
-彼方之光	bi;xp fh;wd vi;dd gd;ea
+彼方之光	bi;xp fh;dg vi;dd gd;ea
 德连	de;xx lm;zi
 兵之律法	by;qb vi;dd lv;xy fa;dq
 风神大运动会	fg;ji uf;uu da;ad yp;zy ds;ly hv;ry
@@ -107584,7 +107584,7 @@ use_preset_vocabulary: false
 高端玩家	gk;wk dr;le wj;wy jw;bu
 雾切美阳	wu;yw qx;dq mz;dy yh;eo
 音乐博物馆	yn;lo yt;pd bo;uc wu;nw gr;ug
-未来在轨迹之吻的前方	wz;ex ll;am zl;ut gv;ij ji;zy vi;dd wf;kw de;bu qm;qd fh;wd
+未来在轨迹之吻的前方	wz;ex ll;am zl;ut gv;ij ji;zy vi;dd wf;kw de;bu qm;qd fh;dg
 未来有你	wz;ex ll;am yb;ou ni;re
 头目	tb;dd mu;aa
 在原守人	zl;ut yr;ix ub;bc rf;pd
@@ -108017,7 +108017,7 @@ use_preset_vocabulary: false
 囚于冰中	qq;kr yu;aa by;du vs;aa
 洱剪林	er;de jm;dq ln;mm
 小偷	xc;ad tb;ry
-闽方言	mn;im fh;wd yj;wk
+闽方言	mn;im fh;dg yj;wk
 迈克尔阿克洛	ml;zw ke;eg er;dx aa;ek ke;eg lo;dg
 死芒	si;db mh;cw
 舌纯	ue;kq ip;st
@@ -108082,7 +108082,7 @@ use_preset_vocabulary: false
 汐蕾	xi;dx lz;cl
 伊理户由仁	yi;ry li;wl hu;dp yb;aa rf;re
 章鱼烧	vh;lz yu;da uk;hy
-星之彼方	xy;ou vi;dd bi;xp fh;wd
+星之彼方	xy;ou vi;dd bi;xp fh;dg
 剧场短篇	ju;dj ih;ty dr;ud pm;vb
 冠军	gr;bc jp;bi
 卡吕冬之子	ka;ub lv;kk ds;wd vi;dd zi;aa
@@ -108579,7 +108579,7 @@ use_preset_vocabulary: false
 取景框中的你	qu;ey jy;oj kd;mk vs;aa de;bu ni;re
 莫伊丝特	mo;cd yi;ry si;aa te;ns
 波纹法	bo;dp wf;sw fa;dq
-爱的兔次方	ai;vy de;bu tu;dd ci;dq fh;wd
+爱的兔次方	ai;vy de;bu tu;dd ci;dq fh;dg
 无明	wu;ag my;oo
 津叔	jn;dy uu;yx
 林爱流	ln;mm ai;vy lq;di
@@ -108881,7 +108881,7 @@ use_preset_vocabulary: false
 伊利亚彼得罗夫	yi;ry li;hd ya;ay bi;xp de;xc lo;sx fu;ad
 春藤佳奈	ip;of tg;ct jw;rg nl;du
 决定以自家独栋建筑为目标当佣兵自由过活	jt;dd dy;bp yi;rd zi;pa jw;bu du;qi ds;md jm;zy vu;vg wz;dd mu;aa bc;mu dh;xx ys;ry by;qb zi;pa yb;aa go;zc ho;du
-游四方	yb;dz si;aa fh;wd
+游四方	yb;dz si;aa fh;dg
 雪之女王与冰之城	xt;yx vi;dd nv;aa wh;aa yu;aa by;du vi;dd ig;ti
 行至海岸尽头	xy;xi vi;tv hl;dm an;ug jn;id tb;dd
 阿科	aa;ek ke;hd
@@ -108974,7 +108974,7 @@ use_preset_vocabulary: false
 樱小路茜	yy;my xc;ad lu;zg qm;cx
 斉藤朱夏	qi;we tg;ct vu;pw xw;wz
 侵蚀之剑	qn;ry ui;ui vi;dd jm;da
-东方心之解束	ds;ad fh;wd xn;dd vi;dd jx;jn uu;ad
+东方心之解束	ds;ad fh;dg xn;dd vi;dd jx;jn uu;ad
 乙己壬庚	yi;aa ji;ag rf;pu gg;gr
 悠闲旅途时光	yb;xw xm;mm lv;fp tu;zy ui;oc gd;ea
 女猎手	nv;aa lx;qx ub;pa
@@ -109215,7 +109215,7 @@ use_preset_vocabulary: false
 好比下雨之类	hk;nz bi;bb xw;ab yu;ad vi;dd lz;md
 绿宝石水花	lv;sl bk;by ui;kp uv;ad hw;ch
 朱铄	vu;pw uo;jl
-中国南方航空娘	vs;aa go;ky nj;ua fh;wd hh;vk ks;xg nd;nl
+中国南方航空娘	vs;aa go;ky nj;ua fh;dg hh;vk ks;xg nd;nl
 再声	zl;aa ug;um
 空之箱	ks;xg vi;dd xd;vx
 美环花子	mz;dy hr;wb hw;ch zi;aa
@@ -110059,7 +110059,7 @@ use_preset_vocabulary: false
 莉艾拉玛尔塞莉丝	li;cl ai;ci la;fl ma;wm er;dx sl;tb li;cl si;aa
 渊田久子	yr;da tm;aa jq;pd zi;aa
 我与你结为夫妻之前	wo;pd yu;aa ni;re jx;sj wz;dd fu;ad qi;na vi;dd qm;qd
-方淳意	fh;wd ip;dx yi;xy
+方淳意	fh;dg ip;dx yi;xy
 黑江百合子	hz;ha jd;dg bl;ab he;rk zi;aa
 超限疾驰	ik;zv xm;eg ji;bu ii;my
 玫诗缇	mz;ww ui;ys ti;su
@@ -110423,7 +110423,7 @@ use_preset_vocabulary: false
 泡沫旋律	pk;db mo;dm xr;fp lv;xy
 超级量子机神王	ik;zv ji;sj ld;ol zi;aa ji;mj uf;uu wh;aa
 渡来明日香	du;dd ll;am my;oo ri;aa xd;ho
-南方少儿	nj;ua fh;wd uk;xp er;pg
+南方少儿	nj;ua fh;dg uk;xp er;pg
 新美利坚合众国	xn;jq mz;dy li;hd jm;ty he;rk vs;rc go;ky
 为梦而战	wz;dd mg;mx er;aa vj;gv
 欧倩琪	ou;qq qm;rq qi;wq
@@ -110850,7 +110850,7 @@ use_preset_vocabulary: false
 森风子	sf;ml fg;ji zi;aa
 特雷赛	te;ns lz;yt sl;bb
 革命途中	ge;ca my;re tu;zy vs;aa
-近江彼方的母亲	jn;zj jd;dg bi;xp fh;wd de;bu mu;vd qn;lm
+近江彼方的母亲	jn;zj jd;dg bi;xp fh;dg de;bu mu;vd qn;lm
 回龙驭	hv;kk ls;ad yu;my
 君街空星	jp;ky jx;xg ks;xg xy;ou
 勇者处刑	ys;ly ve;ol iu;wb xy;dk
@@ -110873,7 +110873,7 @@ use_preset_vocabulary: false
 江口夏实	jd;dg kb;aa xw;wz ui;bt
 夏之栖居处	xw;wz vi;dd qi;mx ju;ug iu;wb
 夏梦禾	xw;wz mg;mx he;pd
-同人逼死官方	ts;kk rf;pd bi;zf si;db gr;bg fh;wd
+同人逼死官方	ts;kk rf;pd bi;zf si;db gr;bg fh;dg
 绝狼	jt;ss lh;ql
 断手	dr;ja ub;pa
 猎鹰电竞	lx;qx yy;gn dm;ag jy;lx
@@ -111027,7 +111027,7 @@ use_preset_vocabulary: false
 心血来潮的浪漫	xn;dd xt;pa ll;am ik;di de;bu lh;dl mj;dm
 岸名茜	an;ug my;xk qm;cx
 望着夏草想念你	wh;wo ve;yo xw;wz ck;cz xd;xx nm;xj ni;re
-土方红枝	tu;aa fh;wd hs;sg vi;mv
+土方红枝	tu;aa fh;dg hs;sg vi;mv
 无可言喻	wu;ag ke;dk yj;wk yu;ky
 鬼式温罗	gv;pd ui;gy wf;dm lo;sx
 异次元的故事	yi;cs ci;dq yr;aw de;bu gu;wg ui;aa
@@ -111196,7 +111196,7 @@ use_preset_vocabulary: false
 萌糸莉雅	mg;cm mi;ad li;cl ya;vy
 冷荼	lg;dl tu;cy
 凪间梦未	vi;jv jm;mo mg;mx wz;ex
-激情的彼方	ji;dj qy;xq de;bu bi;xp fh;wd
+激情的彼方	ji;dj qy;xq de;bu bi;xp fh;dg
 校园音乐会	xc;mj yr;ky yn;lo yt;pd hv;ry
 帝国非常规模式单位	di;jb go;ky fz;aa ih;jk gv;fj mo;mm ui;gy dj;ba wz;rl
 文学	wf;wi xt;zb
@@ -111261,7 +111261,7 @@ use_preset_vocabulary: false
 假若存在无晓的永夜	jw;rj ro;cy cp;uz zl;ut wu;ag xc;oy de;bu ys;dd ye;wd
 堀北俊希	ku;tq bz;ag jp;rj xi;ib
 虚拟时空	xu;hy ni;fy ui;oc ks;xg
-方便的陪跑友	fh;wd bm;rg de;bu pz;ek pk;zb yb;yu
+方便的陪跑友	fh;dg bm;rg de;bu pz;ek pk;zb yb;yu
 恋爱乃混沌之奴隶也	lm;xy ai;vy nl;pg hp;dk dp;dt vi;dd nu;ny li;ad ye;gg
 巨人族的新娘	ju;kk rf;pd zu;fu de;bu xn;jq nd;nl
 感情信号	gj;xx qy;xq xn;ry hk;kk
@@ -111842,7 +111842,7 @@ use_preset_vocabulary: false
 凉风夏日的约定	ld;dj fg;ji xw;wz ri;aa de;bu yt;su dy;bp
 爆上战队	bk;hb uh;aa vj;gv dv;er
 日曜赞歌	ri;aa yk;od zj;bx ge;qg
-东方锦上京	ds;ad fh;wd jn;jb uh;aa jy;wx
+东方锦上京	ds;ad fh;dg jn;jb uh;aa jy;wx
 贺阳燐羽	he;bj yh;eo ln;hl yu;xx
 记忆缝线	ji;yj yi;xy fg;sf xm;sj
 篠仓	xc;vt ch;re
@@ -111967,7 +111967,7 @@ use_preset_vocabulary: false
 奴隶之剑	nu;ny li;ad vi;dd jm;da
 玛丽穆尼亚	ma;wm li;ad mu;hp ni;ub ya;ay
 九日	jq;py ri;aa
-方渊	fh;wd yr;da
+方渊	fh;dg yr;da
 羽田鹰志	yu;xx tm;aa yy;gn vi;xu
 星希羽	xy;ou xi;ib yu;xx
 爱在莱茵河	ai;vy zl;ut ll;cl yn;cy he;dk
@@ -112742,7 +112742,7 @@ use_preset_vocabulary: false
 极寒国的璃塔	ji;mj hj;bd go;ky de;bu li;wl ta;td
 修伯特	xq;rp bo;rb te;ns
 刘旺	lq;dw wh;ow
-阿方索	aa;ek fh;wd so;sb
+阿方索	aa;ek fh;dg so;sb
 书呆子	uu;ad dl;km zi;aa
 婕德优菲欣迪	jx;nj de;xx yb;ry fz;cf xn;qj di;zy
 疯狂赞歌	fg;bf kd;qw zj;bx ge;qg
@@ -112863,7 +112863,7 @@ use_preset_vocabulary: false
 花园瑛美	hw;ch yr;ky yy;wy mz;dy
 新木场绯色	xn;jq mu;ad ih;ty fz;sf se;db
 不死鸟总监	bu;ad si;db nc;pa zs;xk jm;mv
-在冲绳喜欢上的女孩方言讲得太过令人困扰	zl;ut is;dv ug;sd xi;uk hr;qy uh;aa de;bu nv;aa hl;zh fh;wd yj;wk jd;yj de;xc tl;dd go;zc ly;rs rf;pd kp;km rk;fy
+在冲绳喜欢上的女孩方言讲得太过令人困扰	zl;ut is;dv ug;sd xi;uk hr;qy uh;aa de;bu nv;aa hl;zh fh;dg yj;wk jd;yj de;xc tl;dd go;zc ly;rs rf;pd kp;km rk;fy
 回忆的亿千万	hv;kk yi;xy de;bu yi;ry qm;pa wj;ag
 漪涟依旧	yi;dq lm;dl yi;ry jq;ao
 言语宛如你的脉搏	yj;wk yu;yw wj;be ru;nk ni;re de;bu ml;oy bo;fc
@@ -113436,7 +113436,7 @@ use_preset_vocabulary: false
 逃出这座监狱	tk;zv iu;aa ve;zw zo;gz jm;mv yu;qq
 星辰秘会	xy;ou if;iy mi;hb hv;ry
 达磨羯摩	da;zd mo;um jx;yh mo;um
-方鹤	fh;wd he;nv
+方鹤	fh;dg he;nv
 百合园圣娅	bl;ab he;rk yr;ky ug;ty ya;ny
 飞兰	fz;yd lj;qe
 雷耀扬	lz;yt yk;gd yh;fy
@@ -113623,7 +113623,7 @@ use_preset_vocabulary: false
 双影奇境	ud;yy yy;pj qi;dk jy;tj
 心灵治愈咖啡馆	xn;dd ly;hx vi;dt yu;xy ka;kj fz;kf gr;ug
 我的青少年机器人时代	wo;pd de;bu qy;of uk;xp nm;ra ji;mj qi;kk rf;pd ui;oc dl;ry
-笔迹的彼方	bi;vm ji;zy de;bu bi;xp fh;wd
+笔迹的彼方	bi;vm ji;zy de;bu bi;xp fh;dg
 小桃芙	xc;ad tk;mv fu;cf
 小老师	xc;ad lk;lb ui;ab
 明月尘	my;oo yt;pa if;tx
@@ -113923,7 +113923,7 @@ use_preset_vocabulary: false
 少女乐队的呐喊	uk;xp nv;aa yt;pd dv;er de;bu na;kn hj;kx
 红蓝编年史	hs;sg lj;cj bm;sb nm;ra ui;ki
 春男儿	ip;of nj;tl er;pg
-方程式赛车	fh;wd ig;hi ui;gy sl;bb ie;aa
+方程式赛车	fh;dg ig;hi ui;gy sl;bb ie;aa
 小程序版曲目	xc;ad ig;hi xu;gy bj;pf qu;aa mu;aa
 斯托马克公司	si;jq to;fq ma;aa ke;eg gs;sb si;gk
 珂莱塔	ke;wk ll;cl ta;td
@@ -114005,7 +114005,7 @@ use_preset_vocabulary: false
 星凉	xy;ou ld;dj
 陵本凪	ly;el bf;aa vi;jv
 奶龙	nl;nn ls;ad
-约定的地方	yt;su dy;bp de;bu di;ty fh;wd
+约定的地方	yt;su dy;bp de;bu di;ty fh;dg
 淘气仙星	tk;dt qi;py xm;ru xy;ou
 鹤见中尉	he;nv jm;ag vs;aa wz;cu
 在违法的边缘试探	zl;ut wz;zw fa;dq de;bu bm;zl yr;st ui;yu tj;fm
@@ -114181,7 +114181,7 @@ use_preset_vocabulary: false
 此刻	ci;vb ke;dh
 海獭	hl;dm ta;ql
 丁瑶	dy;aa yk;wf
-彼方之歌	bi;xp fh;wd vi;dd ge;qg
+彼方之歌	bi;xp fh;dg vi;dd ge;qg
 飞雷神	fz;yd lz;yt uf;uu
 孔丘	ks;zg qq;pa
 叛逆之星	pj;fb ni;zn vi;dd xy;ou
@@ -114342,7 +114342,7 @@ use_preset_vocabulary: false
 柏青废人之路	bo;mb qy;of fz;gf rf;pd vi;dd lu;zg
 贝老师	bz;ad lk;lb ui;ab
 行星闪耀之夜	xy;xi xy;ou uj;mr yk;gd vi;dd ye;wd
-东方乱乱流	ds;ad fh;wd lr;ug lr;ug lq;di
+东方乱乱流	ds;ad fh;dg lr;ug lr;ug lq;di
 沉醉刺激	if;dj zv;yz ci;dc ji;dj
 柳婒	lq;mm tj;ny
 宫野芹	gs;bl ye;ly qn;cj
@@ -114520,7 +114520,7 @@ use_preset_vocabulary: false
 飞哥与小佛	fz;yd ge;kd yu;aa xc;ad fu;rf
 驱魔修女	qu;mq mo;gm xq;rp nv;aa
 给逝者的摇篮曲	gz;sh ui;zv ve;ol de;bu yk;ff lj;vj qu;aa
-阿尔方杀球	aa;ek er;dx fh;wd ua;mi qq;wq
+阿尔方杀球	aa;ek er;dx fh;dg ua;mi qq;wq
 香月先生的恋爱时刻	xd;ho yt;pa xm;ne ug;na de;bu lm;xy ai;vy ui;oc ke;dh
 泰坦修会	tl;uf tj;td xq;rp hv;ry
 小鸠常悟朗	xc;ad jq;nj ih;jk wu;xw lh;ol
@@ -114558,7 +114558,7 @@ use_preset_vocabulary: false
 拜托啦	bl;uf to;fq la;kl
 吃鼠饼的小虎	ii;kq uu;ju by;ub de;bu xc;ad hu;hj
 这不是我的邻居	ve;zw bu;ad ui;op wo;pd de;bu ln;el ju;ug
-官方延伸	gr;bg fh;wd yj;zv uf;ru
+官方延伸	gr;bg fh;dg yj;zv uf;ru
 虽然没能坚持住	sv;ki rj;hq mz;du ng;sb jm;ty ii;fs vu;rv
 温暖	wf;dm nr;oy
 超超超计算机世纪	ik;zv ik;zv ik;zv ji;yu sr;vc ji;mj ui;ca ji;sj
@@ -114659,7 +114659,7 @@ use_preset_vocabulary: false
 恋人手中四叶草	lm;xy rf;pd ub;pa vs;aa si;aa ye;ku ck;cz
 封阳君	fg;cg yh;eo jp;ky
 苏兰特	su;cb lj;qe te;ns
-终结的方式	vs;sd jx;sj de;bu fh;wd ui;gy
+终结的方式	vs;sd jx;sj de;bu fh;dg ui;gy
 戴蒙	dl;gg mg;cm
 王冬	wh;aa ds;wd
 深夜重拳	uf;dm ye;wd vs;pa qr;uf
@@ -115154,7 +115154,7 @@ use_preset_vocabulary: false
 李尧	li;mz yk;gw
 终极军团	vs;sd ji;mj jp;bi tr;kc
 亚洲动漫节	ya;ay vb;dv ds;ly mj;dm jx;ce
-构想彼方	gb;mg xd;xx bi;xp fh;wd
+构想彼方	gb;mg xd;xx bi;xp fh;dg
 来来	ll;am ll;am
 花战争	hw;ch vj;gv vg;dy
 海伦布朗	hl;dm lp;rl bu;ju lh;ol
@@ -115500,14 +115500,14 @@ use_preset_vocabulary: false
 滴答贝儿	di;dd da;vh bz;ad er;pg
 萤火仲夏夜	yy;ci ho;dd vs;rv xw;wz ye;wd
 康穗	kh;gl sv;hh
-透明的彼方	tb;zx my;oo de;bu bi;xp fh;wd
+透明的彼方	tb;zx my;oo de;bu bi;xp fh;dg
 海老名正孝	hl;dm lk;lb my;xk vg;av xc;zl
 苔丝科特金	tl;ct si;aa ke;hd te;ns jn;ra
 编织如樱花般美丽的故事	bm;sb vi;sv ru;nk yy;my hw;ch bj;vu mz;dy li;ad de;bu gu;wg ui;aa
 一辈子乐队	yi;aa bz;if zi;aa yt;pd dv;er
 神经质	uf;uu jy;sg vi;bu
 异界豪侠幻魔传	yi;cs jx;tj hk;ub xw;rj hr;yg mo;gm ir;rv
-一颗方糖悬滞的时间	yi;aa ke;yg fh;wd th;mt xr;xx vi;dd de;bu ui;oc jm;mo
+一颗方糖悬滞的时间	yi;aa ke;yg fh;dg th;mt xr;xx vi;dd de;bu ui;oc jm;mo
 因㐽	yn;kd fg;rf
 觉醒石像鬼	jt;jb xy;yx ui;kp xd;rx gv;pd
 憨蛋儿	hj;xg dj;ip er;pg
@@ -115690,7 +115690,7 @@ use_preset_vocabulary: false
 金田亮	jn;ra tm;aa ld;wj
 黑化吧	hz;ha hw;rb ba;kb
 花影萤	hw;ch yy;pj yy;ci
-非官方	fz;aa gr;bg fh;wd
+非官方	fz;aa gr;bg fh;dg
 三岁开始做王者	sj;aa sv;ux kl;ac ui;nt zo;rg wh;aa ve;ol
 刘阿	lq;dw aa;ek
 大炮达摩	da;ad pk;hb da;zd mo;um
@@ -115855,7 +115855,7 @@ use_preset_vocabulary: false
 豹富	bk;vu fu;bf
 威拉米特	wz;gn la;fl mi;dd te;ns
 力量焊接	li;gp ld;ol hj;hh jx;fq
-方舟之羽	fh;wd vb;pd vi;dd yu;xx
+方舟之羽	fh;dg vb;pd vi;dd yu;xx
 当群星交汇	dh;xx qp;yj xy;ou jc;li hv;dk
 兹韦兹多奇卡	zi;qy wz;aa zi;qy do;xx qi;dk ka;ub
 歪原火织	wl;bv yr;ix ho;dd vi;sv
@@ -115910,7 +115910,7 @@ use_preset_vocabulary: false
 天使杰瑞	tm;ad ui;rl jx;hm rv;we
 巅峰之路	dm;ud fg;uf vi;dd lu;zg
 森塔克	sf;ml ta;td ke;eg
-土方红诗	tu;aa fh;wd hs;sg ui;ys
+土方红诗	tu;aa fh;dg hs;sg ui;ys
 跨世纪心动	kw;zk ui;ca ji;sj xn;dd ds;ly
 威斯布鲁马林	wz;gn si;jq bu;ju lu;yo ma;aa ln;mm
 莱欧斯图丁	ll;cl ou;qq si;jq tu;kd dy;aa
@@ -115918,7 +115918,7 @@ use_preset_vocabulary: false
 凋零之物	dc;dv ly;yl vi;dd wu;nw
 积雨城	ji;hv yu;ad ig;ti
 爱黛儿	ai;vy dl;hd er;pg
-雅妮特方提努多米尼克	ya;vy ni;nn te;ns fh;wd ti;fu nu;ln do;xx mi;dd ni;ub ke;eg
+雅妮特方提努多米尼克	ya;vy ni;nn te;ns fh;dg ti;fu nu;ln do;xx mi;dd ni;ub ke;eg
 西川红锦袍	xi;aa ir;pa hs;sg jn;jb pk;yb
 无法溶解的结晶	wu;ag fa;dq rs;dr jx;jn de;bu jx;sj jy;oo
 地铁跑酷	di;ty tx;ju pk;zb ku;yg
@@ -116143,7 +116143,7 @@ use_preset_vocabulary: false
 佩克龙	pz;rb ke;eg ls;ad
 泪冠哀歌哈弗妮丝	lz;do gr;bc ai;wy ge;qg ha;kh fu;aa ni;nn si;aa
 阵亡消息	vf;ei wh;da xc;dx xi;xz
-方石英	fh;wd ui;kp yy;cy
+方石英	fh;dg ui;kp yy;cy
 烈火大王执行铁木真	lx;hl ho;dd dl;ad wh;aa vi;fw xy;xi tx;ju mu;ad vf;uj
 和睦号	he;hk mu;ot hk;kk
 樱井隆幸	yy;my jy;aa ls;eu xy;tu
@@ -116214,7 +116214,7 @@ use_preset_vocabulary: false
 空洞之虫惑魔爪	ks;xg ds;dt vi;dd is;ad ho;xh mo;gm vk;pd
 亚琪娜兰朵儿	ya;ay qi;wq na;nn lj;qe do;mj er;pg
 银河眼全装甲光子龙	yn;jg he;dk yj;og qr;rw vd;yv jw;aa gd;ea zi;aa ls;ad
-敢问路在何方	gj;we wf;km lu;zg zl;ut he;rk fh;wd
+敢问路在何方	gj;we wf;km lu;zg zl;ut he;rk fh;dg
 青蓝与闪烁	qy;of lj;cj yu;aa uj;mr uo;hl
 初音爬行	iu;yd yn;lo pa;vb xy;xi
 王扶摇	wh;aa fu;ff yk;ff
@@ -116301,7 +116301,7 @@ use_preset_vocabulary: false
 帽子米塔	mk;jm zi;aa mi;dd ta;td
 见习神仙精灵	jm;ag xi;ga uf;uu xm;ru jy;mq ly;hx
 曾我翅	cg;ob wo;pd ii;yv
-尚方宝剑	uh;xk fh;wd bk;by jm;da
+尚方宝剑	uh;xk fh;dg bk;by jm;da
 蜃楼之主	uf;ii lb;ml vi;dd vu;dw
 博歌梦澜	bo;uc ge;qg mg;mx lj;dl
 读卖栞	du;ym ml;um kj;mg
@@ -116343,7 +116343,7 @@ use_preset_vocabulary: false
 铠裂镰蟹	kl;jj lx;yl lm;jl xx;ij
 韩佳影	hj;uw jw;rg yy;pj
 晋升赛	jn;oy ug;pc sl;bb
-极速方程式	ji;mj su;zu fh;wd ig;hi ui;gy
+极速方程式	ji;mj su;zu fh;dg ig;hi ui;gy
 落空格布林	lo;cl ks;xg ge;mg bu;ju ln;mm
 阿尔卡特	aa;ek er;dx ka;ub te;ns
 贺来穗美	he;bj ll;am sv;hh mz;dy
@@ -116597,7 +116597,7 @@ use_preset_vocabulary: false
 调换儿	dc;yv hr;fh er;pg
 桃色见顷	tk;mv se;db jm;ag qy;yb
 空气吞食者	ks;xg qi;py tp;kt ui;rl ve;ol
-天堂鸟栖停的地方	tm;ad th;tk nc;pa qi;mx ty;rt de;bu di;ty fh;wd
+天堂鸟栖停的地方	tm;ad th;tk nc;pa qi;mx ty;rt de;bu di;ty fh;dg
 世界的绝弦	ui;ca jx;tj de;bu jt;ss xm;gx
 诹访道彦	zb;yq fh;yf dk;zu yj;ip
 天空依旧	tm;ad ks;xg yi;ry jq;ao
@@ -116887,7 +116887,7 @@ use_preset_vocabulary: false
 何凌霜	he;rk ly;dl ud;yx
 北堂临风	bz;ag th;tk ln;ao fg;ji
 经典组	jy;sg dm;ba zu;sq
-寻找看不见的你的方法	xp;cx vk;fg kj;ou bu;ad jm;ag de;bu ni;re de;bu fh;wd fa;dq
+寻找看不见的你的方法	xp;cx vk;fg kj;ou bu;ad jm;ag de;bu ni;re de;bu fh;dg fa;dq
 杰森托德	jx;hm sf;ml to;fq de;xx
 装备组	vd;yv bz;wt zu;sq
 刘衿刘佩	lq;dw jn;yj lq;dw pz;rb
@@ -117226,7 +117226,7 @@ use_preset_vocabulary: false
 奥特旅行	ao;dm te;ns lv;fp xy;xi
 歌声日记	ge;qg ug;um ri;aa ji;yj
 克修拉	ke;eg xq;rp la;fl
-方舱医院真神奇	fh;wd ch;vc yi;ku yr;ew vf;uj uf;uu qi;dk
+方舱医院真神奇	fh;dg ch;vc yi;ku yr;ew vf;uj uf;uu qi;dk
 这本色出演的故事	ve;zw bf;aa se;db iu;aa yj;dy de;bu gu;wg ui;aa
 平冈秀章	py;aa gh;ki xq;hn vh;lz
 八田阳子	ba;pd tm;aa yh;eo zi;aa
@@ -117280,7 +117280,7 @@ use_preset_vocabulary: false
 江南游记	jd;dg nj;ua yb;dz ji;yj
 恒沙	hg;xg ua;du
 中心位置点	vs;aa xn;dd wz;rl vi;sv dm;hv
-乙女世界的行走方法	yi;aa nv;aa ui;ca jx;tj de;bu xy;xi zb;tv fh;wd fa;dq
+乙女世界的行走方法	yi;aa nv;aa ui;ca jx;tj de;bu xy;xi zb;tv fh;dg fa;dq
 深红之魂	uf;dm hs;sg vi;dd hp;gy
 苍月卫人	ch;cc yt;pa wz;ga rf;pd
 昴星团	mk;om xy;ou tr;kc
@@ -117506,7 +117506,7 @@ use_preset_vocabulary: false
 繁星轰鸣响彻之时	fj;sm xy;ou hs;iu my;kn xd;kx ie;xq vi;dd ui;oc
 有期徒刑三年级	yb;ou qi;oq tu;xz xy;dk sj;aa nm;ra ji;sj
 自鸣迷宫	zi;pa my;kn mi;zm gs;bl
-方程式同步士	fh;wd ig;hi ui;gy ts;kk bu;vx ui;aa
+方程式同步士	fh;dg ig;hi ui;gy ts;kk bu;vx ui;aa
 獓𤝱	ao;qa ye;qy
 偷摸零	tb;ry mo;fm ly;yl
 猛爆碎龙	mg;qm bk;hb sv;uz ls;ad
@@ -117577,7 +117577,7 @@ use_preset_vocabulary: false
 请扼杀我的蔷薇花	qy;yq ee;fe ua;mi wo;pd de;bu qd;ch wz;cw hw;ch
 片桐良一	pm;pa ts;mt ld;dg yi;aa
 钩者	gb;jg ve;ol
-终结在何方	vs;sd jx;sj zl;ut he;rk fh;wd
+终结在何方	vs;sd jx;sj zl;ut he;rk fh;dg
 试作	ui;yu zo;rv
 忌田诗音	ji;xj tm;aa ui;ys yn;lo
 艾莉莎	ai;ci li;cl ua;cu
@@ -117822,7 +117822,7 @@ use_preset_vocabulary: false
 振奋对手	vf;fi ff;dt dv;cy ub;pa
 雨声与潮鸣	yu;ad ug;um yu;aa ik;di my;kn
 精灵绅士	jy;mq ly;hx uf;su ui;aa
-喜欢的冲绳妹说方言	xi;uk hr;qy de;bu is;dv ug;sd mz;nw uo;yd fh;wd yj;wk
+喜欢的冲绳妹说方言	xi;uk hr;qy de;bu is;dv ug;sd mz;nw uo;yd fh;dg yj;wk
 擒龙虎	qn;fq ls;ad hu;hj
 迪斯帕忒耳	di;zy si;jq pa;jb te;xy er;aa
 胧隐夜鸟	ls;ol yn;ej ye;wd nc;pa
@@ -117895,7 +117895,7 @@ use_preset_vocabulary: false
 吉晓茗	ji;ku xc;oy my;cm
 宸尧	if;bi yk;gw
 公园恋情	gs;sb yr;ky lm;xy qy;xq
-幸福的配方	xy;tu fu;uf de;bu pz;yj fh;wd
+幸福的配方	xy;tu fu;uf de;bu pz;yj fh;dg
 弥命	mi;ge my;re
 筋肉魔理沙	jn;vl rb;ad mo;gm li;wl ua;du
 美杜莎戈耳工	mz;dy du;mt ua;cu ge;ad er;aa gs;aa
@@ -118410,7 +118410,7 @@ use_preset_vocabulary: false
 我被浸泡在每一颗水里	wo;pd bz;yp jn;dy pk;db zl;ut mz;rm yi;aa ke;yg uv;ad li;aa
 控制中心	ks;fk vi;dg vs;aa xn;dd
 我以灵魂注视你的心	wo;pd yi;rd ly;hx hp;gy vu;dv ui;ju ni;re de;bu xn;dd
-向远方	xd;pk yr;zy fh;wd
+向远方	xd;pk yr;zy fh;dg
 取扱注意	qu;ey xi;fj vu;dv yi;xy
 阿奈里斯基尼奥内斯	aa;ek nl;du li;aa si;jq ji;tq ni;ub ao;dm nz;ad si;jq
 特里诺兰	te;ns li;aa no;yr lj;qe
@@ -118492,7 +118492,7 @@ use_preset_vocabulary: false
 金色千夜梦舞台	jn;ra se;db qm;pa ye;wd mg;mx wu;rf tl;sk
 所以我登上了天台	so;hj yi;rd wo;pd dg;dd uh;aa le;aa tm;ad tl;sk
 魔法斗姬芙洛蒂亚	mo;gm fa;dq db;du ji;ni fu;cf lo;dg di;cd ya;ay
-致彼方的你	vi;wv bi;xp fh;wd de;bu ni;re
+致彼方的你	vi;wv bi;xp fh;dg de;bu ni;re
 离解复合	li;ws jx;jn fu;wo he;rk
 魔女改造计划	mo;gm nv;aa gl;wj zk;zg ji;yu hw;dg
 假面骑士宗吉斯	jw;rj mm;aa qi;mq ui;aa zs;bu ji;ku si;jq
@@ -118527,7 +118527,7 @@ use_preset_vocabulary: false
 向着阳光	xd;pk ve;yo yh;eo gd;ea
 枣田悠斗	zk;cd tm;aa yb;xw db;du
 假面骑士牙王	jw;rj mm;aa qi;mq ui;aa ya;ap wh;aa
-阿方索亨里克斯	aa;ek fh;wd so;sb hg;wl li;aa ke;eg si;jq
+阿方索亨里克斯	aa;ek fh;dg so;sb hg;wl li;aa ke;eg si;jq
 瑞士制	rv;we ui;aa vi;dg
 取卷泰子	qu;ey jr;ef tl;uf zi;aa
 机偶借金藏	ji;mj ou;ry jx;rx jn;ra ch;cz
@@ -118585,7 +118585,7 @@ use_preset_vocabulary: false
 谷江玲音	gu;bk jd;dg ly;wl yn;lo
 亚当术士	ya;ay dh;xx uu;md ui;aa
 偶像星愿	ou;ry xd;rx xy;ou yr;xy
-迈向岔路口外的前方	ml;zw xd;pk ia;uf lu;zg kb;aa wl;xb de;bu qm;qd fh;wd
+迈向岔路口外的前方	ml;zw xd;pk ia;uf lu;zg kb;aa wl;xb de;bu qm;qd fh;dg
 孤注一掷吧	gu;zg vu;dv yi;aa vi;fv ba;kb
 木下云母	mu;ad xw;ab yp;es mu;vd
 兽带斗士	ub;ka dl;jb db;du ui;aa
@@ -118628,7 +118628,7 @@ use_preset_vocabulary: false
 纯真丑闻	ip;st vf;uj ib;aa wf;em
 疾病控制与预防中心	ji;bu by;bb ks;fk vi;dg yu;aa yu;yy fh;ef vs;aa xn;dd
 杉山优斗	uj;mp uj;aa yb;ry db;du
-向着前方的光	xd;pk ve;yo qm;qd fh;wd de;bu gd;ea
+向着前方的光	xd;pk ve;yo qm;qd fh;dg de;bu gd;ea
 斯特里奥	si;jq te;ns li;aa ao;dm
 决斗场机制	jt;dd db;du ih;ty ji;mj vi;dg
 笑面教授	xc;vy mm;aa jc;wx ub;fu
@@ -118703,7 +118703,7 @@ use_preset_vocabulary: false
 你看见了天使在我眼中	ni;re kj;ou jm;ag le;aa tm;ad ui;rl zl;ut wo;pd yj;og vs;aa
 特殊发型	te;ns uu;dv fa;ay xy;tx
 表象疑问	bc;fy xd;du yi;bp wf;km
-松方结	ss;mg fh;wd jx;sj
+松方结	ss;mg fh;dg jx;sj
 致来自银河的你	vi;wv ll;am zi;pa yn;jg he;dk de;bu ni;re
 恋爱少不了撒娇	lm;xy ai;vy uk;xp bu;ad lc;aa sa;fs jc;nq
 勇气大爆发	ys;ly qi;py da;ad bk;hb fa;ay
@@ -118800,7 +118800,7 @@ use_preset_vocabulary: false
 斯图威格里芬	si;jq tu;kd wz;gn ge;mg li;aa ff;cf
 剧场版世界计划	ju;dj ih;ty bj;pf ui;ca jx;tj ji;yu hw;dg
 雾周途	wu;yw vb;kt tu;zy
-魔女的制作方法	mo;gm nv;aa de;bu vi;dg zo;rv fh;wd fa;dq
+魔女的制作方法	mo;gm nv;aa de;bu vi;dg zo;rv fh;dg fa;dq
 被拯救了	bz;yp vg;fi jq;wq le;aa
 致我们梦想的舞台	vi;wv wo;pd mf;rm mg;mx xd;xx de;bu wu;rf tl;sk
 与奔向透明夜晚的你的不可见恋爱	yu;aa bf;dc xd;pk tb;zx my;oo ye;wd wj;om de;bu ni;re de;bu bu;ad ke;dk jm;ag lm;xy ai;vy
@@ -118960,7 +118960,7 @@ use_preset_vocabulary: false
 渡边有加里	du;dd bm;zl yb;ou jw;lk li;aa
 几田莉拉	ji;py tm;aa li;cl la;fl
 阳向葵优花	yh;eo xd;pk kv;cg yb;ry hw;ch
-在冲绳喜欢上的女孩子方言讲太多太棘手了	zl;ut is;dv ug;sd xi;uk hr;qy uh;aa de;bu nv;aa hl;zh zi;aa fh;wd yj;wk jd;yj tl;dd do;xx tl;dd ji;cc ub;pa le;aa
+在冲绳喜欢上的女孩子方言讲太多太棘手了	zl;ut is;dv ug;sd xi;uk hr;qy uh;aa de;bu nv;aa hl;zh zi;aa fh;dg yj;wk jd;yj tl;dd do;xx tl;dd ji;cc ub;pa le;aa
 黑檀皇后的苹果	hz;ha tj;md hd;bw hb;pk de;bu py;cp go;tm
 土御门丽香	tu;aa yu;xx mf;dg li;ad xd;ho
 汤姆马沃罗里德尔	th;dy mu;nm ma;aa wo;dy lo;sx li;aa de;xx er;dx
@@ -119031,7 +119031,7 @@ use_preset_vocabulary: false
 疾风王亚历山大	ji;bu fg;ji wh;aa ya;ay li;il uj;aa da;ad
 芙蕾伽冯贝尔谷里斯	fu;cf lz;cl ga;rj fg;dm bz;ad er;dx gu;bk li;aa si;jq
 不是梦想还能是什么	bu;ad ui;op mg;mx xd;xx hl;zb ng;sb ui;op uf;ru me;ps
-三方面谈	sj;aa fh;wd mm;aa tj;yy
+三方面谈	sj;aa fh;dg mm;aa tj;yy
 御中知求	yu;xx vs;aa vi;ku qq;ad
 缝制的华尔兹	fg;sf vi;dg de;bu hw;uh er;dx zi;qy
 兽龙种	ub;ka ls;ad vs;hv
@@ -119259,7 +119259,7 @@ use_preset_vocabulary: false
 占据面具	vj;bk ju;fj mm;aa ju;ba
 史里乌	ui;ki li;aa wu;pa
 伊万里楠乃	yi;ry wj;ag li;aa nj;mn nl;pg
-去向任何地方	qu;ts xd;pk rf;rr he;rk di;ty fh;wd
+去向任何地方	qu;ts xd;pk rf;rr he;rk di;ty fh;dg
 森田力斗	sf;ml tm;aa li;gp db;du
 最后的法老	zv;oq hb;pk de;bu fa;dq lk;lb
 转生后想要在田园过慢生活	vr;iv ug;na hb;pk xd;xx yk;xn zl;ut tm;aa yr;ky go;zc mj;xm ug;na ho;du
@@ -119332,7 +119332,7 @@ use_preset_vocabulary: false
 幻觉来了卧槽	hr;yg jt;jb ll;am le;aa wo;ib ck;mc
 发间饰与心上花	fa;ay jm;mo ui;uj yu;aa xn;dd uh;aa hw;ch
 㚻向	ji;nt xd;pk
-东方幻存神签	ds;ad fh;wd hr;yg cp;uz uf;uu qm;va
+东方幻存神签	ds;ad fh;dg hr;yg cp;uz uf;uu qm;va
 直谷隆	vi;uq gu;bk ls;eu
 丑陋	ib;aa lb;ea
 樱云	yy;my yp;es
@@ -119354,7 +119354,7 @@ use_preset_vocabulary: false
 打什么东西不费力气又舒服呢	da;fd uf;ru me;ps ds;ad xi;aa bu;ad fz;bf li;gp qi;py yb;vd uu;yu fu;oy ne;kn
 向光辉静候的明天	xd;pk gd;ea hv;gj jy;qv hb;ru de;bu my;oo tm;ad
 声音太小了真的很抱歉	ug;um yn;lo tl;dd xc;ad le;aa vf;uj de;bu hf;xg bk;fb qm;qj
-对多方面自我牺牲或称为爱的行动的反思	dv;cy do;xx fh;wd mm;aa zi;pa wo;pd xi;nx ug;nu ho;gk ig;he wz;dd ai;vy de;bu xy;xi ds;ly de;bu fj;py si;xt
+对多方面自我牺牲或称为爱的行动的反思	dv;cy do;xx fh;dg mm;aa zi;pa wo;pd xi;nx ug;nu ho;gk ig;he wz;dd ai;vy de;bu xy;xi ds;ly de;bu fj;py si;xt
 休伯特亚历山大克莱希	xq;rm bo;rb te;ns ya;ay li;il uj;aa da;ad ke;eg ll;cl xi;ib
 步云书局	bu;vx yp;es uu;ad ju;uk
 给你如花一样美丽我恋爱了	gz;sh ni;re ru;nk hw;ch yi;aa yh;my mz;dy li;ad wo;pd lm;xy ai;vy le;aa
@@ -119680,7 +119680,7 @@ use_preset_vocabulary: false
 杜坦	du;mt tj;td
 大人气的孩子	da;ad rf;pd qi;py de;bu hl;zh zi;aa
 第十六章	di;vp ui;aa lq;wb vh;lz
-泪的配方	lz;do de;bu pz;yj fh;wd
+泪的配方	lz;do de;bu pz;yj fh;dg
 凌烈	ly;dl lx;hl
 怪诞	gy;xu dj;yy
 迷路的孩子山中神隐奇谭	mi;zm lu;zg de;bu hl;zh zi;aa uj;aa vs;aa uf;uu yn;ej qi;dk tj;yt
@@ -119938,7 +119938,7 @@ use_preset_vocabulary: false
 樱井美代	yy;my jy;aa mz;dy dl;ry
 真实夜琦	vf;uj ui;bt ye;wd qi;wq
 百眼魔君	bl;ab yj;og mo;gm jp;ky
-黄金的彼方	hd;cb jn;ra de;bu bi;xp fh;wd
+黄金的彼方	hd;cb jn;ra de;bu bi;xp fh;dg
 威远式炮击型	wz;gn yr;zy ui;gy pk;hb ji;fk xy;tx
 威远式空击型	wz;gn yr;zy ui;gy ks;xg ji;fk xy;tx
 妙主九命猫	mc;nu vu;dw jq;py my;re mk;qm
@@ -119998,7 +119998,7 @@ use_preset_vocabulary: false
 梦千里	mg;mx qm;pa li;aa
 假面变换	jw;rj mm;aa bm;wy hr;fh
 五十岚珠里亚	wu;aa ui;aa lj;uf vu;wv li;aa ya;ay
-后方之水	hb;pk fh;wd vi;dd uv;ad
+后方之水	hb;pk fh;dg vi;dd uv;ad
 艾尔弗里吉斯	ai;ci er;dx fu;aa li;aa ji;ku si;jq
 技术性调整	ji;fv uu;md xy;xu tc;yv vg;vi
 华生你突破了盲点	hw;uh ug;na ni;re tu;xq po;up le;aa mh;ow dm;hv
@@ -120038,7 +120038,7 @@ use_preset_vocabulary: false
 种族改变	vs;hv zu;fu gl;wj bm;wy
 宋云祥	ss;bm yp;es xd;uy
 星布谷地	xy;ou bu;ju gu;bk di;ty
-处方签	iu;wb fh;wd qm;va
+处方签	iu;wb fh;dg qm;va
 假面骑士月读	jw;rj mm;aa qi;mq ui;aa yt;pa du;ym
 炫狂小队	xr;hx kd;qw xc;ad dv;er
 想成为怪兽	xd;xx ig;gg wz;dd gy;xu ub;ka
@@ -120496,7 +120496,7 @@ use_preset_vocabulary: false
 战斗前夜	vj;gv db;du qm;qd ye;wd
 变身综合征	bm;wy uf;pp zs;sz he;rk vg;xv
 超限斗神	ik;zv xm;eg db;du uf;uu
-两种方法	ld;ad vs;hv fh;wd fa;dq
+两种方法	ld;ad vs;hv fh;dg fa;dq
 巴特潘赛里诺斯	ba;ag te;ns pj;df sl;bb li;aa no;yr si;jq
 家长控制	jw;bu vh;pd ks;fk vi;dg
 往日种种	wh;xv ri;aa vs;hv vs;hv
@@ -120543,7 +120543,7 @@ use_preset_vocabulary: false
 棉花娃娃	mm;mb hw;ch wa;ng wa;ng
 若天将晓	ro;cy tm;ad jd;jc xc;oy
 安心时刻	an;bn xn;dd ui;oc ke;dh
-音乐魔方	yn;lo yt;pd mo;gm fh;wd
+音乐魔方	yn;lo yt;pd mo;gm fh;dg
 工亡	gs;aa wh;da
 索菲图丝	so;sb fz;cf tu;kd si;aa
 诺顿的白昼	no;yr dp;yt de;bu bl;pa vb;id
@@ -120691,7 +120691,7 @@ use_preset_vocabulary: false
 库珀花环	ku;gi po;wb hw;ch hr;wb
 金刚铠甲	jn;ra gh;dg kl;jj jw;aa
 沙亚特	ua;du ya;ay te;ns
-庄方宜	vd;gt fh;wd yi;bq
+庄方宜	vd;gt fh;dg yi;bq
 伟哥	wz;rw ge;kd
 欺诈游戏	qi;qq va;yv yb;dz xi;yg
 声痕	ug;um hf;bg
@@ -121027,7 +121027,7 @@ use_preset_vocabulary: false
 元老鱼人	yr;aw lk;lb yu;da rf;pd
 爱芮	ai;vy rv;cn
 莉琪露	li;cl qi;wq lu;yl
-北方哨歌	bz;ag fh;wd uk;kx ge;qg
+北方哨歌	bz;ag fh;dg uk;kx ge;qg
 直到梦不再是梦的那一天	vi;uq dk;dv mg;mx bu;ad zl;aa ui;op mg;mx de;bu na;el yi;aa tm;ad
 暗潮将映的黎明	an;oy ik;di jd;jc yy;oy de;bu li;hu my;oo
 新撰组	xn;jq vr;fx zu;sq
@@ -121225,7 +121225,7 @@ use_preset_vocabulary: false
 先行公约	xm;ne xy;xi gs;sb yt;su
 安宅切	an;bn vl;bq qx;dq
 谛天鉴	di;yd tm;ad jm;jv
-方州	fh;wd vb;id
+方州	fh;dg vb;id
 元流之子	yr;aw lq;di vi;dd zi;aa
 呕吐物胡萝卜	ou;kq tu;kt wu;nw hu;og lo;cl bo;ad
 大洋彼岸的传承者	da;ad yh;dy bi;xp an;ug de;bu ir;rv ig;ad ve;ol
@@ -121518,7 +121518,7 @@ use_preset_vocabulary: false
 眠月	mm;om yt;pa
 化脓性链球菌	hw;rb ns;on xy;xu lm;jl qq;wq jp;ch
 撒古特	sa;fs gu;uk te;ns
-乐鸣东方	le;pd my;kn ds;ad fh;wd
+乐鸣东方	le;pd my;kn ds;ad fh;dg
 柊忠雄	vs;md vs;xv xs;vh
 铃狐冥牙	ly;jl hu;qg my;bl ya;ap
 凤心奈	fg;jy xn;dd nl;du
@@ -122022,7 +122022,7 @@ use_preset_vocabulary: false
 亚历山大布斯	ya;ay li;il uj;aa da;ad bu;ju si;jq
 鼠系	uu;ju xi;ps
 欢乐斗地主	hr;qy le;pd db;du di;ty vu;dw
-片方的祈愿	pm;pa fh;wd de;bu qi;uj yr;xy
+片方的祈愿	pm;pa fh;dg de;bu qi;uj yr;xy
 广庭溪斗	gd;dp ty;gt xi;dx db;du
 因为相逢了	yn;kd wz;dd xd;mo fg;zf le;aa
 动物系	ds;ly wu;nw xi;ps
@@ -122094,7 +122094,7 @@ use_preset_vocabulary: false
 用婚礼的吻	ys;kf hp;nh li;ug de;bu wf;kw
 兰的主题曲	lj;qe de;bu vu;dw ti;uy qu;aa
 少许的勇气	uk;xp xu;yw de;bu ys;ly qi;py
-终结彼方的黑暗	vs;sd jx;sj bi;xp fh;wd de;bu hz;ha an;oy
+终结彼方的黑暗	vs;sd jx;sj bi;xp fh;dg de;bu hz;ha an;oy
 恋狱	lm;xy yu;qq
 安闲领主的愉快领地防卫	an;bn xm;mm ly;yl vu;dw de;bu yu;xy ky;xd ly;yl di;ty fh;ef wz;ga
 糕怪日常	gk;mg gy;xu ri;aa ih;jk
@@ -122176,7 +122176,7 @@ use_preset_vocabulary: false
 下北篇	xw;ab bz;ag pm;vb
 没有日期的墓碑	mz;du yb;ou ri;aa qi;oq de;bu mu;tm bz;ub
 钉钉棒暴力团的日常	dy;jd dy;jd bh;mf bk;ou li;gp tr;kc de;bu ri;aa ih;jk
-梦想的彼方	mg;mx xd;xx de;bu bi;xp fh;wd
+梦想的彼方	mg;mx xd;xx de;bu bi;xp fh;dg
 因为想成为网络配信者的女朋友	yn;kd wz;dd xd;xx ig;gg wz;dd wh;ki lo;sg pz;yj xn;ry ve;ol de;bu nv;aa pg;oo yb;yu
 大份	da;ad ff;rf
 玻璃维亚	bo;wp li;wl wz;sv ya;ay
@@ -122319,7 +122319,7 @@ use_preset_vocabulary: false
 变女	bm;wy nv;aa
 正在解明的爱	vg;av zl;ut jx;jn my;oo de;bu ai;vy
 他能在当天免于一死吗	ta;ry ng;sb zl;ut dh;xx tm;ad mm;de yu;aa yi;aa si;db ma;km
-成为小说家的方法	ig;gg wz;dd xc;ad uo;yd jw;bu de;bu fh;wd fa;dq
+成为小说家的方法	ig;gg wz;dd xc;ad uo;yd jw;bu de;bu fh;dg fa;dq
 多彩田园曲	do;xx cl;pc tm;aa yr;ky qu;aa
 小职员异世界佛心企业初体验	xc;ad vi;ev yr;kb yi;cs ui;ca jx;tj fu;rf xn;dd qi;rv ye;aa iu;yd ti;rb yj;ma
 梅时露霁书	mz;mm ui;oc lu;yl ji;yq uu;ad
@@ -122344,7 +122344,7 @@ use_preset_vocabulary: false
 的世界自由过活	de;bu ui;ca jx;tj zi;pa yb;aa go;zc ho;du
 基沃托斯晄轮大祭	ji;tq wo;dy to;fq si;jq hd;og lp;il da;ad ji;uy
 転结	vr;iy jx;sj
-在与你相伴的地方	zl;ut yu;aa ni;re xd;mo bj;rb de;bu di;ty fh;wd
+在与你相伴的地方	zl;ut yu;aa ni;re xd;mo bj;rb de;bu di;ty fh;dg
 龙姬混	ls;ad ji;ni hp;dk
 欢迎来到铭治馆	hr;qy yy;ze ll;am dk;dv my;jm vi;dt gr;ug
 地下室迷宫	di;ty xw;ab ui;bv mi;zm gs;bl
@@ -122569,7 +122569,7 @@ use_preset_vocabulary: false
 同居计划	ts;kk ju;ug ji;yu hw;dg
 一秒之后	yi;aa mc;hu vi;dd hb;pk
 魔王将征服世界	mo;gm wh;aa jd;jc vg;xv fu;oy ui;ca jx;tj
-向着苍之彼方	xd;pk ve;yo ch;cc vi;dd bi;xp fh;wd
+向着苍之彼方	xd;pk ve;yo ch;cc vi;dd bi;xp fh;dg
 棒球的玩法及其历史	bh;mf qq;wq de;bu wj;wy fa;dq ji;nd qi;ba li;il ui;ki
 通向梦之银河	ts;zy xd;pk mg;mx vi;dd yn;jg he;dk
 疾风的去向	ji;bu fg;ji de;bu qu;ts xd;pk
@@ -122664,7 +122664,7 @@ use_preset_vocabulary: false
 剑问长生	jm;da wf;km ih;pd ug;na
 利瓦伊丰塔那	li;hd wa;ad yi;ry fg;aa ta;td na;el
 暗夜追缉者	an;oy ye;wd vv;zv ji;se ve;ol
-魔法的正确使用方法	mo;gm fa;dq de;bu vg;av qt;uj ui;rl ys;kf fh;wd fa;dq
+魔法的正确使用方法	mo;gm fa;dq de;bu vg;av qt;uj ui;rl ys;kf fh;dg fa;dq
 无烬魂王	wu;ag jn;hj hp;gy wh;aa
 年年对对	nm;ra nm;ra dv;cy dv;cy
 大家一起锵锵	da;ad jw;bu yi;aa qi;zj qd;jj qd;jj
@@ -122716,7 +122716,7 @@ use_preset_vocabulary: false
 灵魂护送船	ly;hx hp;gy hu;fh ss;zg ir;vk
 潘掌柜	pj;df vh;uk gv;mj
 篠田渚王也	xc;vt tm;aa vu;dv wh;aa ye;gg
-成为朋友的地方	ig;gg wz;dd pg;oo yb;yu de;bu di;ty fh;wd
+成为朋友的地方	ig;gg wz;dd pg;oo yb;yu de;bu di;ty fh;dg
 黑黑的白描	hz;ha hz;ha de;bu bl;pa mc;fm
 涅普露	nx;dn pu;ob lu;yl
 心理性谜题	xn;dd li;wl xy;xu mi;ym ti;uy
@@ -122872,7 +122872,7 @@ use_preset_vocabulary: false
 露姆莉亚	lu;yl mu;nm li;cl ya;ay
 薇罗尼卡格雷本奇科瓦	wz;cw lo;sx ni;ub ka;ub ge;mg lz;yt bf;aa qi;dk ke;hd wa;ad
 不是情歌	bu;ad ui;op qy;xq ge;qg
-方块论破雾岛学院	fh;wd ky;td lp;yl po;up wu;yw dk;nu xt;zb yr;ew
+方块论破雾岛学院	fh;dg ky;td lp;yl po;up wu;yw dk;nu xt;zb yr;ew
 送别	ss;zg bx;dl
 索玛	so;sb ma;wm
 人缘好	rf;pd yr;st hk;nz
@@ -122999,7 +122999,7 @@ use_preset_vocabulary: false
 生姜蛋包饭	ug;na jd;ny dj;ip bk;gs fj;uf
 詹姆斯华莱士	vj;yb mu;nm si;jq hw;uh ll;cl ui;aa
 篠川文香	xc;vt ir;pa wf;wi xd;ho
-官方账号	gr;bg fh;wd vh;bi hk;kk
+官方账号	gr;bg fh;dg vh;bi hk;kk
 不虐待我的继母与继姐	bu;ad nt;ha dl;xs wo;pd de;bu ji;sa mu;vd yu;aa ji;sa jx;nq
 亥班	hl;wr bj;dw
 枪客	qd;mc ke;bg
@@ -123008,7 +123008,7 @@ use_preset_vocabulary: false
 秋篠姬香	qq;hh xc;vt ji;ni xd;ho
 田沼要	tm;aa vk;dv yk;xn
 惊天雷	jy;xj tm;ad lz;yt
-方清雪	fh;wd qy;dq xt;yx
+方清雪	fh;dg qy;dq xt;yx
 四花缭乱之灵使	si;aa hw;ch lc;sl lr;ug vi;dd ly;hx ui;rl
 野蛮的兽人之国如何烧毁和平的精灵之国	ye;ly mj;iy de;bu ub;ka rf;pd vi;dd go;ky ru;nk he;rk uk;hy hv;ug he;hk py;aa de;bu jy;mq ly;hx vi;dd go;ky
 市川香菜	ui;wj ir;pa xd;ho cl;cc
@@ -123094,7 +123094,7 @@ use_preset_vocabulary: false
 开心	kl;ac xn;dd
 阿尔法蓝宝石	aa;ek er;dx fa;dq lj;cj bk;by ui;kp
 叫吧	jc;kj ba;kb
-远方的樱	yr;zy fh;wd de;bu yy;my
+远方的樱	yr;zy fh;dg de;bu yy;my
 柊篠娅	vs;md xc;vt ya;ny
 贫穷贵公子	pn;bf qs;xl gv;ba gs;sb zi;aa
 秋月信彦	qq;hh yt;pa xn;ry yj;ip
@@ -123312,7 +123312,7 @@ use_preset_vocabulary: false
 兽化奇遇	ub;ka hw;rb qi;dk yu;zy
 新加坡航空	xn;jq jw;lk po;tp hh;vk ks;xg
 飞镰	fz;yd lm;jl
-方寒	fh;wd hj;bd
+方寒	fh;dg hj;bd
 启程的早晨	qi;hk ig;hi de;bu zk;ou if;oi
 大贤者利多尔的时间逆行	da;ad xm;by ve;ol li;hd do;xx er;dx de;bu ui;oc jm;mo ni;zn xy;xi
 孤火	gu;zg ho;dd
@@ -123332,7 +123332,7 @@ use_preset_vocabulary: false
 花瓣哀歌	hw;ch bj;gx ai;wy ge;qg
 铁花飞	tx;ju hw;ch fz;yd
 张顺飞	vh;gi up;yi fz;yd
-敌方	di;wu fh;wd
+敌方	di;wu fh;dg
 阿秩	aa;ek vi;hu
 锦唐	jn;jb th;gk
 苍南会馆	ch;cc nj;ua hv;ry gr;ug
@@ -123749,7 +123749,7 @@ use_preset_vocabulary: false
 律师先生别打了	lv;xy ui;ab xm;ne ug;na bx;dl da;fd le;aa
 松井诚一郎	ss;mg jy;aa ig;yi yi;aa lh;el
 希里欧斯	xi;ib li;aa ou;qq si;jq
-致身处比任何地方都更遥远的你	vi;wv uf;pp iu;wb bi;bb rf;rr he;rk di;ty fh;wd db;ev gg;ad yk;zf yr;zy de;bu ni;re
+致身处比任何地方都更遥远的你	vi;wv uf;pp iu;wb bi;bb rf;rr he;rk di;ty fh;dg db;ev gg;ad yk;zf yr;zy de;bu ni;re
 大致时间顺序	da;ad vi;wv ui;oc jm;mo up;yi xu;gy
 武斗家	wu;vy db;du jw;bu
 亚空间战斗	ya;ay ks;xg jm;mo vj;gv db;du
@@ -123802,7 +123802,7 @@ use_preset_vocabulary: false
 燕云十六声	yj;ch yp;es ui;aa lq;wb ug;um
 遮单眼发	ve;zu dj;ba yj;og fa;ay
 圣百合饼干	ug;ty bl;ab he;rk by;ub gj;aa
-处方签	iu;wb fh;wd qm;va
+处方签	iu;wb fh;dg qm;va
 宛如向阳之处	wj;be ru;nk xd;pk yh;eo vi;dd iu;wb
 美女与野兽的最后之恋	mz;dy nv;aa yu;aa ye;ly ub;ka de;bu zv;oq hb;pk vi;dd lm;xy
 坏掉了啊	hy;tb dc;fv le;aa aa;ka
@@ -123927,7 +123927,7 @@ use_preset_vocabulary: false
 当代生存图	dh;xx dl;ry ug;na cp;uz tu;kd
 戈仑石人	ge;ad lp;rb ui;kp rf;pd
 断光之努亚达	dr;ja gd;ea vi;dd nu;ln ya;ay da;zd
-离星星最近的地方	li;ws xy;ou xy;ou zv;oq jn;zj de;bu di;ty fh;wd
+离星星最近的地方	li;ws xy;ou xy;ou zv;oq jn;zj de;bu di;ty fh;dg
 净天	jy;dv tm;ad
 能量跃迁者	ng;sb ld;ol yt;zy qm;zq ve;ol
 终焉彗星兰	vs;sd yj;vh hv;fx xy;ou lj;qe
@@ -124055,7 +124055,7 @@ use_preset_vocabulary: false
 妖精剑希尔文	yk;ny jy;mq jm;da xi;ib er;dx wf;wi
 锦筝叹	jn;jb vg;vv tj;ky
 轻弦	qy;ig xm;gx
-世界的行走方式	ui;ca jx;tj de;bu xy;xi zb;tv fh;wd ui;gy
+世界的行走方式	ui;ca jx;tj de;bu xy;xi zb;tv fh;dg ui;gy
 幻塔索斯	hr;yg ta;td so;sb si;jq
 黎明审判	li;hu my;oo uf;bu pj;db
 赛蕾莉亚	sl;bb lz;cl li;cl ya;ay
@@ -124096,7 +124096,7 @@ use_preset_vocabulary: false
 幻海猎手	hr;yg hl;dm lx;qx ub;pa
 芳臣	fh;cf if;aa
 寒霜之雨	hj;bd ud;yx vi;dd yu;ad
-歌方月乃	ge;qg fh;wd yt;pa nl;pg
+歌方月乃	ge;qg fh;dg yt;pa nl;pg
 明朝	my;oo ik;ou
 吸能太刀	xi;kj ng;sb tl;dd dk;gp
 恒霜之斯卡蒂	hg;xg ud;yx vi;dd si;jq ka;ub di;cd
@@ -124174,7 +124174,7 @@ use_preset_vocabulary: false
 咻咻	xq;kx xq;kx
 大结局篇	da;ad jx;sj ju;uk pm;vb
 影鵺	yy;pj ye;ny
-光的收集方法	gd;ea de;bu ub;wj ji;vm fh;wd fa;dq
+光的收集方法	gd;ea de;bu ub;wj ji;vm fh;dg fa;dq
 星环漩涡	xy;ou hr;wb xr;dx wo;dg
 柯少峰	ke;mk uk;xp fg;uf
 游骑兵腕甲	yb;dz qi;mq by;qb wj;ow jw;aa
@@ -124579,7 +124579,7 @@ use_preset_vocabulary: false
 雷克萨	lz;yt ke;eg sa;ci
 黑泽乙女	hz;ha ze;df yi;aa nv;aa
 谬因	mq;yl yn;kd
-东方不败亚洲尊者	ds;ad fh;wd bu;ad bl;wb ya;ay vb;dv zp;cq ve;ol
+东方不败亚洲尊者	ds;ad fh;dg bu;ad bl;wb ya;ay vb;dv zp;cq ve;ol
 神之眼点亮灰色世界	uf;uu vi;dd yj;og dm;hv ld;wj hv;hu se;db ui;ca jx;tj
 夜猫三姐妹	ye;wd mk;qm sj;aa jx;nq mz;nw
 风白羽	fg;ji bl;pa yu;xx
@@ -124975,7 +124975,7 @@ use_preset_vocabulary: false
 美型妖精大混战	mz;dy xy;tx yk;ny jy;mq da;ad hp;dk vj;gv
 高宫宗一郎	gk;wk gs;bl zs;bu yi;aa lh;el
 裸腿	lo;yg tv;ot
-比天空更湛蓝的地方	bi;bb tm;ad ks;xg gg;ad vj;du lj;cj de;bu di;ty fh;wd
+比天空更湛蓝的地方	bi;bb tm;ad ks;xg gg;ad vj;du lj;cj de;bu di;ty fh;dg
 亓麟	qi;aq ln;ll
 魔力枯竭的黑暗精灵	mo;gm li;gp ku;mg jx;lh de;bu hz;ha an;oy jy;mq ly;hx
 奥黛塔	ao;dm dl;hd ta;td
@@ -125048,7 +125048,7 @@ use_preset_vocabulary: false
 古手梨花的父亲	gu;uk ub;pa li;ml hw;ch de;bu fu;pd qn;lm
 回忆千层酥	hv;kk yi;xy qm;pa cg;uy su;yh
 鬼武者	gv;pd wu;vy ve;ol
-方清薇	fh;wd qy;dq wz;cw
+方清薇	fh;dg qy;dq wz;cw
 葵祭	kv;cg ji;uy
 原剑空	yr;ix jm;da ks;xg
 地元最高	di;ty yr;aw zv;oq gk;wk
@@ -125090,7 +125090,7 @@ use_preset_vocabulary: false
 外务筹策局	wl;xb wu;wl ib;vu ce;vc ju;uk
 古川涟	gu;uk ir;pa lm;dl
 角醒猎人欧米茄号角	jc;dy xy;yx lx;qx rf;pd ou;qq mi;dd jw;cj hk;kk jc;dy
-中国东方航空	vs;aa go;ky ds;ad fh;wd hh;vk ks;xg
+中国东方航空	vs;aa go;ky ds;ad fh;dg hh;vk ks;xg
 巨大女英雄	ju;kk da;ad nv;aa yy;cy xs;vh
 我的同学是诸葛双双	wo;pd de;bu ts;kk xt;zb ui;op vu;yv ge;ch ud;yy ud;yy
 家长指引	jw;bu vh;pd vi;fv yn;ga
@@ -125256,7 +125256,7 @@ use_preset_vocabulary: false
 白渡小咏	bl;pa du;dd xc;ad ys;ky
 上古龙	uh;aa gu;uk ls;ad
 茜柊一朗	qm;cx vs;md yi;aa lh;ol
-花丸方程式	hw;ch wj;jd fh;wd ig;hi ui;gy
+花丸方程式	hw;ch wj;jd fh;dg ig;hi ui;gy
 金奕鸣	jn;ra yi;dy my;kn
 无花果烟	wu;ag hw;ch go;tm yj;hy
 永恒星	ys;dd hg;xg xy;ou
@@ -125521,7 +125521,7 @@ use_preset_vocabulary: false
 骚混出	sk;mi hp;dk iu;aa
 漫画猫	mj;dm hw;ak mk;qm
 普蕾茜亚泰斯特罗莎	pu;ob lz;cl qm;cx ya;ay tl;uf si;jq te;ns lo;sx ua;cu
-方糖	fh;wd th;mt
+方糖	fh;dg th;mt
 桥本喵	qc;mq bf;aa mc;km
 弱井豆豆子	ro;gd jy;aa db;aa db;aa zi;aa
 电影侦探	dm;ag yy;pj vf;rv tj;fm
@@ -125722,7 +125722,7 @@ use_preset_vocabulary: false
 祝部浩也	vu;ux bu;ek hk;dg ye;gg
 甲贺伊绪	jw;aa he;bj yi;ry xu;sv
 元叙事	yr;aw xu;yy ui;aa
-方舟	fh;wd vb;pd
+方舟	fh;dg vb;pd
 加库玛	jw;lk ku;gi ma;wm
 新岛瑠菜	xn;jq dk;nu lq;wl cl;cc
 琉璃祭	lq;wi li;wl ji;uy
@@ -126088,7 +126088,7 @@ use_preset_vocabulary: false
 金清佳	jn;ra qy;dq jw;rg
 扎菲拉	va;fg fz;cf la;fl
 郑在成	vg;eg zl;ut ig;gg
-陶德方古	tk;et de;xx fh;wd gu;uk
+陶德方古	tk;et de;xx fh;dg gu;uk
 辛勃	xn;lu bo;lb
 笑美饼	xc;vy mz;dy by;ub
 爱尔兰航空	ai;vy er;dx lj;qe hh;vk ks;xg
@@ -126476,7 +126476,7 @@ use_preset_vocabulary: false
 好像拿错了女主剧本	hk;nz xd;rx na;uh co;jx le;aa nv;aa vu;dw ju;dj bf;aa
 水原明钟	uv;ad yr;ix my;oo vs;jv
 假面骑士梦现	jw;rj mm;aa qi;mq ui;aa mg;mx xm;wj
-与你一起醒来的若干方法	yu;aa ni;re yi;aa qi;zj xy;yx ll;am de;bu ro;cy gj;aa fh;wd fa;dq
+与你一起醒来的若干方法	yu;aa ni;re yi;aa qi;zj xy;yx ll;am de;bu ro;cy gj;aa fh;dg fa;dq
 漫威斗魂	mj;dm wz;gn db;du hp;gy
 除了你别无所求	iu;ey le;aa ni;re bx;dl wu;ag so;hj qq;ad
 佐谷霞巳不能没有你	zo;rz gu;bk xw;yj si;ag bu;ad ng;sb mz;du yb;ou ni;re
@@ -126622,7 +126622,7 @@ use_preset_vocabulary: false
 这真是美妙的魔法	ve;zw vf;uj ui;op mz;dy mc;nu de;bu mo;gm fa;dq
 堕落天国	do;td lo;cl tm;ad go;ky
 米瑞尔	mi;dd rv;we er;dx
-南方龙之介	nj;ua fh;wd ls;ad vi;dd jx;ra
+南方龙之介	nj;ua fh;dg ls;ad vi;dd jx;ra
 怪兽勋章	gy;xu ub;ka xp;ly vh;lz
 长畑克也	vh;pd tm;ht ke;eg ye;gg
 刘海川	lq;dw hl;dm ir;pa
@@ -126708,7 +126708,7 @@ use_preset_vocabulary: false
 黑暗洛普斯	hz;ha an;oy lo;dg pu;ob si;jq
 望乡	wh;wo xd;ap
 隐身草	yn;ej uf;pp ck;cz
-秦宣四方	qn;hf xr;bg si;aa fh;wd
+秦宣四方	qn;hf xr;bg si;aa fh;dg
 旋转不止	xr;fp vr;iv bu;ad vi;aa
 大寒	da;ad hj;bd
 吹笛子的女孩	iv;kq di;vy zi;aa de;bu nv;aa hl;zh
@@ -126818,7 +126818,7 @@ use_preset_vocabulary: false
 十万伏特	ui;aa wj;ag fu;rq te;ns
 故纸浮生	gu;wg vi;su fu;df ug;na
 半族	bj;bf zu;fu
-官方比赛一览	gr;bg fh;wd bi;bb sl;bb yi;aa lj;jv
+官方比赛一览	gr;bg fh;dg bi;bb sl;bb yi;aa lj;jv
 高田清美	gk;wk tm;aa qy;dq mz;dy
 罗曼卡拉克斯	lo;sx mj;oy ka;ub la;fl ke;eg si;jq
 儿玉柚	er;pg yu;wd yb;my
@@ -126834,7 +126834,7 @@ use_preset_vocabulary: false
 镇朝睚眦	vf;jv ik;ou ya;oy zi;oc
 只有一点点	vi;kb yb;ou yi;aa dm;hv dm;hv
 梅拉妮卡彭	mz;mm la;fl ni;nn ka;ub pg;pd
-枚方初音	mz;mw fh;wd iu;yd yn;lo
+枚方初音	mz;mw fh;dg iu;yd yn;lo
 神鸣	uf;uu my;kn
 往事难言	wh;xv ui;aa nj;vy yj;wk
 夏井耀祖	xw;wz jy;aa yk;gd zu;uq
@@ -126951,7 +126951,7 @@ use_preset_vocabulary: false
 四叶继承篇	si;aa ye;ku ji;sa ig;ad pm;vb
 社美胡	ue;ut mz;dy hu;og
 中性装甲	vs;aa xy;xu vd;yv jw;aa
-四方山翼	si;aa fh;wd uj;aa yi;yg
+四方山翼	si;aa fh;dg uj;aa yi;yg
 有象无象	yb;ou xd;du wu;ag xd;du
 古城爱莉	gu;uk ig;ti ai;vy li;cl
 逃避现实二人组	tk;zv bi;zb xm;wj ui;bt er;aa rf;pd zu;sq
@@ -127013,7 +127013,7 @@ use_preset_vocabulary: false
 闪电链	uj;mr dm;ag lm;jl
 十二支同盟	ui;aa er;aa vi;uy ts;kk mg;mm
 满开	mj;dl kl;ac
-敌方单位	di;wu fh;wd dj;ba wz;rl
+敌方单位	di;wu fh;dg dj;ba wz;rl
 快乐结局水生动物	ky;xd le;pd jx;sj ju;uk uv;ad ug;na ds;ly wu;nw
 经理女孩悠悠日常	jy;sg li;wl nv;aa hl;zh yb;xw yb;xw ri;aa ih;jk
 游灵野幽子	yb;dz ly;hx ye;ly yb;uy zi;aa
@@ -127048,7 +127048,7 @@ use_preset_vocabulary: false
 月儿升	yt;pa er;pg ug;pc
 超分辨率的破坏活动	ik;zv ff;bd bm;dx lv;wu de;bu po;up hy;tb ho;du ds;ly
 乌托邦幸福论	wu;pa to;fq bh;ef xy;tu fu;uf lp;yl
-人立方	rf;pd li;da fh;wd
+人立方	rf;pd li;da fh;dg
 于黎明前夕	yu;aa li;hu my;oo qm;qd xi;pd
 予明日的叶笺	yu;sa my;oo ri;aa de;bu ye;ku jm;vj
 磷粉蛇枪	ln;ul ff;mf ue;it qd;mc
@@ -127149,7 +127149,7 @@ use_preset_vocabulary: false
 后台	hb;pk tl;sk
 周子瑜	vb;kt zi;aa yu;wy
 感觉像是喝了很烈的酒一样	gj;xx jt;jb xd;rx ui;op he;kh le;aa hf;xg lx;hl de;bu jq;dy yi;aa yh;my
-前进的方向是超银河	qm;qd jn;zj de;bu fh;wd xd;pk ui;op ik;zv yn;jg he;dk
+前进的方向是超银河	qm;qd jn;zj de;bu fh;dg xd;pk ui;op ik;zv yn;jg he;dk
 拉普大人艺人化计划	la;fl pu;ob da;ad rf;pd yi;cy rf;pd hw;rb ji;yu hw;dg
 新里杏珠	xn;jq li;aa xy;mk vu;wv
 简冻僵了	jm;vj ds;dd jd;rj le;aa

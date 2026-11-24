@@ -6,7 +6,7 @@
 
 ---
 name: moran.chars
-version: "20261116"
+version: "20261124"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -21372,16 +21372,16 @@ use_preset_vocabulary: false
 斷	dr;jy	0
 斸	vu;ji	0
 斸	vu;ju	0
-方	fh;wd	347176
-方	fh;dg	260382
+方	fh;dg	347176
+方	fh;wd	260382
 方	fh;dp	260382
 方	fh;dw	260382
-方	wh;wd	0
 方	wh;dg	0
+方	wh;wd	0
 方	wh;dp	0
 方	wh;dw	0
-方	ph;wd	0
 方	ph;dg	0
+方	ph;wd	0
 方	ph;dp	0
 方	ph;dw	0
 斺	ij;fj	0
@@ -127120,3 +127120,4 @@ use_preset_vocabulary: false
 𳏮	hw;nh	0
 𳏮	wu;nh	0
 𮤔	qu;md	0
+𳋬	ss;us	0
