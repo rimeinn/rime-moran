@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20261114"
+version: "20261124"
 sort: by_weight
 columns:
   - text
@@ -3056,6 +3056,7 @@ AVL樹	avlu
 筆談	bitj
 筆套	bitk
 補充體力	bitl
+必填	bitm
 畀	bitq
 筆筒	bits
 不成體統	bitt
@@ -7406,7 +7407,6 @@ Bilibili	bvj
 不亦說乎	byyh
 兵役	byyi
 表演藝術家	byyj
-不一樣了	byyl
 不遺餘力	byyl
 病因	byyn
 病源	byyr
@@ -18675,7 +18675,7 @@ E盤	epj
 方磚	fhvr
 房主	fhvu
 符號執行	fhvx
-方	fhw
+放	fhw
 風鬟霧鬢	fhwb
 發揮穩定	fhwd
 訪問	fhwf
@@ -19453,6 +19453,7 @@ E盤	epj
 風流儒雅	flry
 法律訴訟	flss
 富麗堂皇	flth
+分類討論	fltl
 法律條例	fltl
 風流倜儻	fltt
 犯了天條	fltt
@@ -20109,6 +20110,8 @@ F盤	fpj
 鍑	fujf
 鈇	fujf
 伏擊	fuji
+腹肌	fuji
+父級	fuji
 丰神俊朗	fujl
 福建	fujm
 附件	fujm
@@ -27655,6 +27658,7 @@ G盤	gpj
 敆	hehy
 赫	hei
 喝茶	heia
+核查	heia
 何愁	heib
 河牀	heid
 合成	heig
@@ -27762,6 +27766,7 @@ G盤	gpj
 和尚	heuh
 合適	heui
 何時	heui
+核實	heui
 和善	heuj
 黑惡勢力	heul
 和順	heup
@@ -31624,8 +31629,8 @@ H盤	hpj
 划船	hwir
 畫出	hwiu
 行伍出身	hwiu
-和往常一樣	hwiy
 毫無誠意	hwiy
+和往常一樣	hwiy
 海外赤子	hwiz
 鏵	hwj
 花椒	hwjc
@@ -37937,7 +37942,7 @@ I盤	ipj
 尖端科學	jdkx
 簡單可行	jdkx
 絕對可以	jdky
-漿料	jdlc
+醬料	jdlc
 加大力度	jdld
 絕對零度	jdld
 經典老番	jdlf
@@ -39122,6 +39127,7 @@ I盤	ipj
 接觸生活	jiuh
 即使	jiui
 及時	jiui
+即食	jiui
 飢	jiuj
 磯	jiuj
 嵴	jiuj
@@ -42230,7 +42236,7 @@ JK制服	jkvf
 建設成爲	juiw
 技術創新	juix
 積水成淵	juiy
-鉅	juj
+鋸	juj
 聚焦	jujc
 巨匠	jujd
 軍事基地	jujd
@@ -42246,8 +42252,8 @@ JK制服	jkvf
 精神境界	jujj
 鉅	jujj
 鋦	jujj
-鋸	jujj
 鐻	jujj
+鋸	jujj
 技術交流	jujl
 舉薦	jujm
 盡善盡美	jujm
@@ -44892,6 +44898,7 @@ JK制服	jkvf
 可	kedk
 客店	kedm
 刻度	kedu
+可讀	kedu
 客隊	kedv
 克	kee
 搕	kef
@@ -45073,6 +45080,7 @@ JK制服	jkvf
 頦	keyh
 可以	keyi
 刻意	keyi
+可疑	keyi
 科研	keyj
 可要	keyk
 刻印	keyn
@@ -50455,6 +50463,7 @@ JK制服	jkvf
 裸麥	loml
 落寞	lomo
 落幕	lomu
+螺母	lomu
 洛美	lomz
 犖	lon
 鵅	long
@@ -53242,6 +53251,8 @@ JK制服	jkvf
 每次	mc
 秒錶	mcbc
 妙筆	mcbi
+描邊	mcbm
+秒變	mcbm
 苗	mcc
 藐	mcce
 沒猜錯的話	mcch
@@ -54598,6 +54609,7 @@ JK制服	jkvf
 貿易	mkyi
 毛衣	mkyi
 冒煙	mkyj
+貓眼	mkyj
 貓腰	mkyk
 目空一切	mkyq
 冒用	mkys
@@ -83652,8 +83664,8 @@ U盤	upj
 生死相隨	usxs
 生死線上	usxu
 生死相許	usxx
-食色性也	usxy
 生死相依	usxy
+食色性也	usxy
 神色一黯	usya
 生死一搏	usyb
 生死予奪	usyd
@@ -88165,8 +88177,9 @@ U盤	upj
 證件名稱	vjmi
 驏	vjmi
 欃	vjmi
-盞	vjmj
+佔滿	vjmj
 沾滿	vjmj
+盞	vjmj
 展賣	vjml
 招軍買馬	vjmm
 粘膜	vjmo
@@ -100035,6 +100048,7 @@ WiFi	wifi
 喧騰	xrtg
 選題	xrti
 陷入痛苦	xrtk
+選填	xrtm
 喧天	xrtm
 信任投票	xrtp
 宣統	xrts
@@ -100086,6 +100100,7 @@ WiFi	wifi
 血肉相連	xrxl
 懸心	xrxn
 選修	xrxq
+選秀	xrxq
 玄學	xrxt
 玄虛	xrxu
 笑容消失	xrxu
@@ -102326,6 +102341,7 @@ WiFi	wifi
 血液透析	xytx
 型	xytx
 刑庭	xyty
+眩暈癱坐	xytz
 滎	xyu
 下意識的	xyud
 下意識地	xyud
@@ -102335,6 +102351,8 @@ WiFi	wifi
 校園生活	xyuh
 形式	xyui
 形勢	xyui
+行駛	xyui
+行事	xyui
 行善	xyuj
 享譽世界	xyuj
 虛盈實虧	xyuk
@@ -103324,6 +103342,7 @@ WiFi	wifi
 遊子	ybzi
 逌	ybzk
 悠哉	ybzl
+幼崽	ybzl
 也不怎麼	ybzm
 一部作品	ybzp
 遊蹤	ybzs
@@ -109314,6 +109333,7 @@ WiFi	wifi
 遇剌	yula
 優勝劣敗	yulb
 預料	yulc
+語料	yulc
 雨量	yuld
 因勢利導	yuld
 娛樂	yule
@@ -112455,6 +112475,7 @@ WiFi	wifi
 秶	zihc
 做出恢復	zihf
 自豪	zihk
+字號	zihk
 紫紅	zihs
 自會	zihv
 字彙	zihv
@@ -115400,6 +115421,7 @@ WiFi	wifi
 袖子	xozi
 修造	xozk
 選修	xrxo
+選秀	xrxo
 星宿	xyxo
 興修	xyxo
 優秀	ybxo
@@ -117429,6 +117451,7 @@ CD機	cdj
 大團結	dtj
 到頭來	dtl
 地圖炮	dtp
+代替品	dtp
 當頭炮	dtp
 打頭炮	dtp
 大提琴	dtq
@@ -119179,6 +119202,7 @@ git	git
 幾點了	jdl
 驚呆了	jdl
 經得起	jdq
+接地氣	jdq
 進度條	jdt
 絕對是	jdu
 幾點鐘	jdv
@@ -119871,6 +119895,7 @@ Keynote	knt
 兩分半	lfb
 亂紛紛	lff
 盧浮宮	lfg
+立方根	lfg
 浪費了	lfl
 兩方面	lfm
 立方米	lfm
@@ -120858,6 +120883,7 @@ Office	ofs
 跑不過	pbg
 瀑布汗	pbh
 平板車	pbi
+破壁機	pbj
 漂白劑	pbj
 跑不了	pbl
 怕不怕	pbp
@@ -120908,6 +120934,7 @@ PDF	pdf
 排行榜	phb
 平衡點	phd
 派活兒	phe
+拼好飯	phf
 胖乎乎	phh
 平滑肌	phj
 破壞力	phl
@@ -121208,6 +121235,7 @@ PVP	pvp
 強迫症	qpv
 起跑線	qpx
 欺騙性	qpx
+蹺蹺板	qqb
 蛐蛐兒	qqe
 親切感	qqg
 全球化	qqh
@@ -121524,7 +121552,7 @@ PVP	pvp
 腮幫子	sbz
 速測鏡	scj
 三次元	scy
-塞擦音	scy
+酸菜魚	scy
 蘇丹國	sdg
 三等獎	sdj
 SD卡	sdk
@@ -122840,6 +122868,7 @@ SD卡	sdk
 政治化	vvh
 着重號	vvh
 主戰場	vvi
+榨汁機	vvj
 政治課	vvk
 找找看	vvk
 住宅樓	vvl
@@ -123523,6 +123552,7 @@ Word	wrd
 修理工	xlg
 小狼毫	xlh
 心裏話	xlh
+西蘭花	xlh
 修理廠	xli
 行李架	xlj
 小兩口	xlk

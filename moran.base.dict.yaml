@@ -10,7 +10,7 @@
 
 ---
 name: moran.base
-version: "20261116"
+version: "20261124"
 sort: by_weight
 columns:
   - text
@@ -120492,7 +120492,7 @@ columns:
 描起來	mc;fm qi;zj ll;ad	1
 描述	mc;fm uu;zu	35376
 描述的	mc;fm uu;zu de;bu	4594
-描邊	mc;fm bm;zf	374
+描邊	mc;fm bm;zf	400
 描金	mc;fm jn;ra	37
 描鸞刺鳳	mc;fm lr;ns ci;dc fg;na	0
 描黛	mc;fm dl;hd	0

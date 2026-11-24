@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20261111"
+version: "20261124"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9457,6 +9457,14 @@ PV師	5	PV ui;vb
 冰博克	10
 蝳蜍	0	du;id yu;iy
 博資考	10
+宇樹	10
+力迫	10
+力迫法	10
+連續統	10
+社媒	100
+软粉	10
+震驚癱坐
+眩暈癱坐
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0

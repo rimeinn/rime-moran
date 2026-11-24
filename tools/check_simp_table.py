@@ -6,7 +6,7 @@ cc = opencc.OpenCC('t2s.json')
 RE_ENTRY = re.compile(r'^([^\t]+)\t')
 
 admitted_patterns = [
-    '乾', '雨濛濛', '矇眬'
+    '乾', '雨濛濛', '矇眬', '菜薹'
 ]
 
 def special(word):

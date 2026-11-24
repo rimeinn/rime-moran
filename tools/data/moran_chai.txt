@@ -8,7 +8,7 @@
 #
 # Primary Author: ksqsf
 # Contributors: 吕奉先, SunShine, 吥捨洳楓, 三山剑客, Kuroame, 吾因孰
-# Last-Modified-Date: 2026-11-06
+# Last-Modified-Date: 2026-11-24
 
 ⺁	px	{⺁}	
 ⺄	yi	{乙}	
@@ -14506,8 +14506,8 @@
 斷	jy	斤幺	
 斸	ji	斤虫	
 斸	ju	斤屬	
-方	wd	亠刀	
 方	dg	丶𠃌	
+方	wd	亠刀	
 方	dp	丶丿	
 方	dw	丶万	
 斺	fj	方介	
@@ -100340,6 +100340,7 @@
 𠁢	ay	丨乙	
 𳏮	nh	鳥畫	
 𮤔	md	門丶	
+𳋬	us	饣宋	
 
 # 待考
 
@@ -119861,7 +119862,6 @@
 #𳋧	nu	餒食	
 #𳋧	un	食餒	
 #𳋫	ul	食吝	
-#𳋬	us	饣宋	
 #𳋭	uh	食合	
 #𳋰	ua	食庵	
 #𳋴	ud	首豆	
