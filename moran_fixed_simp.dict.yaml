@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20261124"
+version: "20261127"
 sort: original
 columns:
   - text
@@ -107262,8 +107262,8 @@ U盘	upj
 优秀分子	yxfz
 优秀干部	yxgb
 有线广播	yxgb
-运行轨道	yxgd
 硬性规定	yxgd
+运行轨道	yxgd
 有些过分	yxgf
 一些国家	yxgj
 有效功率	yxgl
@@ -107505,9 +107505,9 @@ U盘	upj
 越想越气	yxyq
 硬性要求	yxyq
 有血有肉	yxyr
-影响因素	yxys
 烟消云散	yxys
 欲仙欲死	yxys
+影响因素	yxys
 又香又甜	yxyt
 越陷越深	yxyu
 言行一致	yxyv
