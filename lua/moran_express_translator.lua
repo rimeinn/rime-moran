@@ -1,10 +1,13 @@
 -- Moran Translator (for Express Editor)
 -- Copyright (c) 2023, 2024, 2025, 2026 ksqsf
 --
--- Ver: 0.12.2
+-- Ver: 0.12.3
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.12.3: 增加 `f 標記表示「重排但無提示符」，以解決此前
+-- quick_code_indicator_skip_chars = true 時單字不被重排的問題。
 --
 -- 0.12.2: 增加 disable_sentence_candidates_upto 設置，用於在特定碼數
 -- 前禁止整句輸出。
@@ -101,6 +104,11 @@ function top.init(env)
         -- 若不啓用 reorder_filter，則不允許造句時產生碼表輸出
         env.quick_code_in_sentence_making = false
     end
+    env.char_indicator = env.quick_code_indicator
+    if moran.get_config_bool(env, "moran/quick_code_indicator_skip_chars", false) then
+        -- `f 和 `F 都參與重排；`f 不顯示簡碼提示符。
+        env.char_indicator = env.name_space == "with_reorder" and "`f" or nil
+    end
 
     -- 出簡讓全相關配置項
     env.ijrq_enable = env.engine.schema.config:get_bool("moran/ijrq/enable")
@@ -124,7 +132,6 @@ function top.init(env)
 
     -- quick_code_hint 開啓時出簡讓全不應該輸出 comment，簡碼會由 quick_code_hint 輸出。
     env.enable_quick_code_hint = env.engine.schema.config:get_bool("moran/enable_quick_code_hint") or false
-    env.quick_code_indicator_skip_chars = env.engine.schema.config:get_bool("moran/quick_code_indicator_skip_chars") or false
 
     -- disable_sentence_candidates_upto
     env.disable_sentence_candidates_upto = env.engine.schema.config:get_int("moran/disable_sentence_candidates_upto") or 0
@@ -142,6 +149,14 @@ function top.fini(env)
     collectgarbage()
 end
 
+local function mark_fixed(env, cand, is_char)
+    if not is_char then
+        cand.comment = env.quick_code_indicator
+    elseif env.char_indicator then
+        cand.comment = env.char_indicator
+    end
+end
+
 function top.func(input, seg, env)
     top.output_begin(env)
 
@@ -152,7 +167,6 @@ function top.func(input, seg, env)
 
     local input_len = utf8.len(input)
     local inflexible = env.engine.context:get_option("inflexible")
-    local indicator = env.quick_code_indicator
     local suppress_smart = env.disable_sentence_candidates_upto >= input_len
 
     -- 用戶尚未選過字時，調用碼表。
@@ -226,9 +240,7 @@ function top.func(input, seg, env)
         for cand in moran.query_translation(env.fixed, input, seg, nil) do
             local cand_len = utf8.len(cand.text)
             if (env.inject_fixed_chars and cand_len == 1) or (env.inject_fixed_words and cand_len > 2 and not is_sentence_making) then
-                if cand_len ~= 1 or (cand_len == 1 and not env.quick_code_indicator_skip_chars) then
-                    cand:get_genuine().comment = indicator
-                end
+                mark_fixed(env, cand:get_genuine(), cand_len == 1)
                 if not inject_has_priority then
                     table.insert(env.output_injected_secondary, cand)
                 else
@@ -335,8 +347,9 @@ function top.func(input, seg, env)
     -- 最后：如果 smart 輸出爲空，並且 fixed 之前沒有調用過，此時再嘗試調用一下
     if env.output_i == 0 then
         for cand in moran.query_translation(env.fixed, input, seg, nil) do
-            if not is_sentence_making or utf8.len(cand.text) == 1 then
-                cand.comment = indicator
+            local is_char = utf8.len(cand.text) == 1
+            if not is_sentence_making or is_char then
+                mark_fixed(env, cand, is_char)
                 yield(cand)
             end
         end
@@ -365,9 +378,7 @@ function top.output(env, cand)
 end
 
 function top.output_char_from_fixed(env, cand)
-    if not env.quick_code_indicator_skip_chars then
-        cand.comment = env.quick_code_indicator
-    end
+    mark_fixed(env, cand, true)
     top.output(env, cand)
 end
 
