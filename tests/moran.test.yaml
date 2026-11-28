@@ -196,12 +196,33 @@ deploy:
         assert: eq(cand[1].text, '連接') and eq(cand[1].comment, "📌")
       - send: 'lmjx'
         assert: eq(cand[1].text, '連接') and eq(cand[1].comment, "📌")
+      - send: '/dn{Down}{Control+t}'
+        assert: eq(cand[1].text, '⌘') and eq(cand[1].comment, '📌')
+      - send: '/dn'
+        assert: eq(cand[1].text, '⌘') and eq(cand[2].text, '❖')
       - send: 'xad//xnraidg 2 xad'
         assert: eq(cand[1].text, '信愛等')
       - send: 'a{Control+t}{Down}{Control+t}{Control+equal}'
         assert: eq(cand[1].text, '啊') and eq(cand[2].text, '愛') and eq(cand[1].comment, "📌") and eq(cand[2].comment, "📌")
       - send: 'ai{Control+t}{Down}{Control+t}{Down}{Control+minus}'
         assert: eq(cand[1].text, '愛') and eq(cand[2].text, '唉') and eq(cand[1].comment, "📌") and eq(cand[2].comment, "📌")
+  pin_last_script_candidate:
+    patch:
+      moran/charset: trad
+      engine/translators: [script_translator@smart]
+      engine/filters:
+        - lua_filter@*moran_charset_filter
+        - lua_filter@*moran_pin*pin_filter
+        - lua_filter@*moran_reorder_filter
+        - reverse_lookup_filter # 驗證詞典候選，只有真正的詞典候選才能追加反查碼
+        # 不加 uniquifier 以驗證
+      reverse_lookup/dictionary: moran_fixed
+      reverse_lookup/append_comment: true
+    tests:
+      - send: gz
+        assert: eq(#cand, 1) and eq(cand[1].text, '給')
+      - send: 'gz{Control+t}'
+        assert: eq(#cand, 1) and eq(cand[1].text, '給') and cand[1].comment:match('^📌 .*gz')
 
   force_segmentation:
     tests:

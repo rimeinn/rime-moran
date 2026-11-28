@@ -1,10 +1,13 @@
 -- Moran Reorder Filter
 -- Copyright (c) 2023, 2024, 2025, 2026 ksqsf
 --
--- Ver: 0.3.1
+-- Ver: 0.3.2
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.3.2: 刪除在 0.3.0 後已經無用的 punct 特判，從而允許 punct 被 pin。
+-- 同時修正狀態機在只有一個 smart 候選時的邊界情況。
 --
 -- 0.3.1: 修復重構引入的 bug。
 --
@@ -58,10 +61,10 @@ end
 -- 狀態機定義
 --
 -- 輸入的候選格式是：
---   [pinned]* [fixed1]* smart1{1} [fixed2]* smart2+
+--   [pinned]* [fixed1]* smart1? [fixed2]* smart2*
 --
 -- + kCollecting   收集 pinned, fixed1, smart1
--- + kMatching     碰到了 smart2，且還有一些候選等待匹配
+-- + kMatching     碰到了 smart2 或輸入結束，處理等待匹配的候選
 -- + kDone         匹配完成，直傳所有剩餘候選
 --------------------------------------------------------------------------------
 local kCollecting  = 0
@@ -83,9 +86,7 @@ function Top.func(t_input, env)
     }
 
     for cand in t_input:iter() do
-        if cand:get_genuine().type == "punct" then
-            yield(cand)
-        elseif ctx.phase == kCollecting then
+        if ctx.phase == kCollecting then
             Top.handle_collecting(env, ctx, cand)
         elseif ctx.phase == kMatching then
             Top.handle_matching(env, ctx, cand)
@@ -94,7 +95,10 @@ function Top.func(t_input, env)
         end
     end
 
-    Top.flush(env, ctx, true)
+    if ctx.phase == kCollecting then
+        Top.start_matching(env, ctx)
+    end
+    Top.flush(env, ctx)
 end
 
 --------------------------------------------------------------------------------
@@ -125,13 +129,7 @@ function Top.handle_collecting(env, ctx, cand)
 
     else
         -- 看到了 smart2，轉向 kMatching 狀態。
-        ctx.phase = kMatching
-
-        -- 可能收集到了 smart1，先處理。
-        for _, c in ipairs(ctx.delay_slot) do
-            Top.handle_matching(env, ctx, c)
-        end
-        ctx.delay_slot = {}
+        Top.start_matching(env, ctx)
 
         -- 處理當前看到的 smart2。
         if ctx.phase == kDone then
@@ -142,9 +140,17 @@ function Top.handle_collecting(env, ctx, cand)
     end
 end
 
+function Top.start_matching(env, ctx)
+    ctx.phase = kMatching
+    for _, cand in ipairs(ctx.delay_slot) do
+        Top.handle_matching(env, ctx, cand)
+    end
+    ctx.delay_slot = {}
+end
+
 function Top.handle_matching(env, ctx, cand)
     if ctx.threshold == 0 then
-        Top.flush(env, ctx, false)
+        Top.flush(env, ctx)
         ctx.phase = kDone
         Top.yield_exact(env, cand)
         return
@@ -171,7 +177,7 @@ function Top.handle_matching(env, ctx, cand)
         end
     end
     if ctx.fixed_next > #ctx.fixed_list then
-        Top.flush(env, ctx, false)
+        Top.flush(env, ctx)
         ctx.phase = kDone
     end
 end
@@ -192,16 +198,9 @@ function Top.find_matching_scand(ctx, fcand)
 end
 
 --- 輸出所有剩下的候選。
-function Top.flush(env, ctx, include_delay_slot)
+function Top.flush(env, ctx)
     for i = ctx.fixed_next, #ctx.fixed_list do
         Top.yield_exact(env, ctx.fixed_list[i])
-    end
-    if include_delay_slot then
-        -- 只在完全匹配完畢後才清空延遲槽
-        for _, c in ipairs(ctx.delay_slot) do
-            Top.yield_exact(env, c)
-        end
-        ctx.delay_slot = {}
     end
     for _, c in ipairs(ctx.smart_list) do
         Top.yield_exact(env, c)
