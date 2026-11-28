@@ -44,6 +44,16 @@ deploy:
       - send: 'hk'
         assert: cand[1].text == '好' and cand[1].comment == "⚡"
 
+  fix_no_dict_script_candidate:
+    patch:
+      # 只有真正的詞典候選才會追加反查碼。
+      engine/filters/+: [reverse_lookup_filter]
+      reverse_lookup/dictionary: moran_fixed
+      reverse_lookup/append_comment: true
+    tests:
+      - send: 'hk'
+        assert: eq(cand[1].text, '好') and cand[1].comment:match('^⚡ .*hk')
+
   pin:
     tests:
       - send: 'lmjx'
