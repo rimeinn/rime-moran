@@ -87,6 +87,7 @@ function Top.func_no_dict(t_input, env)
     local composition = context.composition
     local segment = composition:back()
     local fixed = Candidate("fixed", segment._start, segment._end, needle, "`F")
+    fixed.preedit = input
     yield(fixed)
 
     for cand in t_input:iter() do
