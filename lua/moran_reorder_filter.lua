@@ -1,10 +1,12 @@
 -- Moran Reorder Filter
 -- Copyright (c) 2023, 2024, 2025, 2026 ksqsf
 --
--- Ver: 0.3.2
+-- Ver: 0.3.3
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.3.3: 適配 `f 標記。
 --
 -- 0.3.2: 刪除在 0.3.0 後已經無用的 punct 特判，從而允許 punct 被 pin。
 -- 同時修正狀態機在只有一個 smart 候選時和第一 fixed candidate 無法替
@@ -106,6 +108,10 @@ end
 -- 狀態轉移
 --------------------------------------------------------------------------------
 
+local function is_fixed_marker(comment)
+    return comment == "`F" or comment == "`f"
+end
+
 function Top.handle_collecting(env, ctx, cand)
     -- print('handle_collecting: ' .. cand.text .. ', type=' .. cand.type .. ', comment=' .. cand.comment)
 
@@ -116,7 +122,7 @@ function Top.handle_collecting(env, ctx, cand)
         ctx.pin_set[cand.text] = true
         ctx.additional_check = 1
 
-    elseif cand.comment == "`F" then
+    elseif is_fixed_marker(cand.comment) then
         -- 碼表輸出（且非 Pin）
         if not ctx.pin_set[cand.text] then
             table.insert(ctx.fixed_list, cand)
@@ -221,7 +227,7 @@ end
 ---
 --- Preedit 檢查確保 scand 不單單對應於從輸入的前綴。
 function Top.candidate_match(scand, fcand)
-    if scand.text ~= fcand.text then
+    if scand.text ~= fcand.text or is_fixed_marker(scand.comment) then
         return false
     end
     local spreedit = scand.preedit
@@ -237,6 +243,8 @@ end
 function Top.yield_exact(env, cand)
     if cand.comment == "`F" then
         cand.comment = env.quick_code_indicator
+    elseif cand.comment == "`f" then
+        cand.comment = ""
     end
     yield(cand)
 end

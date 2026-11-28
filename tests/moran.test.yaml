@@ -142,6 +142,30 @@ deploy:
       - send: lemd
         assert: eq(cand[1].text, "楽") and eq(cand[1].comment, "")
 
+  quick_code_indicator_skip_chars:
+    patch:
+      moran/quick_code_indicator_skip_chars: true
+      moran/disable_sentence_candidates_upto: 1
+      engine/translators: [lua_translator@*moran_express_translator@with_reorder]
+      engine/filters: [lua_filter@*moran_pin*pin_filter, lua_filter@*moran_reorder_filter]
+    tests:
+      # input    = [ table(給, "`f"), script(給), … ]
+      # expected = [ script(給, ""), … ]
+      - send: gz
+        assert: eq(cand[1].text, '給') and eq(cand[1].comment, '') and eq(count_text('給'), 1)
+      # input    = [ table(了, "`f"), … ]
+      # expected = [ table(了, ""), … ]
+      - send: l
+        assert: eq(cand[1].text, '了') and eq(cand[1].comment, '')
+      # input    = [ table(反倒是, "`F"), … ]
+      # expected = [ table(反倒是, "⚡️"), … ]
+      - send: fdu
+        assert: eq(cand[1].text, '反倒是') and eq(cand[1].comment, '⚡️')
+      # input    = [ pin(給), table(給, "`f"), script(給), … ]
+      # expected = [ script(給, "📌"), … ]
+      - send: 'gz{Control+t}'
+        assert: eq(cand[1].text, '給') and eq(cand[1].comment, '📌')
+
   word_filter:
     patch:
       moran/enable_word_filter: true
