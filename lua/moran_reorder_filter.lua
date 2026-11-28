@@ -7,7 +7,8 @@
 -- Licensed under GPLv3
 --
 -- 0.3.2: 刪除在 0.3.0 後已經無用的 punct 特判，從而允許 punct 被 pin。
--- 同時修正狀態機在只有一個 smart 候選時的邊界情況。
+-- 同時修正狀態機在只有一個 smart 候選時和第一 fixed candidate 無法替
+-- 換時的邊界情況。
 --
 -- 0.3.1: 修復重構引入的 bug。
 --
@@ -165,16 +166,10 @@ function Top.handle_matching(env, ctx, cand)
         local fcand = ctx.fixed_list[ctx.fixed_next]
         if not Top.reorderable(fcand) then
             Top.yield_exact(env, fcand)
-            ctx.fixed_next = ctx.fixed_next + 1
-        else
-            local si, scand = Top.find_matching_scand(ctx, fcand)
-            if si == nil then
-                break
-            end
-            Top.yield_smart_in_place_of_fixed(env, scand, fcand)
-            ctx.fixed_next = ctx.fixed_next + 1
-            table.remove(ctx.smart_list, si)
+        elseif not Top.try_yield_match(env, ctx, fcand) then
+            break
         end
+        ctx.fixed_next = ctx.fixed_next + 1
     end
     if ctx.fixed_next > #ctx.fixed_list then
         Top.flush(env, ctx)
@@ -186,21 +181,28 @@ end
 -- 輔助函數
 --------------------------------------------------------------------------------
 
---- 在 smart_list 中查找匹配 fcand 的 scand，返回下標和 scand 對象。
-function Top.find_matching_scand(ctx, fcand)
+--- 若有匹配的整句候選，將其輸出並從緩存移除。
+function Top.try_yield_match(env, ctx, fcand)
     for si = #ctx.smart_list, 1, -1 do
         local scand = ctx.smart_list[si]
         if Top.candidate_match(scand, fcand) then
-            return si, scand
+            Top.yield_smart_in_place_of_fixed(env, scand, fcand)
+            table.remove(ctx.smart_list, si)
+            return true
         end
     end
-    return nil, nil
+    return false
 end
 
 --- 輸出所有剩下的候選。
 function Top.flush(env, ctx)
     for i = ctx.fixed_next, #ctx.fixed_list do
-        Top.yield_exact(env, ctx.fixed_list[i])
+        local fcand = ctx.fixed_list[i]
+        -- 首個待處理候選已經匹配失敗，但後面的仍可能在緩存中找到。
+        local can_match = i > ctx.fixed_next and #ctx.smart_list > 0 and Top.reorderable(fcand)
+        if not (can_match and Top.try_yield_match(env, ctx, fcand)) then
+            Top.yield_exact(env, fcand)
+        end
     end
     for _, c in ipairs(ctx.smart_list) do
         Top.yield_exact(env, c)
