@@ -223,6 +223,15 @@ deploy:
         assert: eq(#cand, 1) and eq(cand[1].text, '給')
       - send: 'gz{Control+t}'
         assert: eq(#cand, 1) and eq(cand[1].text, '給') and cand[1].comment:match('^📌 .*gz')
+  pin_without_script_match:
+    patch:
+      # input    = [ pin(了), table(給), script(給) ]
+      # expected = [ pin(了), script(給) ]
+      # 不加 uniquifier，檢查「給」的固定候選是否被整句候選取代。
+      engine/filters: [lua_filter@*moran_pin*pin_filter, lua_filter@*moran_reorder_filter]
+    tests:
+      - send: 'gz//le 2 gz'
+        assert: eq(cand[1].text, '了') and eq(cand[2].text, '給') and eq(count_text('給'), 1)
 
   force_segmentation:
     tests:
