@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20261124"
+version: "20261127"
 sort: by_weight
 columns:
   - text
@@ -110400,8 +110400,8 @@ WiFi	wifi
 優秀分子	yxfz
 優秀幹部	yxgb
 有線廣播	yxgb
-運行軌道	yxgd
 硬性規定	yxgd
+運行軌道	yxgd
 有些過分	yxgf
 一些國家	yxgj
 有效功率	yxgl
@@ -110642,9 +110642,9 @@ WiFi	wifi
 越想越氣	yxyq
 硬性要求	yxyq
 有血有肉	yxyr
-影響因素	yxys
 煙消雲散	yxys
 欲仙欲死	yxys
+影響因素	yxys
 又香又甜	yxyt
 越陷越深	yxyu
 言行一致	yxyv
